@@ -37,6 +37,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://nd-cyber.com/blog)
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
 - [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
 - [oh-my-zsh & powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
 - [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
