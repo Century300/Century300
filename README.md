@@ -33,11 +33,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
 
 ---
-- [Plex media server unable to connect? Fix by configuring firewall UFW](https://www.youtube.com/watch?v=-UTHUouiSVQ&t=52s)
-- [How to contact YouTube support in 2021, lost access to YouTube channel](https://www.youtube.com/watch?v=dQu735Nmp14)
-- [How to fix VMware no internet connection in 2021 in 1.5 minutes](https://www.youtube.com/watch?v=7UwhtDtHgOc&t=1s)
-- [25 Minutes Music: Relaxing Guitar with Pomodoro timer & bell in HD view](https://www.youtube.com/watch?v=Wq8ZsjbbypE&t=294s)
-- [25 Minutes Music: Relaxing Piano with Pomodoro timer & bell in HD view](https://www.youtube.com/watch?v=_eLktexPniw)
+
 ### 📕 Latest Blog Posts
 
 - [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
