@@ -35,21 +35,11 @@
 - [25 Minutes Music: Relaxing Piano with Pomodoro timer & bell in HD view](https://www.youtube.com/watch?v=_eLktexPniw)
 ### 📕 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://nd-cyber.com/blog)
-
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
 - [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
 - [oh-my-zsh & powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
 - [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
 - [How to contact YouTube support in 2021, lost access to YouTube channel](https://nd-cyber.com/how-to-contact-youtube-support-in-2021-lost-access-to-youtube-channel)
 - [Facebook was down today after whistleblower Frances Haugen aired](https://nd-cyber.com/facebook-was-down-today-after-whistleblower-frances-haugen-aired)
-<!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nd-cyber.com/blog)
 
