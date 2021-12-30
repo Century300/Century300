@@ -20,7 +20,7 @@
 
 ---
 
-### 📺 Today Cyber Security news from DarkReading.com
+### 📕 Today Cyber Security News from DarkReading.com
 
 <!-- DARKREADING:START -->
 - [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
