@@ -20,6 +20,15 @@
 
 ---
 
+### 📺 Today Cyber Security news from DarkReading.com
+
+<!-- DARKREADING:START -->
+<!-- DARKREADING:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
+
+---
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
