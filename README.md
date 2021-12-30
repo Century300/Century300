@@ -30,7 +30,7 @@
 - [AV-Comparatives Reveals Results of Long-Term Tests of 19 Leading Endpoint Security Solutions](https://www.darkreading.com/endpoint/av-comparatives-reveals-results-of-long-term-tests-of-19-leading-endpoint-security-solutions)
 <!-- DARKREADING:END -->
 
-➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
+➡️ [more news...](https://www.darkreading.com/)
 
 ---
 
