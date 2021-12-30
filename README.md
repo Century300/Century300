@@ -23,6 +23,11 @@
 ### 📺 Today Cyber Security news from DarkReading.com
 
 <!-- DARKREADING:START -->
+- [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
+- [7 Steps for Navigating a Zero-Trust Journey](https://www.darkreading.com/edge-slideshows/7-steps-for-navigating-a-zero-trust-journey-)
+- [The Log4j Flaw Will Take Years to be Fully Addressed](https://www.darkreading.com/tech-trends/the-log4j-flaw-will-take-years-to-be-fully-addressed)
+- [After Google&#39;s Landmark Settlement, How Ad Networks Should Tackle Child Privacy](https://www.darkreading.com/endpoint/after-google-s-landmark-settlement-how-ad-networks-should-tackle-child-privacy)
+- [AV-Comparatives Reveals Results of Long-Term Tests of 19 Leading Endpoint Security Solutions](https://www.darkreading.com/endpoint/av-comparatives-reveals-results-of-long-term-tests-of-19-leading-endpoint-security-solutions)
 <!-- DARKREADING:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
