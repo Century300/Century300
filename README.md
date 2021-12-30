@@ -23,11 +23,11 @@
 ### 📕 Today Cyber Security News from DarkReading.com
 
 <!-- DARKREADING:START -->
+- [Zero Trust and Access: Protecting the Keys to the Kingdom](https://www.darkreading.com/operations/zero-trust-and-access-protecting-the-keys-to-the-kingdom)
 - [In the Fight Against Cybercrime, Takedowns Are Only Temporary](https://www.darkreading.com/threat-intelligence/takedowns-prove-temporary-tactic-in-cybercrime-fight)
 - [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
 - [7 Steps for Navigating a Zero-Trust Journey](https://www.darkreading.com/edge-slideshows/7-steps-for-navigating-a-zero-trust-journey-)
 - [The Log4j Flaw Will Take Years to be Fully Addressed](https://www.darkreading.com/tech-trends/the-log4j-flaw-will-take-years-to-be-fully-addressed)
-- [After Google&#39;s Landmark Settlement, How Ad Networks Should Tackle Child Privacy](https://www.darkreading.com/endpoint/after-google-s-landmark-settlement-how-ad-networks-should-tackle-child-privacy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
