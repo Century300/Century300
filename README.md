@@ -36,6 +36,10 @@
 
 ### 📕 Latest Blog Posts
 
+
+
+---
+(To delete)
 - [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
 - [oh-my-zsh & powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
 - [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
@@ -44,7 +48,6 @@
 
 ➡️ [more blog posts...](https://nd-cyber.com/blog)
 
----
 
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
