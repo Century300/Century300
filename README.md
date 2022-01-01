@@ -58,7 +58,6 @@
 ➡️ [more blog posts...](https://nd-cyber.com/blog)
 
 ---
-
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
 [youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
