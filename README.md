@@ -19,8 +19,7 @@
 <br />
 
 ---
-
-### 📕 Today Cyber Security News from DarkReading.com
+### 📰 Today Cyber Security News from DarkReading.com
 
 <!-- DARKREADING:START -->
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
@@ -33,7 +32,6 @@
 ➡️ [more news...](https://www.darkreading.com/)
 
 ---
-
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -47,7 +45,6 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
 
 ---
-
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
