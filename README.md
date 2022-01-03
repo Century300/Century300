@@ -76,7 +76,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
 
-[website]: (https://nd-cyber.com){target="_blank"}
+[website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
 [youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
 [facebook]: https://www.facebook.com/ndcyber
