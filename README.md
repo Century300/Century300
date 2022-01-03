@@ -58,6 +58,8 @@
 ➡️ [more blog posts...](https://nd-cyber.com/blog)
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Century300)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
 [youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
