@@ -65,6 +65,8 @@
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Century300&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Century300)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
 [youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
