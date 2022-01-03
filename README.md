@@ -22,6 +22,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Adding Resiliency to BGP Avoids Network Outages, Data Loss](https://www.darkreading.com/edge-articles/adding-resiliency-to-bgp-avoids-network-outages-data-loss)
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
 - [Zero Trust and Access: Protecting the Keys to the Kingdom](https://www.darkreading.com/operations/zero-trust-and-access-protecting-the-keys-to-the-kingdom)
 - [In the Fight Against Cybercrime, Takedowns Are Only Temporary](https://www.darkreading.com/threat-intelligence/takedowns-prove-temporary-tactic-in-cybercrime-fight)
@@ -29,7 +30,6 @@
 - [7 Steps for Navigating a Zero-Trust Journey](https://www.darkreading.com/edge-slideshows/7-steps-for-navigating-a-zero-trust-journey-)
 - [The Log4j Flaw Will Take Years to be Fully Addressed](https://www.darkreading.com/tech-trends/the-log4j-flaw-will-take-years-to-be-fully-addressed)
 - [After Google&#39;s Landmark Settlement, How Ad Networks Should Tackle Child Privacy](https://www.darkreading.com/endpoint/after-google-s-landmark-settlement-how-ad-networks-should-tackle-child-privacy)
-- [AV-Comparatives Reveals Results of Long-Term Tests of 19 Leading Endpoint Security Solutions](https://www.darkreading.com/endpoint/av-comparatives-reveals-results-of-long-term-tests-of-19-leading-endpoint-security-solutions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
