@@ -22,6 +22,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4j Highlights Need for Better Handle on Software Dependencies](https://www.darkreading.com/application-security/log4j-highlights-need-for-better-handle-on-software-dependencies)
 - [Name That Edge Toon: In Your Face!](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-your-face-)
 - [Creating the Next Generation of Secure Developers](https://www.darkreading.com/careers-and-people/creating-the-next-generation-of-secure-developers)
 - [Adding Resiliency to BGP Avoids Network Outages, Data Loss](https://www.darkreading.com/edge-articles/adding-resiliency-to-bgp-avoids-network-outages-data-loss)
@@ -29,7 +30,6 @@
 - [Zero Trust and Access: Protecting the Keys to the Kingdom](https://www.darkreading.com/operations/zero-trust-and-access-protecting-the-keys-to-the-kingdom)
 - [In the Fight Against Cybercrime, Takedowns Are Only Temporary](https://www.darkreading.com/threat-intelligence/takedowns-prove-temporary-tactic-in-cybercrime-fight)
 - [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
-- [7 Steps for Navigating a Zero-Trust Journey](https://www.darkreading.com/edge-slideshows/7-steps-for-navigating-a-zero-trust-journey-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
