@@ -19,7 +19,7 @@
 <br />
 
 ---
-### 📰 Today Cyber Security News from DarkReading.com
+### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
