@@ -30,8 +30,6 @@
 - [The Log4j Flaw Will Take Years to be Fully Addressed](https://www.darkreading.com/tech-trends/the-log4j-flaw-will-take-years-to-be-fully-addressed)
 - [After Google&#39;s Landmark Settlement, How Ad Networks Should Tackle Child Privacy](https://www.darkreading.com/endpoint/after-google-s-landmark-settlement-how-ad-networks-should-tackle-child-privacy)
 - [AV-Comparatives Reveals Results of Long-Term Tests of 19 Leading Endpoint Security Solutions](https://www.darkreading.com/endpoint/av-comparatives-reveals-results-of-long-term-tests-of-19-leading-endpoint-security-solutions)
-- [An Adaptive Security Strategy Is Critical for Stopping Advanced Attacks](https://www.darkreading.com/vulnerabilities-threats/an-adaptive-security-strategy-is-critical-for-stopping-advanced-attacks)
-- [A Year in Microsoft Bugs: The Most Critical, Overlooked &amp; Hard to Patch](https://www.darkreading.com/threat-intelligence/a-year-in-microsoft-bugs-the-most-critical-overlooked-and-hard-to-patch)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
