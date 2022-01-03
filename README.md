@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nd-cyber.com" width="24px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
-[<img align="left" alt="nd-cyber | Twitter" width="26px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
-[<img align="left" alt="nd-cyber | Facebook" width="28px" src="https://www.svgrepo.com/show/138943/facebook.svg" />][facebook]
-[<img align="left" alt="nd-cyber | Patreon" width="30px" src="https://www.svgrepo.com/show/331529/patreon-v2.svg" />][patreon]
-[<img align="left" alt="nd-cyber | YouTube" width="60px" src="https://www.svgrepo.com/show/95009/youtube.svg" />][youtube]
+[<img align="left" alt="nd-cyber.com" width="40px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
+[<img align="left" alt="nd-cyber | Twitter" width="40px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
+[<img align="left" alt="nd-cyber | Facebook" width="40px" src="https://www.svgrepo.com/show/138943/facebook.svg" />][facebook]
+[<img align="left" alt="nd-cyber | Patreon" width="40px" src="https://www.svgrepo.com/show/331529/patreon-v2.svg" />][patreon]
+[<img align="left" alt="nd-cyber | YouTube" width="40px" src="https://www.svgrepo.com/show/95009/youtube.svg" />][youtube]
 
 <br />
 
