@@ -1,4 +1,4 @@
-### Hi there, I'm Nam - aka Century300 - <a href="https://www.nd-cyber.com" target="_blank"> nd-cyber.com </a> 👋 
+### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] 👋 
 
 ## I'm a Husband, YouTuber, and Pentester!
 
