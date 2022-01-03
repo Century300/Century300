@@ -15,4 +15,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DARKREADING"
+          max_post_count: 10
           feed_list: "https://www.darkreading.com/rss.xml"
