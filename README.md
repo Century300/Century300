@@ -22,6 +22,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Plan What to Buy With Funds From the Infrastructure Bill](https://www.darkreading.com/dr-tech/cisos-plan-what-to-buy-with-funds-from-the-infrastructure-bill)
 - [Florida&#39;s Broward Health Confirms October 2021 Breach](https://www.darkreading.com/attacks-breaches/florida-s-broward-health-confirms-october-2021-breach)
 - [Pathr.ai Reaffirms Position as Privacy-Centric Solution for Retailers with Spatial Intelligence Platform](https://www.darkreading.com/privacy/pathr-ai-reaffirms-position-as-privacy-centric-solution-for-retailers-with-spatial-intelligence-platform-)
 - [Log4j Highlights Need for Better Handle on Software Dependencies](https://www.darkreading.com/application-security/log4j-highlights-need-for-better-handle-on-software-dependencies)
@@ -29,7 +30,6 @@
 - [Creating the Next Generation of Secure Developers](https://www.darkreading.com/careers-and-people/creating-the-next-generation-of-secure-developers)
 - [Adding Resiliency to BGP Avoids Network Outages, Data Loss](https://www.darkreading.com/edge-articles/adding-resiliency-to-bgp-avoids-network-outages-data-loss)
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
-- [Zero Trust and Access: Protecting the Keys to the Kingdom](https://www.darkreading.com/operations/zero-trust-and-access-protecting-the-keys-to-the-kingdom)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
