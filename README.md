@@ -22,6 +22,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pathr.ai Reaffirms Position as Privacy-Centric Solution for Retailers with Spatial Intelligence Platform](https://www.darkreading.com/privacy/pathr-ai-reaffirms-position-as-privacy-centric-solution-for-retailers-with-spatial-intelligence-platform-)
 - [Log4j Highlights Need for Better Handle on Software Dependencies](https://www.darkreading.com/application-security/log4j-highlights-need-for-better-handle-on-software-dependencies)
 - [Name That Edge Toon: In Your Face!](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-your-face-)
 - [Creating the Next Generation of Secure Developers](https://www.darkreading.com/careers-and-people/creating-the-next-generation-of-secure-developers)
@@ -29,7 +30,6 @@
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
 - [Zero Trust and Access: Protecting the Keys to the Kingdom](https://www.darkreading.com/operations/zero-trust-and-access-protecting-the-keys-to-the-kingdom)
 - [In the Fight Against Cybercrime, Takedowns Are Only Temporary](https://www.darkreading.com/threat-intelligence/takedowns-prove-temporary-tactic-in-cybercrime-fight)
-- [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
