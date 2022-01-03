@@ -22,6 +22,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: In Your Face!](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-your-face-)
 - [Creating the Next Generation of Secure Developers](https://www.darkreading.com/careers-and-people/creating-the-next-generation-of-secure-developers)
 - [Adding Resiliency to BGP Avoids Network Outages, Data Loss](https://www.darkreading.com/edge-articles/adding-resiliency-to-bgp-avoids-network-outages-data-loss)
 - [Getting Started With Threat-Informed Security Programs](https://www.darkreading.com/edge-articles/getting-started-with-threat-informed-security-programs)
@@ -29,7 +30,6 @@
 - [In the Fight Against Cybercrime, Takedowns Are Only Temporary](https://www.darkreading.com/threat-intelligence/takedowns-prove-temporary-tactic-in-cybercrime-fight)
 - [Why Cyber Due Diligence Is Essential to the M&amp;A Process](https://www.darkreading.com/vulnerabilities-threats/why-cyber-due-diligence-is-essential-to-the-m-a-process)
 - [7 Steps for Navigating a Zero-Trust Journey](https://www.darkreading.com/edge-slideshows/7-steps-for-navigating-a-zero-trust-journey-)
-- [The Log4j Flaw Will Take Years to be Fully Addressed](https://www.darkreading.com/tech-trends/the-log4j-flaw-will-take-years-to-be-fully-addressed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
