@@ -1,5 +1,12 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] 👋 
 
+
+![coding_picture](https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif)
+
+
+
+
+
 ## I'm a Husband, YouTuber, and Pentester!
 
 - 🔭 I launched my YouTube blog recently: [ND Cyber Blog][youtube]!
