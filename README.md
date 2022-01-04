@@ -24,6 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mobile Application Security: 2021&#39;s Breaches](https://www.darkreading.com/application-security/mobile-application-security-2021-s-breaches)
 - [Vinnie Liu Has a Mission: Keeping People Safe Online and Offline](https://www.darkreading.com/edge-articles/vinnie-liu-has-a-mission-keeping-people-safe-online-and-offline)
 - [Why CIOs Should Report to CISOs](https://www.darkreading.com/careers-and-people/why-cios-should-be-reporting-to-cisos)
 - [Log4j Remediation Rules Now Available for WhiteSource Renovate and Enterprise](https://www.darkreading.com/attacks-breaches/log4j-remediation-rules-now-available-for-whitesource-renovate-and-enterprise)
@@ -31,7 +32,6 @@
 - [CISOs Plan What to Buy With Funds From the Infrastructure Bill](https://www.darkreading.com/dr-tech/cisos-plan-what-to-buy-with-funds-from-the-infrastructure-bill)
 - [Florida&#39;s Broward Health Confirms October 2021 Breach](https://www.darkreading.com/attacks-breaches/florida-s-broward-health-confirms-october-2021-breach)
 - [Pathr.ai Reaffirms Position as Privacy-Centric Solution for Retailers with Spatial Intelligence Platform](https://www.darkreading.com/privacy/pathr-ai-reaffirms-position-as-privacy-centric-solution-for-retailers-with-spatial-intelligence-platform-)
-- [Log4j Highlights Need for Better Handle on Software Dependencies](https://www.darkreading.com/application-security/log4j-highlights-need-for-better-handle-on-software-dependencies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
