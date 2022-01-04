@@ -1,6 +1,7 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] 👋 
 
 ## I'm a Husband, YouTuber, and Pentester!
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="500" height="320" />
 
 - 🔭 I launched my YouTube blog recently: [ND Cyber Blog][youtube]!
 - 🌱 I’m currently learning everything 🤣
@@ -8,7 +9,6 @@
 - 🥅 2022 Goals: reach top 1% in TryHackMe.com and grow my YouTube channel
 - ⚡ Fun fact: I love reading and travelling
 
-  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="500" height="320" />
 
 ### Connect with me:
 
