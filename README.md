@@ -24,7 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [CrowdStrike Incorporates Intel CPU Telemetry into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
+- [CrowdStrike Incorporates Intel CPU Telemetry Into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
 - [McMenamins Breach Affected 23 Years of Employee Data](https://www.darkreading.com/attacks-breaches/mcmenamins-breach-affected-23-years-of-employee-data)
 - [Attackers Exploit Log4j Flaws in Hands-on-Keyboard Attacks to Drop Reverse Shells](https://www.darkreading.com/application-security/attackers-using-log4j-flaws-in-hands-on-keyboard-attacks-to-drop-reverse-shells)
 - [Google Buys Siemplify to Get Ahead in Cloud Security](https://www.darkreading.com/operations/google-buys-siemplify-to-get-ahead-in-cloud-security)
