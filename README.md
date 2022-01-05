@@ -24,14 +24,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FTC: Companies Could Face Legal Action for Failing to Patch Log4j](https://www.darkreading.com/vulnerabilities-threats/ftc-companies-could-face-legal-action-for-failing-to-patch-log4j)
+- [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.darkreading.com/edge-ask-the-experts/which-cloud-strategy-is-right-for-my-organization-security-needs)
 - [Why We Need To Reframe the False-Positive Problem](https://www.darkreading.com/attacks-breaches/why-we-need-to-reframe-the-false-positive-problem)
 - [Putting Ransomware Gangs Out of Business With AI](https://www.darkreading.com/dr-tech/putting-ransomware-gangs-out-of-business-with-ai)
 - [The World Is Increasingly Controlled and Transformed by Algorithms](https://www.darkreading.com/operations/the-world-is-increasingly-controlled-and-transformed-by-algorithms)
 - [CrowdStrike Incorporates Intel CPU Telemetry Into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
 - [McMenamins Breach Affected 23 Years of Employee Data](https://www.darkreading.com/attacks-breaches/mcmenamins-breach-affected-23-years-of-employee-data)
 - [Attackers Exploit Log4j Flaws in Hands-on-Keyboard Attacks to Drop Reverse Shells](https://www.darkreading.com/application-security/attackers-using-log4j-flaws-in-hands-on-keyboard-attacks-to-drop-reverse-shells)
-- [Google Buys Siemplify to Get Ahead in Cloud Security](https://www.darkreading.com/operations/google-buys-siemplify-to-get-ahead-in-cloud-security)
-- [Mobile Application Security: 2021&#39;s Breaches](https://www.darkreading.com/application-security/mobile-application-security-2021-s-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
