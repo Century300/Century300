@@ -24,6 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Incorporates Intel CPU Telemetry into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
 - [McMenamins Breach Affected 23 Years of Employee Data](https://www.darkreading.com/attacks-breaches/mcmenamins-breach-affected-23-years-of-employee-data)
 - [Attackers Exploit Log4j Flaws in Hands-on-Keyboard Attacks to Drop Reverse Shells](https://www.darkreading.com/application-security/attackers-using-log4j-flaws-in-hands-on-keyboard-attacks-to-drop-reverse-shells)
 - [Google Buys Siemplify to Get Ahead in Cloud Security](https://www.darkreading.com/operations/google-buys-siemplify-to-get-ahead-in-cloud-security)
@@ -31,7 +32,6 @@
 - [Vinnie Liu Has a Mission: Keeping People Safe Online and Offline](https://www.darkreading.com/edge-articles/vinnie-liu-has-a-mission-keeping-people-safe-online-and-offline)
 - [Why CIOs Should Report to CISOs](https://www.darkreading.com/careers-and-people/why-cios-should-be-reporting-to-cisos)
 - [Log4j Remediation Rules Now Available for WhiteSource Renovate and Enterprise](https://www.darkreading.com/attacks-breaches/log4j-remediation-rules-now-available-for-whitesource-renovate-and-enterprise)
-- [Palo Alto Networks Appoints Helmut Reisinger to Leadership Team](https://www.darkreading.com/cloud/palo-alto-networks-appoints-helmut-reisinger-to-leadership-team)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
