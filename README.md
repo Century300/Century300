@@ -24,6 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why We Need To Reframe the False-Positive Problem](https://www.darkreading.com/attacks-breaches/why-we-need-to-reframe-the-false-positive-problem)
 - [Putting Ransomware Gangs Out of Business With AI](https://www.darkreading.com/dr-tech/putting-ransomware-gangs-out-of-business-with-ai)
 - [The World Is Increasingly Controlled and Transformed by Algorithms](https://www.darkreading.com/operations/the-world-is-increasingly-controlled-and-transformed-by-algorithms)
 - [CrowdStrike Incorporates Intel CPU Telemetry Into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
@@ -31,7 +32,6 @@
 - [Attackers Exploit Log4j Flaws in Hands-on-Keyboard Attacks to Drop Reverse Shells](https://www.darkreading.com/application-security/attackers-using-log4j-flaws-in-hands-on-keyboard-attacks-to-drop-reverse-shells)
 - [Google Buys Siemplify to Get Ahead in Cloud Security](https://www.darkreading.com/operations/google-buys-siemplify-to-get-ahead-in-cloud-security)
 - [Mobile Application Security: 2021&#39;s Breaches](https://www.darkreading.com/application-security/mobile-application-security-2021-s-breaches)
-- [Vinnie Liu Has a Mission: Keeping People Safe Online and Offline](https://www.darkreading.com/edge-articles/vinnie-liu-has-a-mission-keeping-people-safe-online-and-offline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
