@@ -1,5 +1,9 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] 👋 
 
+![GitHub User's stars](https://img.shields.io/github/stars/century300?logo=github&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/nd_cybersec?color=1da1f2&logo=Twitter&style=for-the-badge)
+
 ## I'm a Husband, YouTuber, and Pentester!
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="480" height="270" />
 
@@ -18,6 +22,12 @@
 [<img align="left" alt="nd-cyber | Patreon" width="35px" src="https://www.svgrepo.com/show/331529/patreon-v2.svg" />][patreon]
 [<img align="left" alt="nd-cyber | YouTube" width="35px" src="https://www.svgrepo.com/show/95009/youtube.svg" />][youtube]
 
+<br />
+
+### Technologies
+
+
+<br />
 <br />
 
 ---
@@ -66,6 +76,15 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Century300&show_icons=true&theme=radical&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Century300&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Century300&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
 
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
