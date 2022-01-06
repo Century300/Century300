@@ -5,7 +5,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/nd_cybersec?color=1da1f2&logo=Twitter&style=for-the-badge)
 
 ## I'm a Husband, YouTuber, and Pentester!
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="200" />
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="250" />
 
 - 🔭 I launched my YouTube blog recently: [ND Cyber Blog][youtube]!
 - 🌱 I’m currently learning everything 🤣
