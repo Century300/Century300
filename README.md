@@ -24,6 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hybrid Multicloud Strategies Are Keeping the Public Sector at the Forefront of Threat Mitigation](https://www.darkreading.com/cloud/hybrid-multicloud-strategies-are-keeping-the-public-sector-at-the-forefront-of-threat-mitigation)
 - [New Attack Campaign Exploits Microsoft Signature Verification](https://www.darkreading.com/attacks-breaches/new-attack-campaign-exploits-microsoft-signature-verification)
 - [NY AG: 1.1M Online Consumer Accounts Found Compromised in Credential-Stuffing Attacks](https://www.darkreading.com/threat-intelligence/ny-ag-1-1m-online-accounts-compromised-in-credential-stuffing-attack)
 - [FTC: Companies Could Face Legal Action for Failing to Patch Log4j](https://www.darkreading.com/vulnerabilities-threats/ftc-companies-could-face-legal-action-for-failing-to-patch-log4j)
@@ -31,7 +32,6 @@
 - [Why We Need To Reframe the False-Positive Problem](https://www.darkreading.com/attacks-breaches/why-we-need-to-reframe-the-false-positive-problem)
 - [Putting Ransomware Gangs Out of Business With AI](https://www.darkreading.com/dr-tech/putting-ransomware-gangs-out-of-business-with-ai)
 - [The World Is Increasingly Controlled and Transformed by Algorithms](https://www.darkreading.com/operations/the-world-is-increasingly-controlled-and-transformed-by-algorithms)
-- [CrowdStrike Incorporates Intel CPU Telemetry Into Falcon Sensor](https://www.darkreading.com/dr-tech/crowdstrike-incorporates-intel-cpu-telemetry-into-falcon-sensor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
