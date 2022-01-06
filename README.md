@@ -24,6 +24,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CDN Cache Poisoning Allows DoS Attacks Against Cloud Apps](https://www.darkreading.com/cloud/cache-poisoning-of-cdns-allows-dos-attacks-against-cloud-apps)
 - [Rethinking Cybersecurity Jobs as a Vocation Instead of a Profession](https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession)
 - [New Mac Malware Samples Underscore Growing Threat](https://www.darkreading.com/vulnerabilities-threats/new-mac-malware-samples-underscore-growing-threat)
 - [Hybrid Multicloud Strategies Are Keeping the Public Sector at the Forefront of Threat Mitigation](https://www.darkreading.com/cloud/hybrid-multicloud-strategies-are-keeping-the-public-sector-at-the-forefront-of-threat-mitigation)
@@ -31,7 +32,6 @@
 - [NY AG: 1.1M Online Consumer Accounts Found Compromised in Credential-Stuffing Attacks](https://www.darkreading.com/threat-intelligence/ny-ag-1-1m-online-accounts-compromised-in-credential-stuffing-attack)
 - [FTC: Companies Could Face Legal Action for Failing to Patch Log4j](https://www.darkreading.com/vulnerabilities-threats/ftc-companies-could-face-legal-action-for-failing-to-patch-log4j)
 - [Which Cloud Strategy Is Right For My Organization&#39;s Security Needs?](https://www.darkreading.com/edge-ask-the-experts/which-cloud-strategy-is-right-for-my-organization-security-needs)
-- [Why We Need To Reframe the False-Positive Problem](https://www.darkreading.com/attacks-breaches/why-we-need-to-reframe-the-false-positive-problem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
