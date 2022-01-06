@@ -34,6 +34,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Docs Comments Weaponized in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/google-docs-comments-weaponized-in-new-phishing-campaign)
 - [New Mexico&#39;s Bernalillo County Investigates Ransomware Attack](https://www.darkreading.com/attacks-breaches/new-mexico-s-bernalillo-county-investigates-ransomware-attack)
 - [Convergence Zone: CNAPP Aids in Integrated Cloud-Native Security](https://www.darkreading.com/cloud/convergence-zone-cnapp-aids-in-integrated-cloud-native-security)
 - [CDN Cache Poisoning Allows DoS Attacks Against Cloud Apps](https://www.darkreading.com/cloud/cache-poisoning-of-cdns-allows-dos-attacks-against-cloud-apps)
@@ -41,7 +42,6 @@
 - [New Mac Malware Samples Underscore Growing Threat](https://www.darkreading.com/vulnerabilities-threats/new-mac-malware-samples-underscore-growing-threat)
 - [Hybrid Multicloud Strategies Are Keeping the Public Sector at the Forefront of Threat Mitigation](https://www.darkreading.com/cloud/hybrid-multicloud-strategies-are-keeping-the-public-sector-at-the-forefront-of-threat-mitigation)
 - [New Attack Campaign Exploits Microsoft Signature Verification](https://www.darkreading.com/attacks-breaches/new-attack-campaign-exploits-microsoft-signature-verification)
-- [NY AG: 1.1M Online Consumer Accounts Found Compromised in Credential-Stuffing Attacks](https://www.darkreading.com/threat-intelligence/ny-ag-1-1m-online-accounts-compromised-in-credential-stuffing-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
