@@ -58,8 +58,6 @@
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-grey?style=flat-square&logo=virtualbox)
 ![vmware](https://img.shields.io/badge/vmware-grey?style=flat-square&logo=vmware&logoColor=white)
 
-<br />
-
 ---
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
