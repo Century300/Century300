@@ -64,6 +64,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Proactively Limit Damage From BlackMatter Ransomware](https://www.darkreading.com/vulnerabilities-threats/organizations-can-proactively-limit-damage-from-blackmatter-ransomware)
 - [7 Predictions for Global Energy Cybersecurity in 2022](https://www.darkreading.com/vulnerabilities-threats/7-predictions-for-global-energy-cybersecurity-in-2022)
 - [Enterprises Worry About Increased Data Risk in Cloud](https://www.darkreading.com/edge-threat-monitor/enterprises-worry-about-increased-data-risk-in-cloud)
 - [Google Docs Comments Weaponized in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/google-docs-comments-weaponized-in-new-phishing-campaign)
@@ -71,7 +72,6 @@
 - [Convergence Zone: CNAPP Aids in Integrated Cloud-Native Security](https://www.darkreading.com/cloud/convergence-zone-cnapp-aids-in-integrated-cloud-native-security)
 - [CDN Cache Poisoning Allows DoS Attacks Against Cloud Apps](https://www.darkreading.com/cloud/cache-poisoning-of-cdns-allows-dos-attacks-against-cloud-apps)
 - [Rethinking Cybersecurity Jobs as a Vocation Instead of a Profession](https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession)
-- [New Mac Malware Samples Underscore Growing Threat](https://www.darkreading.com/vulnerabilities-threats/new-mac-malware-samples-underscore-growing-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
