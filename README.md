@@ -64,6 +64,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NHS Warns of Attackers Targeting Log4j Flaws in VMware Horizon](https://www.darkreading.com/threat-intelligence/nhs-warns-of-attackers-targeting-log4j-flaws-in-vmware-horizon)
 - [MSP Thrive Acquires InCare Technologies](https://www.darkreading.com/cloud/msp-thrive-acquires-incare-technologies)
 - [Cerberus Sentinel Acquires True Digital Security](https://www.darkreading.com/risk/cerberus-sentinel-acquires-true-digital-security-)
 - [IT/OT Convergence Is More Than a Catchy Phrase](https://www.darkreading.com/edge-articles/it-ot-convergence-is-more-than-a-catchy-phrase)
@@ -71,7 +72,6 @@
 - [7 Predictions for Global Energy Cybersecurity in 2022](https://www.darkreading.com/vulnerabilities-threats/7-predictions-for-global-energy-cybersecurity-in-2022)
 - [Enterprises Worry About Increased Data Risk in Cloud](https://www.darkreading.com/edge-threat-monitor/enterprises-worry-about-increased-data-risk-in-cloud)
 - [Google Docs Comments Weaponized in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/google-docs-comments-weaponized-in-new-phishing-campaign)
-- [New Mexico&#39;s Bernalillo County Investigates Ransomware Attack](https://www.darkreading.com/attacks-breaches/new-mexico-s-bernalillo-county-investigates-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
