@@ -21,6 +21,7 @@
 [<img align="left" alt="nd-cyber | Twitter" width="35px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
 [<img align="left" alt="nd-cyber | Facebook" width="35px" src="https://www.svgrepo.com/show/138943/facebook.svg" />][facebook]
 [<img align="left" alt="nd-cyber | Patreon" width="35px" src="https://www.svgrepo.com/show/331529/patreon-v2.svg" />][patreon]
+[<img align="left" alt="nd-cyber | GitHub" width="35px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
 [<img align="left" alt="nd-cyber | YouTube" width="35px" src="https://www.svgrepo.com/show/95009/youtube.svg" />][youtube]
 
 <br />
@@ -49,11 +50,11 @@
 ![Windows](https://img.shields.io/badge/Windows-11-green?style=flat-square&logo=windows&logoColor=white&labelColor=0078D6)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04_LTS-green?style=flat-square&logo=ubuntu&logoColor=white&labelColor=e95420)
 ![Debian](https://img.shields.io/badge/Debian-ebecf1?style=flat-square&logo=debian&logoColor=red)
-![Arch](https://img.shields.io/badge/archlinux-333333?style=flat-square&logo=arch-linux&logoColor=1793d1)
+![archlinux](https://img.shields.io/badge/archlinux-333333?style=flat-square&logo=arch-linux&logoColor=1793d1)
 ![Deepin](https://img.shields.io/badge/Deepin-131313?style=flat-square&logo=deepin&logoColor=blue)
 ![Kali](https://img.shields.io/badge/Kali-268eeb?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/fedora-f9f9f9?style=flat-square&logo=data:image/jpg;base64,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)
-![KDE](https://img.shields.io/badge/KDE_Plasma-5.23-green?style=flat-square&logo=kde&logoColor=white&labelColor=179af3)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-5.23-green?style=flat-square&logo=kde&logoColor=white&labelColor=179af3)
 ![GNOME](https://img.shields.io/badge/GNOME-grey?style=flat-square&logo=gnome)
 ![Xfce](https://img.shields.io/badge/Xfce-grey?style=flat-square&logo=xfce)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-grey?style=flat-square&logo=virtualbox)
@@ -110,6 +111,7 @@
 
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
-[youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
 [facebook]: https://www.facebook.com/ndcyber
 [patreon]: https://www.patreon.com/NDcyber
+[github]: https://github.com/century300
+[youtube]: https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ
