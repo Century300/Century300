@@ -59,7 +59,6 @@
 ![vmware](https://img.shields.io/badge/vmware-grey?style=flat-square&logo=vmware&logoColor=white)
 
 <br />
-<br />
 
 ---
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
