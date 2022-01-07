@@ -1,5 +1,6 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] 👋 
 
+![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/century300?logo=github&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/nd_cybersec?color=1da1f2&logo=Twitter&style=for-the-badge)
@@ -24,7 +25,32 @@
 
 <br />
 
-### Technologies
+### ⚡ Technologies used over time
+
+![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=Python)
+![Markdown](https://img.shields.io/badge/Markdown-grey?style=flat-square&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=mysql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-grey?style=flast-square&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VSC-grey?logoColor=blue&logo=visual-studio-code)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-grey?style=flat-square&logo=kdenlive)
+![GIMP](https://img.shields.io/badge/GIMP-grey?style=flat-square&logo=gimp)
+![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-20.04-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-grey?style=flat-square&logo=debian)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Deepin](https://img.shields.io/badge/Deepin-grey?style=flat-square&logo=deepin)
+![Kali-Linux](https://img.shields.io/badge/Kali_Linux-blue?style=flat-square&logo=kali-linux&logoColor=white)
+![KDE](https://img.shields.io/badge/KDE-grey?style=flat-square&logo=kde)
+![GNOME](https://img.shields.io/badge/GNOME-grey?style=flat-square&logo=gnome)
+![Xfce](https://img.shields.io/badge/Xfce-grey?style=flat-square&logo=xfce)
+
+
+
 
 
 <br />
@@ -78,13 +104,6 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Century300&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
 
 [website]: https://nd-cyber.com
 [twitter]: https://twitter.com/nd_cybersec
