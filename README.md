@@ -63,6 +63,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Predictions for Global Energy Cybersecurity in 2022](https://www.darkreading.com/vulnerabilities-threats/7-predictions-for-global-energy-cybersecurity-in-2022)
 - [Enterprises Worry About Increased Data Risk in Cloud](https://www.darkreading.com/edge-threat-monitor/enterprises-worry-about-increased-data-risk-in-cloud)
 - [Google Docs Comments Weaponized in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/google-docs-comments-weaponized-in-new-phishing-campaign)
 - [New Mexico&#39;s Bernalillo County Investigates Ransomware Attack](https://www.darkreading.com/attacks-breaches/new-mexico-s-bernalillo-county-investigates-ransomware-attack)
@@ -70,7 +71,6 @@
 - [CDN Cache Poisoning Allows DoS Attacks Against Cloud Apps](https://www.darkreading.com/cloud/cache-poisoning-of-cdns-allows-dos-attacks-against-cloud-apps)
 - [Rethinking Cybersecurity Jobs as a Vocation Instead of a Profession](https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession)
 - [New Mac Malware Samples Underscore Growing Threat](https://www.darkreading.com/vulnerabilities-threats/new-mac-malware-samples-underscore-growing-threat)
-- [Hybrid Multicloud Strategies Are Keeping the Public Sector at the Forefront of Threat Mitigation](https://www.darkreading.com/cloud/hybrid-multicloud-strategies-are-keeping-the-public-sector-at-the-forefront-of-threat-mitigation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
