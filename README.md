@@ -64,14 +64,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MSP Thrive Acquires InCare Technologies](https://www.darkreading.com/cloud/msp-thrive-acquires-incare-technologies)
+- [Cerberus Sentinel Acquires True Digital Security](https://www.darkreading.com/risk/cerberus-sentinel-acquires-true-digital-security-)
+- [IT/OT Convergence Is More Than a Catchy Phrase](https://www.darkreading.com/edge-articles/it-ot-convergence-is-more-than-a-catchy-phrase)
 - [How to Proactively Limit Damage From BlackMatter Ransomware](https://www.darkreading.com/vulnerabilities-threats/organizations-can-proactively-limit-damage-from-blackmatter-ransomware)
 - [7 Predictions for Global Energy Cybersecurity in 2022](https://www.darkreading.com/vulnerabilities-threats/7-predictions-for-global-energy-cybersecurity-in-2022)
 - [Enterprises Worry About Increased Data Risk in Cloud](https://www.darkreading.com/edge-threat-monitor/enterprises-worry-about-increased-data-risk-in-cloud)
 - [Google Docs Comments Weaponized in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/google-docs-comments-weaponized-in-new-phishing-campaign)
 - [New Mexico&#39;s Bernalillo County Investigates Ransomware Attack](https://www.darkreading.com/attacks-breaches/new-mexico-s-bernalillo-county-investigates-ransomware-attack)
-- [Convergence Zone: CNAPP Aids in Integrated Cloud-Native Security](https://www.darkreading.com/cloud/convergence-zone-cnapp-aids-in-integrated-cloud-native-security)
-- [CDN Cache Poisoning Allows DoS Attacks Against Cloud Apps](https://www.darkreading.com/cloud/cache-poisoning-of-cdns-allows-dos-attacks-against-cloud-apps)
-- [Rethinking Cybersecurity Jobs as a Vocation Instead of a Profession](https://www.darkreading.com/careers-and-people/rethinking-cybersecurity-jobs-as-a-vocation-instead-of-a-profession)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
