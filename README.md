@@ -64,14 +64,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [No Significant Intrusions Related to Log4j Flaw Yet, CISA Says](https://www.darkreading.com/vulnerabilities-threats/no-significant-intrusions-related-to-log4j-flaw-yet-cisa-says)
+- [Microsoft: macOS &#39;Powerdir&#39; Flaw Could Let Attackers Gain Access to User Data](https://www.darkreading.com/vulnerabilities-threats/microsoft-macos-powerdir-flaw-could-let-attackers-gain-access-to-user-data)
+- [Breach Response Shift: More Lawyers, Less Cyber-Insurance Coverage](https://www.darkreading.com/attacks-breaches/changes-to-breach-response-more-lawyers-less-cyber-coverage)
 - [FBI Warns FIN7 Campaign Delivers Ransomware via BadUSB](https://www.darkreading.com/attacks-breaches/fbi-warns-fin7-campaign-delivers-ransomware-via-badusb)
 - [The Evolution of Patch Management: How and When It Got So Complicated](https://www.darkreading.com/vulnerabilities-threats/the-evolution-of-patch-management-how-and-when-it-got-so-complicated)
 - [NHS Warns of Attackers Targeting Log4j Flaws in VMware Horizon](https://www.darkreading.com/threat-intelligence/nhs-warns-of-attackers-targeting-log4j-flaws-in-vmware-horizon)
 - [MSP Thrive Acquires InCare Technologies](https://www.darkreading.com/cloud/msp-thrive-acquires-incare-technologies)
 - [Cerberus Sentinel Acquires True Digital Security](https://www.darkreading.com/risk/cerberus-sentinel-acquires-true-digital-security-)
-- [IT/OT Convergence Is More Than a Catchy Phrase](https://www.darkreading.com/edge-articles/it-ot-convergence-is-more-than-a-catchy-phrase)
-- [How to Proactively Limit Damage From BlackMatter Ransomware](https://www.darkreading.com/vulnerabilities-threats/organizations-can-proactively-limit-damage-from-blackmatter-ransomware)
-- [7 Predictions for Global Energy Cybersecurity in 2022](https://www.darkreading.com/vulnerabilities-threats/7-predictions-for-global-energy-cybersecurity-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
