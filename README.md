@@ -93,11 +93,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a professional GitHub Profile using Markdown](https://nd-cyber.com/creating-a-professional-github-profile-using-markdown)
 - [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
 - [oh-my-zsh &amp; powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
 - [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
 - [How to contact YouTube support in 2021, lost access to YouTube channel](https://nd-cyber.com/how-to-contact-youtube-support-in-2021-lost-access-to-youtube-channel)
-- [Facebook was down today after whistleblower Frances Haugen aired](https://nd-cyber.com/facebook-was-down-today-after-whistleblower-frances-haugen-aired)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nd-cyber.com/blog)
