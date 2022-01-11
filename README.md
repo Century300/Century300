@@ -64,14 +64,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why the Insider Threat Will Motivate Cyber and Physical Teams to Collaborate More Than Ever in 2022](https://www.darkreading.com/physical-security/why-the-insider-threat-will-motivate-cyber-and-physical-teams-to-collaborate-more-than-ever-in-2022)
+- [Businesses Suffered 50% More Cyberattack Attempts per Week in 2021](https://www.darkreading.com/attacks-breaches/corporate-networks-saw-50-more-attacks-per-week-in-2021-)
 - [Why Security Awareness Training Should Begin in the C-Suite](https://www.darkreading.com/careers-and-people/why-security-awareness-training-should-begin-in-the-c-suite)
 - [Kaspersky Research Uncovers Cybersecurity Budgets, Insurance, and Vendor Expectations for 2022](https://www.darkreading.com/operations/kaspersky-research-uncovers-cybersecurity-budgets-insurance-and-vendor-expectations-for-2022)
 - [5 Things to Know About Next-Generation SIEM](https://www.darkreading.com/omdia/five-things-to-know-about-next-generation-siem)
 - [What Editing Crosswords Can Teach Us About Security Leadership](https://www.darkreading.com/edge-articles/what-editing-crosswords-can-teach-us-about-security-leadership)
 - [No Significant Intrusions Related to Log4j Flaw Yet, CISA Says](https://www.darkreading.com/vulnerabilities-threats/no-significant-intrusions-related-to-log4j-flaw-yet-cisa-says)
 - [Microsoft: macOS &#39;Powerdir&#39; Flaw Could Enable Access to User Data](https://www.darkreading.com/vulnerabilities-threats/microsoft-macos-powerdir-flaw-could-enable-access-to-user-data)
-- [Breach Response Shift: More Lawyers, Less Cyber-Insurance Coverage](https://www.darkreading.com/attacks-breaches/changes-to-breach-response-more-lawyers-less-cyber-coverage)
-- [FBI Warns FIN7 Campaign Delivers Ransomware via BadUSB](https://www.darkreading.com/attacks-breaches/fbi-warns-fin7-campaign-delivers-ransomware-via-badusb)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
