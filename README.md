@@ -64,14 +64,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Kicks Off 2022 With 96 Security Patches](https://www.darkreading.com/vulnerabilities-threats/microsoft-kicks-off-2022-with-96-security-patches)
+- [Cloud Apps Replace Web as Source for Most Malware Downloads](https://www.darkreading.com/cloud/cloud-apps-replace-web-as-source-for-most-malware-downloads)
 - [Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips](https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips)
 - [FBI, NSA &amp; CISA Issue Advisory on Russian Cyber Threat to US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/fbi-nsa-cisa)
 - [Details Released on SonicWall Flaws in SMA-100 Devices](https://www.darkreading.com/threat-intelligence/details-released-on-sonicwall-flaws-in-sma-devices-)
 - [Why the Insider Threat Will Motivate Cyber and Physical Teams to Collaborate More Than Ever in 2022](https://www.darkreading.com/physical-security/why-the-insider-threat-will-motivate-cyber-and-physical-teams-to-collaborate-more-than-ever-in-2022)
 - [Remotely Exploitable NetUSB Flaw Puts Millions of Devices at Risk](https://www.darkreading.com/vulnerabilities-threats/remotely-exploitable-netusb-flaw-puts-millions-of-devices-at-risk)
 - [Businesses Suffered 50% More Cyberattack Attempts per Week in 2021](https://www.darkreading.com/attacks-breaches/corporate-networks-saw-50-more-attacks-per-week-in-2021-)
-- [Why Security Awareness Training Should Begin in the C-Suite](https://www.darkreading.com/careers-and-people/why-security-awareness-training-should-begin-in-the-c-suite)
-- [Kaspersky Research Uncovers Cybersecurity Budgets, Insurance, and Vendor Expectations for 2022](https://www.darkreading.com/operations/kaspersky-research-uncovers-cybersecurity-budgets-insurance-and-vendor-expectations-for-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
