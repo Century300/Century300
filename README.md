@@ -64,6 +64,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Let&#39;s Play! Raising the Stakes for Threat Modeling With Card Games](https://www.darkreading.com/edge-articles/lets-play-raising-the-stakes-for-threat-modeling-with-card-games)
 - [Kiteworks Acquires Email Encryption Leader totemo](https://www.darkreading.com/endpoint/kiteworks-acquires-email-encryption-leader-totemo)
 - [Microsoft Kicks Off 2022 With 96 Security Patches](https://www.darkreading.com/vulnerabilities-threats/microsoft-kicks-off-2022-with-96-security-patches)
 - [Cloud Apps Replace Web as Source for Most Malware Downloads](https://www.darkreading.com/cloud/cloud-apps-replace-web-as-source-for-most-malware-downloads)
@@ -71,7 +72,6 @@
 - [FBI, NSA &amp; CISA Issue Advisory on Russian Cyber Threat to US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/fbi-nsa-cisa)
 - [Details Released on SonicWall Flaws in SMA-100 Devices](https://www.darkreading.com/threat-intelligence/details-released-on-sonicwall-flaws-in-sma-devices-)
 - [Why the Insider Threat Will Motivate Cyber and Physical Teams to Collaborate More Than Ever in 2022](https://www.darkreading.com/physical-security/why-the-insider-threat-will-motivate-cyber-and-physical-teams-to-collaborate-more-than-ever-in-2022)
-- [Remotely Exploitable NetUSB Flaw Puts Millions of Devices at Risk](https://www.darkreading.com/vulnerabilities-threats/remotely-exploitable-netusb-flaw-puts-millions-of-devices-at-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
