@@ -59,6 +59,8 @@
 ![Xfce](https://img.shields.io/badge/Xfce-grey?style=flat-square&logo=xfce)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-grey?style=flat-square&logo=virtualbox)
 ![vmware](https://img.shields.io/badge/vmware-grey?style=flat-square&logo=vmware&logoColor=white)
+![Quickbooks](https://img.shields.io/badge/QuickBooks-f7f7f7?style=flat-square&logo=quickbooks)
+![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
 
 ---
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
