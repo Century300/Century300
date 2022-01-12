@@ -70,8 +70,8 @@
 - [Kiteworks Acquires Email Encryption Leader totemo](https://www.darkreading.com/endpoint/kiteworks-acquires-email-encryption-leader-totemo)
 - [Microsoft Kicks Off 2022 With 96 Security Patches](https://www.darkreading.com/vulnerabilities-threats/microsoft-kicks-off-2022-with-96-security-patches)
 - [Cloud Apps Replace Web as Source for Most Malware Downloads](https://www.darkreading.com/cloud/cloud-apps-replace-web-as-source-for-most-malware-downloads)
+- [Honeywell Adds Deception Tech to Building Automation Systems Security](https://www.darkreading.com/dr-tech/honeywell-adds-deception-for-building-automation-systems-security)
 - [Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips](https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips)
-- [FBI, NSA &amp; CISA Issue Advisory on Russian Cyber Threat to US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/fbi-nsa-cisa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
