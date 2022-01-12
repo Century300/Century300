@@ -64,6 +64,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Infrastructure Security and a Case for Optimism in 2022](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-and-a-case-for-optimism-in-2022)
 - [Patch Management Today: A Risk-Based Strategy to Defeat Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/patch-management-today-a-risk-based-strategy-to-defeat-cybercriminals)
 - [Let&#39;s Play! Raising the Stakes for Threat Modeling With Card Games](https://www.darkreading.com/edge-articles/lets-play-raising-the-stakes-for-threat-modeling-with-card-games)
 - [Kiteworks Acquires Email Encryption Leader totemo](https://www.darkreading.com/endpoint/kiteworks-acquires-email-encryption-leader-totemo)
@@ -71,7 +72,6 @@
 - [Cloud Apps Replace Web as Source for Most Malware Downloads](https://www.darkreading.com/cloud/cloud-apps-replace-web-as-source-for-most-malware-downloads)
 - [Enterprise Security at CES 2022 Marked by IoT, Biometrics, and PC Chips](https://www.darkreading.com/dr-tech/enterprise-security-at-ces-2022-marked-by-iot-biometrics-and-pc-chips)
 - [FBI, NSA &amp; CISA Issue Advisory on Russian Cyber Threat to US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/fbi-nsa-cisa)
-- [Details Released on SonicWall Flaws in SMA-100 Devices](https://www.darkreading.com/threat-intelligence/details-released-on-sonicwall-flaws-in-sma-devices-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
