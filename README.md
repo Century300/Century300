@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlueNoroff Threat Group Targets Cryptocurrency Startups](https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups)
+- [Fighting Back Against Pegasus, Other Advanced Mobile Malware](https://www.darkreading.com/edge-articles/fighting-back-against-pegasus-other-advanced-mobile-malware)
+- [How to Protect Your Phone from Pegasus and Other APTs](https://www.darkreading.com/dr-tech/how-to-protect-your-phone-from-pegasus-and-other-apts)
 - [New Vulnerabilities Highlight Risks of Trust in Public Cloud](https://www.darkreading.com/cloud/new-vulnerabilities-highlight-risks-of-trust-in-public-cloud)
 - [How Cybercriminals Are Cashing in on the Culture of &#39;Yes&#39;](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-cashing-in-on-the-culture-of-yes-)
 - [Redefining the CISO-CIO Relationship](https://www.darkreading.com/careers-and-people/redefining-the-ciso-cio-relationship)
 - [Microsoft RDP Bug Enables Data Theft, Smart-Card Hijacking](https://www.darkreading.com/vulnerabilities-threats/rdp-bug-enables-data-theft-smartcard-hijacking)
 - [Check If You Have to Worry About the Latest HTTP Protocol Stack Flaw](https://www.darkreading.com/dr-tech/check-if-you-have-to-worry-about-the-latest-http-protocol-stack-flaw)
-- [Oxeye Introduce Open Source Payload Deobfuscation Tool](https://www.darkreading.com/vulnerabilities-threats/oxeye-introduce-open-source-payload-deobfuscation-tool)
-- [New Research Reveals Public-Sector IAM Weaknesses and Priorities](https://www.darkreading.com/endpoint/new-research-reveals-public-sector-iam-weaknesses-and-priorities)
-- [New Cyberattack Campaign Uses Public Cloud Infrastructure to Spread RATs](https://www.darkreading.com/cloud/new-campaign-uses-public-cloud-infrastructure-to-spread-rats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
