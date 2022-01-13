@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Cybercriminals Are Cashing in on the Culture of &#39;Yes&#39;](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-cashing-in-on-the-culture-of-yes-)
 - [Redefining the CISO-CIO Relationship](https://www.darkreading.com/careers-and-people/redefining-the-ciso-cio-relationship)
 - [Microsoft RDP Bug Enables Data Theft, Smart-Card Hijacking](https://www.darkreading.com/vulnerabilities-threats/rdp-bug-enables-data-theft-smartcard-hijacking)
 - [Check If You Have to Worry About the Latest HTTP Protocol Stack Flaw](https://www.darkreading.com/dr-tech/check-if-you-have-to-worry-about-the-latest-http-protocol-stack-flaw)
@@ -73,7 +74,6 @@
 - [New Research Reveals Public-Sector IAM Weaknesses and Priorities](https://www.darkreading.com/endpoint/new-research-reveals-public-sector-iam-weaknesses-and-priorities)
 - [New Cyberattack Campaign Uses Public Cloud Infrastructure to Spread RATs](https://www.darkreading.com/cloud/new-campaign-uses-public-cloud-infrastructure-to-spread-rats)
 - [Why Is Cyber Assessment So Important in Security?](https://www.darkreading.com/edge-ask-the-experts/why-is-cyber-assessment-so-important-in-security-)
-- [Flashpoint Acquires Risk Based Security](https://www.darkreading.com/threat-intelligence/flashpoint-acquires-risk-based-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
