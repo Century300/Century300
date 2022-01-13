@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Redefining the CISO-CIO Relationship](https://www.darkreading.com/careers-and-people/redefining-the-ciso-cio-relationship)
 - [Microsoft RDP Bug Enables Data Theft, Smart-Card Hijacking](https://www.darkreading.com/vulnerabilities-threats/rdp-bug-enables-data-theft-smartcard-hijacking)
 - [Check If You Have to Worry About the Latest HTTP Protocol Stack Flaw](https://www.darkreading.com/dr-tech/check-if-you-have-to-worry-about-the-latest-http-protocol-stack-flaw)
 - [Oxeye Introduce Open Source Payload Deobfuscation Tool](https://www.darkreading.com/vulnerabilities-threats/oxeye-introduce-open-source-payload-deobfuscation-tool)
@@ -73,7 +74,6 @@
 - [New Cyberattack Campaign Uses Public Cloud Infrastructure to Spread RATs](https://www.darkreading.com/cloud/new-campaign-uses-public-cloud-infrastructure-to-spread-rats)
 - [Why Is Cyber Assessment So Important in Security?](https://www.darkreading.com/edge-ask-the-experts/why-is-cyber-assessment-so-important-in-security-)
 - [Flashpoint Acquires Risk Based Security](https://www.darkreading.com/threat-intelligence/flashpoint-acquires-risk-based-security)
-- [Critical Infrastructure Security and a Case for Optimism in 2022](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-and-a-case-for-optimism-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
