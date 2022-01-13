@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Check If You Have to Worry About the Latest HTTP Protocol Stack Flaw](https://www.darkreading.com/dr-tech/check-if-you-have-to-worry-about-the-latest-http-protocol-stack-flaw)
 - [Oxeye Introduce Open Source Payload Deobfuscation Tool](https://www.darkreading.com/vulnerabilities-threats/oxeye-introduce-open-source-payload-deobfuscation-tool)
 - [New Research Reveals Public-Sector IAM Weaknesses and Priorities](https://www.darkreading.com/endpoint/new-research-reveals-public-sector-iam-weaknesses-and-priorities)
 - [New Cyberattack Campaign Uses Public Cloud Infrastructure to Spread RATs](https://www.darkreading.com/cloud/new-campaign-uses-public-cloud-infrastructure-to-spread-rats)
@@ -73,7 +74,6 @@
 - [Flashpoint Acquires Risk Based Security](https://www.darkreading.com/threat-intelligence/flashpoint-acquires-risk-based-security)
 - [Critical Infrastructure Security and a Case for Optimism in 2022](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-and-a-case-for-optimism-in-2022)
 - [Patch Management Today: A Risk-Based Strategy to Defeat Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/patch-management-today-a-risk-based-strategy-to-defeat-cybercriminals)
-- [Let&#39;s Play! Raising the Stakes for Threat Modeling With Card Games](https://www.darkreading.com/edge-articles/lets-play-raising-the-stakes-for-threat-modeling-with-card-games)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
