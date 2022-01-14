@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Takes Down REvil Ransomware Operation, Arrests Key Members](https://www.darkreading.com/threat-intelligence/russia-takes-down-revil-ransomware-operation-arrests-key-members)
 - [The Cybersecurity Measures CTOs Are Actually Implementing](https://www.darkreading.com/tech-trends/the-cybersecurity-measures-ctos-are-actually-implementing)
 - [Maryland Dept. of Health Responds to Ransomware Attack](https://www.darkreading.com/attacks-breaches/maryland-dept-of-health-responds-to-ransomware-attack)
 - [White House Meets With Software Firms and Open Source Orgs on Security](https://www.darkreading.com/application-security/software-firms-open-source-orgs-meet-with-white-house-on-security)
@@ -73,7 +74,6 @@
 - [BlueNoroff Threat Group Targets Cryptocurrency Startups](https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups)
 - [Fighting Back Against Pegasus, Other Advanced Mobile Malware](https://www.darkreading.com/edge-articles/fighting-back-against-pegasus-other-advanced-mobile-malware)
 - [How to Protect Your Phone from Pegasus and Other APTs](https://www.darkreading.com/dr-tech/how-to-protect-your-phone-from-pegasus-and-other-apts)
-- [New Vulnerabilities Highlight Risks of Trust in Public Cloud](https://www.darkreading.com/cloud/new-vulnerabilities-highlight-risks-of-trust-in-public-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
