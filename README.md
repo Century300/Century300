@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Maryland Dept. of Health Responds to Ransomware Attack](https://www.darkreading.com/attacks-breaches/maryland-dept-of-health-responds-to-ransomware-attack)
 - [White House Meets With Software Firms and Open Source Orgs on Security](https://www.darkreading.com/application-security/software-firms-open-source-orgs-meet-with-white-house-on-security)
 - [What&#39;s Next for Patch Management: Automation](https://www.darkreading.com/vulnerabilities-threats/what-s-next-for-patch-management-automation)
 - [BlueNoroff Threat Group Targets Cryptocurrency Startups](https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups)
@@ -73,7 +74,6 @@
 - [How to Protect Your Phone from Pegasus and Other APTs](https://www.darkreading.com/dr-tech/how-to-protect-your-phone-from-pegasus-and-other-apts)
 - [New Vulnerabilities Highlight Risks of Trust in Public Cloud](https://www.darkreading.com/cloud/new-vulnerabilities-highlight-risks-of-trust-in-public-cloud)
 - [How Cybercriminals Are Cashing in on the Culture of &#39;Yes&#39;](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-cashing-in-on-the-culture-of-yes-)
-- [Redefining the CISO-CIO Relationship](https://www.darkreading.com/careers-and-people/redefining-the-ciso-cio-relationship)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
