@@ -66,7 +66,6 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [How to Avoid Putting Data At Risk During the Great Resignation](https://www.darkreading.com/operations/how-to-avoid-putting-data-at-risk-during-the-great-resignation)
 - [5 Reasons Why M&amp;A Is the Engine Driving Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/5-reasons-why-m-a-is-the-engine-driving-cybersecurity)
 - [Mastering the Art of Cloud Tagging Using Data Science](https://www.darkreading.com/cloud/mastering-the-art-of-cloud-tagging-using-data-science)
 - [Russia Takes Down REvil Ransomware Operation, Arrests Key Members](https://www.darkreading.com/threat-intelligence/russia-takes-down-revil-ransomware-operation-arrests-key-members)
@@ -74,6 +73,7 @@
 - [Maryland Dept. of Health Responds to Ransomware Attack](https://www.darkreading.com/attacks-breaches/maryland-dept-of-health-responds-to-ransomware-attack)
 - [White House Meets With Software Firms and Open Source Orgs on Security](https://www.darkreading.com/application-security/software-firms-open-source-orgs-meet-with-white-house-on-security)
 - [What&#39;s Next for Patch Management: Automation](https://www.darkreading.com/vulnerabilities-threats/what-s-next-for-patch-management-automation)
+- [BlueNoroff Threat Group Targets Cryptocurrency Startups](https://www.darkreading.com/attacks-breaches/bluenoroff-threat-group-targets-cryptocurrency-startups)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
