@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kovrr Translates Cyber Risk into Business Impact with its Quantum Platform](https://www.darkreading.com/risk/kovrr-translates-cyber-risk-into-business-impact-with-its-quantum-platform)
 - [Europol Shuts Down Popular Cybercriminal VPN Service](https://www.darkreading.com/threat-intelligence/europol-shuts-down-popular-cybercriminal-vpn-service)
 - [US Search for Vulnerabilities Drives 10x Increase in Bug Reports](https://www.darkreading.com/vulnerabilities-threats/us-search-for-vulnerabilities-drives-10x-increase-in-bug-reports)
 - [Name That Toon: Nowhere to Hide](https://www.darkreading.com/threat-intelligence/name-that-toon-nowhere-to-hide)
@@ -73,7 +74,6 @@
 - [Mastering the Art of Cloud Tagging Using Data Science](https://www.darkreading.com/cloud/mastering-the-art-of-cloud-tagging-using-data-science)
 - [Russia Takes Down REvil Ransomware Operation, Arrests Key Members](https://www.darkreading.com/threat-intelligence/russia-takes-down-revil-ransomware-operation-arrests-key-members)
 - [The Cybersecurity Measures CTOs Are Actually Implementing](https://www.darkreading.com/tech-trends/the-cybersecurity-measures-ctos-are-actually-implementing)
-- [Maryland Dept. of Health Responds to Ransomware Attack](https://www.darkreading.com/attacks-breaches/maryland-dept-of-health-responds-to-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
