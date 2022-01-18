@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Search for Vulnerabilities Drives 10x Increase in Bug Reports](https://www.darkreading.com/vulnerabilities-threats/us-search-for-vulnerabilities-drives-10x-increase-in-bug-reports)
 - [Name That Toon: Nowhere to Hide](https://www.darkreading.com/threat-intelligence/name-that-toon-nowhere-to-hide)
 - [5 Reasons Why M&amp;A Is the Engine Driving Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/5-reasons-why-m-a-is-the-engine-driving-cybersecurity)
 - [Mastering the Art of Cloud Tagging Using Data Science](https://www.darkreading.com/cloud/mastering-the-art-of-cloud-tagging-using-data-science)
@@ -73,7 +74,6 @@
 - [The Cybersecurity Measures CTOs Are Actually Implementing](https://www.darkreading.com/tech-trends/the-cybersecurity-measures-ctos-are-actually-implementing)
 - [Maryland Dept. of Health Responds to Ransomware Attack](https://www.darkreading.com/attacks-breaches/maryland-dept-of-health-responds-to-ransomware-attack)
 - [White House Meets With Software Firms and Open Source Orgs on Security](https://www.darkreading.com/application-security/software-firms-open-source-orgs-meet-with-white-house-on-security)
-- [What&#39;s Next for Patch Management: Automation](https://www.darkreading.com/vulnerabilities-threats/what-s-next-for-patch-management-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
