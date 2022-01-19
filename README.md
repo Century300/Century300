@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Happens to My Organization If APIs Are Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-happens-to-my-organization-if-apis-are-compromised-)
+- [1Password Raises $620M Series C, Now Valued at $6.8B](https://www.darkreading.com/endpoint/1password-raises-620m-series-c-now-valued-at-6-8b)
+- [5 AI and Cybersecurity Predictions for 2022](https://www.darkreading.com/dr-tech/5-ai-cybersecurity-predictions-for-2022)
 - [When Patching Security Flaws, Smarter Trumps Faster](https://www.darkreading.com/vulnerabilities-threats/when-patching-security-flaws-smarter-trumps-faster)
 - [Cloud Adoption Widens the Cybersecurity Skills Gap](https://www.darkreading.com/cloud/cloud-adoption-widens-the-cybersecurity-skills-gap)
 - [LogPoint Releases LogPoint 7, Adding SOAR Capabilities Within SIEM](https://www.darkreading.com/operations/logpoint-releases-logpoint-7-adding-soar-capabilities-within-siem)
 - [&lpar;ISC&rpar;² Launches Entry-Level Cybersecurity Course](https://www.darkreading.com/careers-and-people/-isc-launches-entry-level-cybersecurity-course)
 - [Preparing For the Next Cybersecurity Epidemic: Deepfakes](https://www.darkreading.com/operations/preparing-for-the-next-cybersecurity-epidemic-deepfakes)
-- [Cloud Identity Startup Permiso Launches With $10M Seed](https://www.darkreading.com/emerging-tech/cloud-identity-startup-permiso-launches-with-10m-seed)
-- [Microsoft Details Recent Damaging Malware Attacks on Ukrainian Organizations](https://www.darkreading.com/attacks-breaches/untitled)
-- [Researchers Explore Hacking VirusTotal to Find Stolen Credentials](https://www.darkreading.com/threat-intelligence/researchers-explore-hacking-virustotal-to-find-stolen-credentials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
