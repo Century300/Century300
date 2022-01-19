@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Identity Startup Permiso Launches With $10M Seed](https://www.darkreading.com/emerging-tech/cloud-identity-startup-permiso-launches-with-10m-seed)
+- [Microsoft Details Recent Damaging Malware Attacks on Ukrainian Organizations](https://www.darkreading.com/attacks-breaches/untitled)
+- [Researchers Explore Hacking VirusTotal to Find Stolen Credentials](https://www.darkreading.com/threat-intelligence/researchers-explore-hacking-virustotal-to-find-stolen-credentials)
 - [End Users Remain Organizations&#39; Biggest Security Risk](https://www.darkreading.com/edge-threat-monitor/despite-rise-of-third-party-concerns-end-users-still-the-biggest-security-risk)
 - [Take &#39;Urgent&#39; Steps to Secure Systems From Damaging Attacks, CISA Says](https://www.darkreading.com/threat-intelligence/take-urgent-steps-to-secure-systems-from-damaging-attacks-cisa-says)
 - [Kaspersky Announces Takedown Service](https://www.darkreading.com/attacks-breaches/kaspersky-announces-takedown-service)
 - [Kovrr Translates Cyber Risk into Business Impact with its Quantum Platform](https://www.darkreading.com/risk/kovrr-translates-cyber-risk-into-business-impact-with-its-quantum-platform)
 - [Europol Shuts Down Popular Cybercriminal VPN Service](https://www.darkreading.com/threat-intelligence/europol-shuts-down-popular-cybercriminal-vpn-service)
-- [US Search for Vulnerabilities Drives 10x Increase in Bug Reports](https://www.darkreading.com/vulnerabilities-threats/us-search-for-vulnerabilities-drives-10x-increase-in-bug-reports)
-- [Name That Toon: Nowhere to Hide](https://www.darkreading.com/threat-intelligence/name-that-toon-nowhere-to-hide)
-- [5 Reasons Why M&amp;A Is the Engine Driving Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/5-reasons-why-m-a-is-the-engine-driving-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
