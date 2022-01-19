@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FireEye &amp; McAfee Enterprise Renamed as Trellix](https://www.darkreading.com/threat-intelligence/fireeye-mcafee-enterprise-renamed-as-trellix)
 - [What Happens to My Organization If APIs Are Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-happens-to-my-organization-if-apis-are-compromised-)
 - [Nigerian Police Arrest 11 Individuals in BEC Crackdown](https://www.darkreading.com/attacks-breaches/nigerian-police-arrest-11-individuals-in-bec-crackdown)
 - [Revamped Community-Based DDoS Defense Tool Improves Filtering](https://www.darkreading.com/perimeter/revamped-community-based-ddos-defense-tool-improves-filtering)
@@ -73,7 +74,6 @@
 - [5 AI and Cybersecurity Predictions for 2022](https://www.darkreading.com/dr-tech/5-ai-cybersecurity-predictions-for-2022)
 - [When Patching Security Flaws, Smarter Trumps Faster](https://www.darkreading.com/vulnerabilities-threats/when-patching-security-flaws-smarter-trumps-faster)
 - [Cloud Adoption Widens the Cybersecurity Skills Gap](https://www.darkreading.com/cloud/cloud-adoption-widens-the-cybersecurity-skills-gap)
-- [LogPoint Releases LogPoint 7, Adding SOAR Capabilities Within SIEM](https://www.darkreading.com/operations/logpoint-releases-logpoint-7-adding-soar-capabilities-within-siem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
