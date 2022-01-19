@@ -67,13 +67,13 @@
 
 <!-- DARKREADING:START -->
 - [What Happens to My Organization If APIs Are Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-happens-to-my-organization-if-apis-are-compromised-)
+- [Nigerian Police Arrest 11 Individuals in BEC Crackdown](https://www.darkreading.com/attacks-breaches/nigerian-police-arrest-11-individuals-in-bec-crackdown)
+- [Revamped Community-Based DDoS Defense Tool Improves Filtering](https://www.darkreading.com/perimeter/revamped-community-based-ddos-defense-tool-improves-filtering)
 - [1Password Raises $620M Series C, Now Valued at $6.8B](https://www.darkreading.com/endpoint/1password-raises-620m-series-c-now-valued-at-6-8b)
 - [5 AI and Cybersecurity Predictions for 2022](https://www.darkreading.com/dr-tech/5-ai-cybersecurity-predictions-for-2022)
 - [When Patching Security Flaws, Smarter Trumps Faster](https://www.darkreading.com/vulnerabilities-threats/when-patching-security-flaws-smarter-trumps-faster)
 - [Cloud Adoption Widens the Cybersecurity Skills Gap](https://www.darkreading.com/cloud/cloud-adoption-widens-the-cybersecurity-skills-gap)
 - [LogPoint Releases LogPoint 7, Adding SOAR Capabilities Within SIEM](https://www.darkreading.com/operations/logpoint-releases-logpoint-7-adding-soar-capabilities-within-siem)
-- [&lpar;ISC&rpar;² Launches Entry-Level Cybersecurity Course](https://www.darkreading.com/careers-and-people/-isc-launches-entry-level-cybersecurity-course)
-- [Preparing For the Next Cybersecurity Epidemic: Deepfakes](https://www.darkreading.com/operations/preparing-for-the-next-cybersecurity-epidemic-deepfakes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
