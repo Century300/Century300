@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Patching Security Flaws, Smarter Trumps Faster](https://www.darkreading.com/vulnerabilities-threats/when-patching-security-flaws-smarter-trumps-faster)
 - [Cloud Adoption Widens the Cybersecurity Skills Gap](https://www.darkreading.com/cloud/cloud-adoption-widens-the-cybersecurity-skills-gap)
 - [LogPoint Releases LogPoint 7, Adding SOAR Capabilities Within SIEM](https://www.darkreading.com/operations/logpoint-releases-logpoint-7-adding-soar-capabilities-within-siem)
 - [&lpar;ISC&rpar;² Launches Entry-Level Cybersecurity Course](https://www.darkreading.com/careers-and-people/-isc-launches-entry-level-cybersecurity-course)
@@ -73,7 +74,6 @@
 - [Cloud Identity Startup Permiso Launches With $10M Seed](https://www.darkreading.com/emerging-tech/cloud-identity-startup-permiso-launches-with-10m-seed)
 - [Microsoft Details Recent Damaging Malware Attacks on Ukrainian Organizations](https://www.darkreading.com/attacks-breaches/untitled)
 - [Researchers Explore Hacking VirusTotal to Find Stolen Credentials](https://www.darkreading.com/threat-intelligence/researchers-explore-hacking-virustotal-to-find-stolen-credentials)
-- [End Users Remain Organizations&#39; Biggest Security Risk](https://www.darkreading.com/edge-threat-monitor/despite-rise-of-third-party-concerns-end-users-still-the-biggest-security-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
