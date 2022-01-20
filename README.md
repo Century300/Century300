@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco&#39;s Kenna Security Research Shows the Relative Likelihood of an Organization Being Exploited](https://www.darkreading.com/attacks-breaches/cisco-s-kenna-security-research-shows-the-relative-likelihood-of-an-organization-being-exploited)
 - [FireEye &amp; McAfee Enterprise Renamed as Trellix](https://www.darkreading.com/threat-intelligence/fireeye-mcafee-enterprise-renamed-as-trellix)
 - [What Happens to My Organization If APIs Are Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-happens-to-my-organization-if-apis-are-compromised-)
 - [Nigerian Police Arrest 11 Individuals in BEC Crackdown](https://www.darkreading.com/attacks-breaches/nigerian-police-arrest-11-individuals-in-bec-crackdown)
@@ -73,7 +74,6 @@
 - [1Password Raises $620M Series C, Now Valued at $6.8B](https://www.darkreading.com/endpoint/1password-raises-620m-series-c-now-valued-at-6-8b)
 - [5 AI and Cybersecurity Predictions for 2022](https://www.darkreading.com/dr-tech/5-ai-cybersecurity-predictions-for-2022)
 - [When Patching Security Flaws, Smarter Trumps Faster](https://www.darkreading.com/vulnerabilities-threats/when-patching-security-flaws-smarter-trumps-faster)
-- [Cloud Adoption Widens the Cybersecurity Skills Gap](https://www.darkreading.com/cloud/cloud-adoption-widens-the-cybersecurity-skills-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
