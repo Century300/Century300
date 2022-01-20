@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Automating Response Is a Marathon, Not a Sprint](https://www.darkreading.com/emerging-tech/automating-response-is-a-marathon-not-a-sprint)
+- [Red Cross Hit via Third-Party Cyberattack](https://www.darkreading.com/attacks-breaches/red-cross-hit-via-third-party-cyberattack)
 - [Enterprises Are Sailing Into a Perfect Storm of Cloud Risk](https://www.darkreading.com/cloud/enterprises-are-sailing-into-a-perfect-storm-of-cloud-risk)
 - [4 Ways to Develop Your Team&#39;s Cyber Skills](https://www.darkreading.com/careers-and-people/4-ways-to-develop-your-team-s-cyber-skills)
 - [Cisco&#39;s Kenna Security Research Shows the Relative Likelihood of an Organization Being Exploited](https://www.darkreading.com/attacks-breaches/cisco-s-kenna-security-research-shows-the-relative-likelihood-of-an-organization-being-exploited)
 - [FireEye &amp; McAfee Enterprise Renamed as Trellix](https://www.darkreading.com/threat-intelligence/fireeye-mcafee-enterprise-renamed-as-trellix)
 - [What Happens to My Organization If APIs Are Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-happens-to-my-organization-if-apis-are-compromised-)
 - [Nigerian Police Arrest 11 Individuals in BEC Crackdown](https://www.darkreading.com/attacks-breaches/nigerian-police-arrest-11-individuals-in-bec-crackdown)
-- [Revamped Community-Based DDoS Defense Tool Improves Filtering](https://www.darkreading.com/perimeter/revamped-community-based-ddos-defense-tool-improves-filtering)
-- [1Password Raises $620M Series C, Now Valued at $6.8B](https://www.darkreading.com/endpoint/1password-raises-620m-series-c-now-valued-at-6-8b)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
