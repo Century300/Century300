@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [REvil Ransomware Gang Arrests Trigger Uncertainty, Concern in Cybercrime Forums](https://www.darkreading.com/threat-intelligence/revil-arrests-trigger-uncertainty-concern-in-cybercrime-forums)
 - [Looking Beyond Biden&#39;s Binding Security Directive](https://www.darkreading.com/attacks-breaches/looking-beyond-biden-s-binding-security-directive)
 - [Biden Broadens NSA Oversight of National Security Systems](https://www.darkreading.com/vulnerabilities-threats/biden-broadens-nsa-oversight-of-national-security-systems)
 - [&lpar;ISC&rpar;² Appoints Jon France, CISSP, as Chief Information Security Officer](https://www.darkreading.com/operations/-isc-appoints-jon-france-cissp-as-chief-information-security-officer)
@@ -73,7 +74,6 @@
 - [Automating Response Is a Marathon, Not a Sprint](https://www.darkreading.com/emerging-tech/automating-response-is-a-marathon-not-a-sprint)
 - [Red Cross Hit via Third-Party Cyberattack](https://www.darkreading.com/attacks-breaches/red-cross-hit-via-third-party-cyberattack)
 - [Enterprises Are Sailing Into a Perfect Storm of Cloud Risk](https://www.darkreading.com/cloud/enterprises-are-sailing-into-a-perfect-storm-of-cloud-risk)
-- [4 Ways to Develop Your Team&#39;s Cyber Skills](https://www.darkreading.com/careers-and-people/4-ways-to-develop-your-team-s-cyber-skills)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
