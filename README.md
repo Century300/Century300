@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Biden Broadens NSA Oversight of National Security Systems](https://www.darkreading.com/vulnerabilities-threats/biden-broadens-nsa-oversight-of-national-security-systems)
 - [&lpar;ISC&rpar;² Appoints Jon France, CISSP, as Chief Information Security Officer](https://www.darkreading.com/operations/-isc-appoints-jon-france-cissp-as-chief-information-security-officer)
 - [Researchers Discover Dangerous Firmware-Level Rootkit](https://www.darkreading.com/threat-intelligence/researchers-uncover-dangerous-new-firmware-level-rootkit)
 - [Automating Response Is a Marathon, Not a Sprint](https://www.darkreading.com/emerging-tech/automating-response-is-a-marathon-not-a-sprint)
@@ -73,7 +74,6 @@
 - [Enterprises Are Sailing Into a Perfect Storm of Cloud Risk](https://www.darkreading.com/cloud/enterprises-are-sailing-into-a-perfect-storm-of-cloud-risk)
 - [4 Ways to Develop Your Team&#39;s Cyber Skills](https://www.darkreading.com/careers-and-people/4-ways-to-develop-your-team-s-cyber-skills)
 - [Cisco&#39;s Kenna Security Research Shows the Relative Likelihood of an Organization Being Exploited](https://www.darkreading.com/attacks-breaches/cisco-s-kenna-security-research-shows-the-relative-likelihood-of-an-organization-being-exploited)
-- [FireEye &amp; McAfee Enterprise Renamed as Trellix](https://www.darkreading.com/threat-intelligence/fireeye-mcafee-enterprise-renamed-as-trellix)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
