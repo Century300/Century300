@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IT Leaders Consider Security Tech a Part of Business Transformation](https://www.darkreading.com/tech-trends/it-leaders-consider-security-tech-a-part-of-business-transformation)
 - [Fraud Is On the Rise, and It&#39;s Going to Get Worse](https://www.darkreading.com/edge-articles/fraud-is-on-the-rise-and-its-going-to-get-worse)
 - [REvil Ransomware Gang Arrests Trigger Uncertainty, Concern in Cybercrime Forums](https://www.darkreading.com/threat-intelligence/revil-arrests-trigger-uncertainty-concern-in-cybercrime-forums)
 - [Looking Beyond Biden&#39;s Binding Security Directive](https://www.darkreading.com/attacks-breaches/looking-beyond-biden-s-binding-security-directive)
@@ -73,7 +74,6 @@
 - [&lpar;ISC&rpar;² Appoints Jon France, CISSP, as Chief Information Security Officer](https://www.darkreading.com/operations/-isc-appoints-jon-france-cissp-as-chief-information-security-officer)
 - [Researchers Discover Dangerous Firmware-Level Rootkit](https://www.darkreading.com/threat-intelligence/researchers-uncover-dangerous-new-firmware-level-rootkit)
 - [Automating Response Is a Marathon, Not a Sprint](https://www.darkreading.com/emerging-tech/automating-response-is-a-marathon-not-a-sprint)
-- [Red Cross Hit via Third-Party Cyberattack](https://www.darkreading.com/attacks-breaches/red-cross-hit-via-third-party-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
