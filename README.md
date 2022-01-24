@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are You Prepared to Defend Against a USB Attack?](https://www.darkreading.com/vulnerabilities-threats/are-you-prepared-to-defend-against-a-USB-attack-)
+- [A Level-Set on Russia-Borne Cyber Threats](https://www.darkreading.com/omdia/a-level-set-on-russia-borne-cyber-threats)
 - [IT Leaders Consider Security Tech a Part of Business Transformation](https://www.darkreading.com/tech-trends/it-leaders-consider-security-tech-a-part-of-business-transformation)
 - [Fraud Is On the Rise, and It&#39;s Going to Get Worse](https://www.darkreading.com/edge-articles/fraud-is-on-the-rise-and-its-going-to-get-worse)
 - [REvil Ransomware Gang Arrests Trigger Uncertainty, Concern in Cybercrime Forums](https://www.darkreading.com/threat-intelligence/revil-arrests-trigger-uncertainty-concern-in-cybercrime-forums)
 - [Looking Beyond Biden&#39;s Binding Security Directive](https://www.darkreading.com/attacks-breaches/looking-beyond-biden-s-binding-security-directive)
 - [Biden Broadens NSA Oversight of National Security Systems](https://www.darkreading.com/vulnerabilities-threats/biden-broadens-nsa-oversight-of-national-security-systems)
 - [&lpar;ISC&rpar;² Appoints Jon France, CISSP, as Chief Information Security Officer](https://www.darkreading.com/operations/-isc-appoints-jon-france-cissp-as-chief-information-security-officer)
-- [Researchers Discover Dangerous Firmware-Level Rootkit](https://www.darkreading.com/threat-intelligence/researchers-uncover-dangerous-new-firmware-level-rootkit)
-- [Automating Response Is a Marathon, Not a Sprint](https://www.darkreading.com/emerging-tech/automating-response-is-a-marathon-not-a-sprint)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
