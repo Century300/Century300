@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Operators Are Feeling the Heat](https://www.darkreading.com/threat-intelligence/ransomware-operators-are-feeling-the-heat)
 - [Are You Prepared to Defend Against a USB Attack?](https://www.darkreading.com/vulnerabilities-threats/are-you-prepared-to-defend-against-a-USB-attack-)
 - [A Level-Set on Russia-Borne Cyber Threats](https://www.darkreading.com/omdia/a-level-set-on-russia-borne-cyber-threats)
 - [IT Leaders Consider Security Tech a Part of Business Transformation](https://www.darkreading.com/tech-trends/it-leaders-consider-security-tech-a-part-of-business-transformation)
@@ -73,7 +74,6 @@
 - [REvil Ransomware Gang Arrests Trigger Uncertainty, Concern in Cybercrime Forums](https://www.darkreading.com/threat-intelligence/revil-arrests-trigger-uncertainty-concern-in-cybercrime-forums)
 - [Looking Beyond Biden&#39;s Binding Security Directive](https://www.darkreading.com/attacks-breaches/looking-beyond-biden-s-binding-security-directive)
 - [Biden Broadens NSA Oversight of National Security Systems](https://www.darkreading.com/vulnerabilities-threats/biden-broadens-nsa-oversight-of-national-security-systems)
-- [&lpar;ISC&rpar;² Appoints Jon France, CISSP, as Chief Information Security Officer](https://www.darkreading.com/operations/-isc-appoints-jon-france-cissp-as-chief-information-security-officer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
