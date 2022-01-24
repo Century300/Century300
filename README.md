@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Case for Backing Up Source Code](https://www.darkreading.com/dr-tech/source-code-security-the-case-for-making-backups)
 - [Ransomware Operators Are Feeling the Heat](https://www.darkreading.com/threat-intelligence/ransomware-operators-are-feeling-the-heat)
 - [Are You Prepared to Defend Against a USB Attack?](https://www.darkreading.com/vulnerabilities-threats/are-you-prepared-to-defend-against-a-USB-attack-)
 - [A Level-Set on Russia-Borne Cyber Threats](https://www.darkreading.com/omdia/a-level-set-on-russia-borne-cyber-threats)
@@ -73,7 +74,6 @@
 - [Fraud Is On the Rise, and It&#39;s Going to Get Worse](https://www.darkreading.com/edge-articles/fraud-is-on-the-rise-and-its-going-to-get-worse)
 - [REvil Ransomware Gang Arrests Trigger Uncertainty, Concern in Cybercrime Forums](https://www.darkreading.com/threat-intelligence/revil-arrests-trigger-uncertainty-concern-in-cybercrime-forums)
 - [Looking Beyond Biden&#39;s Binding Security Directive](https://www.darkreading.com/attacks-breaches/looking-beyond-biden-s-binding-security-directive)
-- [Biden Broadens NSA Oversight of National Security Systems](https://www.darkreading.com/vulnerabilities-threats/biden-broadens-nsa-oversight-of-national-security-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
