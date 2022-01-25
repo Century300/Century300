@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Test Your Team, Not Just Your Disaster Recovery Plan](https://www.darkreading.com/dr-tech/test-your-team-not-just-your-disaster-recovery-plan)
+- [Trickbot Injections Get Harder to Detect &amp; Analyze](https://www.darkreading.com/vulnerabilities-threats/trickbot-injections-get-harder-to-detect-analyze)
 - [Registration for the &lpar;ISC&rpar;² Entry-Level Cybersecurity Certification Exam Pilot Program Is Now Open](https://www.darkreading.com/careers-and-people/registration-for-the-isc-entry-level-cybersecurity-certification-exam-pilot-program-is-now-open)
 - [DHS Sounds Alarm on Potential for Major Russian Cyberattacks on US](https://www.darkreading.com/attacks-breaches/dhs-sounds-alarm-on-potential-for-major-russian-cyberattacks-on-us)
 - [The Case for Backing Up Source Code](https://www.darkreading.com/dr-tech/source-code-security-the-case-for-making-backups)
 - [Ransomware Operators Are Feeling the Heat](https://www.darkreading.com/threat-intelligence/ransomware-operators-are-feeling-the-heat)
 - [Are You Prepared to Defend Against a USB Attack?](https://www.darkreading.com/vulnerabilities-threats/are-you-prepared-to-defend-against-a-USB-attack-)
 - [A Level-Set on Russia-Borne Cyber Threats](https://www.darkreading.com/omdia/a-level-set-on-russia-borne-cyber-threats)
-- [IT Leaders Consider Security Tech a Part of Business Transformation](https://www.darkreading.com/tech-trends/it-leaders-consider-security-tech-a-part-of-business-transformation)
-- [Fraud Is On the Rise, and It&#39;s Going to Get Worse](https://www.darkreading.com/edge-articles/fraud-is-on-the-rise-and-its-going-to-get-worse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
