@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Steps Toward Knowing Your Exploitable Attack Surface](https://www.darkreading.com/vulnerabilities-threats/4-steps-toward-knowing-your-exploitable-attack-surface)
 - [Cyber-Physical Security: What It Is and What You Should Do](https://www.darkreading.com/physical-security/cyber-physical-security-what-it-is-and-what-you-should-do)
 - [Test Your Team, Not Just Your Disaster Recovery Plan](https://www.darkreading.com/edge-articles/test-your-team-not-just-your-disaster-recovery-plan)
 - [Tales from the Dark Web, Part 2: Ransomware Stacked With Distribution Services Creates the Perfect Storm](https://www.darkreading.com/crowdstrike/tales-from-the-dark-web-part-2-ransomware-stacked-with-distribution-services-creates-the-perfect-storm)
@@ -73,7 +74,6 @@
 - [Registration for the &lpar;ISC&rpar;² Entry-Level Cybersecurity Certification Exam Pilot Program Is Now Open](https://www.darkreading.com/careers-and-people/registration-for-the-isc-entry-level-cybersecurity-certification-exam-pilot-program-is-now-open)
 - [DHS Sounds Alarm on Potential for Major Russian Cyberattacks on US](https://www.darkreading.com/attacks-breaches/dhs-sounds-alarm-on-potential-for-major-russian-cyberattacks-on-us)
 - [The Case for Backing Up Source Code](https://www.darkreading.com/dr-tech/source-code-security-the-case-for-making-backups)
-- [Ransomware Operators Are Feeling the Heat](https://www.darkreading.com/threat-intelligence/ransomware-operators-are-feeling-the-heat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
