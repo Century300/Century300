@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As IoT Attacks Increase, Experts Fear More Serious Threats](https://www.darkreading.com/iot/as-iot-attacks-increase-experts-fear-more-serious-threats)
 - [4 Steps Toward Knowing Your Exploitable Attack Surface](https://www.darkreading.com/vulnerabilities-threats/4-steps-toward-knowing-your-exploitable-attack-surface)
 - [Cyber-Physical Security: What It Is and What You Should Do](https://www.darkreading.com/physical-security/cyber-physical-security-what-it-is-and-what-you-should-do)
 - [Test Your Team, Not Just Your Disaster Recovery Plan](https://www.darkreading.com/edge-articles/test-your-team-not-just-your-disaster-recovery-plan)
@@ -73,7 +74,6 @@
 - [Trickbot Injections Get Harder to Detect &amp; Analyze](https://www.darkreading.com/vulnerabilities-threats/trickbot-injections-get-harder-to-detect-analyze)
 - [Registration for the &lpar;ISC&rpar;² Entry-Level Cybersecurity Certification Exam Pilot Program Is Now Open](https://www.darkreading.com/careers-and-people/registration-for-the-isc-entry-level-cybersecurity-certification-exam-pilot-program-is-now-open)
 - [DHS Sounds Alarm on Potential for Major Russian Cyberattacks on US](https://www.darkreading.com/attacks-breaches/dhs-sounds-alarm-on-potential-for-major-russian-cyberattacks-on-us)
-- [The Case for Backing Up Source Code](https://www.darkreading.com/dr-tech/source-code-security-the-case-for-making-backups)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
