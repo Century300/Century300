@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fighting Supply Chain Email Attacks With AI](https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai)
 - [Revelstoke Launches With SOAR Platform to Automate SOCs](https://www.darkreading.com/dr-tech/revelstoke-launches-with-soar-platform-to-automate-socs)
 - [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
 - [How Does Threat Modeling Work in Software Development?](https://www.darkreading.com/edge-ask-the-experts/how-does-threat-modeling-work-in-software-development-)
@@ -73,7 +74,6 @@
 - [8 Security Startups to Watch in 2022](https://www.darkreading.com/risk/8-security-startups-to-watch-in-2022)
 - [Striking a Balance Between Cybersecurity Awareness and Anxiety](https://www.darkreading.com/careers-and-people/striking-a-balance-between-cybersecurity-awareness-and-anxiety)
 - [As IoT Attacks Increase, Experts Fear More Serious Threats](https://www.darkreading.com/iot/as-iot-attacks-increase-experts-fear-more-serious-threats)
-- [4 Steps Toward Knowing Your Exploitable Attack Surface](https://www.darkreading.com/vulnerabilities-threats/4-steps-toward-knowing-your-exploitable-attack-surface)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
