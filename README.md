@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
 - [How Does Threat Modeling Work in Software Development?](https://www.darkreading.com/edge-ask-the-experts/how-does-threat-modeling-work-in-software-development-)
 - [Link11 Sets New Standards in DDoS Protection as Test Winner](https://www.darkreading.com/vulnerabilities-threats/link11-sets-new-standards-in-ddos-protection-as-test-winner)
 - [8 Security Startups to Watch in 2022](https://www.darkreading.com/risk/8-security-startups-to-watch-in-2022)
@@ -73,7 +74,6 @@
 - [As IoT Attacks Increase, Experts Fear More Serious Threats](https://www.darkreading.com/iot/as-iot-attacks-increase-experts-fear-more-serious-threats)
 - [4 Steps Toward Knowing Your Exploitable Attack Surface](https://www.darkreading.com/vulnerabilities-threats/4-steps-toward-knowing-your-exploitable-attack-surface)
 - [Cyber-Physical Security: What It Is and What You Should Do](https://www.darkreading.com/physical-security/cyber-physical-security-what-it-is-and-what-you-should-do)
-- [Test Your Team, Not Just Your Disaster Recovery Plan](https://www.darkreading.com/edge-articles/test-your-team-not-just-your-disaster-recovery-plan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
