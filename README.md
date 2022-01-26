@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why It&#39;s Time to Rethink Incident Response](https://www.darkreading.com/vulnerabilities-threats/why-it-s-time-to-rethink-incident-response)
 - [Fighting Supply Chain Email Attacks With AI](https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai)
 - [Revelstoke Launches With SOAR Platform to Automate SOCs](https://www.darkreading.com/dr-tech/revelstoke-launches-with-soar-platform-to-automate-socs)
 - [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
@@ -73,7 +74,6 @@
 - [Link11 Sets New Standards in DDoS Protection as Test Winner](https://www.darkreading.com/vulnerabilities-threats/link11-sets-new-standards-in-ddos-protection-as-test-winner)
 - [8 Security Startups to Watch in 2022](https://www.darkreading.com/risk/8-security-startups-to-watch-in-2022)
 - [Striking a Balance Between Cybersecurity Awareness and Anxiety](https://www.darkreading.com/careers-and-people/striking-a-balance-between-cybersecurity-awareness-and-anxiety)
-- [As IoT Attacks Increase, Experts Fear More Serious Threats](https://www.darkreading.com/iot/as-iot-attacks-increase-experts-fear-more-serious-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
