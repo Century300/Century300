@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OMB Issues Zero-Trust Strategy for Federal Agencies](https://www.darkreading.com/risk/omb-issues-zero-trust-strategy-for-federal-agencies)
 - [Experts Urge Firms to Patch Trivial-to-Exploit Flaw in Linux PolicyKit](https://www.darkreading.com/vulnerability-management/experts-urge-firms-to-patch-trivial-to-exploit-flaw-in-linux-policykit)
 - [Cybersecurity Is Broken: How We Got Here &amp; How to Start Fixing It](https://www.darkreading.com/attacks-breaches/cybersecurity-is-broken-how-we-got-here-and-how-to-start-fixing-it)
 - [VPNLab.net Shuttered in Latest Spate of Global Takedowns](https://www.darkreading.com/attacks-breaches/vpnlab-shuttered-in-latest-spate-of-global-takedowns)
@@ -73,7 +74,6 @@
 - [Fighting Supply Chain Email Attacks With AI](https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai)
 - [Revelstoke Launches With SOAR Platform to Automate SOCs](https://www.darkreading.com/dr-tech/revelstoke-launches-with-soar-platform-to-automate-socs)
 - [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
-- [How Does Threat Modeling Work in Software Development?](https://www.darkreading.com/edge-ask-the-experts/how-does-threat-modeling-work-in-software-development-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
