@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Is Broken: How We Got Here &amp; How to Start Fixing It](https://www.darkreading.com/attacks-breaches/cybersecurity-is-broken-how-we-got-here-and-how-to-start-fixing-it)
 - [VPNLab.net Shuttered in Latest Spate of Global Takedowns](https://www.darkreading.com/attacks-breaches/vpnlab-shuttered-in-latest-spate-of-global-takedowns)
 - [Why It&#39;s Time to Rethink Incident Response](https://www.darkreading.com/vulnerabilities-threats/why-it-s-time-to-rethink-incident-response)
 - [Fighting Supply Chain Email Attacks With AI](https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai)
@@ -73,7 +74,6 @@
 - [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
 - [How Does Threat Modeling Work in Software Development?](https://www.darkreading.com/edge-ask-the-experts/how-does-threat-modeling-work-in-software-development-)
 - [Link11 Sets New Standards in DDoS Protection as Test Winner](https://www.darkreading.com/vulnerabilities-threats/link11-sets-new-standards-in-ddos-protection-as-test-winner)
-- [8 Security Startups to Watch in 2022](https://www.darkreading.com/risk/8-security-startups-to-watch-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
