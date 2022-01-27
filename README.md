@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IT Pros May Use Cloud, But They Trust On-Prem More](https://www.darkreading.com/edge-threat-monitor/it-pros-may-use-cloud-but-they-trust-on-prem-more)
+- [Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub](https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github)
+- [ArmorCode Closes $11 Million Seed Funding Round](https://www.darkreading.com/application-security/-armorcode-closes-11-million-seed-funding-round)
 - [OMB Issues Zero-Trust Strategy for Federal Agencies](https://www.darkreading.com/risk/omb-issues-zero-trust-strategy-for-federal-agencies)
 - [Experts Urge Firms to Patch Trivial-to-Exploit Flaw in Linux PolicyKit](https://www.darkreading.com/vulnerability-management/experts-urge-firms-to-patch-trivial-to-exploit-flaw-in-linux-policykit)
 - [Cybersecurity Is Broken: How We Got Here &amp; How to Start Fixing It](https://www.darkreading.com/attacks-breaches/cybersecurity-is-broken-how-we-got-here-and-how-to-start-fixing-it)
 - [VPNLab.net Shuttered in Latest Spate of Global Takedowns](https://www.darkreading.com/attacks-breaches/vpnlab-shuttered-in-latest-spate-of-global-takedowns)
 - [Why It&#39;s Time to Rethink Incident Response](https://www.darkreading.com/vulnerabilities-threats/why-it-s-time-to-rethink-incident-response)
-- [Fighting Supply Chain Email Attacks With AI](https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai)
-- [Revelstoke Launches With SOAR Platform to Automate SOCs](https://www.darkreading.com/dr-tech/revelstoke-launches-with-soar-platform-to-automate-socs)
-- [Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign](https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
