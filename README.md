@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IFSEC Seeks Security Pros for New Survey on Physical Access Control](https://www.darkreading.com/physical-security/ifsec-seeks-security-pros-for-new-survey-on-physical-access-control)
 - [With Cloud the Norm, Insiders Are Everywhere — and Pose Greater Risk](https://www.darkreading.com/vulnerabilities-threats/with-cloud-the-norm-insiders-are-everywhere-and-pose-greater-risk)
 - [Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings](https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings)
 - [Censys Completes $35 Million Series B Funding Round Led by Intel Capital](https://www.darkreading.com/attacks-breaches/censys-completes-35-million-series-b-funding-round-led-by-intel-capital)
@@ -73,7 +74,6 @@
 - [IT Pros May Use Cloud, But They Trust On-Prem More](https://www.darkreading.com/edge-threat-monitor/it-pros-may-use-cloud-but-they-trust-on-prem-more)
 - [JFrog&#39;s New Tools Flag Malicious JavaScript Packages](https://www.darkreading.com/dr-tech/jfrog-new-tools-flag-malicious-javascript-packages)
 - [Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub](https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github)
-- [ArmorCode Closes $11 Million Seed Funding Round](https://www.darkreading.com/application-security/-armorcode-closes-11-million-seed-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
