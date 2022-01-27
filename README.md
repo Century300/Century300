@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings](https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings)
+- [Censys Completes $35 Million Series B Funding Round Led by Intel Capital](https://www.darkreading.com/attacks-breaches/censys-completes-35-million-series-b-funding-round-led-by-intel-capital)
+- [Log4j Proved Public Disclosure Still Helps Attackers](https://www.darkreading.com/attacks-breaches/log4j-proved-public-disclosure-still-helps-attackers)
 - [IT Pros May Use Cloud, But They Trust On-Prem More](https://www.darkreading.com/edge-threat-monitor/it-pros-may-use-cloud-but-they-trust-on-prem-more)
 - [JFrog&#39;s New Tools Flag Malicious JavaScript Packages](https://www.darkreading.com/dr-tech/jfrog-new-tools-flag-malicious-javascript-packages)
 - [Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub](https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github)
 - [ArmorCode Closes $11 Million Seed Funding Round](https://www.darkreading.com/application-security/-armorcode-closes-11-million-seed-funding-round)
 - [OMB Issues Zero-Trust Strategy for Federal Agencies](https://www.darkreading.com/risk/omb-issues-zero-trust-strategy-for-federal-agencies)
-- [Experts Urge Firms to Patch Trivial-to-Exploit Flaw in Linux PolicyKit](https://www.darkreading.com/vulnerability-management/experts-urge-firms-to-patch-trivial-to-exploit-flaw-in-linux-policykit)
-- [Cybersecurity Is Broken: How We Got Here &amp; How to Start Fixing It](https://www.darkreading.com/attacks-breaches/cybersecurity-is-broken-how-we-got-here-and-how-to-start-fixing-it)
-- [VPNLab.net Shuttered in Latest Spate of Global Takedowns](https://www.darkreading.com/attacks-breaches/vpnlab-shuttered-in-latest-spate-of-global-takedowns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
