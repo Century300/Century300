@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Service Edge: 4 Core Tenets for Your SASE Journey](https://www.darkreading.com/edge/security-service-edge-4-core-tenets-for-your-sase-journey)
 - [IFSEC Seeks Security Pros for New Survey on Physical Access Control](https://www.darkreading.com/physical-security/ifsec-seeks-security-pros-for-new-survey-on-physical-access-control)
 - [With Cloud the Norm, Insiders Are Everywhere — and Pose Greater Risk](https://www.darkreading.com/vulnerabilities-threats/with-cloud-the-norm-insiders-are-everywhere-and-pose-greater-risk)
 - [Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings](https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings)
@@ -73,7 +74,6 @@
 - [Log4j Proved Public Disclosure Still Helps Attackers](https://www.darkreading.com/attacks-breaches/log4j-proved-public-disclosure-still-helps-attackers)
 - [IT Pros May Use Cloud, But They Trust On-Prem More](https://www.darkreading.com/edge-threat-monitor/it-pros-may-use-cloud-but-they-trust-on-prem-more)
 - [JFrog&#39;s New Tools Flag Malicious JavaScript Packages](https://www.darkreading.com/dr-tech/jfrog-new-tools-flag-malicious-javascript-packages)
-- [Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub](https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
