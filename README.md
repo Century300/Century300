@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [With Cloud the Norm, Insiders Are Everywhere — and Pose Greater Risk](https://www.darkreading.com/vulnerabilities-threats/with-cloud-the-norm-insiders-are-everywhere-and-pose-greater-risk)
 - [Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings](https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings)
 - [Censys Completes $35 Million Series B Funding Round Led by Intel Capital](https://www.darkreading.com/attacks-breaches/censys-completes-35-million-series-b-funding-round-led-by-intel-capital)
 - [Log4j Proved Public Disclosure Still Helps Attackers](https://www.darkreading.com/attacks-breaches/log4j-proved-public-disclosure-still-helps-attackers)
@@ -73,7 +74,6 @@
 - [JFrog&#39;s New Tools Flag Malicious JavaScript Packages](https://www.darkreading.com/dr-tech/jfrog-new-tools-flag-malicious-javascript-packages)
 - [Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub](https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github)
 - [ArmorCode Closes $11 Million Seed Funding Round](https://www.darkreading.com/application-security/-armorcode-closes-11-million-seed-funding-round)
-- [OMB Issues Zero-Trust Strategy for Federal Agencies](https://www.darkreading.com/risk/omb-issues-zero-trust-strategy-for-federal-agencies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
