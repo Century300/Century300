@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Looming CISO Mental Health Crisis — and What to Do About It, Part 1](https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-1)
 - [More Security Flaws Found in Apple&#39;s OS Technologies](https://www.darkreading.com/vulnerabilities-threats/more-security-flaws-found-in-apple-s-OS-technologies)
 - [Navigating Nobelium: Lessons From Cloud Hopper &amp; NotPetya](https://www.darkreading.com/attacks-breaches/navigating-nobelium-lessons-from-cloud-hopper-notpetya)
 - [Data Privacy Day 2022: How Can AI Help in the Fight Against Ransomware?](https://www.darkreading.com/omdia/data-privacy-day-2022-how-can-ai-help-in-the-fight-against-ransomware-)
@@ -73,7 +74,6 @@
 - [Security Service Edge: 4 Core Tenets for Your SASE Journey](https://www.darkreading.com/edge/security-service-edge-4-core-tenets-for-your-sase-journey)
 - [IFSEC Seeks Security Pros for New Survey on Physical Access Control](https://www.darkreading.com/physical-security/ifsec-seeks-security-pros-for-new-survey-on-physical-access-control)
 - [With Cloud the Norm, Insiders Are Everywhere — and Pose Greater Risk](https://www.darkreading.com/vulnerabilities-threats/with-cloud-the-norm-insiders-are-everywhere-and-pose-greater-risk)
-- [Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings](https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
