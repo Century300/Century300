@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Privacy Tips for Security Pros](https://www.darkreading.com/risk/7-privacy-tips-for-security-pros-)
+- [The Zero Trust Timer Is on for Federal Agencies — How Ready Are They?](https://www.darkreading.com/endpoint/the-zero-trust-timer-is-on-for-federal-agencies-how-ready-are-they-)
 - [Crypto Agility: Solving for the Inevitable](https://www.darkreading.com/vulnerabilities-threats/crypto-agility-solving-for-the-inevitable)
 - [The Looming CISO Mental Health Crisis — and What to Do About It, Part 2](https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-2)
 - [Energy Sector Still Needs to Shut the Barn Door](https://www.darkreading.com/tech-trends/energy-sector-still-needs-to-shut-the-barn-door)
 - [The Looming CISO Mental Health Crisis — and What to Do About It, Part 1](https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-1)
 - [More Security Flaws Found in Apple&#39;s OS Technologies](https://www.darkreading.com/vulnerabilities-threats/more-security-flaws-found-in-apple-s-OS-technologies)
 - [Navigating Nobelium: Lessons From Cloud Hopper &amp; NotPetya](https://www.darkreading.com/attacks-breaches/navigating-nobelium-lessons-from-cloud-hopper-notpetya)
-- [Data Privacy Day 2022: How Can AI Help in the Fight Against Ransomware?](https://www.darkreading.com/omdia/data-privacy-day-2022-how-can-ai-help-in-the-fight-against-ransomware-)
-- [Phishing Simulation Study Shows Why These Attacks Remain Pervasive](https://www.darkreading.com/threat-intelligence/simulation-shows-why-phishing-attacks-continue-to-dominate)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
