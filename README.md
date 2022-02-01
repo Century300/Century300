@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qualys Adds Advanced Remediation Capabilities to Minimize Vulnerability Risk](https://www.darkreading.com/vulnerabilities-threats/qualys-adds-advanced-remediation-capabilities-to-minimize-vulnerability-risk)
+- [Mastercard Launches Global Cybersecurity Alliance Program to Further Secure The Digital Ecosystem](https://www.darkreading.com/risk/mastercard-launches-global-cybersecurity-alliance-program-to-further-secure-the-digital-ecosystem)
 - [Critical Log4j Vulnerabilities Are the Ultimate Gift for Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/critical-log4j-vulnerabilities-are-the-ultimate-gift-for-cybercriminals)
+- [NortonLifeLock Introduces Social Media Monitoring](https://www.darkreading.com/endpoint/nortonlifelock-introduces-social-media-monitoring)
 - [Coalition Launches Executive Risks Products With Personalized Risk Assessment](https://www.darkreading.com/risk/coalition-launches-executive-risks-products-with-personalized-risk-assessment)
 - [Cymulate Launches Service to Augment In-House Security Teams](https://www.darkreading.com/risk/cymulate-launches-service-to-augment-in-house-security-teams)
 - [Security Service Edge Boosters Form New Forum to Encourage Adoption](https://www.darkreading.com/dr-tech/security-service-edge-boosters-form-new-forum-to-encourage-adoption)
 - [Mandiant: 1 in 7 Ransomware Extortion Attacks Exposes OT Data](https://www.darkreading.com/attacks-breaches/mandiant-one-in-7-ransomware-extortion-attacks-expose-ot-data)
-- [BlackBerry Agrees to Sell Legacy Patents for $600M](https://www.darkreading.com/endpoint/blackberry-agrees-to-sell-legacy-patents-for-600m)
-- [Aggressive BlackCat Ransomware on the Rise](https://www.darkreading.com/threat-intelligence/aggressive-blackcat-ransomware-on-the-rise)
-- [7 Privacy Tips for Security Pros](https://www.darkreading.com/risk/7-privacy-tips-for-security-pros-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
