@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Log4j Vulnerabilities Are the Ultimate Gift for Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/critical-log4j-vulnerabilities-are-the-ultimate-gift-for-cybercriminals)
 - [Coalition Launches Executive Risks Products With Personalized Risk Assessment](https://www.darkreading.com/risk/coalition-launches-executive-risks-products-with-personalized-risk-assessment)
 - [Cymulate Launches Service to Augment In-House Security Teams](https://www.darkreading.com/risk/cymulate-launches-service-to-augment-in-house-security-teams)
 - [Security Service Edge Boosters Form New Forum to Encourage Adoption](https://www.darkreading.com/dr-tech/security-service-edge-boosters-form-new-forum-to-encourage-adoption)
@@ -73,7 +74,6 @@
 - [BlackBerry Agrees to Sell Legacy Patents for $600M](https://www.darkreading.com/endpoint/blackberry-agrees-to-sell-legacy-patents-for-600m)
 - [Aggressive BlackCat Ransomware on the Rise](https://www.darkreading.com/threat-intelligence/aggressive-blackcat-ransomware-on-the-rise)
 - [7 Privacy Tips for Security Pros](https://www.darkreading.com/risk/7-privacy-tips-for-security-pros-)
-- [The Zero-Trust Timer Is on for Federal Agencies — How Ready Are They?](https://www.darkreading.com/endpoint/the-zero-trust-timer-is-on-for-federal-agencies-how-ready-are-they-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
