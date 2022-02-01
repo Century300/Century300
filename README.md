@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management](https://www.darkreading.com/vulnerabilities-threats/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management)
+- [Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus](https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus)
+- [Ping Identity Launches PingOne DaVinci](https://www.darkreading.com/endpoint/ping-identity-launches-pingone-davinci)
+- [Digital Shadows Launches New Vulnerability Intelligence Module](https://www.darkreading.com/vulnerabilities-threats/digital-shadows-launches-new-vulnerability-intelligence-module)
+- [Disclosure, Panic, Patch: Can We Do Better?](https://www.darkreading.com/application-security/disclosure-panic-patch-can-we-do-better-)
+- [ShiftLeft CORE &#39;Velocity Update&#39; Streamlines Triage, Automates Build Security Controls](https://www.darkreading.com/application-security/shiftleft-core-velocity-update-streamlines-triage-automates-build-security-controls)
 - [7 Red Flags That Can Stop Your Company From Becoming a Unicorn](https://www.darkreading.com/edge-articles/7-red-flags-that-can-stop-your-company-from-becoming-a-unicorn)
 - [Complexity vs. Capability: How to Bridge the Security Effectiveness Gap](https://www.darkreading.com/vulnerabilities-threats/complexity-vs-capability-how-to-bridge-the-security-effectiveness-gap)
-- [Qualys Adds Advanced Remediation Capabilities to Minimize Vulnerability Risk](https://www.darkreading.com/vulnerabilities-threats/qualys-adds-advanced-remediation-capabilities-to-minimize-vulnerability-risk)
-- [Mastercard Launches Global Cybersecurity Alliance Program to Further Secure The Digital Ecosystem](https://www.darkreading.com/risk/mastercard-launches-global-cybersecurity-alliance-program-to-further-secure-the-digital-ecosystem)
-- [Critical Log4j Vulnerabilities Are the Ultimate Gift for Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/critical-log4j-vulnerabilities-are-the-ultimate-gift-for-cybercriminals)
-- [NortonLifeLock Introduces Social Media Monitoring](https://www.darkreading.com/endpoint/nortonlifelock-introduces-social-media-monitoring)
-- [Coalition Launches Executive Risks Products With Personalized Risk Assessment](https://www.darkreading.com/risk/coalition-launches-executive-risks-products-with-personalized-risk-assessment)
-- [Cymulate Launches Service to Augment In-House Security Teams](https://www.darkreading.com/risk/cymulate-launches-service-to-augment-in-house-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
