@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Complexity vs. Capability: How to Bridge the Security Effectiveness Gap](https://www.darkreading.com/vulnerabilities-threats/complexity-vs-capability-how-to-bridge-the-security-effectiveness-gap)
 - [Qualys Adds Advanced Remediation Capabilities to Minimize Vulnerability Risk](https://www.darkreading.com/vulnerabilities-threats/qualys-adds-advanced-remediation-capabilities-to-minimize-vulnerability-risk)
 - [Mastercard Launches Global Cybersecurity Alliance Program to Further Secure The Digital Ecosystem](https://www.darkreading.com/risk/mastercard-launches-global-cybersecurity-alliance-program-to-further-secure-the-digital-ecosystem)
 - [Critical Log4j Vulnerabilities Are the Ultimate Gift for Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/critical-log4j-vulnerabilities-are-the-ultimate-gift-for-cybercriminals)
@@ -73,7 +74,6 @@
 - [Coalition Launches Executive Risks Products With Personalized Risk Assessment](https://www.darkreading.com/risk/coalition-launches-executive-risks-products-with-personalized-risk-assessment)
 - [Cymulate Launches Service to Augment In-House Security Teams](https://www.darkreading.com/risk/cymulate-launches-service-to-augment-in-house-security-teams)
 - [Security Service Edge Boosters Form New Forum to Encourage Adoption](https://www.darkreading.com/dr-tech/security-service-edge-boosters-form-new-forum-to-encourage-adoption)
-- [Mandiant: 1 in 7 Ransomware Extortion Attacks Exposes OT Data](https://www.darkreading.com/attacks-breaches/mandiant-one-in-7-ransomware-extortion-attacks-expose-ot-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
