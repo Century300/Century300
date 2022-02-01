@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Service Edge Boosters Form New Forum to Encourage Adoption](https://www.darkreading.com/dr-tech/security-service-edge-boosters-form-new-forum-to-encourage-adoption)
+- [Mandiant: 1 in 7 Ransomware Extortion Attacks Exposes OT Data](https://www.darkreading.com/attacks-breaches/mandiant-one-in-7-ransomware-extortion-attacks-expose-ot-data)
 - [BlackBerry Agrees to Sell Legacy Patents for $600M](https://www.darkreading.com/endpoint/blackberry-agrees-to-sell-legacy-patents-for-600m)
 - [Aggressive BlackCat Ransomware on the Rise](https://www.darkreading.com/threat-intelligence/aggressive-blackcat-ransomware-on-the-rise)
 - [7 Privacy Tips for Security Pros](https://www.darkreading.com/risk/7-privacy-tips-for-security-pros-)
 - [The Zero-Trust Timer Is on for Federal Agencies — How Ready Are They?](https://www.darkreading.com/endpoint/the-zero-trust-timer-is-on-for-federal-agencies-how-ready-are-they-)
 - [Crypto Agility: Solving for the Inevitable](https://www.darkreading.com/vulnerabilities-threats/crypto-agility-solving-for-the-inevitable)
 - [The Looming CISO Mental Health Crisis — and What to Do About It, Part 2](https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-2)
-- [Energy Sector Still Needs to Shut the Barn Door](https://www.darkreading.com/tech-trends/energy-sector-still-needs-to-shut-the-barn-door)
-- [The Looming CISO Mental Health Crisis — and What to Do About It, Part 1](https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-1)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
