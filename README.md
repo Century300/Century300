@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cato Networks Delivers Instant Visibility and Control of Cloud Application Data Risk](https://www.darkreading.com/cloud/cato-networks-delivers-instant-visibility-and-control-of-cloud-application-data-risk)
+- [INKY Completes Email Security Offering With Launch of Outbound Mail Protection](https://www.darkreading.com/endpoint/inky-completes-email-security-offering-with-launch-of-outbound-mail-protection)
+- [WhiteSource Threat Report Reveals Massive Uptick In Cyberattacks Related To JavaScript npm](https://www.darkreading.com/attacks-breaches/whitesource-threat-report-reveals-massive-uptick-in-cyberattacks-related-to-javascript-npm)
+- [Why Security Pros Are Frustrated With Cloud Security](https://www.darkreading.com/cloud/why-security-pros-are-frustrated-with-cloud-security)
+- [Foresite Cybersecurity Acquires Cyber Lantern](https://www.darkreading.com/risk/foresite-cybersecurity-acquires-cyber-lantern)
 - [Managing Detections is Not the Same as Stopping Breaches](https://www.darkreading.com/crowdstrike/managing-detections-is-not-the-same-as-stopping-breaches)
 - [The Real-World Impact of the Global Cybersecurity Workforce Gap on Cyber Defenders](https://www.darkreading.com/careers-and-people/the-real-world-impact-of-the-global-cybersecurity-workforce-gap-on-cyber-defenders)
 - [8 Security Dinosaurs and What Filled Their Footprints](https://www.darkreading.com/dr-tech/8-security-dinosaurs-and-what-filled-their-footprints)
-- [Olympic Athletes Advised by FBI to Bring &#39;Burner&#39; Phones to Beijing](https://www.darkreading.com/vulnerabilities-threats/olympic-athletes-advised-by-fbi-to-bring-burner-phones-to-beijing)
-- [TikTok&#39;s Roland Cloutier: How CISOs Can Foster a Culture of Security &amp; Transparency](https://www.darkreading.com/careers-and-people/tiktok-s-roland-cloutier-on-how-cisos-can-foster-a-culture-of-security-and-transparency)
-- [Tens of Thousands of Websites Vulnerable to RCE Flaw in WordPress Plug-in](https://www.darkreading.com/vulnerabilities-threats/tens-of-thousands-of-websites-vulnerable-to-rce-flaw-in-wordpress-plugin)
-- [Secure Web Browsers Tackle Ransomware, Insider Threat in Enterprises](https://www.darkreading.com/emerging-tech/secure-web-browsers-tackle-ransomware-insider-threat-in-enterprises)
-- [ThycoticCentrify Renamed Delinea](https://www.darkreading.com/endpoint/thycotic-centrify-renamed-delinea)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
