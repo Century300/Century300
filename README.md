@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TikTok&#39;s Roland Cloutier: How CISOs Can Foster a Culture of Security &amp; Transparency](https://www.darkreading.com/careers-and-people/tiktok-s-roland-cloutier-on-how-cisos-can-foster-a-culture-of-security-and-transparency)
+- [Tens of Thousands of Websites Vulnerable to RCE Flaw in WordPress Plug-in](https://www.darkreading.com/vulnerabilities-threats/tens-of-thousands-of-websites-vulnerable-to-rce-flaw-in-wordpress-plugin)
 - [Secure Web Browsers Tackle Ransomware, Insider Threat in Enterprises](https://www.darkreading.com/emerging-tech/secure-web-browsers-tackle-ransomware-insider-threat-in-enterprises)
 - [ThycoticCentrify Renamed Delinea](https://www.darkreading.com/endpoint/thycotic-centrify-renamed-delinea)
 - [Nucleus Security Forms Strategic Partnership with Mandiant](https://www.darkreading.com/vulnerabilities-threats/nucleus-security-forms-strategic-partnership-with-mandiant)
 - [Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management](https://www.darkreading.com/vulnerabilities-threats/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management)
 - [Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus](https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus)
 - [Ping Identity Launches PingOne DaVinci](https://www.darkreading.com/endpoint/ping-identity-launches-pingone-davinci)
-- [Digital Shadows Launches New Vulnerability Intelligence Module](https://www.darkreading.com/vulnerabilities-threats/digital-shadows-launches-new-vulnerability-intelligence-module)
-- [Disclosure, Panic, Patch: Can We Do Better?](https://www.darkreading.com/application-security/disclosure-panic-patch-can-we-do-better-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
