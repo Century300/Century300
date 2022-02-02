@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Real-World Impact of the Global Cybersecurity Workforce Gap on Cyber Defenders](https://www.darkreading.com/careers-and-people/the-real-world-impact-of-the-global-cybersecurity-workforce-gap-on-cyber-defenders)
 - [8 Security Dinosaurs and What Filled Their Footprints](https://www.darkreading.com/dr-tech/8-security-dinosaurs-and-what-filled-their-footprints)
 - [Olympic Athletes Advised by FBI to Bring &#39;Burner&#39; Phones to Beijing](https://www.darkreading.com/vulnerabilities-threats/olympic-athletes-advised-by-fbi-to-bring-burner-phones-to-beijing)
 - [TikTok&#39;s Roland Cloutier: How CISOs Can Foster a Culture of Security &amp; Transparency](https://www.darkreading.com/careers-and-people/tiktok-s-roland-cloutier-on-how-cisos-can-foster-a-culture-of-security-and-transparency)
@@ -73,7 +74,6 @@
 - [Secure Web Browsers Tackle Ransomware, Insider Threat in Enterprises](https://www.darkreading.com/emerging-tech/secure-web-browsers-tackle-ransomware-insider-threat-in-enterprises)
 - [ThycoticCentrify Renamed Delinea](https://www.darkreading.com/endpoint/thycotic-centrify-renamed-delinea)
 - [Nucleus Security Forms Strategic Partnership with Mandiant](https://www.darkreading.com/vulnerabilities-threats/nucleus-security-forms-strategic-partnership-with-mandiant)
-- [Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management](https://www.darkreading.com/vulnerabilities-threats/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
