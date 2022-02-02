@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [If My Organization Is Mostly in the Cloud, Do I Need a Firewall?](https://www.darkreading.com/edge-ask-the-experts/if-my-organization-is-mostly-in-the-cloud-do-i-need-a-firewall-)
 - [Cato Networks Delivers Instant Visibility and Control of Cloud Application Data Risk](https://www.darkreading.com/cloud/cato-networks-delivers-instant-visibility-and-control-of-cloud-application-data-risk)
 - [INKY Completes Email Security Offering With Launch of Outbound Mail Protection](https://www.darkreading.com/endpoint/inky-completes-email-security-offering-with-launch-of-outbound-mail-protection)
 - [WhiteSource Threat Report Reveals Massive Uptick In Cyberattacks Related To JavaScript npm](https://www.darkreading.com/attacks-breaches/whitesource-threat-report-reveals-massive-uptick-in-cyberattacks-related-to-javascript-npm)
@@ -73,7 +74,6 @@
 - [Foresite Cybersecurity Acquires Cyber Lantern](https://www.darkreading.com/risk/foresite-cybersecurity-acquires-cyber-lantern)
 - [Managing Detections is Not the Same as Stopping Breaches](https://www.darkreading.com/crowdstrike/managing-detections-is-not-the-same-as-stopping-breaches)
 - [The Real-World Impact of the Global Cybersecurity Workforce Gap on Cyber Defenders](https://www.darkreading.com/careers-and-people/the-real-world-impact-of-the-global-cybersecurity-workforce-gap-on-cyber-defenders)
-- [8 Security Dinosaurs and What Filled Their Footprints](https://www.darkreading.com/dr-tech/8-security-dinosaurs-and-what-filled-their-footprints)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
