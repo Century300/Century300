@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Managing Detections is Not the Same as Stopping Breaches](https://www.darkreading.com/crowdstrike/managing-detections-is-not-the-same-as-stopping-breaches)
 - [The Real-World Impact of the Global Cybersecurity Workforce Gap on Cyber Defenders](https://www.darkreading.com/careers-and-people/the-real-world-impact-of-the-global-cybersecurity-workforce-gap-on-cyber-defenders)
 - [8 Security Dinosaurs and What Filled Their Footprints](https://www.darkreading.com/dr-tech/8-security-dinosaurs-and-what-filled-their-footprints)
 - [Olympic Athletes Advised by FBI to Bring &#39;Burner&#39; Phones to Beijing](https://www.darkreading.com/vulnerabilities-threats/olympic-athletes-advised-by-fbi-to-bring-burner-phones-to-beijing)
@@ -73,7 +74,6 @@
 - [Tens of Thousands of Websites Vulnerable to RCE Flaw in WordPress Plug-in](https://www.darkreading.com/vulnerabilities-threats/tens-of-thousands-of-websites-vulnerable-to-rce-flaw-in-wordpress-plugin)
 - [Secure Web Browsers Tackle Ransomware, Insider Threat in Enterprises](https://www.darkreading.com/emerging-tech/secure-web-browsers-tackle-ransomware-insider-threat-in-enterprises)
 - [ThycoticCentrify Renamed Delinea](https://www.darkreading.com/endpoint/thycotic-centrify-renamed-delinea)
-- [Nucleus Security Forms Strategic Partnership with Mandiant](https://www.darkreading.com/vulnerabilities-threats/nucleus-security-forms-strategic-partnership-with-mandiant)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
