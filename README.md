@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mandiant Bolsters SaaS Platform With Integration of New Attack Surface Management Module](https://www.darkreading.com/attacks-breaches/mandiant-bolsters-saas-platform-with-integration-of-new-attack-surface-management-module)
+- [Several India-Based Call Centers Indicted by US DoJ](https://www.darkreading.com/risk/several-india-based-call-centers-indicted-by-us-doj)
+- [Tenable Launches Suite of New Features to Cloud-Native Application Security Platform](https://www.darkreading.com/cloud/tenable-launches-suite-of-new-features-to-cloud-native-application-security-platform)
+- [The Future of Cybersecurity: Our Predictions for 2022](https://www.darkreading.com/threat-intelligence/the-future-of-cybersecurity-our-predictions-for-2022)
+- [Research From Quantum and ESG Reveals Top Challenges in Data Management](https://www.darkreading.com/analytics/research-from-quantum-and-esg-reveals-top-challenges-in-data-management)
 - [DHS Launches Cyber Safety Review Board to Analyze Major Vulnerability Events](https://www.darkreading.com/vulnerabilities-threats/cyber-safety-review-board-to-analyze-major-vulnerability-events)
 - [Menlo Security Finds Cloud Migration and Remote Work Gives Rise to New Era of Malware, Highly Evasive Adaptive Threats &lpar;HEAT&rpar;](https://www.darkreading.com/attacks-breaches/menlo-security-finds-cloud-migration-and-remote-work-gives-rise-to-new-era-of-malware-highly-evasive-adaptive-threats-heat-)
 - [Microsoft: Multifactor Adoption Remains Low](https://www.darkreading.com/operations/microsoft-multifactor-adoption-remains-low)
-- [BIO-key to Expand Customer Reach and Talent in EMEA Region](https://www.darkreading.com/operations/bio-key-to-expand-customer-reach-and-talent-in-emea-region-via-definitive-agreement-to-acquire-authentication-solutions-provider-swivel-secure-europe)
-- [Keeper Security Acquires Glyptodon](https://www.darkreading.com/endpoint/keeper-security-acquires-glyptodon-)
-- [BreachQuest Welcomes Sandy Dunn as Chief Information Security Officer](https://www.darkreading.com/careers-and-people/breachquest-welcomes-sandy-dunn-as-chief-information-security-officer)
-- [HackNotice Releases Combined Security and Threat Awareness Service for Free](https://www.darkreading.com/attacks-breaches/hacknotice-releases-combined-security-and-threat-awareness-service-for-free)
-- [Simplifying Zero Trust Security in Healthcare Organizations](https://www.darkreading.com/crowdstrike/simplifying-zero-trust-security-in-healthcare-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
