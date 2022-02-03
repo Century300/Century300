@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Simplifying Zero Trust Security in Healthcare Organizations](https://www.darkreading.com/crowdstrike/simplifying-zero-trust-security-in-healthcare-organizations)
+- [Big Pharma Finds Patch Management a Bitter Pill](https://www.darkreading.com/tech-trends/big-pharma-finds-patch-management-a-bitter-pill)
 - [Hackers Went Wild in 2021 — Every Company Should Do These 5 Things in 2022](https://www.darkreading.com/attacks-breaches/hackers-went-wild-in-2021-every-company-should-do-these-5-things-in-2022)
 - [If My Organization Is Mostly in the Cloud, Do I Need a Firewall?](https://www.darkreading.com/edge-ask-the-experts/if-my-organization-is-mostly-in-the-cloud-do-i-need-a-firewall-)
 - [Cato Networks Delivers Instant Visibility and Control of Cloud Application Data Risk](https://www.darkreading.com/cloud/cato-networks-delivers-instant-visibility-and-control-of-cloud-application-data-risk)
 - [INKY Completes Email Security Offering With Launch of Outbound Mail Protection](https://www.darkreading.com/endpoint/inky-completes-email-security-offering-with-launch-of-outbound-mail-protection)
 - [WhiteSource Threat Report Reveals Massive Uptick In Cyberattacks Related To JavaScript npm](https://www.darkreading.com/attacks-breaches/whitesource-threat-report-reveals-massive-uptick-in-cyberattacks-related-to-javascript-npm)
 - [Why Security Pros Are Frustrated With Cloud Security](https://www.darkreading.com/cloud/why-security-pros-are-frustrated-with-cloud-security)
-- [Foresite Cybersecurity Acquires Cyber Lantern](https://www.darkreading.com/risk/foresite-cybersecurity-acquires-cyber-lantern)
-- [Managing Detections is Not the Same as Stopping Breaches](https://www.darkreading.com/crowdstrike/managing-detections-is-not-the-same-as-stopping-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
