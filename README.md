@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Want to Be an Ethical Hacker? Here&#39;s Where to Begin](https://www.darkreading.com/careers-and-people/want-to-be-an-ethical-hacker-here-s-where-to-begin)
 - [Mac Malware-Dropping Adware Gets More Dangerous](https://www.darkreading.com/vulnerabilities-threats/mac-malware-dropping-adware-gets-more-dangerous)
 - [Mandiant Bolsters SaaS Platform With Integration of New Attack Surface Management Module](https://www.darkreading.com/attacks-breaches/mandiant-bolsters-saas-platform-with-integration-of-new-attack-surface-management-module)
 - [Several India-Based Call Centers Indicted by US DoJ](https://www.darkreading.com/risk/several-india-based-call-centers-indicted-by-us-doj)
@@ -73,7 +74,6 @@
 - [The Future of Cybersecurity: Our Predictions for 2022](https://www.darkreading.com/threat-intelligence/the-future-of-cybersecurity-our-predictions-for-2022)
 - [Research From Quantum and ESG Reveals Top Challenges in Data Management](https://www.darkreading.com/analytics/research-from-quantum-and-esg-reveals-top-challenges-in-data-management)
 - [DHS Launches Cyber Safety Review Board to Analyze Major Vulnerability Events](https://www.darkreading.com/vulnerabilities-threats/cyber-safety-review-board-to-analyze-major-vulnerability-events)
-- [Menlo Security Finds Cloud Migration and Remote Work Gives Rise to New Era of Malware, Highly Evasive Adaptive Threats &lpar;HEAT&rpar;](https://www.darkreading.com/attacks-breaches/menlo-security-finds-cloud-migration-and-remote-work-gives-rise-to-new-era-of-malware-highly-evasive-adaptive-threats-heat-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
