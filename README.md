@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The 3 Most Common Causes of Data Breaches in 2021](https://www.darkreading.com/edge-threat-monitor/most-common-cause-of-data-breach-in-2021-phishing-smishing-bec)
 - [Expert Insights: Training the Data Elephant in the AI Room](https://www.darkreading.com/risk/irresponsible-ai-training-the-data-elephant-in-the-room)
 - [China-Linked Group Attacked Taiwanese Financial Firms for 18 Months](https://www.darkreading.com/threat-intelligence/china-linked-group-attacked-taiwanese-financial-firms-for-18-months)
 - [Want to Be an Ethical Hacker? Here&#39;s Where to Begin](https://www.darkreading.com/careers-and-people/want-to-be-an-ethical-hacker-here-s-where-to-begin)
@@ -73,7 +74,6 @@
 - [Mandiant Bolsters SaaS Platform With Integration of New Attack Surface Management Module](https://www.darkreading.com/attacks-breaches/mandiant-bolsters-saas-platform-with-integration-of-new-attack-surface-management-module)
 - [Several India-Based Call Centers Indicted by US DoJ](https://www.darkreading.com/risk/several-india-based-call-centers-indicted-by-us-doj)
 - [Tenable Launches Suite of New Features to Cloud-Native Application Security Platform](https://www.darkreading.com/cloud/tenable-launches-suite-of-new-features-to-cloud-native-application-security-platform)
-- [The Future of Cybersecurity: Our Predictions for 2022](https://www.darkreading.com/threat-intelligence/the-future-of-cybersecurity-our-predictions-for-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
