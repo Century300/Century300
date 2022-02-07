@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4j: Getting From Stopgap Remedies to Long-Term Solutions](https://www.darkreading.com/attacks-breaches/log4j-getting-from-stopgap-remedies-to-long-term-solutions)
+- [Name That Edge Toon: Head of the Table](https://www.darkreading.com/edge-articles/name-that-edge-toon-head-of-the-table)
 - [The 3 Most Common Causes of Data Breaches in 2021](https://www.darkreading.com/edge-threat-monitor/most-common-cause-of-data-breach-in-2021-phishing-smishing-bec)
 - [Expert Insights: Training the Data Elephant in the AI Room](https://www.darkreading.com/risk/irresponsible-ai-training-the-data-elephant-in-the-room)
 - [China-Linked Group Attacked Taiwanese Financial Firms for 18 Months](https://www.darkreading.com/threat-intelligence/china-linked-group-attacked-taiwanese-financial-firms-for-18-months)
 - [Want to Be an Ethical Hacker? Here&#39;s Where to Begin](https://www.darkreading.com/careers-and-people/want-to-be-an-ethical-hacker-here-s-where-to-begin)
 - [Mac Malware-Dropping Adware Gets More Dangerous](https://www.darkreading.com/vulnerabilities-threats/mac-malware-dropping-adware-gets-more-dangerous)
 - [Mandiant Bolsters SaaS Platform With Integration of New Attack Surface Management Module](https://www.darkreading.com/attacks-breaches/mandiant-bolsters-saas-platform-with-integration-of-new-attack-surface-management-module)
-- [Several India-Based Call Centers Indicted by US DoJ](https://www.darkreading.com/risk/several-india-based-call-centers-indicted-by-us-doj)
-- [Tenable Launches Suite of New Features to Cloud-Native Application Security Platform](https://www.darkreading.com/cloud/tenable-launches-suite-of-new-features-to-cloud-native-application-security-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
