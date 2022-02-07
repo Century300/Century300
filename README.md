@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI Publishes Indicators of Compromise for LockBit 2.0 Ransomware](https://www.darkreading.com/threat-intelligence/fbi-publishes-indicators-of-compromise-for-lockbit-2-0-ransomware)
 - [A Prophylactic Approach for Today&#39;s Vulnerable Websites and Web Apps](https://www.darkreading.com/application-security/a-prophylactic-approach-for-today-s-vulnerable-websites-and-web-apps)
 - [SecurityScorecard Acquires LIFARS](https://www.darkreading.com/risk/securityscorecard-acquires-lifars)
 - [When Multifactor Authentication Is Compromised: Fighting Back With AI](https://www.darkreading.com/dr-tech/when-multifactor-authentication-is-compromised-fighting-back-with-ai)
@@ -73,7 +74,6 @@
 - [Name That Edge Toon: Head of the Table](https://www.darkreading.com/edge-articles/name-that-edge-toon-head-of-the-table)
 - [The 3 Most Common Causes of Data Breaches in 2021](https://www.darkreading.com/edge-threat-monitor/most-common-cause-of-data-breach-in-2021-phishing-smishing-bec)
 - [Expert Insights: Training the Data Elephant in the AI Room](https://www.darkreading.com/risk/irresponsible-ai-training-the-data-elephant-in-the-room)
-- [China-Linked Group Attacked Taiwanese Financial Firms for 18 Months](https://www.darkreading.com/threat-intelligence/china-linked-group-attacked-taiwanese-financial-firms-for-18-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
