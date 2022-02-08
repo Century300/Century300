@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qualys Launches Context XDR](https://www.darkreading.com/cloud/qualys-launches-context-xdr)
+- [InterVision Unveils Ransomware Protection as a Service](https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service)
 - [Salesforce DevOps Needs Guardrails](https://www.darkreading.com/cloud/salesforce-devops-needs-guardrails)
+- [DeepSurface Security Secures $4.5M for Business Expansion](https://www.darkreading.com/risk/deepsurface-security-secures-4-5m-for-business-expansion)
 - [Russian APT Steps Up Malicious Cyber Activity in Ukraine](https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine)
 - [FBI Publishes Indicators of Compromise for LockBit 2.0 Ransomware](https://www.darkreading.com/threat-intelligence/fbi-publishes-indicators-of-compromise-for-lockbit-2-0-ransomware)
 - [A Prophylactic Approach for Today&#39;s Vulnerable Websites and Web Apps](https://www.darkreading.com/application-security/a-prophylactic-approach-for-today-s-vulnerable-websites-and-web-apps)
 - [SecurityScorecard Acquires LIFARS](https://www.darkreading.com/risk/securityscorecard-acquires-lifars)
-- [When Multifactor Authentication Is Compromised: Fighting Back With AI](https://www.darkreading.com/dr-tech/when-multifactor-authentication-is-compromised-fighting-back-with-ai)
-- [Log4j: Getting From Stopgap Remedies to Long-Term Solutions](https://www.darkreading.com/attacks-breaches/log4j-getting-from-stopgap-remedies-to-long-term-solutions)
-- [Name That Edge Toon: Head of the Table](https://www.darkreading.com/edge-articles/name-that-edge-toon-head-of-the-table)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
