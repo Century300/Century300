@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Terrorism Is a Growing Threat &amp; Governments Must Take Action](https://www.darkreading.com/attacks-breaches/cyber-terrorism-is-a-growing-threat-governments-must-take-action)
 - [Qualys Launches Context XDR](https://www.darkreading.com/cloud/qualys-launches-context-xdr)
 - [InterVision Unveils Ransomware Protection as a Service](https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service)
 - [Salesforce DevOps Needs Guardrails](https://www.darkreading.com/cloud/salesforce-devops-needs-guardrails)
@@ -73,7 +74,6 @@
 - [Russian APT Steps Up Malicious Cyber Activity in Ukraine](https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine)
 - [FBI Publishes Indicators of Compromise for LockBit 2.0 Ransomware](https://www.darkreading.com/threat-intelligence/fbi-publishes-indicators-of-compromise-for-lockbit-2-0-ransomware)
 - [A Prophylactic Approach for Today&#39;s Vulnerable Websites and Web Apps](https://www.darkreading.com/application-security/a-prophylactic-approach-for-today-s-vulnerable-websites-and-web-apps)
-- [SecurityScorecard Acquires LIFARS](https://www.darkreading.com/risk/securityscorecard-acquires-lifars)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
