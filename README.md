@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerability Scanning Triples, Leading to Two-Thirds Fewer Flaws](https://www.darkreading.com/application-security/vulnerability-scanning-triples-leading-to-two-third-fewer-flaws)
 - [Cyber Terrorism Is a Growing Threat &amp; Governments Must Take Action](https://www.darkreading.com/attacks-breaches/cyber-terrorism-is-a-growing-threat-governments-must-take-action)
 - [Qualys Launches Context XDR](https://www.darkreading.com/cloud/qualys-launches-context-xdr)
 - [InterVision Unveils Ransomware Protection as a Service](https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service)
@@ -73,7 +74,6 @@
 - [DeepSurface Security Secures $4.5M for Business Expansion](https://www.darkreading.com/risk/deepsurface-security-secures-4-5m-for-business-expansion)
 - [Russian APT Steps Up Malicious Cyber Activity in Ukraine](https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine)
 - [FBI Publishes Indicators of Compromise for LockBit 2.0 Ransomware](https://www.darkreading.com/threat-intelligence/fbi-publishes-indicators-of-compromise-for-lockbit-2-0-ransomware)
-- [A Prophylactic Approach for Today&#39;s Vulnerable Websites and Web Apps](https://www.darkreading.com/application-security/a-prophylactic-approach-for-today-s-vulnerable-websites-and-web-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
