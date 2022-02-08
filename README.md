@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Issues 51 CVEs for Patch Tuesday, None &#39;Critical&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-51-cves-for-patch-tuesday-none-critical-)
+- [Google Cuts User Account Compromises in Half With Simple Change](https://www.darkreading.com/attacks-breaches/google-cuts-account-compromises-in-half-with-simple-change)
 - [Get Started on Continuous Compliance Ahead of PCI DSS v4.0](https://www.darkreading.com/edge/get-started-on-continuous-compliance-ahead-of-pci-dss-v4-0)
 - [Threat Actors Revive 20-Year-Old Tactic in Microsoft 365 Phishing Attacks](https://www.darkreading.com/attacks-breaches/threat-actors-revive-20-year-old-tactic-in-microsoft-365-phishing-attacks)
 - [Vulnerability Scanning Triples, Leading to Two-Thirds Fewer Flaws](https://www.darkreading.com/application-security/vulnerability-scanning-triples-leading-to-two-third-fewer-flaws)
 - [Cyber Terrorism Is a Growing Threat &amp; Governments Must Take Action](https://www.darkreading.com/attacks-breaches/cyber-terrorism-is-a-growing-threat-governments-must-take-action)
 - [Qualys Launches Context XDR](https://www.darkreading.com/cloud/qualys-launches-context-xdr)
 - [InterVision Unveils Ransomware Protection as a Service](https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service)
-- [Salesforce DevOps Needs Guardrails](https://www.darkreading.com/cloud/salesforce-devops-needs-guardrails)
-- [DeepSurface Security Secures $4.5M for Business Expansion](https://www.darkreading.com/risk/deepsurface-security-secures-4-5m-for-business-expansion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
