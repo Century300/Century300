@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4j and the Role of SBOMs in Reducing Software Security Risk](https://www.darkreading.com/vulnerabilities-threats/log4j-and-the-role-of-sboms-in-reducing-software-security-risk)
 - [Microsoft Issues 51 CVEs for Patch Tuesday, None &#39;Critical&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-51-cves-for-patch-tuesday-none-critical-)
 - [Google Cuts User Account Compromises in Half With Simple Change](https://www.darkreading.com/attacks-breaches/google-cuts-account-compromises-in-half-with-simple-change)
 - [Get Started on Continuous Compliance Ahead of PCI DSS v4.0](https://www.darkreading.com/edge/get-started-on-continuous-compliance-ahead-of-pci-dss-v4-0)
@@ -73,7 +74,6 @@
 - [Vulnerability Scanning Triples, Leading to Two-Thirds Fewer Flaws](https://www.darkreading.com/application-security/vulnerability-scanning-triples-leading-to-two-third-fewer-flaws)
 - [Cyber Terrorism Is a Growing Threat &amp; Governments Must Take Action](https://www.darkreading.com/attacks-breaches/cyber-terrorism-is-a-growing-threat-governments-must-take-action)
 - [Qualys Launches Context XDR](https://www.darkreading.com/cloud/qualys-launches-context-xdr)
-- [InterVision Unveils Ransomware Protection as a Service](https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
