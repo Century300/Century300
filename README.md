@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Putting AI to Practical Use in Cybersecurity](https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity)
+- [Experts: Several CVEs From Microsoft&#39;s February Security Update Require Prompt Attention](https://www.darkreading.com/application-security/several-flaws-in-microsoft-s-february-security-update-need-prompt-attention)
 - [Linux Malware on the Rise](https://www.darkreading.com/cloud/linux-malware-on-the-rise-including-illicit-use-of-cobalt-strike)
 - [Auth0 Credential Guard Detects Breached Passwords to Prevent Account Takeover](https://www.darkreading.com/risk/auth0-credential-guard-detects-breached-passwords-to-prevent-account-takeover)
 - [Log4j and the Role of SBOMs in Reducing Software Security Risk](https://www.darkreading.com/vulnerabilities-threats/log4j-and-the-role-of-sboms-in-reducing-software-security-risk)
 - [Mitigate Ransomware Risks With Modern Log Management](https://www.darkreading.com/crowdstrike/mitigate-ransomware-risks-with-modern-log-management)
 - [Microsoft Issues 51 CVEs for Patch Tuesday, None &#39;Critical&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-51-cves-for-patch-tuesday-none-critical-)
 - [Google Cuts User Account Compromises in Half With Simple Change](https://www.darkreading.com/attacks-breaches/google-cuts-account-compromises-in-half-with-simple-change)
-- [Get Started on Continuous Compliance Ahead of PCI DSS v4.0](https://www.darkreading.com/edge/get-started-on-continuous-compliance-ahead-of-pci-dss-v4-0)
-- [Threat Actors Revive 20-Year-Old Tactic in Microsoft 365 Phishing Attacks](https://www.darkreading.com/attacks-breaches/threat-actors-revive-20-year-old-tactic-in-microsoft-365-phishing-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
