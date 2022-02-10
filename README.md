@@ -67,13 +67,13 @@
 
 <!-- DARKREADING:START -->
 - [Data Transparency Hasn&#39;t Made Us Safer Yet. Can It Uncover Breach Causality?](https://www.darkreading.com/vulnerabilities-threats/data-transparency-hasn-t-made-us-safer-yet-can-it-uncover-breach-causality-)
+- [Bot Marketplaces as a Source of Future Data Breaches](https://www.darkreading.com/edge-threat-monitor/bot-marketplaces-as-the-source-of-future-data-breaches)
 - [Putting AI to Practical Use in Cybersecurity](https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity)
 - [Experts: Several CVEs From Microsoft&#39;s February Security Update Require Prompt Attention](https://www.darkreading.com/application-security/several-flaws-in-microsoft-s-february-security-update-need-prompt-attention)
 - [Linux Malware on the Rise](https://www.darkreading.com/cloud/linux-malware-on-the-rise-including-illicit-use-of-cobalt-strike)
 - [Auth0 Credential Guard Detects Breached Passwords to Prevent Account Takeover](https://www.darkreading.com/risk/auth0-credential-guard-detects-breached-passwords-to-prevent-account-takeover)
 - [Log4j and the Role of SBOMs in Reducing Software Security Risk](https://www.darkreading.com/vulnerabilities-threats/log4j-and-the-role-of-sboms-in-reducing-software-security-risk)
 - [Mitigate Ransomware Risks With Modern Log Management](https://www.darkreading.com/crowdstrike/mitigate-ransomware-risks-with-modern-log-management)
-- [Microsoft Issues 51 CVEs for Patch Tuesday, None &#39;Critical&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-51-cves-for-patch-tuesday-none-critical-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
