@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Allure Security Raises $6.8 Million Seed Funding Round](https://www.darkreading.com/attacks-breaches/allure-security-raises-6-8-million-seed-funding-round)
+- [Titaniam Secures $6 Million in Seed Funding](https://www.darkreading.com/risk/titaniam-secures-6-million-in-seed-funding)
 - [Data Transparency Hasn&#39;t Made Us Safer Yet. Can It Uncover Breach Causality?](https://www.darkreading.com/vulnerabilities-threats/data-transparency-hasn-t-made-us-safer-yet-can-it-uncover-breach-causality-)
 - [Bot Marketplaces as a Source of Future Data Breaches](https://www.darkreading.com/edge-threat-monitor/bot-marketplaces-as-the-source-of-future-data-breaches)
 - [Putting AI to Practical Use in Cybersecurity](https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity)
 - [Experts: Several CVEs From Microsoft&#39;s February Security Update Require Prompt Attention](https://www.darkreading.com/application-security/several-flaws-in-microsoft-s-february-security-update-need-prompt-attention)
 - [Linux Malware on the Rise](https://www.darkreading.com/cloud/linux-malware-on-the-rise-including-illicit-use-of-cobalt-strike)
 - [Auth0 Credential Guard Detects Breached Passwords to Prevent Account Takeover](https://www.darkreading.com/risk/auth0-credential-guard-detects-breached-passwords-to-prevent-account-takeover)
-- [Log4j and the Role of SBOMs in Reducing Software Security Risk](https://www.darkreading.com/vulnerabilities-threats/log4j-and-the-role-of-sboms-in-reducing-software-security-risk)
-- [Mitigate Ransomware Risks With Modern Log Management](https://www.darkreading.com/crowdstrike/mitigate-ransomware-risks-with-modern-log-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
