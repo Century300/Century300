@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Defense Contractors Need to Check Their Six](https://www.darkreading.com/dr-tech/defense-contractors-need-to-check-their-six)
 - [Dynatrace Adds Real-Time Attack Detection and Blocking, Advancing Cloud Application Security](https://www.darkreading.com/application-security/dynatrace-adds-real-time-attack-detection-and-blocking-advancing-cloud-application-security)
 - [Dynatrace Launches DevSecOps Automation Alliance Partner Program](https://www.darkreading.com/application-security/dynatrace-launches-devsecops-automation-alliance-partner-program)
 - [Orca Security Adds Expanded CIEM Capabilities and Multi-Cloud Security Score to Cloud Platform](https://www.darkreading.com/cloud/orca-security-adds-expanded-ciem-capabilities-and-multi-cloud-security-score-to-cloud-platform)
@@ -73,7 +74,6 @@
 - [Titaniam Secures $6 Million in Seed Funding](https://www.darkreading.com/risk/titaniam-secures-6-million-in-seed-funding)
 - [Data Transparency Hasn&#39;t Made Us Safer Yet. Can It Uncover Breach Causality?](https://www.darkreading.com/vulnerabilities-threats/data-transparency-hasn-t-made-us-safer-yet-can-it-uncover-breach-causality-)
 - [Bot Marketplaces as a Source of Future Data Breaches](https://www.darkreading.com/edge-threat-monitor/bot-marketplaces-as-the-source-of-future-data-breaches)
-- [Putting AI to Practical Use in Cybersecurity](https://www.darkreading.com/emerging-tech/putting-ai-to-practical-use-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
