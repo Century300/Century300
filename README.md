@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What CISOs Should Tell the Board About Log4j](https://www.darkreading.com/attacks-breaches/what-cisos-should-tell-the-board-about-log4j)
 - [Retailers&#39; Offboarding Procedures Leave Potential Risks](https://www.darkreading.com/edge-articles/retailers-offboarding-procedures-leave-potential-risks)
 - [Credential-Stuffing Attacks on Remote Windows Systems Took Off in 2021](https://www.darkreading.com/endpoint/credential-stuffing-attacks-on-remote-windows-systems-took-off-in-2021)
 - [Apple Releases Security Update for Webkit Flaw](https://www.darkreading.com/vulnerabilities-threats/apple-releases-security-update-for-webkit-flaw)
@@ -73,7 +74,6 @@
 - [Dynatrace Adds Real-Time Attack Detection and Blocking, Advancing Cloud Application Security](https://www.darkreading.com/application-security/dynatrace-adds-real-time-attack-detection-and-blocking-advancing-cloud-application-security)
 - [Dynatrace Launches DevSecOps Automation Alliance Partner Program](https://www.darkreading.com/application-security/dynatrace-launches-devsecops-automation-alliance-partner-program)
 - [Orca Security Adds Expanded CIEM Capabilities and Multi-Cloud Security Score to Cloud Platform](https://www.darkreading.com/cloud/orca-security-adds-expanded-ciem-capabilities-and-multi-cloud-security-score-to-cloud-platform)
-- [Allure Security Raises $6.8 Million Seed Funding Round](https://www.darkreading.com/attacks-breaches/allure-security-raises-6-8-million-seed-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
