@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackBerry Seeks to Restore Its Past Glory With Services Push](https://www.darkreading.com/edge/blackberry-seeks-to-restore-its-past-glory-with-services-push)
 - [What CISOs Should Tell the Board About Log4j](https://www.darkreading.com/attacks-breaches/what-cisos-should-tell-the-board-about-log4j)
 - [Retailers&#39; Offboarding Procedures Leave Potential Risks](https://www.darkreading.com/edge-articles/retailers-offboarding-procedures-leave-potential-risks)
 - [Credential-Stuffing Attacks on Remote Windows Systems Took Off in 2021](https://www.darkreading.com/endpoint/credential-stuffing-attacks-on-remote-windows-systems-took-off-in-2021)
@@ -73,7 +74,6 @@
 - [Defense Contractors Need to Check Their Six](https://www.darkreading.com/dr-tech/defense-contractors-need-to-check-their-six)
 - [Dynatrace Adds Real-Time Attack Detection and Blocking, Advancing Cloud Application Security](https://www.darkreading.com/application-security/dynatrace-adds-real-time-attack-detection-and-blocking-advancing-cloud-application-security)
 - [Dynatrace Launches DevSecOps Automation Alliance Partner Program](https://www.darkreading.com/application-security/dynatrace-launches-devsecops-automation-alliance-partner-program)
-- [Orca Security Adds Expanded CIEM Capabilities and Multi-Cloud Security Score to Cloud Platform](https://www.darkreading.com/cloud/orca-security-adds-expanded-ciem-capabilities-and-multi-cloud-security-score-to-cloud-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
