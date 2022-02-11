@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Paid Record $8.7 Million to Bug Hunters in 2021](https://www.darkreading.com/vulnerabilities-threats/google-paid-record-8-7-million-to-bug-hunters-in-2021)
 - [BlackBerry Seeks to Restore Its Past Glory With Services Push](https://www.darkreading.com/edge/blackberry-seeks-to-restore-its-past-glory-with-services-push)
 - [What CISOs Should Tell the Board About Log4j](https://www.darkreading.com/attacks-breaches/what-cisos-should-tell-the-board-about-log4j)
 - [Retailers&#39; Offboarding Procedures Leave Potential Risks](https://www.darkreading.com/edge-articles/retailers-offboarding-procedures-leave-potential-risks)
@@ -73,7 +74,6 @@
 - [Apple Releases Security Update for Webkit Flaw](https://www.darkreading.com/vulnerabilities-threats/apple-releases-security-update-for-webkit-flaw)
 - [Defense Contractors Need to Check Their Six](https://www.darkreading.com/dr-tech/defense-contractors-need-to-check-their-six)
 - [Dynatrace Adds Real-Time Attack Detection and Blocking, Advancing Cloud Application Security](https://www.darkreading.com/application-security/dynatrace-adds-real-time-attack-detection-and-blocking-advancing-cloud-application-security)
-- [Dynatrace Launches DevSecOps Automation Alliance Partner Program](https://www.darkreading.com/application-security/dynatrace-launches-devsecops-automation-alliance-partner-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
