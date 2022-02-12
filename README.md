@@ -68,12 +68,12 @@
 <!-- DARKREADING:START -->
 - [DDoS Attacks on a Tear in Q4 2021](https://www.darkreading.com/attacks-breaches/ddos-attacks-jumped-by-52-in-q4-2021)
 - [Aviatrix Enhances Secure Cloud Networking with Network Behavior Analytics](https://www.darkreading.com/cloud/aviatrix-enhances-secure-cloud-networking-with-network-behavior-analytics)
+- [Seven Key Ingredients to Effective Incident Response](https://www.darkreading.com/crowdstrike/seven-key-ingredients-to-effective-incident-response)
 - [Google Paid Record $8.7 Million to Bug Hunters in 2021](https://www.darkreading.com/vulnerabilities-threats/google-paid-record-8-7-million-to-bug-hunters-in-2021)
 - [BlackBerry Seeks to Restore Its Past Glory With Services Push](https://www.darkreading.com/edge/blackberry-seeks-to-restore-its-past-glory-with-services-push)
 - [What CISOs Should Tell the Board About Log4j](https://www.darkreading.com/attacks-breaches/what-cisos-should-tell-the-board-about-log4j)
 - [Retailers&#39; Offboarding Procedures Leave Potential Risks](https://www.darkreading.com/edge-articles/retailers-offboarding-procedures-leave-potential-risks)
 - [Credential-Stuffing Attacks on Remote Windows Systems Took Off in 2021](https://www.darkreading.com/endpoint/credential-stuffing-attacks-on-remote-windows-systems-took-off-in-2021)
-- [Apple Releases Security Update for Webkit Flaw](https://www.darkreading.com/vulnerabilities-threats/apple-releases-security-update-for-webkit-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
