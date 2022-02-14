@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [One Identity Enhances Unified Identity Security Platform with CIEM, Application Governance and Teams Modules](https://www.darkreading.com/cloud/one-identity-enhances-unified-identity-security-platform-with-ciem-application-governance-and-teams-modules)
+- [&lpar;ISC&rpar;² to Pilot Online Proctored Exams for CISSP in U.S., U.K. and Singapore](https://www.darkreading.com/operations/-isc-to-pilot-online-proctored-exams-for-cissp-in-u-s-u-k-and-singapore)
+- [LogRhythm Unveils New Brand Identity](https://www.darkreading.com/cloud/logrhythm-unveils-new-brand-identity)
+- [Could Biology Hold the Clue to Better Cybersecurity?](https://www.darkreading.com/the-cyber-future/does-biology-hold-the-clue-to-better-cybersecurity-)
 - [Ransomware Threat Intel: You&#39;re Soaking In It!](https://www.darkreading.com/attacks-breaches/ransomware-threat-intel-you-re-soaking-in-it-)
 - [5 Reasons Why Civil Discourse Is Good for Security](https://www.darkreading.com/edge-articles/5-reasons-why-civil-discourse-is-good-for-security)
 - [DDoS Attacks on a Tear in Q4 2021](https://www.darkreading.com/attacks-breaches/ddos-attacks-jumped-by-52-in-q4-2021)
 - [Aviatrix Enhances Secure Cloud Networking with Network Behavior Analytics](https://www.darkreading.com/cloud/aviatrix-enhances-secure-cloud-networking-with-network-behavior-analytics)
-- [Seven Key Ingredients to Effective Incident Response](https://www.darkreading.com/crowdstrike/seven-key-ingredients-to-effective-incident-response)
-- [Google Paid Record $8.7 Million to Bug Hunters in 2021](https://www.darkreading.com/vulnerabilities-threats/google-paid-record-8-7-million-to-bug-hunters-in-2021)
-- [BlackBerry Seeks to Restore Its Past Glory With Services Push](https://www.darkreading.com/edge/blackberry-seeks-to-restore-its-past-glory-with-services-push)
-- [What CISOs Should Tell the Board About Log4j](https://www.darkreading.com/attacks-breaches/what-cisos-should-tell-the-board-about-log4j)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
