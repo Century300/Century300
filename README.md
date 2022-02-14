@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [San Francisco 49ers Hit With a Ransomware Attack](https://www.darkreading.com/attacks-breaches/san-francisco-49ers-hit-with-a-ransomware-attack)
+- [8 of the Biggest Cybersecurity M&amp;As &amp; Investment Deals in 2021](https://www.darkreading.com/endpoint/8-of-the-biggest-cybersecurity-m-as-and-investment-deals-in-2021)
 - [One Identity Enhances Unified Identity Security Platform with CIEM, Application Governance and Teams Modules](https://www.darkreading.com/cloud/one-identity-enhances-unified-identity-security-platform-with-ciem-application-governance-and-teams-modules)
 - [&lpar;ISC&rpar;² to Pilot Online Proctored Exams for CISSP in U.S., U.K. and Singapore](https://www.darkreading.com/operations/-isc-to-pilot-online-proctored-exams-for-cissp-in-u-s-u-k-and-singapore)
 - [LogRhythm Unveils New Brand Identity](https://www.darkreading.com/cloud/logrhythm-unveils-new-brand-identity)
 - [Could Biology Hold the Clue to Better Cybersecurity?](https://www.darkreading.com/the-cyber-future/does-biology-hold-the-clue-to-better-cybersecurity-)
 - [Ransomware Threat Intel: You&#39;re Soaking In It!](https://www.darkreading.com/attacks-breaches/ransomware-threat-intel-you-re-soaking-in-it-)
 - [5 Reasons Why Civil Discourse Is Good for Security](https://www.darkreading.com/edge-articles/5-reasons-why-civil-discourse-is-good-for-security)
-- [DDoS Attacks on a Tear in Q4 2021](https://www.darkreading.com/attacks-breaches/ddos-attacks-jumped-by-52-in-q4-2021)
-- [Aviatrix Enhances Secure Cloud Networking with Network Behavior Analytics](https://www.darkreading.com/cloud/aviatrix-enhances-secure-cloud-networking-with-network-behavior-analytics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
