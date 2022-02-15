@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Unsettling Reason Why Your Help Desk May Be Your Greatest Security Vulnerability](https://www.darkreading.com/threat-intelligence/the-unsettling-reason-why-your-help-desk-may-be-your-greatest-security-vulnerability)
 - [3 Critical Software Development Security Trends and Best Practices](https://www.darkreading.com/vulnerabilities-threats/3-critical-software-development-security-trends-and-best-practices)
+- [Bugcrowd Announces Real-Time Customer Visibility and Improved Crowd-matching For Penetration Testing as a Service Solution](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-announces-real-time-customer-visibility-and-improved-crowd-matching-for-penetration-testing-as-a-service-solution)
+- [CompTIA ISAO and IT-ISAC Urge Technology Companies to Elevate Cybersecurity Monitoring, Readiness in Response to Rising Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/comptia-isao-and-it-isac-urge-technology-companies-to-elevate-cybersecurity-monitoring-readiness-in-response-to-rising-geopolitical-tensions)
 - [How to Make Cybersecurity Effective and Invisible](https://www.darkreading.com/vulnerabilities-threats/how-to-make-cybersecurity-effective-and-invisible)
 - [San Francisco 49ers Hit With a Ransomware Attack](https://www.darkreading.com/attacks-breaches/san-francisco-49ers-hit-with-a-ransomware-attack)
 - [8 of the Biggest Cybersecurity M&amp;As &amp; Investment Deals in 2021](https://www.darkreading.com/endpoint/8-of-the-biggest-cybersecurity-m-as-and-investment-deals-in-2021)
 - [One Identity Enhances Unified Identity Security Platform with CIEM, Application Governance and Teams Modules](https://www.darkreading.com/cloud/one-identity-enhances-unified-identity-security-platform-with-ciem-application-governance-and-teams-modules)
-- [&lpar;ISC&rpar;² to Pilot Online Proctored Exams for CISSP in U.S., U.K. and Singapore](https://www.darkreading.com/operations/-isc-to-pilot-online-proctored-exams-for-cissp-in-u-s-u-k-and-singapore)
-- [LogRhythm Unveils New Brand Identity](https://www.darkreading.com/cloud/logrhythm-unveils-new-brand-identity)
-- [Could Biology Hold the Clue to Better Cybersecurity?](https://www.darkreading.com/the-cyber-future/does-biology-hold-the-clue-to-better-cybersecurity-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
