@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Red Canary Launches Partner Program](https://www.darkreading.com/endpoint/red-canary-launches-partner-program-)
 - [The Unsettling Reason Why Your Help Desk May Be Your Greatest Security Vulnerability](https://www.darkreading.com/threat-intelligence/the-unsettling-reason-why-your-help-desk-may-be-your-greatest-security-vulnerability)
 - [3 Critical Software Development Security Trends and Best Practices](https://www.darkreading.com/vulnerabilities-threats/3-critical-software-development-security-trends-and-best-practices)
+- [Netacea Announces $12M Series A Investment](https://www.darkreading.com/threat-intelligence/netacea-announces-12m-series-a-investment)
+- [2022 Executive Women&#39;s Forum Annual Conference to Be In Person for 20th Anniversary Celebration](https://www.darkreading.com/operations/2022-executive-women-s-forum-annual-conference-to-be-in-person-for-20th-anniversary-celebration)
+- [NYU Tandon Launches Chief Information Security Officer Program](https://www.darkreading.com/careers-and-people/nyu-tandon-launches-chief-information-security-officer-program)
 - [Bugcrowd Announces Real-Time Customer Visibility and Improved Crowd-matching For Penetration Testing as a Service Solution](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-announces-real-time-customer-visibility-and-improved-crowd-matching-for-penetration-testing-as-a-service-solution)
 - [CompTIA ISAO and IT-ISAC Urge Technology Companies to Elevate Cybersecurity Monitoring, Readiness in Response to Rising Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/comptia-isao-and-it-isac-urge-technology-companies-to-elevate-cybersecurity-monitoring-readiness-in-response-to-rising-geopolitical-tensions)
-- [How to Make Cybersecurity Effective and Invisible](https://www.darkreading.com/vulnerabilities-threats/how-to-make-cybersecurity-effective-and-invisible)
-- [San Francisco 49ers Hit With a Ransomware Attack](https://www.darkreading.com/attacks-breaches/san-francisco-49ers-hit-with-a-ransomware-attack)
-- [8 of the Biggest Cybersecurity M&amp;As &amp; Investment Deals in 2021](https://www.darkreading.com/endpoint/8-of-the-biggest-cybersecurity-m-as-and-investment-deals-in-2021)
-- [One Identity Enhances Unified Identity Security Platform with CIEM, Application Governance and Teams Modules](https://www.darkreading.com/cloud/one-identity-enhances-unified-identity-security-platform-with-ciem-application-governance-and-teams-modules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
