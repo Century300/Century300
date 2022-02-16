@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.darkreading.com/careers-and-people/hybrid-work-has-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table-)
+- [Be Flexible About Where People Work — But Not on Data Privacy](https://www.darkreading.com/edge-articles/be-flexible-on-where-people-work-but-not-on-data-privacy)
 - [Infineon’s Latest Chip Tackles Post-Quantum Security](https://www.darkreading.com/dr-tech/infineon-s-latest-chip-tackles-post-quantum-security)
 - [Securonix Secures Over $1B in Growth Investment From Vista Equity](https://www.darkreading.com/cloud/securonix-secures-over-1-billion-in-growth-investment-from-vista-equity)
 - [Akamai To Acquire Linode](https://www.darkreading.com/cloud/akamai-to-acquire-linode)
 - [FBI, US Secret Service Issue Mitigations for BlackByte Ransomware](https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-alert-issued-by-us-secret-service-fbi)
 - [Machine Learning in 2022: Data Threats and Backdoors?](https://www.darkreading.com/vulnerabilities-threats/machine-learning-in-2022-data-threats-and-backdoors-)
 - [How Nonprofits Can Evade Ransomware Attacks](https://www.darkreading.com/edge-articles/how-nonprofits-can-continue-to-evade-ransomware-attacks)
-- [Red Canary Launches Partner Program](https://www.darkreading.com/endpoint/red-canary-launches-partner-program-)
-- [The Unsettling Reason Why Your Help Desk May Be Your Greatest Security Vulnerability](https://www.darkreading.com/threat-intelligence/the-unsettling-reason-why-your-help-desk-may-be-your-greatest-security-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
