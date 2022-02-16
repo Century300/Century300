@@ -67,13 +67,13 @@
 
 <!-- DARKREADING:START -->
 - [How to Fight the Novel Software Supply Chain Attacks of Tomorrow](https://www.darkreading.com/dr-tech/how-to-fight-the-novel-software-supply-chain-attacks-of-tomorrow)
-- [Pixelating Text Leads to Information Leakage, Warns Firm](https://www.darkreading.com/advanced-threats/pixelating-text-leads-to-information-leakage-warns-firm)
+- [Kryptowire Receives Growth Investment From USVP and Crosslink Capital](https://www.darkreading.com/mobile/kryptowire-receives-growth-investment-from-usvp-and-crosslink-capital)
+- [Pixelating Text Leads to Information Leakage, Warns Firm](https://www.darkreading.com/vulnerabilities-threats/pixelating-text-leads-to-information-leakage-warns-firm)
 - [SANS Institute Launches Cybersecurity Education Scholarship for HBCU Students and Alumni](https://www.darkreading.com/operations/sans-institute-launches-cybersecurity-education-scholarship-for-hbcu-students-and-alumni)
 - [Laminar Announces General Availability of Cloud Data Security Platform](https://www.darkreading.com/cloud/laminar-announces-general-availability-of-cloud-data-security-platform)
 - [DoD Awards Attivo Networks Contract for Ransomware Mitigation](https://www.darkreading.com/vulnerabilities-threats/dod-awards-attivo-networks-contract-for-ransomware-mitigation)
 - [Where AI Falls Down in Cybersecurity](https://www.darkreading.com/dr-tech/where-ai-falls-down-in-cybersecurity)
 - [Hybrid Work Accelerated Fraud; Now, CSOs Are Taking a Seat at the Executive Table](https://www.darkreading.com/careers-and-people/hybrid-work-has-accelerated-fraud-now-csos-are-taking-a-seat-at-the-executive-table-)
-- [Be Flexible About Where People Work — But Not on Data Privacy](https://www.darkreading.com/edge-articles/be-flexible-on-where-people-work-but-not-on-data-privacy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
