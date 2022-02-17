@@ -69,11 +69,11 @@
 - [4 Keys to Bridging the Gap Between Security and Developers](https://www.darkreading.com/application-security/4-keys-to-bridging-the-gap-between-security-and-developers)
 - [How to Fight Tomorrow&#39;s Novel Software Supply Chain Attacks](https://www.darkreading.com/dr-tech/how-to-fight-tomorrows-novel-software-supply-chain-attacks)
 - [Russian Actors Targeting US Defense Contractors in Cyber Espionage Campaign, CISA Warns](https://www.darkreading.com/attacks-breaches/russian-actors-targeting-us-defense-contractors-in-cyber-espionage-campaign)
+- [How Proactive Threat Hunting Redefines the Zero-Day](https://www.darkreading.com/crowdstrike/how-proactive-threat-hunting-redefines-the-zero-day)
 - [SentinelOne Launches DataSet](https://www.darkreading.com/analytics/sentinelone-launches-dataset)
 - [FBI: Cybercriminals Using Virtual Meeting Platforms to Wage BEC Attacks](https://www.darkreading.com/attacks-breaches/cybercriminals-abuse-virtual-meeting-platforms-in-bec-attacks)
 - [MITRE Engenuity Center for Threat-Informed Defense Unveils New Affiliate Program](https://www.darkreading.com/vulnerabilities-threats/mitre-engenuity-center-for-threat-informed-defense-unveils-new-affiliate-program)
 - [Cybercriminals Have Changed Tactics](https://www.darkreading.com/attacks-breaches/cybercriminals-have-changed-tactics)
-- [Kryptowire Receives Funding from USVP and Crosslink Capital](https://www.darkreading.com/mobile/kryptowire-receives-funding-from-usvp-and-crosslink-capital-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
