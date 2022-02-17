@@ -66,8 +66,8 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [4 Keys to Bridging the Gap Between Security and Developers](https://www.darkreading.com/careers-and-people/4-keys-to-bridging-the-gap-between-security-and-developers)
-- [How to Fight the Novel Software Supply Chain Attacks of Tomorrow](https://www.darkreading.com/dr-tech/how-to-fight-the-novel-software-supply-chain-attacks-of-tomorrow)
+- [4 Keys to Bridging the Gap Between Security and Developers](https://www.darkreading.com/application-security/4-keys-to-bridging-the-gap-between-security-and-developers)
+- [How to Fight Tomorrow&#39;s Novel Software Supply Chain Attacks](https://www.darkreading.com/dr-tech/how-to-fight-tomorrows-novel-software-supply-chain-attacks)
 - [Russian Actors Targeting US Defense Contractors in Cyber Espionage Campaign, CISA Warns](https://www.darkreading.com/attacks-breaches/russian-actors-targeting-us-defense-contractors-in-cyber-espionage-campaign)
 - [SentinelOne Launches DataSet](https://www.darkreading.com/analytics/sentinelone-launches-dataset)
 - [FBI: Cybercriminals Using Virtual Meeting Platforms to Wage BEC Attacks](https://www.darkreading.com/attacks-breaches/cybercriminals-abuse-virtual-meeting-platforms-in-bec-attacks)
