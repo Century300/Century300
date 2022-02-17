@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Keys to Bridging the Gap Between Security and Developers](https://www.darkreading.com/careers-and-people/4-keys-to-bridging-the-gap-between-security-and-developers)
 - [How to Fight the Novel Software Supply Chain Attacks of Tomorrow](https://www.darkreading.com/dr-tech/how-to-fight-the-novel-software-supply-chain-attacks-of-tomorrow)
 - [Russian Actors Targeting US Defense Contractors in Cyber Espionage Campaign, CISA Warns](https://www.darkreading.com/attacks-breaches/russian-actors-targeting-us-defense-contractors-in-cyber-espionage-campaign)
 - [SentinelOne Launches DataSet](https://www.darkreading.com/analytics/sentinelone-launches-dataset)
@@ -73,7 +74,6 @@
 - [MITRE Engenuity Center for Threat-Informed Defense Unveils New Affiliate Program](https://www.darkreading.com/vulnerabilities-threats/mitre-engenuity-center-for-threat-informed-defense-unveils-new-affiliate-program)
 - [Cybercriminals Have Changed Tactics](https://www.darkreading.com/attacks-breaches/cybercriminals-have-changed-tactics)
 - [Kryptowire Receives Funding from USVP and Crosslink Capital](https://www.darkreading.com/mobile/kryptowire-receives-funding-from-usvp-and-crosslink-capital-)
-- [Pixelating Text Leads to Information Leakage, Warns Firm](https://www.darkreading.com/vulnerabilities-threats/pixelating-text-leads-to-information-leakage-warns-firm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
