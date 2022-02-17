@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NSA Issues Guidance for Selecting Strong Cisco Password Types](https://www.darkreading.com/vulnerabilities-threats/nsa-issues-guidance-for-selecting-strong-cisco-password-types)
+- [Confluera Cloud Research Finds Cybersecurity Concern as Biggest Obstacle to Cloud and Multicloud Adoption](https://www.darkreading.com/cloud/confluera-cloud-research-finds-cybersecurity-concern-as-biggest-obstacle-to-cloud-and-multicloud-adoption)
+- [Darktrace Artificial Intelligence Stops Cyberattack at Italian Electronics Distributor](https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor)
+- [Attackers Hone Their Playbooks, Become More Agile](https://www.darkreading.com/threat-intelligence/attackers-hone-their-playbooks-become-more-agile)
 - [Neustar Security Services Report Highlights Shifts in Threat Landscape Amid Maturing Cybercrime Economy](https://www.darkreading.com/attacks-breaches/neustar-security-services-report-highlights-shifts-in-threat-landscape-amid-maturing-cybercrime-economy)
 - [Security Teams Expect Attackers to Go After End Users First](https://www.darkreading.com/edge-threat-monitor/end-users-remain-one-of-the-biggest-headaches-in-it-security)
 - [Software-Developer Security Vendor Snyk Buys Cloud Security Company](https://www.darkreading.com/cloud/software-developer-security-vendor-snyk-buys-cloud-security-company)
 - [4 Keys to Bridging the Gap Between Security and Developers](https://www.darkreading.com/application-security/4-keys-to-bridging-the-gap-between-security-and-developers)
-- [How to Fight Tomorrow&#39;s Novel Software Supply Chain Attacks](https://www.darkreading.com/dr-tech/how-to-fight-tomorrows-novel-software-supply-chain-attacks)
-- [Russian Actors Targeting US Defense Contractors in Cyber Espionage Campaign, CISA Warns](https://www.darkreading.com/attacks-breaches/russian-actors-targeting-us-defense-contractors-in-cyber-espionage-campaign)
-- [How Proactive Threat Hunting Redefines the Zero-Day](https://www.darkreading.com/crowdstrike/how-proactive-threat-hunting-redefines-the-zero-day)
-- [SentinelOne Launches DataSet](https://www.darkreading.com/analytics/sentinelone-launches-dataset)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
