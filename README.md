@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Free Cybersecurity Tools and Services List Published by CISA](https://www.darkreading.com/vulnerabilities-threats/free-cybersecurity-tools-services-list-published-by-cisa)
 - [Enterprises Look Beyond Antivirus Software for Remote Workers](https://www.darkreading.com/tech-trends/enterprises-require-more-mfa-less-antivirus-for-remote-workers)
 - [Ransomware Adds New Wrinkle in Russian Cybercrime Market](https://www.darkreading.com/edge-articles/the-evolving-threat-of-russian-cybercrime)
 - [If the Cloud Is More Secure, Then Why Is Everything Still Broken?](https://www.darkreading.com/cloud/if-the-cloud-is-more-secure-then-why-is-everything-still-broken-)
@@ -73,7 +74,6 @@
 - [Confluera Cloud Research Finds Cybersecurity Concern as Biggest Obstacle to Cloud and Multicloud Adoption](https://www.darkreading.com/cloud/confluera-cloud-research-finds-cybersecurity-concern-as-biggest-obstacle-to-cloud-and-multicloud-adoption)
 - [Darktrace Artificial Intelligence Stops Cyberattack at Italian Electronics Distributor](https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor)
 - [Attackers Hone Their Playbooks, Become More Agile](https://www.darkreading.com/threat-intelligence/attackers-hone-their-playbooks-become-more-agile)
-- [Neustar Security Services Report Highlights Shifts in Threat Landscape Amid Maturing Cybercrime Economy](https://www.darkreading.com/attacks-breaches/neustar-security-services-report-highlights-shifts-in-threat-landscape-amid-maturing-cybercrime-economy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
