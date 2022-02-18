@@ -66,6 +66,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprises Look Beyond Antivirus Software for Remote Workers](https://www.darkreading.com/tech-trends/enterprises-require-more-mfa-less-antivirus-for-remote-workers)
 - [Ransomware Adds New Wrinkle in Russian Cybercrime Market](https://www.darkreading.com/edge-articles/the-evolving-threat-of-russian-cybercrime)
 - [If the Cloud Is More Secure, Then Why Is Everything Still Broken?](https://www.darkreading.com/cloud/if-the-cloud-is-more-secure-then-why-is-everything-still-broken-)
 - [NSA Issues Guidance for Selecting Strong Cisco Password Types](https://www.darkreading.com/vulnerabilities-threats/nsa-issues-guidance-for-selecting-strong-cisco-password-types)
@@ -73,7 +74,6 @@
 - [Darktrace Artificial Intelligence Stops Cyberattack at Italian Electronics Distributor](https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor)
 - [Attackers Hone Their Playbooks, Become More Agile](https://www.darkreading.com/threat-intelligence/attackers-hone-their-playbooks-become-more-agile)
 - [Neustar Security Services Report Highlights Shifts in Threat Landscape Amid Maturing Cybercrime Economy](https://www.darkreading.com/attacks-breaches/neustar-security-services-report-highlights-shifts-in-threat-landscape-amid-maturing-cybercrime-economy)
-- [Security Teams Expect Attackers to Go After End Users First](https://www.darkreading.com/edge-threat-monitor/end-users-remain-one-of-the-biggest-headaches-in-it-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
