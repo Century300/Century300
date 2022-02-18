@@ -66,14 +66,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why You Need An Adversary-First Approach to Threats in the Cloud](https://www.darkreading.com/crowdstrike/why-you-need-an-adversary-first-approach-to-threats-in-the-cloud)
 - [Free Cybersecurity Tools and Services List Published by CISA](https://www.darkreading.com/vulnerabilities-threats/free-cybersecurity-tools-services-list-published-by-cisa)
+- [Axiomatics Introduces Orchestrated Authorization](https://www.darkreading.com/operations/axiomatics-introduces-orchestrated-authorization)
+- [Ukraine DDoS: &#39;Cyberattack&#39; or Not?](https://www.darkreading.com/attacks-breaches/ukraine-ddos-cyberattack-or-not-)
 - [Enterprises Look Beyond Antivirus Software for Remote Workers](https://www.darkreading.com/tech-trends/enterprises-require-more-mfa-less-antivirus-for-remote-workers)
 - [Ransomware Adds New Wrinkle in Russian Cybercrime Market](https://www.darkreading.com/edge-articles/the-evolving-threat-of-russian-cybercrime)
 - [If the Cloud Is More Secure, Then Why Is Everything Still Broken?](https://www.darkreading.com/cloud/if-the-cloud-is-more-secure-then-why-is-everything-still-broken-)
 - [NSA Issues Guidance for Selecting Strong Cisco Password Types](https://www.darkreading.com/vulnerabilities-threats/nsa-issues-guidance-for-selecting-strong-cisco-password-types)
-- [Confluera Cloud Research Finds Cybersecurity Concern as Biggest Obstacle to Cloud and Multicloud Adoption](https://www.darkreading.com/cloud/confluera-cloud-research-finds-cybersecurity-concern-as-biggest-obstacle-to-cloud-and-multicloud-adoption)
-- [Darktrace Artificial Intelligence Stops Cyberattack at Italian Electronics Distributor](https://www.darkreading.com/attacks-breaches/darktrace-artificial-intelligence-stops-cyberattack-at-italian-electronics-distributor)
-- [Attackers Hone Their Playbooks, Become More Agile](https://www.darkreading.com/threat-intelligence/attackers-hone-their-playbooks-become-more-agile)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
