@@ -72,14 +72,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [GitHub Opens Security Database to Community Contributions](https://www.darkreading.com/application-security/github-opens-security-database-to-community-contributions)
+- [More Orgs Suffered Successful Phishing Attacks in 2021 Than in 2020](https://www.darkreading.com/attacks-breaches/more-orgs-experienced-a-successful-phishing-attack-in-2021-than-year-before)
 - [Name That Toon: Out in the Cold](https://www.darkreading.com/endpoint/name-that-toon-out-in-the-cold)
 - [How Instituting a &#39;Just Culture&#39; Improves Security](https://www.darkreading.com/edge-articles/how-instituting-a-just-culture-improves-security)
 - [Hidden Costs of a Data Breach](https://www.darkreading.com/attacks-breaches/hidden-costs-of-a-data-breach)
 - [Open Source Code: The Next Major Wave of Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/open-source-code-the-next-major-wave-of-cyberattacks)
 - [Key Application Security Metrics Show Few Signs of Improvement](https://www.darkreading.com/application-security/key-application-security-metrics-show-little-sign-of-improvement)
 - [Why You Need An Adversary-First Approach to Threats in the Cloud](https://www.darkreading.com/crowdstrike/why-you-need-an-adversary-first-approach-to-threats-in-the-cloud)
-- [Free Cybersecurity Tools and Services List Published by CISA](https://www.darkreading.com/vulnerabilities-threats/free-cybersecurity-tools-services-list-published-by-cisa)
-- [Axiomatics Introduces Orchestrated Authorization](https://www.darkreading.com/operations/axiomatics-introduces-orchestrated-authorization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
