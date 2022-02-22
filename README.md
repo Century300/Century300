@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hidden Costs of a Data Breach](https://www.darkreading.com/attacks-breaches/hidden-costs-of-a-data-breach)
 - [Open Source Code: The Next Major Wave of Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/open-source-code-the-next-major-wave-of-cyberattacks)
 - [Key Application Security Metrics Show Few Signs of Improvement](https://www.darkreading.com/application-security/key-application-security-metrics-show-little-sign-of-improvement)
 - [Why You Need An Adversary-First Approach to Threats in the Cloud](https://www.darkreading.com/crowdstrike/why-you-need-an-adversary-first-approach-to-threats-in-the-cloud)
@@ -79,7 +80,6 @@
 - [Axiomatics Introduces Orchestrated Authorization](https://www.darkreading.com/operations/axiomatics-introduces-orchestrated-authorization)
 - [Ukraine DDoS: &#39;Cyberattack&#39; or Not?](https://www.darkreading.com/attacks-breaches/ukraine-ddos-cyberattack-or-not-)
 - [Enterprises Look Beyond Antivirus Software for Remote Workers](https://www.darkreading.com/tech-trends/enterprises-require-more-mfa-less-antivirus-for-remote-workers)
-- [Ransomware Adds New Wrinkle in Russian Cybercrime Market](https://www.darkreading.com/edge-articles/the-evolving-threat-of-russian-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
