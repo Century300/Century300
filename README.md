@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Debuts Unified Service for Multicloud ID Management](https://www.darkreading.com/cloud/microsoft-debuts-unified-service-for-multi-cloud-id-management)
 - [Why Passwordless Is at an Impasse](https://www.darkreading.com/operations/why-passwordless-is-at-an-impasse)
 - [Ransomware Trained on Manufacturing Firms Led Cyberattacks in Industrial Sector](https://www.darkreading.com/attacks-breaches/ransomware-trained-on-manufacturing-firms-led-cyberattacks-in-industrial-sector)
 - [Log4j Remediation Took Weeks or More for Over 50% of Organizations](https://www.darkreading.com/attacks-breaches/log4j-remediation-took-weeks-or-more-for-more-than-50-of-organizations)
@@ -79,7 +80,6 @@
 - [Palo Alto Networks Introduces the Autonomous Security Platform, Cortex XSIAM](https://www.darkreading.com/operations/palo-alto-networks-introduces-the-autonomous-security-platform-cortex-xsiam)
 - [GitHub Opens Security Database to Community Contributions](https://www.darkreading.com/application-security/github-opens-security-database-to-community-contributions)
 - [More Orgs Suffered Successful Phishing Attacks in 2021 Than in 2020](https://www.darkreading.com/attacks-breaches/more-orgs-experienced-a-successful-phishing-attack-in-2021-than-year-before)
-- [Name That Toon: Out in the Cold](https://www.darkreading.com/endpoint/name-that-toon-out-in-the-cold)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
