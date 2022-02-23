@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Does Least Privilege Access Mean for Cloud Security?](https://www.darkreading.com/edge-ask-the-experts/what-role-will-least-privilege-access-play-in-cloud-security-strategy-)
 - [CISA Warns of New Malware Framework Used by Russian &#39;Sandworm&#39; Hacking Team](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-of-new-malware-framework-employed-by-infamous-sandworm-hacking-team)
 - [Tales from the Dark Web, Part 3: How Criminals Monetize Ransomware](https://www.darkreading.com/crowdstrike/tales-from-the-dark-web-part-3-how-criminals-monetize-ransomware)
 - [Microsoft Debuts Unified Service for Multicloud ID Management](https://www.darkreading.com/cloud/microsoft-debuts-unified-service-for-multi-cloud-id-management)
@@ -79,7 +80,6 @@
 - [Ransomware Trained on Manufacturing Firms Led Cyberattacks in Industrial Sector](https://www.darkreading.com/attacks-breaches/ransomware-trained-on-manufacturing-firms-led-cyberattacks-in-industrial-sector)
 - [Log4j Remediation Took Weeks or More for Over 50% of Organizations](https://www.darkreading.com/attacks-breaches/log4j-remediation-took-weeks-or-more-for-more-than-50-of-organizations)
 - [Hikvision Network Cyber-Protect Helps Ensure Physical Cybersecurity Protection](https://www.darkreading.com/physical-security/hikvision-network-cyber-protect-helps-ensure-physical-cybersecurity-protection)
-- [Palo Alto Networks Introduces the Autonomous Security Platform, Cortex XSIAM](https://www.darkreading.com/operations/palo-alto-networks-introduces-the-autonomous-security-platform-cortex-xsiam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
