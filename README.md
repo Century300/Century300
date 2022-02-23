@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4j Remediation Took Weeks or More for Over 50% of Organizations](https://www.darkreading.com/attacks-breaches/log4j-remediation-took-weeks-or-more-for-more-than-50-of-organizations)
 - [Hikvision Network Cyber-Protect Helps Ensure Physical Cybersecurity Protection](https://www.darkreading.com/physical-security/hikvision-network-cyber-protect-helps-ensure-physical-cybersecurity-protection)
 - [Palo Alto Networks Introduces the Autonomous Security Platform, Cortex XSIAM](https://www.darkreading.com/operations/palo-alto-networks-introduces-the-autonomous-security-platform-cortex-xsiam)
 - [GitHub Opens Security Database to Community Contributions](https://www.darkreading.com/application-security/github-opens-security-database-to-community-contributions)
@@ -79,7 +80,6 @@
 - [Name That Toon: Out in the Cold](https://www.darkreading.com/endpoint/name-that-toon-out-in-the-cold)
 - [How Instituting a &#39;Just Culture&#39; Improves Security](https://www.darkreading.com/edge-articles/how-instituting-a-just-culture-improves-security)
 - [Hidden Costs of a Data Breach](https://www.darkreading.com/attacks-breaches/hidden-costs-of-a-data-breach)
-- [Open Source Code: The Next Major Wave of Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/open-source-code-the-next-major-wave-of-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
