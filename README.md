@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New York Opens Joint Security Operations Center in NYC](https://www.darkreading.com/threat-intelligence/new-york-opens-joint-security-operations-center-in-nyc)
 - [Darktrace Acquires Attack Surface Management Company Cybersprint](https://www.darkreading.com/threat-intelligence/darktrace-acquires-attack-surface-management-company-cybersprint)
 - [Cloud Storage Leaks Grew by 150% in 2021, New CybelAngel Report Reveals](https://www.darkreading.com/cloud/cloud-storage-leaks-grew-by-150-in-2021-new-cybelangel-report-reveals)
 - [What Does Least Privilege Access Mean for Cloud Security?](https://www.darkreading.com/edge-ask-the-experts/what-role-will-least-privilege-access-play-in-cloud-security-strategy-)
@@ -79,7 +80,6 @@
 - [Cloudflare to Acquire Area 1 Security to Expand Its Zero Trust Platform](https://www.darkreading.com/cloud/cloudflare-to-acquire-area-1-security-to-expand-its-zero-trust-platform)
 - [NetSPI Launches New Attack Surface Management Platform](https://www.darkreading.com/vulnerabilities-threats/netspi-launches-new-attack-surface-management-platform)
 - [New Data-Wiping Malware Discovered on Systems in Ukraine](https://www.darkreading.com/attacks-breaches/new-data-wiping-malware-discovered-on-systems-in-ukraine)
-- [Astrix Security Emerges From Stealth With $15M Seed Round](https://www.darkreading.com/risk/-astrix-security-emerges-from-stealth-with-15m-seed-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
