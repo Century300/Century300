@@ -72,14 +72,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Businesses Are at Significant Risk of Cybersecurity Breaches Due to Immature Security Hygiene and Posture Management Practices](https://www.darkreading.com/risk/businesses-are-at-significant-risk-of-cybersecurity-breaches-due-to-immature-security-hygiene-and-posture-management-practices)
+- [Illusive Launches Identity Risk Management Platform](https://www.darkreading.com/operations/illusive-launches-identity-risk-management-platform)
 - [JupiterOne Unveils Starbase for Graph-Based ﻿Security](https://www.darkreading.com/dr-tech/jupiterone-unveils-starbase-for-graph-based-security)
 - [SaaS in the Enterprise: The Good, the Bad, and the Unknown](https://www.darkreading.com/cloud/saas-in-the-enterprise-the-good-the-bad-and-the-unknown)
 - [New York Opens Joint Security Operations Center in NYC](https://www.darkreading.com/threat-intelligence/new-york-opens-joint-security-operations-center-in-nyc)
 - [Darktrace Acquires Attack Surface Management Company Cybersprint](https://www.darkreading.com/threat-intelligence/darktrace-acquires-attack-surface-management-company-cybersprint)
 - [Cloud Storage Leaks Grew by 150% in 2021, New CybelAngel Report Reveals](https://www.darkreading.com/cloud/cloud-storage-leaks-grew-by-150-in-2021-new-cybelangel-report-reveals)
 - [What Does Least Privilege Access Mean for Cloud Security?](https://www.darkreading.com/edge-ask-the-experts/what-role-will-least-privilege-access-play-in-cloud-security-strategy-)
-- [Automakers Need to Lock Their Doors Against Ransomware](https://www.darkreading.com/tech-trends/automakers-need-to-lock-their-doors)
-- [Cloudflare to Acquire Area 1 Security to Expand Its Zero Trust Platform](https://www.darkreading.com/cloud/cloudflare-to-acquire-area-1-security-to-expand-its-zero-trust-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
