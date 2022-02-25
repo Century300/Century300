@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fears Rise of Potential Russian Cyberattacks on US, Allies Over Sanctions](https://www.darkreading.com/attacks-breaches/fears-rise-of-potential-russian-cyberattacks-on-us-allies-over-sanctions)
 - [Why Developers Should Care About Log4j](https://www.darkreading.com/edge-articles/why-developers-should-care-about-log4j)
 - [Trickbot Comes Up With a New Set of Tricks](https://www.darkreading.com/threat-intelligence/trickbot-comes-up-with-a-new-set-of-tricks)
 - [Insider Threats Are More Than Just Malicious Employees](https://www.darkreading.com/dr-tech/insider-threats-are-more-than-just-malicious-employees)
@@ -79,7 +80,6 @@
 - [Businesses Are at Significant Risk of Cybersecurity Breaches Due to Immature Security Hygiene and Posture Management Practices](https://www.darkreading.com/risk/businesses-are-at-significant-risk-of-cybersecurity-breaches-due-to-immature-security-hygiene-and-posture-management-practices)
 - [Illusive Launches Identity Risk Management Platform](https://www.darkreading.com/operations/illusive-launches-identity-risk-management-platform)
 - [JupiterOne Unveils Starbase for Graph-Based ﻿Security](https://www.darkreading.com/dr-tech/jupiterone-unveils-starbase-for-graph-based-security)
-- [SaaS in the Enterprise: The Good, the Bad, and the Unknown](https://www.darkreading.com/cloud/saas-in-the-enterprise-the-good-the-bad-and-the-unknown)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
