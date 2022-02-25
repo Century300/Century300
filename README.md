@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukrainian Troops Targeted in Phishing Attacks by Suspected Belarusian APT](https://www.darkreading.com/endpoint/ukrainian-troops-targeted-in-phishing-attacks-by-suspected-belarusian-apt)
 - [Top 5 Interview Questions to Ask DevOps Candidates in 2022](https://www.darkreading.com/edge-articles/top-5-interview-questions-to-ask-devops-candidates-in-2022)
 - [The Future of Cyber Insurance](https://www.darkreading.com/risk/the-future-of-cyber-insurance)
 - [Putting the X Factor in XDR](https://www.darkreading.com/crowdstrike/putting-the-x-factor-in-xdr)
@@ -79,7 +80,6 @@
 - [Why Developers Should Care About Log4j](https://www.darkreading.com/edge-articles/why-developers-should-care-about-log4j)
 - [Trickbot Comes Up With a New Set of Tricks](https://www.darkreading.com/threat-intelligence/trickbot-comes-up-with-a-new-set-of-tricks)
 - [Insider Threats Are More Than Just Malicious Employees](https://www.darkreading.com/dr-tech/insider-threats-are-more-than-just-malicious-employees)
-- [4 Simple Steps to a Modernized Threat Intelligence Approach](https://www.darkreading.com/threat-intelligence/4-simple-steps-to-a-modernized-threat-intelligence-approach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
