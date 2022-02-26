@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Steps to Take Right Now to Prepare for Cyberattacks by Russia](https://www.darkreading.com/threat-intelligence/7-steps-to-take-right-now-to-prepare-for-cyberattacks-by-russia)
 - [Ukrainian Troops Targeted in Phishing Attacks by Suspected Belarusian APT](https://www.darkreading.com/endpoint/ukrainian-troops-targeted-in-phishing-attacks-by-suspected-belarusian-apt)
 - [Top 5 Interview Questions to Ask DevOps Candidates in 2022](https://www.darkreading.com/edge-articles/top-5-interview-questions-to-ask-devops-candidates-in-2022)
 - [The Future of Cyber Insurance](https://www.darkreading.com/risk/the-future-of-cyber-insurance)
@@ -79,7 +80,6 @@
 - [Fears Rise of Potential Russian Cyberattacks on US, Allies Over Sanctions](https://www.darkreading.com/attacks-breaches/fears-rise-of-potential-russian-cyberattacks-on-us-allies-over-sanctions)
 - [Why Developers Should Care About Log4j](https://www.darkreading.com/edge-articles/why-developers-should-care-about-log4j)
 - [Trickbot Comes Up With a New Set of Tricks](https://www.darkreading.com/threat-intelligence/trickbot-comes-up-with-a-new-set-of-tricks)
-- [Insider Threats Are More Than Just Malicious Employees](https://www.darkreading.com/dr-tech/insider-threats-are-more-than-just-malicious-employees)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
