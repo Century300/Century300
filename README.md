@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Warn of Stealthy Chinese Backdoor Targeting Multiple Foreign Agencies](https://www.darkreading.com/endpoint/researchers-warn-of-stealthy-chinese-backdoor-targeting-multiple-foreign-agencies)
 - [Companies Borrow Attack Technique to Watermark Machine Learning Models](https://www.darkreading.com/threat-intelligence/companies-borrow-attack-technique-to-watermark-ml-models)
 - [How to Boost Shift-Left Security in the SDLC](https://www.darkreading.com/application-security/how-to-boost-shift-left-security-in-the-sdlc)
 - [7 Steps to Take Right Now to Prepare for Cyberattacks by Russia](https://www.darkreading.com/threat-intelligence/7-steps-to-take-right-now-to-prepare-for-cyberattacks-by-russia)
@@ -79,7 +80,6 @@
 - [Top 5 Interview Questions to Ask DevOps Candidates in 2022](https://www.darkreading.com/edge-articles/top-5-interview-questions-to-ask-devops-candidates-in-2022)
 - [The Future of Cyber Insurance](https://www.darkreading.com/risk/the-future-of-cyber-insurance)
 - [Putting the X Factor in XDR](https://www.darkreading.com/crowdstrike/putting-the-x-factor-in-xdr)
-- [Fears Rise of Potential Russian Cyberattacks on US, Allies Over Sanctions](https://www.darkreading.com/attacks-breaches/fears-rise-of-potential-russian-cyberattacks-on-us-allies-over-sanctions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
