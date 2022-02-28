@@ -72,14 +72,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deep Instinct 2022 Threat Landscape Report Finds 125% Increase in Threat Types and Novel Evasion Techniques](https://www.darkreading.com/endpoint/deep-instinct-2022-threat-landscape-report-finds-125-increase-in-threat-types-and-novel-evasion-techniques)
+- [Invicti Security Adds Software Composition Analysis to Its Industry- Leading AppSec Platform](https://www.darkreading.com/application-security/invicti-security-adds-software-composition-analysis-to-its-industry--leading-appsec-platform)
+- [Phishing Attack in Ukraine Could Be Prelude to Disinformation Campaign](https://www.darkreading.com/attacks-breaches/phishing-attack-in-ukraine-could-be-prelude-to-disinformation-campaign)
 - [Researchers Warn of Stealthy Chinese Backdoor Targeting Multiple Foreign Agencies](https://www.darkreading.com/endpoint/researchers-warn-of-stealthy-chinese-backdoor-targeting-multiple-foreign-agencies)
 - [Companies Borrow Attack Technique to Watermark Machine Learning Models](https://www.darkreading.com/threat-intelligence/companies-borrow-attack-technique-to-watermark-ml-models)
 - [How to Boost Shift-Left Security in the SDLC](https://www.darkreading.com/application-security/how-to-boost-shift-left-security-in-the-sdlc)
 - [7 Steps to Take Right Now to Prepare for Cyberattacks by Russia](https://www.darkreading.com/threat-intelligence/7-steps-to-take-right-now-to-prepare-for-cyberattacks-by-russia)
 - [Ukrainian Troops Targeted in Phishing Attacks by Suspected Belarusian APT](https://www.darkreading.com/endpoint/ukrainian-troops-targeted-in-phishing-attacks-by-suspected-belarusian-apt)
-- [Top 5 Interview Questions to Ask DevOps Candidates in 2022](https://www.darkreading.com/edge-articles/top-5-interview-questions-to-ask-devops-candidates-in-2022)
-- [The Future of Cyber Insurance](https://www.darkreading.com/risk/the-future-of-cyber-insurance)
-- [Putting the X Factor in XDR](https://www.darkreading.com/crowdstrike/putting-the-x-factor-in-xdr)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
