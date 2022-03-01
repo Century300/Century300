@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Do I Need to Know for SaaS Security?](https://www.darkreading.com/edge-ask-the-experts/what-do-i-need-to-know-for-saas-security-)
 - [Beyond the Hype: AI&#39;s Future in Defensive Cybersecurity](https://www.darkreading.com/attacks-breaches/beyond-the-hype-ai-s-future-in-defensive-cybersecurity)
 - [CISO Checklist for Offboarding Security Staff](https://www.darkreading.com/edge-articles/ciso-checklist-for-offboarding-security-staff)
 - [Toyota Halts Production After Suspected Supply Chain Attack](https://www.darkreading.com/attacks-breaches/toyota-halts-production-after-suspected-supply-chain-attack)
@@ -79,7 +80,6 @@
 - [Deep Instinct 2022 Threat Landscape Report Finds 125% Increase in Threat Types and Novel Evasion Techniques](https://www.darkreading.com/endpoint/deep-instinct-2022-threat-landscape-report-finds-125-increase-in-threat-types-and-novel-evasion-techniques)
 - [Invicti Security Adds Software Composition Analysis to Its Industry- Leading AppSec Platform](https://www.darkreading.com/application-security/invicti-security-adds-software-composition-analysis-to-its-industry--leading-appsec-platform)
 - [Phishing Attack in Ukraine Could Be Prelude to Disinformation Campaign](https://www.darkreading.com/attacks-breaches/phishing-attack-in-ukraine-could-be-prelude-to-disinformation-campaign)
-- [Researchers Warn of Stealthy Chinese Backdoor Targeting Multiple Foreign Agencies](https://www.darkreading.com/endpoint/researchers-warn-of-stealthy-chinese-backdoor-targeting-multiple-foreign-agencies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
