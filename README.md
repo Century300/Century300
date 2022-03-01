@@ -72,14 +72,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IRONSCALES Expands Product Offering Across Email, Communication Platforms](https://www.darkreading.com/endpoint/ironscales-expands-product-offering-across-email-communication-platforms)
 - [What Do I Need to Know for SaaS Security?](https://www.darkreading.com/edge-ask-the-experts/what-do-i-need-to-know-for-saas-security-)
+- [Darktrace Forms New U.S. Federal Division to Assist With Global Cyberthreats](https://www.darkreading.com/attacks-breaches/darktrace-forms-new-u-s-federal-division-to-assist-with-global-cyberthreats)
+- [Why the Shifting Nature of Endpoints Requires a New Approach to Security](https://www.darkreading.com/dr-tech/why-the-shifting-nature-of-endpoints-requires-a-new-approach-to-security)
 - [Beyond the Hype: AI&#39;s Future in Defensive Cybersecurity](https://www.darkreading.com/attacks-breaches/beyond-the-hype-ai-s-future-in-defensive-cybersecurity)
 - [CISO Checklist for Offboarding Security Staff](https://www.darkreading.com/edge-articles/ciso-checklist-for-offboarding-security-staff)
 - [Toyota Halts Production After Suspected Supply Chain Attack](https://www.darkreading.com/attacks-breaches/toyota-halts-production-after-suspected-supply-chain-attack)
 - [KnowBe4 Research: Half of Employees Use Unauthorized File Services to Complete Work](https://www.darkreading.com/vulnerabilities-threats/knowbe4-research-half-of-employees-use-unauthorized-file-services-to-complete-work)
-- [Deep Instinct 2022 Threat Landscape Report Finds 125% Increase in Threat Types and Novel Evasion Techniques](https://www.darkreading.com/endpoint/deep-instinct-2022-threat-landscape-report-finds-125-increase-in-threat-types-and-novel-evasion-techniques)
-- [Invicti Security Adds Software Composition Analysis to Its Industry- Leading AppSec Platform](https://www.darkreading.com/application-security/invicti-security-adds-software-composition-analysis-to-its-industry--leading-appsec-platform)
-- [Phishing Attack in Ukraine Could Be Prelude to Disinformation Campaign](https://www.darkreading.com/attacks-breaches/phishing-attack-in-ukraine-could-be-prelude-to-disinformation-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
