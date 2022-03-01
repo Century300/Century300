@@ -72,6 +72,7 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Beyond the Hype: AI&#39;s Future in Defensive Cybersecurity](https://www.darkreading.com/attacks-breaches/beyond-the-hype-ai-s-future-in-defensive-cybersecurity)
 - [CISO Checklist for Offboarding Security Staff](https://www.darkreading.com/edge-articles/ciso-checklist-for-offboarding-security-staff)
 - [Toyota Halts Production After Suspected Supply Chain Attack](https://www.darkreading.com/attacks-breaches/toyota-halts-production-after-suspected-supply-chain-attack)
 - [KnowBe4 Research: Half of Employees Use Unauthorized File Services to Complete Work](https://www.darkreading.com/vulnerabilities-threats/knowbe4-research-half-of-employees-use-unauthorized-file-services-to-complete-work)
@@ -79,7 +80,6 @@
 - [Invicti Security Adds Software Composition Analysis to Its Industry- Leading AppSec Platform](https://www.darkreading.com/application-security/invicti-security-adds-software-composition-analysis-to-its-industry--leading-appsec-platform)
 - [Phishing Attack in Ukraine Could Be Prelude to Disinformation Campaign](https://www.darkreading.com/attacks-breaches/phishing-attack-in-ukraine-could-be-prelude-to-disinformation-campaign)
 - [Researchers Warn of Stealthy Chinese Backdoor Targeting Multiple Foreign Agencies](https://www.darkreading.com/endpoint/researchers-warn-of-stealthy-chinese-backdoor-targeting-multiple-foreign-agencies)
-- [Companies Borrow Attack Technique to Watermark Machine Learning Models](https://www.darkreading.com/threat-intelligence/companies-borrow-attack-technique-to-watermark-ml-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
