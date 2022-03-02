@@ -72,14 +72,14 @@
 ### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Reduce Risk With Better Cyber Due Diligence](https://www.darkreading.com/risk/reduce-risk-with-better-cyber-due-diligence)
+- [NeuraLegion Rebrands as Bright Security](https://www.darkreading.com/application-security/neuralegion-rebrands-as-bright-security)
 - [Cyberattacks in Ukraine Soon Could Spill Over to Other Countries](https://www.darkreading.com/attacks-breaches/cyberattacks-in-ukraine-could-soon-spillover-to-other-countries)
 - [IRONSCALES Expands Product Offering Across Email, Communication Platforms](https://www.darkreading.com/endpoint/ironscales-expands-product-offering-across-email-communication-platforms)
 - [What Do I Need to Know for SaaS Security?](https://www.darkreading.com/edge-ask-the-experts/what-do-i-need-to-know-for-saas-security-)
 - [Darktrace Forms New U.S. Federal Division to Assist With Global Cyberthreats](https://www.darkreading.com/attacks-breaches/darktrace-forms-new-u-s-federal-division-to-assist-with-global-cyberthreats)
 - [Why the Shifting Nature of Endpoints Requires a New Approach to Security](https://www.darkreading.com/dr-tech/why-the-shifting-nature-of-endpoints-requires-a-new-approach-to-security)
 - [Beyond the Hype: AI&#39;s Future in Defensive Cybersecurity](https://www.darkreading.com/attacks-breaches/beyond-the-hype-ai-s-future-in-defensive-cybersecurity)
-- [CISO Checklist for Offboarding Security Staff](https://www.darkreading.com/edge-articles/ciso-checklist-for-offboarding-security-staff)
-- [Toyota Halts Production After Suspected Supply Chain Attack](https://www.darkreading.com/attacks-breaches/toyota-halts-production-after-suspected-supply-chain-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
