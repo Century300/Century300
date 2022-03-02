@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Protecting Field Programmable Gate Arrays From Attacks](https://www.darkreading.com/dr-tech/protecting-field-programmable-gate-arrays-from-attacks)
 - [3 Ways to Expand Gender Diversity in Cybersecurity](https://www.darkreading.com/careers-and-people/3-ways-to-expand-gender-diversity-in-cybersecurity)
 - [Ordr Launches Clinical Defender to Streamline Management of Connected Medical Devices](https://www.darkreading.com/iot/ordr-launches-clinical-defender-to-streamline-management-of-connected-medical-devices)
 - [Reduce Risk With Better Cyber Due Diligence](https://www.darkreading.com/risk/reduce-risk-with-better-cyber-due-diligence)
@@ -79,7 +80,6 @@
 - [Cyberattacks in Ukraine Soon Could Spill Over to Other Countries](https://www.darkreading.com/attacks-breaches/cyberattacks-in-ukraine-could-soon-spillover-to-other-countries)
 - [IRONSCALES Expands Product Offering Across Email, Communication Platforms](https://www.darkreading.com/endpoint/ironscales-expands-product-offering-across-email-communication-platforms)
 - [What Do I Need to Know for SaaS Security?](https://www.darkreading.com/edge-ask-the-experts/what-do-i-need-to-know-for-saas-security-)
-- [Darktrace Forms New U.S. Federal Division to Assist With Global Cyberthreats](https://www.darkreading.com/attacks-breaches/darktrace-forms-new-u-s-federal-division-to-assist-with-global-cyberthreats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
