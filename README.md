@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ordr Launches Clinical Defender to Streamline Management of Connected Medical Devices](https://www.darkreading.com/iot/ordr-launches-clinical-defender-to-streamline-management-of-connected-medical-devices)
 - [Reduce Risk With Better Cyber Due Diligence](https://www.darkreading.com/risk/reduce-risk-with-better-cyber-due-diligence)
 - [NeuraLegion Rebrands as Bright Security](https://www.darkreading.com/application-security/neuralegion-rebrands-as-bright-security)
 - [Cyberattacks in Ukraine Soon Could Spill Over to Other Countries](https://www.darkreading.com/attacks-breaches/cyberattacks-in-ukraine-could-soon-spillover-to-other-countries)
@@ -79,7 +80,6 @@
 - [What Do I Need to Know for SaaS Security?](https://www.darkreading.com/edge-ask-the-experts/what-do-i-need-to-know-for-saas-security-)
 - [Darktrace Forms New U.S. Federal Division to Assist With Global Cyberthreats](https://www.darkreading.com/attacks-breaches/darktrace-forms-new-u-s-federal-division-to-assist-with-global-cyberthreats)
 - [Why the Shifting Nature of Endpoints Requires a New Approach to Security](https://www.darkreading.com/dr-tech/why-the-shifting-nature-of-endpoints-requires-a-new-approach-to-security)
-- [Beyond the Hype: AI&#39;s Future in Defensive Cybersecurity](https://www.darkreading.com/attacks-breaches/beyond-the-hype-ai-s-future-in-defensive-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
