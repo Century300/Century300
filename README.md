@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Devise Attack for Stealing Data During Homomorphic Encryption](https://www.darkreading.com/application-security/researchers-devise-attack-for-stealing-data-during-homomorphic-encryption)
 - [Companies&#39; Code Leaking More Passwords and Secrets](https://www.darkreading.com/application-security/companies-code-leaking-more-passwords-and-secrets)
 - [Protecting Field Programmable Gate Arrays From Attacks](https://www.darkreading.com/dr-tech/protecting-field-programmable-gate-arrays-from-attacks)
 - [3 Ways to Expand Gender Diversity in Cybersecurity](https://www.darkreading.com/careers-and-people/3-ways-to-expand-gender-diversity-in-cybersecurity)
@@ -79,7 +80,6 @@
 - [Reduce Risk With Better Cyber Due Diligence](https://www.darkreading.com/risk/reduce-risk-with-better-cyber-due-diligence)
 - [Log4Shell Makes the Case for Runtime Application Self-Protection](https://www.darkreading.com/application-security/log4shell-makes-the-case-for-runtime-application-self-protection)
 - [NeuraLegion Rebrands as Bright Security](https://www.darkreading.com/application-security/neuralegion-rebrands-as-bright-security)
-- [Cyberattacks in Ukraine Soon Could Spill Over to Other Countries](https://www.darkreading.com/attacks-breaches/cyberattacks-in-ukraine-could-soon-spillover-to-other-countries)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
