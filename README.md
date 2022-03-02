@@ -69,7 +69,7 @@
 ![Jira](https://img.shields.io/badge/Jira-blue?style=flat-square&logo=jira)
 
 ---
-### 📰 Today Cyber Security News from [DarkReading.com](https://DarkReading.com)
+### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
 - [Reduce Risk With Better Cyber Due Diligence](https://www.darkreading.com/risk/reduce-risk-with-better-cyber-due-diligence)
