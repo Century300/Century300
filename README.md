@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/dr-tech/cybersecurity-mesh-architecture-hope-or-hype)
+- [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/tech-trends/cybersecurity-mesh-architecture-hope-or-hype)
 - [8-Character Passwords Can Be Cracked in Less than 60 Minutes](https://www.darkreading.com/attacks-breaches/8-character-passwords-can-be-cracked-in-less-than-60-minutes)
 - [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
 - [Palo Alto Networks Introduces PAN-OS 10.2 Nebula](https://www.darkreading.com/perimeter/palo-alto-networks-introduces-pan-os-10-2-nebula)
