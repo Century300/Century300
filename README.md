@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [8-Character Passwords Can Be Cracked in Less than 60 Minutes](https://www.darkreading.com/attacks-breaches/8-character-passwords-can-be-cracked-in-less-than-60-minutes)
+- [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
+- [Palo Alto Networks Introduces PAN-OS 10.2 Nebula](https://www.darkreading.com/perimeter/palo-alto-networks-introduces-pan-os-10-2-nebula)
+- [Attivo Expands Active Directory Protection from Unmanaged Devices, Including Mac, Linux, IoT/OT](https://www.darkreading.com/vulnerabilities-threats/attivo-expands-active-directory-protection-from-unmanaged-devices-including-mac-linux-iot-ot)
 - [How to Get One Step Ahead of Mobile Attacks](https://www.darkreading.com/endpoint/how-to-get-one-step-ahead-of-mobile-attacks)
 - [How Retailers Can Address &#39;Buy Now, Pay Later&#39; Fraud](https://www.darkreading.com/edge-articles/how-retailers-can-address-buy-now-pay-later-fraud)
+- [Hundreds of Open Source Components Could Undermine Security, Census Finds](https://www.darkreading.com/application-security/hundreds-of-open-source-components-could-undermine-security)
 - [7 Ways to Secure Collaboration Tools in Your Organization](https://www.darkreading.com/cloud/7-ways-to-secure-collaboration-tools-in-your-organization)
-- [Salt Security State of API Security Report Reveals API Attacks Increased 681% in the Last 12 Months](https://www.darkreading.com/application-security/salt-security-state-of-api-security-report-reveals-api-attacks-increased-681-in-the-last-12-months)
-- [Researchers Devise Attack for Stealing Data During Homomorphic Encryption](https://www.darkreading.com/application-security/researchers-devise-attack-for-stealing-data-during-homomorphic-encryption)
-- [Companies&#39; Code Leaking More Passwords and Secrets](https://www.darkreading.com/application-security/companies-code-leaking-more-passwords-and-secrets)
-- [Protecting Field Programmable Gate Arrays From Attacks](https://www.darkreading.com/dr-tech/protecting-field-programmable-gate-arrays-from-attacks)
-- [3 Ways to Expand Gender Diversity in Cybersecurity](https://www.darkreading.com/careers-and-people/3-ways-to-expand-gender-diversity-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
