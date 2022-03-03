@@ -73,7 +73,7 @@
 
 <!-- DARKREADING:START -->
 - [7 Ways to Secure Collaboration Tools in Your Organization](https://www.darkreading.com/cloud/7-ways-to-secure-collaboration-tools-in-your-organization)
-- [Salt Security State of API Security Report Reveals API Attacks Increased 681% in the Last 12 MonthsP](https://www.darkreading.com/application-security/salt-security-state-of-api-security-report-reveals-api-attacks-increased-681-in-the-last-12-months)
+- [Salt Security State of API Security Report Reveals API Attacks Increased 681% in the Last 12 Months](https://www.darkreading.com/application-security/salt-security-state-of-api-security-report-reveals-api-attacks-increased-681-in-the-last-12-months)
 - [Researchers Devise Attack for Stealing Data During Homomorphic Encryption](https://www.darkreading.com/application-security/researchers-devise-attack-for-stealing-data-during-homomorphic-encryption)
 - [Companies&#39; Code Leaking More Passwords and Secrets](https://www.darkreading.com/application-security/companies-code-leaking-more-passwords-and-secrets)
 - [Protecting Field Programmable Gate Arrays From Attacks](https://www.darkreading.com/dr-tech/protecting-field-programmable-gate-arrays-from-attacks)
