@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/dr-tech/cybersecurity-mesh-architecture-hope-or-hype)
 - [8-Character Passwords Can Be Cracked in Less than 60 Minutes](https://www.darkreading.com/attacks-breaches/8-character-passwords-can-be-cracked-in-less-than-60-minutes)
 - [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
 - [Palo Alto Networks Introduces PAN-OS 10.2 Nebula](https://www.darkreading.com/perimeter/palo-alto-networks-introduces-pan-os-10-2-nebula)
@@ -79,7 +80,6 @@
 - [How to Get One Step Ahead of Mobile Attacks](https://www.darkreading.com/endpoint/how-to-get-one-step-ahead-of-mobile-attacks)
 - [How Retailers Can Address &#39;Buy Now, Pay Later&#39; Fraud](https://www.darkreading.com/edge-articles/how-retailers-can-address-buy-now-pay-later-fraud)
 - [Hundreds of Open Source Components Could Undermine Security, Census Finds](https://www.darkreading.com/application-security/hundreds-of-open-source-components-could-undermine-security)
-- [7 Ways to Secure Collaboration Tools in Your Organization](https://www.darkreading.com/cloud/7-ways-to-secure-collaboration-tools-in-your-organization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
