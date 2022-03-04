@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Accelerated Ransomware Attacks Pressure Targeted Companies to Speed Response](https://www.darkreading.com/risk/accelerated-ransomware-attacks-pressure-targeted-companies-to-speed-response)
+- [Accelerated Ransomware Attacks Pressure Targeted Companies to Speed Response](https://www.darkreading.com/risk/accelerated-ransomware-attacks-pressure-targeted-companites-to-speed-response)
 - [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/tech-trends/cybersecurity-mesh-architecture-hope-or-hype)
 - [8-Character Passwords Can Be Cracked in Less than 60 Minutes](https://www.darkreading.com/attacks-breaches/8-character-passwords-can-be-cracked-in-less-than-60-minutes)
 - [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
