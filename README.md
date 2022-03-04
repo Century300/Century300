@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Most Cybersecurity Vendors at Risk Due to Internet-Exposed IT Assets](https://www.darkreading.com/application-security/most-cybersecurity-vendors-at-risk-due-to-internet-exposed-it-assets)
 - [DORA&#39;s Global Reach and Why Enterprises Need to Prepare](https://www.darkreading.com/risk/dora-s-global-reach-and-why-enterprises-need-to-prepare)
 - [Accelerated Ransomware Attacks Pressure Targeted Companies to Speed Response](https://www.darkreading.com/risk/accelerated-ransomware-attacks-pressure-targeted-companites-to-speed-response)
 - [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/tech-trends/cybersecurity-mesh-architecture-hope-or-hype)
@@ -79,7 +80,6 @@
 - [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
 - [Palo Alto Networks Introduces PAN-OS 10.2 Nebula](https://www.darkreading.com/perimeter/palo-alto-networks-introduces-pan-os-10-2-nebula)
 - [Attivo Expands Active Directory Protection from Unmanaged Devices, Including Mac, Linux, IoT/OT](https://www.darkreading.com/vulnerabilities-threats/attivo-expands-active-directory-protection-from-unmanaged-devices-including-mac-linux-iot-ot)
-- [How to Get One Step Ahead of Mobile Attacks](https://www.darkreading.com/endpoint/how-to-get-one-step-ahead-of-mobile-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
