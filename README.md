@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [More Than 70% of SOC Analysts Experiencing Burnout](https://www.darkreading.com/threat-intelligence/more-than-70-of-soc-analysts-experiencing-burnout)
+- [Companies Can&#39;t Just Train Their Way to More Secure Endpoints](https://www.darkreading.com/tech-trends/companies-can-t-just-train-their-way-to-more-secure-endpoints)
 - [Most Cybersecurity Vendors at Risk Due to Internet-Exposed IT Assets](https://www.darkreading.com/application-security/most-cybersecurity-vendors-at-risk-due-to-internet-exposed-it-assets)
+- [Diversified Search Group Acquires Alta Associates](https://www.darkreading.com/careers-and-people/diversified-search-group-acquires-alta-associates)
+- [Vade Releases 2021 Phishers&#39; Favorites Report](https://www.darkreading.com/risk/vade-releases-2021-phishers-favorites-report)
 - [DORA&#39;s Global Reach and Why Enterprises Need to Prepare](https://www.darkreading.com/risk/dora-s-global-reach-and-why-enterprises-need-to-prepare)
 - [Accelerated Ransomware Attacks Pressure Targeted Companies to Speed Response](https://www.darkreading.com/risk/accelerated-ransomware-attacks-pressure-targeted-companites-to-speed-response)
 - [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/tech-trends/cybersecurity-mesh-architecture-hope-or-hype)
-- [8-Character Passwords Can Be Cracked in Less than 60 Minutes](https://www.darkreading.com/attacks-breaches/8-character-passwords-can-be-cracked-in-less-than-60-minutes)
-- [Cybersecurity Platform CrowdSec Expands Into the United States](https://www.darkreading.com/perimeter/cybersecurity-platform-crowdsec-expands-into-the-united-states)
-- [Palo Alto Networks Introduces PAN-OS 10.2 Nebula](https://www.darkreading.com/perimeter/palo-alto-networks-introduces-pan-os-10-2-nebula)
-- [Attivo Expands Active Directory Protection from Unmanaged Devices, Including Mac, Linux, IoT/OT](https://www.darkreading.com/vulnerabilities-threats/attivo-expands-active-directory-protection-from-unmanaged-devices-including-mac-linux-iot-ot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
