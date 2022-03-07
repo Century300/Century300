@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Animal Instincts](https://www.darkreading.com/edge-articles/name-that-edge-toon-animal-instincts)
+- [CardinalOps Raises $17.5M Series A for Threat Coverage Optimization](https://www.darkreading.com/operations/cardinalops-raises-17-5m-series-a-for-threat-coverage-optimization)
+- [ConnectWise Expands Collaboration with Intel to Further Strengthen Cybersecurity for SMBs](https://www.darkreading.com/threat-intelligence/connectwise-expands-collaboration-with-intel-to-further-strengthen-cybersecurity-for-smbs)
 - [Samsung Source Code Compromised in Hack](https://www.darkreading.com/attacks-breaches/samsung-source-code-compromised-in-hack)
 - [Industrial Systems See More Vulnerabilities, Greater Threat](https://www.darkreading.com/vulnerabilities-threats/industrial-systems-see-more-vulnerabilities-greater-threat)
 - [Why the World Needs a Global Collective Cyber Defense](https://www.darkreading.com/threat-intelligence/why-the-world-needs-a-global-collective-cyber-defense-)
 - [After a Busy December, Attacks on Log4j Vulnerability Dropped](https://www.darkreading.com/edge-threat-monitor/after-a-busy-december-attacks-on-log4j-vulnerability-dropped)
 - [More Than 70% of SOC Analysts Experiencing Burnout](https://www.darkreading.com/threat-intelligence/more-than-70-of-soc-analysts-experiencing-burnout)
-- [Companies Can&#39;t Just Train Their Way to More Secure Endpoints](https://www.darkreading.com/tech-trends/companies-can-t-just-train-their-way-to-more-secure-endpoints)
-- [Most Cybersecurity Vendors at Risk Due to Internet-Exposed IT Assets](https://www.darkreading.com/application-security/most-cybersecurity-vendors-at-risk-due-to-internet-exposed-it-assets)
-- [Diversified Search Group Acquires Alta Associates](https://www.darkreading.com/careers-and-people/diversified-search-group-acquires-alta-associates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
