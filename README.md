@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [After a Busy December, Attacks on Log4j Vulnerability Dropped](https://www.darkreading.com/edge-threat-monitor/after-a-busy-december-attacks-on-log4j-vulnerability-dropped)
 - [More Than 70% of SOC Analysts Experiencing Burnout](https://www.darkreading.com/threat-intelligence/more-than-70-of-soc-analysts-experiencing-burnout)
 - [Companies Can&#39;t Just Train Their Way to More Secure Endpoints](https://www.darkreading.com/tech-trends/companies-can-t-just-train-their-way-to-more-secure-endpoints)
 - [Most Cybersecurity Vendors at Risk Due to Internet-Exposed IT Assets](https://www.darkreading.com/application-security/most-cybersecurity-vendors-at-risk-due-to-internet-exposed-it-assets)
@@ -79,7 +80,6 @@
 - [Vade Releases 2021 Phishers&#39; Favorites Report](https://www.darkreading.com/risk/vade-releases-2021-phishers-favorites-report)
 - [DORA&#39;s Global Reach and Why Enterprises Need to Prepare](https://www.darkreading.com/risk/dora-s-global-reach-and-why-enterprises-need-to-prepare)
 - [Accelerated Ransomware Attacks Pressure Targeted Companies to Speed Response](https://www.darkreading.com/risk/accelerated-ransomware-attacks-pressure-targeted-companites-to-speed-response)
-- [Cybersecurity Mesh Architecture: Hope or Hype?](https://www.darkreading.com/tech-trends/cybersecurity-mesh-architecture-hope-or-hype)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
