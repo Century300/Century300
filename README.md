@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Samsung Source Code Compromised in Hack](https://www.darkreading.com/attacks-breaches/samsung-source-code-compromised-in-hack)
 - [Industrial Systems See More Vulnerabilities, Greater Threat](https://www.darkreading.com/vulnerabilities-threats/industrial-systems-see-more-vulnerabilities-greater-threat)
 - [Why the World Needs a Global Collective Cyber Defense](https://www.darkreading.com/threat-intelligence/why-the-world-needs-a-global-collective-cyber-defense-)
 - [After a Busy December, Attacks on Log4j Vulnerability Dropped](https://www.darkreading.com/edge-threat-monitor/after-a-busy-december-attacks-on-log4j-vulnerability-dropped)
@@ -79,7 +80,6 @@
 - [Companies Can&#39;t Just Train Their Way to More Secure Endpoints](https://www.darkreading.com/tech-trends/companies-can-t-just-train-their-way-to-more-secure-endpoints)
 - [Most Cybersecurity Vendors at Risk Due to Internet-Exposed IT Assets](https://www.darkreading.com/application-security/most-cybersecurity-vendors-at-risk-due-to-internet-exposed-it-assets)
 - [Diversified Search Group Acquires Alta Associates](https://www.darkreading.com/careers-and-people/diversified-search-group-acquires-alta-associates)
-- [Vade Releases 2021 Phishers&#39; Favorites Report](https://www.darkreading.com/risk/vade-releases-2021-phishers-favorites-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
