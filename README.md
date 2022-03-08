@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [8 More Women in Security You May Not Know But Should](https://www.darkreading.com/risk/8-more-women-in-security-you-may-not-know-but-should)
+- [8 More Women in Security You May Not Know but Should](https://www.darkreading.com/risk/8-more-women-in-security-you-may-not-know-but-should)
 - [Breaking the Bias for International Women’s Day 2022](https://www.darkreading.com/omdia/breaking-the-bias-for-international-women-s-day-2022)
 - [Trio of Vendors Offer Free Services to Organizations at Risk of Russian Cyberattacks](https://www.darkreading.com/cloud/trio-of-vendors-offer-free-services-to-organizations-at-risk-of-russian-cyberattacks)
 - [Google in Talks to Acquire Mandiant](https://www.darkreading.com/cloud/google-in-talks-to-acquire-mandiant)
