@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Essentials for More Security-Aware Design Automation](https://www.darkreading.com/vulnerabilities-threats/7-essentials-for-more-security-aware-design-automation)
 - [8 More Women in Security You May Not Know but Should](https://www.darkreading.com/risk/8-more-women-in-security-you-may-not-know-but-should)
 - [Breaking the Bias for International Women’s Day 2022](https://www.darkreading.com/omdia/breaking-the-bias-for-international-women-s-day-2022)
 - [Trio of Vendors Offer Free Services to Organizations at Risk of Russian Cyberattacks](https://www.darkreading.com/cloud/trio-of-vendors-offer-free-services-to-organizations-at-risk-of-russian-cyberattacks)
@@ -79,7 +80,6 @@
 - [Name That Edge Toon: Animal Instincts](https://www.darkreading.com/edge-articles/name-that-edge-toon-animal-instincts)
 - [Roqos Gets Patent For Game-changing VPN Technology, OmniVPN™](https://www.darkreading.com/remote-workforce/roqos-gets-patent-for-game-changing-vpn-technology-omnivpn-)
 - [Coalfire Launches Application Security Solutions Powered by ThreadFix Program](https://www.darkreading.com/application-security/coalfire-launches-application-security-solutions-powered-by-threadfix-program)
-- [CardinalOps Raises $17.5M Series A for Threat Coverage Optimization](https://www.darkreading.com/operations/cardinalops-raises-17-5m-series-a-for-threat-coverage-optimization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
