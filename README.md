@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Patches Critical Exchange Server Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-critical-exchange-server-flaw)
 - [Even &#39;Perfect&#39; APIs Can Be Abused](https://www.darkreading.com/dr-tech/even-perfect-apis-can-be-abused)
+- [TAC Security Launches ESOF Phish Infielder Tool to Help Organizations Prevent Phishing Attacks](https://www.darkreading.com/vulnerabilities-threats/tac-security-launches-esof-phish-infielder-tool-to-help-organizations-prevent-phishing-attacks)
 - [Dark Reading Reflects on International Women&#39;s Day](https://www.darkreading.com/risk/dark-reading-reflects-on-international-women-s-day)
 - [Medical and IoT Devices From More Than 100 Vendors Vulnerable to Attack](https://www.darkreading.com/vulnerabilities-threats/medical-and-iot-devices-from-more-than-100-vendors-vulnerable-to-attack)
 - [Security Industry Association Reveals the 2022 Women in Security Forum Power 100 List](https://www.darkreading.com/operations/security-industry-association-reveals-the-2022-women-in-security-forum-power-100-list)
 - [Google to Buy Mandiant, Aims to Automate Security Response](https://www.darkreading.com/cloud/google-to-buy-mandiant-aims-to-automate-security-response)
 - [7 Essentials for More Security-Aware Design Automation](https://www.darkreading.com/vulnerabilities-threats/7-essentials-for-more-security-aware-design-automation)
-- [8 More Women in Security You May Not Know but Should](https://www.darkreading.com/risk/8-more-women-in-security-you-may-not-know-but-should)
-- [Breaking the Bias for International Women’s Day 2022](https://www.darkreading.com/omdia/breaking-the-bias-for-international-women-s-day-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
