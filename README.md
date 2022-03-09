@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Signs of a Poor Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-poor-security-leader)
 - [Zero Trust Can&#39;t Stop at the Federal Level](https://www.darkreading.com/vulnerabilities-threats/zero-trust-can-t-stop-at-the-federal-level)
 - [Microsoft Patches Critical Exchange Server Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-critical-exchange-server-flaw)
 - [Even &#39;Perfect&#39; APIs Can Be Abused](https://www.darkreading.com/dr-tech/even-perfect-apis-can-be-abused)
@@ -79,7 +80,6 @@
 - [Dark Reading Reflects on International Women&#39;s Day](https://www.darkreading.com/risk/dark-reading-reflects-on-international-women-s-day)
 - [Medical and IoT Devices From More Than 100 Vendors Vulnerable to Attack](https://www.darkreading.com/vulnerabilities-threats/medical-and-iot-devices-from-more-than-100-vendors-vulnerable-to-attack)
 - [Security Industry Association Reveals the 2022 Women in Security Forum Power 100 List](https://www.darkreading.com/operations/security-industry-association-reveals-the-2022-women-in-security-forum-power-100-list)
-- [Google to Buy Mandiant, Aims to Automate Security Response](https://www.darkreading.com/cloud/google-to-buy-mandiant-aims-to-automate-security-response)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
