@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why You Should Be Using CISA&#39;s Catalog of Exploited Vulns](https://www.darkreading.com/vulnerabilities-threats/why-you-should-be-using-cisa-s-catalog-of-exploited-vulns)
+- [Log4j and Livestock Apps: APT41 Wages Persistent Cyberattack Campaign on US Government](https://www.darkreading.com/attacks-breaches/log4j-and-livestock-apps-apt41-wages-persistent-cyberattack-campaign-on-us-government)
 - [What Security Controls Do I Need for My Kubernetes Cluster?](https://www.darkreading.com/dr-tech/what-security-controls-do-i-need-for-my-kubernetes-cluster-)
 - [FBI Alert: Ransomware Attacks Hit Critical Infrastructure Organizations](https://www.darkreading.com/attacks-breaches/fbi-alert-ransomware-attacks-hit-critical-infrastructure-organizations)
 - [Bitdefender Launches New Password Manager Solution for Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-new-password-manager-solution-for-consumers)
 - [Palo Alto Networks Introduces Prisma Cloud Supply Chain Security](https://www.darkreading.com/cloud/palo-alto-networks-introduces-prisma-cloud-supply-chain-security)
 - [The Cloud-Native Opportunity for Zero Trust](https://www.darkreading.com/cloud/the-cloud-native-opportunity-for-zero-trust)
 - [10 Signs of a Poor Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-poor-security-leader)
-- [Zero Trust Can&#39;t Stop at the Federal Level](https://www.darkreading.com/vulnerabilities-threats/zero-trust-can-t-stop-at-the-federal-level)
-- [Microsoft Patches Critical Exchange Server Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-critical-exchange-server-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
