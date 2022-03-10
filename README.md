@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Security Controls Do I Need for My Kubernetes Cluster?](https://www.darkreading.com/dr-tech/what-security-controls-do-i-need-for-my-kubernetes-cluster-)
 - [FBI Alert: Ransomware Attacks Hit Critical Infrastructure Organizations](https://www.darkreading.com/attacks-breaches/fbi-alert-ransomware-attacks-hit-critical-infrastructure-organizations)
 - [Bitdefender Launches New Password Manager Solution for Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-new-password-manager-solution-for-consumers)
 - [Palo Alto Networks Introduces Prisma Cloud Supply Chain Security](https://www.darkreading.com/cloud/palo-alto-networks-introduces-prisma-cloud-supply-chain-security)
@@ -79,7 +80,6 @@
 - [10 Signs of a Poor Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-poor-security-leader)
 - [Zero Trust Can&#39;t Stop at the Federal Level](https://www.darkreading.com/vulnerabilities-threats/zero-trust-can-t-stop-at-the-federal-level)
 - [Microsoft Patches Critical Exchange Server Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-critical-exchange-server-flaw)
-- [Even &#39;Perfect&#39; APIs Can Be Abused](https://www.darkreading.com/dr-tech/even-perfect-apis-can-be-abused)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
