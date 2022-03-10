@@ -72,8 +72,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Insurance and Business Risk: How the Relationship Is Changing Reinsurance &amp; Policy Guidance](https://www.darkreading.com/risk/cyber-insurance-and-business-risk-how-the-relationship-is-changing-reinsurance-policy-guidance-)
 - [Why You Should Be Using CISA&#39;s Catalog of Exploited Vulns](https://www.darkreading.com/vulnerabilities-threats/why-you-should-be-using-cisa-s-catalog-of-exploited-vulns)
-- [Log4j and Livestock Apps: APT41 Wages Persistent Cyberattack Campaign on US Government](https://www.darkreading.com/attacks-breaches/log4j-and-livestock-apps-apt41-wages-persistent-cyberattack-campaign-on-us-government)
 - [What Security Controls Do I Need for My Kubernetes Cluster?](https://www.darkreading.com/dr-tech/what-security-controls-do-i-need-for-my-kubernetes-cluster-)
 - [FBI Alert: Ransomware Attacks Hit Critical Infrastructure Organizations](https://www.darkreading.com/attacks-breaches/fbi-alert-ransomware-attacks-hit-critical-infrastructure-organizations)
 - [Bitdefender Launches New Password Manager Solution for Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-new-password-manager-solution-for-consumers)
