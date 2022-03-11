@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Combat the No. 1 Cause of Security Breaches: Complexity](https://www.darkreading.com/vulnerabilities-threats/how-to-combat-the-no-1-cause-of-security-breaches-complexity)
 - [Over 40% of Log4j Downloads Are Vulnerable Versions of the Software](https://www.darkreading.com/vulnerabilities-threats/three-months-later-41-of-log4j-downloads-are-of-vulnerable-versions)
 - [Security Teams Prep Too Slowly for Cyberattacks](https://www.darkreading.com/risk/security-teams-prep-too-slowly-for-cyberattacks)
 - [Spotlight on First Dan Kaminsky Fellow: Jonathan Leitschuh](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh)
@@ -79,7 +80,6 @@
 - [Cyber Insurance and Business Risk: How the Relationship Is Changing Reinsurance &amp; Policy Guidance](https://www.darkreading.com/risk/cyber-insurance-and-business-risk-how-the-relationship-is-changing-reinsurance-policy-guidance-)
 - [Why You Should Be Using CISA&#39;s Catalog of Exploited Vulns](https://www.darkreading.com/vulnerabilities-threats/why-you-should-be-using-cisa-s-catalog-of-exploited-vulns)
 - [Log4j and Livestock Apps: APT41 Wages Persistent Cyberattack Campaign on US Government](https://www.darkreading.com/attacks-breaches/log4j-and-livestock-apps-apt41-wages-persistent-cyberattack-campaign-on-us-government)
-- [What Security Controls Do I Need for My Kubernetes Cluster?](https://www.darkreading.com/dr-tech/what-security-controls-do-i-need-for-my-kubernetes-cluster-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
