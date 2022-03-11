@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is XDR Right for My Organization?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-know-if-xdr-is-right-for-my-organization)
 - [Ukrainian Man Arrested for Alleged Role in Ransomware Attack on Kaseya, Others](https://www.darkreading.com/attacks-breaches/ukrainian-man-arrested-for-alleged-role-in-ransomware-attack-on-kaseya)
 - [How to Combat the No. 1 Cause of Security Breaches: Complexity](https://www.darkreading.com/vulnerabilities-threats/how-to-combat-the-no-1-cause-of-security-breaches-complexity)
 - [Over 40% of Log4j Downloads Are Vulnerable Versions of the Software](https://www.darkreading.com/vulnerabilities-threats/three-months-later-41-of-log4j-downloads-are-of-vulnerable-versions)
@@ -79,7 +80,6 @@
 - [Spotlight on First Dan Kaminsky Fellow: Jonathan Leitschuh](https://www.darkreading.com/edge-articles/spotlight-on-first-dan-kaminsky-fellow-jonathan-leitschuh)
 - [Ex-Canadian Government Employee Charged in NetWalker Ransomware Attacks](https://www.darkreading.com/attacks-breaches/ex-canadian-government-employee-charged-in-netwalker-ransomware-attacks)
 - [Cyber Insurance and Business Risk: How the Relationship Is Changing Reinsurance &amp; Policy Guidance](https://www.darkreading.com/risk/cyber-insurance-and-business-risk-how-the-relationship-is-changing-reinsurance-policy-guidance-)
-- [Why You Should Be Using CISA&#39;s Catalog of Exploited Vulns](https://www.darkreading.com/vulnerabilities-threats/why-you-should-be-using-cisa-s-catalog-of-exploited-vulns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
