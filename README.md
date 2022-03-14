@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Secureworks Adds Hands-on-Keyboard-Detector to Taegis Platform](https://www.darkreading.com/attacks-breaches/secureworks-adds-hands-on-keyboard-detector-to-taegis-platform)
+- [CISA Hosts Eighth Cyber Storm Exercise With More than 200 Organizations](https://www.darkreading.com/attacks-breaches/cisa-hosts-eighth-cyber-storm-exercise-with-more-than-200-organizations)
 - [Embracing Security by Design: Security Isn&#39;t a Pretty Picture](https://www.darkreading.com/edge-articles/embracing-security-by-design-part-1-security-isn-t-a-pretty-picture)
 - [Catching the Evasive REvil Ransomware Gang With AI](https://www.darkreading.com/dr-tech/catching-the-evasive-revil-ransomware-gang-with-ai)
 - [Mobile Threats Skyrocket](https://www.darkreading.com/endpoint/mobile-threats-skyrocket)
 - [Governments Should Decide Who Gets to Buy Spyware](https://www.darkreading.com/vulnerabilities-threats/governments-should-decide-who-gets-to-buy-spyware)
+- [Domain Codex Launches New Search Engine Tool for Researching Domain Intelligence](https://www.darkreading.com/operations/domain-codex-launches-new-search-engine-tool-for-researching-domain-intelligence)
 - [When IT Spending Plans Don&#39;t Reflect Security Priorities](https://www.darkreading.com/tech-trends/when-it-spending-plans-don-t-reflect-security-priorities)
-- [The Fight Against the Hydra: New DDoS Report from Link11](https://www.darkreading.com/attacks-breaches/the-fight-against-the-hydra-new-ddos-report-from-link11-)
-- [How Enterprises Can Get Used to Deploying AI for Security](https://www.darkreading.com/dr-tech/how-enterprises-can-get-used-to-deploying-ai-for-security)
-- [Is XDR Right for My Organization?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-know-if-xdr-is-right-for-my-organization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
