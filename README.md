@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Governments Should Decide Who Gets to Buy Spyware](https://www.darkreading.com/vulnerabilities-threats/governments-should-decide-who-gets-to-buy-spyware)
 - [When IT Spending Plans Don&#39;t Reflect Security Priorities](https://www.darkreading.com/tech-trends/when-it-spending-plans-don-t-reflect-security-priorities)
 - [The Fight Against the Hydra: New DDoS Report from Link11](https://www.darkreading.com/attacks-breaches/the-fight-against-the-hydra-new-ddos-report-from-link11-)
 - [How Enterprises Can Get Used to Deploying AI for Security](https://www.darkreading.com/dr-tech/how-enterprises-can-get-used-to-deploying-ai-for-security)
@@ -79,7 +80,6 @@
 - [Identity Attacks Threaten Workloads, Not Just Humans](https://www.darkreading.com/cloud/identity-attacks-threaten-workloads-not-just-humans)
 - [Ukrainian Man Arrested for Alleged Role in Ransomware Attack on Kaseya, Others](https://www.darkreading.com/attacks-breaches/ukrainian-man-arrested-for-alleged-role-in-ransomware-attack-on-kaseya)
 - [How to Combat the No. 1 Cause of Security Breaches: Complexity](https://www.darkreading.com/vulnerabilities-threats/how-to-combat-the-no-1-cause-of-security-breaches-complexity)
-- [Over 40% of Log4j Downloads Are Vulnerable Versions of the Software](https://www.darkreading.com/vulnerabilities-threats/three-months-later-41-of-log4j-downloads-are-of-vulnerable-versions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
