@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Embracing Security by Design: Security Isn&#39;t a Pretty Picture](https://www.darkreading.com/edge-articles/embracing-security-by-design-part-1-security-isn-t-a-pretty-picture)
 - [Catching the Evasive REvil Ransomware Gang With AI](https://www.darkreading.com/dr-tech/catching-the-evasive-revil-ransomware-gang-with-ai)
 - [Mobile Threats Skyrocket](https://www.darkreading.com/endpoint/mobile-threats-skyrocket)
 - [Governments Should Decide Who Gets to Buy Spyware](https://www.darkreading.com/vulnerabilities-threats/governments-should-decide-who-gets-to-buy-spyware)
@@ -79,7 +80,6 @@
 - [The Fight Against the Hydra: New DDoS Report from Link11](https://www.darkreading.com/attacks-breaches/the-fight-against-the-hydra-new-ddos-report-from-link11-)
 - [How Enterprises Can Get Used to Deploying AI for Security](https://www.darkreading.com/dr-tech/how-enterprises-can-get-used-to-deploying-ai-for-security)
 - [Is XDR Right for My Organization?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-know-if-xdr-is-right-for-my-organization)
-- [Identity Attacks Threaten Workloads, Not Just Humans](https://www.darkreading.com/cloud/identity-attacks-threaten-workloads-not-just-humans)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
