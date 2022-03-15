@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OneLayer Secures $8.2M Seed Round to Protect Private 5G Networks](https://www.darkreading.com/perimeter/onelayer-secures-8-2m-seed-round-to-protect-private-5g-networks)
 - [e2e-assure Launches New Microsoft Defender-Focused SOC Services](https://www.darkreading.com/risk/e2e-assure-launches-new-microsoft-defender-focused-soc-services-)
 - [Cowbell Cyber Raises $100M in Series B Funding to Further Develop Cyber-Risk Underwriting](https://www.darkreading.com/risk/cowbell-cyber-raises-100m-in-series-b-funding-to-further-develop-cyber-risk-underwriting)
 - [As Log4j Continues to Remind Us, What&#39;s Old Is New Again](https://www.darkreading.com/vulnerabilities-threats/as-log4j-continues-to-remind-us-what-s-old-is-new-again)
@@ -79,7 +80,6 @@
 - [SentinelOne to Buy Attivo Networks in $616.5M Deal](https://www.darkreading.com/attacks-breaches/sentinelone-to-buy-attivo-networks-in-616-5m-deal)
 - [Secureworks Adds Hands-on-Keyboard-Detector to Taegis Platform](https://www.darkreading.com/attacks-breaches/secureworks-adds-hands-on-keyboard-detector-to-taegis-platform)
 - [CISA Hosts Eighth Cyber Storm Exercise With More than 200 Organizations](https://www.darkreading.com/attacks-breaches/cisa-hosts-eighth-cyber-storm-exercise-with-more-than-200-organizations)
-- [Embracing Security by Design: Security Isn&#39;t a Pretty Picture](https://www.darkreading.com/edge-articles/embracing-security-by-design-part-1-security-isn-t-a-pretty-picture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
