@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NAS Vendor Says Several of Its Products Likely Contain Linux &#39;Dirty Pipe&#39; Flaw](https://www.darkreading.com/vulnerabilities-threats/nas-vendor-says-several-products-likely-contain-dirty-pipe-flaw)
 - [Mobile App Developers Leave Behind 2,100 Open Databases](https://www.darkreading.com/application-security/mobile-app-developers-leave-behind-2-100-open-databases)
 - [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
 - [Praetorian Launches Chariot Total Attack Life Cycle Solution](https://www.darkreading.com/attacks-breaches/praetorian-launches-chariot-total-attack-life-cycle-solution)
@@ -79,7 +80,6 @@
 - [OneLayer Secures $8.2M Seed Round to Protect Private 5G Networks](https://www.darkreading.com/perimeter/onelayer-secures-8-2m-seed-round-to-protect-private-5g-networks)
 - [Fortress Information Security’s New Trust Center Allows Suppliers to Bridge the Cyber Communication Gap with Patrons](https://www.darkreading.com/risk/fortress-information-security-s-new-trust-center-allows-suppliers-to-bridge-the-cyber-communication-gap-with-patrons-)
 - [e2e-assure Launches New Microsoft Defender-Focused SOC Services](https://www.darkreading.com/risk/e2e-assure-launches-new-microsoft-defender-focused-soc-services-)
-- [Cowbell Cyber Raises $100M in Series B Funding to Further Develop Cyber-Risk Underwriting](https://www.darkreading.com/risk/cowbell-cyber-raises-100m-in-series-b-funding-to-further-develop-cyber-risk-underwriting)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
