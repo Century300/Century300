@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Log4j Continues to Remind Us, What&#39;s Old Is New Again](https://www.darkreading.com/vulnerabilities-threats/as-log4j-continues-to-remind-us-what-s-old-is-new-again)
+- [SentinelOne to Buy Attivo Networks in $616.5M Deal](https://www.darkreading.com/attacks-breaches/sentinelone-to-buy-attivo-networks-in-616-5m-deal)
 - [Secureworks Adds Hands-on-Keyboard-Detector to Taegis Platform](https://www.darkreading.com/attacks-breaches/secureworks-adds-hands-on-keyboard-detector-to-taegis-platform)
 - [CISA Hosts Eighth Cyber Storm Exercise With More than 200 Organizations](https://www.darkreading.com/attacks-breaches/cisa-hosts-eighth-cyber-storm-exercise-with-more-than-200-organizations)
 - [Embracing Security by Design: Security Isn&#39;t a Pretty Picture](https://www.darkreading.com/edge-articles/embracing-security-by-design-part-1-security-isn-t-a-pretty-picture)
 - [Catching the Evasive REvil Ransomware Gang With AI](https://www.darkreading.com/dr-tech/catching-the-evasive-revil-ransomware-gang-with-ai)
 - [Mobile Threats Skyrocket](https://www.darkreading.com/endpoint/mobile-threats-skyrocket)
 - [Governments Should Decide Who Gets to Buy Spyware](https://www.darkreading.com/vulnerabilities-threats/governments-should-decide-who-gets-to-buy-spyware)
-- [Domain Codex Launches New Search Engine Tool for Researching Domain Intelligence](https://www.darkreading.com/operations/domain-codex-launches-new-search-engine-tool-for-researching-domain-intelligence)
-- [When IT Spending Plans Don&#39;t Reflect Security Priorities](https://www.darkreading.com/tech-trends/when-it-spending-plans-don-t-reflect-security-priorities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
