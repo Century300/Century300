@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
+- [Praetorian Launches Chariot Total Attack Life Cycle Solution](https://www.darkreading.com/attacks-breaches/praetorian-launches-chariot-total-attack-life-cycle-solution)
+- [SecZetta Launches Complimentary Third-Party Identity Risk Maturity Assessment at HIMSS](https://www.darkreading.com/risk/seczetta-launches-complimentary-third-party-identity-risk-maturity-assessment-at-himss)
 - [OneLayer Secures $8.2M Seed Round to Protect Private 5G Networks](https://www.darkreading.com/perimeter/onelayer-secures-8-2m-seed-round-to-protect-private-5g-networks)
+- [Fortress Information Security’s New Trust Center Allows Suppliers to Bridge the Cyber Communication Gap with Patrons](https://www.darkreading.com/risk/fortress-information-security-s-new-trust-center-allows-suppliers-to-bridge-the-cyber-communication-gap-with-patrons-)
 - [e2e-assure Launches New Microsoft Defender-Focused SOC Services](https://www.darkreading.com/risk/e2e-assure-launches-new-microsoft-defender-focused-soc-services-)
 - [Cowbell Cyber Raises $100M in Series B Funding to Further Develop Cyber-Risk Underwriting](https://www.darkreading.com/risk/cowbell-cyber-raises-100m-in-series-b-funding-to-further-develop-cyber-risk-underwriting)
 - [As Log4j Continues to Remind Us, What&#39;s Old Is New Again](https://www.darkreading.com/vulnerabilities-threats/as-log4j-continues-to-remind-us-what-s-old-is-new-again)
-- [Windstream Enterprise Delivers Comprehensive Managed SASE Solution With Cato Networks](https://www.darkreading.com/cloud/windstream-enterprise-delivers-comprehensive-managed-sase-solution-with-cato-networks)
-- [SentinelOne to Buy Attivo Networks in $616.5M Deal](https://www.darkreading.com/attacks-breaches/sentinelone-to-buy-attivo-networks-in-616-5m-deal)
-- [Secureworks Adds Hands-on-Keyboard-Detector to Taegis Platform](https://www.darkreading.com/attacks-breaches/secureworks-adds-hands-on-keyboard-detector-to-taegis-platform)
-- [CISA Hosts Eighth Cyber Storm Exercise With More than 200 Organizations](https://www.darkreading.com/attacks-breaches/cisa-hosts-eighth-cyber-storm-exercise-with-more-than-200-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
