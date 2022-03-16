@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Would &#39;Cyber Geneva Conventions&#39; Defuse Online Aggression?](https://www.darkreading.com/attacks-breaches/would-cyber-geneva-conventions-defuse-online-aggression-)
 - [How Should My Security Analyst Use the MITRE ATT&amp;CK Framework?](https://www.darkreading.com/edge-ask-the-experts/how-should-my-security-analyst-use-the-mitre-att-ck-framework-)
 - [What Kind Of Security Tools Should I Provide My Developers?](https://www.darkreading.com/tech-talks/what-kind-of-security-tools-should-i-provide-my-developers-)
 - [Private Equity Firm Snaps Up RSA Conference](https://www.darkreading.com/risk/private-equity-firm-snaps-up-rsa-conference)
@@ -79,7 +80,6 @@
 - [Mobile App Developers Leave Behind 2,100 Open Databases](https://www.darkreading.com/application-security/mobile-app-developers-leave-behind-2-100-open-databases)
 - [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
 - [Praetorian Launches Chariot Total Attack Life Cycle Solution](https://www.darkreading.com/attacks-breaches/praetorian-launches-chariot-total-attack-life-cycle-solution)
-- [SecZetta Launches Complimentary Third-Party Identity Risk Maturity Assessment at HIMSS](https://www.darkreading.com/risk/seczetta-launches-complimentary-third-party-identity-risk-maturity-assessment-at-himss)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
