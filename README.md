@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Should My Security Analyst Use the MITRE ATT&amp;CK Framework?](https://www.darkreading.com/edge-ask-the-experts/how-should-my-security-analyst-use-the-mitre-att-ck-framework-)
+- [What Kind Of Security Tools Should I Provide My Developers?](https://www.darkreading.com/tech-talks/what-kind-of-security-tools-should-i-provide-my-developers-)
 - [Private Equity Firm Snaps Up RSA Conference](https://www.darkreading.com/risk/private-equity-firm-snaps-up-rsa-conference)
 - [NAS Vendor Says Several of Its Products Likely Contain Linux &#39;Dirty Pipe&#39; Flaw](https://www.darkreading.com/vulnerabilities-threats/nas-vendor-says-several-products-likely-contain-dirty-pipe-flaw)
 - [Mobile App Developers Leave Behind 2,100 Open Databases](https://www.darkreading.com/application-security/mobile-app-developers-leave-behind-2-100-open-databases)
 - [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
 - [Praetorian Launches Chariot Total Attack Life Cycle Solution](https://www.darkreading.com/attacks-breaches/praetorian-launches-chariot-total-attack-life-cycle-solution)
 - [SecZetta Launches Complimentary Third-Party Identity Risk Maturity Assessment at HIMSS](https://www.darkreading.com/risk/seczetta-launches-complimentary-third-party-identity-risk-maturity-assessment-at-himss)
-- [OneLayer Secures $8.2M Seed Round to Protect Private 5G Networks](https://www.darkreading.com/perimeter/onelayer-secures-8-2m-seed-round-to-protect-private-5g-networks)
-- [Fortress Information Security’s New Trust Center Allows Suppliers to Bridge the Cyber Communication Gap with Patrons](https://www.darkreading.com/risk/fortress-information-security-s-new-trust-center-allows-suppliers-to-bridge-the-cyber-communication-gap-with-patrons-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
