@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft the No. 1 Most-Spoofed Brand in Phishing Attacks](https://www.darkreading.com/vulnerabilities-threats/microsoft-the-1-most-spoofed-brand-in-phishing-attacks)
+- [What the Newly Signed US Cyber-Incident Law Means for Security](https://www.darkreading.com/attacks-breaches/new-cyber-incident-law-not-a-national-breach-law-but-a-major-first-step)
+- [VPNs Give Russians an End Run Around Censorship](https://www.darkreading.com/threat-intelligence/vpns-give-russians-an-end-run-around-censorship)
 - [Russia State-Sponsored Hackers Used Misconfigured MFA to Breach NGO](https://www.darkreading.com/application-security/russia-state-sponsored-hackers-used-misconfigured-mfa-to-breach-ngo)
 - [Would &#39;Cyber Geneva Conventions&#39; Defuse Online Aggression?](https://www.darkreading.com/attacks-breaches/would-cyber-geneva-conventions-defuse-online-aggression-)
 - [How Should My Security Analyst Use the MITRE ATT&amp;CK Framework?](https://www.darkreading.com/edge-ask-the-experts/how-should-my-security-analyst-use-the-mitre-att-ck-framework-)
 - [What Kind Of Security Tools Should I Provide My Developers?](https://www.darkreading.com/tech-talks/what-kind-of-security-tools-should-i-provide-my-developers-)
 - [Private Equity Firm Snaps Up RSA Conference](https://www.darkreading.com/risk/private-equity-firm-snaps-up-rsa-conference)
-- [NAS Vendor Says Several of Its Products Likely Contain Linux &#39;Dirty Pipe&#39; Flaw](https://www.darkreading.com/vulnerabilities-threats/nas-vendor-says-several-products-likely-contain-dirty-pipe-flaw)
-- [Mobile App Developers Leave Behind 2,100 Open Databases](https://www.darkreading.com/application-security/mobile-app-developers-leave-behind-2-100-open-databases)
-- [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
