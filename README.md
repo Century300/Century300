@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia State-Sponsored Hackers Used Misconfigured MFA to Breach NGO](https://www.darkreading.com/application-security/russia-state-sponsored-hackers-used-misconfigured-mfa-to-breach-ngo)
 - [Would &#39;Cyber Geneva Conventions&#39; Defuse Online Aggression?](https://www.darkreading.com/attacks-breaches/would-cyber-geneva-conventions-defuse-online-aggression-)
 - [How Should My Security Analyst Use the MITRE ATT&amp;CK Framework?](https://www.darkreading.com/edge-ask-the-experts/how-should-my-security-analyst-use-the-mitre-att-ck-framework-)
 - [What Kind Of Security Tools Should I Provide My Developers?](https://www.darkreading.com/tech-talks/what-kind-of-security-tools-should-i-provide-my-developers-)
@@ -79,7 +80,6 @@
 - [NAS Vendor Says Several of Its Products Likely Contain Linux &#39;Dirty Pipe&#39; Flaw](https://www.darkreading.com/vulnerabilities-threats/nas-vendor-says-several-products-likely-contain-dirty-pipe-flaw)
 - [Mobile App Developers Leave Behind 2,100 Open Databases](https://www.darkreading.com/application-security/mobile-app-developers-leave-behind-2-100-open-databases)
 - [Incognia Introduces New Location Identity Fraud Detection Tools](https://www.darkreading.com/attacks-breaches/incognia-introduces-new-location-identity-fraud-detection-tools)
-- [Praetorian Launches Chariot Total Attack Life Cycle Solution](https://www.darkreading.com/attacks-breaches/praetorian-launches-chariot-total-attack-life-cycle-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
