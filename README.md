@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 Reasons Not to Pay Ransomware Attackers](https://www.darkreading.com/attacks-breaches/-6-reasons-not-to-pay-ransomware-attackers)
+- [ThreatMapper Updated With New Scanning Tools](https://www.darkreading.com/dr-tech/threatmapper-updated-with-new-scanning-tools)
 - [Firefly Announces Release of ValidIaC Open Source Solution](https://www.darkreading.com/application-security/firefly-announces-thefirefly-announces-release-of-validiac-open-source-solution)
 - [Nok Nok Labs Unveils S3 Authentication Suite](https://www.darkreading.com/remote-workforce/nok-nok-labs-unveils-s3-authentication-suite)
+- [Multiple Automotive Manufacturers Infected With Emotet](https://www.darkreading.com/attacks-breaches/multiple-automakers-infected-with-emotet)
 - [Cloudflare Announces API Gateway](https://www.darkreading.com/cloud/cloudflare-announces-api-gateway)
 - [Titaniam Announces Completion of Product Suite](https://www.darkreading.com/vulnerabilities-threats/titaniam-announces-completion-of-product-suite)
 - [Glasswall Launches Freemium Version of its Desktop Content Disarm and Reconstruction App](https://www.darkreading.com/vulnerabilities-threats/glasswall-launches-freemium-version-of-its-desktop-content-disarm-and-reconstruction-app)
-- [Stopping Russian Cyberattacks at Their Source](https://www.darkreading.com/attacks-breaches/stopping-russian-cyberattacks-at-their-source)
-- [Cut Down on Alert Overload and Leverage Layered Security Measures](https://www.darkreading.com/attacks-breaches/cut-down-on-alert-overload-and-leverage-layered-security-measures)
-- [Enhancing DLP With Natural Language Understanding for Better Email Security](https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
