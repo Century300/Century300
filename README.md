@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Stopping Russian Cyberattacks at Their Source](https://www.darkreading.com/attacks-breaches/stopping-russian-cyberattacks-at-their-source)
 - [Cut Down on Alert Overload and Leverage Layered Security Measures](https://www.darkreading.com/attacks-breaches/cut-down-on-alert-overload-and-leverage-layered-security-measures)
 - [Enhancing DLP With Natural Language Understanding for Better Email Security](https://www.darkreading.com/emerging-tech/enhancing-dlp-with-natural-language-understanding-for-better-email-security)
 - [How Pen Testing Gains Critical Security Buy-in and Defense Insight](https://www.darkreading.com/edge-articles/how-pen-testing-gains-critical-security-buy-in-and-defense-insight)
@@ -79,7 +80,6 @@
 - [4 Critical Capabilities for a SaaS Security Posture Management &lpar;SSPM&rpar; Solution](https://www.darkreading.com/cloud/4-critical-capabilities-for-a-saas-security-posture-management-sspm-solution-)
 - [CSC Unveils 3D Domain Monitoring Solution on DomainSec Platform](https://www.darkreading.com/risk/csc-unveils-3d-domain-monitoring-solution-on-domainsec-platform)
 - [Microsoft the No. 1 Most-Spoofed Brand in Phishing Attacks](https://www.darkreading.com/vulnerabilities-threats/microsoft-the-1-most-spoofed-brand-in-phishing-attacks)
-- [What the Newly Signed US Cyber-Incident Law Means for Security](https://www.darkreading.com/attacks-breaches/new-cyber-incident-law-not-a-national-breach-law-but-a-major-first-step)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
