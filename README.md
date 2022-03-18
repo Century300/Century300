@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Road Ahead for Cyber and Infrastructure Security](https://www.darkreading.com/vulnerabilities-threats/the-road-ahead-for-cyber-and-infrastructure-security-)
 - [6 Reasons Not to Pay Ransomware Attackers](https://www.darkreading.com/attacks-breaches/-6-reasons-not-to-pay-ransomware-attackers)
 - [ThreatMapper Updated With New Scanning Tools](https://www.darkreading.com/dr-tech/threatmapper-updated-with-new-scanning-tools)
 - [Firefly Announces Release of ValidIaC Open Source Solution](https://www.darkreading.com/application-security/firefly-announces-thefirefly-announces-release-of-validiac-open-source-solution)
@@ -79,7 +80,6 @@
 - [Multiple Automotive Manufacturers Infected With Emotet](https://www.darkreading.com/attacks-breaches/multiple-automakers-infected-with-emotet)
 - [Cloudflare Announces API Gateway](https://www.darkreading.com/cloud/cloudflare-announces-api-gateway)
 - [Titaniam Announces Completion of Product Suite](https://www.darkreading.com/vulnerabilities-threats/titaniam-announces-completion-of-product-suite)
-- [Glasswall Launches Freemium Version of its Desktop Content Disarm and Reconstruction App](https://www.darkreading.com/vulnerabilities-threats/glasswall-launches-freemium-version-of-its-desktop-content-disarm-and-reconstruction-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
