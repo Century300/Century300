@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Teams Struggle to Get Started With Zero Trust](https://www.darkreading.com/edge-threat-monitor/security-teams-struggle-to-get-started-with-zero-trust)
 - [Satellite Networks Worldwide at Risk of Possible Cyberattacks, FBI &amp; CISA Warn](https://www.darkreading.com/vulnerabilities-threats/satellite-networks-worldwide-at-risk-of-possible-cyberattacks-fbi-cisa-warn)
 - [The Road Ahead for Cyber and Infrastructure Security](https://www.darkreading.com/vulnerabilities-threats/the-road-ahead-for-cyber-and-infrastructure-security-)
 - [6 Reasons Not to Pay Ransomware Attackers](https://www.darkreading.com/attacks-breaches/-6-reasons-not-to-pay-ransomware-attackers)
@@ -79,7 +80,6 @@
 - [Firefly Announces Release of ValidIaC Open Source Solution](https://www.darkreading.com/application-security/firefly-announces-thefirefly-announces-release-of-validiac-open-source-solution)
 - [Nok Nok Labs Unveils S3 Authentication Suite](https://www.darkreading.com/remote-workforce/nok-nok-labs-unveils-s3-authentication-suite)
 - [Multiple Automotive Manufacturers Infected With Emotet](https://www.darkreading.com/attacks-breaches/multiple-automakers-infected-with-emotet)
-- [Cloudflare Announces API Gateway](https://www.darkreading.com/cloud/cloudflare-announces-api-gateway)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
