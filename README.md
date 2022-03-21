@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Attack Led Bridgestone to Halt US Tire Production for a Week](https://www.darkreading.com/attacks-breaches/ransomware-attack-shut-down-some-bridgestone-tire-operations-for-a-week)
 - [Crowdsourced Efforts Get Leveraged in Ukraine Conflict](https://www.darkreading.com/attacks-breaches/crowdsourced-efforts-get-leveraged-in-ukraine-conflict)
 - [Will the Biggest Clouds Win? Lessons From Google&#39;s Mandiant Buy](https://www.darkreading.com/cloud/will-the-biggest-clouds-win-lessons-from-google-s-mandiant-buy)
 - [Half of Orgs Use Web Application Firewalls to Paper Over Flaws](https://www.darkreading.com/tech-trends/half-of-orgs-use-web-application-firewalls-to-paper-over-flaws)
@@ -79,7 +80,6 @@
 - [CyCognito Launches Exploit Intelligence](https://www.darkreading.com/attacks-breaches/cycognito-launches-exploit-intelligence)
 - [A Chance to Raise Shields Right](https://www.darkreading.com/omdia/a-chance-to-raise-shields-right)
 - [Menlo Security: Less Than Three in 10 Organizations Are Equipped to Combat Growing Wave of Web-Based Cyber Threats](https://www.darkreading.com/cloud/menlo-security-less-than-three-in-10-organizations-are-equipped-to-combat-growing-wave-of-web-based-cyber-threats)
-- [Security Teams Struggle to Get Started With Zero Trust](https://www.darkreading.com/edge-threat-monitor/security-teams-struggle-to-get-started-with-zero-trust)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
