@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Warns of New Intel on Russia Mulling Cyberattack &#39;Options&#39; Against US](https://www.darkreading.com/risk/white-house-warns-of-new-intel-on-russia-mulling-cyberattack-options-against-us)
 - [Name That Toon: Sleep Like a Baby](https://www.darkreading.com/application-security/name-that-toon-sleep-like-a-baby)
 - [Ransomware Attack Led Bridgestone to Halt US Tire Production for a Week](https://www.darkreading.com/attacks-breaches/ransomware-attack-shut-down-some-bridgestone-tire-operations-for-a-week)
 - [Crowdsourced Efforts Get Leveraged in Ukraine Conflict](https://www.darkreading.com/attacks-breaches/crowdsourced-efforts-get-leveraged-in-ukraine-conflict)
@@ -79,7 +80,6 @@
 - [Half of Orgs Use Web Application Firewalls to Paper Over Flaws](https://www.darkreading.com/tech-trends/half-of-orgs-use-web-application-firewalls-to-paper-over-flaws)
 - [Code-Sabotage Incident in Protest of Ukraine War Exposed Open Source Risks](https://www.darkreading.com/application-security/recent-code-sabotage-incident-latest-to-highlight-code-dependency-risks)
 - [CyCognito Launches Exploit Intelligence](https://www.darkreading.com/attacks-breaches/cycognito-launches-exploit-intelligence)
-- [A Chance to Raise Shields Right](https://www.darkreading.com/omdia/a-chance-to-raise-shields-right)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
