@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Binarly Coordinates Patches for 3 Firmware Flaws With Dell](https://www.darkreading.com/dr-tech/binarly-coordinates-patches-for-3-firmware-flaws-with-dell)
 - [&#39;Unique Attack Chain&#39; Drops Backdoor in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/threat-actor-using-unique-attack-chain-to-drop-backdoor-in-new-phishing-campaign)
 - [ForAllSecure Raises $21M to Secure the World’s Software](https://www.darkreading.com/application-security/forallsecure-raises-21m-to-secure-the-world-s-software)
 - [White House Warns of New Intel on Russia Mulling Cyberattack &#39;Options&#39; Against US](https://www.darkreading.com/risk/white-house-warns-of-new-intel-on-russia-mulling-cyberattack-options-against-us)
@@ -79,7 +80,6 @@
 - [Ransomware Attack Led Bridgestone to Halt US Tire Production for a Week](https://www.darkreading.com/attacks-breaches/ransomware-attack-shut-down-some-bridgestone-tire-operations-for-a-week)
 - [Crowdsourced Efforts Get Leveraged in Ukraine Conflict](https://www.darkreading.com/attacks-breaches/crowdsourced-efforts-get-leveraged-in-ukraine-conflict)
 - [Will the Biggest Clouds Win? Lessons From Google&#39;s Mandiant Buy](https://www.darkreading.com/cloud/will-the-biggest-clouds-win-lessons-from-google-s-mandiant-buy)
-- [Half of Orgs Use Web Application Firewalls to Paper Over Flaws](https://www.darkreading.com/tech-trends/half-of-orgs-use-web-application-firewalls-to-paper-over-flaws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
