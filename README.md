@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Logpoint unleashes SaaS-Delivered Converged SIEM](https://www.darkreading.com/cloud/logpoint-unleashes-saas-delivered-converged-siem)
+- [Ransomware Group Claims Major Okta Breach](https://www.darkreading.com/attacks-breaches/ransomware-group-s-claim-that-it-hacked-okta-prompts-concerns-of-another-solarwinds)
 - [Red Canary&#39;s Annual Threat Detection Report Reveals Top Threats and Techniques Targeting Most Organizations](https://www.darkreading.com/vulnerabilities-threats/red-canary-s-annual-threat-detection-report-reveals-top-threats-and-techniques-targeting-most-organizations)
 - [Logpoint Unleashes SaaS-Delivered Converged SIEM](https://www.darkreading.com/operations/logpoint-unleashes-saas-delivered-converged-siem)
 - [Checkmarx Launches Comprehensive Supply Chain Security Solution](https://www.darkreading.com/application-security/checkmarx-launches-comprehensive-supply-chain-security-solution)
