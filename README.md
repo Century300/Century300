@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Secret to Zero Trust You Need to Know](https://www.darkreading.com/application-security/the-secret-to-zero-trust-you-need-to-know)
 - [Binarly Coordinates Patches for 3 Firmware Flaws With Dell](https://www.darkreading.com/dr-tech/binarly-coordinates-patches-for-3-firmware-flaws-with-dell)
 - [&#39;Unique Attack Chain&#39; Drops Backdoor in New Phishing Campaign](https://www.darkreading.com/attacks-breaches/threat-actor-using-unique-attack-chain-to-drop-backdoor-in-new-phishing-campaign)
 - [ForAllSecure Raises $21M to Secure the World’s Software](https://www.darkreading.com/application-security/forallsecure-raises-21m-to-secure-the-world-s-software)
@@ -79,7 +80,6 @@
 - [Name That Toon: Sleep Like a Baby](https://www.darkreading.com/application-security/name-that-toon-sleep-like-a-baby)
 - [Embracing Security by Design: Constructing a More Secure Framework](https://www.darkreading.com/edge-articles/embracing-security-by-design-constructing-a-more-secure-framework)
 - [Ransomware Attack Led Bridgestone to Halt US Tire Production for a Week](https://www.darkreading.com/attacks-breaches/ransomware-attack-shut-down-some-bridgestone-tire-operations-for-a-week)
-- [Crowdsourced Efforts Get Leveraged in Ukraine Conflict](https://www.darkreading.com/attacks-breaches/crowdsourced-efforts-get-leveraged-in-ukraine-conflict)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
