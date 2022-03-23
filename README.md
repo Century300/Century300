@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Teams Need to Investigate the Okta Breach Themselves](https://www.darkreading.com/edge-articles/security-teams-need-to-investigate-the-okta-breach-themselves)
 - [Ransomware Group Claims Major Okta Breach](https://www.darkreading.com/attacks-breaches/ransomware-group-s-claim-that-it-hacked-okta-prompts-concerns-of-another-solarwinds)
 - [Red Canary&#39;s Annual Threat Detection Report Reveals Top Threats and Techniques Targeting Most Organizations](https://www.darkreading.com/vulnerabilities-threats/red-canary-s-annual-threat-detection-report-reveals-top-threats-and-techniques-targeting-most-organizations)
 - [Logpoint Unleashes SaaS-Delivered Converged SIEM](https://www.darkreading.com/operations/logpoint-unleashes-saas-delivered-converged-siem)
@@ -79,7 +80,6 @@
 - [Trustero Exits Stealth Mode and Launches its Compliance as a Service Platform](https://www.darkreading.com/risk/trustero-exits-stealth-mode-and-launches-its-compliance-as-a-service-platform)
 - [Zscaler Unveils Security Service Edge Innovations to Protect Enterprises From  Cyberattacks](https://www.darkreading.com/cloud/zscaler-unveils-security-service-edge-innovations-to-protect-enterprises-from-cyberattacks)
 - [The Secret to Zero Trust You Need to Know](https://www.darkreading.com/application-security/the-secret-to-zero-trust-you-need-to-know)
-- [Binarly Coordinates Patches for 3 Firmware Flaws With Dell](https://www.darkreading.com/dr-tech/binarly-coordinates-patches-for-3-firmware-flaws-with-dell)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
