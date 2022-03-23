@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
+- [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
 - [Security Teams Need to Investigate the Okta Breach Themselves](https://www.darkreading.com/edge-articles/security-teams-need-to-investigate-the-okta-breach-themselves)
 - [Ransomware Group Claims Major Okta Breach](https://www.darkreading.com/attacks-breaches/ransomware-group-s-claim-that-it-hacked-okta-prompts-concerns-of-another-solarwinds)
 - [Red Canary&#39;s Annual Threat Detection Report Reveals Top Threats and Techniques Targeting Most Organizations](https://www.darkreading.com/vulnerabilities-threats/red-canary-s-annual-threat-detection-report-reveals-top-threats-and-techniques-targeting-most-organizations)
 - [Logpoint Unleashes SaaS-Delivered Converged SIEM](https://www.darkreading.com/operations/logpoint-unleashes-saas-delivered-converged-siem)
 - [Checkmarx Launches Comprehensive Supply Chain Security Solution](https://www.darkreading.com/application-security/checkmarx-launches-comprehensive-supply-chain-security-solution)
 - [Trustero Exits Stealth Mode and Launches its Compliance as a Service Platform](https://www.darkreading.com/risk/trustero-exits-stealth-mode-and-launches-its-compliance-as-a-service-platform)
-- [Zscaler Unveils Security Service Edge Innovations to Protect Enterprises From  Cyberattacks](https://www.darkreading.com/cloud/zscaler-unveils-security-service-edge-innovations-to-protect-enterprises-from-cyberattacks)
-- [The Secret to Zero Trust You Need to Know](https://www.darkreading.com/application-security/the-secret-to-zero-trust-you-need-to-know)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
