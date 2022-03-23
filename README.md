@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Could Gaming Close the Cyberskills Gap?](https://www.darkreading.com/edge-articles/could-gaming-close-the-cyberskills-gap-)
+- [Cyber Insurance and War Exclusions](https://www.darkreading.com/attacks-breaches/cyber-insurance-and-war-exclusions)
 - [F-Secure Rebrands as WithSecure, Spins Off Consumer Products](https://www.darkreading.com/endpoint/f-secure-rebrands-as-withsecure-spins-off-consumer-products)
 - [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
 - [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
 - [Security Teams Need to Investigate the Okta Breach Themselves](https://www.darkreading.com/edge-articles/security-teams-need-to-investigate-the-okta-breach-themselves)
 - [Ransomware Group Claims Major Okta Breach](https://www.darkreading.com/attacks-breaches/ransomware-group-s-claim-that-it-hacked-okta-prompts-concerns-of-another-solarwinds)
 - [Red Canary&#39;s Annual Threat Detection Report Reveals Top Threats and Techniques Targeting Most Organizations](https://www.darkreading.com/vulnerabilities-threats/red-canary-s-annual-threat-detection-report-reveals-top-threats-and-techniques-targeting-most-organizations)
-- [Logpoint Unleashes SaaS-Delivered Converged SIEM](https://www.darkreading.com/operations/logpoint-unleashes-saas-delivered-converged-siem)
-- [Checkmarx Launches Comprehensive Supply Chain Security Solution](https://www.darkreading.com/application-security/checkmarx-launches-comprehensive-supply-chain-security-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
