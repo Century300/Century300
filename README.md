@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: Cybercrime Victims Suffered Losses of Over $6.9B in 2021](https://www.darkreading.com/attacks-breaches/fbi-cybercrime-victims-suffered-losses-of-over-6-9b-in-2021)
 - [Okta Says 366 Customers Impacted via Third-Party Breach](https://www.darkreading.com/attacks-breaches/okta-says-366-customers-impacted-via-third-party-breach)
 - [Could Gaming Close the Cyberskills Gap?](https://www.darkreading.com/edge-articles/could-gaming-close-the-cyberskills-gap-)
 - [Cyber Insurance and War Exclusions](https://www.darkreading.com/attacks-breaches/cyber-insurance-and-war-exclusions)
@@ -79,7 +80,6 @@
 - [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
 - [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
 - [Security Teams Need to Investigate the Okta Breach Themselves](https://www.darkreading.com/edge-articles/security-teams-need-to-investigate-the-okta-breach-themselves)
-- [Ransomware Group Claims Major Okta Breach](https://www.darkreading.com/attacks-breaches/ransomware-group-s-claim-that-it-hacked-okta-prompts-concerns-of-another-solarwinds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
