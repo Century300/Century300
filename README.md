@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [APIs &amp; the Software Supply Chain — Evolving Security for Today&#39;s Digital Ecosystem](https://www.darkreading.com/application-security/apis-and-the-software-supply-chain-evolving-security-for-today-s-digital-ecosystem-)
 - [What the Conti Ransomware Group Data Leak Tells Us](https://www.darkreading.com/attacks-breaches/what-the-conti-ransomware-group-data-leak-tells-us)
 - [FBI: Cybercrime Victims Suffered Losses of Over $6.9B in 2021](https://www.darkreading.com/attacks-breaches/fbi-cybercrime-victims-suffered-losses-of-over-6-9b-in-2021)
 - [Okta Says 366 Customers Impacted via Third-Party Breach](https://www.darkreading.com/attacks-breaches/okta-says-366-customers-impacted-via-third-party-breach)
@@ -79,7 +80,6 @@
 - [Cyber Insurance and War Exclusions](https://www.darkreading.com/attacks-breaches/cyber-insurance-and-war-exclusions)
 - [F-Secure Rebrands as WithSecure, Spins Off Consumer Products](https://www.darkreading.com/endpoint/f-secure-rebrands-as-withsecure-spins-off-consumer-products)
 - [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
-- [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
