@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the Conti Ransomware Group Data Leak Tells Us](https://www.darkreading.com/attacks-breaches/what-the-conti-ransomware-group-data-leak-tells-us)
 - [FBI: Cybercrime Victims Suffered Losses of Over $6.9B in 2021](https://www.darkreading.com/attacks-breaches/fbi-cybercrime-victims-suffered-losses-of-over-6-9b-in-2021)
 - [Okta Says 366 Customers Impacted via Third-Party Breach](https://www.darkreading.com/attacks-breaches/okta-says-366-customers-impacted-via-third-party-breach)
 - [Could Gaming Close the Cyberskills Gap?](https://www.darkreading.com/edge-articles/could-gaming-close-the-cyberskills-gap-)
@@ -79,7 +80,6 @@
 - [F-Secure Rebrands as WithSecure, Spins Off Consumer Products](https://www.darkreading.com/endpoint/f-secure-rebrands-as-withsecure-spins-off-consumer-products)
 - [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
 - [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
-- [Vade Receives Patent on Anti-Phishing Tech](https://www.darkreading.com/emerging-tech/vade-receives-patent-on-anti-phishing-tech)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
