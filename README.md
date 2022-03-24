@@ -79,7 +79,7 @@
 - [F-Secure Rebrands as WithSecure, Spins Off Consumer Products](https://www.darkreading.com/endpoint/f-secure-rebrands-as-withsecure-spins-off-consumer-products)
 - [Building a Red Team: How to Get Started](https://www.darkreading.com/attacks-breaches/building-a-red-team-how-to-get-started)
 - [Darktrace AI Stops Cyberattack Exploiting Log4j Vulnerability at Global Financial Services Provider](https://www.darkreading.com/attacks-breaches/darktrace-ai-stops-cyberattack-exploiting-log4j-vulnerability-at-global-financial-services-provider)
-- [Security Teams Need to Investigate the Okta Breach Themselves](https://www.darkreading.com/edge-articles/security-teams-need-to-investigate-the-okta-breach-themselves)
+- [Vade Receives Patent on Anti-Phishing Tech](https://www.darkreading.com/emerging-tech/vade-receives-patent-on-anti-phishing-tech)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
