@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Do I Demonstrate the ROI of My Security Program?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-demonstrate-the-roi-of-my-security-program)
+- [WiCyS Members Now Have access to Cyber Defense Challenge Through Target](https://www.darkreading.com/operations/wicys-members-now-have-access-to-cyber-defense-challenge-through-target)
 - [Here&#39;s How Fast Ransomware Encrypts Files](https://www.darkreading.com/application-security/here-s-how-fast-ransomware-encrypts-files)
 - [HR Alone Can&#39;t Solve the Great Resignation](https://www.darkreading.com/careers-and-people/hr-alone-can-t-solve-the-great-resignation-)
 - [Russian Nationals Indicted for Epic Triton/Trisis and Dragonfly Cyberattacks on Energy Firms](https://www.darkreading.com/attacks-breaches/russian-state-sponsored-hackers-behind-epic-trisis-attack-indicted-for-targeting-energy-firms)
 - [Downloaders Currently the Most Prevalent Android Malware](https://www.darkreading.com/edge-threat-monitor/downloaders-currently-the-most-prevalent-android-malware)
 - [How Casinos Can Prevent Loyalty Incentive and Account Takeover Fraud](https://www.darkreading.com/edge-articles/how-casinos-can-prevent-loyalty-incentive-and-account-takeover-fraud)
 - [Ransomware Payments, Demands Rose Dramatically in 2021](https://www.darkreading.com/attacks-breaches/ransomware-payments-demands-rose-dramatically-in-2021)
-- [Pandemic Leaves Firms Scrambling for Cybersecurity Specialists](https://www.darkreading.com/remote-workforce/pandemic-leaves-firms-scrambling-for-cybersecurity-specialists)
-- [For MSPs, Next-Gen Email Security Is a Must](https://www.darkreading.com/vulnerabilities-threats/for-msps-next-gen-email-security-is-a-must-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
