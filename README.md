@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Nationals Indicted for Epic Triton/Trisis and Dragonfly Cyberattacks on Energy Firms](https://www.darkreading.com/attacks-breaches/russian-state-sponsored-hackers-behind-epic-trisis-attack-indicted-for-targeting-energy-firms)
+- [Downloaders Currently the Most Prevalent Android Malware](https://www.darkreading.com/edge-threat-monitor/downloaders-currently-the-most-prevalent-android-malware)
 - [How Casinos Can Prevent Loyalty Incentive and Account Takeover Fraud](https://www.darkreading.com/edge-articles/how-casinos-can-prevent-loyalty-incentive-and-account-takeover-fraud)
 - [Ransomware Payments, Demands Rose Dramatically in 2021](https://www.darkreading.com/attacks-breaches/ransomware-payments-demands-rose-dramatically-in-2021)
 - [Pandemic Leaves Firms Scrambling for Cybersecurity Specialists](https://www.darkreading.com/remote-workforce/pandemic-leaves-firms-scrambling-for-cybersecurity-specialists)
 - [For MSPs, Next-Gen Email Security Is a Must](https://www.darkreading.com/vulnerabilities-threats/for-msps-next-gen-email-security-is-a-must-)
 - [APIs &amp; the Software Supply Chain — Evolving Security for Today&#39;s Digital Ecosystem](https://www.darkreading.com/application-security/apis-and-the-software-supply-chain-evolving-security-for-today-s-digital-ecosystem-)
 - [What the Conti Ransomware Group Data Leak Tells Us](https://www.darkreading.com/attacks-breaches/what-the-conti-ransomware-group-data-leak-tells-us)
-- [FBI: Cybercrime Victims Suffered Losses of Over $6.9B in 2021](https://www.darkreading.com/attacks-breaches/fbi-cybercrime-victims-suffered-losses-of-over-6-9b-in-2021)
-- [Okta Says 366 Customers Impacted via Third-Party Breach](https://www.darkreading.com/attacks-breaches/okta-says-366-customers-impacted-via-third-party-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
