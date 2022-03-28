@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security&#39;s Life Cycle Isn&#39;t the Developers&#39; Life Cycle](https://www.darkreading.com/application-security/security-s-life-cycle-isn-t-the-developers-life-cycle)
 - [Indictment of Russian National Offers Glimpse Into Methodical Targeting of Energy Firm](https://www.darkreading.com/attacks-breaches/indictment-against-russian-national-offers-glimpse-into-methodical-targeting-of-energy-firm)
 - [How Do I Demonstrate the ROI of My Security Program?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-demonstrate-the-roi-of-my-security-program)
 - [WiCyS Members Now Have Access to Cyber Defense Challenge Through Target](https://www.darkreading.com/operations/wicys-members-now-have-access-to-cyber-defense-challenge-through-target)
@@ -79,7 +80,6 @@
 - [HR Alone Can&#39;t Solve the Great Resignation](https://www.darkreading.com/careers-and-people/hr-alone-can-t-solve-the-great-resignation-)
 - [Russian Nationals Indicted for Epic Triton/Trisis and Dragonfly Cyberattacks on Energy Firms](https://www.darkreading.com/attacks-breaches/russian-state-sponsored-hackers-behind-epic-trisis-attack-indicted-for-targeting-energy-firms)
 - [Downloaders Currently the Most Prevalent Android Malware](https://www.darkreading.com/edge-threat-monitor/downloaders-currently-the-most-prevalent-android-malware)
-- [How Casinos Can Prevent Loyalty Incentive and Account Takeover Fraud](https://www.darkreading.com/edge-articles/how-casinos-can-prevent-loyalty-incentive-and-account-takeover-fraud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
