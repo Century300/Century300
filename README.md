@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
 - [Triton Malware Still Targeting Energy Firms](https://www.darkreading.com/attacks-breaches/triton-malware-still-targeting-energy-firms)
 - [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
 - [Security&#39;s Life Cycle Isn&#39;t the Developers&#39; Life Cycle](https://www.darkreading.com/application-security/security-s-life-cycle-isn-t-the-developers-life-cycle)
@@ -79,7 +80,6 @@
 - [How Do I Demonstrate the ROI of My Security Program?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-demonstrate-the-roi-of-my-security-program)
 - [WiCyS Members Now Have Access to Cyber Defense Challenge Through Target](https://www.darkreading.com/operations/wicys-members-now-have-access-to-cyber-defense-challenge-through-target)
 - [Here&#39;s How Fast Ransomware Encrypts Files](https://www.darkreading.com/application-security/here-s-how-fast-ransomware-encrypts-files)
-- [HR Alone Can&#39;t Solve the Great Resignation](https://www.darkreading.com/careers-and-people/hr-alone-can-t-solve-the-great-resignation-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
