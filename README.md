@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Low-Code/No-Code Tools Are Popular, But Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
 - [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
 - [Triton Malware Still Targeting Energy Firms](https://www.darkreading.com/attacks-breaches/triton-malware-still-targeting-energy-firms)
 - [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
@@ -79,7 +80,6 @@
 - [Indictment of Russian National Offers Glimpse Into Methodical Targeting of Energy Firm](https://www.darkreading.com/attacks-breaches/indictment-against-russian-national-offers-glimpse-into-methodical-targeting-of-energy-firm)
 - [How Do I Demonstrate the ROI of My Security Program?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-demonstrate-the-roi-of-my-security-program)
 - [WiCyS Members Now Have Access to Cyber Defense Challenge Through Target](https://www.darkreading.com/operations/wicys-members-now-have-access-to-cyber-defense-challenge-through-target)
-- [Here&#39;s How Fast Ransomware Encrypts Files](https://www.darkreading.com/application-security/here-s-how-fast-ransomware-encrypts-files)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
