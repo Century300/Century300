@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyera Launches From Stealth With $60M to Identify, Secure, and Remediate Cloud Data Security Risks](https://www.darkreading.com/cloud/cyera-launches-from-stealth-with-60m-to-identify-secure-and-remediate-cloud-data-security-risks)
 - [Exploring the Intersection of Physical Security and Cybersecurity](https://www.darkreading.com/physical-security/exploring-the-intersection-of-physical-security-and-cybersecurity)
 - [Low-Code/No-Code Tools Are Popular but Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
 - [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
@@ -79,7 +80,6 @@
 - [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
 - [Security&#39;s Life Cycle Isn&#39;t the Developers&#39; Life Cycle](https://www.darkreading.com/application-security/security-s-life-cycle-isn-t-the-developers-life-cycle)
 - [Indictment of Russian National Offers Glimpse Into Methodical Targeting of Energy Firm](https://www.darkreading.com/attacks-breaches/indictment-against-russian-national-offers-glimpse-into-methodical-targeting-of-energy-firm)
-- [How Do I Demonstrate the ROI of My Security Program?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-demonstrate-the-roi-of-my-security-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
