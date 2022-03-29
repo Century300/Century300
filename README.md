@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CriticalStart Releases Enhanced Capabilities for Microsoft 365 Defender](https://www.darkreading.com/remote-workforce/criticalstart-releases-enhanced-capabilities-for-microsoft-365-defenderreleases-enhanced-capabilities-for-microsoft-365-defender)
 - [Biden Requests Nearly $11B for Federal Cybersecurity Spending](https://www.darkreading.com/remote-workforce/biden-requests-nearly-11b-for-federal-cybersecurity-spending)
 - [Cyera Launches From Stealth With $60M to Identify, Secure, and Remediate Cloud Data Security Risks](https://www.darkreading.com/cloud/cyera-launches-from-stealth-with-60m-to-identify-secure-and-remediate-cloud-data-security-risks)
 - [Exploring the Intersection of Physical Security and Cybersecurity](https://www.darkreading.com/physical-security/exploring-the-intersection-of-physical-security-and-cybersecurity)
@@ -79,7 +80,6 @@
 - [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
 - [Triton Malware Still Targeting Energy Firms](https://www.darkreading.com/attacks-breaches/triton-malware-still-targeting-energy-firms)
 - [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
-- [Security&#39;s Life Cycle Isn&#39;t the Developers&#39; Life Cycle](https://www.darkreading.com/application-security/security-s-life-cycle-isn-t-the-developers-life-cycle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
