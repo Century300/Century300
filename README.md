@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Low-Code/No-Code Tools Are Popular, But Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
+- [Low-Code/No-Code Tools Are Popular but Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
 - [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
 - [Triton Malware Still Targeting Energy Firms](https://www.darkreading.com/attacks-breaches/triton-malware-still-targeting-energy-firms)
 - [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
