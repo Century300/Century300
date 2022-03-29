@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Private Equity Firm Led by Mnuchin Acquires Mobile Security Vendor Zimperium](https://www.darkreading.com/remote-workforce/private-equity-firm-led-by-mnuchin-acquires-mobile-security-vendor-zimperium)
 - [CriticalStart Releases Enhanced Capabilities for Microsoft 365 Defender](https://www.darkreading.com/remote-workforce/criticalstart-releases-enhanced-capabilities-for-microsoft-365-defenderreleases-enhanced-capabilities-for-microsoft-365-defender)
 - [Biden Requests Nearly $11B for Federal Cybersecurity Spending](https://www.darkreading.com/remote-workforce/biden-requests-nearly-11b-for-federal-cybersecurity-spending)
 - [Cyera Launches From Stealth With $60M to Identify, Secure, and Remediate Cloud Data Security Risks](https://www.darkreading.com/cloud/cyera-launches-from-stealth-with-60m-to-identify-secure-and-remediate-cloud-data-security-risks)
@@ -79,7 +80,6 @@
 - [Low-Code/No-Code Tools Are Popular but Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
 - [Zero-Day Surge Led to More Rapid Exploitation of Bugs in 2021](https://www.darkreading.com/application-security/zero-day-surge-led-to-more-rapid-exploitation-in-2021)
 - [Triton Malware Still Targeting Energy Firms](https://www.darkreading.com/attacks-breaches/triton-malware-still-targeting-energy-firms)
-- [Vodafone Portugal: The Attack on Brand Reputations and Public Confidence Through Cybercrime](https://www.darkreading.com/attacks-breaches/vodafone-portugal-the-attack-on-brand-reputations-and-public-confidence-through-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
