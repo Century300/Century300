@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA, DOE Warn of Attacks on Uninterruptible Power Supply &lpar;UPS&rpar; Devices](https://www.darkreading.com/vulnerabilities-threats/cisa-doe-warn-of-attacks-on-uninterruptible-power-supply-ups-devices)
 - [Smart Cities: Secure by Design? It Takes a Village](https://www.darkreading.com/attacks-breaches/smart-cities-secure-by-design-it-takes-a-village)
 - [Cybercriminals Fighting Over Cloud Workloads for Cryptomining](https://www.darkreading.com/cloud/attackers-fighting-over-cloud-workloads-for-cryptomining)
 - [Cloud Security Architecture Needs to Be Strategic, Realistic, and Based on Risk](https://www.darkreading.com/cloud/cloud-security-architecture-needs-to-be-strategic-realistic-and-based-on-risk)
@@ -79,7 +80,6 @@
 - [Log4j Attacks Continue Unabated Against VMware Horizon Servers](https://www.darkreading.com/vulnerabilities-threats/log4j-attacks-continue-unabated-against-vmware-horizon-servers)
 - [Understanding Private 5G LANs in the Enterprise](https://www.darkreading.com/emerging-tech/understanding-private-5g-lans-in-the-enterprise)
 - [Precursor Malware is a Early Warning Sign for Ransomware](https://www.darkreading.com/edge-threat-monitor/precursor-malware-is-a-early-warning-sign-for-ransomware)
-- [Private Equity Firm Led by Mnuchin Acquires Mobile Security Vendor Zimperium](https://www.darkreading.com/remote-workforce/private-equity-firm-led-by-mnuchin-acquires-mobile-security-vendor-zimperium)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
