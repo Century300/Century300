@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Security Architecture Needs to Be Strategic, Realistic, and Based on Risk](https://www.darkreading.com/cloud/cloud-security-architecture-needs-to-be-strategic-realistic-and-based-on-risk)
 - [How Security Complexity Is Being Weaponized](https://www.darkreading.com/vulnerabilities-threats/how-security-complexity-is-being-weaponized)
 - [Log4j Attacks Continue Unabated Against VMware Horizon Servers](https://www.darkreading.com/vulnerabilities-threats/log4j-attacks-continue-unabated-against-vmware-horizon-servers)
 - [Understanding Private 5G LANs in the Enterprise](https://www.darkreading.com/emerging-tech/understanding-private-5g-lans-in-the-enterprise)
@@ -79,7 +80,6 @@
 - [Private Equity Firm Led by Mnuchin Acquires Mobile Security Vendor Zimperium](https://www.darkreading.com/remote-workforce/private-equity-firm-led-by-mnuchin-acquires-mobile-security-vendor-zimperium)
 - [CriticalStart Releases Enhanced Capabilities for Microsoft 365 Defender](https://www.darkreading.com/remote-workforce/criticalstart-releases-enhanced-capabilities-for-microsoft-365-defenderreleases-enhanced-capabilities-for-microsoft-365-defender)
 - [Biden Requests Nearly $11B for Federal Cybersecurity Spending](https://www.darkreading.com/remote-workforce/biden-requests-nearly-11b-for-federal-cybersecurity-spending)
-- [Cyera Launches From Stealth With $60M to Identify, Secure, and Remediate Cloud Data Security Risks](https://www.darkreading.com/cloud/cyera-launches-from-stealth-with-60m-to-identify-secure-and-remediate-cloud-data-security-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
