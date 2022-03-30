@@ -74,12 +74,12 @@
 <!-- DARKREADING:START -->
 - [Log4j Attacks Continue Unabated Against VMware Horizon Servers](https://www.darkreading.com/vulnerabilities-threats/log4j-attacks-continue-unabated-against-vmware-horizon-servers)
 - [Understanding Private 5G LANs in the Enterprise](https://www.darkreading.com/emerging-tech/understanding-private-5g-lans-in-the-enterprise)
+- [Precursor Malware is a Early Warning Sign for Ransomware](https://www.darkreading.com/edge-threat-monitor/precursor-malware-is-a-early-warning-sign-for-ransomware)
 - [Private Equity Firm Led by Mnuchin Acquires Mobile Security Vendor Zimperium](https://www.darkreading.com/remote-workforce/private-equity-firm-led-by-mnuchin-acquires-mobile-security-vendor-zimperium)
 - [CriticalStart Releases Enhanced Capabilities for Microsoft 365 Defender](https://www.darkreading.com/remote-workforce/criticalstart-releases-enhanced-capabilities-for-microsoft-365-defenderreleases-enhanced-capabilities-for-microsoft-365-defender)
 - [Biden Requests Nearly $11B for Federal Cybersecurity Spending](https://www.darkreading.com/remote-workforce/biden-requests-nearly-11b-for-federal-cybersecurity-spending)
 - [Cyera Launches From Stealth With $60M to Identify, Secure, and Remediate Cloud Data Security Risks](https://www.darkreading.com/cloud/cyera-launches-from-stealth-with-60m-to-identify-secure-and-remediate-cloud-data-security-risks)
 - [Exploring the Intersection of Physical Security and Cybersecurity](https://www.darkreading.com/physical-security/exploring-the-intersection-of-physical-security-and-cybersecurity)
-- [Low-Code/No-Code Tools Are Popular but Untrusted](https://www.darkreading.com/tech-trends/low-code-no-code-tools-are-popular-but-untrusted)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
