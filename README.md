@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Day Vulnerability Discovered in Java Spring Framework](https://www.darkreading.com/application-security/zero-day-vulnerability-discovered-in-java-spring-framework)
 - [CISA, DOE Warn of Attacks on Uninterruptible Power Supply &lpar;UPS&rpar; Devices](https://www.darkreading.com/vulnerabilities-threats/cisa-doe-warn-of-attacks-on-uninterruptible-power-supply-ups-devices)
 - [Smart Cities: Secure by Design? It Takes a Village](https://www.darkreading.com/attacks-breaches/smart-cities-secure-by-design-it-takes-a-village)
 - [Cybercriminals Fighting Over Cloud Workloads for Cryptomining](https://www.darkreading.com/cloud/attackers-fighting-over-cloud-workloads-for-cryptomining)
@@ -79,7 +80,6 @@
 - [How Security Complexity Is Being Weaponized](https://www.darkreading.com/vulnerabilities-threats/how-security-complexity-is-being-weaponized)
 - [Log4j Attacks Continue Unabated Against VMware Horizon Servers](https://www.darkreading.com/vulnerabilities-threats/log4j-attacks-continue-unabated-against-vmware-horizon-servers)
 - [Understanding Private 5G LANs in the Enterprise](https://www.darkreading.com/emerging-tech/understanding-private-5g-lans-in-the-enterprise)
-- [Precursor Malware is a Early Warning Sign for Ransomware](https://www.darkreading.com/edge-threat-monitor/precursor-malware-is-a-early-warning-sign-for-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
