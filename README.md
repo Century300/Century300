@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Protecting Your Organization Against a New Class of Cyber Threats: HEAT](https://www.darkreading.com/attacks-breaches/protecting-your-organization-against-a-new-class-of-cyber-threats-heat)
 - [Nation-State Hackers Ramp Up Ukraine War-Themed Attacks](https://www.darkreading.com/attacks-breaches/nation-state-backed-actors-ramp-up-ukraine-war-themed-attacks)
 - [Zero-Day Vulnerability Discovered in Java Spring Framework](https://www.darkreading.com/application-security/zero-day-vulnerability-discovered-in-java-spring-framework)
 - [CISA, DOE Warn of Attacks on Uninterruptible Power Supply &lpar;UPS&rpar; Devices](https://www.darkreading.com/vulnerabilities-threats/cisa-doe-warn-of-attacks-on-uninterruptible-power-supply-ups-devices)
@@ -79,7 +80,6 @@
 - [Cybercriminals Fighting Over Cloud Workloads for Cryptomining](https://www.darkreading.com/cloud/attackers-fighting-over-cloud-workloads-for-cryptomining)
 - [Cloud Security Architecture Needs to Be Strategic, Realistic, and Based on Risk](https://www.darkreading.com/cloud/cloud-security-architecture-needs-to-be-strategic-realistic-and-based-on-risk)
 - [How Security Complexity Is Being Weaponized](https://www.darkreading.com/vulnerabilities-threats/how-security-complexity-is-being-weaponized)
-- [How to Prevent the Next Log4j-Style Zero-Day Vulnerability](https://www.darkreading.com/dr-tech/how-to-prevent-the-next-log4j-style-zero-day-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
