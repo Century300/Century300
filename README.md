@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerabilities in Rockwell Automation PLCs Could Enable Stuxnet-Like Attacks](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-in-rockwell-automation-plcs-could-enable-stuxnet-like-attacks)
 - [Ransomware: Should Companies Ever Pay Up?](https://www.darkreading.com/attacks-breaches/ransomware-should-companies-ever-pay-up-)
+- [Companies Going to Greater Lengths to Hire Cybersecurity Staff](https://www.darkreading.com/edge-articles/accelerating-onto-the-on-ramp-for-cybersecurity-jobs)
 - [Global BEC Crackdown Nets 65 Suspects](https://www.darkreading.com/remote-workforce/global-bec-crackdown-nets)
 - [U.S. Cyber Command Adds APUS as Member in Newly Formed Academic Network](https://www.darkreading.com/operations/u-s-cyber-command-adds-apus-as-member-in-newly-formed-network)
 - [Protecting Your Organization Against a New Class of Cyber Threats: HEAT](https://www.darkreading.com/attacks-breaches/protecting-your-organization-against-a-new-class-of-cyber-threats-heat)
 - [Nation-State Hackers Ramp Up Ukraine War-Themed Attacks](https://www.darkreading.com/attacks-breaches/nation-state-backed-actors-ramp-up-ukraine-war-themed-attacks)
 - [Zero-Day Vulnerability Discovered in Java Spring Framework](https://www.darkreading.com/application-security/zero-day-vulnerability-discovered-in-java-spring-framework)
-- [CISA, DOE Warn of Attacks on Uninterruptible Power Supply &lpar;UPS&rpar; Devices](https://www.darkreading.com/vulnerabilities-threats/cisa-doe-warn-of-attacks-on-uninterruptible-power-supply-ups-devices)
-- [Smart Cities: Secure by Design? It Takes a Village](https://www.darkreading.com/attacks-breaches/smart-cities-secure-by-design-it-takes-a-village)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
