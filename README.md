@@ -78,8 +78,8 @@
 - [Cybercriminals Fighting Over Cloud Workloads for Cryptomining](https://www.darkreading.com/cloud/attackers-fighting-over-cloud-workloads-for-cryptomining)
 - [Cloud Security Architecture Needs to Be Strategic, Realistic, and Based on Risk](https://www.darkreading.com/cloud/cloud-security-architecture-needs-to-be-strategic-realistic-and-based-on-risk)
 - [How Security Complexity Is Being Weaponized](https://www.darkreading.com/vulnerabilities-threats/how-security-complexity-is-being-weaponized)
+- [How to Prevent the Next Log4j-Style Zero-Day Vulnerability](https://www.darkreading.com/dr-tech/how-to-prevent-the-next-log4j-style-zero-day-vulnerability)
 - [Log4j Attacks Continue Unabated Against VMware Horizon Servers](https://www.darkreading.com/vulnerabilities-threats/log4j-attacks-continue-unabated-against-vmware-horizon-servers)
-- [Understanding Private 5G LANs in the Enterprise](https://www.darkreading.com/emerging-tech/understanding-private-5g-lans-in-the-enterprise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
