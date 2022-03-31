@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Global BEC Crackdown Nets 65 Suspects](https://www.darkreading.com/remote-workforce/global-bec-crackdown-nets)
 - [U.S. Cyber Command Adds APUS as Member in Newly Formed Academic Network](https://www.darkreading.com/operations/u-s-cyber-command-adds-apus-as-member-in-newly-formed-network)
 - [Protecting Your Organization Against a New Class of Cyber Threats: HEAT](https://www.darkreading.com/attacks-breaches/protecting-your-organization-against-a-new-class-of-cyber-threats-heat)
 - [Nation-State Hackers Ramp Up Ukraine War-Themed Attacks](https://www.darkreading.com/attacks-breaches/nation-state-backed-actors-ramp-up-ukraine-war-themed-attacks)
@@ -79,7 +80,6 @@
 - [CISA, DOE Warn of Attacks on Uninterruptible Power Supply &lpar;UPS&rpar; Devices](https://www.darkreading.com/vulnerabilities-threats/cisa-doe-warn-of-attacks-on-uninterruptible-power-supply-ups-devices)
 - [Smart Cities: Secure by Design? It Takes a Village](https://www.darkreading.com/attacks-breaches/smart-cities-secure-by-design-it-takes-a-village)
 - [Cybercriminals Fighting Over Cloud Workloads for Cryptomining](https://www.darkreading.com/cloud/attackers-fighting-over-cloud-workloads-for-cryptomining)
-- [Cloud Security Architecture Needs to Be Strategic, Realistic, and Based on Risk](https://www.darkreading.com/cloud/cloud-security-architecture-needs-to-be-strategic-realistic-and-based-on-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
