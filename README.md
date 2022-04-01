@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NSA Employee Indicted for Sending Classified Data Outside the Agency](https://www.darkreading.com/attacks-breaches/nsa-employee-indicted-for-sending-classified-data-outside-the-agency)
 - [What You Need to Know About PCI DSS 4.0&#39;s New Requirements](https://www.darkreading.com/edge-articles/what-s-new-in-pci-dss-4-0-for-authentication-requirements-)
 - [More Than Ever, Security Matters](https://www.darkreading.com/application-security/more-than-ever-security-matters)
 - [Vulnerabilities in Rockwell Automation PLCs Could Enable Stuxnet-Like Attacks](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-in-rockwell-automation-plcs-could-enable-stuxnet-like-attacks)
@@ -79,7 +80,6 @@
 - [Ransomware: Should Companies Ever Pay Up?](https://www.darkreading.com/attacks-breaches/ransomware-should-companies-ever-pay-up-)
 - [Companies Going to Greater Lengths to Hire Cybersecurity Staff](https://www.darkreading.com/edge-articles/accelerating-onto-the-on-ramp-for-cybersecurity-jobs)
 - [Global BEC Crackdown Nets 65 Suspects](https://www.darkreading.com/remote-workforce/global-bec-crackdown-nets)
-- [U.S. Cyber Command Adds APUS as Member in Newly Formed Academic Network](https://www.darkreading.com/operations/u-s-cyber-command-adds-apus-as-member-in-newly-formed-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
