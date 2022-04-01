@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple&#39;s Zero-Day Woes Continue](https://www.darkreading.com/vulnerabilities-threats/apple-s-zero-day-woes-continue)
 - [NSA Employee Indicted for Sending Classified Data Outside the Agency](https://www.darkreading.com/attacks-breaches/nsa-employee-indicted-for-sending-classified-data-outside-the-agency)
 - [What You Need to Know About PCI DSS 4.0&#39;s New Requirements](https://www.darkreading.com/edge-articles/what-s-new-in-pci-dss-4-0-for-authentication-requirements-)
 - [More Than Ever, Security Matters](https://www.darkreading.com/application-security/more-than-ever-security-matters)
@@ -79,7 +80,6 @@
 - [Spring Fixes Zero-Day Vulnerability in Framework and Spring Boot](https://www.darkreading.com/vulnerabilities-threats/spring-fixes-zero-day-vulnerability-in-framework-spring-boot)
 - [Ransomware: Should Companies Ever Pay Up?](https://www.darkreading.com/attacks-breaches/ransomware-should-companies-ever-pay-up-)
 - [Companies Going to Greater Lengths to Hire Cybersecurity Staff](https://www.darkreading.com/edge-articles/accelerating-onto-the-on-ramp-for-cybersecurity-jobs)
-- [Global BEC Crackdown Nets 65 Suspects](https://www.darkreading.com/remote-workforce/global-bec-crackdown-nets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
