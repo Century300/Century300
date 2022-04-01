@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What You Need to Know About PCI DSS 4.0&#39;s New Requirements](https://www.darkreading.com/edge-articles/what-s-new-in-pci-dss-4-0-for-authentication-requirements-)
 - [More Than Ever, Security Matters](https://www.darkreading.com/application-security/more-than-ever-security-matters)
 - [Vulnerabilities in Rockwell Automation PLCs Could Enable Stuxnet-Like Attacks](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-in-rockwell-automation-plcs-could-enable-stuxnet-like-attacks)
 - [Spring Fixes Zero-Day Vulnerability in Framework and Spring Boot](https://www.darkreading.com/vulnerabilities-threats/spring-fixes-zero-day-vulnerability-in-framework-spring-boot)
@@ -79,7 +80,6 @@
 - [Companies Going to Greater Lengths to Hire Cybersecurity Staff](https://www.darkreading.com/edge-articles/accelerating-onto-the-on-ramp-for-cybersecurity-jobs)
 - [Global BEC Crackdown Nets 65 Suspects](https://www.darkreading.com/remote-workforce/global-bec-crackdown-nets)
 - [U.S. Cyber Command Adds APUS as Member in Newly Formed Academic Network](https://www.darkreading.com/operations/u-s-cyber-command-adds-apus-as-member-in-newly-formed-network)
-- [Protecting Your Organization Against a New Class of Cyber Threats: HEAT](https://www.darkreading.com/attacks-breaches/protecting-your-organization-against-a-new-class-of-cyber-threats-heat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
