@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Mesh: IT&#39;s Answer to Cloud Security](https://www.darkreading.com/operations/cybersecurity-mesh-it-s-answer-to-cloud-security)
 - [Apple&#39;s Zero-Day Woes Continue](https://www.darkreading.com/vulnerabilities-threats/apple-s-zero-day-woes-continue)
 - [NSA Employee Indicted for Sending Classified Data Outside the Agency](https://www.darkreading.com/attacks-breaches/nsa-employee-indicted-for-sending-classified-data-outside-the-agency)
 - [What You Need to Know About PCI DSS 4.0&#39;s New Requirements](https://www.darkreading.com/edge-articles/what-s-new-in-pci-dss-4-0-for-authentication-requirements-)
@@ -79,7 +80,6 @@
 - [Vulnerabilities in Rockwell Automation PLCs Could Enable Stuxnet-Like Attacks](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-in-rockwell-automation-plcs-could-enable-stuxnet-like-attacks)
 - [Spring Fixes Zero-Day Vulnerability in Framework and Spring Boot](https://www.darkreading.com/vulnerabilities-threats/spring-fixes-zero-day-vulnerability-in-framework-spring-boot)
 - [Ransomware: Should Companies Ever Pay Up?](https://www.darkreading.com/attacks-breaches/ransomware-should-companies-ever-pay-up-)
-- [Companies Going to Greater Lengths to Hire Cybersecurity Staff](https://www.darkreading.com/edge-articles/accelerating-onto-the-on-ramp-for-cybersecurity-jobs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
