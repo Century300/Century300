@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qualys Delivers Multi-Vector EDR 2.0 with Enhanced Prioritization to Quickly Surface the Most Critical Incidents](https://www.darkreading.com/endpoint/qualys-delivers-multi-vector-edr-2-0-with-enhanced-prioritization-to-quickly-surface-the-most-critical-incidents)
+- [Citrix® Modernizes Security to Accommodate Hybrid Work](https://www.darkreading.com/remote-workforce/citrix-modernizes-security-to-accommodate-hybrid-work)
 - [Apple Gift Card Scammers Sentenced for Role in $1.5M Fraud](https://www.darkreading.com/attacks-breaches/apple-gift-card-scammers-sentenced-for-role-in-1-5m-fraud)
 - [Millions of Installations Potentially Vulnerable to Spring Framework Flaw](https://www.darkreading.com/application-security/vulnerable-spring-framework-instances-estimated-at-possibly-millions)
 - [How Do I Decide Whether to Buy or Build in Security?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-decide-whether-to-buy-or-build-in-security)
 - [Beware of These 5 Tax Scams](https://www.darkreading.com/remote-workforce/5-tax-scams-to-watch-out-for-before-tax-day-)
 - [Cybersecurity Mesh: IT&#39;s Answer to Cloud Security](https://www.darkreading.com/operations/cybersecurity-mesh-it-s-answer-to-cloud-security)
 - [Apple&#39;s Zero-Day Woes Continue](https://www.darkreading.com/vulnerabilities-threats/apple-s-zero-day-woes-continue)
-- [NSA Employee Indicted for Sending Classified Data Outside the Agency](https://www.darkreading.com/attacks-breaches/nsa-employee-indicted-for-sending-classified-data-outside-the-agency)
-- [What You Need to Know About PCI DSS 4.0&#39;s New Requirements](https://www.darkreading.com/edge-articles/what-s-new-in-pci-dss-4-0-for-authentication-requirements-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
