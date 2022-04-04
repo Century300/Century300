@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Beware of These 5 Tax Scams](https://www.darkreading.com/remote-workforce/5-tax-scams-to-watch-out-for-before-tax-day-)
 - [Cybersecurity Mesh: IT&#39;s Answer to Cloud Security](https://www.darkreading.com/operations/cybersecurity-mesh-it-s-answer-to-cloud-security)
 - [Apple&#39;s Zero-Day Woes Continue](https://www.darkreading.com/vulnerabilities-threats/apple-s-zero-day-woes-continue)
 - [NSA Employee Indicted for Sending Classified Data Outside the Agency](https://www.darkreading.com/attacks-breaches/nsa-employee-indicted-for-sending-classified-data-outside-the-agency)
@@ -79,7 +80,6 @@
 - [More Than Ever, Security Matters](https://www.darkreading.com/application-security/more-than-ever-security-matters)
 - [Vulnerabilities in Rockwell Automation PLCs Could Enable Stuxnet-Like Attacks](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-in-rockwell-automation-plcs-could-enable-stuxnet-like-attacks)
 - [Spring Fixes Zero-Day Vulnerability in Framework and Spring Boot](https://www.darkreading.com/vulnerabilities-threats/spring-fixes-zero-day-vulnerability-in-framework-spring-boot)
-- [Ransomware: Should Companies Ever Pay Up?](https://www.darkreading.com/attacks-breaches/ransomware-should-companies-ever-pay-up-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
