@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Human Behavior&#39; Security Startup Nets $7M in Seed](https://www.darkreading.com/remote-workforce/-human-behavior-security-startup-nets-7m-in-seed)
 - [How IP Data Can Help Security Professionals Protect Their Networks](https://www.darkreading.com/dr-tech/how-ip-data-can-help-security-professionals-protect-their-networks)
 - [Name That Edge Toon: In Deep Water](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-deep-water)
 - [What We Can Learn From Lapsus$ Techniques](https://www.darkreading.com/vulnerabilities-threats/what-we-can-learn-from-lapsus-techniques)
@@ -79,7 +80,6 @@
 - [How to Prepare for Cyber Threats During the Russian Invasion of Ukraine](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-cyber-threats-during-the-russian-invasion-of-ukraine)
 - [State Department Announces Bureau of Cyberspace and Digital Policy](https://www.darkreading.com/risk/state-department-announces-bureau-of-cyberspace-and-digital-policy)
 - [Qualys Delivers Multi-Vector EDR 2.0 with Enhanced Prioritization to Quickly Surface the Most Critical Incidents](https://www.darkreading.com/endpoint/qualys-delivers-multi-vector-edr-2-0-with-enhanced-prioritization-to-quickly-surface-the-most-critical-incidents)
-- [Citrix® Modernizes Security to Accommodate Hybrid Work](https://www.darkreading.com/remote-workforce/citrix-modernizes-security-to-accommodate-hybrid-work)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
