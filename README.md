@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What We Can Learn From Lapsus$ Techniques](https://www.darkreading.com/vulnerabilities-threats/what-we-can-learn-from-lapsus-techniques)
 - [FIN7 Morphs into a Broader, More Dangerous Cybercrime Group](https://www.darkreading.com/attacks-breaches/fin7-evolves-into-a-broader-more-dangerous-threat-group)
 - [How to Prepare for Cyber Threats During the Russian Invasion of Ukraine](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-cyber-threats-during-the-russian-invasion-of-ukraine)
 - [State Department Announces Bureau of Cyberspace and Digital Policy](https://www.darkreading.com/risk/state-department-announces-bureau-of-cyberspace-and-digital-policy)
@@ -79,7 +80,6 @@
 - [Citrix® Modernizes Security to Accommodate Hybrid Work](https://www.darkreading.com/remote-workforce/citrix-modernizes-security-to-accommodate-hybrid-work)
 - [Apple Gift Card Scammers Sentenced for Role in $1.5M Fraud](https://www.darkreading.com/attacks-breaches/apple-gift-card-scammers-sentenced-for-role-in-1-5m-fraud)
 - [Millions of Installations Potentially Vulnerable to Spring Framework Flaw](https://www.darkreading.com/application-security/vulnerable-spring-framework-instances-estimated-at-possibly-millions)
-- [How Do I Decide Whether to Buy or Build in Security?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-decide-whether-to-buy-or-build-in-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
