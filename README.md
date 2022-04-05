@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [State Department Announces Bureau of Cyberspace and Digital Policy](https://www.darkreading.com/risk/state-department-announces-bureau-of-cyberspace-and-digital-policy)
 - [Qualys Delivers Multi-Vector EDR 2.0 with Enhanced Prioritization to Quickly Surface the Most Critical Incidents](https://www.darkreading.com/endpoint/qualys-delivers-multi-vector-edr-2-0-with-enhanced-prioritization-to-quickly-surface-the-most-critical-incidents)
 - [Citrix® Modernizes Security to Accommodate Hybrid Work](https://www.darkreading.com/remote-workforce/citrix-modernizes-security-to-accommodate-hybrid-work)
 - [Apple Gift Card Scammers Sentenced for Role in $1.5M Fraud](https://www.darkreading.com/attacks-breaches/apple-gift-card-scammers-sentenced-for-role-in-1-5m-fraud)
@@ -79,7 +80,6 @@
 - [How Do I Decide Whether to Buy or Build in Security?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-decide-whether-to-buy-or-build-in-security)
 - [Beware of These 5 Tax Scams](https://www.darkreading.com/remote-workforce/5-tax-scams-to-watch-out-for-before-tax-day-)
 - [Cybersecurity Mesh: IT&#39;s Answer to Cloud Security](https://www.darkreading.com/operations/cybersecurity-mesh-it-s-answer-to-cloud-security)
-- [Apple&#39;s Zero-Day Woes Continue](https://www.darkreading.com/vulnerabilities-threats/apple-s-zero-day-woes-continue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
