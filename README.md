@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI-Led Operation Disrupts Russian GRU Botnet](https://www.darkreading.com/vulnerabilities-threats/russian-gru-botnet-disrupted-in-fbi-led-operation)
 - [Linux Systems Are Becoming Bigger Targets](https://www.darkreading.com/vulnerabilities-threats/linux-systems-are-becoming-bigger-targets)
 - [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
 - [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
@@ -79,7 +80,6 @@
 - [New WatchGuard Threat Lab Report Shows Network Attacks at Highest Point Over Last Three Years](https://www.darkreading.com/perimeter/new-watchguard-threat-lab-report-shows-network-attacks-at-highest-point-over-last-three-years)
 - [&#39;Human Behavior&#39; Security Startup Nets $7M in Seed](https://www.darkreading.com/remote-workforce/-human-behavior-security-startup-nets-7m-in-seed)
 - [How IP Data Can Help Security Professionals Protect Their Networks](https://www.darkreading.com/dr-tech/how-ip-data-can-help-security-professionals-protect-their-networks)
-- [Name That Edge Toon: In Deep Water](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-deep-water)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
