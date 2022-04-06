@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
 - [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
 - [Developers Increasingly Prioritize Secure Coding](https://www.darkreading.com/application-security/developers-increasingly-prioritize-secure-coding)
 - [New WatchGuard Threat Lab Report Shows Network Attacks at Highest Point Over Last Three Years](https://www.darkreading.com/perimeter/new-watchguard-threat-lab-report-shows-network-attacks-at-highest-point-over-last-three-years)
@@ -79,7 +80,6 @@
 - [How IP Data Can Help Security Professionals Protect Their Networks](https://www.darkreading.com/dr-tech/how-ip-data-can-help-security-professionals-protect-their-networks)
 - [Name That Edge Toon: In Deep Water](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-deep-water)
 - [What We Can Learn From Lapsus$ Techniques](https://www.darkreading.com/vulnerabilities-threats/what-we-can-learn-from-lapsus-techniques)
-- [FIN7 Morphs into a Broader, More Dangerous Cybercrime Group](https://www.darkreading.com/attacks-breaches/fin7-evolves-into-a-broader-more-dangerous-threat-group)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
