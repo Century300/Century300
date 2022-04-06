@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nearly 40% of Macs Left Exposed to Two Zero-Day Exploits](https://www.darkreading.com/vulnerabilities-threats/up-to-4-in-10-supported-macs-could-be-exposed-to-2-recently-patched-0-day-flaws)
 - [Eliminating Passwords: One Way Forward](https://www.darkreading.com/edge-articles/dramatically-reduce-risks-by-eliminating-passwords)
 - [How DevOps Automation Solves Low-Code Security Issues](https://www.darkreading.com/dr-tech/how-devops-automation-solves-low-code-security-issues)
 - [FBI-Led Operation Disrupts Russian GRU Botnet](https://www.darkreading.com/vulnerabilities-threats/russian-gru-botnet-disrupted-in-fbi-led-operation)
@@ -79,7 +80,6 @@
 - [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
 - [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
 - [Developers Increasingly Prioritize Secure Coding](https://www.darkreading.com/application-security/developers-increasingly-prioritize-secure-coding)
-- [New WatchGuard Threat Lab Report Shows Network Attacks at Highest Point Over Last Three Years](https://www.darkreading.com/perimeter/new-watchguard-threat-lab-report-shows-network-attacks-at-highest-point-over-last-three-years)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
