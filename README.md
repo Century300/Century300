@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Systems Are Becoming Bigger Targets](https://www.darkreading.com/vulnerabilities-threats/linux-systems-are-becoming-bigger-targets)
 - [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
 - [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
 - [Developers Increasingly Prioritize Secure Coding](https://www.darkreading.com/application-security/developers-increasingly-prioritize-secure-coding)
@@ -79,7 +80,6 @@
 - [&#39;Human Behavior&#39; Security Startup Nets $7M in Seed](https://www.darkreading.com/remote-workforce/-human-behavior-security-startup-nets-7m-in-seed)
 - [How IP Data Can Help Security Professionals Protect Their Networks](https://www.darkreading.com/dr-tech/how-ip-data-can-help-security-professionals-protect-their-networks)
 - [Name That Edge Toon: In Deep Water](https://www.darkreading.com/edge-articles/name-that-edge-toon-in-deep-water)
-- [What We Can Learn From Lapsus$ Techniques](https://www.darkreading.com/vulnerabilities-threats/what-we-can-learn-from-lapsus-techniques)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
