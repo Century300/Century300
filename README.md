@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Nearly 40% of Macs Left Exposed to Two Zero-Day Exploits](https://www.darkreading.com/vulnerabilities-threats/up-to-4-in-10-supported-macs-could-be-exposed-to-2-recently-patched-0-day-flaws)
+- [Zoom&#39;s Bug Bounty Programs Soar to $1.8M](https://www.darkreading.com/application-security/zoom-s-bug-bounty-programs-soars-to-1-8-million)
+- [Nearly 40% of Macs Left Exposed to 2 Zero-Day Exploits](https://www.darkreading.com/vulnerabilities-threats/up-to-4-in-10-supported-macs-could-be-exposed-to-2-recently-patched-0-day-flaws)
 - [Eliminating Passwords: One Way Forward](https://www.darkreading.com/edge-articles/dramatically-reduce-risks-by-eliminating-passwords)
 - [How DevOps Automation Solves Low-Code Security Issues](https://www.darkreading.com/dr-tech/how-devops-automation-solves-low-code-security-issues)
 - [FBI-Led Operation Disrupts Russian GRU Botnet](https://www.darkreading.com/vulnerabilities-threats/russian-gru-botnet-disrupted-in-fbi-led-operation)
 - [Linux Systems Are Becoming Bigger Targets](https://www.darkreading.com/vulnerabilities-threats/linux-systems-are-becoming-bigger-targets)
 - [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
 - [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
-- [Developers Increasingly Prioritize Secure Coding](https://www.darkreading.com/application-security/developers-increasingly-prioritize-secure-coding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
