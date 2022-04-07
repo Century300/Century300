@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nearly Two-Thirds of Ransomware Victims Paid Ransoms Last Year, Finds &quot;2022 Cyberthreat Defense Report&quot;](https://www.darkreading.com/attacks-breaches/nearly-two-thirds-of-ransomware-victims-paid-ransoms-last-year-finds-2022-cyberthreat-defense-report-)
 - [Zoom&#39;s Bug Bounty Programs Soar to $1.8M](https://www.darkreading.com/application-security/zoom-s-bug-bounty-programs-soars-to-1-8-million)
 - [Nearly 40% of Macs Left Exposed to 2 Zero-Day Exploits](https://www.darkreading.com/vulnerabilities-threats/up-to-4-in-10-supported-macs-could-be-exposed-to-2-recently-patched-0-day-flaws)
 - [Eliminating Passwords: One Way Forward](https://www.darkreading.com/edge-articles/dramatically-reduce-risks-by-eliminating-passwords)
@@ -79,7 +80,6 @@
 - [FBI-Led Operation Disrupts Russian GRU Botnet](https://www.darkreading.com/vulnerabilities-threats/russian-gru-botnet-disrupted-in-fbi-led-operation)
 - [Linux Systems Are Becoming Bigger Targets](https://www.darkreading.com/vulnerabilities-threats/linux-systems-are-becoming-bigger-targets)
 - [Why XDR As We Know It Will Fail](https://www.darkreading.com/vulnerabilities-threats/why-xdr-as-we-know-it-will-fail)
-- [Microsoft Details New Security Features for Windows 11](https://www.darkreading.com/remote-workforce/microsoft-details-new-security-features-for-windows-11)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
