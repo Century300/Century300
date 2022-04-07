@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mandiant to Use CrowdStrike Technology in Its Incident Response Services](https://www.darkreading.com/attacks-breaches/mandiant-will-use-crowdstrike-technology-for-incident-response-services)
+- [SeeMetrics to Help CISOs Measure Security Success](https://www.darkreading.com/dr-tech/seemetrics-to-help-cisos-measure-security-success)
 - [BlackCat Purveyor Shows Ransomware Operators Have Nine Lives](https://www.darkreading.com/attacks-breaches/blackcat-purveyor-shows-ransomware-operators-have-nine-lives)
 - [Ukrainian Member of Notorious FIN7 Cybercrime Group Sentenced](https://www.darkreading.com/threat-intelligence/ukrainian-member-of-notorious-fin7-cybercrime-group-sentenced)
 - [Scan This: There&#39;s Danger in QR Codes](https://www.darkreading.com/omdia/scan-this-there-s-danger-in-qr-codes)
 - [Top Application Security Mitigations in Q1 of 2022](https://www.darkreading.com/attacks-breaches/top-application-security-mitigations-in-q1-of-2022)
 - [Nord Security Raises First Outside Capital at $1.6B Valuation](https://www.darkreading.com/remote-workforce/nord-security-raises-first-outside-capital-at-1-6b-valuation)
 - [Keysight Delivers Zero Trust Test Solution](https://www.darkreading.com/cloud/keysight-delivers-zero-trust-test-solution)
-- [Blumira Unveils Cloud SIEM With Integrated Detection and Response for SMBs](https://www.darkreading.com/cloud/blumira-unveils-cloud-siem-with-integrated-detection-and-response-for-smbs)
-- [The Blurring Line, and Growing Risk, Between Physical and Digital Supply Chains](https://www.darkreading.com/risk/the-blurring-line-and-growing-risk-between-physical-and-digital-supply-chains)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
