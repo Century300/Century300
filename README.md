@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackCat Purveyor Shows Ransomware Operators Have Nine Lives](https://www.darkreading.com/attacks-breaches/blackcat-purveyor-shows-ransomware-operators-have-nine-lives)
+- [Ukrainian Member of Notorious FIN7 Cybercrime Group Sentenced](https://www.darkreading.com/threat-intelligence/ukrainian-member-of-notorious-fin7-cybercrime-group-sentenced)
+- [Scan This: There&#39;s Danger in QR Codes](https://www.darkreading.com/omdia/scan-this-there-s-danger-in-qr-codes)
 - [Top Application Security Mitigations in Q1 of 2022](https://www.darkreading.com/attacks-breaches/top-application-security-mitigations-in-q1-of-2022)
 - [Nord Security Raises First Outside Capital at $1.6B Valuation](https://www.darkreading.com/remote-workforce/nord-security-raises-first-outside-capital-at-1-6b-valuation)
 - [Keysight Delivers Zero Trust Test Solution](https://www.darkreading.com/cloud/keysight-delivers-zero-trust-test-solution)
 - [Blumira Unveils Cloud SIEM With Integrated Detection and Response for SMBs](https://www.darkreading.com/cloud/blumira-unveils-cloud-siem-with-integrated-detection-and-response-for-smbs)
 - [The Blurring Line, and Growing Risk, Between Physical and Digital Supply Chains](https://www.darkreading.com/risk/the-blurring-line-and-growing-risk-between-physical-and-digital-supply-chains)
-- [BeyondTrust Announces CEO Transition](https://www.darkreading.com/endpoint/beyondtrust-announces-ceo-transition)
-- [Nearly Two-Thirds of Ransomware Victims Paid Ransoms Last Year, Finds &quot;2022 Cyberthreat Defense Report&quot;](https://www.darkreading.com/attacks-breaches/nearly-two-thirds-of-ransomware-victims-paid-ransoms-last-year-finds-2022-cyberthreat-defense-report-)
-- [Zoom&#39;s Bug Bounty Programs Soar to $1.8M](https://www.darkreading.com/application-security/zoom-s-bug-bounty-programs-soars-to-1-8-million)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
