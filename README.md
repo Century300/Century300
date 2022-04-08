@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Sinkholes Russian Hacking Group&#39;s Domains Targeting Ukraine](https://www.darkreading.com/attacks-breaches/microsoft-sinkholes-russian-hacking-group-s-domains-targeting-ukraine)
 - [BakerHostetler Launches 2022 Data Security Incident Response Report — Resilience And Perseverance](https://www.darkreading.com/attacks-breaches/bakerhostetler-launches-2022-data-security-incident-response-report-resilience-and-perseverance)
 - [Software-as-a-Service Rules the Cloud](https://www.darkreading.com/tech-trends/software-as-a-service-rules-the-cloud)
 - [ByteChek Founder AJ Yawn Brings Discipline to Everything He Does](https://www.darkreading.com/edge-articles/bytechek-founder-aj-yawn-brings-discipline-to-everything-he-does)
@@ -79,7 +80,6 @@
 - [Mandiant to Use CrowdStrike Technology in Its Incident Response Services](https://www.darkreading.com/attacks-breaches/mandiant-will-use-crowdstrike-technology-for-incident-response-services)
 - [SeeMetrics to Help CISOs Measure Security Success](https://www.darkreading.com/dr-tech/seemetrics-to-help-cisos-measure-security-success)
 - [BlackCat Purveyor Shows Ransomware Operators Have 9 Lives](https://www.darkreading.com/attacks-breaches/blackcat-purveyor-shows-ransomware-operators-have-nine-lives)
-- [Ukrainian Member of Notorious FIN7 Cybercrime Group Sentenced](https://www.darkreading.com/threat-intelligence/ukrainian-member-of-notorious-fin7-cybercrime-group-sentenced)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
