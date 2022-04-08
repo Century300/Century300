@@ -74,7 +74,7 @@
 <!-- DARKREADING:START -->
 - [Mandiant to Use CrowdStrike Technology in Its Incident Response Services](https://www.darkreading.com/attacks-breaches/mandiant-will-use-crowdstrike-technology-for-incident-response-services)
 - [SeeMetrics to Help CISOs Measure Security Success](https://www.darkreading.com/dr-tech/seemetrics-to-help-cisos-measure-security-success)
-- [BlackCat Purveyor Shows Ransomware Operators Have Nine Lives](https://www.darkreading.com/attacks-breaches/blackcat-purveyor-shows-ransomware-operators-have-nine-lives)
+- [BlackCat Purveyor Shows Ransomware Operators Have 9 Lives](https://www.darkreading.com/attacks-breaches/blackcat-purveyor-shows-ransomware-operators-have-nine-lives)
 - [Ukrainian Member of Notorious FIN7 Cybercrime Group Sentenced](https://www.darkreading.com/threat-intelligence/ukrainian-member-of-notorious-fin7-cybercrime-group-sentenced)
 - [Scan This: There&#39;s Danger in QR Codes](https://www.darkreading.com/omdia/scan-this-there-s-danger-in-qr-codes)
 - [Top Application Security Mitigations in Q1 of 2022](https://www.darkreading.com/attacks-breaches/top-application-security-mitigations-in-q1-of-2022)
