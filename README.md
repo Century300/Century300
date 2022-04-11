@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [In Appreciation: Mike Murray](https://www.darkreading.com/vulnerabilities-threats/in-appreciation-mike-murray)
 - [Imprivata Acquires SecureLink to Deliver a Single-Vendor Platform to Manage and Secure All Enterprise and Third-Party Digital Identities](https://www.darkreading.com/operations/imprivata-acquires-securelink-to-deliver-a-single-vendor-platform-to-manage-and-secure-all-enterprise-and-third-party-digital-identities)
 - [SafeGuard Cyber Provides Security Advice for Defending Against Browser-in-the-Browser &lpar;BitB&rpar; Attacks](https://www.darkreading.com/cloud/safeguard-cyber-provides-security-advice-for-defending-against-browser-in-the-browser-bitb-attacks)
 - [10 Signs of a Good Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-good-security-leader)
@@ -79,7 +80,6 @@
 - [Going Passwordless? Here Are 6 Steps to Get Started](https://www.darkreading.com/operations/going-passwordless-here-s-6-steps-to-get-started)
 - [Google Removes Dangerous Banking Malware From Play Store](https://www.darkreading.com/endpoint/google-removes-dangerous-banking-malware-from-play-store)
 - [Microsoft Sinkholes Russian Hacking Group&#39;s Domains Targeting Ukraine](https://www.darkreading.com/attacks-breaches/microsoft-sinkholes-russian-hacking-group-s-domains-targeting-ukraine)
-- [BakerHostetler Launches 2022 Data Security Incident Response Report — Resilience And Perseverance](https://www.darkreading.com/attacks-breaches/bakerhostetler-launches-2022-data-security-incident-response-report-resilience-and-perseverance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
