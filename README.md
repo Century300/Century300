@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google, GitHub Collaboration Focuses on Securing Code Build Processes](https://www.darkreading.com/dr-tech/google-github-collaboration-focuses-on-securing-code-build-processes)
 - [Former DHS Acting IT Chief Convicted in Software, Database Theft Scheme](https://www.darkreading.com/attacks-breaches/former-dhs-acting-it-chief-convicted-in-software-database-theft-scheme)
 - [In Appreciation: Mike Murray](https://www.darkreading.com/vulnerabilities-threats/in-appreciation-mike-murray)
 - [Imprivata Acquires SecureLink to Deliver a Single-Vendor Platform to Manage and Secure All Enterprise and Third-Party Digital Identities](https://www.darkreading.com/operations/imprivata-acquires-securelink-to-deliver-a-single-vendor-platform-to-manage-and-secure-all-enterprise-and-third-party-digital-identities)
@@ -79,7 +80,6 @@
 - [10 Signs of a Good Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-good-security-leader)
 - [Creating a Security Culture Where People Can Admit Mistakes](https://www.darkreading.com/remote-workforce/creating-a-security-culture-where-people-can-admit-mistakes)
 - [Going Passwordless? Here Are 6 Steps to Get Started](https://www.darkreading.com/operations/going-passwordless-here-s-6-steps-to-get-started)
-- [Google Removes Dangerous Banking Malware From Play Store](https://www.darkreading.com/endpoint/google-removes-dangerous-banking-malware-from-play-store)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
