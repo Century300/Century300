@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Patches Windows Flaw Under Attack and Reported by NSA](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-windows-flaw-under-attack-and-reported-by-nsa)
+- [Russian Group Sandworm Foiled in Attempt to Disrupt Ukraine Power Grid](https://www.darkreading.com/attacks-breaches/-russian-group-sandworm-s-attempt-to-disrupt-ukraine-power-grid-foiled)
 - [How Do I Conduct a Resilience Review?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-conduct-a-resilience-review-)
 - [80% of Software Codebases Contain at Least One Vulnerability](https://www.darkreading.com/application-security/80-of-software-codebases-contain-at-least-one-vulnerability)
 - [Building a Cybersecurity Mesh Architecture in the Real World](https://www.darkreading.com/operations/building-a-cybersecurity-mesh-architecture-in-the-real-world)
 - [Google, GitHub Collaboration Focuses on Securing Code Build Processes](https://www.darkreading.com/dr-tech/google-github-collaboration-focuses-on-securing-code-build-processes)
 - [Former DHS Acting IT Chief Convicted in Software, Database Theft Scheme](https://www.darkreading.com/attacks-breaches/former-dhs-acting-it-chief-convicted-in-software-database-theft-scheme)
 - [In Appreciation: Mike Murray](https://www.darkreading.com/vulnerabilities-threats/in-appreciation-mike-murray)
-- [Imprivata Acquires SecureLink to Deliver a Single-Vendor Platform to Manage and Secure All Enterprise and Third-Party Digital Identities](https://www.darkreading.com/operations/imprivata-acquires-securelink-to-deliver-a-single-vendor-platform-to-manage-and-secure-all-enterprise-and-third-party-digital-identities)
-- [SafeGuard Cyber Provides Security Advice for Defending Against Browser-in-the-Browser &lpar;BitB&rpar; Attacks](https://www.darkreading.com/cloud/safeguard-cyber-provides-security-advice-for-defending-against-browser-in-the-browser-bitb-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
