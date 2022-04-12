@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Do I Conduct a Resilience Review?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-conduct-a-resilience-review-)
 - [80% of Software Codebases Contain at Least One Vulnerability](https://www.darkreading.com/application-security/80-of-software-codebases-contain-at-least-one-vulnerability)
 - [Building a Cybersecurity Mesh Architecture in the Real World](https://www.darkreading.com/operations/building-a-cybersecurity-mesh-architecture-in-the-real-world)
 - [Google, GitHub Collaboration Focuses on Securing Code Build Processes](https://www.darkreading.com/dr-tech/google-github-collaboration-focuses-on-securing-code-build-processes)
@@ -79,7 +80,6 @@
 - [In Appreciation: Mike Murray](https://www.darkreading.com/vulnerabilities-threats/in-appreciation-mike-murray)
 - [Imprivata Acquires SecureLink to Deliver a Single-Vendor Platform to Manage and Secure All Enterprise and Third-Party Digital Identities](https://www.darkreading.com/operations/imprivata-acquires-securelink-to-deliver-a-single-vendor-platform-to-manage-and-secure-all-enterprise-and-third-party-digital-identities)
 - [SafeGuard Cyber Provides Security Advice for Defending Against Browser-in-the-Browser &lpar;BitB&rpar; Attacks](https://www.darkreading.com/cloud/safeguard-cyber-provides-security-advice-for-defending-against-browser-in-the-browser-bitb-attacks)
-- [10 Signs of a Good Security Leader](https://www.darkreading.com/edge-articles/10-signs-of-a-good-security-leader)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
