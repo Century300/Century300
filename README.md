@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KKR to Acquire Barracuda Networks](https://www.darkreading.com/cloud/kkr-to-acquire-barracuda-networks)
+- [Palo Alto Networks Extends SASE to Protect Home Networks With Okyo Garde Enterprise Edition](https://www.darkreading.com/remote-workforce/palo-alto-networks-extends-sase-to-protect-home-networks-with-okyo-garde-enterprise-edition)
 - [Securing the Stopgap: Controlling Access to SaaS Applications](https://www.darkreading.com/edge-articles/securing-the-stopgap-controlling-access-to-saas-applications)
 - [Supply and Demand Hits Cybersecurity: Navigating the Skills Shortage](https://www.darkreading.com/cloud/supply-and-demand-hits-cybersecurity-navigating-the-skills-shortage)
 - [Identifying a Vulnerability in the SAP Software Supply Chain](https://www.darkreading.com/vulnerabilities-threats/identifying-a-vulnerability-in-the-sap-software-supply-chain)
 - [Intertrust Adds Security for IoT Devices in Zero-Trust Architectures to Intertrust Platform](https://www.darkreading.com/iot/intertrust-adds-security-for-iot-devices-in-zero-trust-architectures-to-intertrust-platform)
 - [Datto to be Acquired by Kaseya for $6.2 Billion](https://www.darkreading.com/cloud/datto-to-be-acquired-by-kaseya-for-6-2-billion)
 - [Criminal IP Cybersecurity Search Engine Launches First Beta Test](https://www.darkreading.com/threat-intelligence/criminal-ip-cybersecurity-search-engine-launches-first-beta-test)
-- [United States Leads Seizure of One of the World’s Largest Hacker Forums and Arrests Administrator](https://www.darkreading.com/attacks-breaches/united-states-leads-seizure-of-one-of-the-world-s-largest-hacker-forums-and-arrests-administrator)
-- [Microsoft Plans Windows Auto-Update Service for Enterprises](https://www.darkreading.com/dr-tech/microsoft-plans-windows-auto-update-service-for-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
