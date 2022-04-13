@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Securing the Stopgap: Controlling Access to SaaS Applications](https://www.darkreading.com/edge-articles/securing-the-stopgap-controlling-access-to-saas-applications)
 - [Supply and Demand Hits Cybersecurity: Navigating the Skills Shortage](https://www.darkreading.com/cloud/supply-and-demand-hits-cybersecurity-navigating-the-skills-shortage)
 - [Identifying a Vulnerability in the SAP Software Supply Chain](https://www.darkreading.com/vulnerabilities-threats/identifying-a-vulnerability-in-the-sap-software-supply-chain)
 - [Intertrust Adds Security for IoT Devices in Zero-Trust Architectures to Intertrust Platform](https://www.darkreading.com/iot/intertrust-adds-security-for-iot-devices-in-zero-trust-architectures-to-intertrust-platform)
@@ -79,7 +80,6 @@
 - [Criminal IP Cybersecurity Search Engine Launches First Beta Test](https://www.darkreading.com/threat-intelligence/criminal-ip-cybersecurity-search-engine-launches-first-beta-test)
 - [United States Leads Seizure of One of the World’s Largest Hacker Forums and Arrests Administrator](https://www.darkreading.com/attacks-breaches/united-states-leads-seizure-of-one-of-the-world-s-largest-hacker-forums-and-arrests-administrator)
 - [Microsoft Plans Windows Auto-Update Service for Enterprises](https://www.darkreading.com/dr-tech/microsoft-plans-windows-auto-update-service-for-enterprises)
-- [Microsoft Patches Windows Flaw Under Attack and Reported by NSA](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-windows-flaw-under-attack-and-reported-by-nsa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
