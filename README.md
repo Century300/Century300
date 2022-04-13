@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intertrust Adds Security for IoT Devices in Zero-Trust Architectures to Intertrust Platform](https://www.darkreading.com/iot/intertrust-adds-security-for-iot-devices-in-zero-trust-architectures-to-intertrust-platform)
+- [Datto to be Acquired by Kaseya for $6.2 Billion](https://www.darkreading.com/cloud/datto-to-be-acquired-by-kaseya-for-6-2-billion)
+- [Criminal IP Cybersecurity Search Engine Launches First Beta Test](https://www.darkreading.com/threat-intelligence/criminal-ip-cybersecurity-search-engine-launches-first-beta-test)
+- [United States Leads Seizure of One of the World’s Largest Hacker Forums and Arrests Administrator](https://www.darkreading.com/attacks-breaches/united-states-leads-seizure-of-one-of-the-world-s-largest-hacker-forums-and-arrests-administrator)
 - [Microsoft Plans Windows Auto-Update Service for Enterprises](https://www.darkreading.com/dr-tech/microsoft-plans-windows-auto-update-service-for-enterprises)
 - [Microsoft Patches Windows Flaw Under Attack and Reported by NSA](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-windows-flaw-under-attack-and-reported-by-nsa)
 - [Russian Group Sandworm Foiled in Attempt to Disrupt Ukraine Power Grid](https://www.darkreading.com/attacks-breaches/-russian-group-sandworm-s-attempt-to-disrupt-ukraine-power-grid-foiled)
 - [How Do I Conduct a Resilience Review?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-conduct-a-resilience-review-)
-- [80% of Software Codebases Contain at Least One Vulnerability](https://www.darkreading.com/application-security/80-of-software-codebases-contain-at-least-one-vulnerability)
-- [Building a Cybersecurity Mesh Architecture in the Real World](https://www.darkreading.com/operations/building-a-cybersecurity-mesh-architecture-in-the-real-world)
-- [Google, GitHub Collaboration Focuses on Securing Code Build Processes](https://www.darkreading.com/dr-tech/google-github-collaboration-focuses-on-securing-code-build-processes)
-- [Former DHS Acting IT Chief Convicted in Software, Database Theft Scheme](https://www.darkreading.com/attacks-breaches/former-dhs-acting-it-chief-convicted-in-software-database-theft-scheme)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
