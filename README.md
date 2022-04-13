@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Plans Windows Auto-Update Service for Enterprises](https://www.darkreading.com/dr-tech/microsoft-plans-windows-auto-update-service-for-enterprises)
 - [Microsoft Patches Windows Flaw Under Attack and Reported by NSA](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-windows-flaw-under-attack-and-reported-by-nsa)
 - [Russian Group Sandworm Foiled in Attempt to Disrupt Ukraine Power Grid](https://www.darkreading.com/attacks-breaches/-russian-group-sandworm-s-attempt-to-disrupt-ukraine-power-grid-foiled)
 - [How Do I Conduct a Resilience Review?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-conduct-a-resilience-review-)
@@ -79,7 +80,6 @@
 - [Building a Cybersecurity Mesh Architecture in the Real World](https://www.darkreading.com/operations/building-a-cybersecurity-mesh-architecture-in-the-real-world)
 - [Google, GitHub Collaboration Focuses on Securing Code Build Processes](https://www.darkreading.com/dr-tech/google-github-collaboration-focuses-on-securing-code-build-processes)
 - [Former DHS Acting IT Chief Convicted in Software, Database Theft Scheme](https://www.darkreading.com/attacks-breaches/former-dhs-acting-it-chief-convicted-in-software-database-theft-scheme)
-- [In Appreciation: Mike Murray](https://www.darkreading.com/vulnerabilities-threats/in-appreciation-mike-murray)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
