@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Secure Systems Need Hardware-Enhanced Tools, Intel Says](https://www.darkreading.com/emerging-tech/secure-systems-need-hardware-enhanced-tools-intel-says)
+- [Microsoft Leads Operation to Disrupt Zloader Botnet](https://www.darkreading.com/threat-intelligence/microsoft-leads-operation-to-disrupt-zloader-botnet-activity)
 - [KKR to Acquire Barracuda Networks](https://www.darkreading.com/cloud/kkr-to-acquire-barracuda-networks)
 - [More Than 60% of Organizations Suffered a Breach in the Past 12 Months](https://www.darkreading.com/attacks-breaches/more-than-60-of-organizations-suffered-a-breach-in-the-past-12-months)
 - [Palo Alto Networks Extends SASE to Protect Home Networks With Okyo Garde Enterprise Edition](https://www.darkreading.com/remote-workforce/palo-alto-networks-extends-sase-to-protect-home-networks-with-okyo-garde-enterprise-edition)
 - [Securing the Stopgap: Controlling Access to SaaS Applications](https://www.darkreading.com/edge-articles/securing-the-stopgap-controlling-access-to-saas-applications)
 - [Supply and Demand Hits Cybersecurity: Navigating the Skills Shortage](https://www.darkreading.com/cloud/supply-and-demand-hits-cybersecurity-navigating-the-skills-shortage)
 - [Identifying a Vulnerability in the SAP Software Supply Chain](https://www.darkreading.com/vulnerabilities-threats/identifying-a-vulnerability-in-the-sap-software-supply-chain)
-- [Intertrust Adds Security for IoT Devices in Zero-Trust Architectures to Intertrust Platform](https://www.darkreading.com/iot/intertrust-adds-security-for-iot-devices-in-zero-trust-architectures-to-intertrust-platform)
-- [Datto to be Acquired by Kaseya for $6.2 Billion](https://www.darkreading.com/cloud/datto-to-be-acquired-by-kaseya-for-6-2-billion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
