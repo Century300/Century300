@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Misconceptions of 2021&#39;s Black Swan Cyber Events](https://www.darkreading.com/attacks-breaches/the-misconceptions-of-2021-s-black-swan-cyber-events)
 - [Secure Systems Need Hardware-Enhanced Tools, Intel Says](https://www.darkreading.com/emerging-tech/secure-systems-need-hardware-enhanced-tools-intel-says)
 - [Microsoft Leads Operation to Disrupt Zloader Botnet](https://www.darkreading.com/threat-intelligence/microsoft-leads-operation-to-disrupt-zloader-botnet-activity)
 - [KKR to Acquire Barracuda Networks](https://www.darkreading.com/cloud/kkr-to-acquire-barracuda-networks)
@@ -79,7 +80,6 @@
 - [Palo Alto Networks Extends SASE to Protect Home Networks With Okyo Garde Enterprise Edition](https://www.darkreading.com/remote-workforce/palo-alto-networks-extends-sase-to-protect-home-networks-with-okyo-garde-enterprise-edition)
 - [Securing the Stopgap: Controlling Access to SaaS Applications](https://www.darkreading.com/edge-articles/securing-the-stopgap-controlling-access-to-saas-applications)
 - [Supply and Demand Hits Cybersecurity: Navigating the Skills Shortage](https://www.darkreading.com/cloud/supply-and-demand-hits-cybersecurity-navigating-the-skills-shortage)
-- [Identifying a Vulnerability in the SAP Software Supply Chain](https://www.darkreading.com/vulnerabilities-threats/identifying-a-vulnerability-in-the-sap-software-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
