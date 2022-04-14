@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [greymatter.io Closes $7.1 Million Series A to Meet Rising Need for Its Enterprise Microservices Platform](https://www.darkreading.com/cloud/greymatter-io-closes-7-1-million-series-a-to-meet-rising-need-for-its-enterprise-microservices-platform)
 - [Kaspersky Relocates Cyberthreat-Related Data Processing for Users in Latin America and Middle East to Switzerland](https://www.darkreading.com/threat-intelligence/kaspersky-relocates-cyberthreat-related-data-processing-for-users-in-latin-america-and-middle-east-to-switzerland)
 - [New Malware Tools Pose &#39;Clear and Present Threat&#39; to ICS Environments](https://www.darkreading.com/threat-intelligence/new-malware-tools-a-clear-and-present-threat-to-ics-environments)
+- [Data Scientists, Watch Out: Attackers Have Your Number](https://www.darkreading.com/attacks-breaches/data-scientists-watch-out-attackers-have-your-number)
 - [Inside a Data Center Outage: Lessons About Resilience](https://www.darkreading.com/dr-tech/case-study-of-a-data-center-outage-building-multidimensional-resilience-in-sase-networks)
 - [The Misconceptions of 2021&#39;s Black Swan Cyber Events](https://www.darkreading.com/attacks-breaches/the-misconceptions-of-2021-s-black-swan-cyber-events)
 - [Secure Systems Need Hardware-Enhanced Tools, Intel Says](https://www.darkreading.com/emerging-tech/secure-systems-need-hardware-enhanced-tools-intel-says)
 - [Microsoft Leads Operation to Disrupt Zloader Botnet](https://www.darkreading.com/threat-intelligence/microsoft-leads-operation-to-disrupt-zloader-botnet-activity)
-- [KKR to Acquire Barracuda Networks](https://www.darkreading.com/cloud/kkr-to-acquire-barracuda-networks)
-- [More Than 60% of Organizations Suffered a Breach in the Past 12 Months](https://www.darkreading.com/attacks-breaches/more-than-60-of-organizations-suffered-a-breach-in-the-past-12-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
