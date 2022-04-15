@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Cost, Reliability Raise IT Concerns](https://www.darkreading.com/tech-trends/cloud-cost-reliability-raise-it-concerns)
 - [CISA Alert on ICS, SCADA Devices Highlights Growing Enterprise IoT Security Risks](https://www.darkreading.com/omdia/cisa-alert-on-ics-scada-devices-highlights-growing-enterprise-iot-security-risks)
 - [Cybersecurity Act of 2022: A Step in the Right Direction With a Significant Loophole](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-act-of-2022-a-step-in-the-right-direction-with-a-significant-loophole)
 - [greymatter.io Closes $7.1 Million Series A to Meet Rising Need for Its Enterprise Microservices Platform](https://www.darkreading.com/cloud/greymatter-io-closes-7-1-million-series-a-to-meet-rising-need-for-its-enterprise-microservices-platform)
@@ -79,7 +80,6 @@
 - [New Malware Tools Pose &#39;Clear and Present Threat&#39; to ICS Environments](https://www.darkreading.com/threat-intelligence/new-malware-tools-a-clear-and-present-threat-to-ics-environments)
 - [Data Scientists, Watch Out: Attackers Have Your Number](https://www.darkreading.com/attacks-breaches/data-scientists-watch-out-attackers-have-your-number)
 - [Inside a Data Center Outage: Lessons About Resilience](https://www.darkreading.com/dr-tech/case-study-of-a-data-center-outage-building-multidimensional-resilience-in-sase-networks)
-- [The Misconceptions of 2021&#39;s Black Swan Cyber Events](https://www.darkreading.com/attacks-breaches/the-misconceptions-of-2021-s-black-swan-cyber-events)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
