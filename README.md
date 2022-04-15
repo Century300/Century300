@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [Cloud Cost, Reliability Raise IT Concerns](https://www.darkreading.com/tech-trends/cloud-cost-reliability-raise-it-concerns)
+- [Lazarus Targets Chemical Sector With &#39;Dream Jobs,&#39; Then Trojans](https://www.darkreading.com/attacks-breaches/lazarus-targets-chemical-sector-with-dream-jobs-then-trojans)
 - [CISA Alert on ICS, SCADA Devices Highlights Growing Enterprise IoT Security Risks](https://www.darkreading.com/omdia/cisa-alert-on-ics-scada-devices-highlights-growing-enterprise-iot-security-risks)
 - [Cybersecurity Act of 2022: A Step in the Right Direction With a Significant Loophole](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-act-of-2022-a-step-in-the-right-direction-with-a-significant-loophole)
 - [greymatter.io Closes $7.1 Million Series A to Meet Rising Need for Its Enterprise Microservices Platform](https://www.darkreading.com/cloud/greymatter-io-closes-7-1-million-series-a-to-meet-rising-need-for-its-enterprise-microservices-platform)
 - [Kaspersky Relocates Cyberthreat-Related Data Processing for Users in Latin America and Middle East to Switzerland](https://www.darkreading.com/threat-intelligence/kaspersky-relocates-cyberthreat-related-data-processing-for-users-in-latin-america-and-middle-east-to-switzerland)
 - [New Malware Tools Pose &#39;Clear and Present Threat&#39; to ICS Environments](https://www.darkreading.com/threat-intelligence/new-malware-tools-a-clear-and-present-threat-to-ics-environments)
 - [Data Scientists, Watch Out: Attackers Have Your Number](https://www.darkreading.com/attacks-breaches/data-scientists-watch-out-attackers-have-your-number)
-- [Inside a Data Center Outage: Lessons About Resilience](https://www.darkreading.com/dr-tech/case-study-of-a-data-center-outage-building-multidimensional-resilience-in-sase-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
