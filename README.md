@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
 - [Google Emergency Update Fixes Chrome Zero-Day](https://www.darkreading.com/attacks-breaches/google-emergency-update-fixes-chrome-zero-day)
 - [Cloud Cost, Reliability Raise IT Concerns](https://www.darkreading.com/tech-trends/cloud-cost-reliability-raise-it-concerns)
 - [Lazarus Targets Chemical Sector With &#39;Dream Jobs,&#39; Then Trojans](https://www.darkreading.com/attacks-breaches/lazarus-targets-chemical-sector-with-dream-jobs-then-trojans)
@@ -79,7 +80,6 @@
 - [Cybersecurity Act of 2022: A Step in the Right Direction With a Significant Loophole](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-act-of-2022-a-step-in-the-right-direction-with-a-significant-loophole)
 - [greymatter.io Closes $7.1 Million Series A to Meet Rising Need for Its Enterprise Microservices Platform](https://www.darkreading.com/cloud/greymatter-io-closes-7-1-million-series-a-to-meet-rising-need-for-its-enterprise-microservices-platform)
 - [Kaspersky Relocates Cyberthreat-Related Data Processing for Users in Latin America and Middle East to Switzerland](https://www.darkreading.com/threat-intelligence/kaspersky-relocates-cyberthreat-related-data-processing-for-users-in-latin-america-and-middle-east-to-switzerland)
-- [New Malware Tools Pose &#39;Clear and Present Threat&#39; to ICS Environments](https://www.darkreading.com/threat-intelligence/new-malware-tools-a-clear-and-present-threat-to-ics-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
