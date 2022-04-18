@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Security-as-Code Gains More Support, But Still Nascent](https://www.darkreading.com/cloud/security-as-code-gains-more-support-but-still-nascent)
+- [Swimlane Extends Cloud-Based Security Automation into APJ Amid Momentous Growth in Region](https://www.darkreading.com/cloud/swimlane-extends-cloud-based-security-automation-into-apj-amid-momentous-growth-in-region)
+- [Absolute Software Introduces Ransomware Response Offering](https://www.darkreading.com/endpoint/absolute-software-introduces-ransomware-response-offering)
+- [Security-as-Code Gains More Support, but Still Nascent](https://www.darkreading.com/cloud/security-as-code-gains-more-support-but-still-nascent)
 - [Security Lessons From a Payment Fraud Attack](https://www.darkreading.com/edge-articles/security-lessons-from-a-payment-fraud-attack)
 - [Why So Many Security Experts Are Concerned About Low-Code/No-Code Apps](https://www.darkreading.com/dr-tech/why-so-many-security-experts-are-concerned-about-low-code-no-code-apps)
 - [Name That Toon: Helping Hands](https://www.darkreading.com/cloud/name-that-toon-helping-hands)
 - [Strength in Unity: Why It&#39;s Especially Important to Strengthen Your Supply Chain Now](https://www.darkreading.com/vulnerabilities-threats/strength-in-unity-why-it-s-especially-important-to-strengthen-your-supply-chain-now)
 - [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
-- [Google Emergency Update Fixes Chrome Zero-Day](https://www.darkreading.com/attacks-breaches/google-emergency-update-fixes-chrome-zero-day)
-- [Cloud Cost, Reliability Raise IT Concerns](https://www.darkreading.com/tech-trends/cloud-cost-reliability-raise-it-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
