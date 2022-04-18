@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Helping Hands](https://www.darkreading.com/cloud/name-that-toon-helping-hands)
 - [Strength in Unity: Why It&#39;s Especially Important to Strengthen Your Supply Chain Now](https://www.darkreading.com/vulnerabilities-threats/strength-in-unity-why-it-s-especially-important-to-strengthen-your-supply-chain-now)
 - [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
 - [Google Emergency Update Fixes Chrome Zero-Day](https://www.darkreading.com/attacks-breaches/google-emergency-update-fixes-chrome-zero-day)
@@ -79,7 +80,6 @@
 - [Lazarus Targets Chemical Sector With &#39;Dream Jobs,&#39; Then Trojans](https://www.darkreading.com/attacks-breaches/lazarus-targets-chemical-sector-with-dream-jobs-then-trojans)
 - [CISA Alert on ICS, SCADA Devices Highlights Growing Enterprise IoT Security Risks](https://www.darkreading.com/omdia/cisa-alert-on-ics-scada-devices-highlights-growing-enterprise-iot-security-risks)
 - [Cybersecurity Act of 2022: A Step in the Right Direction With a Significant Loophole](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-act-of-2022-a-step-in-the-right-direction-with-a-significant-loophole)
-- [greymatter.io Closes $7.1 Million Series A to Meet Rising Need for Its Enterprise Microservices Platform](https://www.darkreading.com/cloud/greymatter-io-closes-7-1-million-series-a-to-meet-rising-need-for-its-enterprise-microservices-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
