@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security-as-Code Gains More Support, But Still Nascent](https://www.darkreading.com/cloud/security-as-code-gains-more-support-but-still-nascent)
 - [Security Lessons From a Payment Fraud Attack](https://www.darkreading.com/edge-articles/security-lessons-from-a-payment-fraud-attack)
 - [Why So Many Security Experts Are Concerned About Low-Code/No-Code Apps](https://www.darkreading.com/dr-tech/why-so-many-security-experts-are-concerned-about-low-code-no-code-apps)
 - [Name That Toon: Helping Hands](https://www.darkreading.com/cloud/name-that-toon-helping-hands)
@@ -79,7 +80,6 @@
 - [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
 - [Google Emergency Update Fixes Chrome Zero-Day](https://www.darkreading.com/attacks-breaches/google-emergency-update-fixes-chrome-zero-day)
 - [Cloud Cost, Reliability Raise IT Concerns](https://www.darkreading.com/tech-trends/cloud-cost-reliability-raise-it-concerns)
-- [Lazarus Targets Chemical Sector With &#39;Dream Jobs,&#39; Then Trojans](https://www.darkreading.com/attacks-breaches/lazarus-targets-chemical-sector-with-dream-jobs-then-trojans)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
