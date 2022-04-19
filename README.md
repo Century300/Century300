@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [76% of Organizations Worldwide Expect to Suffer a Cyberattack This Year](https://www.darkreading.com/attacks-breaches/76-of-organizations-worldwide-expect-to-suffer-a-cyberattack-this-year)
 - [Swimlane Extends Cloud-Based Security Automation into APJ Amid Momentous Growth in Region](https://www.darkreading.com/cloud/swimlane-extends-cloud-based-security-automation-into-apj-amid-momentous-growth-in-region)
 - [Absolute Software Introduces Ransomware Response Offering](https://www.darkreading.com/endpoint/absolute-software-introduces-ransomware-response-offering)
 - [Security-as-Code Gains More Support, but Still Nascent](https://www.darkreading.com/cloud/security-as-code-gains-more-support-but-still-nascent)
@@ -79,7 +80,6 @@
 - [Why So Many Security Experts Are Concerned About Low-Code/No-Code Apps](https://www.darkreading.com/dr-tech/why-so-many-security-experts-are-concerned-about-low-code-no-code-apps)
 - [Name That Toon: Helping Hands](https://www.darkreading.com/cloud/name-that-toon-helping-hands)
 - [Strength in Unity: Why It&#39;s Especially Important to Strengthen Your Supply Chain Now](https://www.darkreading.com/vulnerabilities-threats/strength-in-unity-why-it-s-especially-important-to-strengthen-your-supply-chain-now)
-- [Upgrades for Spring Framework Have Stalled](https://www.darkreading.com/edge-threat-monitor/upgrades-for-spring-framework-have-stalled)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
