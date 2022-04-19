@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Kiteworks Report Reveals Significant Risk Maturity Gap](https://www.darkreading.com/risk/new-kiteworks-report-reveals-significant-risk-maturity-gap)
 - [How to Interpret the EU&#39;s Guidance on DNS Abuse Worldwide](https://www.darkreading.com/vulnerabilities-threats/how-to-interpret-the-eu-s-guidance-on-dns-abuse-worldwide)
 - [Verica Launches Prowler Pro to Make AWS Security Simpler for Customers](https://www.darkreading.com/cloud/verica-launches-prowler-pro-to-make-aws-security-simpler-for-customers)
 - [76% of Organizations Worldwide Expect to Suffer a Cyberattack This Year](https://www.darkreading.com/attacks-breaches/76-of-organizations-worldwide-expect-to-suffer-a-cyberattack-this-year)
@@ -79,7 +80,6 @@
 - [Absolute Software Introduces Ransomware Response Offering](https://www.darkreading.com/endpoint/absolute-software-introduces-ransomware-response-offering)
 - [Security-as-Code Gains More Support, but Still Nascent](https://www.darkreading.com/cloud/security-as-code-gains-more-support-but-still-nascent)
 - [Security Lessons From a Payment Fraud Attack](https://www.darkreading.com/edge-articles/security-lessons-from-a-payment-fraud-attack)
-- [Why So Many Security Experts Are Concerned About Low-Code/No-Code Apps](https://www.darkreading.com/dr-tech/why-so-many-security-experts-are-concerned-about-low-code-no-code-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
