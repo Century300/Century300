@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [From Passive Recovery to Active Readiness](https://www.darkreading.com/threat-intelligence/from-passive-recovery-to-active-readiness)
 - [Fortress Tackles Supply Chain Security, One Asset at a Time](https://www.darkreading.com/emerging-tech/fortress-tackles-supply-chain-security-one-asset-at-a-time)
 - [Microsoft Launches Purview Platform to Govern, Protect, and Manage Sensitive Data](https://www.darkreading.com/remote-workforce/microsoft-launches-purview-platform-to-govern-protect-and-manage-sensitive-data)
 - [Millions of Lenovo Laptops Contain Firmware-Level Vulnerabilities](https://www.darkreading.com/threat-intelligence/millions-of-lenovo-laptops-contain-firmware-level-vulnerabilities)
@@ -79,7 +80,6 @@
 - [RF Code Announces Sentry, a New Edge Solution for Remote Locations](https://www.darkreading.com/perimeter/rf-code-announces-sentry-a-new-edge-solution-for-remote-locations)
 - [New Kiteworks Report Reveals Significant Risk Maturity Gap](https://www.darkreading.com/risk/new-kiteworks-report-reveals-significant-risk-maturity-gap)
 - [How to Interpret the EU&#39;s Guidance on DNS Abuse Worldwide](https://www.darkreading.com/vulnerabilities-threats/how-to-interpret-the-eu-s-guidance-on-dns-abuse-worldwide)
-- [Verica Launches Prowler Pro to Make AWS Security Simpler for Customers](https://www.darkreading.com/cloud/verica-launches-prowler-pro-to-make-aws-security-simpler-for-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
