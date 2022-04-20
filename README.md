@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Russia Is Isolating Its Own Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/how-russia-is-isolating-its-own-cybercriminals)
 - [Backward-Compatible Post-Quantum Communications Is a Matter of National Security](https://www.darkreading.com/edge-articles/backward-compatible-post-quantum-communications-is-a-matter-of-national-security)
 - [From Passive Recovery to Active Readiness](https://www.darkreading.com/threat-intelligence/from-passive-recovery-to-active-readiness)
 - [Fortress Tackles Supply Chain Security, One Asset at a Time](https://www.darkreading.com/emerging-tech/fortress-tackles-supply-chain-security-one-asset-at-a-time)
@@ -79,7 +80,6 @@
 - [Millions of Lenovo Laptops Contain Firmware-Level Vulnerabilities](https://www.darkreading.com/threat-intelligence/millions-of-lenovo-laptops-contain-firmware-level-vulnerabilities)
 - [More Than Half of Initial Infections in Cyberattacks Come Via Exploits, Supply Chain Compromises](https://www.darkreading.com/threat-intelligence/exploits-supply-chain-compromises-comprise-over-half-of-initial-infections-leading-to-cyberattacks)
 - [RF Code Announces Sentry, a New Edge Solution for Remote Locations](https://www.darkreading.com/perimeter/rf-code-announces-sentry-a-new-edge-solution-for-remote-locations)
-- [New Kiteworks Report Reveals Significant Risk Maturity Gap](https://www.darkreading.com/risk/new-kiteworks-report-reveals-significant-risk-maturity-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
