@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortress Tackles Supply Chain Security, One Asset at a Time](https://www.darkreading.com/emerging-tech/fortress-tackles-supply-chain-security-one-asset-at-a-time)
 - [Microsoft Launches Purview Platform to Govern, Protect, and Manage Sensitive Data](https://www.darkreading.com/remote-workforce/microsoft-launches-purview-platform-to-govern-protect-and-manage-sensitive-data)
 - [Millions of Lenovo Laptops Contain Firmware-Level Vulnerabilities](https://www.darkreading.com/threat-intelligence/millions-of-lenovo-laptops-contain-firmware-level-vulnerabilities)
 - [More Than Half of Initial Infections in Cyberattacks Come Via Exploits, Supply Chain Compromises](https://www.darkreading.com/threat-intelligence/exploits-supply-chain-compromises-comprise-over-half-of-initial-infections-leading-to-cyberattacks)
@@ -79,7 +80,6 @@
 - [New Kiteworks Report Reveals Significant Risk Maturity Gap](https://www.darkreading.com/risk/new-kiteworks-report-reveals-significant-risk-maturity-gap)
 - [How to Interpret the EU&#39;s Guidance on DNS Abuse Worldwide](https://www.darkreading.com/vulnerabilities-threats/how-to-interpret-the-eu-s-guidance-on-dns-abuse-worldwide)
 - [Verica Launches Prowler Pro to Make AWS Security Simpler for Customers](https://www.darkreading.com/cloud/verica-launches-prowler-pro-to-make-aws-security-simpler-for-customers)
-- [76% of Organizations Worldwide Expect to Suffer a Cyberattack This Year](https://www.darkreading.com/attacks-breaches/76-of-organizations-worldwide-expect-to-suffer-a-cyberattack-this-year)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
