@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Denonia Malware Shows Evolving Cloud Threats](https://www.darkreading.com/omdia/denonia-malware-shows-evolving-cloud-threats)
 - [The Modern Software Supply Chain: How It&#39;s Evolved and What to Prepare For](https://www.darkreading.com/application-security/the-modern-software-supply-chain-how-it-s-evolved-and-what-to-prepare-for)
 - [Incognia Introduces New Location-Based Device Authorization Solution](https://www.darkreading.com/endpoint/incognia-introduces-new-location-based-device-authorization-solution)
 - [Lightspin Secures Infrastructure as Code Files with New GitHub Integration](https://www.darkreading.com/application-security/lightspin-secures-infrastructure-as-code-files-with-new-github-integration)
@@ -79,7 +80,6 @@
 - [Backward-Compatible Post-Quantum Communications Is a Matter of National Security](https://www.darkreading.com/edge-articles/backward-compatible-post-quantum-communications-is-a-matter-of-national-security)
 - [From Passive Recovery to Active Readiness](https://www.darkreading.com/threat-intelligence/from-passive-recovery-to-active-readiness)
 - [Fortress Tackles Supply Chain Security, One Asset at a Time](https://www.darkreading.com/emerging-tech/fortress-tackles-supply-chain-security-one-asset-at-a-time)
-- [Microsoft Launches Purview Platform to Govern, Protect, and Manage Sensitive Data](https://www.darkreading.com/remote-workforce/microsoft-launches-purview-platform-to-govern-protect-and-manage-sensitive-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
