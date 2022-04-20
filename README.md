@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LinkedIn Brand Now the Most Abused in Phishing Attempts](https://www.darkreading.com/threat-intelligence/report-linkedin-used-as-lure-in-52-of-global-phishing-attacks)
+- [Okta Wraps Up Lapsus$ Investigation, Pledges More Third-Party Controls](https://www.darkreading.com/cloud/okta-wraps-up-lapsus-investigation-pledges-more-third-party-controls)
 - [Denonia Malware Shows Evolving Cloud Threats](https://www.darkreading.com/omdia/denonia-malware-shows-evolving-cloud-threats)
 - [CISA, Australia, Canada, New Zealand, &amp; UK Issue Joint Advisory on Russian Cyber Threats](https://www.darkreading.com/threat-intelligence/jcdc-russian-state-sponsored-cyberattacks-on-infrastructure-are-coming)
 - [6 Malware Tools Designed to Disrupt Industrial Control Systems &lpar;ICS&rpar;](https://www.darkreading.com/threat-intelligence/6-malware-tools-designed-to-disrupt-ics-environments)
 - [The Modern Software Supply Chain: How It&#39;s Evolved and What to Prepare For](https://www.darkreading.com/application-security/the-modern-software-supply-chain-how-it-s-evolved-and-what-to-prepare-for)
 - [Incognia Introduces New Location-Based Device Authorization Solution](https://www.darkreading.com/endpoint/incognia-introduces-new-location-based-device-authorization-solution)
 - [Lightspin Secures Infrastructure as Code Files with New GitHub Integration](https://www.darkreading.com/application-security/lightspin-secures-infrastructure-as-code-files-with-new-github-integration)
-- [How Russia Is Isolating Its Own Cybercriminals](https://www.darkreading.com/vulnerabilities-threats/how-russia-is-isolating-its-own-cybercriminals)
-- [Backward-Compatible Post-Quantum Communications Is a Matter of National Security](https://www.darkreading.com/edge-articles/backward-compatible-post-quantum-communications-is-a-matter-of-national-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
