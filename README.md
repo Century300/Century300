@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways We Can Improve Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-we-can-improve-cybersecurity)
 - [Adversaries Look for &quot;Attackability&quot; When Selecting Targets](https://www.darkreading.com/edge-threat-monitor/adversaries-look-for-attackability-when-selecting-targets)
 - [Anti-Fraud Partnership Brings Confidential Computing to Financial Services](https://www.darkreading.com/emerging-tech/anti-fraud-partnership-brings-confidential-computing-to-financial-services)
 - [LinkedIn Brand Now the Most Abused in Phishing Attempts](https://www.darkreading.com/threat-intelligence/report-linkedin-used-as-lure-in-52-of-global-phishing-attacks)
@@ -79,7 +80,6 @@
 - [Denonia Malware Shows Evolving Cloud Threats](https://www.darkreading.com/omdia/denonia-malware-shows-evolving-cloud-threats)
 - [CISA, Australia, Canada, New Zealand, &amp; UK Issue Joint Advisory on Russian Cyber Threats](https://www.darkreading.com/threat-intelligence/jcdc-russian-state-sponsored-cyberattacks-on-infrastructure-are-coming)
 - [6 Malware Tools Designed to Disrupt Industrial Control Systems &lpar;ICS&rpar;](https://www.darkreading.com/threat-intelligence/6-malware-tools-designed-to-disrupt-ics-environments)
-- [The Modern Software Supply Chain: How It&#39;s Evolved and What to Prepare For](https://www.darkreading.com/application-security/the-modern-software-supply-chain-how-it-s-evolved-and-what-to-prepare-for)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
