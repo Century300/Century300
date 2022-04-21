@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Steps Do I Take to Shift Left in Security?](https://www.darkreading.com/edge-ask-the-experts/what-steps-do-i-take-to-shift-left-in-security)
 - [Devo Acquires Threat Hunting Company Kognos](https://www.darkreading.com/analytics/devo-acquires-kognos-to-add-autonomous-threat-hunting-to-cloud-native-logging-analytics)
 - [Exploring Biometrics and Trust at the Corporate Level](https://www.darkreading.com/dr-tech/exploring-biometrics-and-trust-at-the-corporate-level)
 - [UntitledNew Zscaler Research Shows Over 400% Increase in Phishing Attacks With Retail and Wholesale Industries at Greatest Risk](https://www.darkreading.com/attacks-breaches/untitlednew-zscaler-research-shows-over-400-increase-in-phishing-attacks-with-retail-and-wholesale-industries-at-greatest-risk)
@@ -79,7 +80,6 @@
 - [Alert Logic Releases MDR Incident Response Capability for Addressing a Breach](https://www.darkreading.com/attacks-breaches/alert-logic-releases-mdr-incident-response-capability-for-addressing-a-breach)
 - [3 Ways We Can Improve Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-we-can-improve-cybersecurity)
 - [Anti-Fraud Partnership Brings Confidential Computing to Financial Services](https://www.darkreading.com/emerging-tech/anti-fraud-partnership-brings-confidential-computing-to-financial-services)
-- [LinkedIn Brand Now the Most Abused in Phishing Attempts](https://www.darkreading.com/threat-intelligence/report-linkedin-used-as-lure-in-52-of-global-phishing-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
