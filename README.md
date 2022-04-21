@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Exploring Biometrics and Trust at the Corporate Level](https://www.darkreading.com/dr-tech/exploring-biometrics-and-trust-at-the-corporate-level)
+- [UntitledNew Zscaler Research Shows Over 400% Increase in Phishing Attacks With Retail and Wholesale Industries at Greatest Risk](https://www.darkreading.com/attacks-breaches/untitlednew-zscaler-research-shows-over-400-increase-in-phishing-attacks-with-retail-and-wholesale-industries-at-greatest-risk)
+- [Cybereason Launches Digital Forensics Incident Response](https://www.darkreading.com/attacks-breaches/cybereason-launches-digital-forensics-incident-response)
 - [Alert Logic Releases MDR Incident Response Capability for Addressing a Breach](https://www.darkreading.com/attacks-breaches/alert-logic-releases-mdr-incident-response-capability-for-addressing-a-breach)
 - [3 Ways We Can Improve Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-we-can-improve-cybersecurity)
 - [Anti-Fraud Partnership Brings Confidential Computing to Financial Services](https://www.darkreading.com/emerging-tech/anti-fraud-partnership-brings-confidential-computing-to-financial-services)
 - [LinkedIn Brand Now the Most Abused in Phishing Attempts](https://www.darkreading.com/threat-intelligence/report-linkedin-used-as-lure-in-52-of-global-phishing-attacks)
 - [Okta Wraps Up Lapsus$ Investigation, Pledges More Third-Party Controls](https://www.darkreading.com/cloud/okta-wraps-up-lapsus-investigation-pledges-more-third-party-controls)
-- [Denonia Malware Shows Evolving Cloud Threats](https://www.darkreading.com/omdia/denonia-malware-shows-evolving-cloud-threats)
-- [CISA, Australia, Canada, New Zealand, &amp; UK Issue Joint Advisory on Russian Cyber Threats](https://www.darkreading.com/threat-intelligence/jcdc-russian-state-sponsored-cyberattacks-on-infrastructure-are-coming)
-- [6 Malware Tools Designed to Disrupt Industrial Control Systems &lpar;ICS&rpar;](https://www.darkreading.com/threat-intelligence/6-malware-tools-designed-to-disrupt-ics-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
