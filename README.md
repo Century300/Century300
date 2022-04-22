@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophos Buys Alert-Monitoring Automation Vendor](https://www.darkreading.com/analytics/sophos-buys-alert-monitoring-automation-vendor)
 - [Neustar Security Services’ UltraDNS Integrates Terraform for Streamlined, Automated DNS Management](https://www.darkreading.com/perimeter/neustar-security-services-ultradns-integrates-terraform-for-streamlined-automated-dns-management)
 - [FBI Warns Ransomware Attacks on Agriculture Co-ops Could Upend Food Supply Chain](https://www.darkreading.com/attacks-breaches/fbi-warns-agriculture-about-ransomware-attacks-timed-to-planting-harvest-seasons)
 - [Early Discovery of Pipedream Malware a Success Story for Industrial Security](https://www.darkreading.com/vulnerabilities-threats/pipedream-response-shows-best-case-for-industrial-security)
@@ -79,7 +80,6 @@
 - [Contrast Security Introduces Cloud-Native Automation](https://www.darkreading.com/cloud/contrast-security-introduces-cloud-native-automation)
 - [Forescout Enhances Continuum Platform With New OT Capabilities](https://www.darkreading.com/vulnerabilities-threats/forescout-enhances-continuum-platform-with-new-ot-capabilities)
 - [PerimeterX Code Defender Extends Capability To Stop Supply Chain Attacks](https://www.darkreading.com/application-security/perimeterx-code-defender-extends-capability-to-stop-supply-chain-attacks)
-- [CyberUSA, and Superus Careers Launch Cyber Career Exchange Platform](https://www.darkreading.com/careers-and-people/cyberusa-and-superus-careers-launch-cyber-career-exchange-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
