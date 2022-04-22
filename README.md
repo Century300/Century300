@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Early Discovery of Pipedream Malware a Success Story for Industrial Security](https://www.darkreading.com/vulnerabilities-threats/pipedream-response-shows-best-case-for-industrial-security)
 - [Bitdefender Enhances Premium VPN Service With New Privacy Protection Technologies](https://www.darkreading.com/endpoint/bitdefender-enhances-premium-vpn-service-with-new-privacy-protection-technologies)
 - [Contrast Security Introduces Cloud-Native Automation](https://www.darkreading.com/cloud/contrast-security-introduces-cloud-native-automation)
 - [Forescout Enhances Continuum Platform With New OT Capabilities](https://www.darkreading.com/vulnerabilities-threats/forescout-enhances-continuum-platform-with-new-ot-capabilities)
@@ -79,7 +80,6 @@
 - [CyberUSA, and Superus Careers Launch Cyber Career Exchange Platform](https://www.darkreading.com/careers-and-people/cyberusa-and-superus-careers-launch-cyber-career-exchange-platform)
 - [Fortress Information Security Receives  $125M Strategic Investment from Goldman Sachs Asset Management](https://www.darkreading.com/operations/fortress-information-security-receives-125m-strategic-investment-from-goldman-sachs-asset-management)
 - [Comcast Business 2021 DDoS Threat Report:  DDoS Becomes a Bigger Priority as Multivector Attacks are on the Rise](https://www.darkreading.com/attacks-breaches/comcast-business-2021-ddos-threat-report-ddos-becomes-a-bigger-priority-as-multivector-attacks-are-on-the-rise)
-- [Creating Cyberattack Resilience in Modern Education Environments](https://www.darkreading.com/vulnerabilities-threats/creating-cyberattack-resilience-in-modern-education-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
