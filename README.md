@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bitdefender Enhances Premium VPN Service With New Privacy Protection Technologies](https://www.darkreading.com/endpoint/bitdefender-enhances-premium-vpn-service-with-new-privacy-protection-technologies)
+- [Contrast Security Introduces Cloud-Native Automation](https://www.darkreading.com/cloud/contrast-security-introduces-cloud-native-automation)
+- [Forescout Enhances Continuum Platform With New OT Capabilities](https://www.darkreading.com/vulnerabilities-threats/forescout-enhances-continuum-platform-with-new-ot-capabilities)
+- [PerimeterX Code Defender Extends Capability To Stop Supply Chain Attacks](https://www.darkreading.com/application-security/perimeterx-code-defender-extends-capability-to-stop-supply-chain-attacks)
+- [CyberUSA, and Superus Careers Launch Cyber Career Exchange Platform](https://www.darkreading.com/careers-and-people/cyberusa-and-superus-careers-launch-cyber-career-exchange-platform)
+- [Fortress Information Security Receives  $125M Strategic Investment from Goldman Sachs Asset Management](https://www.darkreading.com/operations/fortress-information-security-receives-125m-strategic-investment-from-goldman-sachs-asset-management)
+- [Comcast Business 2021 DDoS Threat Report:  DDoS Becomes a Bigger Priority as Multivector Attacks are on the Rise](https://www.darkreading.com/attacks-breaches/comcast-business-2021-ddos-threat-report-ddos-becomes-a-bigger-priority-as-multivector-attacks-are-on-the-rise)
 - [Creating Cyberattack Resilience in Modern Education Environments](https://www.darkreading.com/vulnerabilities-threats/creating-cyberattack-resilience-in-modern-education-environments)
-- [Zero-Day Exploit Use Exploded in 2021](https://www.darkreading.com/threat-intelligence/zero-day-exploit-use-exploded-in-2021)
-- [What Steps Do I Take to Shift Left in Security?](https://www.darkreading.com/edge-ask-the-experts/what-steps-do-i-take-to-shift-left-in-security)
-- [Devo Acquires Threat Hunting Company Kognos](https://www.darkreading.com/analytics/devo-acquires-kognos-to-add-autonomous-threat-hunting-to-cloud-native-logging-analytics)
-- [Exploring Biometrics and Trust at the Corporate Level](https://www.darkreading.com/dr-tech/exploring-biometrics-and-trust-at-the-corporate-level)
-- [New Zscaler Research Shows Over 400% Increase in Phishing Attacks With Retail and Wholesale Industries at Greatest Risk](https://www.darkreading.com/attacks-breaches/untitlednew-zscaler-research-shows-over-400-increase-in-phishing-attacks-with-retail-and-wholesale-industries-at-greatest-risk)
-- [Cybereason Launches Digital Forensics Incident Response](https://www.darkreading.com/attacks-breaches/cybereason-launches-digital-forensics-incident-response)
-- [Alert Logic Releases MDR Incident Response Capability for Addressing a Breach](https://www.darkreading.com/attacks-breaches/alert-logic-releases-mdr-incident-response-capability-for-addressing-a-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
