@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trend Micro Launches New Security Platform](https://www.darkreading.com/operations/trend-micro-launches-new-security-platform)
 - [Overlapping ICS/OT Mandates Distract From Threat Detection and Response](https://www.darkreading.com/attacks-breaches/overlapping-ics-ot-mandates-distract-from-threat-detection-and-response)
 - [Many Medical Device Makers Skimp on Security Practices](https://www.darkreading.com/tech-trends/many-medical-device-makers-skimp-on-security-practices)
 - [Sophos Buys Alert-Monitoring Automation Vendor](https://www.darkreading.com/analytics/sophos-buys-alert-monitoring-automation-vendor)
@@ -79,7 +80,6 @@
 - [FBI Warns Ransomware Attacks on Agriculture Co-ops Could Upend Food Supply Chain](https://www.darkreading.com/attacks-breaches/fbi-warns-agriculture-about-ransomware-attacks-timed-to-planting-harvest-seasons)
 - [Early Discovery of Pipedream Malware a Success Story for Industrial Security](https://www.darkreading.com/vulnerabilities-threats/pipedream-response-shows-best-case-for-industrial-security)
 - [Bitdefender Enhances Premium VPN Service With New Privacy Protection Technologies](https://www.darkreading.com/endpoint/bitdefender-enhances-premium-vpn-service-with-new-privacy-protection-technologies)
-- [Contrast Security Introduces Cloud-Native Automation](https://www.darkreading.com/cloud/contrast-security-introduces-cloud-native-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
