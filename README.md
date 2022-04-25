@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Overlapping ICS/OT Mandates Distract From Threat Detection and Response](https://www.darkreading.com/attacks-breaches/overlapping-ics-ot-mandates-distract-from-threat-detection-and-response)
 - [Many Medical Device Makers Skimp on Security Practices](https://www.darkreading.com/tech-trends/many-medical-device-makers-skimp-on-security-practices)
 - [Sophos Buys Alert-Monitoring Automation Vendor](https://www.darkreading.com/analytics/sophos-buys-alert-monitoring-automation-vendor)
 - [Neustar Security Services’ UltraDNS Integrates Terraform for Streamlined, Automated DNS Management](https://www.darkreading.com/perimeter/neustar-security-services-ultradns-integrates-terraform-for-streamlined-automated-dns-management)
@@ -79,7 +80,6 @@
 - [Early Discovery of Pipedream Malware a Success Story for Industrial Security](https://www.darkreading.com/vulnerabilities-threats/pipedream-response-shows-best-case-for-industrial-security)
 - [Bitdefender Enhances Premium VPN Service With New Privacy Protection Technologies](https://www.darkreading.com/endpoint/bitdefender-enhances-premium-vpn-service-with-new-privacy-protection-technologies)
 - [Contrast Security Introduces Cloud-Native Automation](https://www.darkreading.com/cloud/contrast-security-introduces-cloud-native-automation)
-- [Forescout Enhances Continuum Platform With New OT Capabilities](https://www.darkreading.com/vulnerabilities-threats/forescout-enhances-continuum-platform-with-new-ot-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
