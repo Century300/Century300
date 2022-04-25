@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Security Meets Development: The DevSecOps Conundrum](https://www.darkreading.com/edge-articles/when-security-meets-development-the-devsecops-conundrum)
 - [Mastercard Launches Next-Generation Identity Technology with Microsoft](https://www.darkreading.com/endpoint/mastercard-launches-next-generation-identity-technology-with-microsoft)
 - [Ukraine Invasion Driving DDoS Attacks to All-Time Highs](https://www.darkreading.com/attacks-breaches/ukraine-invasion-driving-ddos-attacks-to-all-time-highs)
 - [Trend Micro Launches New Security Platform](https://www.darkreading.com/operations/trend-micro-launches-new-security-platform)
@@ -79,7 +80,6 @@
 - [Many Medical Device Makers Skimp on Security Practices](https://www.darkreading.com/tech-trends/many-medical-device-makers-skimp-on-security-practices)
 - [Sophos Buys Alert-Monitoring Automation Vendor](https://www.darkreading.com/analytics/sophos-buys-alert-monitoring-automation-vendor)
 - [Neustar Security Services’ UltraDNS Integrates Terraform for Streamlined, Automated DNS Management](https://www.darkreading.com/perimeter/neustar-security-services-ultradns-integrates-terraform-for-streamlined-automated-dns-management)
-- [FBI Warns Ransomware Attacks on Agriculture Co-ops Could Upend Food Supply Chain](https://www.darkreading.com/attacks-breaches/fbi-warns-agriculture-about-ransomware-attacks-timed-to-planting-harvest-seasons)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
