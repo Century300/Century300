@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukraine Invasion Driving DDoS Attacks to All-Time Highs](https://www.darkreading.com/attacks-breaches/ukraine-invasion-driving-ddos-attacks-to-all-time-highs)
 - [Trend Micro Launches New Security Platform](https://www.darkreading.com/operations/trend-micro-launches-new-security-platform)
 - [Overlapping ICS/OT Mandates Distract From Threat Detection and Response](https://www.darkreading.com/attacks-breaches/overlapping-ics-ot-mandates-distract-from-threat-detection-and-response)
 - [Many Medical Device Makers Skimp on Security Practices](https://www.darkreading.com/tech-trends/many-medical-device-makers-skimp-on-security-practices)
@@ -79,7 +80,6 @@
 - [Neustar Security Services’ UltraDNS Integrates Terraform for Streamlined, Automated DNS Management](https://www.darkreading.com/perimeter/neustar-security-services-ultradns-integrates-terraform-for-streamlined-automated-dns-management)
 - [FBI Warns Ransomware Attacks on Agriculture Co-ops Could Upend Food Supply Chain](https://www.darkreading.com/attacks-breaches/fbi-warns-agriculture-about-ransomware-attacks-timed-to-planting-harvest-seasons)
 - [Early Discovery of Pipedream Malware a Success Story for Industrial Security](https://www.darkreading.com/vulnerabilities-threats/pipedream-response-shows-best-case-for-industrial-security)
-- [Bitdefender Enhances Premium VPN Service With New Privacy Protection Technologies](https://www.darkreading.com/endpoint/bitdefender-enhances-premium-vpn-service-with-new-privacy-protection-technologies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
