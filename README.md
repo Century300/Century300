@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Conflict Overshadowed a Major Government Ransomware Alert](https://www.darkreading.com/attacks-breaches/cyber-conflict-overshadowed-a-major-government-ransomware-alert-here-s-the-attention-it-deserves)
 - [Introducing Apostro: A Risk Management Platform for Web3 Security](https://www.darkreading.com/risk/introducing-apostro-a-risk-management-platform-for-web3-security)
 - [SecurityScorecard Launches Cyber Risk Quantification Portfolio](https://www.darkreading.com/risk/securityscorecard-launches-cyber-risk-quantification-portfolio)
 - [What the ECDSA Flaw in Java Means for Enterprises](https://www.darkreading.com/dr-tech/what-the-ecdsa-flaw-in-java-means-for-enterprises)
@@ -79,7 +80,6 @@
 - [North Korean State Actors Deploying Novel Malware to Spy on Journalists](https://www.darkreading.com/attacks-breaches/dprk-state-actors-deploying-novel-malware-to-spy-on-journalists)
 - [When Security Meets Development: The DevSecOps Conundrum](https://www.darkreading.com/edge-articles/when-security-meets-development-the-devsecops-conundrum)
 - [Mastercard Launches Next-Generation Identity Technology with Microsoft](https://www.darkreading.com/endpoint/mastercard-launches-next-generation-identity-technology-with-microsoft)
-- [Ukraine Invasion Driving DDoS Attacks to All-Time Highs](https://www.darkreading.com/attacks-breaches/ukraine-invasion-driving-ddos-attacks-to-all-time-highs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
