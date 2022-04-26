@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the ECDSA Flaw in Java Means for Enterprises](https://www.darkreading.com/dr-tech/what-the-ecdsa-flaw-in-java-means-for-enterprises)
+- [Iranian Hacking Group Among Those Exploiting Recently Disclosed VMWare RCE Flaw](https://www.darkreading.com/attacks-breaches/-iranian-group-among-those-exploiting-recently-disclosed-rce-flaw-in-vmware)
+- [North Korean State Actors Deploying Novel Malware to Spy on Journalists](https://www.darkreading.com/attacks-breaches/dprk-state-actors-deploying-novel-malware-to-spy-on-journalists)
 - [When Security Meets Development: The DevSecOps Conundrum](https://www.darkreading.com/edge-articles/when-security-meets-development-the-devsecops-conundrum)
 - [Mastercard Launches Next-Generation Identity Technology with Microsoft](https://www.darkreading.com/endpoint/mastercard-launches-next-generation-identity-technology-with-microsoft)
 - [Ukraine Invasion Driving DDoS Attacks to All-Time Highs](https://www.darkreading.com/attacks-breaches/ukraine-invasion-driving-ddos-attacks-to-all-time-highs)
 - [Trend Micro Launches New Security Platform](https://www.darkreading.com/operations/trend-micro-launches-new-security-platform)
 - [Overlapping ICS/OT Mandates Distract From Threat Detection and Response](https://www.darkreading.com/attacks-breaches/overlapping-ics-ot-mandates-distract-from-threat-detection-and-response)
-- [Many Medical Device Makers Skimp on Security Practices](https://www.darkreading.com/tech-trends/many-medical-device-makers-skimp-on-security-practices)
-- [Sophos Buys Alert-Monitoring Automation Vendor](https://www.darkreading.com/analytics/sophos-buys-alert-monitoring-automation-vendor)
-- [Neustar Security Services’ UltraDNS Integrates Terraform for Streamlined, Automated DNS Management](https://www.darkreading.com/perimeter/neustar-security-services-ultradns-integrates-terraform-for-streamlined-automated-dns-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
