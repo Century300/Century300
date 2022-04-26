@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Do I Report My Security Program&#39;s ROI?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-report-my-security-program-s-roi)
+- [Tenable Acquires External Attack Surface Management Vendor for $44.5M](https://www.darkreading.com/analytics/tenable-adds-attack-surface-mapping-know-how-with-latest-acquisition)
 - [The Ins and Outs of Secure Infrastructure as Code](https://www.darkreading.com/dr-tech/the-ins-and-outs-of-secure-infrastructure-as-code)
 - [CISA Taps Veteran CISO Bob Lord for Technical Adviser Role](https://www.darkreading.com/operations/cisa-taps-seasoned-ciso-bob-lord-for-technical-adviser-role)
 - [API Attacks Soar Amid the Growing Application Surface Area](https://www.darkreading.com/application-security/api-attacks-soar-amid-the-growing-application-surface-area)
 - [Cyber Conflict Overshadowed a Major Government Ransomware Alert](https://www.darkreading.com/attacks-breaches/cyber-conflict-overshadowed-a-major-government-ransomware-alert-here-s-the-attention-it-deserves)
 - [Introducing Apostro: A Risk Management Platform for Web3 Security](https://www.darkreading.com/risk/introducing-apostro-a-risk-management-platform-for-web3-security)
 - [SecurityScorecard Launches Cyber Risk Quantification Portfolio](https://www.darkreading.com/risk/securityscorecard-launches-cyber-risk-quantification-portfolio)
-- [What the ECDSA Flaw in Java Means for Enterprises](https://www.darkreading.com/dr-tech/what-the-ecdsa-flaw-in-java-means-for-enterprises)
-- [Iranian Hacking Group Among Those Exploiting Recently Disclosed VMware RCE Flaw](https://www.darkreading.com/attacks-breaches/-iranian-group-among-those-exploiting-recently-disclosed-rce-flaw-in-vmware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
