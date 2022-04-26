@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [API Attacks Soar Amid the Growing Application Surface Area](https://www.darkreading.com/application-security/api-attacks-soar-amid-the-growing-application-surface-area)
 - [Cyber Conflict Overshadowed a Major Government Ransomware Alert](https://www.darkreading.com/attacks-breaches/cyber-conflict-overshadowed-a-major-government-ransomware-alert-here-s-the-attention-it-deserves)
 - [Introducing Apostro: A Risk Management Platform for Web3 Security](https://www.darkreading.com/risk/introducing-apostro-a-risk-management-platform-for-web3-security)
 - [SecurityScorecard Launches Cyber Risk Quantification Portfolio](https://www.darkreading.com/risk/securityscorecard-launches-cyber-risk-quantification-portfolio)
@@ -79,7 +80,6 @@
 - [Iranian Hacking Group Among Those Exploiting Recently Disclosed VMware RCE Flaw](https://www.darkreading.com/attacks-breaches/-iranian-group-among-those-exploiting-recently-disclosed-rce-flaw-in-vmware)
 - [North Korean State Actors Deploying Novel Malware to Spy on Journalists](https://www.darkreading.com/attacks-breaches/dprk-state-actors-deploying-novel-malware-to-spy-on-journalists)
 - [When Security Meets Development: The DevSecOps Conundrum](https://www.darkreading.com/edge-articles/when-security-meets-development-the-devsecops-conundrum)
-- [Mastercard Launches Next-Generation Identity Technology with Microsoft](https://www.darkreading.com/endpoint/mastercard-launches-next-generation-identity-technology-with-microsoft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
