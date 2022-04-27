@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [How Industry Leaders Should Approach Open Source Security](https://www.darkreading.com/risk/how-industry-leaders-should-approach-open-source-security)
+- [5-Year Vulnerability Trends Are Both Surprising and Sadly Predictable](https://www.darkreading.com/vulnerabilities-threats/5-year-vulnerability-trends-are-both-surprising-and-sadly-predictable)
 - [Log4j Attack Surface Remains Massive](https://www.darkreading.com/threat-intelligence/l0g4j-attack-surface-remains-huge)
 - [How Do I Report My Security Program&#39;s ROI?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-report-my-security-program-s-roi)
 - [Tenable Acquires External Attack Surface Management Vendor for $44.5M](https://www.darkreading.com/analytics/tenable-adds-attack-surface-mapping-know-how-with-latest-acquisition)
 - [The Ins and Outs of Secure Infrastructure as Code](https://www.darkreading.com/dr-tech/the-ins-and-outs-of-secure-infrastructure-as-code)
 - [CISA Taps Veteran CISO Bob Lord for Technical Adviser Role](https://www.darkreading.com/operations/cisa-taps-seasoned-ciso-bob-lord-for-technical-adviser-role)
 - [API Attacks Soar Amid the Growing Application Surface Area](https://www.darkreading.com/application-security/api-attacks-soar-amid-the-growing-application-surface-area)
-- [Cyber Conflict Overshadowed a Major Government Ransomware Alert](https://www.darkreading.com/attacks-breaches/cyber-conflict-overshadowed-a-major-government-ransomware-alert-here-s-the-attention-it-deserves)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
