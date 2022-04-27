@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Synopsys to Acquire WhiteHat Security from NTT](https://www.darkreading.com/press-release/synopsys-to-acquire-whitehat-security-from-ntt)
 - [CISA: Log4Shell Was the Most-Exploited Vulnerability in 2021](https://www.darkreading.com/vulnerabilities-threats/cisa-log4shell-most-exploited-vulnerability-2021)
+- [Tenable&#39;s Bit Discovery Buy Underscores Demand for Deeper Visibility of IT Assets](https://www.darkreading.com/risk/tenable-s-bit-discovery-buy-underscores-deeper-visibility-of-it-assets)
 - [Coca-Cola Investigates Data-Theft Claims After Ransomware Attack](https://www.darkreading.com/attacks-breaches/coca-cola-investigates-data-theft-ransomware)
 - [How Industry Leaders Should Approach Open Source Security](https://www.darkreading.com/risk/how-industry-leaders-should-approach-open-source-security)
 - [5-Year Vulnerability Trends Are Both Surprising and Sadly Predictable](https://www.darkreading.com/vulnerabilities-threats/5-year-vulnerability-trends-are-both-surprising-and-sadly-predictable)
 - [Log4j Attack Surface Remains Massive](https://www.darkreading.com/threat-intelligence/l0g4j-attack-surface-remains-huge)
 - [How Do I Report My Security Program&#39;s ROI?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-report-my-security-program-s-roi)
-- [Tenable Acquires External Attack Surface Management Vendor for $44.5M](https://www.darkreading.com/analytics/tenable-adds-attack-surface-mapping-know-how-with-latest-acquisition)
-- [The Ins and Outs of Secure Infrastructure as Code](https://www.darkreading.com/dr-tech/the-ins-and-outs-of-secure-infrastructure-as-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
