@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Explainable AI for Fraud Prevention](https://www.darkreading.com/analytics/explainable-ai-for-fraud-prevention)
 - [A Peek into Visa&#39;s AI Tools Against Fraud](https://www.darkreading.com/edge-articles/a-peek-into-visa-s-ai-tools-against-fraud)
 - [Doppler Takes on Secrets Management](https://www.darkreading.com/dr-tech/doppler-takes-on-secrets-management)
 - [Chinese APT Bronze President Mounts Spy Campaign on Russian Military](https://www.darkreading.com/threat-intelligence/chinese-apt-bronze-president-spy-campaign-russian-military)
@@ -79,7 +80,6 @@
 - [CISA: Log4Shell Was the Most-Exploited Vulnerability in 2021](https://www.darkreading.com/vulnerabilities-threats/cisa-log4shell-most-exploited-vulnerability-2021)
 - [Tenable&#39;s Bit Discovery Buy Underscores Demand for Deeper Visibility of IT Assets](https://www.darkreading.com/risk/tenable-s-bit-discovery-buy-underscores-deeper-visibility-of-it-assets)
 - [Coca-Cola Investigates Data-Theft Claims After Ransomware Attack](https://www.darkreading.com/attacks-breaches/coca-cola-investigates-data-theft-ransomware)
-- [How Industry Leaders Should Approach Open Source Security](https://www.darkreading.com/risk/how-industry-leaders-should-approach-open-source-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
