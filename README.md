@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Peek into Visa&#39;s AI Tools Against Fraud](https://www.darkreading.com/edge-articles/a-peek-into-visa-s-ai-tools-against-fraud)
 - [Doppler Takes on Secrets Management](https://www.darkreading.com/dr-tech/doppler-takes-on-secrets-management)
 - [Chinese APT Bronze President Mounts Spy Campaign on Russian Military](https://www.darkreading.com/threat-intelligence/chinese-apt-bronze-president-spy-campaign-russian-military)
 - [Synopsys to Acquire WhiteHat Security from NTT](https://www.darkreading.com/press-release/synopsys-to-acquire-whitehat-security-from-ntt)
@@ -79,7 +80,6 @@
 - [Tenable&#39;s Bit Discovery Buy Underscores Demand for Deeper Visibility of IT Assets](https://www.darkreading.com/risk/tenable-s-bit-discovery-buy-underscores-deeper-visibility-of-it-assets)
 - [Coca-Cola Investigates Data-Theft Claims After Ransomware Attack](https://www.darkreading.com/attacks-breaches/coca-cola-investigates-data-theft-ransomware)
 - [How Industry Leaders Should Approach Open Source Security](https://www.darkreading.com/risk/how-industry-leaders-should-approach-open-source-security)
-- [5-Year Vulnerability Trends Are Both Surprising and Sadly Predictable](https://www.darkreading.com/vulnerabilities-threats/5-year-vulnerability-trends-are-both-surprising-and-sadly-predictable)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
