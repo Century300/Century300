@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Doppler Takes on Secrets Management](https://www.darkreading.com/dr-tech/doppler-takes-on-secrets-management)
 - [Chinese APT Bronze President Mounts Spy Campaign on Russian Military](https://www.darkreading.com/threat-intelligence/chinese-apt-bronze-president-spy-campaign-russian-military)
 - [Synopsys to Acquire WhiteHat Security from NTT](https://www.darkreading.com/press-release/synopsys-to-acquire-whitehat-security-from-ntt)
 - [CISA: Log4Shell Was the Most-Exploited Vulnerability in 2021](https://www.darkreading.com/vulnerabilities-threats/cisa-log4shell-most-exploited-vulnerability-2021)
@@ -79,7 +80,6 @@
 - [Coca-Cola Investigates Data-Theft Claims After Ransomware Attack](https://www.darkreading.com/attacks-breaches/coca-cola-investigates-data-theft-ransomware)
 - [How Industry Leaders Should Approach Open Source Security](https://www.darkreading.com/risk/how-industry-leaders-should-approach-open-source-security)
 - [5-Year Vulnerability Trends Are Both Surprising and Sadly Predictable](https://www.darkreading.com/vulnerabilities-threats/5-year-vulnerability-trends-are-both-surprising-and-sadly-predictable)
-- [Log4j Attack Surface Remains Massive](https://www.darkreading.com/threat-intelligence/l0g4j-attack-surface-remains-huge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
