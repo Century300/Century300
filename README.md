@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [Capital One Ventures, Snowflake Ventures, Verizon Ventures, and Wipro Ventures Join Securonix $1B+ Growth Investment as Strategic Investors](https://www.darkreading.com/press-release/capital-one-ventures-snowflake-ventures-verizon-ventures-and-wipro-ventures-join-securonix-1b-growth-investment-as-strategic-investors)
+- [The Ransomware Crisis Deepens, While Data Recovery Stalls](https://www.darkreading.com/attacks-breaches/ransomware-crisis-deepens-data-recovery-stalls)
 - [Microsoft: Russia Using Cyberattacks in Coordination With Military Invasion of Ukraine](https://www.darkreading.com/attacks-breaches/russia-using-cyberattacks-in-coordination-with-military-invasion-of-ukraine)
 - [Explainable AI for Fraud Prevention](https://www.darkreading.com/analytics/explainable-ai-for-fraud-prevention)
 - [A Peek into Visa&#39;s AI Tools Against Fraud](https://www.darkreading.com/edge-articles/a-peek-into-visa-s-ai-tools-against-fraud)
 - [Doppler Takes on Secrets Management](https://www.darkreading.com/dr-tech/doppler-takes-on-secrets-management)
 - [Chinese APT Bronze President Mounts Spy Campaign on Russian Military](https://www.darkreading.com/threat-intelligence/chinese-apt-bronze-president-spy-campaign-russian-military)
 - [Synopsys to Acquire WhiteHat Security from NTT](https://www.darkreading.com/press-release/synopsys-to-acquire-whitehat-security-from-ntt)
-- [CISA: Log4Shell Was the Most-Exploited Vulnerability in 2021](https://www.darkreading.com/vulnerabilities-threats/cisa-log4shell-most-exploited-vulnerability-2021)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
