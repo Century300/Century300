@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloudflare Flags Largest HTTPS DDoS Attack It&#39;s Ever Recorded](https://www.darkreading.com/attacks-breaches/cloudflare-flags-largest-https-ddos-attack-it-s-ever-recorded)
 - [Take a Diversified Approach to Encryption](https://www.darkreading.com/vulnerabilities-threats/take-a-diversified-approach-to-encryption)
 - [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
 - [Microsoft Patches Pair of Dangerous Vulnerabilities in Azure PostgreSQL](https://www.darkreading.com/cloud/microsoft-patches-pair-of-dangerous-vulnerabilities-in-azure-postgresql)
@@ -79,7 +80,6 @@
 - [Capital One Ventures, Snowflake Ventures, Verizon Ventures, and Wipro Ventures Join Securonix $1B+ Growth Investment as Strategic Investors](https://www.darkreading.com/press-release/capital-one-ventures-snowflake-ventures-verizon-ventures-and-wipro-ventures-join-securonix-1b-growth-investment-as-strategic-investors)
 - [The Ransomware Crisis Deepens, While Data Recovery Stalls](https://www.darkreading.com/attacks-breaches/ransomware-crisis-deepens-data-recovery-stalls)
 - [Bumblebee Malware Buzzes Into Cyberattack Fray](https://www.darkreading.com/attacks-breaches/bumblebee-malware-cyberattack-fray)
-- [Microsoft: Russia Using Cyberattacks in Coordination With Military Invasion of Ukraine](https://www.darkreading.com/attacks-breaches/russia-using-cyberattacks-in-coordination-with-military-invasion-of-ukraine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
