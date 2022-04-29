@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Take a Diversified Approach to Encryption](https://www.darkreading.com/vulnerabilities-threats/take-a-diversified-approach-to-encryption)
 - [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
 - [Microsoft Patches Pair of Dangerous Vulnerabilities in Azure PostgreSQL](https://www.darkreading.com/cloud/microsoft-patches-pair-of-dangerous-vulnerabilities-in-azure-postgresql)
 - [IT Teams Worry Staff Lack Cloud-Specific Skills](https://www.darkreading.com/edge-threat-monitor/it-teams-worry-staff-lack-cloud-specific-skills)
@@ -79,7 +80,6 @@
 - [The Ransomware Crisis Deepens, While Data Recovery Stalls](https://www.darkreading.com/attacks-breaches/ransomware-crisis-deepens-data-recovery-stalls)
 - [Bumblebee Malware Buzzes Into Cyberattack Fray](https://www.darkreading.com/attacks-breaches/bumblebee-malware-cyberattack-fray)
 - [Microsoft: Russia Using Cyberattacks in Coordination With Military Invasion of Ukraine](https://www.darkreading.com/attacks-breaches/russia-using-cyberattacks-in-coordination-with-military-invasion-of-ukraine)
-- [Explainable AI for Fraud Prevention](https://www.darkreading.com/analytics/explainable-ai-for-fraud-prevention)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
