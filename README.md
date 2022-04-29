@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
 - [Microsoft Patches Pair of Dangerous Vulnerabilities in Azure PostgreSQL](https://www.darkreading.com/cloud/microsoft-patches-pair-of-dangerous-vulnerabilities-in-azure-postgresql)
 - [IT Teams Worry Staff Lack Cloud-Specific Skills](https://www.darkreading.com/edge-threat-monitor/it-teams-worry-staff-lack-cloud-specific-skills)
 - [Capital One Ventures, Snowflake Ventures, Verizon Ventures, and Wipro Ventures Join Securonix $1B+ Growth Investment as Strategic Investors](https://www.darkreading.com/press-release/capital-one-ventures-snowflake-ventures-verizon-ventures-and-wipro-ventures-join-securonix-1b-growth-investment-as-strategic-investors)
@@ -79,7 +80,6 @@
 - [Bumblebee Malware Buzzes Into Cyberattack Fray](https://www.darkreading.com/attacks-breaches/bumblebee-malware-cyberattack-fray)
 - [Microsoft: Russia Using Cyberattacks in Coordination With Military Invasion of Ukraine](https://www.darkreading.com/attacks-breaches/russia-using-cyberattacks-in-coordination-with-military-invasion-of-ukraine)
 - [Explainable AI for Fraud Prevention](https://www.darkreading.com/analytics/explainable-ai-for-fraud-prevention)
-- [A Peek into Visa&#39;s AI Tools Against Fraud](https://www.darkreading.com/edge-articles/a-peek-into-visa-s-ai-tools-against-fraud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
