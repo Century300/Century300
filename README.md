@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2022 Security Priorities: Staffing and Remote Work](https://www.darkreading.com/edge-articles/2022-security-priorities-staffing-and-remote-work)
 - [Good News! IAM Is Near-Universal With SaaS](https://www.darkreading.com/tech-trends/good-news-iam-is-near-universal-with-saas)
 - [Critical Vulnerabilities Leave Some Network-Attached Storage Devices Open to Attack](https://www.darkreading.com/vulnerabilities-threats/critical-vulnerabilities-qnap-synology-nas-rce)
 - [Cloudflare Flags Largest HTTPS DDoS Attack It&#39;s Ever Recorded](https://www.darkreading.com/attacks-breaches/cloudflare-flags-largest-https-ddos-attack-it-s-ever-recorded)
@@ -79,7 +80,6 @@
 - [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
 - [Microsoft Patches Pair of Dangerous Vulnerabilities in Azure PostgreSQL](https://www.darkreading.com/cloud/microsoft-patches-pair-of-dangerous-vulnerabilities-in-azure-postgresql)
 - [IT Teams Worry Staff Lack Cloud-Specific Skills](https://www.darkreading.com/edge-threat-monitor/it-teams-worry-staff-lack-cloud-specific-skills)
-- [Capital One Ventures, Snowflake Ventures, Verizon Ventures, and Wipro Ventures Join Securonix $1B+ Growth Investment as Strategic Investors](https://www.darkreading.com/press-release/capital-one-ventures-snowflake-ventures-verizon-ventures-and-wipro-ventures-join-securonix-1b-growth-investment-as-strategic-investors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
