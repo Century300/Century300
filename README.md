@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Stuff Happens: What Do You Do When It Hits the Fan?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-do-you-do-when-it-hits-the-fan-)
 - [2022 Security Priorities: Staffing and Remote Work](https://www.darkreading.com/edge-articles/2022-security-priorities-staffing-and-remote-work)
 - [Good News! IAM Is Near-Universal With SaaS](https://www.darkreading.com/tech-trends/good-news-iam-is-near-universal-with-saas)
 - [Critical Vulnerabilities Leave Some Network-Attached Storage Devices Open to Attack](https://www.darkreading.com/vulnerabilities-threats/critical-vulnerabilities-qnap-synology-nas-rce)
@@ -79,7 +80,6 @@
 - [Take a Diversified Approach to Encryption](https://www.darkreading.com/vulnerabilities-threats/take-a-diversified-approach-to-encryption)
 - [Ambient.ai Expands Computer Vision Capabilities for Better Building Security](https://www.darkreading.com/emerging-tech/ambient-ai-expands-computer-vision-capabilities-for-better-building-security)
 - [Microsoft Patches Pair of Dangerous Vulnerabilities in Azure PostgreSQL](https://www.darkreading.com/cloud/microsoft-patches-pair-of-dangerous-vulnerabilities-in-azure-postgresql)
-- [IT Teams Worry Staff Lack Cloud-Specific Skills](https://www.darkreading.com/edge-threat-monitor/it-teams-worry-staff-lack-cloud-specific-skills)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
