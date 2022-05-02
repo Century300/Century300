@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Offers $1.5M Bug Bounty for Android 13 Beta](https://www.darkreading.com/vulnerabilities-threats/google-issues-1-5m-android-13-beta-bug-bounty)
 - [New Regulations in India Require Orgs to Report Cyber Incidents Within 6 Hours](https://www.darkreading.com/attacks-breaches/new-regulations-give-indian-orgs-6-hours-to-report-cyber-incidents)
 - [6 Best Practices to Ensure Kubernetes Security Meets Compliance Regulations](https://www.darkreading.com/dr-tech/6-best-practices-to-ensure-kubernetes-security-meets-compliance-regulations)
 - [Name That Edge Toon: Flower Power](https://www.darkreading.com/edge-articles/name-that-edge-toon-flower-power)
@@ -79,7 +80,6 @@
 - [2022 Security Priorities: Staffing and Remote Work](https://www.darkreading.com/edge-articles/2022-security-priorities-staffing-and-remote-work)
 - [Good News! IAM Is Near-Universal With SaaS](https://www.darkreading.com/tech-trends/good-news-iam-is-near-universal-with-saas)
 - [Critical Vulnerabilities Leave Some Network-Attached Storage Devices Open to Attack](https://www.darkreading.com/vulnerabilities-threats/critical-vulnerabilities-qnap-synology-nas-rce)
-- [Cloudflare Flags Largest HTTPS DDoS Attack It&#39;s Ever Recorded](https://www.darkreading.com/attacks-breaches/cloudflare-flags-largest-https-ddos-attack-it-s-ever-recorded)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
