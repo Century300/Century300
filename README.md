@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Syxsense Launches Unified Endpoint Security and Management Platform](https://www.darkreading.com/remote-workforce/se-launches-unified-endpoint-security-and-management-platform)
 - [Third-Party App Access Is the New Executable File](https://www.darkreading.com/vulnerabilities-threats/third-party-app-access-is-the-new-executable-file)
 - [How to Create a Cybersecurity Mentorship Program](https://www.darkreading.com/risk/how-to-create-a-cybersecurity-mentorship-program)
 - [Radware Launches SkyHawk Security, a Spinoff of Its  Cloud Native Protector Business](https://www.darkreading.com/cloud/radware-launches-skyhawk-security-a-spinoff-of-its-cloud-native-protector-business)
@@ -79,7 +80,6 @@
 - [OccamSec Unveils New Cybersecurity Platform](https://www.darkreading.com/vulnerabilities-threats/occamsec-unveils-new-cybersecurity-platform)
 - [Developing Software? Get Accountability Right First](https://www.darkreading.com/application-security/developing-software-get-accountability-right-first)
 - [TLS Flaws Leave Avaya, Aruba Switches Open to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/tls-flaws-leave-avaya-aruba-switches-open-to-complete-takeover)
-- [Google Offers $1.5M Bug Bounty for Android 13 Beta](https://www.darkreading.com/vulnerabilities-threats/google-issues-1-5m-android-13-beta-bug-bounty)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
