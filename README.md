@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SolarWinds Attackers Gear Up for Typosquatting Attacks](https://www.darkreading.com/attacks-breaches/solarwinds-attackers-gearing-up-typosquatting-attacks)
+- [Unpatched DNS-Poisoning Bug Affects Millions of Devices, Stumps Researchers](https://www.darkreading.com/vulnerabilities-threats/unpatched-dns-poisoning-bug-stumps-researchers)
 - [REvil Revival: Are Ransomware Gangs Ever Really Gone?](https://www.darkreading.com/threat-intelligence/revil-revival-ransomware-gangs-gone)
 - [Syxsense Launches Unified Endpoint Security and Management Platform](https://www.darkreading.com/remote-workforce/se-launches-unified-endpoint-security-and-management-platform)
 - [Third-Party App Access Is the New Executable File](https://www.darkreading.com/vulnerabilities-threats/third-party-app-access-is-the-new-executable-file)
 - [How to Create a Cybersecurity Mentorship Program](https://www.darkreading.com/risk/how-to-create-a-cybersecurity-mentorship-program)
 - [Radware Launches SkyHawk Security, a Spinoff of Its  Cloud Native Protector Business](https://www.darkreading.com/cloud/radware-launches-skyhawk-security-a-spinoff-of-its-cloud-native-protector-business)
 - [Teleport Raises $110 Million Series C at $1.1 Billion Valuation Led by Bessemer Venture Partners](https://www.darkreading.com/remote-workforce/teleport-raises-110-million-series-c-at-1-1-billion-valuation-led-by-bessemer-venture-partners)
-- [OccamSec Unveils New Cybersecurity Platform](https://www.darkreading.com/vulnerabilities-threats/occamsec-unveils-new-cybersecurity-platform)
-- [Developing Software? Get Accountability Right First](https://www.darkreading.com/application-security/developing-software-get-accountability-right-first)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
