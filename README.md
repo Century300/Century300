@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Radware Launches SkyHawk Security, a Spinoff of Its  Cloud Native Protector Business](https://www.darkreading.com/cloud/radware-launches-skyhawk-security-a-spinoff-of-its-cloud-native-protector-business)
+- [Teleport Raises $110 Million Series C at $1.1 Billion Valuation Led by Bessemer Venture Partners](https://www.darkreading.com/remote-workforce/teleport-raises-110-million-series-c-at-1-1-billion-valuation-led-by-bessemer-venture-partners)
+- [OccamSec Unveils New Cybersecurity Platform](https://www.darkreading.com/vulnerabilities-threats/occamsec-unveils-new-cybersecurity-platform)
 - [Developing Software? Get Accountability Right First](https://www.darkreading.com/application-security/developing-software-get-accountability-right-first)
 - [TLS Flaws Leave Avaya, Aruba Switches Open to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/tls-flaws-leave-avaya-aruba-switches-open-to-complete-takeover)
 - [Google Offers $1.5M Bug Bounty for Android 13 Beta](https://www.darkreading.com/vulnerabilities-threats/google-issues-1-5m-android-13-beta-bug-bounty)
 - [New Regulations in India Require Orgs to Report Cyber Incidents Within 6 Hours](https://www.darkreading.com/attacks-breaches/new-regulations-give-indian-orgs-6-hours-to-report-cyber-incidents)
 - [6 Best Practices to Ensure Kubernetes Security Meets Compliance Regulations](https://www.darkreading.com/dr-tech/6-best-practices-to-ensure-kubernetes-security-meets-compliance-regulations)
-- [Name That Edge Toon: Flower Power](https://www.darkreading.com/edge-articles/name-that-edge-toon-flower-power)
-- [Security Stuff Happens: What Do You Do When It Hits the Fan?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-do-you-do-when-it-hits-the-fan-)
-- [2022 Security Priorities: Staffing and Remote Work](https://www.darkreading.com/edge-articles/2022-security-priorities-staffing-and-remote-work)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
