@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [REvil Revival: Are Ransomware Gangs Ever Really Gone?](https://www.darkreading.com/threat-intelligence/revil-revival-ransomware-gangs-gone)
 - [Syxsense Launches Unified Endpoint Security and Management Platform](https://www.darkreading.com/remote-workforce/se-launches-unified-endpoint-security-and-management-platform)
 - [Third-Party App Access Is the New Executable File](https://www.darkreading.com/vulnerabilities-threats/third-party-app-access-is-the-new-executable-file)
 - [How to Create a Cybersecurity Mentorship Program](https://www.darkreading.com/risk/how-to-create-a-cybersecurity-mentorship-program)
@@ -79,7 +80,6 @@
 - [Teleport Raises $110 Million Series C at $1.1 Billion Valuation Led by Bessemer Venture Partners](https://www.darkreading.com/remote-workforce/teleport-raises-110-million-series-c-at-1-1-billion-valuation-led-by-bessemer-venture-partners)
 - [OccamSec Unveils New Cybersecurity Platform](https://www.darkreading.com/vulnerabilities-threats/occamsec-unveils-new-cybersecurity-platform)
 - [Developing Software? Get Accountability Right First](https://www.darkreading.com/application-security/developing-software-get-accountability-right-first)
-- [TLS Flaws Leave Avaya, Aruba Switches Open to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/tls-flaws-leave-avaya-aruba-switches-open-to-complete-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
