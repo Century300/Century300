@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Third-Party App Access Is the New Executable File](https://www.darkreading.com/vulnerabilities-threats/third-party-app-access-is-the-new-executable-file)
 - [How to Create a Cybersecurity Mentorship Program](https://www.darkreading.com/risk/how-to-create-a-cybersecurity-mentorship-program)
 - [Radware Launches SkyHawk Security, a Spinoff of Its  Cloud Native Protector Business](https://www.darkreading.com/cloud/radware-launches-skyhawk-security-a-spinoff-of-its-cloud-native-protector-business)
 - [Teleport Raises $110 Million Series C at $1.1 Billion Valuation Led by Bessemer Venture Partners](https://www.darkreading.com/remote-workforce/teleport-raises-110-million-series-c-at-1-1-billion-valuation-led-by-bessemer-venture-partners)
@@ -79,7 +80,6 @@
 - [Developing Software? Get Accountability Right First](https://www.darkreading.com/application-security/developing-software-get-accountability-right-first)
 - [TLS Flaws Leave Avaya, Aruba Switches Open to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/tls-flaws-leave-avaya-aruba-switches-open-to-complete-takeover)
 - [Google Offers $1.5M Bug Bounty for Android 13 Beta](https://www.darkreading.com/vulnerabilities-threats/google-issues-1-5m-android-13-beta-bug-bounty)
-- [New Regulations in India Require Orgs to Report Cyber Incidents Within 6 Hours](https://www.darkreading.com/attacks-breaches/new-regulations-give-indian-orgs-6-hours-to-report-cyber-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
