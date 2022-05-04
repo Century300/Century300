@@ -72,9 +72,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SAC Health System Impacted By Security Incident](https://www.darkreading.com/attacks-breaches/sac-health-system-impacted-by-security-incident)
 - [Aryaka, Carnegie Mellon’s CyLab to Research New Threat Mitigation Techniques](https://www.darkreading.com/the-cyber-future/aryaka-carnegie-mellon-s-cylab-to-research-new-threat-mitigation-techniques)
 - [What Should I Know About Defending IoT Attack Surfaces?](https://www.darkreading.com/edge-ask-the-experts/what-should-i-know-about-defending-iot-attack-surfaces-)
-- [Syxsense Enterprise Unifies Endpoint Security and IT Management for Real-Time Vulnerability Monitoring and Remediation](https://www.darkreading.com/remote-workforce/syxsense-enterprise-unifies-endpoint-security-and-it-management-for-real-time-vulnerability-monitoring-and-remediation)
 - [API Security Company Traceable AI Lands $60 Million Series B](https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b)
 - [SolarWinds Attackers Gear Up for Typosquatting Attacks](https://www.darkreading.com/attacks-breaches/solarwinds-attackers-gearing-up-typosquatting-attacks)
 - [Unpatched DNS-Poisoning Bug Affects Millions of Devices, Stumps Researchers](https://www.darkreading.com/vulnerabilities-threats/unpatched-dns-poisoning-bug-stumps-researchers)
