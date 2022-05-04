@@ -74,7 +74,7 @@
 <!-- DARKREADING:START -->
 - [New Ransomware Variant Linked to North Korean Cyber Army](https://www.darkreading.com/threat-intelligence/new-ransomware-variant-linked-to-north-korean-cyber-army)
 - [Security Stuff Happens: What Will the Public Hear When You Say You&#39;ve Been Breached?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-will-the-public-hear-when-you-say-you-ve-been-breached-)
-- [AI for Cybersecurity Shimmers With Promise, But Challenges Abound](https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges)
+- [AI for Cybersecurity Shimmers With Promise, but Challenges Abound](https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges)
 - [What Stars Wars Teaches Us About Threats](https://www.darkreading.com/vulnerabilities-threats/what-stars-wars-teaches-us-about-threats)
 - [AutoRABIT Secures $26M in Series B Investment from Full In Partners to Expand DevSecOps Platform](https://www.darkreading.com/application-security/autorabit-secures-26m-in-series-b-investment-from-full-in-partners-to-expand-devsecops-platform)
 - [Uptycs Announces New Cloud Identity and Entitlement Management &lpar;CIEM&rpar; Capabilities](https://www.darkreading.com/cloud/uptycs-announces-new-cloud-identity-and-entitlement-management-ciem-capabilities)
