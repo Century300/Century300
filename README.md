@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI for Cybersecurity Shimmers With Promise, But Challenges Abound](https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges)
 - [What Stars Wars Teaches Us About Threats](https://www.darkreading.com/vulnerabilities-threats/what-stars-wars-teaches-us-about-threats)
 - [AutoRABIT Secures $26M in Series B Investment from Full In Partners to Expand DevSecOps Platform](https://www.darkreading.com/application-security/autorabit-secures-26m-in-series-b-investment-from-full-in-partners-to-expand-devsecops-platform)
 - [Uptycs Announces New Cloud Identity and Entitlement Management &lpar;CIEM&rpar; Capabilities](https://www.darkreading.com/cloud/uptycs-announces-new-cloud-identity-and-entitlement-management-ciem-capabilities)
@@ -79,7 +80,6 @@
 - [Aryaka, Carnegie Mellon’s CyLab to Research New Threat Mitigation Techniques](https://www.darkreading.com/the-cyber-future/aryaka-carnegie-mellon-s-cylab-to-research-new-threat-mitigation-techniques)
 - [What Should I Know About Defending IoT Attack Surfaces?](https://www.darkreading.com/edge-ask-the-experts/what-should-i-know-about-defending-iot-attack-surfaces-)
 - [API Security Company Traceable AI Lands $60 Million Series B](https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b)
-- [SolarWinds Attackers Gear Up for Typosquatting Attacks](https://www.darkreading.com/attacks-breaches/solarwinds-attackers-gearing-up-typosquatting-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
