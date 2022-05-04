@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aryaka, Carnegie Mellon’s CyLab to Research New Threat Mitigation Techniques](https://www.darkreading.com/the-cyber-future/aryaka-carnegie-mellon-s-cylab-to-research-new-threat-mitigation-techniques)
 - [What Should I Know About Defending IoT Attack Surfaces?](https://www.darkreading.com/edge-ask-the-experts/what-should-i-know-about-defending-iot-attack-surfaces-)
 - [Syxsense Enterprise Unifies Endpoint Security and IT Management for Real-Time Vulnerability Monitoring and Remediation](https://www.darkreading.com/remote-workforce/syxsense-enterprise-unifies-endpoint-security-and-it-management-for-real-time-vulnerability-monitoring-and-remediation)
 - [API Security Company Traceable AI Lands $60 Million Series B](https://www.darkreading.com/application-security/api-security-company-traceable-ai-lands-60-million-series-b)
@@ -79,7 +80,6 @@
 - [Unpatched DNS-Poisoning Bug Affects Millions of Devices, Stumps Researchers](https://www.darkreading.com/vulnerabilities-threats/unpatched-dns-poisoning-bug-stumps-researchers)
 - [REvil Revival: Are Ransomware Gangs Ever Really Gone?](https://www.darkreading.com/threat-intelligence/revil-revival-ransomware-gangs-gone)
 - [Syxsense Launches Unified Endpoint Security and Management Platform](https://www.darkreading.com/remote-workforce/se-launches-unified-endpoint-security-and-management-platform)
-- [Third-Party App Access Is the New Executable File](https://www.darkreading.com/vulnerabilities-threats/third-party-app-access-is-the-new-executable-file)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
