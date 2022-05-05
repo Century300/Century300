@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Heroku: Cyberattacker Used Stolen OAuth Tokens to Steal Customer Account Credentials](https://www.darkreading.com/endpoint/heroku-cyberattacker-stolen-oauth-token-customer-account-credentials)
 - [NIST Issues Guidance for Addressing Software Supply-Chain Risk](https://www.darkreading.com/risk/nist-guidance-software-supply-chain-risk)
 - [A Third of Americans Use Easy-to-Guess Pet Passwords](https://www.darkreading.com/operations/americans-easy-guess-pet-passwords)
 - [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
@@ -79,7 +80,6 @@
 - [Magnet Forensics Acquires Cybersecurity Software Firm Comae Technologies](https://www.darkreading.com/cloud/magnet-forensics-acquires-cybersecurity-software-firm-comae-technologies)
 - [Cisco Announces Cloud Controls Framework Is Now Available to Public](https://www.darkreading.com/cloud/cisco-announces-cloud-controls-framework)
 - [Multichannel Phishing Concerns Cybersecurity Leaders in 2022](https://www.darkreading.com/cloud/multichannel-phishing-concerns-cybersecurity-leaders-in-2022)
-- [1,000+ Attacks in 2 Years: How the SideWinder APT Sheds Its Skin](https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
