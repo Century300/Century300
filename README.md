@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Announces Cloud Controls Framework Is Now Available to Public](https://www.darkreading.com/cloud/cisco-announces-cloud-controls-framework)
+- [Multichannel Phishing Concerns Cybersecurity Leaders in 2022](https://www.darkreading.com/cloud/multichannel-phishing-concerns-cybersecurity-leaders-in-2022)
 - [1,000+ Attacks in 2 Years: How the SideWinder APT Sheds Its Skin](https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin)
 - [Docker Under Siege: Cybercriminals Compromise Honeypots to Ramp Up Attacks](https://www.darkreading.com/application-security/docker-becomes-target-tool-for-attackers)
 - [Why Security Matters Even More in Online Gaming](https://www.darkreading.com/attacks-breaches/why-security-matters-even-more-in-online-gaming)
 - [GitHub to Developers: Turn on 2FA or Lose Access](https://www.darkreading.com/dr-tech/github-to-developers-turn-on-2fa-or-lose-access)
 - [China-Backed Winnti APT Siphons Reams of US Trade Secrets in Sprawling Cyber-Espionage Attack](https://www.darkreading.com/attacks-breaches/china-winnti-apt-trade-secrets-us)
 - [Microsoft Releases Defender for SMBs](https://www.darkreading.com/analytics/microsoft-releases-defender-for-smbs)
-- [Q&amp;A: How China Is Exporting Tech-Based Authoritarianism Across the World](https://www.darkreading.com/edge-articles/q-a-how-china-is-exporting-tech-based-authoritarianism-across-the-world)
-- [New Ransomware Variant Linked to North Korean Cyber Army](https://www.darkreading.com/threat-intelligence/new-ransomware-variant-linked-to-north-korean-cyber-army)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
