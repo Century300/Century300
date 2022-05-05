@@ -72,9 +72,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
 - [FBI: Bank Losses From BEC Attacks Top $43B](https://www.darkreading.com/attacks-breaches/fbi-bank-losses-bec-attacks-43b)
 - [Magnet Forensics Acquires Cybersecurity Software Firm Comae Technologies](https://www.darkreading.com/cloud/magnet-forensics-acquires-cybersecurity-software-firm-comae-technologies)
-- [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
 - [Cisco Announces Cloud Controls Framework Is Now Available to Public](https://www.darkreading.com/cloud/cisco-announces-cloud-controls-framework)
 - [Multichannel Phishing Concerns Cybersecurity Leaders in 2022](https://www.darkreading.com/cloud/multichannel-phishing-concerns-cybersecurity-leaders-in-2022)
 - [1,000+ Attacks in 2 Years: How the SideWinder APT Sheds Its Skin](https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin)
