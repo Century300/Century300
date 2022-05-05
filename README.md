@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NIST Issues Guidance for Addressing Software Supply-Chain Risk](https://www.darkreading.com/risk/nist-guidance-software-supply-chain-risk)
+- [A Third of Americans Use Easy-to-Guess Pet Passwords](https://www.darkreading.com/operations/americans-easy-guess-pet-passwords)
 - [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
 - [FBI: Bank Losses From BEC Attacks Top $43B](https://www.darkreading.com/attacks-breaches/fbi-bank-losses-bec-attacks-43b)
 - [Magnet Forensics Acquires Cybersecurity Software Firm Comae Technologies](https://www.darkreading.com/cloud/magnet-forensics-acquires-cybersecurity-software-firm-comae-technologies)
 - [Cisco Announces Cloud Controls Framework Is Now Available to Public](https://www.darkreading.com/cloud/cisco-announces-cloud-controls-framework)
 - [Multichannel Phishing Concerns Cybersecurity Leaders in 2022](https://www.darkreading.com/cloud/multichannel-phishing-concerns-cybersecurity-leaders-in-2022)
 - [1,000+ Attacks in 2 Years: How the SideWinder APT Sheds Its Skin](https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin)
-- [Docker Under Siege: Cybercriminals Compromise Honeypots to Ramp Up Attacks](https://www.darkreading.com/application-security/docker-becomes-target-tool-for-attackers)
-- [Why Security Matters Even More in Online Gaming](https://www.darkreading.com/attacks-breaches/why-security-matters-even-more-in-online-gaming)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
