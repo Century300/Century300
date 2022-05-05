@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [1,000+ Attacks in 2 Years: How the SideWinder APT Sheds Its Skin](https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin)
 - [Docker Under Siege: Cybercriminals Compromise Honeypots to Ramp Up Attacks](https://www.darkreading.com/application-security/docker-becomes-target-tool-for-attackers)
 - [Why Security Matters Even More in Online Gaming](https://www.darkreading.com/attacks-breaches/why-security-matters-even-more-in-online-gaming)
 - [GitHub to Developers: Turn on 2FA or Lose Access](https://www.darkreading.com/dr-tech/github-to-developers-turn-on-2fa-or-lose-access)
@@ -79,7 +80,6 @@
 - [Microsoft Releases Defender for SMBs](https://www.darkreading.com/analytics/microsoft-releases-defender-for-smbs)
 - [Q&amp;A: How China Is Exporting Tech-Based Authoritarianism Across the World](https://www.darkreading.com/edge-articles/q-a-how-china-is-exporting-tech-based-authoritarianism-across-the-world)
 - [New Ransomware Variant Linked to North Korean Cyber Army](https://www.darkreading.com/threat-intelligence/new-ransomware-variant-linked-to-north-korean-cyber-army)
-- [Security Stuff Happens: What Will the Public Hear When You Say You&#39;ve Been Breached?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-will-the-public-hear-when-you-say-you-ve-been-breached-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
