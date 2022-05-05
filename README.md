@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Security Matters Even More in Online Gaming](https://www.darkreading.com/attacks-breaches/why-security-matters-even-more-in-online-gaming)
 - [GitHub to Developers: Turn on 2FA or Lose Access](https://www.darkreading.com/dr-tech/github-to-developers-turn-on-2fa-or-lose-access)
 - [China-Backed Winnti APT Siphons Reams of US Trade Secrets in Sprawling Cyber-Espionage Attack](https://www.darkreading.com/attacks-breaches/china-winnti-apt-trade-secrets-us)
 - [Microsoft Releases Defender for SMBs](https://www.darkreading.com/analytics/microsoft-releases-defender-for-smbs)
@@ -79,7 +80,6 @@
 - [New Ransomware Variant Linked to North Korean Cyber Army](https://www.darkreading.com/threat-intelligence/new-ransomware-variant-linked-to-north-korean-cyber-army)
 - [Security Stuff Happens: What Will the Public Hear When You Say You&#39;ve Been Breached?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-what-will-the-public-hear-when-you-say-you-ve-been-breached-)
 - [AI for Cybersecurity Shimmers With Promise, but Challenges Abound](https://www.darkreading.com/analytics/ai-cybersecurity-promise-challenges)
-- [What Star Wars Teaches Us About Threats](https://www.darkreading.com/vulnerabilities-threats/what-stars-wars-teaches-us-about-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
