@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [GitHub to Developers: Turn on 2FA, or Lose Access](https://www.darkreading.com/dr-tech/github-to-developers-turn-on-2fa-or-lose-access)
+- [GitHub to Developers: Turn on 2FA or Lose Access](https://www.darkreading.com/dr-tech/github-to-developers-turn-on-2fa-or-lose-access)
 - [China-Backed Winnti APT Siphons Reams of US Trade Secrets in Sprawling Cyber-Espionage Attack](https://www.darkreading.com/attacks-breaches/china-winnti-apt-trade-secrets-us)
 - [Microsoft Releases Defender for SMBs](https://www.darkreading.com/analytics/microsoft-releases-defender-for-smbs)
 - [Q&amp;A: How China Is Exporting Tech-Based Authoritarianism Across the World](https://www.darkreading.com/edge-articles/q-a-how-china-is-exporting-tech-based-authoritarianism-across-the-world)
