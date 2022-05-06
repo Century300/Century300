@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AT&amp;T Expands Access to Advanced Secure Edge and Remote Workforce Capabilities](https://www.darkreading.com/cloud/at-t-expands-access-to-advanced-secure-edge-and-remote-workforce-capabilities)
 - [Passwords: Do Actions Speak Louder Than Words?](https://www.darkreading.com/edge-threat-monitor/passwords-actions-speak-louder-than-words)
 - [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
 - [Microsoft, Apple, and Google Promise to Expand Passwordless Features](https://www.darkreading.com/emerging-tech/microsoft-apple-and-google-promise-to-expand-passwordless-features)
@@ -79,7 +80,6 @@
 - [NIST Issues Guidance for Addressing Software Supply-Chain Risk](https://www.darkreading.com/risk/nist-guidance-software-supply-chain-risk)
 - [A Third of Americans Use Easy-to-Guess Pet Passwords](https://www.darkreading.com/operations/americans-easy-guess-pet-passwords)
 - [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
-- [FBI: Bank Losses From BEC Attacks Top $43B](https://www.darkreading.com/attacks-breaches/fbi-bank-losses-bec-attacks-43b)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
