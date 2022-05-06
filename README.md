@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ikea Canada Breach Exposes 95K Customer Records](https://www.darkreading.com/attacks-breaches/ikea-canada-breach-95k-customer-records)
+- [What We&#39;ve Learned in the 12 Months Since the Colonial Pipeline Attack](https://www.darkreading.com/edge-articles/what-we-ve-learned-in-the-12-months-since-the-colonial-pipeline-attack)
+- [Scammer Infects His Own Machine with Spyware, Reveals True Identity](https://www.darkreading.com/attacks-breaches/scammer-infects-own-machine-reveals-true-identity)
 - [White House Moves to Shore Up US Post-Quantum Cryptography Posture](https://www.darkreading.com/vulnerabilities-threats/white-house-moves-to-shore-up-cybersecurity-ahead-of-quantum-breakthroughs)
 - [AT&amp;T Expands Access to Advanced Secure Edge and Remote Workforce Capabilities](https://www.darkreading.com/cloud/at-t-expands-access-to-advanced-secure-edge-and-remote-workforce-capabilities)
 - [Passwords: Do Actions Speak Louder Than Words?](https://www.darkreading.com/edge-threat-monitor/passwords-actions-speak-louder-than-words)
 - [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
 - [Microsoft, Apple, and Google Promise to Expand Passwordless Features](https://www.darkreading.com/emerging-tech/microsoft-apple-and-google-promise-to-expand-passwordless-features)
-- [Heroku: Cyberattacker Used Stolen OAuth Tokens to Steal Customer Account Credentials](https://www.darkreading.com/endpoint/heroku-cyberattacker-stolen-oauth-token-customer-account-credentials)
-- [NIST Issues Guidance for Addressing Software Supply-Chain Risk](https://www.darkreading.com/risk/nist-guidance-software-supply-chain-risk)
-- [A Third of Americans Use Easy-to-Guess Pet Passwords](https://www.darkreading.com/operations/americans-easy-guess-pet-passwords)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
