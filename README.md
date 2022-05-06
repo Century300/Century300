@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Post-Quantum Cryptography Set to Replace RSA, AES, ECC](https://www.darkreading.com/tech-trends/post-quantum-cryptography-set-to-replace-rsa-aes-ecc)
 - [Ikea Canada Breach Exposes 95K Customer Records](https://www.darkreading.com/attacks-breaches/ikea-canada-breach-95k-customer-records)
 - [What We&#39;ve Learned in the 12 Months Since the Colonial Pipeline Attack](https://www.darkreading.com/edge-articles/what-we-ve-learned-in-the-12-months-since-the-colonial-pipeline-attack)
 - [Scammer Infects His Own Machine with Spyware, Reveals True Identity](https://www.darkreading.com/attacks-breaches/scammer-infects-own-machine-reveals-true-identity)
@@ -79,7 +80,6 @@
 - [AT&amp;T Expands Access to Advanced Secure Edge and Remote Workforce Capabilities](https://www.darkreading.com/cloud/at-t-expands-access-to-advanced-secure-edge-and-remote-workforce-capabilities)
 - [Passwords: Do Actions Speak Louder Than Words?](https://www.darkreading.com/edge-threat-monitor/passwords-actions-speak-louder-than-words)
 - [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
-- [Microsoft, Apple, and Google Promise to Expand Passwordless Features](https://www.darkreading.com/emerging-tech/microsoft-apple-and-google-promise-to-expand-passwordless-features)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
