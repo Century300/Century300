@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
 - [Microsoft, Apple, and Google Promise to Expand Passwordless Features](https://www.darkreading.com/emerging-tech/microsoft-apple-and-google-promise-to-expand-passwordless-features)
 - [Heroku: Cyberattacker Used Stolen OAuth Tokens to Steal Customer Account Credentials](https://www.darkreading.com/endpoint/heroku-cyberattacker-stolen-oauth-token-customer-account-credentials)
 - [NIST Issues Guidance for Addressing Software Supply-Chain Risk](https://www.darkreading.com/risk/nist-guidance-software-supply-chain-risk)
@@ -79,7 +80,6 @@
 - [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
 - [FBI: Bank Losses From BEC Attacks Top $43B](https://www.darkreading.com/attacks-breaches/fbi-bank-losses-bec-attacks-43b)
 - [Magnet Forensics Acquires Cybersecurity Software Firm Comae Technologies](https://www.darkreading.com/cloud/magnet-forensics-acquires-cybersecurity-software-firm-comae-technologies)
-- [Cisco Announces Cloud Controls Framework Is Now Available to Public](https://www.darkreading.com/cloud/cisco-announces-cloud-controls-framework)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
