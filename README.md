@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Passwords: Do Actions Speak Louder Than Words?](https://www.darkreading.com/edge-threat-monitor/passwords-actions-speak-louder-than-words)
 - [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
 - [Microsoft, Apple, and Google Promise to Expand Passwordless Features](https://www.darkreading.com/emerging-tech/microsoft-apple-and-google-promise-to-expand-passwordless-features)
 - [Heroku: Cyberattacker Used Stolen OAuth Tokens to Steal Customer Account Credentials](https://www.darkreading.com/endpoint/heroku-cyberattacker-stolen-oauth-token-customer-account-credentials)
@@ -79,7 +80,6 @@
 - [A Third of Americans Use Easy-to-Guess Pet Passwords](https://www.darkreading.com/operations/americans-easy-guess-pet-passwords)
 - [Critical Cisco VM-Escape Bug Threatens Host Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-cisco-vm-escape-bug-host-takeover)
 - [FBI: Bank Losses From BEC Attacks Top $43B](https://www.darkreading.com/attacks-breaches/fbi-bank-losses-bec-attacks-43b)
-- [Magnet Forensics Acquires Cybersecurity Software Firm Comae Technologies](https://www.darkreading.com/cloud/magnet-forensics-acquires-cybersecurity-software-firm-comae-technologies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
