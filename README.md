@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Stuff Happens: Where Do You Go From Here?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-where-do-you-go-from-here-)
 - [Post-Quantum Cryptography Set to Replace RSA, ECC](https://www.darkreading.com/tech-trends/post-quantum-cryptography-set-to-replace-rsa-aes-ecc)
 - [Ikea Canada Breach Exposes 95K Customer Records](https://www.darkreading.com/attacks-breaches/ikea-canada-breach-95k-customer-records)
 - [What We&#39;ve Learned in the 12 Months Since the Colonial Pipeline Attack](https://www.darkreading.com/edge-articles/what-we-ve-learned-in-the-12-months-since-the-colonial-pipeline-attack)
@@ -79,7 +80,6 @@
 - [White House Moves to Shore Up US Post-Quantum Cryptography Posture](https://www.darkreading.com/vulnerabilities-threats/white-house-moves-to-shore-up-cybersecurity-ahead-of-quantum-breakthroughs)
 - [AT&amp;T Expands Access to Advanced Secure Edge and Remote Workforce Capabilities](https://www.darkreading.com/cloud/at-t-expands-access-to-advanced-secure-edge-and-remote-workforce-capabilities)
 - [Passwords: Do Actions Speak Louder Than Words?](https://www.darkreading.com/edge-threat-monitor/passwords-actions-speak-louder-than-words)
-- [Colonial Pipeline 1 Year Later: What Has Yet to Change?](https://www.darkreading.com/vulnerabilities-threats/colonial-pipeline-1-year-later-what-has-yet-to-change-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
