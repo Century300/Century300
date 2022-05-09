@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Costa Rica Declares State of Emergency Under Sustained Conti Cyberattacks](https://www.darkreading.com/attacks-breaches/costa-rica-declares-state-of-emergency-under-sustained-conti-cyberattacks)
 - [5 Tips to Protect Your Career Against a Narcissist](https://www.darkreading.com/edge-articles/5-tips-for-protecting-your-career-against-a-narcissist)
 - [NFTs Emerge as the Next Enterprise Attack Vector](https://www.darkreading.com/vulnerabilities-threats/nft-centric-attacks-are-increasing)
 - [Deloitte Launches Expanded Cloud Security Management Platform](https://www.darkreading.com/cloud/deloitte-launches-expanded-cloud-security-management-platform)
@@ -79,7 +80,6 @@
 - [Post-Quantum Cryptography Set to Replace RSA, ECC](https://www.darkreading.com/tech-trends/post-quantum-cryptography-set-to-replace-rsa-aes-ecc)
 - [Ikea Canada Breach Exposes 95K Customer Records](https://www.darkreading.com/attacks-breaches/ikea-canada-breach-95k-customer-records)
 - [What We&#39;ve Learned in the 12 Months Since the Colonial Pipeline Attack](https://www.darkreading.com/edge-articles/what-we-ve-learned-in-the-12-months-since-the-colonial-pipeline-attack)
-- [Scammer Infects His Own Machine With Spyware, Reveals True Identity](https://www.darkreading.com/attacks-breaches/scammer-infects-own-machine-reveals-true-identity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
