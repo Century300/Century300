@@ -72,7 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [How to Check if Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
+- [How to Check If Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
 - [Jocker, Other Fleeceware Surges Back Into Google Play](https://www.darkreading.com/mobile/joker-fleecewear-mobile-trojans-google-play)
 - [Costa Rica Declares State of Emergency Under Sustained Conti Cyberattacks](https://www.darkreading.com/attacks-breaches/costa-rica-declares-state-of-emergency-under-sustained-conti-cyberattacks)
 - [5 Tips to Protect Your Career Against a Narcissist](https://www.darkreading.com/edge-articles/5-tips-for-protecting-your-career-against-a-narcissist)
