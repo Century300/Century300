@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mastering the New CISO Playbook](https://www.darkreading.com/vulnerabilities-threats/mastering-the-new-ciso-playbook)
 - [How to Check If Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
 - [Jocker, Other Fleeceware Surges Back Into Google Play](https://www.darkreading.com/mobile/joker-fleecewear-mobile-trojans-google-play)
 - [Costa Rica Declares State of Emergency Under Sustained Conti Cyberattacks](https://www.darkreading.com/attacks-breaches/costa-rica-declares-state-of-emergency-under-sustained-conti-cyberattacks)
@@ -79,7 +80,6 @@
 - [NFTs Emerge as the Next Enterprise Attack Vector](https://www.darkreading.com/vulnerabilities-threats/nft-centric-attacks-are-increasing)
 - [Deloitte Launches Expanded Cloud Security Management Platform](https://www.darkreading.com/cloud/deloitte-launches-expanded-cloud-security-management-platform)
 - [Security Stuff Happens: Where Do You Go From Here?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-where-do-you-go-from-here-)
-- [Post-Quantum Cryptography Set to Replace RSA, ECC](https://www.darkreading.com/tech-trends/post-quantum-cryptography-set-to-replace-rsa-aes-ecc)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
