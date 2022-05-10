@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Arctic Wolf Launches Arctic Wolf Labs Focused on Security Operations Research and Intelligence Reporting](https://www.darkreading.com/risk/arctic-wolf-launches-arctic-wolf-labs-focused-on-security-operations-research-and-intelligence-reporting)
+- [5-Buck DCRat Malware Foretells a Worrying Cyber Future](https://www.darkreading.com/threat-intelligence/five-buck-malware-worrying-cyber-future)
+- [Onapsis Announces New Offering to Jumpstart Security for SAP Customers](https://www.darkreading.com/risk/onapsis-announces-new-offering-to-jumpstart-security-for-sap-customers)
 - [Mastering the New CISO Playbook](https://www.darkreading.com/vulnerabilities-threats/mastering-the-new-ciso-playbook)
 - [How to Check If Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
-- [Jocker, Other Fleeceware Surges Back Into Google Play](https://www.darkreading.com/mobile/joker-fleecewear-mobile-trojans-google-play)
+- [Joker, Other Fleeceware Surges Back Into Google Play](https://www.darkreading.com/mobile/joker-fleecewear-mobile-trojans-google-play)
 - [Costa Rica Declares State of Emergency Under Sustained Conti Cyberattacks](https://www.darkreading.com/attacks-breaches/costa-rica-declares-state-of-emergency-under-sustained-conti-cyberattacks)
 - [5 Tips to Protect Your Career Against a Narcissist](https://www.darkreading.com/edge-articles/5-tips-for-protecting-your-career-against-a-narcissist)
-- [NFTs Emerge as the Next Enterprise Attack Vector](https://www.darkreading.com/vulnerabilities-threats/nft-centric-attacks-are-increasing)
-- [Deloitte Launches Expanded Cloud Security Management Platform](https://www.darkreading.com/cloud/deloitte-launches-expanded-cloud-security-management-platform)
-- [Security Stuff Happens: Where Do You Go From Here?](https://www.darkreading.com/vulnerabilities-threats/security-stuff-happens-where-do-you-go-from-here-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
