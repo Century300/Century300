@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What to Patch Now: Actively Exploited Windows Zero-Day Threatens Domain Controllers](https://www.darkreading.com/application-security/what-to-patch-now-actively-exploited-zero-day-threatens-domain-controllers)
 - [US Pledges to Help Ukraine Keep the Internet and Lights On](https://www.darkreading.com/risk/us-pledges-to-help-ukraine-keep-the-internet-on)
 - [Lincoln College Set to Close After Crippling Cyberattack](https://www.darkreading.com/attacks-breaches/lincoln-college-set-to-shutter-after-crippling-cyberattack)
 - [Cybercriminals Are Increasingly Exploiting Vulnerabilities in Windows Print Spooler](https://www.darkreading.com/vulnerabilities-threats/cybercriminals-are-increasingly-exploiting-vulnerabilities-in-windows-print-spooler)
@@ -79,7 +80,6 @@
 - [5-Buck DCRat Malware Foretells a Worrying Cyber Future](https://www.darkreading.com/threat-intelligence/five-buck-malware-worrying-cyber-future)
 - [Onapsis Announces New Offering to Jumpstart Security for SAP Customers](https://www.darkreading.com/risk/onapsis-announces-new-offering-to-jumpstart-security-for-sap-customers)
 - [Mastering the New CISO Playbook](https://www.darkreading.com/vulnerabilities-threats/mastering-the-new-ciso-playbook)
-- [How to Check If Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
