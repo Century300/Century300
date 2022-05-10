@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lincoln College Set to Close After Crippling Cyberattack](https://www.darkreading.com/attacks-breaches/lincoln-college-set-to-shutter-after-crippling-cyberattack)
 - [Cybercriminals Are Increasingly Exploiting Vulnerabilities in Windows Print Spooler](https://www.darkreading.com/vulnerabilities-threats/cybercriminals-are-increasingly-exploiting-vulnerabilities-in-windows-print-spooler)
 - [Arctic Wolf Launches Arctic Wolf Labs Focused on Security Operations Research and Intelligence Reporting](https://www.darkreading.com/risk/arctic-wolf-launches-arctic-wolf-labs-focused-on-security-operations-research-and-intelligence-reporting)
 - [5-Buck DCRat Malware Foretells a Worrying Cyber Future](https://www.darkreading.com/threat-intelligence/five-buck-malware-worrying-cyber-future)
@@ -79,7 +80,6 @@
 - [Mastering the New CISO Playbook](https://www.darkreading.com/vulnerabilities-threats/mastering-the-new-ciso-playbook)
 - [How to Check If Your F5 BIG-IP Device Is Vulnerable](https://www.darkreading.com/dr-tech/how-to-check-if-your-f5-big-ip-device-is-vulnerable)
 - [Joker, Other Fleeceware Surges Back Into Google Play](https://www.darkreading.com/mobile/joker-fleecewear-mobile-trojans-google-play)
-- [Costa Rica Declares State of Emergency Under Sustained Conti Cyberattacks](https://www.darkreading.com/attacks-breaches/costa-rica-declares-state-of-emergency-under-sustained-conti-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
