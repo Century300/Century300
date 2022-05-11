@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PlainID Debuts Authorization-as-a-Service Platform](https://www.darkreading.com/cloud/plainid-debuts-authorization-as-a-service-platform)
 - [Threat Actors Are Stealing Data Now to Decrypt When Quantum Computing Comes](https://www.darkreading.com/edge-articles/threat-actors-are-stealing-data-now-to-decrypt-when-quantum-computing-comes)
 - [Ready, IAM, Fire: How Weak IAM Makes You a Target](https://www.darkreading.com/cloud/ready-iam-fire-how-weak-iam-makes-you-a-target)
 - [Microsoft Simplifies Security Patching Process for Exchange Server](https://www.darkreading.com/application-security/microsoft-simplifies-security-patching-process-for-exchange-server)
@@ -79,7 +80,6 @@
 - [Man Sentenced for Stealing from PayPal Accounts in Wire Fraud Scheme](https://www.darkreading.com/risk/man-sentenced-for-stealing-from-paypal-accounts-in-wire-fraud-scheme)
 - [Fraudulent &#39;Bot-driven&#39; College Enrollment up 50%, New Study Finds](https://www.darkreading.com/risk/fraudulent-bot-driven-college-enrollment-up-50-new-study-finds)
 - [NSA Warns Managed Service Providers Are Now Prime Targets for Cyberattacks](https://www.darkreading.com/attacks-breaches/nsa-warns-managed-service-providers-are-now-prime-targets-for-cyberattacks)
-- [Keeper Security Partners with SHI International for New Fully Managed IT Service &lpar;SHI Complete&rpar;](https://www.darkreading.com/application-security/keeper-security-partners-with-shi-international-for-new-fully-managed-it-service-shi-complete-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
