@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Are Stealing Data Now to Decrypt When Quantum Computing Comes](https://www.darkreading.com/edge-articles/threat-actors-are-stealing-data-now-to-decrypt-when-quantum-computing-comes)
+- [Ready, IAM, Fire: How Weak IAM Makes You a Target](https://www.darkreading.com/cloud/ready-iam-fire-how-weak-iam-makes-you-a-target)
 - [Microsoft Simplifies Security Patching Process for Exchange Server](https://www.darkreading.com/application-security/microsoft-simplifies-security-patching-process-for-exchange-server)
 - [Orca Security Unveils Context-Aware Shift Left Security to Identify and Prevent Cloud Application Security Issues Earlier](https://www.darkreading.com/cloud/orca-security-unveils-context-aware-shift-left-security-to-identify-and-prevent-cloud-application-security-issues-earlier)
 - [Man Sentenced for Stealing from PayPal Accounts in Wire Fraud Scheme](https://www.darkreading.com/risk/man-sentenced-for-stealing-from-paypal-accounts-in-wire-fraud-scheme)
 - [Fraudulent &#39;Bot-driven&#39; College Enrollment up 50%, New Study Finds](https://www.darkreading.com/risk/fraudulent-bot-driven-college-enrollment-up-50-new-study-finds)
 - [NSA Warns Managed Service Providers Are Now Prime Targets for Cyberattacks](https://www.darkreading.com/attacks-breaches/nsa-warns-managed-service-providers-are-now-prime-targets-for-cyberattacks)
 - [Keeper Security Partners with SHI International for New Fully Managed IT Service &lpar;SHI Complete&rpar;](https://www.darkreading.com/application-security/keeper-security-partners-with-shi-international-for-new-fully-managed-it-service-shi-complete-)
-- [Top 6 Security Threats Targeting Remote Workers](https://www.darkreading.com/endpoint/top-6-security-threats-targeting-remote-workers)
-- [Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data](https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
