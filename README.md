@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fraudulent &#39;Bot-driven&#39; College Enrollment up 50%, New Study Finds](https://www.darkreading.com/risk/fraudulent-bot-driven-college-enrollment-up-50-new-study-finds)
+- [NSA Warns Managed Service Providers Are Now Prime Targets for Cyberattacks](https://www.darkreading.com/attacks-breaches/nsa-warns-managed-service-providers-are-now-prime-targets-for-cyberattacks)
+- [Keeper Security Partners with SHI International for New Fully Managed IT Service &lpar;SHI Complete&rpar;](https://www.darkreading.com/application-security/keeper-security-partners-with-shi-international-for-new-fully-managed-it-service-shi-complete-)
 - [Top 6 Security Threats Targeting Remote Workers](https://www.darkreading.com/endpoint/top-6-security-threats-targeting-remote-workers)
 - [Concentric AI Raises Series A Funding Led by Ballistic Ventures to Autonomously Secure Business-Critical Data](https://www.darkreading.com/risk/concentric-ai-raises-series-a-funding-led-by-ballistic-ventures-to-autonomously-secure-business-critical-data)
 - [Breaking Down the Strengthening American Cybersecurity Act](https://www.darkreading.com/vulnerabilities-threats/breaking-down-the-strengthening-american-cybersecurity-act)
 - [Quantum Ransomware Strikes Quickly, How to Prepare and Recover](https://www.darkreading.com/attacks-breaches/quantum-ransomware-strikes-quickly-how-to-prepare-and-recover)
 - [Material Security Reaches $1.1 Billion Valuation for ‘Zero Trust’ Security on Microsoft and Google Email](https://www.darkreading.com/endpoint/material-security-reaches-1-1-billion-valuation-for-zero-trust-security-on-microsoft-and-google-email)
-- [SpyCloud Report: Fortune 1000 Employees Pose Elevated Cyber Risk to Companies](https://www.darkreading.com/endpoint/spycloud-report-fortune-1000-employees-pose-elevated-cyber-risk-to-companies)
-- [Cyber-Espionage Attack Drops Post-Exploit Malware Framework on Microsoft Exchange Servers](https://www.darkreading.com/attacks-breaches/threat-actor-deploying-sophisticated-post-exploit-framework-on-exchange-servers)
-- [The Danger of Online Data Brokers](https://www.darkreading.com/risk/the-danger-of-online-data-brokers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
