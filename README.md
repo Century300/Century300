@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Needs Improvement: Scoring Biden&#39;s Cyber Executive Order](https://www.darkreading.com/risk/needs-improvement-scoring-biden-s-cyber-executive-order)
 - [How Can Your Business Defend Itself Against Fraud-as-a-Service?](https://www.darkreading.com/vulnerabilities-threats/how-can-your-business-defend-itself-against-fraud-as-a-service-)
 - [Known macOS Vulnerabilities Led Researcher to Root Out New Flaws](https://www.darkreading.com/endpoint/known-macos-vulnerabilities-led-researcher-to-root-out-new-flaws)
 - [5 Years That Altered the Ransomware Landscape](https://www.darkreading.com/endpoint/five-years-that-changed-the-ransomware-landscape)
@@ -79,7 +80,6 @@
 - [Google Will Use Mobile Devices to Thwart Phishing Attacks](https://www.darkreading.com/dr-tech/google-will-use-mobile-devices-to-thwart-phishing-attacks)
 - [On the Air With Dark Reading News Desk at Black Hat Asia 2022](https://www.darkreading.com/cloud/on-air-with-dark-reading-news-desk-at-black-hat-asia-2022)
 - [PlainID Debuts Authorization-as-a-Service Platform](https://www.darkreading.com/cloud/plainid-debuts-authorization-as-a-service-platform)
-- [Threat Actors Are Stealing Data Now to Decrypt When Quantum Computing Comes](https://www.darkreading.com/edge-articles/threat-actors-are-stealing-data-now-to-decrypt-when-quantum-computing-comes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
