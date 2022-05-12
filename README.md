@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Can Your Business Defend Itself Against Fraud-as-a-Service?](https://www.darkreading.com/vulnerabilities-threats/how-can-your-business-defend-itself-against-fraud-as-a-service-)
+- [Known macOS Vulnerabilities Led Researcher to Root Out New Flaws](https://www.darkreading.com/endpoint/known-macos-vulnerabilities-led-researcher-to-root-out-new-flaws)
 - [5 Years That Altered the Ransomware Landscape](https://www.darkreading.com/endpoint/five-years-that-changed-the-ransomware-landscape)
 - [Nokia Opens Cybersecurity Testing Lab](https://www.darkreading.com/emerging-tech/nokia-opens-cybersecurity-testing-lab)
 - [On Air With Dark Reading News Desk at Black Hat Asia 2022](https://www.darkreading.com/cloud/on-air-with-dark-reading-news-desk-at-black-hat-asia-2022)
 - [PlainID Debuts Authorization-as-a-Service Platform](https://www.darkreading.com/cloud/plainid-debuts-authorization-as-a-service-platform)
 - [Threat Actors Are Stealing Data Now to Decrypt When Quantum Computing Comes](https://www.darkreading.com/edge-articles/threat-actors-are-stealing-data-now-to-decrypt-when-quantum-computing-comes)
 - [Ready, IAM, Fire: How Weak IAM Makes You a Target](https://www.darkreading.com/cloud/ready-iam-fire-how-weak-iam-makes-you-a-target)
-- [Microsoft Simplifies Security Patching Process for Exchange Server](https://www.darkreading.com/application-security/microsoft-simplifies-security-patching-process-for-exchange-server)
-- [Orca Security Unveils Context-Aware Shift Left Security to Identify and Prevent Cloud Application Security Issues Earlier](https://www.darkreading.com/cloud/orca-security-unveils-context-aware-shift-left-security-to-identify-and-prevent-cloud-application-security-issues-earlier)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
