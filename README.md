@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Years That Altered the Ransomware Landscape](https://www.darkreading.com/endpoint/five-years-that-changed-the-ransomware-landscape)
+- [Nokia Opens Cybersecurity Testing Lab](https://www.darkreading.com/emerging-tech/nokia-opens-cybersecurity-testing-lab)
 - [On Air With Dark Reading News Desk at Black Hat Asia 2022](https://www.darkreading.com/cloud/on-air-with-dark-reading-news-desk-at-black-hat-asia-2022)
 - [PlainID Debuts Authorization-as-a-Service Platform](https://www.darkreading.com/cloud/plainid-debuts-authorization-as-a-service-platform)
 - [Threat Actors Are Stealing Data Now to Decrypt When Quantum Computing Comes](https://www.darkreading.com/edge-articles/threat-actors-are-stealing-data-now-to-decrypt-when-quantum-computing-comes)
 - [Ready, IAM, Fire: How Weak IAM Makes You a Target](https://www.darkreading.com/cloud/ready-iam-fire-how-weak-iam-makes-you-a-target)
 - [Microsoft Simplifies Security Patching Process for Exchange Server](https://www.darkreading.com/application-security/microsoft-simplifies-security-patching-process-for-exchange-server)
 - [Orca Security Unveils Context-Aware Shift Left Security to Identify and Prevent Cloud Application Security Issues Earlier](https://www.darkreading.com/cloud/orca-security-unveils-context-aware-shift-left-security-to-identify-and-prevent-cloud-application-security-issues-earlier)
-- [Man Sentenced for Stealing from PayPal Accounts in Wire Fraud Scheme](https://www.darkreading.com/risk/man-sentenced-for-stealing-from-paypal-accounts-in-wire-fraud-scheme)
-- [Fraudulent &#39;Bot-driven&#39; College Enrollment up 50%, New Study Finds](https://www.darkreading.com/risk/fraudulent-bot-driven-college-enrollment-up-50-new-study-finds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
