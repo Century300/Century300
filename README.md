@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Transforming SQL Queries Bypasses WAF Security](https://www.darkreading.com/cloud/transforming-sql-queries-bypasses-waf-security)
 - [Black Hat Asia: Firmware Supply-Chain Woes Plague Device Security](https://www.darkreading.com/risk/black-hat-asia-firmware-supply-chain-woes-plague-device-security)
 - [3 Predictors of Cybersecurity Startup Success](https://www.darkreading.com/edge-articles/3-predictors-of-cybersecurity-startup-success)
 - [Egnyte Enhances Program for Managed Service Providers](https://www.darkreading.com/cloud/egnyte-enhances-program-for-managed-service-providers)
@@ -79,7 +80,6 @@
 - [Cloud Firm Appian Awarded $2B in Trade Secret Cyber-Theft Lawsuit](https://www.darkreading.com/vulnerabilities-threats/cloud-firm-appian-awarded-2b-in-trade-secret-cybertheft-lawsuit)
 - [Needs Improvement: Scoring Biden&#39;s Cyber Executive Order](https://www.darkreading.com/risk/needs-improvement-scoring-biden-s-cyber-executive-order)
 - [How Can Your Business Defend Itself Against Fraud-as-a-Service?](https://www.darkreading.com/vulnerabilities-threats/how-can-your-business-defend-itself-against-fraud-as-a-service-)
-- [Known macOS Vulnerabilities Led Researcher to Root Out New Flaws](https://www.darkreading.com/endpoint/known-macos-vulnerabilities-led-researcher-to-root-out-new-flaws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
