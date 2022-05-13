@@ -73,7 +73,7 @@
 
 <!-- DARKREADING:START -->
 - [Transforming SQL Queries Bypasses WAF Security](https://www.darkreading.com/cloud/transforming-sql-queries-bypasses-waf-security)
-- [Black Hat Asia: Firmware Supply-Chain Woes Plague Device Security](https://www.darkreading.com/risk/black-hat-asia-firmware-supply-chain-woes-plague-device-security)
+- [Black Hat Asia: Firmware Supply Chain Woes Plague Device Security](https://www.darkreading.com/risk/black-hat-asia-firmware-supply-chain-woes-plague-device-security)
 - [3 Predictors of Cybersecurity Startup Success](https://www.darkreading.com/edge-articles/3-predictors-of-cybersecurity-startup-success)
 - [Egnyte Enhances Program for Managed Service Providers](https://www.darkreading.com/cloud/egnyte-enhances-program-for-managed-service-providers)
 - [StackHawk Raises $20.7 Million in Series B Funding for Developer-First Application and API Security Testing](https://www.darkreading.com/application-security/stackhawk-raises-20-7-million-in-series-b-funding-for-developer-first-application-and-api-security-testing)
