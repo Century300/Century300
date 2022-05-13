@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Agrees to International Electronic Cybercrime Evidence Swap](https://www.darkreading.com/threat-intelligence/us-agrees-to-international-electronic-cybercrime-evidence)
+- [CISO Shares Top Strategies to Communicate Security&#39;s Value to the Biz](https://www.darkreading.com/operations/black-hat-asia-top-strategies-communicate-security-value-biz)
+- [Black Hat Asia: Democracy&#39;s Survival Depends on Taming Technology](https://www.darkreading.com/risk/black-hat-asia-democracy-survival-taming-technology)
 - [Linux, OpenSSF Champion Plan to Improve Open Source Security](https://www.darkreading.com/application-security/linux-openssf-champion-10-point-plan-to-improve-open-source-security)
 - [Log4Shell Exploit Threatens Enterprise Data Lakes, AI Poisoning](https://www.darkreading.com/cloud/log4shell-exploit-data-lake-ai-poisoning)
 - [Data Transformation: 3 Sessions to Attend at RSA 2022](https://www.darkreading.com/cloud/data-transformation-sessions-to-track-at-rsa-2022)
 - [How to Avoid Falling Victim to PayOrGrief&#39;s Next Rebrand](https://www.darkreading.com/dr-tech/how-to-avoid-falling-victim-to-payorgrief-s-next-rebrand)
 - [Transforming SQL Queries Bypasses WAF Security](https://www.darkreading.com/cloud/transforming-sql-queries-bypasses-waf-security)
-- [Black Hat Asia: Firmware Supply Chain Woes Plague Device Security](https://www.darkreading.com/risk/black-hat-asia-firmware-supply-chain-woes-plague-device-security)
-- [3 Predictors of Cybersecurity Startup Success](https://www.darkreading.com/edge-articles/3-predictors-of-cybersecurity-startup-success)
-- [Egnyte Enhances Program for Managed Service Providers](https://www.darkreading.com/cloud/egnyte-enhances-program-for-managed-service-providers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
