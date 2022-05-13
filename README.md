@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4Shell Exploit Threatens Enterprise Data Lakes, AI Poisoning](https://www.darkreading.com/cloud/log4shell-exploit-data-lake-ai-poisoning)
 - [Data Transformation: 3 Sessions to Attend at RSA 2022](https://www.darkreading.com/cloud/data-transformation-sessions-to-track-at-rsa-2022)
 - [How to Avoid Falling Victim to PayOrGrief&#39;s Next Rebrand](https://www.darkreading.com/dr-tech/how-to-avoid-falling-victim-to-payorgrief-s-next-rebrand)
 - [Transforming SQL Queries Bypasses WAF Security](https://www.darkreading.com/cloud/transforming-sql-queries-bypasses-waf-security)
@@ -79,7 +80,6 @@
 - [3 Predictors of Cybersecurity Startup Success](https://www.darkreading.com/edge-articles/3-predictors-of-cybersecurity-startup-success)
 - [Egnyte Enhances Program for Managed Service Providers](https://www.darkreading.com/cloud/egnyte-enhances-program-for-managed-service-providers)
 - [StackHawk Raises $20.7 Million in Series B Funding for Developer-First Application and API Security Testing](https://www.darkreading.com/application-security/stackhawk-raises-20-7-million-in-series-b-funding-for-developer-first-application-and-api-security-testing)
-- [Cloud Firm Appian Awarded $2B in Trade Secret Cyber-Theft Lawsuit](https://www.darkreading.com/vulnerabilities-threats/cloud-firm-appian-awarded-2b-in-trade-secret-cybertheft-lawsuit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
