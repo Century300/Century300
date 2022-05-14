@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Turn a Coke Can Into an Eavesdropping Device](https://www.darkreading.com/iot/coke-can-eavesdropping-device)
 - [US Agrees to International Electronic Cybercrime Evidence Swap](https://www.darkreading.com/threat-intelligence/us-agrees-to-international-electronic-cybercrime-evidence)
 - [CISO Shares Top Strategies to Communicate Security&#39;s Value to the Biz](https://www.darkreading.com/operations/black-hat-asia-top-strategies-communicate-security-value-biz)
 - [Black Hat Asia: Democracy&#39;s Survival Depends on Taming Technology](https://www.darkreading.com/risk/black-hat-asia-democracy-survival-taming-technology)
@@ -79,7 +80,6 @@
 - [Log4Shell Exploit Threatens Enterprise Data Lakes, AI Poisoning](https://www.darkreading.com/cloud/log4shell-exploit-data-lake-ai-poisoning)
 - [Data Transformation: 3 Sessions to Attend at RSA 2022](https://www.darkreading.com/cloud/data-transformation-sessions-to-track-at-rsa-2022)
 - [How to Avoid Falling Victim to PayOrGrief&#39;s Next Rebrand](https://www.darkreading.com/dr-tech/how-to-avoid-falling-victim-to-payorgrief-s-next-rebrand)
-- [Transforming SQL Queries Bypasses WAF Security](https://www.darkreading.com/cloud/transforming-sql-queries-bypasses-waf-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
