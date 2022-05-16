@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Knives Out](https://www.darkreading.com/risk/name-that-toon-knives-out)
+- [Critical Zyxel Firewall Bug Under Active Attack After PoC Exploit Debut](https://www.darkreading.com/risk/zyxel-firewalls-active-attack-poc-exploit-debut)
 - [US Cyber Director: Forging a Cybersecurity Social Contract Is Not Optional](https://www.darkreading.com/attacks-breaches/us-cyber-director-forging-a-cybersecurity-social-contract-is-not-optional)
 - [Me, My Digital Self, and I: Why Identity Is the Foundation of a Decentralized Future](https://www.darkreading.com/endpoint/me-my-digital-self-and-i-why-identity-is-the-foundation-of-a-decentralized-future)
 - [How to Turn a Coke Can Into an Eavesdropping Device](https://www.darkreading.com/iot/coke-can-eavesdropping-device)
 - [US Agrees to International Electronic Cybercrime Evidence Swap](https://www.darkreading.com/threat-intelligence/us-agrees-to-international-electronic-cybercrime-evidence)
 - [CISO Shares Top Strategies to Communicate Security&#39;s Value to the Biz](https://www.darkreading.com/operations/black-hat-asia-top-strategies-communicate-security-value-biz)
 - [Black Hat Asia: Democracy&#39;s Survival Depends on Taming Technology](https://www.darkreading.com/risk/black-hat-asia-democracy-survival-taming-technology)
-- [Linux, OpenSSF Champion Plan to Improve Open Source Security](https://www.darkreading.com/application-security/linux-openssf-champion-10-point-plan-to-improve-open-source-security)
-- [Log4Shell Exploit Threatens Enterprise Data Lakes, AI Poisoning](https://www.darkreading.com/cloud/log4shell-exploit-data-lake-ai-poisoning)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
