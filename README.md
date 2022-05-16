@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Open Source Security Gets $150M Boost From Industry Heavy Hitters](https://www.darkreading.com/application-security/open-source-security-150m-funding)
 - [You Can&#39;t Opt Out of Citizen Development](https://www.darkreading.com/edge-articles/you-can-t-opt-out-of-citizen-development)
 - [NSA Cyber Chief Vows &#39;No Backdoors&#39; in Quantum Encryption Standards](https://www.darkreading.com/vulnerabilities-threats/nsa-cyber-chief-vows-no-backdoors-quantum-encryption-standards)
 - [Name That Toon: Knives Out](https://www.darkreading.com/risk/name-that-toon-knives-out)
@@ -79,7 +80,6 @@
 - [US Cyber Director: Forging a Cybersecurity Social Contract Is Not Optional](https://www.darkreading.com/attacks-breaches/us-cyber-director-forging-a-cybersecurity-social-contract-is-not-optional)
 - [Me, My Digital Self, and I: Why Identity Is the Foundation of a Decentralized Future](https://www.darkreading.com/endpoint/me-my-digital-self-and-i-why-identity-is-the-foundation-of-a-decentralized-future)
 - [How to Turn a Coke Can Into an Eavesdropping Device](https://www.darkreading.com/iot/coke-can-eavesdropping-device)
-- [US Agrees to International Electronic Cybercrime Evidence Swap](https://www.darkreading.com/threat-intelligence/us-agrees-to-international-electronic-cybercrime-evidence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
