@@ -72,8 +72,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Cyber Director: Forging a Cybersecurity Social Contract Is Not Optional](https://www.darkreading.com/attacks-breaches/us-cyber-director-forging-a-cybersecurity-social-contract-is-not-optional)
 - [Me, My Digital Self, and I: Why Identity Is the Foundation of a Decentralized Future](https://www.darkreading.com/endpoint/me-my-digital-self-and-i-why-identity-is-the-foundation-of-a-decentralized-future)
-- [US National Cyber Director: Toward a New Cybersecurity Social Contract](https://www.darkreading.com/black-hat/national-cyber-director-cybersecurity-social-contract)
 - [How to Turn a Coke Can Into an Eavesdropping Device](https://www.darkreading.com/iot/coke-can-eavesdropping-device)
 - [US Agrees to International Electronic Cybercrime Evidence Swap](https://www.darkreading.com/threat-intelligence/us-agrees-to-international-electronic-cybercrime-evidence)
 - [CISO Shares Top Strategies to Communicate Security&#39;s Value to the Biz](https://www.darkreading.com/operations/black-hat-asia-top-strategies-communicate-security-value-biz)
