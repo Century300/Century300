@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [TorchLight Expands Cybersecurity Services With MDR Sentinel in Partnership With Microsoft](https://www.darkreading.com/operations/torchlight-expands-cybersecurity-services-with-mdr-sentinel-in-partnership-with-microsoft)
+- [Barracuda Expands Cloud-Native SASE Platform to Protect Hybrid Cloud Deployments](https://www.darkreading.com/cloud/barracuda-expands-cloud-native-sase-platform-to-protect-hybrid-cloud-deployments)
+- [Qualys Adds Custom Assessment and Remediation to Its Cloud Platform](https://www.darkreading.com/cloud/qualys-adds-custom-assessment-and-remediation-to-its-cloud-platform)
+- [YouMail Launches YouMail Protective Services for Carriers and Enterprises](https://www.darkreading.com/endpoint/youmail-launches-youmail-protective-services-for-carriers-and-enterprises)
+- [Ericom’s New ZTEdge Web Application Isolation Addresses Security Concerns Associated With Third-Party Contractor Application Access](https://www.darkreading.com/cloud/ericom-s-new-ztedge-web-application-isolation-addresses-security-concerns-associated-with-third-party-contractor-application-access)
 - [Bitdefender Launches Identity Theft Protection Service for U.S. Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-identity-theft-protection-service-for-u-s-consumers)
 - [How Mobile Networks Have Become a Front in the Battle for Ukraine](https://www.darkreading.com/attacks-breaches/how-mobile-networks-have-become-a-front-in-the-battle-for-ukraine)
 - [RF Technologies Releases Safe Place Staff Protection for Healthcare Settings](https://www.darkreading.com/application-security/rf-technologies-releases-safe-place-staff-protection-for-healthcare-settings)
-- [50% of Orgs Rely on Email to Manage Security](https://www.darkreading.com/tech-trends/50-of-companies-rely-on-email-to-manage-security)
-- [iPhones Open to Attack Even When Off, Researchers Say](https://www.darkreading.com/mobile/iphones-open-to-attack-even-when-off-researchers-say)
-- [Open Source Security Gets $30M Boost From Industry Heavy Hitters](https://www.darkreading.com/application-security/open-source-security-150m-funding)
-- [You Can&#39;t Opt Out of Citizen Development](https://www.darkreading.com/edge-articles/you-can-t-opt-out-of-citizen-development)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
