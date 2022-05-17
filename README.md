@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [TorchLight Expands Cybersecurity Services With MDR Sentinel in Partnership With Microsoft](https://www.darkreading.com/operations/torchlight-expands-cybersecurity-services-with-mdr-sentinel-in-partnership-with-microsoft)
+- [Bitdefender Launches Identity Theft Protection Service for U.S. Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-identity-theft-protection-service-for-u-s-consumers)
+- [How Mobile Networks Have Become a Front in the Battle for Ukraine](https://www.darkreading.com/attacks-breaches/how-mobile-networks-have-become-a-front-in-the-battle-for-ukraine)
 - [RF Technologies Releases Safe Place Staff Protection for Healthcare Settings](https://www.darkreading.com/application-security/rf-technologies-releases-safe-place-staff-protection-for-healthcare-settings)
 - [50% of Orgs Rely on Email to Manage Security](https://www.darkreading.com/tech-trends/50-of-companies-rely-on-email-to-manage-security)
 - [iPhones Open to Attack Even When Off, Researchers Say](https://www.darkreading.com/mobile/iphones-open-to-attack-even-when-off-researchers-say)
 - [Open Source Security Gets $30M Boost From Industry Heavy Hitters](https://www.darkreading.com/application-security/open-source-security-150m-funding)
 - [You Can&#39;t Opt Out of Citizen Development](https://www.darkreading.com/edge-articles/you-can-t-opt-out-of-citizen-development)
-- [NSA Cyber Chief Vows &#39;No Backdoors&#39; in Quantum Encryption Standards](https://www.darkreading.com/vulnerabilities-threats/nsa-cyber-chief-vows-no-backdoors-quantum-encryption-standards)
-- [Name That Toon: Knives Out](https://www.darkreading.com/risk/name-that-toon-knives-out)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
