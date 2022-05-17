@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [TorchLight Expands Cybersecurity Services With MDR Sentinel in Partnership With Microsoft](https://www.darkreading.com/operations/torchlight-expands-cybersecurity-services-with-mdr-sentinel-in-partnership-with-microsoft)
+- [FBI: E-Tailers, Beware Web Injections for Scraping Credit-Card Data, Backdoors](https://www.darkreading.com/attacks-breaches/fbi-e-tailers-beware-web-injections-for-scraping-credit-card-data-backdoors)
+- [New Venture Capital Fund Focuses on Emerging Cybersecurity Tech](https://www.darkreading.com/application-security/venture-capital-fund-emerging-cybersecurity-tech)
 - [&lpar;ISC&rpar;² Unveils 100K in the UK Scheme to Expand the UK Cybersecurity Workforce with 100,000 Free Entry-Level Certification Exams and Education Opportunities](https://www.darkreading.com/careers-and-people/-isc-unveils-100k-in-the-uk-scheme-to-expand-the-uk-cybersecurity-workforce-with-100-000-free-entry-level-certification-exams-and-education-opportunities)
 - [Rubrik Launches Rubrik Security Cloud to Secure Data, Wherever it Lives, Across Enterprise, Cloud, and SaaS](https://www.darkreading.com/cloud/rubrik-launches-rubrik-security-cloud-to-secure-data-wherever-it-lives-across-enterprise-cloud-and-saas)
 - [Widespread Attack on WordPress Sites Targets Tatsu Builder Plug-in](https://www.darkreading.com/application-security/50k-wordpress-sites-risk-takeover)
 - [Training to Beat a Bad Cybersecurity Culture](https://www.darkreading.com/omdia/training-to-beat-a-bad-cybersecurity-culture)
 - [Local Government&#39;s Guide to Minimizing the Risk of a Cyberattack](https://www.darkreading.com/risk/local-government-s-guide-to-minimizing-the-risk-of-a-cyberattack)
-- [Google Cloud Aims to Share Its Vetted Open Source Ecosystem](https://www.darkreading.com/application-security/google-cloud-aims-to-share-its-open-source-ecosystem)
-- [Barracuda Expands Cloud-Native SASE Platform to Protect Hybrid Cloud Deployments](https://www.darkreading.com/cloud/barracuda-expands-cloud-native-sase-platform-to-protect-hybrid-cloud-deployments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
