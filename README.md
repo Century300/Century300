@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [TorchLight Expands Cybersecurity Services With MDR Sentinel in Partnership With Microsoft](https://www.darkreading.com/operations/torchlight-expands-cybersecurity-services-with-mdr-sentinel-in-partnership-with-microsoft)
+- [Widespread Attack on WordPress Sites Targets Tatsu Builder Plug-in](https://www.darkreading.com/application-security/50k-wordpress-sites-risk-takeover)
 - [Training to Beat a Bad Cybersecurity Culture](https://www.darkreading.com/omdia/training-to-beat-a-bad-cybersecurity-culture)
 - [Local Government&#39;s Guide to Minimizing the Risk of a Cyberattack](https://www.darkreading.com/risk/local-government-s-guide-to-minimizing-the-risk-of-a-cyberattack)
 - [Google Cloud Aims to Share Its Vetted Open Source Ecosystem](https://www.darkreading.com/application-security/google-cloud-aims-to-share-its-open-source-ecosystem)
 - [Barracuda Expands Cloud-Native SASE Platform to Protect Hybrid Cloud Deployments](https://www.darkreading.com/cloud/barracuda-expands-cloud-native-sase-platform-to-protect-hybrid-cloud-deployments)
 - [Qualys Adds Custom Assessment and Remediation to Its Cloud Platform](https://www.darkreading.com/cloud/qualys-adds-custom-assessment-and-remediation-to-its-cloud-platform)
 - [YouMail Launches YouMail Protective Services for Carriers and Enterprises](https://www.darkreading.com/endpoint/youmail-launches-youmail-protective-services-for-carriers-and-enterprises)
-- [Ericom’s New ZTEdge Web Application Isolation Addresses Security Concerns Associated With Third-Party Contractor Application Access](https://www.darkreading.com/cloud/ericom-s-new-ztedge-web-application-isolation-addresses-security-concerns-associated-with-third-party-contractor-application-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
