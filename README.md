@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [TorchLight Expands Cybersecurity Services With MDR Sentinel in Partnership With Microsoft](https://www.darkreading.com/operations/torchlight-expands-cybersecurity-services-with-mdr-sentinel-in-partnership-with-microsoft)
+- [Google Cloud Aims to Share Its Vetted Open Source Ecosystem](https://www.darkreading.com/application-security/google-cloud-aims-to-share-its-open-source-ecosystem)
 - [Barracuda Expands Cloud-Native SASE Platform to Protect Hybrid Cloud Deployments](https://www.darkreading.com/cloud/barracuda-expands-cloud-native-sase-platform-to-protect-hybrid-cloud-deployments)
 - [Qualys Adds Custom Assessment and Remediation to Its Cloud Platform](https://www.darkreading.com/cloud/qualys-adds-custom-assessment-and-remediation-to-its-cloud-platform)
 - [YouMail Launches YouMail Protective Services for Carriers and Enterprises](https://www.darkreading.com/endpoint/youmail-launches-youmail-protective-services-for-carriers-and-enterprises)
 - [Ericom’s New ZTEdge Web Application Isolation Addresses Security Concerns Associated With Third-Party Contractor Application Access](https://www.darkreading.com/cloud/ericom-s-new-ztedge-web-application-isolation-addresses-security-concerns-associated-with-third-party-contractor-application-access)
 - [Bitdefender Launches Identity Theft Protection Service for U.S. Consumers](https://www.darkreading.com/endpoint/bitdefender-launches-identity-theft-protection-service-for-u-s-consumers)
 - [How Mobile Networks Have Become a Front in the Battle for Ukraine](https://www.darkreading.com/attacks-breaches/how-mobile-networks-have-become-a-front-in-the-battle-for-ukraine)
-- [RF Technologies Releases Safe Place Staff Protection for Healthcare Settings](https://www.darkreading.com/application-security/rf-technologies-releases-safe-place-staff-protection-for-healthcare-settings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
