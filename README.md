@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lacework Integrates Kubernetes Features to Enhance Security Across Multi-Cloud Environments](https://www.darkreading.com/cloud/lacework-integrates-kubernetes-features-to-enhance-security-across-multi-cloud-environments)
 - [CISA: Unpatched F5 BIG-IP Devices Under Active Attack](https://www.darkreading.com/application-security/cisa-unpatched-f5-big-ip-systems-under-active-attack)
 - [The Industry Must Better Secure Open Source Code From Threat Actors](https://www.darkreading.com/application-security/the-industry-must-better-secure-open-source-code-from-threat-actors)
 - [Microsoft Flags Attack Targeting SQL Servers With Novel Approach](https://www.darkreading.com/attacks-breaches/microsoft-flags-campaign-targeting-sql-servers)
@@ -79,7 +80,6 @@
 - [How Threat Actors Are a Click Away From Becoming Quasi-APTs](https://www.darkreading.com/attacks-breaches/how-threat-actors-are-one-click-away-from-becoming-quasi-apts)
 - [Critical VMware Bug Exploits Continue, as Botnet Operators Jump In](https://www.darkreading.com/application-security/critical-vmware-bug-exploits-continue-as-botnet-operators-jump-in)
 - [FBI: E-Tailers, Beware Web Injections for Scraping Credit-Card Data, Backdoors](https://www.darkreading.com/attacks-breaches/fbi-e-tailers-beware-web-injections-for-scraping-credit-card-data-backdoors)
-- [New Venture Capital Fund Focuses on Emerging Cybersecurity Tech](https://www.darkreading.com/application-security/venture-capital-fund-emerging-cybersecurity-tech)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
