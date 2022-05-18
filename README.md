@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Industry Must Better Secure Open Source Code From Threat Actors](https://www.darkreading.com/application-security/the-industry-must-better-secure-open-source-code-from-threat-actors)
+- [Microsoft Flags Attack Targeting SQL Servers With Novel Approach](https://www.darkreading.com/attacks-breaches/microsoft-flags-campaign-targeting-sql-servers)
+- [2022: The Year Zero Trust Becomes Mainstream](https://www.darkreading.com/risk/2022-the-year-zero-trust-becomes-mainstream)
 - [How Threat Actors Are a Click Away From Becoming Quasi-APTs](https://www.darkreading.com/attacks-breaches/how-threat-actors-are-one-click-away-from-becoming-quasi-apts)
 - [Critical VMware Bug Exploits Continue, as Botnet Operators Jump In](https://www.darkreading.com/application-security/critical-vmware-bug-exploits-continue-as-botnet-operators-jump-in)
 - [FBI: E-Tailers, Beware Web Injections for Scraping Credit-Card Data, Backdoors](https://www.darkreading.com/attacks-breaches/fbi-e-tailers-beware-web-injections-for-scraping-credit-card-data-backdoors)
 - [New Venture Capital Fund Focuses on Emerging Cybersecurity Tech](https://www.darkreading.com/application-security/venture-capital-fund-emerging-cybersecurity-tech)
 - [&lpar;ISC&rpar;² Unveils 100K in the UK Scheme to Expand the UK Cybersecurity Workforce with 100,000 Free Entry-Level Certification Exams and Education Opportunities](https://www.darkreading.com/careers-and-people/-isc-unveils-100k-in-the-uk-scheme-to-expand-the-uk-cybersecurity-workforce-with-100-000-free-entry-level-certification-exams-and-education-opportunities)
-- [Rubrik Launches Rubrik Security Cloud to Secure Data, Wherever it Lives, Across Enterprise, Cloud, and SaaS](https://www.darkreading.com/cloud/rubrik-launches-rubrik-security-cloud-to-secure-data-wherever-it-lives-across-enterprise-cloud-and-saas)
-- [Widespread Attack on WordPress Sites Targets Tatsu Builder Plug-in](https://www.darkreading.com/application-security/50k-wordpress-sites-risk-takeover)
-- [Training to Beat a Bad Cybersecurity Culture](https://www.darkreading.com/omdia/training-to-beat-a-bad-cybersecurity-culture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
