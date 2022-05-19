@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 Scary Tactics Used in Mobile App Attacks](https://www.darkreading.com/application-security/6-scary-tactics-used-in-mobile-app-attacks)
+- [Phishing Attacks for Initial Access Surged 54% in Q1](https://www.darkreading.com/risk/phishing-attacks-for-initial-access-surged-q1)
 - [MITRE Creates Framework for Supply Chain Security](https://www.darkreading.com/application-security/mitre-creates-framework-for-supply-chain-security)
 - [CISA to Federal Agencies: Patch VMware Products Now or Take Them Offline](https://www.darkreading.com/attacks-breaches/cisa-patching-new-vmware-bugs-is-a-full-on-emergency)
 - [How Pwn2Own Made Bug Hunting a Real Sport](https://www.darkreading.com/edge-articles/how-pwn2own-made-bug-hunting-a-real-sport)
 - [Lacework Integrates Kubernetes Features to Enhance Security Across Multi-Cloud Environments](https://www.darkreading.com/cloud/lacework-integrates-kubernetes-features-to-enhance-security-across-multi-cloud-environments)
 - [CISA: Unpatched F5 BIG-IP Devices Under Active Attack](https://www.darkreading.com/application-security/cisa-unpatched-f5-big-ip-systems-under-active-attack)
 - [The Industry Must Better Secure Open Source Code From Threat Actors](https://www.darkreading.com/application-security/the-industry-must-better-secure-open-source-code-from-threat-actors)
-- [Microsoft Flags Attack Targeting SQL Servers With Novel Approach](https://www.darkreading.com/attacks-breaches/microsoft-flags-campaign-targeting-sql-servers)
-- [2022: The Year Zero Trust Becomes Mainstream](https://www.darkreading.com/risk/2022-the-year-zero-trust-becomes-mainstream)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
