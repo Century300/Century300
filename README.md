@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pro-Russian Information Operations Escalate in Ukraine War](https://www.darkreading.com/endpoint/pro-russian-information-operations-escalate-in-ukraine-war)
+- [DoJ Won&#39;t Charge &#39;Good Faith&#39; Security Researchers](https://www.darkreading.com/vulnerabilities-threats/doj-won-t-charge-good-faith-security-researchers)
 - [Majority of Kubernetes API Servers Exposed to the Public Internet](https://www.darkreading.com/application-security/more-than-eight-in-10-kubernetes-api-servers-exposed-to-the-internet)
 - [Dig Exits Stealth With $11M for Cloud Data Detection and Response Solution](https://www.darkreading.com/cloud/dig-exits-stealth-with-11m-for-cloud-data-detection-and-response-solution)
 - [6 Scary Tactics Used in Mobile App Attacks](https://www.darkreading.com/application-security/6-scary-tactics-used-in-mobile-app-attacks)
 - [Phishing Attacks for Initial Access Surged 54% in Q1](https://www.darkreading.com/risk/phishing-attacks-for-initial-access-surged-q1)
 - [MITRE Creates Framework for Supply Chain Security](https://www.darkreading.com/application-security/mitre-creates-framework-for-supply-chain-security)
 - [CISA to Federal Agencies: Patch VMware Products Now or Take Them Offline](https://www.darkreading.com/attacks-breaches/cisa-patching-new-vmware-bugs-is-a-full-on-emergency)
-- [How Pwn2Own Made Bug Hunting a Real Sport](https://www.darkreading.com/edge-articles/how-pwn2own-made-bug-hunting-a-real-sport)
-- [Lacework Integrates Kubernetes Features to Enhance Security Across Multi-Cloud Environments](https://www.darkreading.com/cloud/lacework-integrates-kubernetes-features-to-enhance-security-across-multi-cloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
