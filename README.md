@@ -73,7 +73,7 @@
 
 <!-- DARKREADING:START -->
 - [MITRE Creates Framework for Supply Chain Security](https://www.darkreading.com/application-security/mitre-creates-framework-for-supply-chain-security)
-- [CISA to Federal Agencies: Patch VMWare Products Now or Take Them Offline](https://www.darkreading.com/attacks-breaches/cisa-patching-new-vmware-bugs-is-a-full-on-emergency)
+- [CISA to Federal Agencies: Patch VMware Products Now or Take Them Offline](https://www.darkreading.com/attacks-breaches/cisa-patching-new-vmware-bugs-is-a-full-on-emergency)
 - [How Pwn2Own Made Bug Hunting a Real Sport](https://www.darkreading.com/edge-articles/how-pwn2own-made-bug-hunting-a-real-sport)
 - [Lacework Integrates Kubernetes Features to Enhance Security Across Multi-Cloud Environments](https://www.darkreading.com/cloud/lacework-integrates-kubernetes-features-to-enhance-security-across-multi-cloud-environments)
 - [CISA: Unpatched F5 BIG-IP Devices Under Active Attack](https://www.darkreading.com/application-security/cisa-unpatched-f5-big-ip-systems-under-active-attack)
