@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Open Source Project Brings Consistent Identity Access to Multicloud](https://www.darkreading.com/dr-tech/new-open-source-project-brings-consistent-identity-access-to-multicloud)
 - [More Than 1,000 Cybersecurity Career Pursuers Complete the &lpar;ISC&rpar;² Entry-Level Cybersecurity Certification Pilot Exam](https://www.darkreading.com/operations/more-than-1-000-cybersecurity-career-pursuers-complete-the-isc-entry-level-cybersecurity-certification-pilot-exam)
 - [Deadbolt Ransomware Targeting QNAP NAS Devices](https://www.darkreading.com/cloud/deadbolt-ransomware-targeting-qnap-nas-devices)
 - [Pro-Russian Information Operations Escalate in Ukraine War](https://www.darkreading.com/endpoint/pro-russian-information-operations-escalate-in-ukraine-war)
@@ -79,7 +80,6 @@
 - [Majority of Kubernetes API Servers Exposed to the Public Internet](https://www.darkreading.com/application-security/more-than-eight-in-10-kubernetes-api-servers-exposed-to-the-internet)
 - [Dig Exits Stealth With $11M for Cloud Data Detection and Response Solution](https://www.darkreading.com/cloud/dig-exits-stealth-with-11m-for-cloud-data-detection-and-response-solution)
 - [6 Scary Tactics Used in Mobile App Attacks](https://www.darkreading.com/application-security/6-scary-tactics-used-in-mobile-app-attacks)
-- [Phishing Attacks for Initial Access Surged 54% in Q1](https://www.darkreading.com/risk/phishing-attacks-for-initial-access-surged-q1)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
