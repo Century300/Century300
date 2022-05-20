@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Quantum Key Distribution for a Post-Quantum World](https://www.darkreading.com/edge-articles/quantum-key-distribution-for-a-post-quantum-world)
 - [Microsoft Rushes a Fix After May Patch Tuesday Breaks Authentication](https://www.darkreading.com/vulnerabilities-threats/microsoft-fix-patch-tuesday-breaks-authentication)
 - [Authentication Is Static, Yet Attackers Are Dynamic: Filling the Critical Gap](https://www.darkreading.com/endpoint/authentication-is-static-yet-attackers-are-dynamic-filling-the-critical-gap)
 - [New Open Source Project Brings Consistent Identity Access to Multicloud](https://www.darkreading.com/dr-tech/new-open-source-project-brings-consistent-identity-access-to-multicloud)
@@ -79,7 +80,6 @@
 - [Deadbolt Ransomware Targeting QNAP NAS Devices](https://www.darkreading.com/cloud/deadbolt-ransomware-targeting-qnap-nas-devices)
 - [Pro-Russian Information Operations Escalate in Ukraine War](https://www.darkreading.com/endpoint/pro-russian-information-operations-escalate-in-ukraine-war)
 - [DoJ Won&#39;t Charge &#39;Good Faith&#39; Security Researchers](https://www.darkreading.com/vulnerabilities-threats/doj-won-t-charge-good-faith-security-researchers)
-- [Majority of Kubernetes API Servers Exposed to the Public Internet](https://www.darkreading.com/application-security/more-than-eight-in-10-kubernetes-api-servers-exposed-to-the-internet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
