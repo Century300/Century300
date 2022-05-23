@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Trojan XorDdos Attacks Surge, Targeting Cloud, IoT](https://www.darkreading.com/cloud/linux-trojan-xorddos-attacks-cloud-iot)
 - [Why the Employee Experience Is Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/why-the-employee-experience-is-cyber-resilience)
 - [Valeo Networks Acquires Next I.T.](https://www.darkreading.com/operations/valeo-networks-acquires-next-i-t-)
 - [Kingston Digital Releases Touch-Screen Hardware-Encrypted External SSD for Data Protection](https://www.darkreading.com/attacks-breaches/kingston-digital-releases-touch-screen-hardware-encrypted-external-ssd-for-data-protection)
@@ -79,7 +80,6 @@
 - [Chatbot Army Deployed in Latest DHL Shipping Phish](https://www.darkreading.com/vulnerabilities-threats/chatbot-army-deployed-dhl-shipping-phish)
 - [Partial Patching Still Provides Strong Protection Against APTs](https://www.darkreading.com/application-security/reactive-patching-is-not-significantly-riskier-than-planned-updates-study-shows)
 - [Quantum Key Distribution for a Post-Quantum World](https://www.darkreading.com/edge-articles/quantum-key-distribution-for-a-post-quantum-world)
-- [Microsoft Rushes a Fix After May Patch Tuesday Breaks Authentication](https://www.darkreading.com/vulnerabilities-threats/microsoft-fix-patch-tuesday-breaks-authentication)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
