@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Connecticut Privacy Law Makes Path to Compliance More Complex](https://www.darkreading.com/edge/new-connecticut-privacy-law-adds-to-the-complex-compliance-maze)
 - [XM Cyber Adds New Security Capability for Microsoft Active Directory](https://www.darkreading.com/attacks-breaches/xm-cyber-adds-new-security-capability-for-microsoft-active-directory)
 - [Strong Password Policy Isn&#39;t Enough, Study Shows](https://www.darkreading.com/risk/tricky-password-policy-isn-t-enough-study-shows)
 - [Netskope Expands Data Protection Capabilities to Endpoint Devices and Private Apps](https://www.darkreading.com/endpoint/netskope-expands-data-protection-capabilities-to-endpoint-devices-and-private-apps)
@@ -79,7 +80,6 @@
 - [Crypto Hacks Aren’t a Niche Concern; They Impact Wider Society](https://www.darkreading.com/attacks-breaches/crypto-hacks-aren-t-a-niche-concern-they-impact-wider-society)
 - [Multiple Governments Buying Android Zero-Days for Spying: Google](https://www.darkreading.com/attacks-breaches/google-android-0-days-multiple-governments-spying)
 - [QuSecure Carves Out Space in Quantum Cryptography With Its Vision of a Post-RSA World](https://www.darkreading.com/emerging-tech/qusecure-launches-vision-for-post-rsa-world)
-- [Malicious Python Repository Package Drops Cobalt Strike on Windows, macOS &amp; Linux Systems](https://www.darkreading.com/application-security/malicious-package-python-repository-cobalt-strike-windows-macos-linux)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
