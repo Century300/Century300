@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [XM Cyber Adds New Security Capability for Microsoft Active Directory](https://www.darkreading.com/attacks-breaches/xm-cyber-adds-new-security-capability-for-microsoft-active-directory)
+- [Strong Password Policy Isn&#39;t Enough, Study Shows](https://www.darkreading.com/risk/tricky-password-policy-isn-t-enough-study-shows)
 - [Netskope Expands Data Protection Capabilities to Endpoint Devices and Private Apps](https://www.darkreading.com/endpoint/netskope-expands-data-protection-capabilities-to-endpoint-devices-and-private-apps)
 - [Nisos Announces $15 Million in Series B Funding Round](https://www.darkreading.com/threat-intelligence/nisos-announces-15-million-in-series-b-funding-round)
 - [Crypto Hacks Aren’t a Niche Concern; They Impact Wider Society](https://www.darkreading.com/attacks-breaches/crypto-hacks-aren-t-a-niche-concern-they-impact-wider-society)
 - [Multiple Governments Buying Android Zero-Days for Spying: Google](https://www.darkreading.com/attacks-breaches/google-android-0-days-multiple-governments-spying)
 - [QuSecure Carves Out Space in Quantum Cryptography With Its Vision of a Post-RSA World](https://www.darkreading.com/emerging-tech/qusecure-launches-vision-for-post-rsa-world)
 - [Malicious Python Repository Package Drops Cobalt Strike on Windows, macOS &amp; Linux Systems](https://www.darkreading.com/application-security/malicious-package-python-repository-cobalt-strike-windows-macos-linux)
-- [Linux Trojan XorDdos Attacks Surge, Targeting Cloud, IoT](https://www.darkreading.com/cloud/linux-trojan-xorddos-attacks-cloud-iot)
-- [Why the Employee Experience Is Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/why-the-employee-experience-is-cyber-resilience)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
