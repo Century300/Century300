@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [Multiple Governments Buying Android Zero-Days for Spying: Google](https://www.darkreading.com/attacks-breaches/google-android-0-days-multiple-governments-spying)
+- [QuSecure Carves Out Space in Quantum Cryptography With Its Vision of a Post-RSA World](https://www.darkreading.com/emerging-tech/qusecure-launches-vision-for-post-rsa-world)
 - [Malicious Python Repository Package Drops Cobalt Strike on Windows, macOS &amp; Linux Systems](https://www.darkreading.com/application-security/malicious-package-python-repository-cobalt-strike-windows-macos-linux)
 - [Linux Trojan XorDdos Attacks Surge, Targeting Cloud, IoT](https://www.darkreading.com/cloud/linux-trojan-xorddos-attacks-cloud-iot)
 - [Why the Employee Experience Is Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/why-the-employee-experience-is-cyber-resilience)
 - [Valeo Networks Acquires Next I.T.](https://www.darkreading.com/operations/valeo-networks-acquires-next-i-t-)
 - [Kingston Digital Releases Touch-Screen Hardware-Encrypted External SSD for Data Protection](https://www.darkreading.com/attacks-breaches/kingston-digital-releases-touch-screen-hardware-encrypted-external-ssd-for-data-protection)
 - [After the Okta Breach, Diversify Your Sources of Truth](https://www.darkreading.com/attacks-breaches/after-the-okta-breach-diversify-your-sources-of-truth)
-- [Chatbot Army Deployed in Latest DHL Shipping Phish](https://www.darkreading.com/vulnerabilities-threats/chatbot-army-deployed-dhl-shipping-phish)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
