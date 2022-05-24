@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;There&#39;s No Ceiling&#39;: Ransomware&#39;s Alarming Growth Signals a New Era, Verizon DBIR Finds](https://www.darkreading.com/attacks-breaches/ransomware-alarming-growth-verizon-dbir)
 - [Microsoft Elevation-of-Privilege Vulnerabilities Spiked Again in 2021](https://www.darkreading.com/application-security/number-of-elevation-of-privilege-bugs-in-microsoft-products-increased-again-in-2021)
 - [New Attack Shows Weaponized PDF Files Remain a Threat](https://www.darkreading.com/attacks-breaches/weaponized-pdf-files-remain-a-threat-research-shows)
 - [DeFi Is Getting Pummeled by Cybercriminals](https://www.darkreading.com/attacks-breaches/defi-pummeled-by-cybercriminals)
@@ -79,7 +80,6 @@
 - [XM Cyber Adds New Security Capability for Microsoft Active Directory](https://www.darkreading.com/attacks-breaches/xm-cyber-adds-new-security-capability-for-microsoft-active-directory)
 - [Strong Password Policy Isn&#39;t Enough, Study Shows](https://www.darkreading.com/risk/tricky-password-policy-isn-t-enough-study-shows)
 - [Netskope Expands Data Protection Capabilities to Endpoint Devices and Private Apps](https://www.darkreading.com/endpoint/netskope-expands-data-protection-capabilities-to-endpoint-devices-and-private-apps)
-- [Nisos Announces $15 Million in Series B Funding Round](https://www.darkreading.com/threat-intelligence/nisos-announces-15-million-in-series-b-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
