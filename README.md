@@ -73,13 +73,13 @@
 
 <!-- DARKREADING:START -->
 - [Industry 4.0 Points Up Need for Improved Security for Manufacturers](https://www.darkreading.com/attacks-breaches/industry-4-0-points-up-need-for-improved-security-for-manufacturers)
+- [DDoS Extortion Attack Flagged as Possible REvil Resurgence](https://www.darkreading.com/attacks-breaches/ddos-extortion-attack-revil-resurgence)
 - [DBIR Makes a Case for Passwordless](https://www.darkreading.com/tech-trends/dbir-case-for-passwordless)
 - [&#39;There&#39;s No Ceiling&#39;: Ransomware&#39;s Alarming Growth Signals a New Era, Verizon DBIR Finds](https://www.darkreading.com/attacks-breaches/ransomware-alarming-growth-verizon-dbir)
 - [Microsoft Elevation-of-Privilege Vulnerabilities Spiked Again in 2021](https://www.darkreading.com/application-security/number-of-elevation-of-privilege-bugs-in-microsoft-products-increased-again-in-2021)
 - [New Attack Shows Weaponized PDF Files Remain a Threat](https://www.darkreading.com/attacks-breaches/weaponized-pdf-files-remain-a-threat-research-shows)
 - [DeFi Is Getting Pummeled by Cybercriminals](https://www.darkreading.com/attacks-breaches/defi-pummeled-by-cybercriminals)
 - [New Connecticut Privacy Law Makes Path to Compliance More Complex](https://www.darkreading.com/edge/new-connecticut-privacy-law-adds-to-the-complex-compliance-maze)
-- [XM Cyber Adds New Security Capability for Microsoft Active Directory](https://www.darkreading.com/attacks-breaches/xm-cyber-adds-new-security-capability-for-microsoft-active-directory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
