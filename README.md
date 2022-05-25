@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Forescout Launches Forescout Frontline to Help Organizations Tackle Ransomware and Real Time Threats](https://www.darkreading.com/attacks-breaches/forescout-launches-forescout-frontline-to-help-organizations-tackle-ransomware-and-real-time-threats)
+- [Is Your Data Security Living on the Edge?](https://www.darkreading.com/cloud/is-your-data-security-living-on-the-edge-)
+- [Interpol&#39;s Massive &#39;Operation Delilah&#39; Nabs BEC Bigwig](https://www.darkreading.com/attacks-breaches/interpol-operation-delilah-bec-arrest)
 - [JFrog Launches Project Pyrsia to Help Prevent Software Supply Chain Attacks](https://www.darkreading.com/application-security/jfrog-launches-project-pyrsia-to-help-prevent-software-supply-chain-attacks)
 - [Mastercard Launches Cybersecurity “Experience Centre”](https://www.darkreading.com/attacks-breaches/mastercard-launches-cybersecurity-experience-centre-)
 - [Qualys to Unveil VMDR 2.0 at Qualys Security Conference in San Francisco](https://www.darkreading.com/vulnerabilities-threats/qualys-to-unveil-vmdr-2-0-at-qualys-security-conference-in-san-francisco)
 - [Corelight Announces New SaaS Platform for Threat Hunting](https://www.darkreading.com/perimeter/corelight-announces-new-saas-platform-for-threat-hunting)
 - [Cybersecurity-Focused SYN Ventures Closes $300 Million Fund II](https://www.darkreading.com/operations/cybersecurity-focused-syn-ventures-closes-300-million-fund-ii)
-- [Vishing Attacks Reach All Time High, According to Latest Agari and PhishLabs Report](https://www.darkreading.com/attacks-breaches/vishing-attacks-reach-all-time-high-according-to-latest-agari-and-phishlabs-report)
-- [Zero-Click Zoom Bug Allows Code Execution Just by Sending a Message](https://www.darkreading.com/application-security/zero-click-zoom-bug-allows-remote-code-execution-by-sending-a-message)
-- [Meet the 10 Finalists in the RSA Conference Innovation Sandbox](https://www.darkreading.com/emerging-tech/meet-the-10-finalists-in-the-rsa-conference-innovation-sandbox)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
