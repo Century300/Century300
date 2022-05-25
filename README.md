@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Spring Cleaning Checklist for Keeping Your Devices Safe at Work](https://www.darkreading.com/endpoint/spring-cleaning-checklist-for-keeping-your-devices-safe-at-work)
-- [CLOP Ransomware Activity Spiked in April](https://www.darkreading.com/threat-intelligence/clop-ransomware-activity-spiked-in-april)
-- [Industry 4.0 Points Up Need for Improved Security for Manufacturers](https://www.darkreading.com/attacks-breaches/industry-4-0-points-up-need-for-improved-security-for-manufacturers)
-- [DDoS Extortion Attack Flagged as Possible REvil Resurgence](https://www.darkreading.com/attacks-breaches/ddos-extortion-attack-revil-resurgence)
-- [DBIR Makes a Case for Passwordless](https://www.darkreading.com/tech-trends/dbir-case-for-passwordless)
-- [&#39;There&#39;s No Ceiling&#39;: Ransomware&#39;s Alarming Growth Signals a New Era, Verizon DBIR Finds](https://www.darkreading.com/attacks-breaches/ransomware-alarming-growth-verizon-dbir)
-- [Microsoft Elevation-of-Privilege Vulnerabilities Spiked Again in 2021](https://www.darkreading.com/application-security/number-of-elevation-of-privilege-bugs-in-microsoft-products-increased-again-in-2021)
-- [New Attack Shows Weaponized PDF Files Remain a Threat](https://www.darkreading.com/attacks-breaches/weaponized-pdf-files-remain-a-threat-research-shows)
+- [JFrog Launches Project Pyrsia to Help Prevent Software Supply Chain Attacks](https://www.darkreading.com/application-security/jfrog-launches-project-pyrsia-to-help-prevent-software-supply-chain-attacks)
+- [Mastercard Launches Cybersecurity “Experience Centre”](https://www.darkreading.com/attacks-breaches/mastercard-launches-cybersecurity-experience-centre-)
+- [Qualys to Unveil VMDR 2.0 at Qualys Security Conference in San Francisco](https://www.darkreading.com/vulnerabilities-threats/qualys-to-unveil-vmdr-2-0-at-qualys-security-conference-in-san-francisco)
+- [Corelight Announces New SaaS Platform for Threat Hunting](https://www.darkreading.com/perimeter/corelight-announces-new-saas-platform-for-threat-hunting)
+- [Cybersecurity-Focused SYN Ventures Closes $300 Million Fund II](https://www.darkreading.com/operations/cybersecurity-focused-syn-ventures-closes-300-million-fund-ii)
+- [Vishing Attacks Reach All Time High, According to Latest Agari and PhishLabs Report](https://www.darkreading.com/attacks-breaches/vishing-attacks-reach-all-time-high-according-to-latest-agari-and-phishlabs-report)
+- [Zero-Click Zoom Bug Allows Code Execution Just by Sending a Message](https://www.darkreading.com/application-security/zero-click-zoom-bug-allows-remote-code-execution-by-sending-a-message)
+- [Meet the 10 Finalists in the RSA Conference Innovation Sandbox](https://www.darkreading.com/emerging-tech/meet-the-10-finalists-in-the-rsa-conference-innovation-sandbox)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
