@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twitter Fined $150M for Security Data Misuse](https://www.darkreading.com/attacks-breaches/twitter-fined-150m-security-data-misuse)
 - [The FDA&#39;s New Cybersecurity Guidance for Medical Devices Reminds Us That Safety &amp; Security Go Hand in Hand](https://www.darkreading.com/risk/the-fda-s-new-cybersecurity-guidance-for-medical-devices-reminds-us-that-safety-and-security-go-hand-in-hand)
+- [VMware, Airline Targeted as Ransomware Chaos Reigns](https://www.darkreading.com/attacks-breaches/vmware-airline-targeted-as-ransomware-chaos-reigns)
 - [Big Cyber Hits on GM, Chicago Public Schools, &amp; Zola Showcase the Password Problem](https://www.darkreading.com/attacks-breaches/big-cyber-hits-gm-chicago-public-schools-zola-password-problem)
 - [Act Now: Leveraging PCI Compliance to Improve Security](https://www.darkreading.com/risk/act-now-leveraging-pci-compliance-to-improve-security)
 - [Quanta Servers Caught With &#39;Pantsdown&#39; BMC Vulnerability](https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln)
 - [Most Common Threats in DBIR](https://www.darkreading.com/edge-threat-monitor/most-common-threats-in-dbir)
 - [Forescout Launches Forescout Frontline to Help Organizations Tackle Ransomware and Real Time Threats](https://www.darkreading.com/attacks-breaches/forescout-launches-forescout-frontline-to-help-organizations-tackle-ransomware-and-real-time-threats)
-- [Is Your Data Security Living on the Edge?](https://www.darkreading.com/cloud/is-your-data-security-living-on-the-edge-)
-- [Interpol&#39;s Massive &#39;Operation Delilah&#39; Nabs BEC Bigwig](https://www.darkreading.com/attacks-breaches/interpol-operation-delilah-bec-arrest)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
