@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The FDA&#39;s New Cybersecurity Guidance for Medical Devices Reminds Us That Safety &amp; Security Go Hand in Hand](https://www.darkreading.com/risk/the-fda-s-new-cybersecurity-guidance-for-medical-devices-reminds-us-that-safety-and-security-go-hand-in-hand)
 - [Big Cyber Hits on GM, Chicago Public Schools, &amp; Zola Showcase the Password Problem](https://www.darkreading.com/attacks-breaches/big-cyber-hits-gm-chicago-public-schools-zola-password-problem)
 - [Act Now: Leveraging PCI Compliance to Improve Security](https://www.darkreading.com/risk/act-now-leveraging-pci-compliance-to-improve-security)
 - [Quanta Servers Caught With &#39;Pantsdown&#39; BMC Vulnerability](https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln)
@@ -79,7 +80,6 @@
 - [Forescout Launches Forescout Frontline to Help Organizations Tackle Ransomware and Real Time Threats](https://www.darkreading.com/attacks-breaches/forescout-launches-forescout-frontline-to-help-organizations-tackle-ransomware-and-real-time-threats)
 - [Is Your Data Security Living on the Edge?](https://www.darkreading.com/cloud/is-your-data-security-living-on-the-edge-)
 - [Interpol&#39;s Massive &#39;Operation Delilah&#39; Nabs BEC Bigwig](https://www.darkreading.com/attacks-breaches/interpol-operation-delilah-bec-arrest)
-- [JFrog Launches Project Pyrsia to Help Prevent Software Supply Chain Attacks](https://www.darkreading.com/application-security/jfrog-launches-project-pyrsia-to-help-prevent-software-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
