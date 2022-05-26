@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Big Hits on GM, Chicago Public Schools, &amp; Zola Showcase the Password Problem](https://www.darkreading.com/attacks-breaches/big-cyber-hits-gm-chicago-public-schools-zola-password-problem)
+- [Act Now: Leveraging PCI Compliance to Improve Security](https://www.darkreading.com/risk/act-now-leveraging-pci-compliance-to-improve-security)
+- [Quanta Servers Caught With Pantsdown BMC Vulnerability](https://www.darkreading.com/cloud/quanta-servers-caught-with-pantsdown-bmc-vuln)
 - [Most Common Threats in DBIR](https://www.darkreading.com/edge-threat-monitor/most-common-threats-in-dbir)
 - [Forescout Launches Forescout Frontline to Help Organizations Tackle Ransomware and Real Time Threats](https://www.darkreading.com/attacks-breaches/forescout-launches-forescout-frontline-to-help-organizations-tackle-ransomware-and-real-time-threats)
 - [Is Your Data Security Living on the Edge?](https://www.darkreading.com/cloud/is-your-data-security-living-on-the-edge-)
 - [Interpol&#39;s Massive &#39;Operation Delilah&#39; Nabs BEC Bigwig](https://www.darkreading.com/attacks-breaches/interpol-operation-delilah-bec-arrest)
 - [JFrog Launches Project Pyrsia to Help Prevent Software Supply Chain Attacks](https://www.darkreading.com/application-security/jfrog-launches-project-pyrsia-to-help-prevent-software-supply-chain-attacks)
-- [Mastercard Launches Cybersecurity “Experience Centre”](https://www.darkreading.com/attacks-breaches/mastercard-launches-cybersecurity-experience-centre-)
-- [Qualys to Unveil VMDR 2.0 at Qualys Security Conference in San Francisco](https://www.darkreading.com/vulnerabilities-threats/qualys-to-unveil-vmdr-2-0-at-qualys-security-conference-in-san-francisco)
-- [Corelight Announces New SaaS Platform for Threat Hunting](https://www.darkreading.com/perimeter/corelight-announces-new-saas-platform-for-threat-hunting)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
