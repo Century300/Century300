@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scammer Behind $568M International Cybercrime Syndicate Gets 4 Years](https://www.darkreading.com/attacks-breaches/scammer-568m-cybercrime-4-years)
+- [New Chaos Malware Variant Ditches Wiper for Encryption](https://www.darkreading.com/threat-intelligence/chaos-yashma-variant--wiper-encryption)
 - [ChromeLoader Malware Hijacks Browsers With ISO Files](https://www.darkreading.com/application-security/chromeloader-malware-hijacks-browsers-iso-files)
 - [Physical Security Teams&#39; Impact Is Far-Reaching](https://www.darkreading.com/physical-security/physical-security-teams-impact-is-far-reaching)
 - [Taking the Danger Out of IT/OT Convergence](https://www.darkreading.com/dr-tech/taking-the-danger-out-of-it-ot-convergence)
 - [Microsoft Unveils Dev Box, a Workstation-as-a-Service](https://www.darkreading.com/dr-tech/microsoft-unveils-dev-box-a-workstation-as-a-service)
 - [Broadcom Snaps Up VMware in $61B Deal](https://www.darkreading.com/cloud/broadcom-snaps-up-vmware-in-61b-deal)
 - [Lacework Announces Layoffs, Restructuring](https://www.darkreading.com/cloud/lacework-restructuring-layoffs)
-- [Third-Party Scripts on Websites Present a &#39;Broad &amp; Open&#39; Attack Vector](https://www.darkreading.com/application-security/third-party-scripts-websites-broad-open-attack-vector)
-- [Twitter Fined $150M for Security Data Misuse](https://www.darkreading.com/attacks-breaches/twitter-fined-150m-security-data-misuse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
