@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChromeLoader Malware Hijacks Browsers With ISO Files](https://www.darkreading.com/application-security/chromeloader-malware-hijacks-browsers-iso-files)
 - [Physical Security Teams&#39; Impact Is Far-Reaching](https://www.darkreading.com/physical-security/physical-security-teams-impact-is-far-reaching)
 - [Taking the Danger Out of IT/OT Convergence](https://www.darkreading.com/dr-tech/taking-the-danger-out-of-it-ot-convergence)
 - [Microsoft Unveils Dev Box, a Workstation-as-a-Service](https://www.darkreading.com/dr-tech/microsoft-unveils-dev-box-a-workstation-as-a-service)
@@ -79,7 +80,6 @@
 - [Lacework Announces Layoffs, Restructuring](https://www.darkreading.com/cloud/lacework-restructuring-layoffs)
 - [Third-Party Scripts on Websites Present a &#39;Broad &amp; Open&#39; Attack Vector](https://www.darkreading.com/application-security/third-party-scripts-websites-broad-open-attack-vector)
 - [Twitter Fined $150M for Security Data Misuse](https://www.darkreading.com/attacks-breaches/twitter-fined-150m-security-data-misuse)
-- [The FDA&#39;s New Cybersecurity Guidance for Medical Devices Reminds Us That Safety &amp; Security Go Hand in Hand](https://www.darkreading.com/risk/the-fda-s-new-cybersecurity-guidance-for-medical-devices-reminds-us-that-safety-and-security-go-hand-in-hand)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
