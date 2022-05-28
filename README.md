@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical OAS Bugs Open Industrial Systems to Takeover](https://www.darkreading.com/application-security/critical-oas-bugs-industrial-takeover)
 - [Exposed Kubernetes Clusters, Kubelet Ports Can Be Abused in Cyberattacks](https://www.darkreading.com/dr-tech/exposed-kubernetes-clusters-kubelet-ports-can-be-abused-in-cyberattacks)
 - [Space Force Expands Cyber Defense Operations](https://www.darkreading.com/vulnerabilities-threats/space-force-expands-cyber-defense-operations)
 - [Scammer Behind $568M International Cybercrime Syndicate Gets 4 Years](https://www.darkreading.com/attacks-breaches/scammer-568m-cybercrime-4-years)
@@ -79,7 +80,6 @@
 - [ChromeLoader Malware Hijacks Browsers With ISO Files](https://www.darkreading.com/application-security/chromeloader-malware-hijacks-browsers-iso-files)
 - [Physical Security Teams&#39; Impact Is Far-Reaching](https://www.darkreading.com/physical-security/physical-security-teams-impact-is-far-reaching)
 - [Taking the Danger Out of IT/OT Convergence](https://www.darkreading.com/dr-tech/taking-the-danger-out-of-it-ot-convergence)
-- [Microsoft Unveils Dev Box, a Workstation-as-a-Service](https://www.darkreading.com/dr-tech/microsoft-unveils-dev-box-a-workstation-as-a-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
