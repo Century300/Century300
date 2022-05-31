@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3.6M MySQL Servers Found Exposed Online](https://www.darkreading.com/vulnerabilities-threats/3-6m-plus-mysql-servers-with-ipv4-ipv6-addresses-exposed-scan-shows)
+- [Surefire Cyber Launches to Help Cyber Insurance Ecosystem from Response to Resilience, with $10 Million in Funding by Forgepoint Capital](https://www.darkreading.com/attacks-breaches/surefire-cyber-launches-to-help-cyber-insurance-ecosystem-from-response-to-resilience-with-10-million-in-funding-by-forgepoint-capital)
+- [New Microsoft Zero-Day Attack Underway](https://www.darkreading.com/endpoint/attackers-actively-exploiting-new-microsoft-zero-day)
+- [Biometric Data Offers Added Security —  But Don&#39;t Lose Sight of These Important Risks](https://www.darkreading.com/edge-articles/biometric-data-offers-added-security-and-risks)
 - [Fewer DDoS Attacks in 2021, Still Above Pre-Pandemic Levels](https://www.darkreading.com/attacks-breaches/ddos-attacks-ticked-down-in-2021-still-hover-above-pandemic-levels)
 - [New CyberCatch Research Discovers Alarming Increase in Cyber Vulnerabilities for Small and Medium Sized Businesses in US and Canada](https://www.darkreading.com/application-security/new-cybercatch-research-discovers-alarming-increase-in-cyber-vulnerabilities-for-small-and-medium-sized-businesses-in-us-and-canada)
 - [How to Keep Your Enterprise Safe From Digital Supply Chain Attacks](https://www.darkreading.com/vulnerabilities-threats/how-to-keep-your-enterprise-safe-from-digital-supply-chain-attacks)
 - [6 Steps to Ensure Cyber Resilience](https://www.darkreading.com/attacks-breaches/6-steps-to-ensure-cyber-resilience)
-- [Critical OAS Bugs Open Industrial Systems to Takeover](https://www.darkreading.com/application-security/critical-oas-bugs-industrial-takeover)
-- [Exposed Kubernetes Clusters, Kubelet Ports Can Be Abused in Cyberattacks](https://www.darkreading.com/dr-tech/exposed-kubernetes-clusters-kubelet-ports-can-be-abused-in-cyberattacks)
-- [Space Force Expands Cyber Defense Operations](https://www.darkreading.com/vulnerabilities-threats/space-force-expands-cyber-defense-operations)
-- [Scammer Behind $568M International Cybercrime Syndicate Gets 4 Years](https://www.darkreading.com/attacks-breaches/scammer-568m-cybercrime-4-years)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
