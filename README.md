@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Keep Your Enterprise Safe From Digital Supply Chain Attacks](https://www.darkreading.com/vulnerabilities-threats/how-to-keep-your-enterprise-safe-from-digital-supply-chain-attacks)
 - [6 Steps to Ensure Cyber Resilience](https://www.darkreading.com/attacks-breaches/6-steps-to-ensure-cyber-resilience)
 - [Critical OAS Bugs Open Industrial Systems to Takeover](https://www.darkreading.com/application-security/critical-oas-bugs-industrial-takeover)
 - [Exposed Kubernetes Clusters, Kubelet Ports Can Be Abused in Cyberattacks](https://www.darkreading.com/dr-tech/exposed-kubernetes-clusters-kubelet-ports-can-be-abused-in-cyberattacks)
@@ -79,7 +80,6 @@
 - [Scammer Behind $568M International Cybercrime Syndicate Gets 4 Years](https://www.darkreading.com/attacks-breaches/scammer-568m-cybercrime-4-years)
 - [New Chaos Malware Variant Ditches Wiper for Encryption](https://www.darkreading.com/threat-intelligence/chaos-yashma-variant--wiper-encryption)
 - [ChromeLoader Malware Hijacks Browsers With ISO Files](https://www.darkreading.com/application-security/chromeloader-malware-hijacks-browsers-iso-files)
-- [Physical Security Teams&#39; Impact Is Far-Reaching](https://www.darkreading.com/physical-security/physical-security-teams-impact-is-far-reaching)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
