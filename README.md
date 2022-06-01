@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hunting for Threats Using Network Traffic Flows](https://www.darkreading.com/dr-tech/hunting-for-threats-using-network-traffic-flows)
+- [FluBot Android Malware Operation Disrupted, Infrastructure Seized](https://www.darkreading.com/mobile/flubot-android-malware-operation-disrupted)
 - [NetSPI&#39;s New Breach and Attack Simulation Enhancements Help Organizations Achieve Behavior-Based Threat Detection](https://www.darkreading.com/attacks-breaches/netspi-s-new-breach-and-attack-simulation-enhancements-help-organizations-achieve-behavior-based-threat-detection)
 - [Netenrich Debuts Resolution Intelligence Secure Digital Operations Platform at RSA 2022](https://www.darkreading.com/operations/netenrich-debuts-resolution-intelligence-secure-digital-operations-platform-at-rsa-2022)
 - [12K Misconfigured Elasticsearch Buckets Ravaged by Extortionists](https://www.darkreading.com/cloud/12k-misconfigured-elasticsearch-buckets-extortionists)
 - [Darktrace&#39;s David Masson on What Attacks on Critical Infrastructure Look Like](https://www.darkreading.com/tech-talks/darktrace-s-dave-masson-on-what-attacks-on-critical-infrastructure-looks-like)
 - [Feds Seize Domains Dealing Stolen Personal Data](https://www.darkreading.com/attacks-breaches/domains-dealing-stolen-personal-data-seized-by-feds)
 - [Netskope Acquires WootCloud, Extending Zero Trust Capabilities to Enterprise IoT](https://www.darkreading.com/cloud/netskope-acquires-wootcloud-extending-zero-trust-capabilities-to-enterprise-iot)
-- [ReliaQuest to Acquire Digital Shadows](https://www.darkreading.com/threat-intelligence/reliaquest-to-acquire-digital-shadows)
-- [Lookout Acquires SaferPass To Address The Rising Threat Of Identity Theft](https://www.darkreading.com/endpoint/lookout-acquires-saferpass-to-address-the-rising-threat-of-identity-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
