@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ReliaQuest to Acquire Digital Shadows](https://www.darkreading.com/threat-intelligence/reliaquest-to-acquire-digital-shadows)
+- [Lookout Acquires SaferPass To Address The Rising Threat Of Identity Theft](https://www.darkreading.com/endpoint/lookout-acquires-saferpass-to-address-the-rising-threat-of-identity-theft)
 - [Security at the Edge: Why It&#39;s Complicated](https://www.darkreading.com/cloud/security-at-the-edge-why-it-s-complicated)
 - [Consumer Reports Launches IoT Cybersecurity &#39;Nutrition Label&#39;](https://www.darkreading.com/risk/consumer-reports-launches-cybersecurity-nutrition-label-)
 - [10 No-BS Tips for Building a Diverse and Dynamic Security Team](https://www.darkreading.com/edge-articles/10-no-bs-tips-for-building-a-diverse-and-dynamic-security-team)
 - [Enhanced Threat Intelligence Portal Provides Consolidated Access to Kaspersky Threat Intelligence Expertise](https://www.darkreading.com/threat-intelligence/enhanced-threat-intelligence-portal-provides-consolidated-access-to-kaspersky-threat-intelligence-expertise)
 - [Zero Trust Research Reveals Nearly Half of All Security Leaders Do Not Believe They Will Be Breached Despite Increasing Attacks and Adoption of Zero Trust Strategies](https://www.darkreading.com/attacks-breaches/zero-trust-research-reveals-nearly-half-of-all-security-leaders-do-not-believe-they-will-be-breached-despite-increasing-attacks-and-adoption-of-zero-trust-strategies)
 - [Help Organizations to Mitigate Risk in Microsoft 365 with &#39;Vectra Protect&#39;](https://www.darkreading.com/cloud/help-organizations-to-mitigate-risk-in-microsoft-365-with-vectra-protect-)
-- [Ordr Secures $40 Million in Series C Funding to Answer Increased Demand for Connected Device Security](https://www.darkreading.com/iot/ordr-secures-40-million-in-series-c-funding-to-answer-increased-demand-for-connected-device-security)
-- [StorCentric Launches Nexsan EZ-NAS -Network-Attached Storage for SMBs and Enterprise Edge Deployments](https://www.darkreading.com/operations/storcentric-launches-nexsan-ez-nas--network-attached-storage-for-smbs-and-enterprise-edge-deployments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
