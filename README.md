@@ -72,14 +72,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Distinguishing AI Hype From Reality in SecOps](https://www.darkreading.com/analytics/distinguishing-ai-hype-from-reality-in-secops)
-- [ESET Launches NetProtect Suite of Advanced Cybersecurity Offerings for Telcos and ISPs](https://www.darkreading.com/perimeter/eset-launches-netprotect-suite-of-advanced-cybersecurity-offerings-for-telcos-and-isps)
-- [3.6M MySQL Servers Found Exposed Online](https://www.darkreading.com/vulnerabilities-threats/3-6m-plus-mysql-servers-with-ipv4-ipv6-addresses-exposed-scan-shows)
-- [Surefire Cyber Launches to Help Cyber Insurance Ecosystem from Response to Resilience, with $10 Million in Funding by Forgepoint Capital](https://www.darkreading.com/attacks-breaches/surefire-cyber-launches-to-help-cyber-insurance-ecosystem-from-response-to-resilience-with-10-million-in-funding-by-forgepoint-capital)
-- [New Microsoft Zero-Day Attack Underway](https://www.darkreading.com/endpoint/attackers-actively-exploiting-new-microsoft-zero-day)
-- [Biometric Data Offers Added Security —  But Don&#39;t Lose Sight of These Important Risks](https://www.darkreading.com/edge-articles/biometric-data-offers-added-security-and-risks)
-- [Fewer DDoS Attacks in 2021, Still Above Pre-Pandemic Levels](https://www.darkreading.com/attacks-breaches/ddos-attacks-ticked-down-in-2021-still-hover-above-pandemic-levels)
-- [New CyberCatch Research Discovers Alarming Increase in Cyber Vulnerabilities for Small and Medium Sized Businesses in US and Canada](https://www.darkreading.com/application-security/new-cybercatch-research-discovers-alarming-increase-in-cyber-vulnerabilities-for-small-and-medium-sized-businesses-in-us-and-canada)
+- [Security at the Edge: Why It&#39;s Complicated](https://www.darkreading.com/cloud/security-at-the-edge-why-it-s-complicated)
+- [Consumer Reports Launches IoT Cybersecurity &#39;Nutrition Label&#39;](https://www.darkreading.com/risk/consumer-reports-launches-cybersecurity-nutrition-label-)
+- [10 No-BS Tips for Building a Diverse and Dynamic Security Team](https://www.darkreading.com/edge-articles/10-no-bs-tips-for-building-a-diverse-and-dynamic-security-team)
+- [Enhanced Threat Intelligence Portal Provides Consolidated Access to Kaspersky Threat Intelligence Expertise](https://www.darkreading.com/threat-intelligence/enhanced-threat-intelligence-portal-provides-consolidated-access-to-kaspersky-threat-intelligence-expertise)
+- [Zero Trust Research Reveals Nearly Half of All Security Leaders Do Not Believe They Will Be Breached Despite Increasing Attacks and Adoption of Zero Trust Strategies](https://www.darkreading.com/attacks-breaches/zero-trust-research-reveals-nearly-half-of-all-security-leaders-do-not-believe-they-will-be-breached-despite-increasing-attacks-and-adoption-of-zero-trust-strategies)
+- [Help Organizations to Mitigate Risk in Microsoft 365 with &#39;Vectra Protect&#39;](https://www.darkreading.com/cloud/help-organizations-to-mitigate-risk-in-microsoft-365-with-vectra-protect-)
+- [Ordr Secures $40 Million in Series C Funding to Answer Increased Demand for Connected Device Security](https://www.darkreading.com/iot/ordr-secures-40-million-in-series-c-funding-to-answer-increased-demand-for-connected-device-security)
+- [StorCentric Launches Nexsan EZ-NAS -Network-Attached Storage for SMBs and Enterprise Edge Deployments](https://www.darkreading.com/operations/storcentric-launches-nexsan-ez-nas--network-attached-storage-for-smbs-and-enterprise-edge-deployments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
