@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Distinguishing AI Hype From Reality in SecOps](https://www.darkreading.com/analytics/distinguishing-ai-hype-from-reality-in-secops)
 - [ESET Launches NetProtect Suite of Advanced Cybersecurity Offerings for Telcos and ISPs](https://www.darkreading.com/perimeter/eset-launches-netprotect-suite-of-advanced-cybersecurity-offerings-for-telcos-and-isps)
 - [3.6M MySQL Servers Found Exposed Online](https://www.darkreading.com/vulnerabilities-threats/3-6m-plus-mysql-servers-with-ipv4-ipv6-addresses-exposed-scan-shows)
 - [Surefire Cyber Launches to Help Cyber Insurance Ecosystem from Response to Resilience, with $10 Million in Funding by Forgepoint Capital](https://www.darkreading.com/attacks-breaches/surefire-cyber-launches-to-help-cyber-insurance-ecosystem-from-response-to-resilience-with-10-million-in-funding-by-forgepoint-capital)
@@ -79,7 +80,6 @@
 - [Biometric Data Offers Added Security —  But Don&#39;t Lose Sight of These Important Risks](https://www.darkreading.com/edge-articles/biometric-data-offers-added-security-and-risks)
 - [Fewer DDoS Attacks in 2021, Still Above Pre-Pandemic Levels](https://www.darkreading.com/attacks-breaches/ddos-attacks-ticked-down-in-2021-still-hover-above-pandemic-levels)
 - [New CyberCatch Research Discovers Alarming Increase in Cyber Vulnerabilities for Small and Medium Sized Businesses in US and Canada](https://www.darkreading.com/application-security/new-cybercatch-research-discovers-alarming-increase-in-cyber-vulnerabilities-for-small-and-medium-sized-businesses-in-us-and-canada)
-- [How to Keep Your Enterprise Safe From Digital Supply Chain Attacks](https://www.darkreading.com/vulnerabilities-threats/how-to-keep-your-enterprise-safe-from-digital-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
