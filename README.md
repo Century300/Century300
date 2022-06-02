@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Turbulent Cyber Insurance Market Sees Rising Prices and Sinking Coverage](https://www.darkreading.com/edge-articles/turbulent-cyber-insurance-market-sees-rising-prices-and-sinking-coverage)
 - [Building America&#39;s Cybersecurity Infrastructure](https://www.darkreading.com/vulnerabilities-threats/building-america-s-cybersecurity-infrastructure)
 - [&#39;Clipminer&#39; Malware Actors Steal $1.7 Million Using Clipboard Hijacking](https://www.darkreading.com/application-security/clipminer-malware-actors-steal-17-million-clipboard-hijacking)
 - [Fighting Follina: Application Vulnerabilities and Detection Possibilities](https://www.darkreading.com/threat-intelligence/fighting-follina-application-vulnerabilities-and-detection-possibilities)
@@ -79,7 +80,6 @@
 - [Darktrace&#39;s Brianna Leddy on How Ransomware Groups Adapt to New Defenses](https://www.darkreading.com/tech-talks/darktrace-s-brianna-leddy-on-how-ransomware-groups-adapt-to-new-defenses)
 - [Managing Extended Software Supply Chain Risks](https://www.darkreading.com/cloud/managing-extended-software-supply-chain-risks)
 - [Hunting for Threats Using Network Traffic Flows](https://www.darkreading.com/dr-tech/hunting-for-threats-using-network-traffic-flows)
-- [FluBot Android Malware Operation Disrupted, Infrastructure Seized](https://www.darkreading.com/mobile/flubot-android-malware-operation-disrupted)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
