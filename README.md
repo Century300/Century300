@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Neutralizing Novel Trickbot Attacks With AI](https://www.darkreading.com/dr-tech/neutralizing-novel-trickbot-attacks-with-ai)
 - [Darktrace&#39;s Brianna Leddy on How Ransomware Groups Adapt to New Defenses](https://www.darkreading.com/tech-talks/darktrace-s-brianna-leddy-on-how-ransomware-groups-adapt-to-new-defenses)
 - [Managing Extended Software Supply Chain Risks](https://www.darkreading.com/cloud/managing-extended-software-supply-chain-risks)
 - [Hunting for Threats Using Network Traffic Flows](https://www.darkreading.com/dr-tech/hunting-for-threats-using-network-traffic-flows)
@@ -79,7 +80,6 @@
 - [NetSPI&#39;s New Breach and Attack Simulation Enhancements Help Organizations Achieve Behavior-Based Threat Detection](https://www.darkreading.com/attacks-breaches/netspi-s-new-breach-and-attack-simulation-enhancements-help-organizations-achieve-behavior-based-threat-detection)
 - [Netenrich Debuts Resolution Intelligence Secure Digital Operations Platform at RSA 2022](https://www.darkreading.com/operations/netenrich-debuts-resolution-intelligence-secure-digital-operations-platform-at-rsa-2022)
 - [12K Misconfigured Elasticsearch Buckets Ravaged by Extortionists](https://www.darkreading.com/cloud/12k-misconfigured-elasticsearch-buckets-extortionists)
-- [Darktrace&#39;s David Masson on What Attacks on Critical Infrastructure Look Like](https://www.darkreading.com/tech-talks/darktrace-s-dave-masson-on-what-attacks-on-critical-infrastructure-looks-like)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
