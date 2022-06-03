@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FDA: Patch Illumina DNA Sequencing Instruments, Stat](https://www.darkreading.com/vulnerabilities-threats/fda-patch-illumina-dna-sequencing-instruments)
 - [YourCyanide Ransomware Propagates With PasteBin, Discord, Microsoft Links](https://www.darkreading.com/threat-intelligence/yourcyanide-ransomware-pastebin-discord-microsoft-links)
 - [Iconium Software Releases DataLenz v1.3 for IBM zSystems](https://www.darkreading.com/analytics/iconium-software-releases-datalenz-v1-3-for-ibm-zsystems)
 - [Microsoft Disables Iran-Linked Lebanese Hacking Group Polonium](https://www.darkreading.com/vulnerabilities-threats/microsoft-disables-iran-linked-lebanese-hacking-group-polonium)
@@ -79,7 +80,6 @@
 - [Why Network Object Management Is Critical for Managing Multicloud Network Security](https://www.darkreading.com/cloud/why-network-object-management-is-critical-for-managing-multicloud-network-security)
 - [For Ransomware, Speed Matters](https://www.darkreading.com/edge-threat-monitor/for-ransomware-speed-matters)
 - [Cerberus Sentinel Completes Acquisition of Creatrix, Inc.](https://www.darkreading.com/endpoint/cerberus-sentinel-completes-acquisition-of-creatrix-inc-)
-- [Research Reveals 75% of CISOs Are Worried Too Many Application Vulnerabilities Leak Into Production, Despite a Multi-Layered Security Approach](https://www.darkreading.com/vulnerabilities-threats/research-reveals-75-of-cisos-are-worried-too-many-application-vulnerabilities-leak-into-production-despite-a-multi-layered-security-approach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
