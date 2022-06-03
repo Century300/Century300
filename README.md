@@ -72,6 +72,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Network Object Management Is Critical for Managing Multicloud Network Security](https://www.darkreading.com/cloud/why-network-object-management-is-critical-for-managing-multicloud-network-security)
 - [For Ransomware, Speed Matters](https://www.darkreading.com/edge-threat-monitor/for-ransomware-speed-matters)
 - [Cerberus Sentinel Completes Acquisition of Creatrix, Inc.](https://www.darkreading.com/endpoint/cerberus-sentinel-completes-acquisition-of-creatrix-inc-)
 - [Research Reveals 75% of CISOs Are Worried Too Many Application Vulnerabilities Leak Into Production, Despite a Multi-Layered Security Approach](https://www.darkreading.com/vulnerabilities-threats/research-reveals-75-of-cisos-are-worried-too-many-application-vulnerabilities-leak-into-production-despite-a-multi-layered-security-approach)
@@ -79,7 +80,6 @@
 - [Gurucul Launches Cloud-Native SOC Platform Pushing the Boundaries of Next-Gen SIEM and XDR with Identity Threat Detection and Response](https://www.darkreading.com/cloud/gurucul-launches-cloud-native-soc-platform-pushing-the-boundaries-of-next-gen-siem-and-xdr-with-identity-threat-detection-and-response)
 - [Phishers Having a Field Day on WhatsApp, Telegraph](https://www.darkreading.com/application-security/phishers-field-day-whatsapp-telegraph)
 - [New Cloud Pricing and Products Proof of RSA’s Transformation](https://www.darkreading.com/remote-workforce/new-cloud-pricing-and-products-proof-of-rsa-s-transformation)
-- [Microsoft Philanthropies Collaborates With WiCyS to Help Close the Cybersecurity Skills Gap](https://www.darkreading.com/careers-and-people/microsoft-philanthropies-collaborates-with-wicys-to-help-close-the-cybersecurity-skills-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
