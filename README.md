@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Optiv Launches Cyber Recovery Solution Focused on Protection and Rapid Recovery](https://www.darkreading.com/attacks-breaches/optiv-launches-cyber-recovery-solution-focused-on-protection-and-rapid-recovery)
+- [BigID Introduces Cloud Data Security On Demand](https://www.darkreading.com/cloud/bigid-introduces-cloud-data-security-on-demand)
 - [IBM to Buy Attack Surface-Management Firm Randori](https://www.darkreading.com/attacks-breaches/ibm)
 - [Cybersecurity M&amp;A Activity Shows No Signs of Slowdown](https://www.darkreading.com/cloud/no-slowdown-in-cybersecurity-m-a-activity)
 - [The CISO Shortlist: Top Priorities at RSAC 2022](https://www.darkreading.com/tech-trends/the-ciso-shortlist-top-priorities-at-rsa-2022)
 - [Are You Ready for a Breach in Your Organization&#39;s Slack Workspace?](https://www.darkreading.com/attacks-breaches/are-you-ready-for-a-breach-in-your-organization-s-slack-workspace-)
 - [Name That Edge Toon: Hey, Batter Batter!](https://www.darkreading.com/edge-articles/name-that-edge-toon-hey-batter-batter-)
 - [Gathering Momentum: 3 Steps Forward to Expand SBoM Use](https://www.darkreading.com/application-security/three-steps-forward-wxpand-sbom-use)
-- [FDA: Patch Illumina DNA Sequencing Instruments, Stat](https://www.darkreading.com/vulnerabilities-threats/fda-patch-illumina-dna-sequencing-instruments)
-- [YourCyanide Ransomware Propagates With PasteBin, Discord, Microsoft Links](https://www.darkreading.com/threat-intelligence/yourcyanide-ransomware-pastebin-discord-microsoft-links)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
