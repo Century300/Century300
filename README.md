@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware&#39;s ROI Retreat Will Drive More BEC Attacks](https://www.darkreading.com/threat-intelligence/retreat-of-ransomware-roi-will-drive-bec-attacks-analyst-warns)
 - [Communication Is Key to CISO Success](https://www.darkreading.com/careers-and-people/communication-is-key-to-ciso-success)
 - [Optiv Launches Cyber Recovery Solution Focused on Protection and Rapid Recovery](https://www.darkreading.com/attacks-breaches/optiv-launches-cyber-recovery-solution-focused-on-protection-and-rapid-recovery)
 - [BigID Introduces Cloud Data Security On Demand](https://www.darkreading.com/cloud/bigid-introduces-cloud-data-security-on-demand)
@@ -82,7 +83,6 @@
 - [Cybersecurity M&amp;A Activity Shows No Signs of Slowdown](https://www.darkreading.com/cloud/no-slowdown-in-cybersecurity-m-a-activity)
 - [The CISO Shortlist: Top Priorities at RSAC 2022](https://www.darkreading.com/tech-trends/the-ciso-shortlist-top-priorities-at-rsa-2022)
 - [Are You Ready for a Breach in Your Organization&#39;s Slack Workspace?](https://www.darkreading.com/attacks-breaches/are-you-ready-for-a-breach-in-your-organization-s-slack-workspace-)
-- [Name That Edge Toon: Hey, Batter Batter!](https://www.darkreading.com/edge-articles/name-that-edge-toon-hey-batter-batter-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
