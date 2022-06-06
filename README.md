@@ -1,4 +1,4 @@
-### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 
 ![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)
 ![GitHub User's stars](https://img.shields.io/github/stars/century300?logo=github&style=for-the-badge)
