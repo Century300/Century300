@@ -77,7 +77,7 @@
 <!-- DARKREADING:START -->
 - [IBM to Buy Attack Surface-Management Firm Randori](https://www.darkreading.com/attacks-breaches/ibm)
 - [Cybersecurity M&amp;A Activity Shows No Signs of Slowdown](https://www.darkreading.com/cloud/no-slowdown-in-cybersecurity-m-a-activity)
-- [The CISO Shortlist: Top Priorities at RSA 2022](https://www.darkreading.com/tech-trends/the-ciso-shortlist-top-priorities-at-rsa-2022)
+- [The CISO Shortlist: Top Priorities at RSAC 2022](https://www.darkreading.com/tech-trends/the-ciso-shortlist-top-priorities-at-rsa-2022)
 - [Are You Ready for a Breach in Your Organization&#39;s Slack Workspace?](https://www.darkreading.com/attacks-breaches/are-you-ready-for-a-breach-in-your-organization-s-slack-workspace-)
 - [Name That Edge Toon: Hey, Batter Batter!](https://www.darkreading.com/edge-articles/name-that-edge-toon-hey-batter-batter-)
 - [Gathering Momentum: 3 Steps Forward to Expand SBoM Use](https://www.darkreading.com/application-security/three-steps-forward-wxpand-sbom-use)
