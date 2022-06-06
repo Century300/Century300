@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are You Ready for a Breach in Your Organization&#39;s Slack Workspace?](https://www.darkreading.com/attacks-breaches/are-you-ready-for-a-breach-in-your-organization-s-slack-workspace-)
 - [Name That Edge Toon: Hey, Batter Batter!](https://www.darkreading.com/edge-articles/name-that-edge-toon-hey-batter-batter-)
 - [Gathering Momentum: 3 Steps Forward to Expand SBoM Use](https://www.darkreading.com/application-security/three-steps-forward-wxpand-sbom-use)
 - [FDA: Patch Illumina DNA Sequencing Instruments, Stat](https://www.darkreading.com/vulnerabilities-threats/fda-patch-illumina-dna-sequencing-instruments)
@@ -82,7 +83,6 @@
 - [Iconium Software Releases DataLenz v1.3 for IBM zSystems](https://www.darkreading.com/analytics/iconium-software-releases-datalenz-v1-3-for-ibm-zsystems)
 - [Microsoft Disables Iran-Linked Lebanese Hacking Group Polonium](https://www.darkreading.com/vulnerabilities-threats/microsoft-disables-iran-linked-lebanese-hacking-group-polonium)
 - [Actively Exploited Atlassian Zero-Day Bug Allows Full System Takeover](https://www.darkreading.com/cloud/actively-exploited-atlassian-zero-day-bug-full-system-takeover)
-- [Why Network Object Management Is Critical for Managing Multicloud Network Security](https://www.darkreading.com/cloud/why-network-object-management-is-critical-for-managing-multicloud-network-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
