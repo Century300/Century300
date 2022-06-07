@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Multilevel Extortion: DeadBolt Ransomware Targets Internet-Facing NAS Devices](https://www.darkreading.com/threat-intelligence/multilevel-extortion-deadbolt-ransomware-targets-internet-facing-nas-devices)
 - [How the C-Suite Puts Shoulders Into Zero Trust in 2022](https://www.darkreading.com/cloud/c-suite-shoulders-zero-trust-2022)
 - [RSAC Opens With Message of Transformation](https://www.darkreading.com/careers-and-people/rsac-opens-message-transformation)
 - [Enterprise Security Around the Dinner Table](https://www.darkreading.com/omdia/enterprise-security-around-the-dinner-table)
@@ -82,7 +83,6 @@
 - [Harnessing AI to Proactively Thwart Threats](https://www.darkreading.com/dr-tech/harnessing-ai-to-proactively-thwart-threats)
 - [Akamai Launches New Malware Protection for Uploaded Files](https://www.darkreading.com/attacks-breaches/akamai-launches-new-malware-protection-for-uploaded-files)
 - [Cybersecurity Industry Leaders Launch Campaign to Close the Cybersecurity Talent Gap](https://www.darkreading.com/careers-and-people/cybersecurity-industry-leaders-launch-campaign-to-close-the-cybersecurity-talent-gap)
-- [CISA Challenges Partners and Public to Push for &#39;More Than a Password&#39; in New Social Media Campaign](https://www.darkreading.com/endpoint/cisa-challenges-partners-and-public-to-push-for-more-than-a-password-in-new-social-media-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
