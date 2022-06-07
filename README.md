@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprise Security Around the Dinner Table](https://www.darkreading.com/omdia/enterprise-security-around-the-dinner-table)
 - [7 NFT Scams That Could Be Targeting Your Brand](https://www.darkreading.com/vulnerabilities-threats/7-nft-scams-that-could-be-targeting-your-brand)
 - [Harnessing AI to Proactively Thwart Threats](https://www.darkreading.com/dr-tech/harnessing-ai-to-proactively-thwart-threats)
 - [Akamai Launches New Malware Protection for Uploaded Files](https://www.darkreading.com/attacks-breaches/akamai-launches-new-malware-protection-for-uploaded-files)
@@ -82,7 +83,6 @@
 - [CISA Challenges Partners and Public to Push for &#39;More Than a Password&#39; in New Social Media Campaign](https://www.darkreading.com/endpoint/cisa-challenges-partners-and-public-to-push-for-more-than-a-password-in-new-social-media-campaign)
 - [Forescout Announces Intent to Acquire Cysiv to Deliver Data-Powered Threat Detection and Response](https://www.darkreading.com/cloud/forescout-announces-intent-to-acquire-cysiv-to-deliver-data-powered-threat-detection-and-response)
 - [CyberRatings.org Announces Test on Cloud Network Firewall](https://www.darkreading.com/cloud/cyberratings-org-announces-test-on-cloud-network-firewall)
-- [Bugcrowd Expands Pen Testing Solutions with New Platform Services](https://www.darkreading.com/application-security/bugcrowd-expands-pen-testing-solutions-with-new-platform-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
