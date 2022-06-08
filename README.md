@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Talon Grasps Victory at a Jubilant RSAC Innovation Sandbox](https://www.darkreading.com/dr-tech/talon-grasps-victory-at-a-jubilant-rsac-innovation-sandbox)
 - [Black Basta Ransomware Targets ESXi Servers in Active Campaign](https://www.darkreading.com/threat-intelligence/black-basta-ransomware-esxi-servers-active-campaign)
 - [How Do We Secure Our Cities From Attack?](https://www.darkreading.com/physical-security/how-do-we-secure-our-cities-from-attack-)
 - [Now Is the Time to Plan for Post-Quantum Cryptography](https://www.darkreading.com/dr-tech/now-is-the-time-to-plan-for-post-quantum-cryptography)
@@ -82,7 +83,6 @@
 - [Mandia: Keep &#39;Shields Up&#39; to Survive the Current Escalation of Cyberattacks](https://www.darkreading.com/threat-intelligence/mandia-keep-shields-up-to-survive-the-current-escalation-of-cyberattacks)
 - [Multilevel Extortion: DeadBolt Ransomware Targets Internet-Facing NAS Devices](https://www.darkreading.com/threat-intelligence/multilevel-extortion-deadbolt-ransomware-targets-internet-facing-nas-devices)
 - [How the C-Suite Puts Shoulders Into Zero Trust in 2022](https://www.darkreading.com/cloud/c-suite-shoulders-zero-trust-2022)
-- [RSAC Opens With Message of Transformation](https://www.darkreading.com/careers-and-people/rsac-opens-message-transformation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
