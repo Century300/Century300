@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Black Basta Ransomware Targets ESXi Servers in Active Campaign](https://www.darkreading.com/threat-intelligence/black-basta-ransomware-esxi-servers-active-campaign)
 - [How Do We Secure Our Cities From Attack?](https://www.darkreading.com/physical-security/how-do-we-secure-our-cities-from-attack-)
 - [Now Is the Time to Plan for Post-Quantum Cryptography](https://www.darkreading.com/dr-tech/now-is-the-time-to-plan-for-post-quantum-cryptography)
 - [An Emerging Threat: Attacking 5G Via Network Slices](https://www.darkreading.com/threat-intelligence/an-emerging-threat-attacking-5g-via-network-slices)
@@ -82,7 +83,6 @@
 - [Multilevel Extortion: DeadBolt Ransomware Targets Internet-Facing NAS Devices](https://www.darkreading.com/threat-intelligence/multilevel-extortion-deadbolt-ransomware-targets-internet-facing-nas-devices)
 - [How the C-Suite Puts Shoulders Into Zero Trust in 2022](https://www.darkreading.com/cloud/c-suite-shoulders-zero-trust-2022)
 - [RSAC Opens With Message of Transformation](https://www.darkreading.com/careers-and-people/rsac-opens-message-transformation)
-- [Enterprise Security Around the Dinner Table](https://www.darkreading.com/omdia/enterprise-security-around-the-dinner-table)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
