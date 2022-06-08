@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [An Emerging Threat: Attacking 5G Via Network Slices](https://www.darkreading.com/threat-intelligence/an-emerging-threat-attacking-5g-via-network-slices)
 - [Mandia: Keep &#39;Shields Up&#39; to Survive the Current Escalation of Cyberattacks](https://www.darkreading.com/threat-intelligence/mandia-keep-shields-up-to-survive-the-current-escalation-of-cyberattacks)
 - [Multilevel Extortion: DeadBolt Ransomware Targets Internet-Facing NAS Devices](https://www.darkreading.com/threat-intelligence/multilevel-extortion-deadbolt-ransomware-targets-internet-facing-nas-devices)
 - [How the C-Suite Puts Shoulders Into Zero Trust in 2022](https://www.darkreading.com/cloud/c-suite-shoulders-zero-trust-2022)
@@ -82,7 +83,6 @@
 - [Enterprise Security Around the Dinner Table](https://www.darkreading.com/omdia/enterprise-security-around-the-dinner-table)
 - [7 NFT Scams That Could Be Targeting Your Brand](https://www.darkreading.com/vulnerabilities-threats/7-nft-scams-that-could-be-targeting-your-brand)
 - [Harnessing AI to Proactively Thwart Threats](https://www.darkreading.com/dr-tech/harnessing-ai-to-proactively-thwart-threats)
-- [Akamai Launches New Malware Protection for Uploaded Files](https://www.darkreading.com/attacks-breaches/akamai-launches-new-malware-protection-for-uploaded-files)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
