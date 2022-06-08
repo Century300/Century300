@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lookout: Getting It Right at the Secure Service Edge](https://www.darkreading.com/cloud/getting-it-right-at-the-secure-service-edge)
 - [Talon Grasps Victory at a Jubilant RSAC Innovation Sandbox](https://www.darkreading.com/dr-tech/talon-grasps-victory-at-a-jubilant-rsac-innovation-sandbox)
 - [Black Basta Ransomware Targets ESXi Servers in Active Campaign](https://www.darkreading.com/threat-intelligence/black-basta-ransomware-esxi-servers-active-campaign)
 - [How Do We Secure Our Cities From Attack?](https://www.darkreading.com/physical-security/how-do-we-secure-our-cities-from-attack-)
@@ -82,7 +83,6 @@
 - [An Emerging Threat: Attacking 5G Via Network Slices](https://www.darkreading.com/threat-intelligence/an-emerging-threat-attacking-5g-via-network-slices)
 - [Mandia: Keep &#39;Shields Up&#39; to Survive the Current Escalation of Cyberattacks](https://www.darkreading.com/threat-intelligence/mandia-keep-shields-up-to-survive-the-current-escalation-of-cyberattacks)
 - [Multilevel Extortion: DeadBolt Ransomware Targets Internet-Facing NAS Devices](https://www.darkreading.com/threat-intelligence/multilevel-extortion-deadbolt-ransomware-targets-internet-facing-nas-devices)
-- [How the C-Suite Puts Shoulders Into Zero Trust in 2022](https://www.darkreading.com/cloud/c-suite-shoulders-zero-trust-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
