@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Uptycs: Observability Is Key to Cloud Security](https://www.darkreading.com/cloud/uptycs-observability-is-key-to-cloud-security)
+- [Automox Adds Automation to Patching, Vuln Management](https://www.darkreading.com/vulnerabilities-threats/automox-adds-automation-to-patching-vuln-management)
+- [Why AIs Will Become Hackers](https://www.darkreading.com/dr-tech/why-ais-will-become-hackers)
 - [ReliaQuest Bolsters Extended Detection With Threat Intelligence](https://www.darkreading.com/threat-intelligence/reliaquest-bolsters-extended-detection-with-threat-intelligence)
 - [37 Major Companies and Organizations Pledge to Enhance Cyber Resiliency and Counter Evolving Global Threats](https://www.darkreading.com/risk/37-major-companies-and-organizations-pledge-to-enhance-cyber-resiliency-and-counter-evolving-global-threats)
 - [How Poor Communication Opens the Door to Ransomware and Extortion](https://www.darkreading.com/vulnerabilities-threats/how-poor-communication-opens-the-door-to-ransomware-and-extortion)
 - [Security &amp; Productivity: The New Power Couple](https://www.darkreading.com/risk/security-productivity-the-new-power-couple)
 - [Anjuna Security: Tapping ‘Confidential Computing’ to Secure Data, Users, and Organizations](https://www.darkreading.com/cloud/tapping-confidential-computing-to-secure-data-users-and-organizations)
-- [DeepSurface Security: Risk-Based Prioritization Adds New Depth to Vulnerability Management](https://www.darkreading.com/risk/risk-based-prioritization-adds-new-depth-to-vulnerability-management)
-- [China-Sponsored Cyberattackers Target Networking Gear to Build Widespread Attack Infrastructure](https://www.darkreading.com/threat-intelligence/china-sponsored-cyberattackers-target-networking-gear-to-build-widespread-attack-infrastructure)
-- [ConcentricAI: How To Maximize Your AI Returns, In and Out of the SOC](https://www.darkreading.com/threat-intelligence/concentric-concentric-how-to-maximize-your-ai-returns-in-and-out-of-the-soc)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
