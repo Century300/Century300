@@ -79,9 +79,9 @@
 - [Anjuna Security: Tapping ‘Confidential Computing’ to Secure Data, Users, and Organizations](https://www.darkreading.com/cloud/tapping-confidential-computing-to-secure-data-users-and-organizations)
 - [DeepSurface Security: Risk-Based Prioritization Adds New Depth to Vulnerability Management](https://www.darkreading.com/risk/risk-based-prioritization-adds-new-depth-to-vulnerability-management)
 - [China-Sponsored Cyberattackers Target Networking Gear to Build Widespread Attack Infrastructure](https://www.darkreading.com/threat-intelligence/china-sponsored-cyberattackers-target-networking-gear-to-build-widespread-attack-infrastructure)
-- [Concentric: How To Maximize Your AI Returns, In and Out of the SOC](https://www.darkreading.com/threat-intelligence/concentric-concentric-how-to-maximize-your-ai-returns-in-and-out-of-the-soc)
+- [ConcentricAI: How To Maximize Your AI Returns, In and Out of the SOC](https://www.darkreading.com/threat-intelligence/concentric-concentric-how-to-maximize-your-ai-returns-in-and-out-of-the-soc)
 - [Cracking the Email Security Code: 12 Best Practices for Small and Midsize Businesses](https://www.darkreading.com/vulnerabilities-threats/cracking-the-email-security-code-12-best-practices-for-small-and-midsize-businesses)
-- [Lookout: Getting It Right at the Secure Service Edge](https://www.darkreading.com/cloud/getting-it-right-at-the-secure-service-edge)
+- [Getting It Right at the Secure Service Edge](https://www.darkreading.com/cloud/getting-it-right-at-the-secure-service-edge)
 - [Talon Grasps Victory at a Jubilant RSAC Innovation Sandbox](https://www.darkreading.com/dr-tech/talon-grasps-victory-at-a-jubilant-rsac-innovation-sandbox)
 <!-- DARKREADING:END -->
 
