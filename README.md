@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Identity-First Security Helps Reduce and Neutralize Enterprise Threats](https://www.darkreading.com/remote-workforce/identity-first-security-helps-reduce-and-neutralize-enterprise-threats)
 - [Emotet Banking Trojan Resurfaces, Skating Past Email Security](https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security)
 - [Cisco Makes Resilience a Cornerstone of Security Strategy](https://www.darkreading.com/cloud/cisco-makes-resilience-a-cornerstone-of-security-strategy)
 - [Sophos: Keeping Tabs on the Bad Guys Using Threat Research](https://www.darkreading.com/vulnerabilities-threats/sophos-keeping-tabs-on-the-bad-guys-using-threat-research)
@@ -82,7 +83,6 @@
 - [How AI Is Useful — and Not Useful — for Cybersecurity](https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity)
 - [Want Better Security? Up Your Collaboration Game](https://www.darkreading.com/cloud/want-better-security-up-your-collaboration-game)
 - [Uptycs: Observability Is Key to Cloud Security](https://www.darkreading.com/cloud/uptycs-observability-is-key-to-cloud-security)
-- [Automox Adds Automation to Patching, Vuln Management](https://www.darkreading.com/vulnerabilities-threats/automox-adds-automation-to-patching-vuln-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
