@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sysdig Takes a Deeper Cut at Cloud Security](https://www.darkreading.com/cloud/sysdig-takes-a-deeper-cut-at-cloud-security)
+- [Noname: Proactiveness Is the Name of the Game in App Security](https://www.darkreading.com/application-security/noname-proactiveness-is-the-name-of-the-game-in-app-security)
+- [Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security](https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security)
 - [Prevent Breaches and Malware With Proactive Defenses](https://www.darkreading.com/risk/prevent-breaches-and-malware-with-proactive-defenses)
 - [DigiCert Acquires DNS Made Easy](https://www.darkreading.com/operations/digicert-acquires-dns-made-easy)
 - [Identity-First Security Helps Reduce and Neutralize Enterprise Threats](https://www.darkreading.com/remote-workforce/identity-first-security-helps-reduce-and-neutralize-enterprise-threats)
 - [Emotet Banking Trojan Resurfaces, Skating Past Email Security](https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security)
 - [Cisco Makes Resilience a Cornerstone of Security Strategy](https://www.darkreading.com/cloud/cisco-makes-resilience-a-cornerstone-of-security-strategy)
-- [Sophos: Keeping Tabs on the Bad Guys Using Threat Research](https://www.darkreading.com/vulnerabilities-threats/sophos-keeping-tabs-on-the-bad-guys-using-threat-research)
-- [Cisco Revamps Cloud Security Strategy With New Secure Access, SASE Portfolio](https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio)
-- [How AI Is Useful — and Not Useful — for Cybersecurity](https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
