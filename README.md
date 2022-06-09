@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Emotet Banking Trojan Resurfaces, Skating Past Email Security](https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security)
 - [Cisco Makes Resilience a Cornerstone of Security Strategy](https://www.darkreading.com/cloud/cisco-makes-resilience-a-cornerstone-of-security-strategy)
 - [Sophos: Keeping Tabs on the Bad Guys Using Threat Research](https://www.darkreading.com/vulnerabilities-threats/sophos-keeping-tabs-on-the-bad-guys-using-threat-research)
 - [Cisco Revamps Cloud Security Strategy With New Secure Access, SASE Portfolio](https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio)
@@ -82,7 +83,6 @@
 - [Want Better Security? Up Your Collaboration Game](https://www.darkreading.com/cloud/want-better-security-up-your-collaboration-game)
 - [Uptycs: Observability Is Key to Cloud Security](https://www.darkreading.com/cloud/uptycs-observability-is-key-to-cloud-security)
 - [Automox Adds Automation to Patching, Vuln Management](https://www.darkreading.com/vulnerabilities-threats/automox-adds-automation-to-patching-vuln-management)
-- [Why AIs Will Become Hackers](https://www.darkreading.com/dr-tech/why-ais-will-become-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
