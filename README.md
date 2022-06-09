@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Makes Resilience a Cornerstone of Security Strategy](https://www.darkreading.com/cloud/cisco-makes-resilience-a-cornerstone-of-security-strategy)
+- [Sophos: Keeping Tabs on the Bad Guys Using Threat Research](https://www.darkreading.com/vulnerabilities-threats/sophos-keeping-tabs-on-the-bad-guys-using-threat-research)
+- [Cisco Revamps Cloud Security Strategy With New Secure Access, SASE Portfolio](https://www.darkreading.com/dr-tech/cisco-revamps-cloud-security-strategy-with-new-secure-access-sase-portfolio)
 - [How AI Is Useful — and Not Useful — for Cybersecurity](https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity)
 - [Want Better Security? Up Your Collaboration Game](https://www.darkreading.com/cloud/want-better-security-up-your-collaboration-game)
 - [Uptycs: Observability Is Key to Cloud Security](https://www.darkreading.com/cloud/uptycs-observability-is-key-to-cloud-security)
 - [Automox Adds Automation to Patching, Vuln Management](https://www.darkreading.com/vulnerabilities-threats/automox-adds-automation-to-patching-vuln-management)
 - [Why AIs Will Become Hackers](https://www.darkreading.com/dr-tech/why-ais-will-become-hackers)
-- [ReliaQuest Bolsters Extended Detection With Threat Intelligence](https://www.darkreading.com/threat-intelligence/reliaquest-bolsters-extended-detection-with-threat-intelligence)
-- [37 Major Companies and Organizations Pledge to Enhance Cyber Resiliency and Counter Evolving Global Threats](https://www.darkreading.com/risk/37-major-companies-and-organizations-pledge-to-enhance-cyber-resiliency-and-counter-evolving-global-threats)
-- [How Poor Communication Opens the Door to Ransomware and Extortion](https://www.darkreading.com/vulnerabilities-threats/how-poor-communication-opens-the-door-to-ransomware-and-extortion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
