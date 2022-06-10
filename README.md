@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Few Simple Ways to Transform Your Cybersecurity Hiring](https://www.darkreading.com/careers-and-people/a-few-simple-ways-to-transform-your-cybersecurity-hiring)
 - [Artificial Intelligence and Security: What You Should Know](https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know)
 - [How 4 Young Musicians Hacked Sheet Music to Help Fight the Cold War](https://www.darkreading.com/edge-articles/-9-57-am-kesten-gayle-how-4-young-musicians-hacked-sheet-music-to-help-fight-the-cold-war)
 - [In a Quickly Evolving Landscape, CISOs Shift Their 2022 Priorities](https://www.darkreading.com/cloud/quickly-evolving-landscape-cisos-shift-2022-priorities)
@@ -82,7 +83,6 @@
 - [Sysdig Takes a Deeper Cut at Cloud Security](https://www.darkreading.com/cloud/sysdig-takes-a-deeper-cut-at-cloud-security)
 - [Noname: Proactiveness Is the Name of the Game in App Security](https://www.darkreading.com/application-security/noname-proactiveness-is-the-name-of-the-game-in-app-security)
 - [Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security](https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security)
-- [Prevent Breaches and Malware With Proactive Defenses](https://www.darkreading.com/risk/prevent-breaches-and-malware-with-proactive-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
