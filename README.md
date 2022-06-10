@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Introduces Humio for Falcon, Redefining Threat Hunting with Unparalleled Scale and Speed](https://www.darkreading.com/cloud/crowdstrike-introduces-humio-for-falcon-redefining-threat-hunting-with-unparalleled-scale-and-speed)
+- [CrowdStrike Introduces CrowdStrike Asset Graph to Help Organizations Proactively Identify and Eliminate Blind Spots](https://www.darkreading.com/cloud/crowdstrike-introduces-crowdstrike-asset-graph-to-help-organizations-proactively-identify-and-eliminate-blind-spots)
+- [CrowdStrike Adds Strategic Partners to CrowdXDR Alliance and Expands Falcon XDR Capabilities](https://www.darkreading.com/cloud/crowdstrike-adds-strategic-partners-to-crowdxdr-alliance-and-expands-falcon-xdr-capabilities)
 - [EU Debates AI Act to Protect Human Rights, Define High-Risk Uses](https://www.darkreading.com/edge-articles/eu-debates-ai-act-to-protect-human-rights-define-high-risk-uses)
 - [How to Blunt the Virulence of the New Ransomware](https://www.darkreading.com/vulnerabilities-threats/how-to-blunt-the-virulence-of-the-new-ransomware)
 - [How to Secure a High-Profile Event Like the Super Bowl](https://www.darkreading.com/application-security/how-to-secure-a-high-profile-event-like-the-super-bowl)
 - [Application Security Testing Is on the Mend With Automated Remediation](https://www.darkreading.com/application-security/application-security-testing-is-on-the-mend-with-automated-remediation)
 - [New Linux Malware &#39;Nearly Impossible to Detect&#39;](https://www.darkreading.com/threat-intelligence/new-linux-malware-nearly-impossible-to-detect-)
-- [Mitigating the Security Skills Shortage](https://www.darkreading.com/careers-and-people/mitigating-the-security-skills-shortage)
-- [A Few Simple Ways to Transform Your Cybersecurity Hiring](https://www.darkreading.com/careers-and-people/a-few-simple-ways-to-transform-your-cybersecurity-hiring)
-- [Artificial Intelligence and Security: What You Should Know](https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
