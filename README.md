@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [In a Quickly Evolving Landscape, CISOs Shift Their 2022 Priorities](https://www.darkreading.com/cloud/quickly-evolving-landscape-cisos-shift-2022-priorities)
 - [Design Weakness Discovered in Apple M1 Kernel Protections](https://www.darkreading.com/dr-tech/design-weakness-discovered-in-apple-m1-kernel-protections)
 - [Sysdig Takes a Deeper Cut at Cloud Security](https://www.darkreading.com/cloud/sysdig-takes-a-deeper-cut-at-cloud-security)
 - [Noname: Proactiveness Is the Name of the Game in App Security](https://www.darkreading.com/application-security/noname-proactiveness-is-the-name-of-the-game-in-app-security)
@@ -82,7 +83,6 @@
 - [Prevent Breaches and Malware With Proactive Defenses](https://www.darkreading.com/risk/prevent-breaches-and-malware-with-proactive-defenses)
 - [DigiCert Acquires DNS Made Easy](https://www.darkreading.com/operations/digicert-acquires-dns-made-easy)
 - [Identity-First Security Helps Reduce and Neutralize Enterprise Threats](https://www.darkreading.com/remote-workforce/identity-first-security-helps-reduce-and-neutralize-enterprise-threats)
-- [Emotet Banking Trojan Resurfaces, Skating Past Email Security](https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
