@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Design Weakness Discovered in Apple M1 Kernel Protections](https://www.darkreading.com/dr-tech/design-weakness-discovered-in-apple-m1-kernel-protections)
 - [Sysdig Takes a Deeper Cut at Cloud Security](https://www.darkreading.com/cloud/sysdig-takes-a-deeper-cut-at-cloud-security)
 - [Noname: Proactiveness Is the Name of the Game in App Security](https://www.darkreading.com/application-security/noname-proactiveness-is-the-name-of-the-game-in-app-security)
 - [Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security](https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security)
@@ -82,7 +83,6 @@
 - [DigiCert Acquires DNS Made Easy](https://www.darkreading.com/operations/digicert-acquires-dns-made-easy)
 - [Identity-First Security Helps Reduce and Neutralize Enterprise Threats](https://www.darkreading.com/remote-workforce/identity-first-security-helps-reduce-and-neutralize-enterprise-threats)
 - [Emotet Banking Trojan Resurfaces, Skating Past Email Security](https://www.darkreading.com/threat-intelligence/emotet-banking-trojan-resurfaces-email-security)
-- [Cisco Makes Resilience a Cornerstone of Security Strategy](https://www.darkreading.com/cloud/cisco-makes-resilience-a-cornerstone-of-security-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
