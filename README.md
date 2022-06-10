@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Application Security Testing Is on the Mend With Automated Remediation](https://www.darkreading.com/application-security/application-security-testing-is-on-the-mend-with-automated-remediation)
+- [New Linux Malware &#39;Nearly Impossible to Detect&#39;](https://www.darkreading.com/threat-intelligence/new-linux-malware-nearly-impossible-to-detect-)
+- [Mitigating the Security Skills Shortage](https://www.darkreading.com/careers-and-people/mitigating-the-security-skills-shortage)
 - [A Few Simple Ways to Transform Your Cybersecurity Hiring](https://www.darkreading.com/careers-and-people/a-few-simple-ways-to-transform-your-cybersecurity-hiring)
 - [Artificial Intelligence and Security: What You Should Know](https://www.darkreading.com/attacks-breaches/artificial-intelligence-and-security-what-you-should-know)
 - [How 4 Young Musicians Hacked Sheet Music to Help Fight the Cold War](https://www.darkreading.com/edge-articles/-9-57-am-kesten-gayle-how-4-young-musicians-hacked-sheet-music-to-help-fight-the-cold-war)
 - [In a Quickly Evolving Landscape, CISOs Shift Their 2022 Priorities](https://www.darkreading.com/cloud/quickly-evolving-landscape-cisos-shift-2022-priorities)
 - [Design Weakness Discovered in Apple M1 Kernel Protections](https://www.darkreading.com/dr-tech/design-weakness-discovered-in-apple-m1-kernel-protections)
-- [Sysdig Takes a Deeper Cut at Cloud Security](https://www.darkreading.com/cloud/sysdig-takes-a-deeper-cut-at-cloud-security)
-- [Noname: Proactiveness Is the Name of the Game in App Security](https://www.darkreading.com/application-security/noname-proactiveness-is-the-name-of-the-game-in-app-security)
-- [Lacework Blends Artificial Intelligence and Automation to Bolster Cloud Security](https://www.darkreading.com/cloud/lacework-blends-artificial-intelligence-and-automation-to-bolster-cloud-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
