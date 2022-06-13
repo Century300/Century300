@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tony Jarvis on Shifting Security Gears as We Move to the Cloud](https://www.darkreading.com/tech-talks/tony-jarvis-on-shifting-security-gears-as-we-move-to-the-cloud)
 - [3 Big Takeaways From the Verizon DBIR 2022](https://www.darkreading.com/attacks-breaches/3-big-takeaways-from-the-verizon-dbir-2022)
 - [DoS Vulnerability Allows Easy Envoy Proxy Crashes](https://www.darkreading.com/cloud/dos-vulnerability-envoy-proxy-crashes)
 - [Security Leaders Discuss Industry Drivers at Dark Reading&#39;s News Desk at RSAC 2022](https://www.darkreading.com/cloud/security-leaders-discuss-industry-drivers-at-dark-reading-s-news-desk-at-rsac-2022)
@@ -82,7 +83,6 @@
 - [Symbiote Malware Poses Stealthy, Linux-Based Threat to Financial Industry](https://www.darkreading.com/threat-intelligence/symbiote-malware-stealthy-linux-based-threat-financial-industry)
 - [CrowdStrike Introduces CrowdStrike Asset Graph to Help Organizations Proactively Identify and Eliminate Blind Spots](https://www.darkreading.com/cloud/crowdstrike-introduces-crowdstrike-asset-graph-to-help-organizations-proactively-identify-and-eliminate-blind-spots)
 - [CrowdStrike Adds Strategic Partners to CrowdXDR Alliance and Expands Falcon XDR Capabilities](https://www.darkreading.com/cloud/crowdstrike-adds-strategic-partners-to-crowdxdr-alliance-and-expands-falcon-xdr-capabilities)
-- [EU Debates AI Act to Protect Human Rights, Define High-Risk Uses](https://www.darkreading.com/edge-articles/eu-debates-ai-act-to-protect-human-rights-define-high-risk-uses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
