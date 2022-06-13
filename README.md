@@ -76,13 +76,13 @@
 
 <!-- DARKREADING:START -->
 - [3 Big Takeaways From the Verizon DBIR 2022](https://www.darkreading.com/attacks-breaches/3-big-takeaways-from-the-verizon-dbir-2022)
+- [DoS Vulnerability Allows Easy Envoy Proxy Crashes](https://www.darkreading.com/cloud/dos-vulnerability-envoy-proxy-crashes)
 - [Security Leaders Discuss Industry Drivers at Dark Reading&#39;s News Desk at RSAC 2022](https://www.darkreading.com/cloud/security-leaders-discuss-industry-drivers-at-dark-reading-s-news-desk-at-rsac-2022)
 - [CrowdStrike Introduces Humio for Falcon, Redefining Threat Hunting with Unparalleled Scale and Speed](https://www.darkreading.com/cloud/crowdstrike-introduces-humio-for-falcon-redefining-threat-hunting-with-unparalleled-scale-and-speed)
 - [Symbiote Malware Poses Stealthy, Linux-Based Threat to Financial Industry](https://www.darkreading.com/threat-intelligence/symbiote-malware-stealthy-linux-based-threat-financial-industry)
 - [CrowdStrike Introduces CrowdStrike Asset Graph to Help Organizations Proactively Identify and Eliminate Blind Spots](https://www.darkreading.com/cloud/crowdstrike-introduces-crowdstrike-asset-graph-to-help-organizations-proactively-identify-and-eliminate-blind-spots)
 - [CrowdStrike Adds Strategic Partners to CrowdXDR Alliance and Expands Falcon XDR Capabilities](https://www.darkreading.com/cloud/crowdstrike-adds-strategic-partners-to-crowdxdr-alliance-and-expands-falcon-xdr-capabilities)
 - [EU Debates AI Act to Protect Human Rights, Define High-Risk Uses](https://www.darkreading.com/edge-articles/eu-debates-ai-act-to-protect-human-rights-define-high-risk-uses)
-- [How to Blunt the Virulence of the New Ransomware](https://www.darkreading.com/vulnerabilities-threats/how-to-blunt-the-virulence-of-the-new-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
