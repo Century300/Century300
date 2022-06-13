@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kaiser Permanente Breach Exposes Data on 70K Patients](https://www.darkreading.com/attacks-breaches/kaiser-permanente-breach-exposes-70k-patients-data)
 - [Exposed Travis CI API Leaves All Free-Tier Users Open to Attack](https://www.darkreading.com/threat-intelligence/exposed-travis-ci-api-leaves-all-free-tier-users-open-to-attack)
 - [In Security, Less Is More](https://www.darkreading.com/edge-articles/in-security-less-is-more)
 - [Tony Jarvis on Shifting Security Gears as We Move to the Cloud](https://www.darkreading.com/tech-talks/tony-jarvis-on-shifting-security-gears-as-we-move-to-the-cloud)
@@ -82,7 +83,6 @@
 - [DoS Vulnerability Allows Easy Envoy Proxy Crashes](https://www.darkreading.com/cloud/dos-vulnerability-envoy-proxy-crashes)
 - [Security Leaders Discuss Industry Drivers at Dark Reading&#39;s News Desk at RSAC 2022](https://www.darkreading.com/cloud/security-leaders-discuss-industry-drivers-at-dark-reading-s-news-desk-at-rsac-2022)
 - [CrowdStrike Introduces Humio for Falcon, Redefining Threat Hunting with Unparalleled Scale and Speed](https://www.darkreading.com/cloud/crowdstrike-introduces-humio-for-falcon-redefining-threat-hunting-with-unparalleled-scale-and-speed)
-- [Symbiote Malware Poses Stealthy, Linux-Based Threat to Financial Industry](https://www.darkreading.com/threat-intelligence/symbiote-malware-stealthy-linux-based-threat-financial-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
