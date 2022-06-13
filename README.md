@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Recommends Organizations Update to the Latest Version of Google Chrome](https://www.darkreading.com/vulnerabilities-threats/cisa-encourages-organizations-to-updated-to-latest-chrome-version)
 - [Kaiser Permanente Breach Exposes Data on 70K Patients](https://www.darkreading.com/attacks-breaches/kaiser-permanente-breach-exposes-70k-patients-data)
 - [Exposed Travis CI API Leaves All Free-Tier Users Open to Attack](https://www.darkreading.com/threat-intelligence/exposed-travis-ci-api-leaves-all-free-tier-users-open-to-attack)
 - [In Security, Less Is More](https://www.darkreading.com/edge-articles/in-security-less-is-more)
@@ -82,7 +83,6 @@
 - [3 Big Takeaways From the Verizon DBIR 2022](https://www.darkreading.com/attacks-breaches/3-big-takeaways-from-the-verizon-dbir-2022)
 - [DoS Vulnerability Allows Easy Envoy Proxy Crashes](https://www.darkreading.com/cloud/dos-vulnerability-envoy-proxy-crashes)
 - [Security Leaders Discuss Industry Drivers at Dark Reading&#39;s News Desk at RSAC 2022](https://www.darkreading.com/cloud/security-leaders-discuss-industry-drivers-at-dark-reading-s-news-desk-at-rsac-2022)
-- [CrowdStrike Introduces Humio for Falcon, Redefining Threat Hunting with Unparalleled Scale and Speed](https://www.darkreading.com/cloud/crowdstrike-introduces-humio-for-falcon-redefining-threat-hunting-with-unparalleled-scale-and-speed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
