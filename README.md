@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
+- [DDoS Subscription Service Operator Gets 2 Years in Prison](https://www.darkreading.com/attacks-breaches/operator-of-ddos-attack-subscription-service-gets-2-years-in-prison)
 - [Incognia Introduces Location-Based Liveness Spoofing Detection Solution](https://www.darkreading.com/risk/incognia-introduces-location-based-liveness-spoofing-detection-solution)
 - [Google: SBOMs Effective Only if They Map to Known Vulns](https://www.darkreading.com/vulnerabilities-threats/sboms-only-effective-if-they-map-to-known-flaws)
+- [Chinese Threat Actor Employs Fake Removable Devices as Lures in Cyber-Espionage Campaign](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-employs-fake-removable-devices-as-lures-in-cyber-espionage-campaign)
 - [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
 - [Optiv MXDR Enhances Detection Coverage With Expanded Cloud Integration](https://www.darkreading.com/cloud/optiv-mxdr-enhances-detection-coverage-with-expanded-cloud-integration)
 - [Beware the &#39;Secret Agent&#39; Cloud Middleware](https://www.darkreading.com/cloud/beware-the-secret-agent-cloud-middleware)
-- [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint/understanding-and-mitigating-single-sign-on-risk)
-- [Corel Acquires Awingu](https://www.darkreading.com/remote-workforce/corel-acquires-awingu)
-- [CISA Recommends Organizations Update to the Latest Version of Google Chrome](https://www.darkreading.com/vulnerabilities-threats/cisa-encourages-organizations-to-updated-to-latest-chrome-version)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
