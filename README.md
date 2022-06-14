@@ -76,7 +76,7 @@
 
 <!-- DARKREADING:START -->
 - [Incognia Introduces Location-Based Liveness Spoofing Detection Solution](https://www.darkreading.com/risk/incognia-introduces-location-based-liveness-spoofing-detection-solution)
-- [Google: SBOMs Effective Only If They Map to Known Vulns](https://www.darkreading.com/vulnerabilities-threats/sboms-only-effective-if-they-map-to-known-flaws)
+- [Google: SBOMs Effective Only if They Map to Known Vulns](https://www.darkreading.com/vulnerabilities-threats/sboms-only-effective-if-they-map-to-known-flaws)
 - [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
 - [Optiv MXDR Enhances Detection Coverage With Expanded Cloud Integration](https://www.darkreading.com/cloud/optiv-mxdr-enhances-detection-coverage-with-expanded-cloud-integration)
 - [Beware the &#39;Secret Agent&#39; Cloud Middleware](https://www.darkreading.com/cloud/beware-the-secret-agent-cloud-middleware)
