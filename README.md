@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
+- [Optiv MXDR Enhances Detection Coverage With Expanded Cloud Integration](https://www.darkreading.com/cloud/optiv-mxdr-enhances-detection-coverage-with-expanded-cloud-integration)
+- [Beware the &#39;Secret Agent&#39; Cloud Middleware](https://www.darkreading.com/cloud/beware-the-secret-agent-cloud-middleware)
 - [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint/understanding-and-mitigating-single-sign-on-risk)
 - [Corel Acquires Awingu](https://www.darkreading.com/remote-workforce/corel-acquires-awingu)
 - [CISA Recommends Organizations Update to the Latest Version of Google Chrome](https://www.darkreading.com/vulnerabilities-threats/cisa-encourages-organizations-to-updated-to-latest-chrome-version)
 - [Kaiser Permanente Breach Exposes Data on 70K Patients](https://www.darkreading.com/attacks-breaches/kaiser-permanente-breach-exposes-70k-patients-data)
 - [Exposed Travis CI API Leaves All Free-Tier Users Open to Attack](https://www.darkreading.com/threat-intelligence/exposed-travis-ci-api-leaves-all-free-tier-users-open-to-attack)
-- [In Security, Less Is More](https://www.darkreading.com/edge-articles/in-security-less-is-more)
-- [Tony Jarvis on Shifting Security Gears as We Move to the Cloud](https://www.darkreading.com/tech-talks/tony-jarvis-on-shifting-security-gears-as-we-move-to-the-cloud)
-- [3 Big Takeaways From the Verizon DBIR 2022](https://www.darkreading.com/attacks-breaches/3-big-takeaways-from-the-verizon-dbir-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
