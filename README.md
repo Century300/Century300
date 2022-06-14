@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Understanding and Mitigating Single Sign-on Risk](https://www.darkreading.com/endpoint/understanding-and-mitigating-single-sign-on-risk)
 - [Corel Acquires Awingu](https://www.darkreading.com/remote-workforce/corel-acquires-awingu)
 - [CISA Recommends Organizations Update to the Latest Version of Google Chrome](https://www.darkreading.com/vulnerabilities-threats/cisa-encourages-organizations-to-updated-to-latest-chrome-version)
 - [Kaiser Permanente Breach Exposes Data on 70K Patients](https://www.darkreading.com/attacks-breaches/kaiser-permanente-breach-exposes-70k-patients-data)
@@ -82,7 +83,6 @@
 - [In Security, Less Is More](https://www.darkreading.com/edge-articles/in-security-less-is-more)
 - [Tony Jarvis on Shifting Security Gears as We Move to the Cloud](https://www.darkreading.com/tech-talks/tony-jarvis-on-shifting-security-gears-as-we-move-to-the-cloud)
 - [3 Big Takeaways From the Verizon DBIR 2022](https://www.darkreading.com/attacks-breaches/3-big-takeaways-from-the-verizon-dbir-2022)
-- [DoS Vulnerability Allows Easy Envoy Proxy Crashes](https://www.darkreading.com/cloud/dos-vulnerability-envoy-proxy-crashes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
