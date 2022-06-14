@@ -76,13 +76,13 @@
 
 <!-- DARKREADING:START -->
 - [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
+- [Microsoft Patches &#39;Follina&#39; Zero-Day Flaw in Monthly Security Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-june-security-update-includes-patch-for-follina-zero-day-flaw)
 - [DDoS Subscription Service Operator Gets 2 Years in Prison](https://www.darkreading.com/attacks-breaches/operator-of-ddos-attack-subscription-service-gets-2-years-in-prison)
 - [Incognia Introduces Location-Based Liveness Spoofing Detection Solution](https://www.darkreading.com/risk/incognia-introduces-location-based-liveness-spoofing-detection-solution)
 - [Google: SBOMs Effective Only if They Map to Known Vulns](https://www.darkreading.com/vulnerabilities-threats/sboms-only-effective-if-they-map-to-known-flaws)
 - [Chinese Threat Actor Employs Fake Removable Devices as Lures in Cyber-Espionage Campaign](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-employs-fake-removable-devices-as-lures-in-cyber-espionage-campaign)
 - [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
 - [Optiv MXDR Enhances Detection Coverage With Expanded Cloud Integration](https://www.darkreading.com/cloud/optiv-mxdr-enhances-detection-coverage-with-expanded-cloud-integration)
-- [Beware the &#39;Secret Agent&#39; Cloud Middleware](https://www.darkreading.com/cloud/beware-the-secret-agent-cloud-middleware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
