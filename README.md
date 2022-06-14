@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Threat Actor Employs Fake Removable Devices as Lures in Cyber Espionage Campaign](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-employs-fake-removable-devices-as-lures-in-cyber-espionage-campaign)
 - [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
 - [Optiv MXDR Enhances Detection Coverage With Expanded Cloud Integration](https://www.darkreading.com/cloud/optiv-mxdr-enhances-detection-coverage-with-expanded-cloud-integration)
 - [Beware the &#39;Secret Agent&#39; Cloud Middleware](https://www.darkreading.com/cloud/beware-the-secret-agent-cloud-middleware)
@@ -82,7 +83,6 @@
 - [Corel Acquires Awingu](https://www.darkreading.com/remote-workforce/corel-acquires-awingu)
 - [CISA Recommends Organizations Update to the Latest Version of Google Chrome](https://www.darkreading.com/vulnerabilities-threats/cisa-encourages-organizations-to-updated-to-latest-chrome-version)
 - [Kaiser Permanente Breach Exposes Data on 70K Patients](https://www.darkreading.com/attacks-breaches/kaiser-permanente-breach-exposes-70k-patients-data)
-- [Exposed Travis CI API Leaves All Free-Tier Users Open to Attack](https://www.darkreading.com/threat-intelligence/exposed-travis-ci-api-leaves-all-free-tier-users-open-to-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
