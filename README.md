@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Ways to Bring AI to Cybersecurity](https://www.darkreading.com/the-cyber-future/7-ways-to-bring-ai-to-cybersecurity)
+- [&#39;Hertzbleed&#39; Side-Channel Attack Threatens Cryptographic Keys for Servers](https://www.darkreading.com/attacks-breaches/hertzbleed-side-channel-attack-cryptographic-keys-servers)
 - [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
+- [Critical Citrix Bugs Impact All ADM Servers, Agents](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bugs-impact-all-adm-servers-agents)
 - [Two Platforms to Rule Them All: CNAPP and SASE](https://www.darkreading.com/cloud/two-platforms-to-rule-them-all-cnapp-and-sase)
 - [Thousands Arrested in Global Raids on Social-Engineering Scammers](https://www.darkreading.com/threat-intelligence/thousands-arrested-global-raids-social-engineering-scammers)
 - [How Information Security Teams Can Help Reduce Stress and Burnout](https://www.darkreading.com/careers-and-people/how-information-security-teams-can-help-reduce-stress-and-burnout)
 - [Cybercriminals Capitalizing on Resurgence in Travel](https://www.darkreading.com/attacks-breaches/cybercriminals-capitalizing-on-resurgence-in-travel)
-- [Wormable Panchan Peer-to-Peer Botnet Harvests Linux Server Keys](https://www.darkreading.com/vulnerabilities-threats/panchan-peer-to-peer-botnet-harvests-ssh-keys)
-- [Why We Need Security Knowledge and Not Just Threat Intel](https://www.darkreading.com/threat-intelligence/why-we-need-security-knowledge-and-not-just-threat-intel)
-- [24+ Billion Credentials Circulating on the Dark Web in 2022 — So Far](https://www.darkreading.com/vulnerabilities-threats/24-billion-credentials-circulate-dark-web-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
