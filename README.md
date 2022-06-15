@@ -79,10 +79,10 @@
 - [In Case You Missed RSA Conference 2022: A News Digest](https://www.darkreading.com/threat-intelligence/in-case-you-missed-it-what-went-down-at-rsa-conference-2022)
 - [Microsoft Patches &#39;Follina&#39; Zero-Day Flaw in Monthly Security Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-june-security-update-includes-patch-for-follina-zero-day-flaw)
 - [DDoS Subscription Service Operator Gets 2 Years in Prison](https://www.darkreading.com/attacks-breaches/operator-of-ddos-attack-subscription-service-gets-2-years-in-prison)
+- [Quantifying the SaaS Supply Chain and Its Risks](https://www.darkreading.com/tech-trends/quantifying-the-saas-supply-chain-and-its-risks)
 - [Incognia Introduces Location-Based Liveness Spoofing Detection Solution](https://www.darkreading.com/risk/incognia-introduces-location-based-liveness-spoofing-detection-solution)
 - [Google: SBOMs Effective Only if They Map to Known Vulns](https://www.darkreading.com/vulnerabilities-threats/sboms-only-effective-if-they-map-to-known-flaws)
 - [Chinese Threat Actor Employs Fake Removable Devices as Lures in Cyber-Espionage Campaign](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-employs-fake-removable-devices-as-lures-in-cyber-espionage-campaign)
-- [How Can Security Partnerships Help to Mitigate the Increasing Cyber Threat?](https://www.darkreading.com/physical-security/how-can-security-partnerships-help-to-mitigate-the-increasing-cyber-threat-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
