@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are You Hiring Enough Entry-Level Security Pros?](https://www.darkreading.com/operations/are-you-hiring-enough-entry-level-security-pros-)
 - [How Should I Think About Security When Considering Digital Transformation Projects?](https://www.darkreading.com/edge-ask-the-experts/how-should-i-think-about-security-when-considering-digital-transformation-projects-)
 - [Cisco’s Ash Devata on the Future of Secure Access](https://www.darkreading.com/cloud/cisco-s-ash-devata-on-the-future-of-secure-access)
 - [7 Ways to Bring AI to Cybersecurity](https://www.darkreading.com/the-cyber-future/7-ways-to-bring-ai-to-cybersecurity)
@@ -82,7 +83,6 @@
 - [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
 - [Critical Citrix Bugs Impact All ADM Servers, Agents](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bugs-impact-all-adm-servers-agents)
 - [Two Platforms to Rule Them All: CNAPP and SASE](https://www.darkreading.com/cloud/two-platforms-to-rule-them-all-cnapp-and-sase)
-- [Thousands Arrested in Global Raids on Social-Engineering Scammers](https://www.darkreading.com/threat-intelligence/thousands-arrested-global-raids-social-engineering-scammers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
