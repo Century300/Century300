@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EU &amp; US Unite to Fight Ransomware](https://www.darkreading.com/threat-intelligence/eu-us-enhance-cooperation-in-fighting-ransomware-attacks)
 - [RSAC Startup Competition Focuses on Post-Cloud IT Infrastructure](https://www.darkreading.com/vulnerabilities-threats/rsac-startup-competition-focuses-on-post-cloud-it-infrastructure)
 - [CISOs Gain False Confidence in the Calm After the Storm of the Pandemic](https://www.darkreading.com/attacks-breaches/cisos-gain-false-confidence-in-the-calm-after-the-storm-of-the-pandemic)
 - [Are You Hiring Enough Entry-Level Security Pros?](https://www.darkreading.com/operations/are-you-hiring-enough-entry-level-security-pros-)
@@ -82,7 +83,6 @@
 - [Cisco’s Ash Devata on the Future of Secure Access](https://www.darkreading.com/cloud/cisco-s-ash-devata-on-the-future-of-secure-access)
 - [7 Ways to Bring AI to Cybersecurity](https://www.darkreading.com/the-cyber-future/7-ways-to-bring-ai-to-cybersecurity)
 - [&#39;Hertzbleed&#39; Side-Channel Attack Threatens Cryptographic Keys for Servers](https://www.darkreading.com/attacks-breaches/hertzbleed-side-channel-attack-cryptographic-keys-servers)
-- [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
