@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RSAC Startup Competition Focuses on Post-Cloud IT Infrastructure](https://www.darkreading.com/vulnerabilities-threats/rsac-startup-competition-focuses-on-post-cloud-it-infrastructure)
 - [CISOs Gain False Confidence in the Calm After the Storm of the Pandemic](https://www.darkreading.com/attacks-breaches/cisos-gain-false-confidence-in-the-calm-after-the-storm-of-the-pandemic)
 - [Are You Hiring Enough Entry-Level Security Pros?](https://www.darkreading.com/operations/are-you-hiring-enough-entry-level-security-pros-)
 - [How Should I Think About Security When Considering Digital Transformation Projects?](https://www.darkreading.com/edge-ask-the-experts/how-should-i-think-about-security-when-considering-digital-transformation-projects-)
@@ -82,7 +83,6 @@
 - [7 Ways to Bring AI to Cybersecurity](https://www.darkreading.com/the-cyber-future/7-ways-to-bring-ai-to-cybersecurity)
 - [&#39;Hertzbleed&#39; Side-Channel Attack Threatens Cryptographic Keys for Servers](https://www.darkreading.com/attacks-breaches/hertzbleed-side-channel-attack-cryptographic-keys-servers)
 - [Veterans Explain How Military Service Prepared Them for Cybersecurity Careers](https://www.darkreading.com/edge-articles/veterans-explain-how-military-service-prepared-them-for-cybersecurity-careers)
-- [Critical Citrix Bugs Impact All ADM Servers, Agents](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bugs-impact-all-adm-servers-agents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
