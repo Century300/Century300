@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Internet Explorer Now Retired but Still an Attacker Target](https://www.darkreading.com/vulnerabilities-threats/internet-explorer-will-likely-remain-an-attacker-target-for-some-time)
 - [BlastWave Announces Enhancements to Its Zero-Trust Security Software Solution, BlastShield](https://www.darkreading.com/cloud/blastwave-announces-enhancements-to-its-zero-trust-security-software-solution-blastshield)
 - [Microsoft 365 Function Leaves SharePoint, OneDrive Files Open to Ransomware Attacks](https://www.darkreading.com/vulnerabilities-threats/office-365-files-stored-in-the-cloud-vulnerable-to-ransomware-encryption)
 - [What We Mean When We Talk About Cyber Insurance](https://www.darkreading.com/edge-articles/what-we-mean-when-we-talk-about-cyber-insurance)
@@ -82,7 +83,6 @@
 - [Unlocking the Cybersecurity Benefits of Digital Twins](https://www.darkreading.com/dr-tech/unlocking-the-cybersecurity-benefits-of-digital-twins)
 - [EU &amp; US Unite to Fight Ransomware](https://www.darkreading.com/threat-intelligence/eu-us-enhance-cooperation-in-fighting-ransomware-attacks)
 - [RSAC Startup Competition Focuses on Post-Cloud IT Infrastructure](https://www.darkreading.com/vulnerabilities-threats/rsac-startup-competition-focuses-on-post-cloud-it-infrastructure)
-- [CISOs Gain False Confidence in the Calm After the Storm of the Pandemic](https://www.darkreading.com/attacks-breaches/cisos-gain-false-confidence-in-the-calm-after-the-storm-of-the-pandemic)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
