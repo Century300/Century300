@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DeadBolt Ransomware Actively Targets QNAP NAS Devices — Again](https://www.darkreading.com/attacks-breaches/deadbolt-ransomware-actively-targets-qnap-nas-devices----again)
+- [Atlassian Confluence Server Bug Under Active Attack to Distribute Ransomware](https://www.darkreading.com/attacks-breaches/atlassian-confluence-server-vulnerability-active-attack-ransomware)
 - [Can We Make a Global Agreement to Halt Attacks on Our Energy Infrastructure?](https://www.darkreading.com/attacks-breaches/can-we-make-a-global-agreement-to-halt-attacks-on-our-energy-infrastructure-)
 - [Tackling 5 Challenges Facing Critical National Infrastructure Today](https://www.darkreading.com/dr-tech/tackling-5-challenges-facing-critical-national-infrastructure-today)
 - [Internet Explorer Now Retired but Still an Attacker Target](https://www.darkreading.com/vulnerabilities-threats/internet-explorer-will-likely-remain-an-attacker-target-for-some-time)
 - [BlastWave Announces Enhancements to Its Zero-Trust Security Software Solution, BlastShield](https://www.darkreading.com/cloud/blastwave-announces-enhancements-to-its-zero-trust-security-software-solution-blastshield)
 - [Microsoft 365 Function Leaves SharePoint, OneDrive Files Open to Ransomware Attacks](https://www.darkreading.com/vulnerabilities-threats/office-365-files-stored-in-the-cloud-vulnerable-to-ransomware-encryption)
 - [What We Mean When We Talk About Cyber Insurance](https://www.darkreading.com/edge-articles/what-we-mean-when-we-talk-about-cyber-insurance)
-- [Android Spyware &#39;Hermit&#39; Discovered in Targeted Attacks](https://www.darkreading.com/mobile/android-spyware-hermit-discovered-in-targeted-attacks)
-- [Unlocking the Cybersecurity Benefits of Digital Twins](https://www.darkreading.com/dr-tech/unlocking-the-cybersecurity-benefits-of-digital-twins)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
