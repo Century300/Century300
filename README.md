@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tackling 5 Challenges Facing Critical National Infrastructure Today](https://www.darkreading.com/dr-tech/tackling-5-challenges-facing-critical-national-infrastructure-today)
 - [Internet Explorer Now Retired but Still an Attacker Target](https://www.darkreading.com/vulnerabilities-threats/internet-explorer-will-likely-remain-an-attacker-target-for-some-time)
 - [BlastWave Announces Enhancements to Its Zero-Trust Security Software Solution, BlastShield](https://www.darkreading.com/cloud/blastwave-announces-enhancements-to-its-zero-trust-security-software-solution-blastshield)
 - [Microsoft 365 Function Leaves SharePoint, OneDrive Files Open to Ransomware Attacks](https://www.darkreading.com/vulnerabilities-threats/office-365-files-stored-in-the-cloud-vulnerable-to-ransomware-encryption)
@@ -82,7 +83,6 @@
 - [Android Spyware &#39;Hermit&#39; Discovered in Targeted Attacks](https://www.darkreading.com/mobile/android-spyware-hermit-discovered-in-targeted-attacks)
 - [Unlocking the Cybersecurity Benefits of Digital Twins](https://www.darkreading.com/dr-tech/unlocking-the-cybersecurity-benefits-of-digital-twins)
 - [EU &amp; US Unite to Fight Ransomware](https://www.darkreading.com/threat-intelligence/eu-us-enhance-cooperation-in-fighting-ransomware-attacks)
-- [RSAC Startup Competition Focuses on Post-Cloud IT Infrastructure](https://www.darkreading.com/vulnerabilities-threats/rsac-startup-competition-focuses-on-post-cloud-it-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
