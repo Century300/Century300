@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Cuter Than a June Bug](https://www.darkreading.com/attacks-breaches/name-that-toon-cuter-than-a-june-bug)
+- [DDoS Attacks Delay Putin Speech at Russian Economic Forum](https://www.darkreading.com/attacks-breaches/ddos-attacks-delay-putin-speech-russian-economic-forum)
+- [Credential Sharing as a Service: The Hidden Risk of Low-Code/No-Code](https://www.darkreading.com/dr-tech/credential-sharing-as-a-service-hidden-risk-of-low-code-no-code)
 - [Security Lessons From Protecting Live Events](https://www.darkreading.com/dr-tech/security-lessons-from-protecting-live-events)
 - [The Cybersecurity Diversity Gap: Advice for Organizations Looking to Thrive](https://www.darkreading.com/careers-and-people/the-cybersecurity-diversity-gap-advice-for-organizations-looking-to-thrive)
 - [Ransomware and Phishing Remain IT&#39;s Biggest Concerns](https://www.darkreading.com/edge-threat-monitor/ransomware-and-phishing-remain-it-s-biggest-concerns)
 - [WordPress Plug-in Ninja Forms Issues Update for Critical Bug](https://www.darkreading.com/threat-intelligence/ninja-forms-wordpress-plugin-issues-update-against-code-injection-vuln)
 - [DeadBolt Ransomware Actively Targets QNAP NAS Devices — Again](https://www.darkreading.com/attacks-breaches/deadbolt-ransomware-actively-targets-qnap-nas-devices----again)
-- [Atlassian Confluence Server Bug Under Active Attack to Distribute Ransomware](https://www.darkreading.com/attacks-breaches/atlassian-confluence-server-vulnerability-active-attack-ransomware)
-- [Can We Make a Global Agreement to Halt Attacks on Our Energy Infrastructure?](https://www.darkreading.com/attacks-breaches/can-we-make-a-global-agreement-to-halt-attacks-on-our-energy-infrastructure-)
-- [Tackling 5 Challenges Facing Critical National Infrastructure Today](https://www.darkreading.com/dr-tech/tackling-5-challenges-facing-critical-national-infrastructure-today)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
