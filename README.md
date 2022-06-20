@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds Take Down Russian &#39;RSOCKS&#39; Botnet](https://www.darkreading.com/attacks-breaches/feds-take-down-russian-rsocks-botnet)
 - [Name That Toon: Cuter Than a June Bug](https://www.darkreading.com/attacks-breaches/name-that-toon-cuter-than-a-june-bug)
 - [DDoS Attacks Delay Putin Speech at Russian Economic Forum](https://www.darkreading.com/attacks-breaches/ddos-attacks-delay-putin-speech-russian-economic-forum)
 - [Credential Sharing as a Service: The Hidden Risk of Low-Code/No-Code](https://www.darkreading.com/dr-tech/credential-sharing-as-a-service-hidden-risk-of-low-code-no-code)
@@ -82,7 +83,6 @@
 - [The Cybersecurity Diversity Gap: Advice for Organizations Looking to Thrive](https://www.darkreading.com/careers-and-people/the-cybersecurity-diversity-gap-advice-for-organizations-looking-to-thrive)
 - [Ransomware and Phishing Remain IT&#39;s Biggest Concerns](https://www.darkreading.com/edge-threat-monitor/ransomware-and-phishing-remain-it-s-biggest-concerns)
 - [WordPress Plug-in Ninja Forms Issues Update for Critical Bug](https://www.darkreading.com/threat-intelligence/ninja-forms-wordpress-plugin-issues-update-against-code-injection-vuln)
-- [DeadBolt Ransomware Actively Targets QNAP NAS Devices — Again](https://www.darkreading.com/attacks-breaches/deadbolt-ransomware-actively-targets-qnap-nas-devices----again)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
