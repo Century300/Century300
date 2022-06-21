@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VPNs Persist Despite Zero-Trust Fervor](https://www.darkreading.com/remote-workforce/vpns-persist-despite-zero-trust-fervor)
 - [China-Linked ToddyCat APT Pioneers Novel Spyware](https://www.darkreading.com/attacks-breaches/china-linked-toddycat-apt-pioneers-novel-spyware)
 - [RIG Exploit Kit Replaces Raccoon Stealer Trojan With Dridex](https://www.darkreading.com/attacks-breaches/rig-exploit-kit-replaces-raccoon-stealer-trojan-with-dridex)
 - [Gartner: Regulation, Human Costs Will Create Stormy Cybersecurity Weather Ahead](https://www.darkreading.com/attacks-breaches/gartner-regulation-human-cost-stormy-cybersecurity-weather)
@@ -82,7 +83,6 @@
 - [Evolving Beyond the Password: It&#39;s Time to Up the Ante](https://www.darkreading.com/edge-articles/evolving-beyond-the-password-it-s-time-to-up-the-ante)
 - [BRATA Android Malware Evolves Into an APT](https://www.darkreading.com/threat-intelligence/brata-android-malware-evolves-into-an-apt)
 - [Reducing Risk With Zero Trust](https://www.darkreading.com/dr-tech/reducing-risk-with-zero-trust)
-- [56 Vulnerabilities Discovered in OT Products From 10 Different Vendors](https://www.darkreading.com/vulnerabilities-threats/study-finds-56-vulnerabilities-in-ot-products-from-10-vendors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
