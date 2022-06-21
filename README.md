@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Reducing Risk With Zero Trust](https://www.darkreading.com/dr-tech/reducing-risk-with-zero-trust)
 - [56 Vulnerabilities Discovered in OT Products From 10 Different Vendors](https://www.darkreading.com/vulnerabilities-threats/study-finds-56-vulnerabilities-in-ot-products-from-10-vendors)
 - [AI Is Not a Security Silver Bullet](https://www.darkreading.com/attacks-breaches/ai-is-not-a-security-silver-bullet)
 - [Open Source Software Security Begins to Mature](https://www.darkreading.com/application-security/open-source-software-security-mature)
@@ -82,7 +83,6 @@
 - [Feds Take Down Russian &#39;RSOCKS&#39; Botnet](https://www.darkreading.com/attacks-breaches/feds-take-down-russian-rsocks-botnet)
 - [Name That Toon: Cuter Than a June Bug](https://www.darkreading.com/attacks-breaches/name-that-toon-cuter-than-a-june-bug)
 - [DDoS Attacks Delay Putin Speech at Russian Economic Forum](https://www.darkreading.com/attacks-breaches/ddos-attacks-delay-putin-speech-russian-economic-forum)
-- [Credential Sharing as a Service: The Hidden Risk of Low-Code/No-Code](https://www.darkreading.com/dr-tech/credential-sharing-as-a-service-hidden-risk-of-low-code-no-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
