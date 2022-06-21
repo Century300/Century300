@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Financial Institutions Must Double Down on Open Source Investments](https://www.darkreading.com/application-security/why-financial-institutions-must-double-down-on-open-source-investments)
 - [Evolving Beyond the Password: It&#39;s Time to Up the Ante](https://www.darkreading.com/edge-articles/evolving-beyond-the-password-it-s-time-to-up-the-ante)
 - [BRATA Android Malware Evolves Into an APT](https://www.darkreading.com/threat-intelligence/brata-android-malware-evolves-into-an-apt)
 - [Reducing Risk With Zero Trust](https://www.darkreading.com/dr-tech/reducing-risk-with-zero-trust)
@@ -82,7 +83,6 @@
 - [AI Is Not a Security Silver Bullet](https://www.darkreading.com/attacks-breaches/ai-is-not-a-security-silver-bullet)
 - [Open Source Software Security Begins to Mature](https://www.darkreading.com/application-security/open-source-software-security-mature)
 - [Capital One Attacker Exploited Misconfigured AWS Databases](https://www.darkreading.com/attacks-breaches/capital-one-attacker-exploited-misconfigured-aws-databases)
-- [Feds Take Down Russian &#39;RSOCKS&#39; Botnet](https://www.darkreading.com/attacks-breaches/feds-take-down-russian-rsocks-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
