@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Neustar Security Services Launches Public UltraDNS Health Check Site](https://www.darkreading.com/risk/neustar-security-services-launches-public-ultradns-health-check-site)
+- [Russia&#39;s APT28 Launches Nuke-Themed Follina Exploit Campaign](https://www.darkreading.com/attacks-breaches/russia-apt28-launches-nuke-themed-follina-exploit-campaign)
 - [Fresh Magecart Skimmer Attack Infrastructure Flagged by Analysts](https://www.darkreading.com/attacks-breaches/magecart-skimmer-attack-infrastructure)
 - [Getting a Better Handle on Identity Management in the Cloud](https://www.darkreading.com/cloud/managing-identities-in-the-cloud)
 - [Tanium Partners With ScreenMeet to Enable Employees to Securely Connect to Their Remote Desktops](https://www.darkreading.com/remote-workforce/tanium-partners-with-screenmeet-to-enable-employees-to-securely-connect-to-their-remote-desktops)
 - [Zscaler and AWS Expand Relationship](https://www.darkreading.com/cloud/zscaler-and-aws-expand-relationship)
 - [Zscaler Launches Posture Control Solution](https://www.darkreading.com/cloud/zscaler-launches-posture-control-solution)
 - [Zscaler Adds New AI/ML Capabilities for the Zscaler Zero Trust Exchange](https://www.darkreading.com/cloud/zscaler-adds-new-ai-ml-capabilities-for-the-zscaler-zero-trust-exchange)
-- [Evolving Beyond the Password: Vanquishing the Password](https://www.darkreading.com/dr-tech/evolving-beyond-the-password-vanquishing-the-password)
-- [The Risk of Multichannel Phishing Is on the Horizon](https://www.darkreading.com/endpoint/the-risk-of-multichannel-phishing-is-on-the-horizon)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
