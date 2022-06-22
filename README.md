@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Getting a Better Handle on Identity Management in the Cloud](https://www.darkreading.com/cloud/managing-identities-in-the-cloud)
 - [Tanium Partners With ScreenMeet to Enable Employees to Securely Connect to Their Remote Desktops](https://www.darkreading.com/remote-workforce/tanium-partners-with-screenmeet-to-enable-employees-to-securely-connect-to-their-remote-desktops)
 - [Zscaler and AWS Expand Relationship](https://www.darkreading.com/cloud/zscaler-and-aws-expand-relationship)
 - [Zscaler Launches Posture Control Solution](https://www.darkreading.com/cloud/zscaler-launches-posture-control-solution)
@@ -82,7 +83,6 @@
 - [Evolving Beyond the Password: Vanquishing the Password](https://www.darkreading.com/dr-tech/evolving-beyond-the-password-vanquishing-the-password)
 - [The Risk of Multichannel Phishing Is on the Horizon](https://www.darkreading.com/endpoint/the-risk-of-multichannel-phishing-is-on-the-horizon)
 - [GitHub&#39;s MFA Plans Should Spur Rest of Industry to Raise the Bar](https://www.darkreading.com/endpoint/github-s-mfa-plans-should-spur-rest-of-industry-to-raise-the-bar)
-- [80% of Firms Suffered Identity-Related Breaches in Last 12 Months](https://www.darkreading.com/operations/identity-related-breaches-last-12-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
