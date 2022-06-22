@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tanium Partners With ScreenMeet to Enable Employees to Securely Connect to Their Remote Desktops](https://www.darkreading.com/remote-workforce/tanium-partners-with-screenmeet-to-enable-employees-to-securely-connect-to-their-remote-desktops)
+- [Zscaler and AWS Expand Relationship](https://www.darkreading.com/cloud/zscaler-and-aws-expand-relationship)
+- [Zscaler Launches Posture Control Solution](https://www.darkreading.com/cloud/zscaler-launches-posture-control-solution)
+- [Zscaler Adds New AI/ML Capabilities for the Zscaler Zero Trust Exchange](https://www.darkreading.com/cloud/zscaler-adds-new-ai-ml-capabilities-for-the-zscaler-zero-trust-exchange)
+- [Evolving Beyond the Password: Vanquishing the Password](https://www.darkreading.com/dr-tech/evolving-beyond-the-password-vanquishing-the-password)
 - [The Risk of Multichannel Phishing Is on the Horizon](https://www.darkreading.com/endpoint/the-risk-of-multichannel-phishing-is-on-the-horizon)
 - [GitHub&#39;s MFA Plans Should Spur Rest of Industry to Raise the Bar](https://www.darkreading.com/endpoint/github-s-mfa-plans-should-spur-rest-of-industry-to-raise-the-bar)
 - [80% of Firms Suffered Identity-Related Breaches in Last 12 Months](https://www.darkreading.com/operations/identity-related-breaches-last-12-months)
-- [Risk Disconnect in the Cloud](https://www.darkreading.com/cloud/risk-disconnect-in-the-cloud)
-- [Linux Foundation Announces Open Programmable Infrastructure Project to Drive Open Standards for New Class of Cloud Native Infrastructure](https://www.darkreading.com/cloud/linux-foundation-announces-open-programmable-infrastructure-project-to-drive-open-standards-for-new-class-of-cloud-native-infrastructure)
-- [7 Ways to Avoid Worst-Case Cyber Scenarios](https://www.darkreading.com/risk/7-ways-to-avoid-worst-case-cyber-scenarios)
-- [VPNs Persist Despite Zero-Trust Fervor](https://www.darkreading.com/remote-workforce/vpns-persist-despite-zero-trust-fervor)
-- [China-Linked ToddyCat APT Pioneers Novel Spyware](https://www.darkreading.com/attacks-breaches/china-linked-toddycat-apt-pioneers-novel-spyware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
