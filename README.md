@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Risk Disconnect in the Cloud](https://www.darkreading.com/cloud/risk-disconnect-in-the-cloud)
 - [Linux Foundation Announces Open Programmable Infrastructure Project to Drive Open Standards for New Class of Cloud Native Infrastructure](https://www.darkreading.com/cloud/linux-foundation-announces-open-programmable-infrastructure-project-to-drive-open-standards-for-new-class-of-cloud-native-infrastructure)
 - [7 Ways to Avoid Worst-Case Cyber Scenarios](https://www.darkreading.com/risk/7-ways-to-avoid-worst-case-cyber-scenarios)
 - [VPNs Persist Despite Zero-Trust Fervor](https://www.darkreading.com/remote-workforce/vpns-persist-despite-zero-trust-fervor)
@@ -82,7 +83,6 @@
 - [RIG Exploit Kit Replaces Raccoon Stealer Trojan With Dridex](https://www.darkreading.com/attacks-breaches/rig-exploit-kit-replaces-raccoon-stealer-trojan-with-dridex)
 - [Gartner: Regulation, Human Costs Will Create Stormy Cybersecurity Weather Ahead](https://www.darkreading.com/attacks-breaches/gartner-regulation-human-cost-stormy-cybersecurity-weather)
 - [Why Financial Institutions Must Double Down on Open Source Investments](https://www.darkreading.com/application-security/why-financial-institutions-must-double-down-on-open-source-investments)
-- [Evolving Beyond the Password: It&#39;s Time to Up the Ante](https://www.darkreading.com/edge-articles/evolving-beyond-the-password-it-s-time-to-up-the-ante)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
