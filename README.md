@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [80% of Legacy MSSP Users Planning MDR Upgrade](https://www.darkreading.com/risk/legacy-mssp-users-planning-mdr-upgrade)
 - [MetaMask Crypto-Wallet Theft Skates Past Microsoft 365 Security](https://www.darkreading.com/attacks-breaches/metamask-crypto-wallet-theft-skates-past-microsoft-365-security)
+- [Organizations Battling Phishing Malware, Viruses the Most](https://www.darkreading.com/edge-threat-monitor/organizations-battling-phishing-malware-viruses-the-most)
 - [Microsoft 365 Users in US Face Raging Spate of Attacks](https://www.darkreading.com/remote-workforce/microsoft-office-365-users-raging-spate-attacks)
 - [Synopsys Completes Acquisition of WhiteHat Security](https://www.darkreading.com/application-security/synopsys-completes-acquisition-of-whitehat-security)
 - [Aqua Security Collaborates With Center for Internet Security to Create Guide for Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/aqua-security-collaborates-with-center-for-internet-security-to-create-guide-for-software-supply-chain-security)
 - [Neustar Security Services Launches Public UltraDNS Health Check Site](https://www.darkreading.com/risk/neustar-security-services-launches-public-ultradns-health-check-site)
 - [Russia&#39;s APT28 Launches Nuke-Themed Follina Exploit Campaign](https://www.darkreading.com/attacks-breaches/russia-apt28-launches-nuke-themed-follina-exploit-campaign)
-- [Fresh Magecart Skimmer Attack Infrastructure Flagged by Analysts](https://www.darkreading.com/attacks-breaches/magecart-skimmer-attack-infrastructure)
-- [Getting a Better Handle on Identity Management in the Cloud](https://www.darkreading.com/cloud/managing-identities-in-the-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
