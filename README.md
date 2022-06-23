@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Johnson Controls Acquires Tempered Networks to Bring Zero Trust Cybersecurity to Connected Buildings](https://www.darkreading.com/operations/johnson-controls-acquires-tempered-networks-to-bring-zero-trust-cybersecurity-to-connected-buildings)
+- [ShiftLeft: Focus On &#39;Attackability&#39; To Better Prioritize Vulnerabilities](https://www.darkreading.com/attacks-breaches/shiftleft-focus-on-attackability-to-better-prioritize-vulnerabilities)
 - [Pair of Brand-New Cybersecurity Bills Become Law](https://www.darkreading.com/careers-and-people/cybersecurity-bills-become-law)
 - [The Rise, Fall, and Rebirth of the Presumption of Compromise](https://www.darkreading.com/vulnerabilities-threats/the-rise-fall-and-rebirth-of-the-presumption-of-compromise)
 - [Reinventing How Farming Equipment Is Remotely Controlled and Tracked](https://www.darkreading.com/the-cyber-future/reinventing-how-farming-equipment-is-remotely-controlled-and-tracked)
 - [Cyberattackers Abuse QuickBooks Cloud Service in &#39;Double-Spear&#39; Campaign](https://www.darkreading.com/remote-workforce/cyberattackers-abuse-quickbooks-cloud-service-ouble-spear-campaign)
 - [Palo Alto Networks Bolsters Its Cloud Native Security Offerings With Out-of-Band WAAS](https://www.darkreading.com/cloud/palo-alto-networks-bolsters-its-cloud-native-security-offerings-with-out-of-band-waas)
 - [How APTs Are Achieving Persistence Through IoT, OT, and Network Devices](https://www.darkreading.com/attacks-breaches/how-apts-are-achieving-persistence-through-iot-ot-and-network-devices)
-- [80% of Legacy MSSP Users Planning MDR Upgrade](https://www.darkreading.com/risk/legacy-mssp-users-planning-mdr-upgrade)
-- [MetaMask Crypto-Wallet Theft Skates Past Microsoft 365 Security](https://www.darkreading.com/attacks-breaches/metamask-crypto-wallet-theft-skates-past-microsoft-365-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
