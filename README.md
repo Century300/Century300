@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MetaMask Crypto-Wallet Theft Skates Past Microsoft 365 Security](https://www.darkreading.com/attacks-breaches/metamask-crypto-wallet-theft-skates-past-microsoft-365-security)
 - [Microsoft 365 Users in US Face Raging Spate of Attacks](https://www.darkreading.com/remote-workforce/microsoft-office-365-users-raging-spate-attacks)
 - [Synopsys Completes Acquisition of WhiteHat Security](https://www.darkreading.com/application-security/synopsys-completes-acquisition-of-whitehat-security)
 - [Aqua Security Collaborates With Center for Internet Security to Create Guide for Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/aqua-security-collaborates-with-center-for-internet-security-to-create-guide-for-software-supply-chain-security)
@@ -82,7 +83,6 @@
 - [Russia&#39;s APT28 Launches Nuke-Themed Follina Exploit Campaign](https://www.darkreading.com/attacks-breaches/russia-apt28-launches-nuke-themed-follina-exploit-campaign)
 - [Fresh Magecart Skimmer Attack Infrastructure Flagged by Analysts](https://www.darkreading.com/attacks-breaches/magecart-skimmer-attack-infrastructure)
 - [Getting a Better Handle on Identity Management in the Cloud](https://www.darkreading.com/cloud/managing-identities-in-the-cloud)
-- [Tanium Partners With ScreenMeet to Enable Employees to Securely Connect to Their Remote Desktops](https://www.darkreading.com/remote-workforce/tanium-partners-with-screenmeet-to-enable-employees-to-securely-connect-to-their-remote-desktops)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
