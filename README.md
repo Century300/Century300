@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Without Conti On The Scene, LockBit 2.0 Leads Ransomware Attacks](https://www.darkreading.com/threat-intelligence/without-conti-on-the-scene-ransomware-attacks-fell-in-may)
 - [Chinese APT Group Likely Using Ransomware Attacks as Cover for IP Theft](https://www.darkreading.com/attacks-breaches/chinese-apt-ransomware-attacks-cover-ip-theft)
 - [Johnson Controls Acquires Tempered Networks to Bring Zero Trust Cybersecurity to Connected Buildings](https://www.darkreading.com/operations/johnson-controls-acquires-tempered-networks-to-bring-zero-trust-cybersecurity-to-connected-buildings)
 - [ShiftLeft: Focus On &#39;Attackability&#39; To Better Prioritize Vulnerabilities](https://www.darkreading.com/attacks-breaches/shiftleft-focus-on-attackability-to-better-prioritize-vulnerabilities)
@@ -82,7 +83,6 @@
 - [The Rise, Fall, and Rebirth of the Presumption of Compromise](https://www.darkreading.com/vulnerabilities-threats/the-rise-fall-and-rebirth-of-the-presumption-of-compromise)
 - [Reinventing How Farming Equipment Is Remotely Controlled and Tracked](https://www.darkreading.com/the-cyber-future/reinventing-how-farming-equipment-is-remotely-controlled-and-tracked)
 - [Cyberattackers Abuse QuickBooks Cloud Service in &#39;Double-Spear&#39; Campaign](https://www.darkreading.com/remote-workforce/cyberattackers-abuse-quickbooks-cloud-service-ouble-spear-campaign)
-- [Palo Alto Networks Bolsters Its Cloud Native Security Offerings With Out-of-Band WAAS](https://www.darkreading.com/cloud/palo-alto-networks-bolsters-its-cloud-native-security-offerings-with-out-of-band-waas)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
