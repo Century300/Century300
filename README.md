@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Only 3% of Open Source Software Bugs Are Actually Attackable, Researchers Say](https://www.darkreading.com/application-security/open-source-software-bugs--attackability)
 - [7 Steps to Stronger SaaS Security](https://www.darkreading.com/cloud/7-steps-to-stronger-saas-security)
 - [The Cybersecurity Talent Shortage Is a Myth](https://www.darkreading.com/edge-articles/the-cybersecurity-talent-shortage-is-a-myth)
 - [Without Conti On The Scene, LockBit 2.0 Leads Ransomware Attacks](https://www.darkreading.com/threat-intelligence/without-conti-on-the-scene-ransomware-attacks-fell-in-may)
@@ -82,7 +83,6 @@
 - [Johnson Controls Acquires Tempered Networks to Bring Zero Trust Cybersecurity to Connected Buildings](https://www.darkreading.com/operations/johnson-controls-acquires-tempered-networks-to-bring-zero-trust-cybersecurity-to-connected-buildings)
 - [ShiftLeft: Focus On &#39;Attackability&#39; To Better Prioritize Vulnerabilities](https://www.darkreading.com/attacks-breaches/shiftleft-focus-on-attackability-to-better-prioritize-vulnerabilities)
 - [Pair of Brand-New Cybersecurity Bills Become Law](https://www.darkreading.com/careers-and-people/cybersecurity-bills-become-law)
-- [The Rise, Fall, and Rebirth of the Presumption of Compromise](https://www.darkreading.com/vulnerabilities-threats/the-rise-fall-and-rebirth-of-the-presumption-of-compromise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
