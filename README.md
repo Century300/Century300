@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Intelligence Services Are Universally Valued by IT Staff](https://www.darkreading.com/tech-trends/threat-intelligence-services-are-universally-valued-by-it-staff)
 - [Why We&#39;re Getting Vulnerability Management Wrong](https://www.darkreading.com/vulnerabilities-threats/why-we-re-getting-vulnerability-management-wrong)
 - [APT Groups Swarming on VMware Servers with Log4Shell](https://www.darkreading.com/threat-intelligence/apt-groups-swarming-vmware-servers-log4shell)
 - [Only 3% of Open Source Software Bugs Are Actually Attackable, Researchers Say](https://www.darkreading.com/application-security/open-source-software-bugs--attackability)
@@ -82,7 +83,6 @@
 - [The Cybersecurity Talent Shortage Is a Myth](https://www.darkreading.com/edge-articles/the-cybersecurity-talent-shortage-is-a-myth)
 - [Without Conti on the Scene, LockBit 2.0 Leads Ransomware Attacks](https://www.darkreading.com/threat-intelligence/without-conti-on-the-scene-ransomware-attacks-fell-in-may)
 - [Chinese APT Group Likely Using Ransomware Attacks as Cover for IP Theft](https://www.darkreading.com/attacks-breaches/chinese-apt-ransomware-attacks-cover-ip-theft)
-- [Johnson Controls Acquires Tempered Networks to Bring Zero Trust Cybersecurity to Connected Buildings](https://www.darkreading.com/operations/johnson-controls-acquires-tempered-networks-to-bring-zero-trust-cybersecurity-to-connected-buildings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
