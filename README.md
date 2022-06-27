@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shadow IT Spurs 1 in 3 Cyberattacks](https://www.darkreading.com/remote-workforce/shadow-it-spurs-1-in-3-cyberattacks)
 - [Thrive Acquires DSM](https://www.darkreading.com/operations/thrive-acquires-dsm)
 - [It&#39;s a Race to Secure the Software Supply Chain — Have You Already Stumbled?](https://www.darkreading.com/vulnerabilities-threats/it-s-a-race-to-secure-the-software-supply-chain-have-you-already-stumbled-)
 - [Threat Intelligence Services Are Universally Valued by IT Staff](https://www.darkreading.com/tech-trends/threat-intelligence-services-are-universally-valued-by-it-staff)
@@ -82,7 +83,6 @@
 - [APT Groups Swarming on VMware Servers with Log4Shell](https://www.darkreading.com/threat-intelligence/apt-groups-swarming-vmware-servers-log4shell)
 - [Only 3% of Open Source Software Bugs Are Actually Attackable, Researchers Say](https://www.darkreading.com/application-security/open-source-software-bugs--attackability)
 - [7 Steps to Stronger SaaS Security](https://www.darkreading.com/cloud/7-steps-to-stronger-saas-security)
-- [The Cybersecurity Talent Shortage Is a Myth](https://www.darkreading.com/edge-articles/the-cybersecurity-talent-shortage-is-a-myth)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
