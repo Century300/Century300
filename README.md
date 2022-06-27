@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thrive Acquires DSM](https://www.darkreading.com/operations/thrive-acquires-dsm)
 - [It&#39;s a Race to Secure the Software Supply Chain — Have You Already Stumbled?](https://www.darkreading.com/vulnerabilities-threats/it-s-a-race-to-secure-the-software-supply-chain-have-you-already-stumbled-)
 - [Threat Intelligence Services Are Universally Valued by IT Staff](https://www.darkreading.com/tech-trends/threat-intelligence-services-are-universally-valued-by-it-staff)
 - [Why We&#39;re Getting Vulnerability Management Wrong](https://www.darkreading.com/vulnerabilities-threats/why-we-re-getting-vulnerability-management-wrong)
@@ -82,7 +83,6 @@
 - [Only 3% of Open Source Software Bugs Are Actually Attackable, Researchers Say](https://www.darkreading.com/application-security/open-source-software-bugs--attackability)
 - [7 Steps to Stronger SaaS Security](https://www.darkreading.com/cloud/7-steps-to-stronger-saas-security)
 - [The Cybersecurity Talent Shortage Is a Myth](https://www.darkreading.com/edge-articles/the-cybersecurity-talent-shortage-is-a-myth)
-- [Without Conti on the Scene, LockBit 2.0 Leads Ransomware Attacks](https://www.darkreading.com/threat-intelligence/without-conti-on-the-scene-ransomware-attacks-fell-in-may)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
