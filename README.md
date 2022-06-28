@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Backed APT Pwns Building-Automation Systems with ProxyLogon](https://www.darkreading.com/attacks-breaches/china-backed-apt-pwns-building-automation-proxylogon)
 - [Atlassian Confluence Exploits Peak at 100K Daily](https://www.darkreading.com/attacks-breaches/atlassian-confluence-exploits-peak-100k-daily)
-- [Can Zero-Knowledge Crypto Solve Our Password Problems?](https://www.darkreading.com/emerging-tech/can-zero-knowledge-crypto-solve-our-password-problems-)
+- [Can Zero-Knowledge Cryptography Solve Our Password Problems?](https://www.darkreading.com/emerging-tech/can-zero-knowledge-crypto-solve-our-password-problems-)
 - [A WAF Is Not a Free Lunch: Teaching the Shift-Left Security Mindset](https://www.darkreading.com/vulnerabilities-threats/a-waf-is-not-a-free-lunch-teaching-the-shift-left-security-mindset)
 - [Ransomware Volume Nearly Doubles 2021 Totals in a Single Quarter](https://www.darkreading.com/attacks-breaches/ransomware-volume-doubles-2021-totals-single-quarter)
 - [How to Find New Attack Primitives in Microsoft Azure](https://www.darkreading.com/attacks-breaches/how-to-find-new-attack-primitives-in-microsoft-azure)
 - [New Vulnerability Database Catalogs Cloud Security Issues](https://www.darkreading.com/cloud/new-initiative-seeks-to-shed-light-on-cloud-vulnerabilities)
 - [NIST Finalizes macOS Security Guidance](https://www.darkreading.com/dr-tech/nist-finalizes-macos-security-guidance)
-- [Federal, State Agencies&#39; Aid Programs Face Synthetic Identity Fraud](https://www.darkreading.com/edge-articles/federal-state-agencies-aid-programs-face-synthetic-identity-fraud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
