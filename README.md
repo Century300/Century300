@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Find New Attack Primitives in Microsoft Azure](https://www.darkreading.com/attacks-breaches/how-to-find-new-attack-primitives-in-microsoft-azure)
 - [New Vulnerability Database Catalogs Cloud Security Issues](https://www.darkreading.com/cloud/new-initiative-seeks-to-shed-light-on-cloud-vulnerabilities)
 - [NIST Finalizes macOS Security Guidance](https://www.darkreading.com/dr-tech/nist-finalizes-macos-security-guidance)
 - [Federal, State Agencies&#39; Aid Programs Face Synthetic Identity Fraud](https://www.darkreading.com/edge-articles/federal-state-agencies-aid-programs-face-synthetic-identity-fraud)
@@ -82,7 +83,6 @@
 - [Shadow IT Spurs 1 in 3 Cyberattacks](https://www.darkreading.com/remote-workforce/shadow-it-spurs-1-in-3-cyberattacks)
 - [Thrive Acquires DSM](https://www.darkreading.com/operations/thrive-acquires-dsm)
 - [It&#39;s a Race to Secure the Software Supply Chain — Have You Already Stumbled?](https://www.darkreading.com/vulnerabilities-threats/it-s-a-race-to-secure-the-software-supply-chain-have-you-already-stumbled-)
-- [Threat Intelligence Services Are Universally Valued by IT Staff](https://www.darkreading.com/tech-trends/threat-intelligence-services-are-universally-valued-by-it-staff)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
