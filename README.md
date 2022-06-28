@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RSA 2022: Omdia Research Take Aways](https://www.darkreading.com/omdia/rsa-2022-omdia-research-take-aways)
 - [Google Analytics Continues to Lose SEO Visibility as Bans Continue](https://www.darkreading.com/analytics/google-analytics-seo-visibility-bans)
 - [&#39;Raccoon Stealer&#39; Scurries Back on the Scene After Hiatus](https://www.darkreading.com/attacks-breaches/-raccoon-stealer-resurfaces-as-expected)
 - [China-Backed APT Pwns Building-Automation Systems with ProxyLogon](https://www.darkreading.com/attacks-breaches/china-backed-apt-pwns-building-automation-proxylogon)
@@ -82,7 +83,6 @@
 - [Can Zero-Knowledge Cryptography Solve Our Password Problems?](https://www.darkreading.com/emerging-tech/can-zero-knowledge-crypto-solve-our-password-problems-)
 - [A WAF Is Not a Free Lunch: Teaching the Shift-Left Security Mindset](https://www.darkreading.com/vulnerabilities-threats/a-waf-is-not-a-free-lunch-teaching-the-shift-left-security-mindset)
 - [Ransomware Volume Nearly Doubles 2021 Totals in a Single Quarter](https://www.darkreading.com/attacks-breaches/ransomware-volume-doubles-2021-totals-single-quarter)
-- [How to Find New Attack Primitives in Microsoft Azure](https://www.darkreading.com/attacks-breaches/how-to-find-new-attack-primitives-in-microsoft-azure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
