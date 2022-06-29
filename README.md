@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [ZuoRAT Hijacks SOHO Routers from Cisco, Netgear](https://www.darkreading.com/remote-workforce/zuorat-hijacks-soho-routers-cisco-netgear)
+- [Patch Now: Linux Container-Escape Flaw in Azure Service Fabric](https://www.darkreading.com/remote-workforce/patch-now-linux-container-escape-flaw-azure-service-fabric)
+- [ZuoRAT Hijacks SOHO Routers From Cisco, Netgear](https://www.darkreading.com/remote-workforce/zuorat-hijacks-soho-routers-cisco-netgear)
 - [Broken Authentication Vuln Threatens Amazon Photos Android App](https://www.darkreading.com/vulnerabilities-threats/broken-authentication-vuln-threatens-amazon-photos-android-app)
 - [How to Master the Kill Chain Before Your Attackers Do](https://www.darkreading.com/attacks-breaches/how-to-master-the-kill-chain-before-your-attackers-do)
 - [Cyberattacks via Unpatched Systems Cost Orgs More Than Phishing](https://www.darkreading.com/vulnerabilities-threats/cyberattacks-bug-exploits-more-costly-incidents)
 - [Shifting the Cybersecurity Paradigm From Severity-Focused to Risk-Centric](https://www.darkreading.com/risk/shifting-the-cybersecurity-paradigm-from-severity-focused-to-risk-centric)
 - [5 Surprising Cyberattacks AI Stopped This Year](https://www.darkreading.com/dr-tech/5-surprising-cyberattacks-ai-stopped-this-year)
 - [Kaspersky Reveals Phishing Emails That Employees Find Most Confusing](https://www.darkreading.com/remote-workforce/kaspersky-reveals-phishing-emails-that-employees-find-most-confusing)
-- [Facebook Business Pages Targeted via Chatbot in Data-Harvesting Campaign](https://www.darkreading.com/attacks-breaches/facebook-business-pages-chatbot-data-harvesting-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
