@@ -75,7 +75,6 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [RSA 2022: Omdia Research Take Aways](https://www.darkreading.com/omdia/rsa-2022-omdia-research-take-aways)
 - [Shifting the Cybersecurity Paradigm From Severity-Focused to Risk-Centric](https://www.darkreading.com/risk/shifting-the-cybersecurity-paradigm-from-severity-focused-to-risk-centric)
 - [5 Surprising Cyberattacks AI Stopped This Year](https://www.darkreading.com/dr-tech/5-surprising-cyberattacks-ai-stopped-this-year)
 - [Kaspersky Reveals Phishing Emails That Employees Find Most Confusing](https://www.darkreading.com/remote-workforce/kaspersky-reveals-phishing-emails-that-employees-find-most-confusing)
@@ -83,6 +82,7 @@
 - [Google Analytics Continues to Lose SEO Visibility as Bans Continue](https://www.darkreading.com/analytics/google-analytics-seo-visibility-bans)
 - [&#39;Raccoon Stealer&#39; Scurries Back on the Scene After Hiatus](https://www.darkreading.com/attacks-breaches/-raccoon-stealer-resurfaces-as-expected)
 - [China-Backed APT Pwns Building-Automation Systems with ProxyLogon](https://www.darkreading.com/attacks-breaches/china-backed-apt-pwns-building-automation-proxylogon)
+- [RSA 2022: Omdia Research Take Aways](https://www.darkreading.com/omdia/rsa-2022-omdia-research-take-aways)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
