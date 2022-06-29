@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ZuoRAT Hijacks SOHO Routers from Cisco, Netgear](https://www.darkreading.com/remote-workforce/zuorat-hijacks-soho-routers-cisco-netgear)
 - [Broken Authentication Vuln Threatens Amazon Photos Android App](https://www.darkreading.com/vulnerabilities-threats/broken-authentication-vuln-threatens-amazon-photos-android-app)
 - [How to Master the Kill Chain Before Your Attackers Do](https://www.darkreading.com/attacks-breaches/how-to-master-the-kill-chain-before-your-attackers-do)
 - [Cyberattacks via Unpatched Systems Cost Orgs More Than Phishing](https://www.darkreading.com/vulnerabilities-threats/cyberattacks-bug-exploits-more-costly-incidents)
@@ -82,7 +83,6 @@
 - [5 Surprising Cyberattacks AI Stopped This Year](https://www.darkreading.com/dr-tech/5-surprising-cyberattacks-ai-stopped-this-year)
 - [Kaspersky Reveals Phishing Emails That Employees Find Most Confusing](https://www.darkreading.com/remote-workforce/kaspersky-reveals-phishing-emails-that-employees-find-most-confusing)
 - [Facebook Business Pages Targeted via Chatbot in Data-Harvesting Campaign](https://www.darkreading.com/attacks-breaches/facebook-business-pages-chatbot-data-harvesting-campaign)
-- [Google Analytics Continues to Lose SEO Visibility as Bans Continue](https://www.darkreading.com/analytics/google-analytics-seo-visibility-bans)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
