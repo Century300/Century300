@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google: Hack-for-Hire Groups Present a Potent Threat](https://www.darkreading.com/threat-intelligence/google-hack-for-hire-groups-present-a-potent-threat)
 - [18 Zero-Days Exploited So Far in 2022](https://www.darkreading.com/vulnerabilities-threats/18-zero-days-exploited-2022)
 - [API Security Losses Total Billions, But It&#39;s Complicated](https://www.darkreading.com/application-security/api-security-losses-billions-complicated)
 - [Exchange Servers Backdoored Globally by SessionManager](https://www.darkreading.com/attacks-breaches/new-sessionmanager-exchange-server-backdoor-globally)
@@ -82,7 +83,6 @@
 - [A Fintech Horror Story: How One Company Prioritizes Cybersecurity](https://www.darkreading.com/edge-articles/a-fintech-horror-story-how-one-company-prioritizes-cybersecurity)
 - [NXM Announces Platform That Protects Space Infrastructure and IoT Devices From Cyberattacks](https://www.darkreading.com/iot/nxm-announces-platform-that-protects-space-infrastructure-and-iot-devices-from-cyberattacks)
 - [Critical ManageEngine ADAudit Plus Vulnerability Allows Network Takeover, Mass Data Exfiltration](https://www.darkreading.com/vulnerabilities-threats/manageengine-adaudit-plus-vulnerability-network-takeover-data-exfiltration)
-- [Zero-Days Aren&#39;t Going Away Anytime Soon &amp; What Leaders Need to Know](https://www.darkreading.com/attacks-breaches/zero-days-aren-t-going-away-anytime-soon-and-what-leaders-need-to-know)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
