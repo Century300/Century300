@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Days Aren&#39;t Going Away Anytime Soon &amp; What Leaders Need to Know](https://www.darkreading.com/attacks-breaches/zero-days-aren-t-going-away-anytime-soon-and-what-leaders-need-to-know)
 - [Patch Now: Linux Container-Escape Flaw in Azure Service Fabric](https://www.darkreading.com/remote-workforce/patch-now-linux-container-escape-flaw-azure-service-fabric)
 - [ZuoRAT Hijacks SOHO Routers From Cisco, Netgear](https://www.darkreading.com/remote-workforce/zuorat-hijacks-soho-routers-cisco-netgear)
 - [Broken Authentication Vuln Threatens Amazon Photos Android App](https://www.darkreading.com/vulnerabilities-threats/broken-authentication-vuln-threatens-amazon-photos-android-app)
@@ -82,7 +83,6 @@
 - [What&#39;s Your AppSec Personality?](https://www.darkreading.com/edge-articles/what-s-your-appsec-personality-)
 - [Cyberattacks via Unpatched Systems Cost Orgs More Than Phishing](https://www.darkreading.com/vulnerabilities-threats/cyberattacks-bug-exploits-more-costly-incidents)
 - [Shifting the Cybersecurity Paradigm From Severity-Focused to Risk-Centric](https://www.darkreading.com/risk/shifting-the-cybersecurity-paradigm-from-severity-focused-to-risk-centric)
-- [5 Surprising Cyberattacks AI Stopped This Year](https://www.darkreading.com/dr-tech/5-surprising-cyberattacks-ai-stopped-this-year)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
