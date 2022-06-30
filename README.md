@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [18 Zero-Days Exploited So Far in 2022](https://www.darkreading.com/vulnerabilities-threats/18-zero-days-exploited-2022)
+- [API Security Losses Total Billions, But It&#39;s Complicated](https://www.darkreading.com/application-security/api-security-losses-billions-complicated)
 - [Exchange Servers Backdoored Globally by SessionManager](https://www.darkreading.com/attacks-breaches/new-sessionmanager-exchange-server-backdoor-globally)
 - [Study Reveals Traditional Data Security Tools Have a 60% Failure Rate Against Ransomware and Extortion](https://www.darkreading.com/attacks-breaches/study-reveals-traditional-data-security-tools-have-a-60-failure-rate-against-ransomware-and-extortion)
 - [A Fintech Horror Story: How One Company Prioritizes Cybersecurity](https://www.darkreading.com/edge-articles/a-fintech-horror-story-how-one-company-prioritizes-cybersecurity)
 - [NXM Announces Platform That Protects Space Infrastructure and IoT Devices From Cyberattacks](https://www.darkreading.com/iot/nxm-announces-platform-that-protects-space-infrastructure-and-iot-devices-from-cyberattacks)
 - [Critical ManageEngine ADAudit Plus Vulnerability Allows Network Takeover, Mass Data Exfiltration](https://www.darkreading.com/vulnerabilities-threats/manageengine-adaudit-plus-vulnerability-network-takeover-data-exfiltration)
 - [Zero-Days Aren&#39;t Going Away Anytime Soon &amp; What Leaders Need to Know](https://www.darkreading.com/attacks-breaches/zero-days-aren-t-going-away-anytime-soon-and-what-leaders-need-to-know)
-- [Patch Now: Linux Container-Escape Flaw in Azure Service Fabric](https://www.darkreading.com/remote-workforce/patch-now-linux-container-escape-flaw-azure-service-fabric)
-- [ZuoRAT Hijacks SOHO Routers From Cisco, Netgear](https://www.darkreading.com/remote-workforce/zuorat-hijacks-soho-routers-cisco-netgear)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
