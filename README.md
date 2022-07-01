@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Criminals Use Deepfake Videos to Interview for Remote Work](https://www.darkreading.com/attacks-breaches/criminals-deepfake-video-interview-remote-work)
 - [DragonForce Malaysia Releases LPE Exploit, Threatens Ransomware](https://www.darkreading.com/vulnerabilities-threats/dragonforce-malaysia-releases-lpe-exploit-threatens-ransomware)
 - [When It Comes to SBOMs, Do You Know the Ingredients in Your Ingredients?](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-sboms-do-you-know-the-ingredients-in-your-ingredients-)
 - [Microsoft Going Big on Identity with the Launch of Entra](https://www.darkreading.com/omdia/microsoft-going-gig-on-identity-with-the-launch-of-entra)
@@ -82,7 +83,6 @@
 - [18 Zero-Days Exploited So Far in 2022](https://www.darkreading.com/vulnerabilities-threats/18-zero-days-exploited-2022)
 - [API Security Losses Total Billions, But It&#39;s Complicated](https://www.darkreading.com/application-security/api-security-losses-billions-complicated)
 - [Exchange Servers Backdoored Globally by SessionManager](https://www.darkreading.com/attacks-breaches/new-sessionmanager-exchange-server-backdoor-globally)
-- [Study Reveals Traditional Data Security Tools Have a 60% Failure Rate Against Ransomware and Extortion](https://www.darkreading.com/attacks-breaches/study-reveals-traditional-data-security-tools-have-a-60-failure-rate-against-ransomware-and-extortion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
