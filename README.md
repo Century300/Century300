@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DragonForce Malaysia Releases LPE Exploit, Threatens Ransomware](https://www.darkreading.com/vulnerabilities-threats/dragonforce-malaysia-releases-lpe-exploit-threatens-ransomware)
 - [When It Comes to SBOMs, Do You Know the Ingredients in Your Ingredients?](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-sboms-do-you-know-the-ingredients-in-your-ingredients-)
 - [Microsoft Going Big on Identity with the Launch of Entra](https://www.darkreading.com/omdia/microsoft-going-gig-on-identity-with-the-launch-of-entra)
 - [Google: Hack-for-Hire Groups Present a Potent Threat](https://www.darkreading.com/threat-intelligence/google-hack-for-hire-groups-present-a-potent-threat)
@@ -82,7 +83,6 @@
 - [API Security Losses Total Billions, But It&#39;s Complicated](https://www.darkreading.com/application-security/api-security-losses-billions-complicated)
 - [Exchange Servers Backdoored Globally by SessionManager](https://www.darkreading.com/attacks-breaches/new-sessionmanager-exchange-server-backdoor-globally)
 - [Study Reveals Traditional Data Security Tools Have a 60% Failure Rate Against Ransomware and Extortion](https://www.darkreading.com/attacks-breaches/study-reveals-traditional-data-security-tools-have-a-60-failure-rate-against-ransomware-and-extortion)
-- [A Fintech Horror Story: How One Company Prioritizes Cybersecurity](https://www.darkreading.com/edge-articles/a-fintech-horror-story-how-one-company-prioritizes-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
