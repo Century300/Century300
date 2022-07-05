@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [HackerOne Employee Fired for Stealing and Selling Bug Reports for Personal Gain](https://www.darkreading.com/vulnerabilities-threats/hackerone-employee-fired-for-stealing-and-selling-bug-reports-for-personal-gain)
 - [Supply Chain Attack Deploys Hundreds of Malicious NPM Modules to Steal Data](https://www.darkreading.com/attacks-breaches/supply-chain-attack-malicious-npm-modules-steal-data)
 - [Why Browser Vulnerabilities Are a Serious Threat — and How to Minimize Your Risk](https://www.darkreading.com/attacks-breaches/why-browser-vulnerabilities-are-a-serious-threat-and-how-to-minimize-your-risk)
 - [Google Chrome WebRTC Zero-Day Faces Active Exploitation](https://www.darkreading.com/vulnerabilities-threats/google-chrome-webrtc-zero-day-active-exploitation)
@@ -82,7 +83,6 @@
 - [Name That Edge Toon: On Guard](https://www.darkreading.com/edge-articles/name-that-edge-toon-on-guard)
 - [ICYMI: A Microsoft Warning, Follina, Atlassian, and More](https://www.darkreading.com/vulnerabilities-threats/icymi-cyber-pro-hopelessness-follina-atlassian)
 - [OpenSea NFT Marketplace Faces Insider Hack](https://www.darkreading.com/vulnerabilities-threats/opensea-nft-marketplace-faces-insider-hack)
-- [Time Constraints Hamper Security Awareness Programs](https://www.darkreading.com/edge-threat-monitor/time-constraints-hamper-security-awareness-programs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
