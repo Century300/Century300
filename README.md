@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Browser Vulnerabilities Are a Serious Threat — and How to Minimize Your Risk](https://www.darkreading.com/attacks-breaches/why-browser-vulnerabilities-are-a-serious-threat-and-how-to-minimize-your-risk)
+- [Google Chrome WebRTC Zero-Day Faces Active Exploitation](https://www.darkreading.com/vulnerabilities-threats/google-chrome-webrtc-zero-day-active-exploitation)
 - [3 Cyber Threats Resulting From Today&#39;s Technology Choices to Hit Businesses by 2024](https://www.darkreading.com/vulnerabilities-threats/3-cyber-threats-resulting-from-today-s-technology-choices-to-hit-businesses-by-2024)
 - [Name That Edge Toon: On Guard](https://www.darkreading.com/edge-articles/name-that-edge-toon-on-guard)
 - [ICYMI: A Microsoft Warning, Follina, Atlassian, and More](https://www.darkreading.com/vulnerabilities-threats/icymi-cyber-pro-hopelessness-follina-atlassian)
 - [OpenSea NFT Marketplace Faces Insider Hack](https://www.darkreading.com/vulnerabilities-threats/opensea-nft-marketplace-faces-insider-hack)
 - [Time Constraints Hamper Security Awareness Programs](https://www.darkreading.com/edge-threat-monitor/time-constraints-hamper-security-awareness-programs)
 - [Criminals Use Deepfake Videos to Interview for Remote Work](https://www.darkreading.com/attacks-breaches/criminals-deepfake-video-interview-remote-work)
-- [DragonForce Malaysia Releases LPE Exploit, Threatens Ransomware](https://www.darkreading.com/vulnerabilities-threats/dragonforce-malaysia-releases-lpe-exploit-threatens-ransomware)
-- [When It Comes to SBOMs, Do You Know the Ingredients in Your Ingredients?](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-sboms-do-you-know-the-ingredients-in-your-ingredients-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
