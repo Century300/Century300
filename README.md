@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [I Built a Cheap &#39;Warshipping&#39; Device in Just Three Hours — And So Can You](https://www.darkreading.com/edge-articles/i-built-a-cheap-warshipping-device-in-just-three-hours-and-so-can-you)
+- [Marriott Data Breach Exposes PII, Credit Cards](https://www.darkreading.com/attacks-breaches/marriott-data-breach-pii-credit-cards)
 - [How to Keep EVs From Taking Down the Electrical Grid](https://www.darkreading.com/attacks-breaches/how-to-keep-evs-from-taking-down-the-electrical-grid)
 - [Cloud Misconfig Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket: &#39;Lives at Stake&#39;](https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket)
 - [Identity Access Management Is Set for Exploding Growth, Big Changes — Report](https://www.darkreading.com/application-security/identity-access-management-exploding-growth-big-changes)
 - [The Cyber-Asset Management Playbook for Supply Chain Modernization](https://www.darkreading.com/attacks-breaches/the-cyber-asset-management-playbook-for-supply-chain-modernization)
 - [Roundtable: Amid Cyberattack Frenzy, How Can QNAP Customers Protect the Business?](https://www.darkreading.com/attacks-breaches/roundtable-cyberattack-frenzy-qnap-customers-protect-business)
 - [NIST Picks 4 Quantum-Resistant Cryptographic Algorithms](https://www.darkreading.com/emerging-tech/nist-picks-four-quantum-resistant-cryptographic-algorithms)
-- [HackerOne Employee Fired for Stealing and Selling Bug Reports for Personal Gain](https://www.darkreading.com/vulnerabilities-threats/hackerone-employee-fired-for-stealing-and-selling-bug-reports-for-personal-gain)
-- [Supply Chain Attack Deploys Hundreds of Malicious NPM Modules to Steal Data](https://www.darkreading.com/attacks-breaches/supply-chain-attack-malicious-npm-modules-steal-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
