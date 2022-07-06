@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Debuts Spyware Protection for State-Sponsored Cyberattacks](https://www.darkreading.com/application-security/apple-debuts-state-sponsored-spyware-protection)
 - [I Built a Cheap &#39;Warshipping&#39; Device in Just Three Hours — And So Can You](https://www.darkreading.com/edge-articles/i-built-a-cheap-warshipping-device-in-just-three-hours-and-so-can-you)
 - [Marriott Data Breach Exposes PII, Credit Cards](https://www.darkreading.com/attacks-breaches/marriott-data-breach-pii-credit-cards)
 - [How to Keep EVs From Taking Down the Electrical Grid](https://www.darkreading.com/attacks-breaches/how-to-keep-evs-from-taking-down-the-electrical-grid)
@@ -82,7 +83,6 @@
 - [Identity Access Management Is Set for Exploding Growth, Big Changes — Report](https://www.darkreading.com/application-security/identity-access-management-exploding-growth-big-changes)
 - [The Cyber-Asset Management Playbook for Supply Chain Modernization](https://www.darkreading.com/attacks-breaches/the-cyber-asset-management-playbook-for-supply-chain-modernization)
 - [Roundtable: Amid Cyberattack Frenzy, How Can QNAP Customers Protect the Business?](https://www.darkreading.com/attacks-breaches/roundtable-cyberattack-frenzy-qnap-customers-protect-business)
-- [NIST Picks 4 Quantum-Resistant Cryptographic Algorithms](https://www.darkreading.com/emerging-tech/nist-picks-four-quantum-resistant-cryptographic-algorithms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
