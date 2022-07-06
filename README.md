@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [NIST Picks Four Quantum-Resistant Cryptographic Algorithms](https://www.darkreading.com/emerging-tech/nist-picks-four-quantum-resistant-cryptographic-algorithms)
+- [Roundtable: Amid Cyberattack Frenzy, How Can QNAP Customers Protect the Business?](https://www.darkreading.com/attacks-breaches/roundtable-cyberattack-frenzy-qnap-customers-protect-business)
+- [NIST Picks 4 Quantum-Resistant Cryptographic Algorithms](https://www.darkreading.com/emerging-tech/nist-picks-four-quantum-resistant-cryptographic-algorithms)
 - [HackerOne Employee Fired for Stealing and Selling Bug Reports for Personal Gain](https://www.darkreading.com/vulnerabilities-threats/hackerone-employee-fired-for-stealing-and-selling-bug-reports-for-personal-gain)
 - [Supply Chain Attack Deploys Hundreds of Malicious NPM Modules to Steal Data](https://www.darkreading.com/attacks-breaches/supply-chain-attack-malicious-npm-modules-steal-data)
 - [Why Browser Vulnerabilities Are a Serious Threat — and How to Minimize Your Risk](https://www.darkreading.com/attacks-breaches/why-browser-vulnerabilities-are-a-serious-threat-and-how-to-minimize-your-risk)
 - [Google Chrome WebRTC Zero-Day Faces Active Exploitation](https://www.darkreading.com/vulnerabilities-threats/google-chrome-webrtc-zero-day-active-exploitation)
 - [3 Cyber Threats Resulting From Today&#39;s Technology Choices to Hit Businesses by 2024](https://www.darkreading.com/vulnerabilities-threats/3-cyber-threats-resulting-from-today-s-technology-choices-to-hit-businesses-by-2024)
 - [Name That Edge Toon: On Guard](https://www.darkreading.com/edge-articles/name-that-edge-toon-on-guard)
-- [ICYMI: A Microsoft Warning, Follina, Atlassian, and More](https://www.darkreading.com/vulnerabilities-threats/icymi-cyber-pro-hopelessness-follina-atlassian)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
