@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Prevention Takes Priority Over Response](https://www.darkreading.com/tech-trends/prevention-takes-priority-over-response)
 - [North Korean State Actors Deploy Surgical Ransomware in Ongoing Cyberattacks on US Healthcare Orgs](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-deploy-surgical-ransomware-in-ongoing-cyberattacks-us-healthcare-orgs)
 - [Apple Debuts Spyware Protection for State-Sponsored Cyberattacks](https://www.darkreading.com/application-security/apple-debuts-state-sponsored-spyware-protection)
 - [I Built a Cheap &#39;Warshipping&#39; Device in Just Three Hours — And So Can You](https://www.darkreading.com/edge-articles/i-built-a-cheap-warshipping-device-in-just-three-hours-and-so-can-you)
@@ -82,7 +83,6 @@
 - [How to Keep EVs From Taking Down the Electrical Grid](https://www.darkreading.com/attacks-breaches/how-to-keep-evs-from-taking-down-the-electrical-grid)
 - [Cloud Misconfig Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket: &#39;Lives at Stake&#39;](https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket)
 - [Identity Access Management Is Set for Exploding Growth, Big Changes — Report](https://www.darkreading.com/application-security/identity-access-management-exploding-growth-big-changes)
-- [The Cyber-Asset Management Playbook for Supply Chain Modernization](https://www.darkreading.com/attacks-breaches/the-cyber-asset-management-playbook-for-supply-chain-modernization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
