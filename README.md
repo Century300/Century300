@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortress Information Security Sponsors Open Web Application Security Project To Work on Industry-Wide Software Bill of Materials Standards](https://www.darkreading.com/application-security/fortress-information-security-sponsors-open-web-application-security-project-to-work-on-industry-wide-software-bill-of-materials-standards)
 - [China&#39;s Tonto Team APT Ramps Up Spy Operations Against Russia](https://www.darkreading.com/threat-intelligence/china-tonto-team-apt-spy-operations-russia)
 - [Buggy &#39;Log in With Google&#39; API Implementation Opens Crypto Wallets to Account Takeover](https://www.darkreading.com/application-security/cryptocurrency-api-vulnerability-opens-wallets-to-account-takeovers)
 - [Empower Your Security Operations Team to Combat Emerging Threats](https://www.darkreading.com/perimeter/empower-your-security-operations-team-to-combat-emerging-threats)
@@ -82,7 +83,6 @@
 - [Inside NIST&#39;s 4 Crypto Algorithms for a Post-Quantum World](https://www.darkreading.com/application-security/nist-4-crypto-algorithms-post-quantum-world)
 - [Prevention Takes Priority Over Response](https://www.darkreading.com/tech-trends/prevention-takes-priority-over-response)
 - [North Korean State Actors Deploy Surgical Ransomware in Ongoing Cyberattacks on US Healthcare Orgs](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-deploy-surgical-ransomware-in-ongoing-cyberattacks-us-healthcare-orgs)
-- [Apple Debuts Spyware Protection for State-Sponsored Cyberattacks](https://www.darkreading.com/application-security/apple-debuts-state-sponsored-spyware-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
