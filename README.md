@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s Tonto Team APT Ramps Up Spy Operations Against Russia](https://www.darkreading.com/threat-intelligence/china-tonto-team-apt-spy-operations-russia)
 - [Buggy &#39;Log in With Google&#39; API Implementation Opens Crypto Wallets to Account Takeover](https://www.darkreading.com/application-security/cryptocurrency-api-vulnerability-opens-wallets-to-account-takeovers)
 - [Empower Your Security Operations Team to Combat Emerging Threats](https://www.darkreading.com/perimeter/empower-your-security-operations-team-to-combat-emerging-threats)
 - [Cybersecurity Has a Talent Shortage &amp; Non-Technical People Offer a Way Out](https://www.darkreading.com/careers-and-people/cybersecurity-has-a-talent-shortage-non-technical-people-offer-a-way-out)
@@ -82,7 +83,6 @@
 - [Prevention Takes Priority Over Response](https://www.darkreading.com/tech-trends/prevention-takes-priority-over-response)
 - [North Korean State Actors Deploy Surgical Ransomware in Ongoing Cyberattacks on US Healthcare Orgs](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-deploy-surgical-ransomware-in-ongoing-cyberattacks-us-healthcare-orgs)
 - [Apple Debuts Spyware Protection for State-Sponsored Cyberattacks](https://www.darkreading.com/application-security/apple-debuts-state-sponsored-spyware-protection)
-- [I Built a Cheap &#39;Warshipping&#39; Device in Just 3 Hours — and So Can You](https://www.darkreading.com/edge-articles/i-built-a-cheap-warshipping-device-in-just-three-hours-and-so-can-you)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
