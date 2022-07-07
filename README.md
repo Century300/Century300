@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Has a Talent Shortage &amp; Non-Technical People Offer a Way Out](https://www.darkreading.com/careers-and-people/cybersecurity-has-a-talent-shortage-non-technical-people-offer-a-way-out)
 - [Inside NIST&#39;s 4 Crypto Algorithms for a Post-Quantum World](https://www.darkreading.com/application-security/nist-4-crypto-algorithms-post-quantum-world)
 - [Prevention Takes Priority Over Response](https://www.darkreading.com/tech-trends/prevention-takes-priority-over-response)
 - [North Korean State Actors Deploy Surgical Ransomware in Ongoing Cyberattacks on US Healthcare Orgs](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-deploy-surgical-ransomware-in-ongoing-cyberattacks-us-healthcare-orgs)
@@ -82,7 +83,6 @@
 - [I Built a Cheap &#39;Warshipping&#39; Device in Just 3 Hours — and So Can You](https://www.darkreading.com/edge-articles/i-built-a-cheap-warshipping-device-in-just-three-hours-and-so-can-you)
 - [Marriott Data Breach Exposes PII, Credit Cards](https://www.darkreading.com/attacks-breaches/marriott-data-breach-pii-credit-cards)
 - [How to Keep EVs From Taking Down the Electrical Grid](https://www.darkreading.com/attacks-breaches/how-to-keep-evs-from-taking-down-the-electrical-grid)
-- [Cloud Misconfig Exposes 3TB of Sensitive Airport Data in Amazon S3 Bucket: &#39;Lives at Stake&#39;](https://www.darkreading.com/application-security/cloud-misconfig-exposes-3tb-sensitive-airport-data-amazon-s3-bucket)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
