@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion](https://www.darkreading.com/attacks-breaches/coalition-closes-250-million-in-series-f-funding-valuing-the-cyber-insurance-provider-at-5-billion)
+- [Zero Trust Bolsters Our National Defense Against Rising Cyber Threats](https://www.darkreading.com/operations/zero-trust-bolsters-our-national-defense-against-rising-cyber-threats)
+- [In Switch, Trickbot Group Now Attacking Ukrainian Targets](https://www.darkreading.com/attacks-breaches/in-switch-trickbot-group-now-attacking-ukrainian-targets)
 - [What Do All of Those Cloud Cybersecurity Acronyms Mean?](https://www.darkreading.com/edge-ask-the-experts/what-do-all-those-cloud-cybersecurity-acronyms-mean-)
 - [ICYMI: Critical Cisco RCE Bug, Microsoft Breaks Down Hive, SHI Cyberattack](https://www.darkreading.com/threat-intelligence/icymi-critical-cisco-rce-bug-microsoft-hive-shi-cyberattack)
 - [Cyber Skills Center Launches in Tulsa to Develop Diverse, Local Tech Talent Pipeline](https://www.darkreading.com/careers-and-people/cyber-skills-center-launches-in-tulsa-to-develop-diverse-local-tech-talent-pipeline)
 - [Stealthy Cyber-Campaign Ditches Cobalt Strike for Rival &#39;Brute Ratel&#39; Pen Test Tool](https://www.darkreading.com/attacks-breaches/cyber-campaign-cobalt-strike-pentest-tool-brute-ratel)
 - [Fortress Information Security Sponsors Open Web Application Security Project To Work on Industry-Wide Software Bill of Materials Standards](https://www.darkreading.com/application-security/fortress-information-security-sponsors-open-web-application-security-project-to-work-on-industry-wide-software-bill-of-materials-standards)
-- [China&#39;s Tonto Team APT Ramps Up Spy Operations Against Russia](https://www.darkreading.com/threat-intelligence/china-tonto-team-apt-spy-operations-russia)
-- [Buggy &#39;Log in With Google&#39; API Implementation Opens Crypto Wallets to Account Takeover](https://www.darkreading.com/application-security/cryptocurrency-api-vulnerability-opens-wallets-to-account-takeovers)
-- [Empower Your Security Operations Team to Combat Emerging Threats](https://www.darkreading.com/perimeter/empower-your-security-operations-team-to-combat-emerging-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
