@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ICYMI: Critical Cisco RCE Bug, Microsoft Breaks Down Hive, SHI Cyberattack](https://www.darkreading.com/threat-intelligence/icymi-critical-cisco-rce-bug-microsoft-hive-shi-cyberattack)
 - [Cyber Skills Center Launches in Tulsa to Develop Diverse, Local Tech Talent Pipeline](https://www.darkreading.com/careers-and-people/cyber-skills-center-launches-in-tulsa-to-develop-diverse-local-tech-talent-pipeline)
 - [Stealthy Cyber-Campaign Ditches Cobalt Strike for Rival &#39;Brute Ratel&#39; Pen Test Tool](https://www.darkreading.com/attacks-breaches/cyber-campaign-cobalt-strike-pentest-tool-brute-ratel)
 - [Fortress Information Security Sponsors Open Web Application Security Project To Work on Industry-Wide Software Bill of Materials Standards](https://www.darkreading.com/application-security/fortress-information-security-sponsors-open-web-application-security-project-to-work-on-industry-wide-software-bill-of-materials-standards)
@@ -82,7 +83,6 @@
 - [Buggy &#39;Log in With Google&#39; API Implementation Opens Crypto Wallets to Account Takeover](https://www.darkreading.com/application-security/cryptocurrency-api-vulnerability-opens-wallets-to-account-takeovers)
 - [Empower Your Security Operations Team to Combat Emerging Threats](https://www.darkreading.com/perimeter/empower-your-security-operations-team-to-combat-emerging-threats)
 - [Cybersecurity Has a Talent Shortage &amp; Non-Technical People Offer a Way Out](https://www.darkreading.com/careers-and-people/cybersecurity-has-a-talent-shortage-non-technical-people-offer-a-way-out)
-- [Inside NIST&#39;s 4 Crypto Algorithms for a Post-Quantum World](https://www.darkreading.com/application-security/nist-4-crypto-algorithms-post-quantum-world)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
