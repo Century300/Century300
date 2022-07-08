@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Charges CEO for Dealing $1B in Fake Cisco Gear](https://www.darkreading.com/vulnerabilities-threats/doj-charges-ceo-for-dealing-1-billion-in-fake-cisco-gear)
 - [SOAR Market Worth $2.3 Billion by 2027, According to Exclusive Report by MarketsandMarkets](https://www.darkreading.com/operations/soar-market-worth-2-3-billion-by-2027-according-to-exclusive-report-by-marketsandmarkets)
 - [Welcome-Back-to-the-Future Shock](https://www.darkreading.com/dr-tech/welcome-back-to-the-future-shock)
 - [Swimlane Secures $70M Growth Round to Fuel Global Expansion of Next Generation Low-Code Security Automation Platform](https://www.darkreading.com/application-security/swimlane-secures-70m-growth-round-to-fuel-global-expansion-of-next-generation-low-code-security-automation-platform)
@@ -82,7 +83,6 @@
 - [Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion](https://www.darkreading.com/attacks-breaches/coalition-closes-250-million-in-series-f-funding-valuing-the-cyber-insurance-provider-at-5-billion)
 - [Zero Trust Bolsters Our National Defense Against Rising Cyber Threats](https://www.darkreading.com/operations/zero-trust-bolsters-our-national-defense-against-rising-cyber-threats)
 - [In Switch, Trickbot Group Now Attacking Ukrainian Targets](https://www.darkreading.com/attacks-breaches/in-switch-trickbot-group-now-attacking-ukrainian-targets)
-- [What Do All of Those Cloud Cybersecurity Acronyms Mean?](https://www.darkreading.com/edge-ask-the-experts/what-do-all-those-cloud-cybersecurity-acronyms-mean-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
