@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SOAR Market Worth $2.3 Billion by 2027, According to Exclusive Report by MarketsandMarkets](https://www.darkreading.com/operations/soar-market-worth-2-3-billion-by-2027-according-to-exclusive-report-by-marketsandmarkets)
+- [Welcome-Back-to-the-Future Shock](https://www.darkreading.com/dr-tech/welcome-back-to-the-future-shock)
+- [Swimlane Secures $70M Growth Round to Fuel Global Expansion of Next Generation Low-Code Security Automation Platform](https://www.darkreading.com/application-security/swimlane-secures-70m-growth-round-to-fuel-global-expansion-of-next-generation-low-code-security-automation-platform)
+- [Worldwide Enterprise Endpoint Security Industry to 2027: Focus on Antivirus, Firewall, Endpoint Device Control, and Anti-Spyware/Anti-Malware](https://www.darkreading.com/endpoint/worldwide-enterprise-endpoint-security-industry-to-2027-focus-on-antivirus-firewall-endpoint-device-control-and-anti-spyware-anti-malware)
 - [Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion](https://www.darkreading.com/attacks-breaches/coalition-closes-250-million-in-series-f-funding-valuing-the-cyber-insurance-provider-at-5-billion)
 - [Zero Trust Bolsters Our National Defense Against Rising Cyber Threats](https://www.darkreading.com/operations/zero-trust-bolsters-our-national-defense-against-rising-cyber-threats)
 - [In Switch, Trickbot Group Now Attacking Ukrainian Targets](https://www.darkreading.com/attacks-breaches/in-switch-trickbot-group-now-attacking-ukrainian-targets)
 - [What Do All of Those Cloud Cybersecurity Acronyms Mean?](https://www.darkreading.com/edge-ask-the-experts/what-do-all-those-cloud-cybersecurity-acronyms-mean-)
-- [ICYMI: Critical Cisco RCE Bug, Microsoft Breaks Down Hive, SHI Cyberattack](https://www.darkreading.com/threat-intelligence/icymi-critical-cisco-rce-bug-microsoft-hive-shi-cyberattack)
-- [Cyber Skills Center Launches in Tulsa to Develop Diverse, Local Tech Talent Pipeline](https://www.darkreading.com/careers-and-people/cyber-skills-center-launches-in-tulsa-to-develop-diverse-local-tech-talent-pipeline)
-- [Stealthy Cyber-Campaign Ditches Cobalt Strike for Rival &#39;Brute Ratel&#39; Pen Test Tool](https://www.darkreading.com/attacks-breaches/cyber-campaign-cobalt-strike-pentest-tool-brute-ratel)
-- [Fortress Information Security Sponsors Open Web Application Security Project To Work on Industry-Wide Software Bill of Materials Standards](https://www.darkreading.com/application-security/fortress-information-security-sponsors-open-web-application-security-project-to-work-on-industry-wide-software-bill-of-materials-standards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
