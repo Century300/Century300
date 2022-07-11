@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Online Payment Fraud Expected to Cost $343B Over Next 5 Years](https://www.darkreading.com/application-security/online-payment-fraud-expected-to-cost-343b-over-5-years)
 - [Omdia: Sustainability Ranks Top on Data Center Operators’ Agendas Despite Cost and Reliability Barriers](https://www.darkreading.com/operations/omdia-sustainability-ranks-top-on-data-center-operators-agendas-despite-cost-and-reliability-barriers)
 - [Proposed SEC Rules Require More Transparency About Cyber-Risk](https://www.darkreading.com/edge-articles/proposed-sec-rules-require-more-transparency-about-cyber-risk)
 - [Diversity in Cybersecurity: Fostering Gender-Inclusive Teams That Perform Better](https://www.darkreading.com/careers-and-people/diversity-in-cybersecurity-fostering-gender-inclusive-teams-that-perform-better)
@@ -82,7 +83,6 @@
 - [Microsoft Reverses Course on Blocking Office Macros by Default](https://www.darkreading.com/application-security/microsoft-reverses-course-on-blocking-office-macros-by-default)
 - [DoJ Charges CEO for Dealing $1B in Fake Cisco Gear](https://www.darkreading.com/vulnerabilities-threats/doj-charges-ceo-for-dealing-1-billion-in-fake-cisco-gear)
 - [SOAR Market Worth $2.3 Billion by 2027, According to Exclusive Report by MarketsandMarkets](https://www.darkreading.com/operations/soar-market-worth-2-3-billion-by-2027-according-to-exclusive-report-by-marketsandmarkets)
-- [Welcome-Back-to-the-Future Shock](https://www.darkreading.com/dr-tech/welcome-back-to-the-future-shock)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
