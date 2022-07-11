@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake Google Software Updates Spread New Ransomware](https://www.darkreading.com/attacks-breaches/attacker-using-fake-google-software-update-to-distribute-new-ransomware)
 - [&#39;Luna Moth&#39; Group Ransoms Data Without the Ransomware](https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware)
 - [Online Payment Fraud Expected to Cost $343B Over Next 5 Years](https://www.darkreading.com/application-security/online-payment-fraud-expected-to-cost-343b-over-5-years)
 - [Omdia: Sustainability Ranks Top on Data Center Operators’ Agendas Despite Cost and Reliability Barriers](https://www.darkreading.com/operations/omdia-sustainability-ranks-top-on-data-center-operators-agendas-despite-cost-and-reliability-barriers)
@@ -82,7 +83,6 @@
 - [Diversity in Cybersecurity: Fostering Gender-Inclusive Teams That Perform Better](https://www.darkreading.com/careers-and-people/diversity-in-cybersecurity-fostering-gender-inclusive-teams-that-perform-better)
 - [New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials](https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials)
 - [Microsoft Reverses Course on Blocking Office Macros by Default](https://www.darkreading.com/application-security/microsoft-reverses-course-on-blocking-office-macros-by-default)
-- [DoJ Charges CEO for Dealing $1B in Fake Cisco Gear](https://www.darkreading.com/vulnerabilities-threats/doj-charges-ceo-for-dealing-1-billion-in-fake-cisco-gear)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
