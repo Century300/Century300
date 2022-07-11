@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proposed SEC Rules Require More Transparency About Cyber-Risk](https://www.darkreading.com/edge-articles/proposed-sec-rules-require-more-transparency-about-cyber-risk)
+- [Diversity in Cybersecurity: Fostering Gender-Inclusive Teams That Perform Better](https://www.darkreading.com/careers-and-people/diversity-in-cybersecurity-fostering-gender-inclusive-teams-that-perform-better)
+- [New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials](https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials)
 - [Microsoft Reverses Course on Blocking Office Macros by Default](https://www.darkreading.com/application-security/microsoft-reverses-course-on-blocking-office-macros-by-default)
 - [DoJ Charges CEO for Dealing $1B in Fake Cisco Gear](https://www.darkreading.com/vulnerabilities-threats/doj-charges-ceo-for-dealing-1-billion-in-fake-cisco-gear)
 - [SOAR Market Worth $2.3 Billion by 2027, According to Exclusive Report by MarketsandMarkets](https://www.darkreading.com/operations/soar-market-worth-2-3-billion-by-2027-according-to-exclusive-report-by-marketsandmarkets)
 - [Welcome-Back-to-the-Future Shock](https://www.darkreading.com/dr-tech/welcome-back-to-the-future-shock)
 - [Swimlane Secures $70M Growth Round to Fuel Global Expansion of Next Generation Low-Code Security Automation Platform](https://www.darkreading.com/application-security/swimlane-secures-70m-growth-round-to-fuel-global-expansion-of-next-generation-low-code-security-automation-platform)
-- [Worldwide Enterprise Endpoint Security Industry to 2027: Focus on Antivirus, Firewall, Endpoint Device Control, and Anti-Spyware/Anti-Malware](https://www.darkreading.com/endpoint/worldwide-enterprise-endpoint-security-industry-to-2027-focus-on-antivirus-firewall-endpoint-device-control-and-anti-spyware-anti-malware)
-- [Coalition Closes $250 Million in Series F Funding, Valuing the Cyber Insurance Provider at $5 Billion](https://www.darkreading.com/attacks-breaches/coalition-closes-250-million-in-series-f-funding-valuing-the-cyber-insurance-provider-at-5-billion)
-- [Zero Trust Bolsters Our National Defense Against Rising Cyber Threats](https://www.darkreading.com/operations/zero-trust-bolsters-our-national-defense-against-rising-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
