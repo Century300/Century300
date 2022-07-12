@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Core Security by HelpSystems Introduces New Ransomware Simulator](https://www.darkreading.com/attacks-breaches/core-security-by-helpsystems-introduces-new-ransomware-simulator)
+- [Microsoft Issues Fixes for 84 Vulnerabilities: Here&#39;s What to Patch Now](https://www.darkreading.com/application-security/microsoft-issues-fixes-for-84-vulnerabilities-here-s-what-to-patch-now)
+- [Privitar Announces Kormoon Acquisition, Extending Data Privacy and Provisioning Capabilities](https://www.darkreading.com/endpoint/privitar-announces-kormoon-acquisition-extending-data-privacy-and-provisioning-capabilities)
 - [Understanding the Omdia Threat Detection Data Life Cycle](https://www.darkreading.com/omdia/understanding-the-omdia-threat-detection-data-lifecycl)
 - [Don&#39;t Have a COW: Containers on Windows and Other Container-Escape Research](https://www.darkreading.com/application-security/dont-have-a-cow-containers-on-windows-and-other-container-escape-research)
 - [One-Third of Users Without Security Awareness Training Click on Phishing URLs](https://www.darkreading.com/remote-workforce/one-third-of-users-click-on-phishing)
 - [5 Traits That Differentiate CISOs From CIROs](https://www.darkreading.com/risk/5-traits-that-differentiate-cisos-from-ciros)
 - [Deloitte Launches Zero Trust Access, a New Managed Security Service](https://www.darkreading.com/operations/deloitte-launches-zero-trust-access-a-new-managed-security-service)
-- [How Confidential Computing Locks Down Data, Regardless of Its State](https://www.darkreading.com/cloud/how-confidential-computing-locks-down-data-regardless-of-its-state)
-- [Accessible Cybersecurity Awareness Training Reduces Your Risk of Cyberattack](https://www.darkreading.com/edge-articles/accessible-cybersecurity-awareness-training-reduces-your-risk-of-cyberattack)
-- [Ransomware Scourge Drives Price Hikes in Cyber Insurance](https://www.darkreading.com/attacks-breaches/ransomware-scourge-drives-price-hikes-in-cyber-insurance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
