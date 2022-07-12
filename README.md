@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Accessible Cybersecurity Awareness Training Reduces Your Risk of Cyberattack](https://www.darkreading.com/edge-articles/accessible-cybersecurity-awareness-training-reduces-your-risk-of-cyberattack)
+- [Ransomware Scourge Drives Price Hikes in Cyber Insurance](https://www.darkreading.com/attacks-breaches/ransomware-scourge-drives-price-hikes-in-cyber-insurance)
 - [Paladin Cloud Launches New Cloud Security and Governance Platform](https://www.darkreading.com/dr-tech/paladin-cloud-launches-new-cloud-security-and-governance-platform)
 - [Fake Google Software Updates Spread New Ransomware](https://www.darkreading.com/attacks-breaches/attacker-using-fake-google-software-update-to-distribute-new-ransomware)
 - [&#39;Luna Moth&#39; Group Ransoms Data Without the Ransomware](https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware)
 - [Online Payment Fraud Expected to Cost $343B Over Next 5 Years](https://www.darkreading.com/application-security/online-payment-fraud-expected-to-cost-343b-over-5-years)
 - [Omdia: Sustainability Ranks Top on Data Center Operators’ Agendas Despite Cost and Reliability Barriers](https://www.darkreading.com/operations/omdia-sustainability-ranks-top-on-data-center-operators-agendas-despite-cost-and-reliability-barriers)
 - [Proposed SEC Rules Require More Transparency About Cyber-Risk](https://www.darkreading.com/edge-articles/proposed-sec-rules-require-more-transparency-about-cyber-risk)
-- [Diversity in Cybersecurity: Fostering Gender-Inclusive Teams That Perform Better](https://www.darkreading.com/careers-and-people/diversity-in-cybersecurity-fostering-gender-inclusive-teams-that-perform-better)
-- [New Phishing Attacks Shame, Scare Victims into Surrendering Twitter, Discord Credentials](https://www.darkreading.com/remote-workforce/new-wave-phishing-attacks-shame-scare-victims-into-surrendering-twitter-discord-credentials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
