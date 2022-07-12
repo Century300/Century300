@@ -75,7 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Understanding the Omdia Threat Detection Data Lifecycle](https://www.darkreading.com/omdia)
+- [Understanding the Omdia Threat Detection Data Life Cycle](https://www.darkreading.com/omdia/understanding-the-omdia-threat-detection-data-lifecycl)
 - [Don&#39;t Have a COW: Containers on Windows and Other Container-Escape Research](https://www.darkreading.com/application-security/dont-have-a-cow-containers-on-windows-and-other-container-escape-research)
 - [One-Third of Users Without Security Awareness Training Click on Phishing URLs](https://www.darkreading.com/remote-workforce/one-third-of-users-click-on-phishing)
 - [5 Traits That Differentiate CISOs From CIROs](https://www.darkreading.com/risk/5-traits-that-differentiate-cisos-from-ciros)
