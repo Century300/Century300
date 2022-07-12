@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Confidential Computing Locks Down Data, Regardless of Its State](https://www.darkreading.com/cloud/how-confidential-computing-locks-down-data-regardless-of-its-state)
 - [Accessible Cybersecurity Awareness Training Reduces Your Risk of Cyberattack](https://www.darkreading.com/edge-articles/accessible-cybersecurity-awareness-training-reduces-your-risk-of-cyberattack)
 - [Ransomware Scourge Drives Price Hikes in Cyber Insurance](https://www.darkreading.com/attacks-breaches/ransomware-scourge-drives-price-hikes-in-cyber-insurance)
 - [Paladin Cloud Launches New Cloud Security and Governance Platform](https://www.darkreading.com/dr-tech/paladin-cloud-launches-new-cloud-security-and-governance-platform)
@@ -82,7 +83,6 @@
 - [&#39;Luna Moth&#39; Group Ransoms Data Without the Ransomware](https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware)
 - [Online Payment Fraud Expected to Cost $343B Over Next 5 Years](https://www.darkreading.com/application-security/online-payment-fraud-expected-to-cost-343b-over-5-years)
 - [Omdia: Sustainability Ranks Top on Data Center Operators’ Agendas Despite Cost and Reliability Barriers](https://www.darkreading.com/operations/omdia-sustainability-ranks-top-on-data-center-operators-agendas-despite-cost-and-reliability-barriers)
-- [Proposed SEC Rules Require More Transparency About Cyber-Risk](https://www.darkreading.com/edge-articles/proposed-sec-rules-require-more-transparency-about-cyber-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
