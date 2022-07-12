@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Don&#39;t Have a COW: Containers on Windows and Other Container-Escape Research](https://www.darkreading.com/application-security/dont-have-a-cow-containers-on-windows-and-other-container-escape-research)
 - [One-Third of Users Without Security Awareness Training Click on Phishing URLs](https://www.darkreading.com/remote-workforce/one-third-of-users-click-on-phishing)
 - [5 Traits That Differentiate CISOs From CIROs](https://www.darkreading.com/risk/5-traits-that-differentiate-cisos-from-ciros)
 - [Deloitte Launches Zero Trust Access, a New Managed Security Service](https://www.darkreading.com/operations/deloitte-launches-zero-trust-access-a-new-managed-security-service)
@@ -82,7 +83,6 @@
 - [Accessible Cybersecurity Awareness Training Reduces Your Risk of Cyberattack](https://www.darkreading.com/edge-articles/accessible-cybersecurity-awareness-training-reduces-your-risk-of-cyberattack)
 - [Ransomware Scourge Drives Price Hikes in Cyber Insurance](https://www.darkreading.com/attacks-breaches/ransomware-scourge-drives-price-hikes-in-cyber-insurance)
 - [Paladin Cloud Launches New Cloud Security and Governance Platform](https://www.darkreading.com/dr-tech/paladin-cloud-launches-new-cloud-security-and-governance-platform)
-- [Fake Google Software Updates Spread New Ransomware](https://www.darkreading.com/attacks-breaches/attacker-using-fake-google-software-update-to-distribute-new-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
