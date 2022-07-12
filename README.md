@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [One-Third of Users Without Security Awareness Training Click on Phishing URLs](https://www.darkreading.com/remote-workforce/one-third-of-users-click-on-phishing)
 - [5 Traits That Differentiate CISOs From CIROs](https://www.darkreading.com/risk/5-traits-that-differentiate-cisos-from-ciros)
 - [Deloitte Launches Zero Trust Access, a New Managed Security Service](https://www.darkreading.com/operations/deloitte-launches-zero-trust-access-a-new-managed-security-service)
 - [How Confidential Computing Locks Down Data, Regardless of Its State](https://www.darkreading.com/cloud/how-confidential-computing-locks-down-data-regardless-of-its-state)
@@ -82,7 +83,6 @@
 - [Ransomware Scourge Drives Price Hikes in Cyber Insurance](https://www.darkreading.com/attacks-breaches/ransomware-scourge-drives-price-hikes-in-cyber-insurance)
 - [Paladin Cloud Launches New Cloud Security and Governance Platform](https://www.darkreading.com/dr-tech/paladin-cloud-launches-new-cloud-security-and-governance-platform)
 - [Fake Google Software Updates Spread New Ransomware](https://www.darkreading.com/attacks-breaches/attacker-using-fake-google-software-update-to-distribute-new-ransomware)
-- [&#39;Luna Moth&#39; Group Ransoms Data Without the Ransomware](https://www.darkreading.com/threat-intelligence/-luna-moth-group-ransoms-data-without-the-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
