@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Devise New Speculative Execution Attacks Against Some Intel, AMD CPUs](https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus)
 - [CyberRatings.org Issues AAA Rating on Forcepoint&#39;s Cloud Network Firewall](https://www.darkreading.com/cloud/cyberratings-org-issues-aaa-rating-on-forcepoint-s-cloud-network-firewall)
 - [Report: Financial Institutions Overly Complacent About Current Authentication Methods](https://www.darkreading.com/attacks-breaches/report-financial-institutions-overly-complacent-about-current-authentication-methods)
 - [Mozilla: EU&#39;s eIDAS Proposal Attracts Growing Criticism](https://www.darkreading.com/application-security/mozilla-eu-s-eidas-proposal-attracts-growing-criticism)
@@ -82,7 +83,6 @@
 - [MacOS Bug Could Let Malicious Code Break Out of Application Sandbox](https://www.darkreading.com/application-security/macos-bug-let-malicious-code-break-out-of-app-sandbox)
 - [The 3 Critical Elements You Need for Vulnerability Management Today](https://www.darkreading.com/vulnerabilities-threats/the-3-critical-elements-you-need-for-vulnerability-management-today)
 - [Internet Searches Reveal Surprisingly Prevalent Ransomware](https://www.darkreading.com/edge-threat-monitor/internet-searches-reveals-surprisingly-prevalent-ransomware)
-- [3 Golden Rules of Modern Third-Party Risk Management](https://www.darkreading.com/risk/3-golden-rules-of-modern-third-party-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
