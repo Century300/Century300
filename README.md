@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [QuickBooks Vishing Scam Targets Small Businesses](https://www.darkreading.com/application-security/quickbooks-vishing-scam-targets-small-businesses)
 - [PyPI Mandates 2FA, Plans Google Titan Key Giveaway](https://www.darkreading.com/application-security/pypi-mandates-2fa-plans-google-titan-key-giveaway)
 - [Core Security by HelpSystems Introduces New Ransomware Simulator](https://www.darkreading.com/attacks-breaches/core-security-by-helpsystems-introduces-new-ransomware-simulator)
 - [Microsoft Issues Fixes for 84 Vulnerabilities: Here&#39;s What to Patch Now](https://www.darkreading.com/application-security/microsoft-issues-fixes-for-84-vulnerabilities-here-s-what-to-patch-now)
@@ -82,7 +83,6 @@
 - [Understanding the Omdia Threat Detection Data Life Cycle](https://www.darkreading.com/omdia/understanding-the-omdia-threat-detection-data-lifecycl)
 - [Don&#39;t Have a COW: Containers on Windows and Other Container-Escape Research](https://www.darkreading.com/application-security/dont-have-a-cow-containers-on-windows-and-other-container-escape-research)
 - [One-Third of Users Without Security Awareness Training Click on Phishing URLs](https://www.darkreading.com/remote-workforce/one-third-of-users-click-on-phishing)
-- [5 Traits That Differentiate CISOs From CIROs](https://www.darkreading.com/risk/5-traits-that-differentiate-cisos-from-ciros)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
