@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Keep Humans in the Loop in SOC Operations](https://www.darkreading.com/operations/keep-humans-in-the-loop-in-soc-operations)
+- [Exostar Empowers SMBs with Enhanced, Low-Cost, Easy-to-Use Microsoft 365 and CMMC 2.0 Solutions](https://www.darkreading.com/cloud/exostar-empowers-smbs-with-enhanced-low-cost-easy-to-use-microsoft-365-and-cmmc-2-0-solutions)
 - [QuickBooks Vishing Scam Targets Small Businesses](https://www.darkreading.com/application-security/quickbooks-vishing-scam-targets-small-businesses)
 - [Getting Up and Running with Windows Autopatch](https://www.darkreading.com/dr-tech/getting-up-and-running-with-windows-autopatch)
 - [PyPI Mandates 2FA, Plans Google Titan Key Giveaway](https://www.darkreading.com/application-security/pypi-mandates-2fa-plans-google-titan-key-giveaway)
 - [Core Security by HelpSystems Introduces New Ransomware Simulator](https://www.darkreading.com/attacks-breaches/core-security-by-helpsystems-introduces-new-ransomware-simulator)
 - [Microsoft Issues Fixes for 84 Vulnerabilities: Here&#39;s What to Patch Now](https://www.darkreading.com/application-security/microsoft-issues-fixes-for-84-vulnerabilities-here-s-what-to-patch-now)
 - [Privitar Announces Kormoon Acquisition, Extending Data Privacy and Provisioning Capabilities](https://www.darkreading.com/endpoint/privitar-announces-kormoon-acquisition-extending-data-privacy-and-provisioning-capabilities)
-- [Understanding the Omdia Threat Detection Data Life Cycle](https://www.darkreading.com/omdia/understanding-the-omdia-threat-detection-data-lifecycl)
-- [Don&#39;t Have a COW: Containers on Windows and Other Container-Escape Research](https://www.darkreading.com/application-security/dont-have-a-cow-containers-on-windows-and-other-container-escape-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
