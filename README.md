@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Internet Searches Reveal Surprisingly Prevalent Ransomware](https://www.darkreading.com/edge-threat-monitor/internet-searches-reveals-surprisingly-prevalent-ransomware)
+- [3 Golden Rules of Modern Third-Party Risk Management](https://www.darkreading.com/risk/3-golden-rules-of-modern-third-party-risk-management)
 - [Survey: Small Cybersecurity Teams Face Greater Risk from Attacks than Larger Enterprises](https://www.darkreading.com/attacks-breaches/survey-small-cybersecurity-teams-face-greater-risk-from-attacks-than-larger-enterprises)
 - [Microsoft: 10,000 Orgs Targeted in Phishing Attack That Bypasses Multifactor Authentication](https://www.darkreading.com/attacks-breaches/microsoft-10k-orgs-hit-in-attacks-that-bypasses-multifactor-authentication)
 - [US Government and QuSecure Orchestrate First-Ever Post-Quantum Encryption Communication over a Government Network](https://www.darkreading.com/perimeter/us-government-and-qusecure-orchestrate-first-ever-post-quantum-encryption-communication-over-a-government-network)
 - [New Research Reveals 93% of Organizations Surveyed Have Had Failed IIoT/OT Security Projects](https://www.darkreading.com/attacks-breaches/new-research-reveals-93-of-organizations-surveyed-have-had-failed-iiot-ot-security-projects)
 - [Keep Humans in the Loop in SOC Operations](https://www.darkreading.com/operations/keep-humans-in-the-loop-in-soc-operations)
 - [Exostar Empowers SMBs with Enhanced, Low-Cost, Easy-to-Use Microsoft 365 and CMMC 2.0 Solutions](https://www.darkreading.com/cloud/exostar-empowers-smbs-with-enhanced-low-cost-easy-to-use-microsoft-365-and-cmmc-2-0-solutions)
-- [QuickBooks Vishing Scam Targets Small Businesses](https://www.darkreading.com/application-security/quickbooks-vishing-scam-targets-small-businesses)
-- [Getting Up and Running with Windows Autopatch](https://www.darkreading.com/dr-tech/getting-up-and-running-with-windows-autopatch)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
