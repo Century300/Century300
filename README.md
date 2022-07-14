@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DHS Review Board Deems Log4j an &#39;Endemic&#39; Cyber Threat](https://www.darkreading.com/application-security/dhs-review-board-deems-log4j-an-endemic-cyber-threat)
+- [New Phishing Kit Hijacks WordPress Sites for PayPal Scam](https://www.darkreading.com/attacks-breaches/new-phishing-kit-hijacks-wordpress-sites-for-paypal-scam)
 - [Scribe Security Releases Code Integrity Validator Alongside Github Security Open Source Project](https://www.darkreading.com/application-security/scribe-security-releases-code-integrity-validator-alongside-github-security-open-source-project)
 - [AEI HorizonX Ventures Joins Shift5 Series B Funding Round](https://www.darkreading.com/operations/aei-horizonx-ventures-joins-shift5-series-b-funding-round)
 - [Data of Nearly 2M Patients Exposed in Ransomware Attack on Healthcare Debt Collection Firm](https://www.darkreading.com/attacks-breaches/nearly-2m-patients-affected-in-data-breach-of-healthcare-debt-collection-firm)
 - [Is Cryptocurrency&#39;s Crash Causing Headaches for Ransomware Gangs?](https://www.darkreading.com/threat-intelligence/is-cryptocurrency-s-crash-causing-headaches-for-ransomware-gangs-)
 - [Virtual CISOs Are the Best Defense Against Accelerating Cyber-Risks](https://www.darkreading.com/careers-and-people/virtual-cisos-are-the-best-defense-against-accelerating-cyber-risks)
 - [The Next Generation of Threat Detection Will Require Both Human and Machine Expertise](https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise)
-- [Data Breaches Linked to Ransomware Declined in Q2 2022](https://www.darkreading.com/attacks-breaches/data-breaches-linked-to-ransomware-declined-in-q2-2022)
-- [Researchers Devise New Speculative Execution Attacks Against Some Intel, AMD CPUs](https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
