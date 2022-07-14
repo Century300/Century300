@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scribe Security Releases Code Integrity Validator Alongside Github Security Open Source Project](https://www.darkreading.com/application-security/scribe-security-releases-code-integrity-validator-alongside-github-security-open-source-project)
+- [AEI HorizonX Ventures Joins Shift5 Series B Funding Round](https://www.darkreading.com/operations/aei-horizonx-ventures-joins-shift5-series-b-funding-round)
+- [Data of Nearly 2M Patients Exposed in Ransomware Attack on Healthcare Debt Collection Firm](https://www.darkreading.com/attacks-breaches/nearly-2m-patients-affected-in-data-breach-of-healthcare-debt-collection-firm)
 - [Is Cryptocurrency&#39;s Crash Causing Headaches for Ransomware Gangs?](https://www.darkreading.com/threat-intelligence/is-cryptocurrency-s-crash-causing-headaches-for-ransomware-gangs-)
 - [Virtual CISOs Are the Best Defense Against Accelerating Cyber-Risks](https://www.darkreading.com/careers-and-people/virtual-cisos-are-the-best-defense-against-accelerating-cyber-risks)
 - [The Next Generation of Threat Detection Will Require Both Human and Machine Expertise](https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise)
 - [Data Breaches Linked to Ransomware Declined in Q2 2022](https://www.darkreading.com/attacks-breaches/data-breaches-linked-to-ransomware-declined-in-q2-2022)
 - [Researchers Devise New Speculative Execution Attacks Against Some Intel, AMD CPUs](https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus)
-- [CyberRatings.org Issues AAA Rating on Forcepoint&#39;s Cloud Network Firewall](https://www.darkreading.com/cloud/cyberratings-org-issues-aaa-rating-on-forcepoint-s-cloud-network-firewall)
-- [Report: Financial Institutions Overly Complacent About Current Authentication Methods](https://www.darkreading.com/attacks-breaches/report-financial-institutions-overly-complacent-about-current-authentication-methods)
-- [Mozilla: EU&#39;s eIDAS Proposal Attracts Growing Criticism](https://www.darkreading.com/application-security/mozilla-eu-s-eidas-proposal-attracts-growing-criticism)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
