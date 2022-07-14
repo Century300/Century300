@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Virtual CISOs Are the Best Defense Against Accelerating Cyber-Risks](https://www.darkreading.com/careers-and-people/virtual-cisos-are-the-best-defense-against-accelerating-cyber-risks)
+- [The Next Generation of Threat Detection Will Require Both Human and Machine Expertise](https://www.darkreading.com/the-cyber-future/the-next-generation-of-threat-detection-will-require-both-human-and-machine-expertise)
+- [Data Breaches Linked to Ransomware Declined in Q2 2022](https://www.darkreading.com/attacks-breaches/data-breaches-linked-to-ransomware-declined-in-q2-2022)
 - [Researchers Devise New Speculative Execution Attacks Against Some Intel, AMD CPUs](https://www.darkreading.com/attacks-breaches/researchers-devise-new-speculative-execution-attacks-against-some-intel-amd-cpus)
 - [CyberRatings.org Issues AAA Rating on Forcepoint&#39;s Cloud Network Firewall](https://www.darkreading.com/cloud/cyberratings-org-issues-aaa-rating-on-forcepoint-s-cloud-network-firewall)
 - [Report: Financial Institutions Overly Complacent About Current Authentication Methods](https://www.darkreading.com/attacks-breaches/report-financial-institutions-overly-complacent-about-current-authentication-methods)
 - [Mozilla: EU&#39;s eIDAS Proposal Attracts Growing Criticism](https://www.darkreading.com/application-security/mozilla-eu-s-eidas-proposal-attracts-growing-criticism)
 - [Nearly Half of Enterprise Endpoints Present Significant Security Risks](https://www.darkreading.com/endpoint/nearly-half-of-enterprise-endpoints-present-significant-security-risks)
-- [MacOS Bug Could Let Malicious Code Break Out of Application Sandbox](https://www.darkreading.com/application-security/macos-bug-let-malicious-code-break-out-of-app-sandbox)
-- [The 3 Critical Elements You Need for Vulnerability Management Today](https://www.darkreading.com/vulnerabilities-threats/the-3-critical-elements-you-need-for-vulnerability-management-today)
-- [Internet Searches Reveal Surprisingly Prevalent Ransomware](https://www.darkreading.com/edge-threat-monitor/internet-searches-reveals-surprisingly-prevalent-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
