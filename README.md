@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ex-CIA Programmer Found Guilty of Stealing Vault 7 Data, Giving It to Wikileaks](https://www.darkreading.com/threat-intelligence/cia-programmer-guilty-of-stealing-vault-7-data-giving-it-to-wikileaks)
 - [Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine](https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine)
 - [How Hackers Create Fake Personas for Social Engineering](https://www.darkreading.com/attacks-breaches/how-hackers-create-fake-personas-for-social-engineering)
 - [Bishop Fox Secures $75 Million in Growth Funding From Carrick Capital Partners](https://www.darkreading.com/vulnerabilities-threats/bishop-fox-secures-75-million-in-growth-funding-from-carrick-capital-partners)
@@ -82,7 +83,6 @@
 - [New Phishing Kit Hijacks WordPress Sites for PayPal Scam](https://www.darkreading.com/attacks-breaches/new-phishing-kit-hijacks-wordpress-sites-for-paypal-scam)
 - [Scribe Security Releases Code Integrity Validator Alongside Github Security Open Source Project](https://www.darkreading.com/application-security/scribe-security-releases-code-integrity-validator-alongside-github-security-open-source-project)
 - [AEI HorizonX Ventures Joins Shift5 Series B Funding Round](https://www.darkreading.com/operations/aei-horizonx-ventures-joins-shift5-series-b-funding-round)
-- [Data of Nearly 2M Patients Exposed in Ransomware Attack on Healthcare Debt Collection Firm](https://www.darkreading.com/attacks-breaches/nearly-2m-patients-affected-in-data-breach-of-healthcare-debt-collection-firm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
