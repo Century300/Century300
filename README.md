@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WordPress Page Builder Plug-in  Under Attack, Can&#39;t Be Patched](https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched)
+- [Name That Toon: Modern-Day Fable](https://www.darkreading.com/application-security/name-that-toon-modern-day-fable)
 - [Ransomware Attempts Flag as Payments Also Decline](https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline)
 - [Building Guardrails for Autonomic Security](https://www.darkreading.com/operations/building-guardrails-for-autonomic-security)
 - [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
 - [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://www.darkreading.com/vulnerabilities-threats/netwrix-auditor-bug-could-lead-to-active-directory-domain-compromise)
 - [What Are the Risks of Employees Going on a &#39;Hybrid Holiday&#39;?](https://www.darkreading.com/edge-ask-the-experts/what-are-the-risks-of-employees-going-on-a-hybrid-holiday-)
 - [How Attackers Could Dupe Developers into Downloading Malicious Code From GitHub](https://www.darkreading.com/application-security/how-attackers-could-dupe-developers-into-downloading-malicious-code-from-github)
-- [Ex-CIA Programmer Found Guilty of Stealing Vault 7 Data, Giving It to Wikileaks](https://www.darkreading.com/threat-intelligence/cia-programmer-guilty-of-stealing-vault-7-data-giving-it-to-wikileaks)
-- [Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine](https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
