@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: Beware of Scam Cryptocurrency Investment Apps](https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps)
 - [WordPress Page Builder Plug-in  Under Attack, Can&#39;t Be Patched](https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched)
 - [Name That Toon: Modern-Day Fable](https://www.darkreading.com/application-security/name-that-toon-modern-day-fable)
 - [Ransomware Attempts Flag as Payments Also Decline](https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline)
@@ -82,7 +83,6 @@
 - [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
 - [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://www.darkreading.com/vulnerabilities-threats/netwrix-auditor-bug-could-lead-to-active-directory-domain-compromise)
 - [What Are the Risks of Employees Going on a &#39;Hybrid Holiday&#39;?](https://www.darkreading.com/edge-ask-the-experts/what-are-the-risks-of-employees-going-on-a-hybrid-holiday-)
-- [How Attackers Could Dupe Developers into Downloading Malicious Code From GitHub](https://www.darkreading.com/application-security/how-attackers-could-dupe-developers-into-downloading-malicious-code-from-github)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
