@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trojanized Password Crackers Targeting Industrial Systems](https://www.darkreading.com/attacks-breaches/attackers-targeting-industrial-systems-with-trojanized-password-crackers)
+- [Retbleed Fixed in Linux Kernel, Patch Delayed](https://www.darkreading.com/application-security/retbleed-fixed-in-linux-kernel-patch-delayed)
 - [FBI: Beware of Scam Cryptocurrency Investment Apps](https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps)
 - [WordPress Page Builder Plug-in  Under Attack, Can&#39;t Be Patched](https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched)
 - [Name That Toon: Modern-Day Fable](https://www.darkreading.com/application-security/name-that-toon-modern-day-fable)
 - [Ransomware Attempts Flag as Payments Also Decline](https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline)
 - [Building Guardrails for Autonomic Security](https://www.darkreading.com/operations/building-guardrails-for-autonomic-security)
 - [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
-- [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://www.darkreading.com/vulnerabilities-threats/netwrix-auditor-bug-could-lead-to-active-directory-domain-compromise)
-- [What Are the Risks of Employees Going on a &#39;Hybrid Holiday&#39;?](https://www.darkreading.com/edge-ask-the-experts/what-are-the-risks-of-employees-going-on-a-hybrid-holiday-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
