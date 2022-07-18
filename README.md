@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
 - [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://www.darkreading.com/vulnerabilities-threats/netwrix-auditor-bug-could-lead-to-active-directory-domain-compromise)
 - [What Are the Risks of Employees Going on a &#39;Hybrid Holiday&#39;?](https://www.darkreading.com/edge-ask-the-experts/what-are-the-risks-of-employees-going-on-a-hybrid-holiday-)
 - [How Attackers Could Dupe Developers into Downloading Malicious Code From GitHub](https://www.darkreading.com/application-security/how-attackers-could-dupe-developers-into-downloading-malicious-code-from-github)
@@ -82,7 +83,6 @@
 - [Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine](https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine)
 - [How Hackers Create Fake Personas for Social Engineering](https://www.darkreading.com/attacks-breaches/how-hackers-create-fake-personas-for-social-engineering)
 - [Bishop Fox Secures $75 Million in Growth Funding From Carrick Capital Partners](https://www.darkreading.com/vulnerabilities-threats/bishop-fox-secures-75-million-in-growth-funding-from-carrick-capital-partners)
-- [DHS Review Board Deems Log4j an &#39;Endemic&#39; Cyber Threat](https://www.darkreading.com/application-security/dhs-review-board-deems-log4j-an-endemic-cyber-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
