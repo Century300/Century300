@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Attempts Flag as Payments Also Decline](https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline)
 - [Building Guardrails for Autonomic Security](https://www.darkreading.com/operations/building-guardrails-for-autonomic-security)
 - [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
 - [Netwrix Auditor Bug Could Lead to Active Directory Domain Compromise](https://www.darkreading.com/vulnerabilities-threats/netwrix-auditor-bug-could-lead-to-active-directory-domain-compromise)
@@ -82,7 +83,6 @@
 - [How Attackers Could Dupe Developers into Downloading Malicious Code From GitHub](https://www.darkreading.com/application-security/how-attackers-could-dupe-developers-into-downloading-malicious-code-from-github)
 - [Ex-CIA Programmer Found Guilty of Stealing Vault 7 Data, Giving It to Wikileaks](https://www.darkreading.com/threat-intelligence/cia-programmer-guilty-of-stealing-vault-7-data-giving-it-to-wikileaks)
 - [Sandworm APT Trolls Researchers on Its Trail as It Targets Ukraine](https://www.darkreading.com/threat-intelligence/sandworm-apt-trolls-researchers-on-its-trail-while-it-targets-ukraine)
-- [How Hackers Create Fake Personas for Social Engineering](https://www.darkreading.com/attacks-breaches/how-hackers-create-fake-personas-for-social-engineering)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
