@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unpatched GPS Tracker Security Bugs Threaten 1.5M Vehicles with Disruption](https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption)
 - [GhangorCloud Announces CAPE, a Next Generation Unified Compliance and Data Privacy Enforcement Solution](https://www.darkreading.com/risk/ghangorcloud-announces-cape-tm-a-next-generation-unified-compliance-and-data-privacy-enforcement-solution)
 - [Enso Security Leads Industry Mission to Bring Control to Chaos With Community-Driven AppSec Map](https://www.darkreading.com/attacks-breaches/enso-security-leads-industry-mission-to-bring-control-to-chaos-with-community-driven-appsec-map)
 - [Protecting Against Kubernetes-Borne Ransomware](https://www.darkreading.com/attacks-breaches/protecting-against-kubernetes-borne-ransomware)
@@ -82,7 +83,6 @@
 - [Trojanized Password Crackers Targeting Industrial Systems](https://www.darkreading.com/attacks-breaches/attackers-targeting-industrial-systems-with-trojanized-password-crackers)
 - [Retbleed Fixed in Linux Kernel, Patch Delayed](https://www.darkreading.com/application-security/retbleed-fixed-in-linux-kernel-patch-delayed)
 - [FBI: Beware of Scam Cryptocurrency Investment Apps](https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps)
-- [WordPress Page Builder Plug-in  Under Attack, Can&#39;t Be Patched](https://www.darkreading.com/application-security/wordpress-page-builder-addons-under-attack-cant-be-patched)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
