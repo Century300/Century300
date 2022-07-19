@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Protecting Against Kubernetes-Borne Ransomware](https://www.darkreading.com/attacks-breaches/protecting-against-kubernetes-borne-ransomware)
 - [Trojanized Password Crackers Targeting Industrial Systems](https://www.darkreading.com/attacks-breaches/attackers-targeting-industrial-systems-with-trojanized-password-crackers)
 - [Retbleed Fixed in Linux Kernel, Patch Delayed](https://www.darkreading.com/application-security/retbleed-fixed-in-linux-kernel-patch-delayed)
 - [FBI: Beware of Scam Cryptocurrency Investment Apps](https://www.darkreading.com/threat-intelligence/fbi-beware-of-scam-crypto-investment-apps)
@@ -82,7 +83,6 @@
 - [Name That Toon: Modern-Day Fable](https://www.darkreading.com/application-security/name-that-toon-modern-day-fable)
 - [Ransomware Attempts Flag as Payments Also Decline](https://www.darkreading.com/threat-intelligence/ransomware-attempts-flag-as-payments-also-decline)
 - [Building Guardrails for Autonomic Security](https://www.darkreading.com/operations/building-guardrails-for-autonomic-security)
-- [Watch Out for User Impersonation in Low-Code/No-Code Apps](https://www.darkreading.com/edge-articles/watch-out-for-user-impersonation-in-low-code-no-code-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
