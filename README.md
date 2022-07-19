@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ongoing Magecart Campaign Targets Online Ordering at Local Restaurants](https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants)
 - [Post-Breakup, Conti Ransomware Members Remain Dangerous](https://www.darkreading.com/attacks-breaches/breakup-conti-ransomware-members-dangerous)
 - [Startup Aims to Secure AI, Machine Learning Development](https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development)
 - [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
@@ -82,7 +83,6 @@
 - [Huntress Acquires Curricula for $22M to Disrupt Security Training Market, Elevate Cyber Readiness for SMB Employees](https://www.darkreading.com/operations/huntress-acquires-curricula-for-22m-to-disrupt-security-training-market-elevate-cyber-readiness-for-smb-employees)
 - [Unpatched GPS Tracker Security Bugs Threaten 1.5M Vehicles with Disruption](https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption)
 - [GhangorCloud Announces CAPE, a Next Generation Unified Compliance and Data Privacy Enforcement Solution](https://www.darkreading.com/risk/ghangorcloud-announces-cape-tm-a-next-generation-unified-compliance-and-data-privacy-enforcement-solution)
-- [Enso Security Leads Industry Mission to Bring Control to Chaos With Community-Driven AppSec Map](https://www.darkreading.com/attacks-breaches/enso-security-leads-industry-mission-to-bring-control-to-chaos-with-community-driven-appsec-map)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
