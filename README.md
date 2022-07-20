@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lax Security Fuels Massive 8220 Gang Botnet Army Surge](https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge)
+- [&#39;AIG&#39; Threat Group Launches with Unique Business Model](https://www.darkreading.com/threat-intelligence/AIG-threat-group-launches-unique-business-model)
 - [Feds Recoup $500K From Maui Ransomware Gang](https://www.darkreading.com/threat-intelligence/feds-recoup-500k-maui-ransomware)
 - [Data-Centric Security Market Worth $12.3B by 2027 - Exclusive Report by MarketsandMarkets™](https://www.darkreading.com/analytics/data-centric-security-market-worth-12-3b-by-2027---exclusive-report-by-marketsandmarkets-)
 - [Mutare Voice Network Threat Survey Shows Nearly Half of Organizations Experienced Vishing or Social Engineering Attacks in Past Year](https://www.darkreading.com/attacks-breaches/mutare-voice-network-threat-survey-shows-nearly-half-of-organizations-experienced-vishing-or-social-engineering-attacks-in-past-year)
 - [What InfoSec Pros Can Teach the Organization About ESG](https://www.darkreading.com/operations/what-infosec-pros-can-teach-the-organization-about-esg)
 - [Chaotic LAPSUS$ Group Goes Quiet, but Threat Likely Persists](https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists)
 - [How to Mitigate the Risk of Karakurt Data Extortion Group&#39;s Tactics, Techniques, and Procedures](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures)
-- [Tackling the Cybersecurity Workforce Challenge With Apprentices](https://www.darkreading.com/edge-articles/tackling-the-cybersecurity-workforce-challenge-with-apprentices)
-- [Ongoing Magecart Campaign Targets Online Ordering at Local Restaurants](https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
