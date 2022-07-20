@@ -76,7 +76,7 @@
 
 <!-- DARKREADING:START -->
 - [Lax Security Fuels Massive 8220 Gang Botnet Army Surge](https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge)
-- [&#39;AIG&#39; Threat Group Launches with Unique Business Model](https://www.darkreading.com/threat-intelligence/AIG-threat-group-launches-unique-business-model)
+- [&#39;AIG&#39; Threat Group Launches With Unique Business Model](https://www.darkreading.com/threat-intelligence/aig-threat-group-launches-unique-business-model)
 - [Feds Recoup $500K From Maui Ransomware Gang](https://www.darkreading.com/threat-intelligence/feds-recoup-500k-maui-ransomware)
 - [Data-Centric Security Market Worth $12.3B by 2027 - Exclusive Report by MarketsandMarkets™](https://www.darkreading.com/analytics/data-centric-security-market-worth-12-3b-by-2027---exclusive-report-by-marketsandmarkets-)
 - [Mutare Voice Network Threat Survey Shows Nearly Half of Organizations Experienced Vishing or Social Engineering Attacks in Past Year](https://www.darkreading.com/attacks-breaches/mutare-voice-network-threat-survey-shows-nearly-half-of-organizations-experienced-vishing-or-social-engineering-attacks-in-past-year)
