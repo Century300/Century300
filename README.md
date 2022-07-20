@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chaotic LAPSUS$ Group Goes Quiet, but Threat Likely Persists](https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists)
 - [How to Mitigate the Risk of Karakurt Data Extortion Group&#39;s Tactics, Techniques, and Procedures](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures)
 - [Tackling the Cybersecurity Workforce Challenge With Apprentices](https://www.darkreading.com/edge-articles/tackling-the-cybersecurity-workforce-challenge-with-apprentices)
 - [Ongoing Magecart Campaign Targets Online Ordering at Local Restaurants](https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants)
@@ -82,7 +83,6 @@
 - [Startup Aims to Secure AI, Machine Learning Development](https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development)
 - [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
 - [Will Your Cyber-Insurance Premiums Protect You in Times of War?](https://www.darkreading.com/attacks-breaches/will-your-cyber-insurance-premiums-protect-you-in-times-of-war-)
-- [Huntress Acquires Curricula for $22M to Disrupt Security Training Market, Elevate Cyber Readiness for SMB Employees](https://www.darkreading.com/operations/huntress-acquires-curricula-for-22m-to-disrupt-security-training-market-elevate-cyber-readiness-for-smb-employees)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
