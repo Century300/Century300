@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tackling the Cybersecurity Workforce Challenge With Apprentices](https://www.darkreading.com/edge-articles/tackling-the-cybersecurity-workforce-challenge-with-apprentices)
 - [Ongoing Magecart Campaign Targets Online Ordering at Local Restaurants](https://www.darkreading.com/application-security/magecart-online-ordering-local-restaurants)
 - [Post-Breakup, Conti Ransomware Members Remain Dangerous](https://www.darkreading.com/attacks-breaches/breakup-conti-ransomware-members-dangerous)
 - [Startup Aims to Secure AI, Machine Learning Development](https://www.darkreading.com/emerging-tech/startup-aims-to-secure-ai-machine-learning-development)
 - [Okta Exposes Passwords in Clear Text for Possible Theft](https://www.darkreading.com/application-security/okta-exposes-passwords-clear-text-theft)
 - [Will Your Cyber-Insurance Premiums Protect You in Times of War?](https://www.darkreading.com/attacks-breaches/will-your-cyber-insurance-premiums-protect-you-in-times-of-war-)
 - [Huntress Acquires Curricula for $22M to Disrupt Security Training Market, Elevate Cyber Readiness for SMB Employees](https://www.darkreading.com/operations/huntress-acquires-curricula-for-22m-to-disrupt-security-training-market-elevate-cyber-readiness-for-smb-employees)
-- [Unpatched GPS Tracker Security Bugs Threaten 1.5M Vehicles with Disruption](https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption)
-- [GhangorCloud Announces CAPE, a Next Generation Unified Compliance and Data Privacy Enforcement Solution](https://www.darkreading.com/risk/ghangorcloud-announces-cape-tm-a-next-generation-unified-compliance-and-data-privacy-enforcement-solution)
+- [Unpatched GPS Tracker Security Bugs Threaten 1.5M Vehicles With Disruption](https://www.darkreading.com/iot/unpatched-gps-tracker-security-bugs-disruption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
