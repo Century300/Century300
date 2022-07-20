@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Professionals Push Their Organizations Toward Vendor Consolidation and Product Integration](https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration)
 - [Lax Security Fuels Massive 8220 Gang Botnet Army Surge](https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge)
 - [&#39;AIG&#39; Threat Group Launches With Unique Business Model](https://www.darkreading.com/threat-intelligence/aig-threat-group-launches-unique-business-model)
 - [Feds Recoup $500K From Maui Ransomware Gang](https://www.darkreading.com/threat-intelligence/feds-recoup-500k-maui-ransomware)
@@ -82,7 +83,6 @@
 - [Mutare Voice Network Threat Survey Shows Nearly Half of Organizations Experienced Vishing or Social Engineering Attacks in Past Year](https://www.darkreading.com/attacks-breaches/mutare-voice-network-threat-survey-shows-nearly-half-of-organizations-experienced-vishing-or-social-engineering-attacks-in-past-year)
 - [What InfoSec Pros Can Teach the Organization About ESG](https://www.darkreading.com/operations/what-infosec-pros-can-teach-the-organization-about-esg)
 - [Chaotic LAPSUS$ Group Goes Quiet, but Threat Likely Persists](https://www.darkreading.com/threat-intelligence/chaotic-lapsus-quiet-threat-persists)
-- [How to Mitigate the Risk of Karakurt Data Extortion Group&#39;s Tactics, Techniques, and Procedures](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-the-risk-of-karakurt-data-extortion-group-s-tactics-techniques-and-procedures)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
