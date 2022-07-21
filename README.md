@@ -76,13 +76,13 @@
 
 <!-- DARKREADING:START -->
 - [The Kronos Ransomware Attack: What You Need to Know So Your Business Isn&#39;t Next](https://www.darkreading.com/vulnerabilities-threats/the-kronos-ransomware-attack-what-you-need-to-know-so-your-business-isn-t-next)
+- [Cybercrime Group TA4563 Targets DeFi Market With Evolving Evilnum Backdoor](https://www.darkreading.com/application-security/cybercrime-ta4563-defi-market-evilnum)
 - [Cybersecurity Professionals Push Their Organizations Toward Vendor Consolidation and Product Integration](https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration)
 - [Lax Security Fuels Massive 8220 Gang Botnet Army Surge](https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge)
 - [&#39;AIG&#39; Threat Group Launches With Unique Business Model](https://www.darkreading.com/threat-intelligence/aig-threat-group-launches-unique-business-model)
 - [Feds Recoup $500K From Maui Ransomware Gang](https://www.darkreading.com/threat-intelligence/feds-recoup-500k-maui-ransomware)
 - [Data-Centric Security Market Worth $12.3B by 2027 - Exclusive Report by MarketsandMarkets™](https://www.darkreading.com/analytics/data-centric-security-market-worth-12-3b-by-2027---exclusive-report-by-marketsandmarkets-)
 - [Mutare Voice Network Threat Survey Shows Nearly Half of Organizations Experienced Vishing or Social Engineering Attacks in Past Year](https://www.darkreading.com/attacks-breaches/mutare-voice-network-threat-survey-shows-nearly-half-of-organizations-experienced-vishing-or-social-engineering-attacks-in-past-year)
-- [What InfoSec Pros Can Teach the Organization About ESG](https://www.darkreading.com/operations/what-infosec-pros-can-teach-the-organization-about-esg)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
