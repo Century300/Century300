@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-atlassian-confluence-workspaces-open)
 - [Google Chrome Zero-Day Weaponized to Spy on Journalists](https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists)
 - [Snowballing Ransomware Variants Highlight Growing Threat to VMware ESXi Environments](https://www.darkreading.com/attacks-breaches/snowballing-ransomware-variants-highlight-growing-threat-to-vmware-esxi-environments)
 - [Phishing Bonanza: Social-Engineering Savvy Skyrockets as Malicious Actors Cash In](https://www.darkreading.com/attacks-breaches/phishing-bonanza-social-engineering-skyrockets-malicious-actors-cash-in)
@@ -82,7 +83,6 @@
 - [What Firewalls Can — and Can&#39;t — Accomplish](https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish)
 - [Mysterious, Cloud-Enabled macOS Spyware Blows Onto the Scene](https://www.darkreading.com/threat-intelligence/mysterious-cloud-enabled-macos-spyware)
 - [Equitable Digital Identity Verification Requires Moving Past Flawed Legacy Systems](https://www.darkreading.com/edge-articles/equitable-digital-identity-verification-requires-moving-past-flawed-legacy-systems)
-- [Google Becomes First Cloud Operator to Join Healthcare ISAC](https://www.darkreading.com/application-security/google-cloud-join-healthcare-isac)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
