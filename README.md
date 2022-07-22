@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Firewalls Can — and Can&#39;t — Accomplish](https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish)
 - [Mysterious, Cloud-Enabled macOS Spyware Blows Onto the Scene](https://www.darkreading.com/threat-intelligence/mysterious-cloud-enabled-macos-spyware)
 - [Equitable Digital Identity Verification Requires Moving Past Flawed Legacy Systems](https://www.darkreading.com/edge-articles/equitable-digital-identity-verification-requires-moving-past-flawed-legacy-systems)
 - [Google Becomes First Cloud Operator to Join Healthcare ISAC](https://www.darkreading.com/application-security/google-cloud-join-healthcare-isac)
@@ -82,7 +83,6 @@
 - [The Kronos Ransomware Attack: What You Need to Know So Your Business Isn&#39;t Next](https://www.darkreading.com/vulnerabilities-threats/the-kronos-ransomware-attack-what-you-need-to-know-so-your-business-isn-t-next)
 - [Cybercrime Group TA4563 Targets DeFi Market With Evolving Evilnum Backdoor](https://www.darkreading.com/application-security/cybercrime-ta4563-defi-market-evilnum)
 - [Cybersecurity Professionals Push Their Organizations Toward Vendor Consolidation and Product Integration](https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration)
-- [Lax Security Fuels Massive 8220 Gang Botnet Army Surge](https://www.darkreading.com/application-security/lax-security-fuels-cloud-botnet-army-surge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
