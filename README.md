@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thales Expands Cybersecurity Portfolio With OneWelcome Acquisition](https://www.darkreading.com/omdia/thales-expands-cybersecurity-portfolio-with-onewelcome-acquisition)
 - [What Firewalls Can — and Can&#39;t — Accomplish](https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish)
 - [Mysterious, Cloud-Enabled macOS Spyware Blows Onto the Scene](https://www.darkreading.com/threat-intelligence/mysterious-cloud-enabled-macos-spyware)
 - [Equitable Digital Identity Verification Requires Moving Past Flawed Legacy Systems](https://www.darkreading.com/edge-articles/equitable-digital-identity-verification-requires-moving-past-flawed-legacy-systems)
@@ -82,7 +83,6 @@
 - [The Market Is Teeming: Bargains on Dark Web Give Novice Cybercriminals a Quick Start](https://www.darkreading.com/threat-intelligence/market-bargains-dark-web-novice-cybercriminals-quick-start)
 - [The Kronos Ransomware Attack: What You Need to Know So Your Business Isn&#39;t Next](https://www.darkreading.com/vulnerabilities-threats/the-kronos-ransomware-attack-what-you-need-to-know-so-your-business-isn-t-next)
 - [Cybercrime Group TA4563 Targets DeFi Market With Evolving Evilnum Backdoor](https://www.darkreading.com/application-security/cybercrime-ta4563-defi-market-evilnum)
-- [Cybersecurity Professionals Push Their Organizations Toward Vendor Consolidation and Product Integration](https://www.darkreading.com/cloud/cybersecurity-professionals-push-their-organizations-toward-vendor-consolidation-and-product-integration)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
