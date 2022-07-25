@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Layer 8 Is Great](https://www.darkreading.com/edge-articles/why-layer-8-is-great)
 - [Qakbot Is Back With a New Trick: DLL Sideloading](https://www.darkreading.com/attacks-breaches/qakbot-back-new-trick-dll-sideloading)
 - [Aqua Launches Out-of-the-Box Runtime Security with Advanced Protection against the Most Sophisticated Threats](https://www.darkreading.com/attacks-breaches/aqua-launches-out-of-the-box-runtime-security-with-advanced-protection-against-the-most-sophisticated-threats)
 - [Getting Ahead of Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks)
@@ -82,7 +83,6 @@
 - [Understanding Proposed SEC Rules Through an ESG Lens](https://www.darkreading.com/edge-articles/understanding-proposed-sec-rules-through-an-environmental-social-and-governance-lens)
 - [ICYMI: Neopets &amp; the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused](https://www.darkreading.com/application-security/icymi-neopets-gaming-google-ads-abused-solarwinds-hackers)
 - [Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-atlassian-confluence-workspaces-open)
-- [Google Chrome Zero-Day Weaponized to Spy on Journalists](https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
