@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Getting Ahead of Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks)
 - [Understanding Proposed SEC Rules Through an ESG Lens](https://www.darkreading.com/edge-articles/understanding-proposed-sec-rules-through-an-environmental-social-and-governance-lens)
 - [ICYMI: Neopets &amp; the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused](https://www.darkreading.com/application-security/icymi-neopets-gaming-google-ads-abused-solarwinds-hackers)
 - [Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-atlassian-confluence-workspaces-open)
@@ -82,7 +83,6 @@
 - [Snowballing Ransomware Variants Highlight Growing Threat to VMware ESXi Environments](https://www.darkreading.com/attacks-breaches/snowballing-ransomware-variants-highlight-growing-threat-to-vmware-esxi-environments)
 - [Phishing Bonanza: Social-Engineering Savvy Skyrockets as Malicious Actors Cash In](https://www.darkreading.com/attacks-breaches/phishing-bonanza-social-engineering-skyrockets-malicious-actors-cash-in)
 - [Thales Expands Cybersecurity Portfolio With OneWelcome Acquisition](https://www.darkreading.com/omdia/thales-expands-cybersecurity-portfolio-with-onewelcome-acquisition)
-- [What Firewalls Can — and Can&#39;t — Accomplish](https://www.darkreading.com/vulnerabilities-threats/what-firewalls-can-and-can-t-accomplish)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
