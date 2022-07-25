@@ -76,13 +76,13 @@
 
 <!-- DARKREADING:START -->
 - [Getting Ahead of Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks)
+- [Critical Filewave MDM Vulnerabilities Allow Attackers Full Mobile Device Control](https://www.darkreading.com/vulnerabilities-threats/critical-filewave-mdm-vulnerabilities-attackers-mobile-device-control)
 - [Understanding Proposed SEC Rules Through an ESG Lens](https://www.darkreading.com/edge-articles/understanding-proposed-sec-rules-through-an-environmental-social-and-governance-lens)
 - [ICYMI: Neopets &amp; the Gaming Problem; SolarWinds Hackers Are Back; Google Ads Abused](https://www.darkreading.com/application-security/icymi-neopets-gaming-google-ads-abused-solarwinds-hackers)
 - [Critical Bugs Threaten to Crack Atlassian Confluence Workspaces Wide Open](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-atlassian-confluence-workspaces-open)
 - [Google Chrome Zero-Day Weaponized to Spy on Journalists](https://www.darkreading.com/attacks-breaches/google-chrome-0-day-weaponized-to-spy-on-journalists)
 - [Snowballing Ransomware Variants Highlight Growing Threat to VMware ESXi Environments](https://www.darkreading.com/attacks-breaches/snowballing-ransomware-variants-highlight-growing-threat-to-vmware-esxi-environments)
 - [Phishing Bonanza: Social-Engineering Savvy Skyrockets as Malicious Actors Cash In](https://www.darkreading.com/attacks-breaches/phishing-bonanza-social-engineering-skyrockets-malicious-actors-cash-in)
-- [Thales Expands Cybersecurity Portfolio With OneWelcome Acquisition](https://www.darkreading.com/omdia/thales-expands-cybersecurity-portfolio-with-onewelcome-acquisition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
