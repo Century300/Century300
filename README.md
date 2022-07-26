@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Beautiful Lies of Machine Learning in Security](https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security)
+- [Siemens Energy Takes Next Step to Protect Critical Infrastructure](https://www.darkreading.com/operations/siemens-energy-takes-next-step-to-protect-critical-infrastructure)
 - [OpenFHE Brings New Encryption Tools to Developers](https://www.darkreading.com/dr-tech/openfhe-brings-new-encryption-tools-to-developers)
 - [Rare &#39;CosmicStrand&#39; UEFI Rootkit Swings into Cybercrime Orbit](https://www.darkreading.com/endpoint/rare-cosmicstrand-uefi-rootkit-cybercrime-orbit)
 - [Supercharged Version of Amadey Infostealer &amp; Malware Dropper Bypasses AVs](https://www.darkreading.com/attacks-breaches/supercharged-version-amadey-infostealer-malware-dropper-bypass-av)
 - [T-Mobile Pitches $4-Per-Customer Settlement for Data Leak Impacting 80M People](https://www.darkreading.com/application-security/t-mobile-pitches-4-per-customer-settlement-for-data-leak)
 - [Why Layer 8 Is Great](https://www.darkreading.com/edge-articles/why-layer-8-is-great)
 - [Qakbot Is Back With a New Trick: DLL Sideloading](https://www.darkreading.com/attacks-breaches/qakbot-back-new-trick-dll-sideloading)
-- [Aqua Launches Out-of-the-Box Runtime Security with Advanced Protection against the Most Sophisticated Threats](https://www.darkreading.com/attacks-breaches/aqua-launches-out-of-the-box-runtime-security-with-advanced-protection-against-the-most-sophisticated-threats)
-- [Getting Ahead of Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
