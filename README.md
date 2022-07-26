@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Craig Newmark Gives UC Berkeley $2 Million for University Cybersecurity Clinics](https://www.darkreading.com/operations/craig-newmark-gives-uc-berkeley-2-million-for-university-cybersecurity-clinics)
+- [Norton Consumer Cyber Safety Pulse Report: Phishing for New Bait on Social Media](https://www.darkreading.com/attacks-breaches/norton-consumer-cyber-safety-pulse-report-phishing-for-new-bait-on-social-media)
 - [LockBit 3.0: Significantly Improved Ransomware Helps the Gang Stay on Top](https://www.darkreading.com/attacks-breaches/lockbit-3.0-improved-malware-gang-top)
 - [Microsoft Tops Brands Phishers Prefer](https://www.darkreading.com/attacks-breaches/microsoft-tops-brands-phishers-prefer)
 - [Economic Downturn Raises Risk of Insiders Going Rogue](https://www.darkreading.com/risk/economic-downturn-raises-the-risk-of-insiders-going-rogue)
 - [AI Can Help Fintechs Fight Fraud-as-a-Service](https://www.darkreading.com/dr-tech/ai-can-help-fintechs-fight-fraud-as-a-service)
 - [Discord, Telegram Services Hijacked to Launch Array of Cyberattacks](https://www.darkreading.com/application-security/discord-telegram-hijacked-cyberattacks)
 - [Flying Blind in Security Operations](https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations)
-- [How Risk-Based Vulnerability Management Has Made Security Easier](https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier)
-- [Ducktail Spear-Phishing Campaign Uses LinkedIn to Hijack Facebook Business Accounts](https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
