@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Flying Blind in Security Operations](https://www.darkreading.com/attacks-breaches/flying-blind-in-security-operations)
 - [How Risk-Based Vulnerability Management Has Made Security Easier](https://www.darkreading.com/risk/how-risk-based-vulnerability-management-has-made-security-easier)
 - [Ducktail Spear-Phishing Campaign Uses LinkedIn to Hijack Facebook Business Accounts](https://www.darkreading.com/application-security/ducktail-spearphishing-linkedin-hijack-facebook-business-accounts)
 - [The Beautiful Lies of Machine Learning in Security](https://www.darkreading.com/vulnerabilities-threats/the-beautiful-lies-of-machine-learning-in-security)
@@ -82,7 +83,6 @@
 - [OpenFHE Brings New Encryption Tools to Developers](https://www.darkreading.com/dr-tech/openfhe-brings-new-encryption-tools-to-developers)
 - [Rare &#39;CosmicStrand&#39; UEFI Rootkit Swings into Cybercrime Orbit](https://www.darkreading.com/endpoint/rare-cosmicstrand-uefi-rootkit-cybercrime-orbit)
 - [Supercharged Version of Amadey Infostealer &amp; Malware Dropper Bypasses AVs](https://www.darkreading.com/attacks-breaches/supercharged-version-amadey-infostealer-malware-dropper-bypass-av)
-- [T-Mobile Pitches $4-Per-Customer Settlement for Data Leak Impacting 80M People](https://www.darkreading.com/application-security/t-mobile-pitches-4-per-customer-settlement-for-data-leak)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
