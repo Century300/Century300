@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenFHE Brings New Encryption Tools to Developers](https://www.darkreading.com/dr-tech/openfhe-brings-new-encryption-tools-to-developers)
 - [Rare &#39;CosmicStrand&#39; UEFI Rootkit Swings into Cybercrime Orbit](https://www.darkreading.com/endpoint/rare-cosmicstrand-uefi-rootkit-cybercrime-orbit)
 - [Supercharged Version of Amadey Infostealer &amp; Malware Dropper Bypasses AVs](https://www.darkreading.com/attacks-breaches/supercharged-version-amadey-infostealer-malware-dropper-bypass-av)
 - [T-Mobile Pitches $4-Per-Customer Settlement for Data Leak Impacting 80M People](https://www.darkreading.com/application-security/t-mobile-pitches-4-per-customer-settlement-for-data-leak)
@@ -82,7 +83,6 @@
 - [Qakbot Is Back With a New Trick: DLL Sideloading](https://www.darkreading.com/attacks-breaches/qakbot-back-new-trick-dll-sideloading)
 - [Aqua Launches Out-of-the-Box Runtime Security with Advanced Protection against the Most Sophisticated Threats](https://www.darkreading.com/attacks-breaches/aqua-launches-out-of-the-box-runtime-security-with-advanced-protection-against-the-most-sophisticated-threats)
 - [Getting Ahead of Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/getting-ahead-of-supply-chain-attacks)
-- [Critical Filewave MDM Vulnerabilities Allow Attackers Full Mobile Device Control](https://www.darkreading.com/vulnerabilities-threats/critical-filewave-mdm-vulnerabilities-attackers-mobile-device-control)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
