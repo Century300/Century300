@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Offers $10M Double-Reward for North Korea Cyberattacker Info](https://www.darkreading.com/endpoint/us-10m-double-reward-north-korea-cyberattacker-info)
+- [Average Data Breach Costs Soar to $4.4M in 2022](https://www.darkreading.com/risk/most-companies-pass-on-breach-costs-to-customers)
 - [Is Your Home or Small Business Built on Secure Foundations? Think Again…](https://www.darkreading.com/physical-security/is-your-home-or-small-business-built-on-secure-foundations-think-again-)
 - [First Cohort Graduates from PSM Cyber Stars Program at Liverpool FC](https://www.darkreading.com/careers-and-people/first-cohort-graduates-from-psm-cyber-stars-program-at-liverpool-fc)
 - [The Great BizApp Hack: Cyber-Risks in Your Everyday Business Applications](https://www.darkreading.com/application-security/the-great-bizapp-hack-cyber-risks-in-your-everyday-business-applications)
 - [No More Ransom Helped More Than 1.5 Million People Decrypt Their Devices](https://www.darkreading.com/attacks-breaches/no-more-ransom-helped-more-than-1-5-million-people-decrypt-their-devices)
 - [8 Hot Summer Fiction Reads for Cybersecurity Pros](https://www.darkreading.com/cloud/8-hot-summer-fiction-reads-for-cybersecurity-pros-)
 - [Craig Newmark Gives UC Berkeley $2 Million for University Cybersecurity Clinics](https://www.darkreading.com/operations/craig-newmark-gives-uc-berkeley-2-million-for-university-cybersecurity-clinics)
-- [Norton Consumer Cyber Safety Pulse Report: Phishing for New Bait on Social Media](https://www.darkreading.com/attacks-breaches/norton-consumer-cyber-safety-pulse-report-phishing-for-new-bait-on-social-media)
-- [LockBit 3.0: Significantly Improved Ransomware Helps the Gang Stay on Top](https://www.darkreading.com/attacks-breaches/lockbit-3.0-improved-malware-gang-top)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
