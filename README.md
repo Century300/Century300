@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: Atlassian Confluence Bug Under Active Exploit](https://www.darkreading.com/cloud/patch-now-atlassian-confluence-bug-active-exploit)
 - [What the White House&#39;s Cybersecurity Workforce Plan Should Look Like](https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like)
 - [APT-Like Phishing Threat Mirrors Landing Pages](https://www.darkreading.com/endpoint/apt-phishing-mirrors-landing-pages-credential-harvesting)
 - [What Women Should Know Before Joining the Cybersecurity Industry](https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry)
@@ -82,7 +83,6 @@
 - [In a Post-Macro World, Container Files Emerge as Malware-Delivery Replacement](https://www.darkreading.com/endpoint/post-macro-world-container-files-distribute-malware-replacement)
 - [When Human Security Meets PerimeterX](https://www.darkreading.com/dr-tech/when-human-security-meets-perimeterx)
 - [OneTouchPoint, Inc. Provides Notice of Data Privacy Event](https://www.darkreading.com/attacks-breaches/onetouchpoint-inc-provides-notice-of-data-privacy-event)
-- [Overcoming the Fail-to-Challenge Vulnerability With a Friendly Face](https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
