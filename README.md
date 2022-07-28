@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the White House&#39;s Cybersecurity Workforce Plan Should Look Like](https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like)
 - [What Women Should Know Before Joining the Cybersecurity Industry](https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry)
 - [1,000s of Phishing Attacks Blast Off From InterPlanetary File System](https://www.darkreading.com/risk/1000s-phishing-attacks-launch-interplanetary-file-system)
 - [In a Post-Macro World, Container Files Emerge as Malware-Delivery Replacement](https://www.darkreading.com/endpoint/post-macro-world-container-files-distribute-malware-replacement)
@@ -82,7 +83,6 @@
 - [OneTouchPoint, Inc. Provides Notice of Data Privacy Event](https://www.darkreading.com/attacks-breaches/onetouchpoint-inc-provides-notice-of-data-privacy-event)
 - [Overcoming the Fail-to-Challenge Vulnerability With a Friendly Face](https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face)
 - [Multiple Windows, Adobe Zero-Days Anchor Knotweed Commercial Spyware](https://www.darkreading.com/endpoint/windows-adobe-zero-days-knotweed-commercial-spyware)
-- [US Offers $10M Double-Reward for North Korea Cyberattacker Info](https://www.darkreading.com/endpoint/us-10m-double-reward-north-korea-cyberattacker-info)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
