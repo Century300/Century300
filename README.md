@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Human Security Meets PerimeterX](https://www.darkreading.com/dr-tech/when-human-security-meets-perimeterx)
 - [OneTouchPoint, Inc. Provides Notice of Data Privacy Event](https://www.darkreading.com/attacks-breaches/onetouchpoint-inc-provides-notice-of-data-privacy-event)
 - [Overcoming the Fail-to-Challenge Vulnerability With a Friendly Face](https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face)
 - [Multiple Windows, Adobe Zero-Days Anchor Knotweed Commercial Spyware](https://www.darkreading.com/endpoint/windows-adobe-zero-days-knotweed-commercial-spyware)
@@ -82,7 +83,6 @@
 - [Average Data Breach Costs Soar to $4.4M in 2022](https://www.darkreading.com/risk/most-companies-pass-on-breach-costs-to-customers)
 - [Is Your Home or Small Business Built on Secure Foundations? Think Again…](https://www.darkreading.com/physical-security/is-your-home-or-small-business-built-on-secure-foundations-think-again-)
 - [First Cohort Graduates from PSM Cyber Stars Program at Liverpool FC](https://www.darkreading.com/careers-and-people/first-cohort-graduates-from-psm-cyber-stars-program-at-liverpool-fc)
-- [The Great BizApp Hack: Cyber-Risks in Your Everyday Business Applications](https://www.darkreading.com/application-security/the-great-bizapp-hack-cyber-risks-in-your-everyday-business-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
