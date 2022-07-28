@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Women Should Know Before Joining the Cybersecurity Industry](https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry)
 - [1,000s of Phishing Attacks Blast Off From InterPlanetary File System](https://www.darkreading.com/risk/1000s-phishing-attacks-launch-interplanetary-file-system)
 - [In a Post-Macro World, Container Files Emerge as Malware-Delivery Replacement](https://www.darkreading.com/endpoint/post-macro-world-container-files-distribute-malware-replacement)
 - [When Human Security Meets PerimeterX](https://www.darkreading.com/dr-tech/when-human-security-meets-perimeterx)
@@ -82,7 +83,6 @@
 - [Overcoming the Fail-to-Challenge Vulnerability With a Friendly Face](https://www.darkreading.com/edge-articles/overcoming-the-fail-to-challenge-vulnerability-with-a-friendly-face)
 - [Multiple Windows, Adobe Zero-Days Anchor Knotweed Commercial Spyware](https://www.darkreading.com/endpoint/windows-adobe-zero-days-knotweed-commercial-spyware)
 - [US Offers $10M Double-Reward for North Korea Cyberattacker Info](https://www.darkreading.com/endpoint/us-10m-double-reward-north-korea-cyberattacker-info)
-- [Average Data Breach Costs Soar to $4.4M in 2022](https://www.darkreading.com/risk/most-companies-pass-on-breach-costs-to-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
