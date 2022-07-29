@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Bug-Bounty Programs Are Failing Everyone](https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone)
+- [Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization](https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization)
 - [Amazon Adds Malware Detection to GuardDuty TDR Service](https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service)
 - [Big Questions Remain Around Massive Shanghai Police Data Breach](https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach)
 - [Malicious npm Packages Scarf Up Discord Tokens, Credit Card Info](https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card)
 - [3 Tips for Creating a Security Culture](https://www.darkreading.com/careers-and-people/3-tips-for-overcoming-challenges-to-creating-a-security-culture)
 - [Patch Now: Atlassian Confluence Bug Under Active Exploit](https://www.darkreading.com/cloud/patch-now-atlassian-confluence-bug-active-exploit)
 - [What the White House&#39;s Cybersecurity Workforce Plan Should Look Like](https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like)
-- [APT-Like Phishing Threat Mirrors Landing Pages](https://www.darkreading.com/endpoint/apt-phishing-mirrors-landing-pages-credential-harvesting)
-- [What Women Should Know Before Joining the Cybersecurity Industry](https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
