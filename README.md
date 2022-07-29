@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amazon Adds Malware Detection to GuardDuty TDR Service](https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service)
 - [Big Questions Remain Around Massive Shanghai Police Data Breach](https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach)
 - [Malicious npm Packages Scarf Up Discord Tokens, Credit Card Info](https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card)
 - [3 Tips for Creating a Security Culture](https://www.darkreading.com/careers-and-people/3-tips-for-overcoming-challenges-to-creating-a-security-culture)
@@ -82,7 +83,6 @@
 - [What the White House&#39;s Cybersecurity Workforce Plan Should Look Like](https://www.darkreading.com/careers-and-people/what-the-white-house-s-cybersecurity-workforce-plan-should-look-like)
 - [APT-Like Phishing Threat Mirrors Landing Pages](https://www.darkreading.com/endpoint/apt-phishing-mirrors-landing-pages-credential-harvesting)
 - [What Women Should Know Before Joining the Cybersecurity Industry](https://www.darkreading.com/careers-and-people/what-women-should-know-before-joining-the-cybersecurity-industry)
-- [1,000s of Phishing Attacks Blast Off From InterPlanetary File System](https://www.darkreading.com/risk/1000s-phishing-attacks-launch-interplanetary-file-system)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
