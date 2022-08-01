@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [For Big Tech, Neutrality Is Not an Option — and Never Really Was](https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was)
 - [AWS Focuses on Identity Access Management at re:Inforce](https://www.darkreading.com/dr-tech/aws-focuses-on-identity-access-management-at-re-inforce)
 - [Attackers Have &#39;Favorite&#39; Vulnerabilities to Exploit](https://www.darkreading.com/edge-threat-monitor/attackers-have-favorite-vulnerabilities-to-exploit)
 - [ICYMI: Dark Web Happenings Edition With Evil Corp., MSP Targeting &amp; More](https://www.darkreading.com/endpoint/icymi-dark-web-happenings-edition-evil-corp-msp-targeting)
@@ -82,7 +83,6 @@
 - [Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization](https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization)
 - [Amazon Adds Malware Detection to GuardDuty TDR Service](https://www.darkreading.com/dr-tech/amazon-adds-malware-detection-to-guardduty-tdr-service)
 - [Big Questions Remain Around Massive Shanghai Police Data Breach](https://www.darkreading.com/cloud/questions-massive-shanghai-police-data-breach)
-- [Malicious npm Packages Scarf Up Discord Tokens, Credit Card Info](https://www.darkreading.com/risk/malicious-npm-packages-discord-tokens-credit-card)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
