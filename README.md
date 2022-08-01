@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Hit on European Pipeline &amp; Energy Supplier Encevo Linked to BlackCat](https://www.darkreading.com/risk/european-energy-supplier-encevo-breached-in-attack)
+- [Credential Canaries Create Minefield for Attackers](https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers)
 - [Chromium Browsers Allow Data Exfiltration via Bookmark Syncing](https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing)
 - [Name That Edge Toon: Up a Tree](https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree)
 - [For Big Tech, Neutrality Is Not an Option — and Never Really Was](https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was)
 - [AWS Focuses on Identity Access Management at re:Inforce](https://www.darkreading.com/dr-tech/aws-focuses-on-identity-access-management-at-re-inforce)
 - [Attackers Have &#39;Favorite&#39; Vulnerabilities to Exploit](https://www.darkreading.com/edge-threat-monitor/attackers-have-favorite-vulnerabilities-to-exploit)
 - [ICYMI: Dark Web Happenings Edition With Evil Corp., MSP Targeting &amp; More](https://www.darkreading.com/endpoint/icymi-dark-web-happenings-edition-evil-corp-msp-targeting)
-- [Why Bug-Bounty Programs Are Failing Everyone](https://www.darkreading.com/black-hat/why-bug-bounty-programs-failing-everyone)
-- [Security Teams Overwhelmed With Bugs, Bitten by Patch Prioritization](https://www.darkreading.com/application-security/security-teams-overwhelmed-bugs-patch-prioritization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
