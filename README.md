@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ: Foreign Adversaries Breach US Federal Court Records](https://www.darkreading.com/attacks-breaches/doj-foreign-adversaries-breach-us-federal-court-records)
 - [Ransomware Hit on European Pipeline &amp; Energy Supplier Encevo Linked to BlackCat](https://www.darkreading.com/risk/european-energy-supplier-encevo-breached-in-attack)
 - [Credential Canaries Create Minefield for Attackers](https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers)
 - [Chromium Browsers Allow Data Exfiltration via Bookmark Syncing](https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing)
@@ -82,7 +83,6 @@
 - [For Big Tech, Neutrality Is Not an Option — and Never Really Was](https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was)
 - [AWS Focuses on Identity Access Management at re:Inforce](https://www.darkreading.com/dr-tech/aws-focuses-on-identity-access-management-at-re-inforce)
 - [Attackers Have &#39;Favorite&#39; Vulnerabilities to Exploit](https://www.darkreading.com/edge-threat-monitor/attackers-have-favorite-vulnerabilities-to-exploit)
-- [ICYMI: Dark Web Happenings Edition With Evil Corp., MSP Targeting &amp; More](https://www.darkreading.com/endpoint/icymi-dark-web-happenings-edition-evil-corp-msp-targeting)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
