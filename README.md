@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thousands of Mobile Apps Leaking Twitter API Keys](https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys)
 - [Large Language AI Models Have Real Security Benefits](https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits)
 - [Massive New Phishing Campaign Targets Microsoft Email Service Users](https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users)
 - [From Babuk Source Code to Darkside Custom Listings — Exposing a Thriving Ransomware Marketplace on the Dark Web](https://www.darkreading.com/attacks-breaches/from-babuk-source-code-to-darkside-custom-listings-exposing-a-thriving-ransomware-marketplace-on-the-dark-web)
@@ -82,7 +83,6 @@
 - [Axis Raises the Bar With Modern-Day ZTNA Service that Boasts Hyper-Intelligence, Simplicity, and 350 Global Edges](https://www.darkreading.com/cloud/axis-raises-the-bar-with-modern-day-ztna-service-that-boasts-hyper-intelligence-simplicity-and-350-global-edges)
 - [T-Mobile Store Owner Made $25M Using Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/t-mobile-store-owner-made-25m-with-stolen-employee-credentials)
 - [Microsoft Intros New Attack Surface Management, Threat Intel Tools](https://www.darkreading.com/threat-intelligence/microsoft-intros-threat-intel-attack-surface-management-tools)
-- [Capital One Breach Conviction Exposes Scale of Cloud Entitlement Risk](https://www.darkreading.com/cloud/capital-one-breach-conviction-exposes-scale-of-cloud-entitlement-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
