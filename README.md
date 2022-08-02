@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Large Language AI Models Have Real Security Benefits](https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits)
 - [Massive New Phishing Campaign Targets Microsoft Email Service Users](https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users)
 - [From Babuk Source Code to Darkside Custom Listings — Exposing a Thriving Ransomware Marketplace on the Dark Web](https://www.darkreading.com/attacks-breaches/from-babuk-source-code-to-darkside-custom-listings-exposing-a-thriving-ransomware-marketplace-on-the-dark-web)
 - [Manufacturing Sector in 2022 Is More Vulnerable to Account Compromise and Supply Chain Attacks in the Cloud than Other Verticals](https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals)
@@ -82,7 +83,6 @@
 - [T-Mobile Store Owner Made $25M Using Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/t-mobile-store-owner-made-25m-with-stolen-employee-credentials)
 - [Microsoft Intros New Attack Surface Management, Threat Intel Tools](https://www.darkreading.com/threat-intelligence/microsoft-intros-threat-intel-attack-surface-management-tools)
 - [Capital One Breach Conviction Exposes Scale of Cloud Entitlement Risk](https://www.darkreading.com/cloud/capital-one-breach-conviction-exposes-scale-of-cloud-entitlement-risk)
-- [VirusTotal: Threat Actors Mimic Legitimate Apps, Use Stolen Certs to Spread Malware](https://www.darkreading.com/vulnerabilities-threats/virustotal-threat-actors-mimic-legitimate-apps-use-stolen-certs-to-spread-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
