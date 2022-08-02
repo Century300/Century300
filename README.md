@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Axis Raises the Bar With Modern-Day ZTNA Service that Boasts Hyper-Intelligence, Simplicity, and 350 Global Edges](https://www.darkreading.com/cloud/axis-raises-the-bar-with-modern-day-ztna-service-that-boasts-hyper-intelligence-simplicity-and-350-global-edges)
 - [T-Mobile Store Owner Made $25M Using Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/t-mobile-store-owner-made-25m-with-stolen-employee-credentials)
 - [Microsoft Intros New Attack Surface Management, Threat Intel Tools](https://www.darkreading.com/threat-intelligence/microsoft-intros-threat-intel-attack-surface-management-tools)
 - [Capital One Breach Conviction Exposes Scale of Cloud Entitlement Risk](https://www.darkreading.com/cloud/capital-one-breach-conviction-exposes-scale-of-cloud-entitlement-risk)
@@ -82,7 +83,6 @@
 - [Incognia Mobile App Study Reveals Low Detection of Location Spoofing in Dating Apps](https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps)
 - [BlackCloak Bolsters Malware Protection With QR Code Scanner and Malicious Calendar Detection Features](https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features)
 - [Cybrary Lands $25 Million in New Funding Round](https://www.darkreading.com/careers-and-people/cybrary-lands-25-million-in-new-funding-round)
-- [5 Steps to Becoming Secure by Design in the Face of Evolving Cyber Threats](https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
