@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VirusTotal: Threat Actors Mimic Legitimate Apps, Use Stolen Certs to Spread Malware](https://www.darkreading.com/vulnerabilities-threats/virustotal-threat-actors-mimic-legitimate-apps-use-stolen-certs-to-spread-malware)
+- [Incognia Mobile App Study Reveals Low Detection of Location Spoofing in Dating Apps](https://www.darkreading.com/vulnerabilities-threats/incognia-mobile-app-study-reveals-low-detection-of-location-spoofing-in-dating-apps)
+- [BlackCloak Bolsters Malware Protection With QR Code Scanner and Malicious Calendar Detection Features](https://www.darkreading.com/mobile/blackcloak-bolsters-malware-protection-with-qr-code-scanner-and-malicious-calendar-detection-features)
 - [5 Steps to Becoming Secure by Design in the Face of Evolving Cyber Threats](https://www.darkreading.com/vulnerabilities-threats/5-steps-to-becoming-secure-by-design-in-the-face-of-evolving-cyber-threats)
 - [CREST Defensible Penetration Test Released](https://www.darkreading.com/vulnerabilities-threats/crest-defensible-penetration-test-released)
 - [DoJ: Foreign Adversaries Breach US Federal Court Records](https://www.darkreading.com/attacks-breaches/doj-foreign-adversaries-breach-us-federal-court-records)
 - [Ransomware Hit on European Pipeline &amp; Energy Supplier Encevo Linked to BlackCat](https://www.darkreading.com/risk/european-energy-supplier-encevo-breached-in-attack)
 - [Credential Canaries Create Minefield for Attackers](https://www.darkreading.com/emerging-tech/credential-canaries-create-minefield-for-attackers)
-- [Chromium Browsers Allow Data Exfiltration via Bookmark Syncing](https://www.darkreading.com/cloud/chromium-browsers-data-exfiltration-bookmark-syncing)
-- [Name That Edge Toon: Up a Tree](https://www.darkreading.com/edge-articles/name-that-edge-toon-up-a-tree)
-- [For Big Tech, Neutrality Is Not an Option — and Never Really Was](https://www.darkreading.com/operations/for-big-tech-neutrality-is-not-an-option-and-never-really-was)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
