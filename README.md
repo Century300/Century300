@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO](https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo)
+- [Druva Introduces the Data Resiliency Guarantee of up to $10 Million](https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million)
+- [CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career](https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career)
 - [Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform](https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform)
 - [5 Ways Chess Can Inspire Strategic Cybersecurity Thinking](https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking)
 - [American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme](https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing)
 - [Thousands of Mobile Apps Leaking Twitter API Keys](https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys)
 - [Large Language AI Models Have Real Security Benefits](https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits)
-- [Massive New Phishing Campaign Targets Microsoft Email Service Users](https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users)
-- [From Babuk Source Code to Darkside Custom Listings — Exposing a Thriving Ransomware Marketplace on the Dark Web](https://www.darkreading.com/attacks-breaches/from-babuk-source-code-to-darkside-custom-listings-exposing-a-thriving-ransomware-marketplace-on-the-dark-web)
-- [Manufacturing Sector in 2022 Is More Vulnerable to Account Compromise and Supply Chain Attacks in the Cloud than Other Verticals](https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
