@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Ways Chess Can Inspire Strategic Cybersecurity Thinking](https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking)
 - [Thousands of Mobile Apps Leaking Twitter API Keys](https://www.darkreading.com/endpoint/thousands-of-mobile-apps-leaking-twitter-api-keys)
 - [Large Language AI Models Have Real Security Benefits](https://www.darkreading.com/dr-tech/large-language-ai-models-have-real-security-benefits)
 - [Massive New Phishing Campaign Targets Microsoft Email Service Users](https://www.darkreading.com/attacks-breaches/massive-new-phishing-campaign-targeting-microsoft-email-users)
@@ -82,7 +83,6 @@
 - [Manufacturing Sector in 2022 Is More Vulnerable to Account Compromise and Supply Chain Attacks in the Cloud than Other Verticals](https://www.darkreading.com/cloud/manufacturing-sector-in-2022-is-more-vulnerable-to-account-compromise-and-supply-chain-attacks-in-the-cloud-than-other-verticals)
 - [Axis Raises the Bar With Modern-Day ZTNA Service that Boasts Hyper-Intelligence, Simplicity, and 350 Global Edges](https://www.darkreading.com/cloud/axis-raises-the-bar-with-modern-day-ztna-service-that-boasts-hyper-intelligence-simplicity-and-350-global-edges)
 - [T-Mobile Store Owner Made $25M Using Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/t-mobile-store-owner-made-25m-with-stolen-employee-credentials)
-- [Microsoft Intros New Attack Surface Management, Threat Intel Tools](https://www.darkreading.com/threat-intelligence/microsoft-intros-threat-intel-attack-surface-management-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
