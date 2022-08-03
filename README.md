@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [School Kid Uploads Ransomware Scripts to PyPI Repository as &#39;Fun&#39; Project](https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project)
 - [Cyberattackers Drain Nearly $6M From Solana Crypto Wallets](https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets)
 - [Zero-Day Defense: Tips for Defusing the Threat](https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat)
 - [ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO](https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo)
@@ -82,7 +83,6 @@
 - [CompTIA CEO Outlines Initiative to Create the Pre-eminent Destination to Start, Build and ‘Supercharge’ a Tech Career](https://www.darkreading.com/careers-and-people/comptia-ceo-outlines-initiative-to-create-the-pre-eminent-destination-to-start-build-and-supercharge-a-tech-career)
 - [Netskope Acquires Infiot, Will Deliver Fully Integrated, Single-Vendor SASE Platform](https://www.darkreading.com/cloud/netskope-acquires-infiot-will-deliver-fully-integrated-single-vendor-sase-platform)
 - [5 Ways Chess Can Inspire Strategic Cybersecurity Thinking](https://www.darkreading.com/careers-and-people/5-ways-chess-can-inspire-strategic-cybersecurity-thinking)
-- [American Express, Snapchat Open-Redirect Vulnerabilities Exploited in Phishing Scheme](https://www.darkreading.com/cloud/american-express-snapchat-open-redirect-vulnerabilities-exploited-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
