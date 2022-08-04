@@ -77,12 +77,12 @@
 <!-- DARKREADING:START -->
 - [The Myth of Protection Online — and What Comes Next](https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next)
 - [Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale](https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale)
+- [35K Malicious Code Insertions in GitHub: Attack or Bug-Bounty Effort?](https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty)
 - [Ping Identity to Go Private After $2.8B Acquisition](https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition)
 - [Startup Footprint Tackles Identity Verification](https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification)
 - [How IT Teams Can Use &#39;Harm Reduction&#39; for Better Cybersecurity Outcomes](https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes)
 - [Critical RCE Bug in DrayTek Routers Opens SMBs to Zero-Click Attacks](https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks)
 - [School Kid Uploads Ransomware Scripts to PyPI Repository as &#39;Fun&#39; Project](https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project)
-- [Cyberattackers Drain Nearly $6M From Solana Crypto Wallets](https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
