@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [New Startup Footprint Tackles Identity Verification](https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification)
+- [Ping Identity to Go Private After $2.8B Acquisition](https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition)
+- [Startup Footprint Tackles Identity Verification](https://www.darkreading.com/dr-tech/new-startup-footprint-tackles-identity-verification)
 - [How IT Teams Can Use &#39;Harm Reduction&#39; for Better Cybersecurity Outcomes](https://www.darkreading.com/risk/teams-harm-reduction-better-cybersecurity-outcomes)
 - [Critical RCE Bug in DrayTek Routers Opens SMBs to Zero-Click Attacks](https://www.darkreading.com/endpoint/critical-rce-bug-draytek-routers-smbs-zero-click-attacks)
 - [School Kid Uploads Ransomware Scripts to PyPI Repository as &#39;Fun&#39; Project](https://www.darkreading.com/threat-intelligence/school-kid-uploads-ransomware-scripts-to-pypi-repository-as-fun-research-project)
 - [Cyberattackers Drain Nearly $6M From Solana Crypto Wallets](https://www.darkreading.com/cloud/cyberattackers-drain-6m-solana-crypto-wallets)
 - [Zero-Day Defense: Tips for Defusing the Threat](https://www.darkreading.com/attacks-breaches/zero-day-defense-tips-for-defusing-the-threat)
 - [ShiftLeft Appoints Prevention-First, Cybersecurity Visionary and AI/ML Pioneer Stuart McClure as CEO](https://www.darkreading.com/application-security/shiftleft-appoints-prevention-first-cybersecurity-visionary-and-ai-ml-pioneer-stuart-mcclure-as-ceo)
-- [Druva Introduces the Data Resiliency Guarantee of up to $10 Million](https://www.darkreading.com/risk/druva-introduces-the-data-resiliency-guarantee-of-up-to-10-million)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
