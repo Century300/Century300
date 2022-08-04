@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amazon, IBM Move Swiftly on Post-Quantum Cryptographic Algorithms Selected by NIST](https://www.darkreading.com/dr-tech/amazon-ibm-move-swiftly-on-post-quantum-cryptographic-algorithms-selected-by-nist)
+- [Time to Patch VMware Products Against a Critical New Vulnerability](https://www.darkreading.com/endpoint/vmware-patch-critical-vulnerability)
 - [High-Severity Bug in Kaspersky VPN Client Opens Door to PC Takeover](https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover)
 - [How Email Security Is Evolving](https://www.darkreading.com/perimeter/how-email-security-is-evolving)
 - [Massive China-Linked Disinformation Campaign Taps PR Firm for Help](https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm)
 - [Phylum Releases a Free Community Edition to Make Software Supply Chain Security More Accessible](https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible)
 - [The Myth of Protection Online — and What Comes Next](https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next)
 - [Deep Instinct Pioneers Deep-Learning Malware Prevention to Protect Mission-Critical Business Applications at Scale](https://www.darkreading.com/application-security/deep-instinct-pioneers-deep-learning-malware-prevention-to-protect-mission-critical-business-applications-at-scale)
-- [35K Malicious Code Insertions in GitHub: Attack or Bug-Bounty Effort?](https://www.darkreading.com/vulnerabilities-threats/35k-malicious-code-insertions-in-github-attack-bug-bounty)
-- [Ping Identity to Go Private After $2.8B Acquisition](https://www.darkreading.com/endpoint/ping-identity-to-go-public-acquisition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
