@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Worries Security Teams About the Cloud?](https://www.darkreading.com/edge-threat-monitor/what-worries-security-teams-about-the-cloud-)
 - [Genesis IAB Market Brings Polish to the Dark Web](https://www.darkreading.com/endpoint/genesis-iab-market-polish-dark-web)
 - [A Ransomware Explosion Fosters Thriving Dark Web Ecosystem](https://www.darkreading.com/risk/ransomware-explosion-thriving-dark-web-ecosystem)
 - [Stolen Data Gives Attackers Advantage Against Text-Based 2FA](https://www.darkreading.com/cloud/stolen-data-attackers-advantage-text-based-2fa)
@@ -82,7 +83,6 @@
 - [How to Resolve Permission Issues in CI/CD Pipelines](https://www.darkreading.com/dr-tech/how-to-resolve-permission-issues-in-ci-cd-pipelines)
 - [A Digital Home Has Many Open Doors](https://www.darkreading.com/vulnerabilities-threats/a-digital-home-has-many-open-doors)
 - [Cyberattackers Increasingly Target Cloud IAM as a Weak Link](https://www.darkreading.com/cloud/cyberattackers-increasingly-target-cloud-iam-as-a-weak-link)
-- [Amazon, IBM Move Swiftly on Post-Quantum Cryptographic Algorithms Selected by NIST](https://www.darkreading.com/dr-tech/amazon-ibm-move-swiftly-on-post-quantum-cryptographic-algorithms-selected-by-nist)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
