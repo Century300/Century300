@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Resolve Permission Issues in CI/CD Pipelines](https://www.darkreading.com/dr-tech/how-to-resolve-permission-issues-in-ci-cd-pipelines)
+- [A Digital Home Has Many Open Doors](https://www.darkreading.com/vulnerabilities-threats/a-digital-home-has-many-open-doors)
 - [Cyberattackers Increasingly Target Cloud IAM as a Weak Link](https://www.darkreading.com/cloud/cyberattackers-increasingly-target-cloud-iam-as-a-weak-link)
 - [Amazon, IBM Move Swiftly on Post-Quantum Cryptographic Algorithms Selected by NIST](https://www.darkreading.com/dr-tech/amazon-ibm-move-swiftly-on-post-quantum-cryptographic-algorithms-selected-by-nist)
 - [Time to Patch VMware Products Against a Critical New Vulnerability](https://www.darkreading.com/endpoint/vmware-patch-critical-vulnerability)
 - [High-Severity Bug in Kaspersky VPN Client Opens Door to PC Takeover](https://www.darkreading.com/endpoint/high-severity-bug-kaspersky-vpn-client-pc-takeover)
 - [How Email Security Is Evolving](https://www.darkreading.com/perimeter/how-email-security-is-evolving)
 - [Massive China-Linked Disinformation Campaign Taps PR Firm for Help](https://www.darkreading.com/risk/massive-china-disinformation-campaign-pr-firm)
-- [Phylum Releases a Free Community Edition to Make Software Supply Chain Security More Accessible](https://www.darkreading.com/application-security/phylum-releases-a-free-community-edition-to-make-software-supply-chain-security-more-accessible)
-- [The Myth of Protection Online — and What Comes Next](https://www.darkreading.com/vulnerabilities-threats/the-myth-of-protection-online-and-what-comes-next)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
