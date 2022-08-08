@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pipeline Operators Are Headed in the Right Direction, With or Without TSA&#39;s Updated Security Directives](https://www.darkreading.com/vulnerabilities-threats/pipeline-operators-are-headed-in-the-right-direction-with-or-without-tsa-s-updated-security-directives)
 - [What Worries Security Teams About the Cloud?](https://www.darkreading.com/edge-threat-monitor/what-worries-security-teams-about-the-cloud-)
 - [Genesis IAB Market Brings Polish to the Dark Web](https://www.darkreading.com/endpoint/genesis-iab-market-polish-dark-web)
 - [A Ransomware Explosion Fosters Thriving Dark Web Ecosystem](https://www.darkreading.com/risk/ransomware-explosion-thriving-dark-web-ecosystem)
@@ -82,7 +83,6 @@
 - [Fresh RapperBot Malware Variant Brute-Forces Its Way Into SSH Servers](https://www.darkreading.com/threat-intelligence/rapperbot-malware-brute-forces-ssh-servers)
 - [How to Resolve Permission Issues in CI/CD Pipelines](https://www.darkreading.com/dr-tech/how-to-resolve-permission-issues-in-ci-cd-pipelines)
 - [A Digital Home Has Many Open Doors](https://www.darkreading.com/vulnerabilities-threats/a-digital-home-has-many-open-doors)
-- [Cyberattackers Increasingly Target Cloud IAM as a Weak Link](https://www.darkreading.com/cloud/cyberattackers-increasingly-target-cloud-iam-as-a-weak-link)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
