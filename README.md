@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deepfakes Grow in Sophistication, Cyberattacks Rise Following Ukraine War](https://www.darkreading.com/risk/deepfakes-grow-sophistication-cyberattacks-rise-ukraine-war)
 - [HYAS Infosec Announces General Availability of Cybersecurity Solution for Production Environments](https://www.darkreading.com/operations/hyas-infosec-announces-general-availability-of-cybersecurity-solution-for-production-environments)
 - [We Have the Tech to Scale Up Open Source Vulnerability Fixes — Now It&#39;s Time to Leverage It](https://www.darkreading.com/dr-tech/we-have-the-tech-to-scale-up-open-source-vulnerability-fixes-now-it-s-time-to-leverage-it)
 - [What Adjustable Dumbbells Can Teach Us About Risk Management](https://www.darkreading.com/edge-articles/what-adjustable-dumbbells-can-teach-us-about-risk-management)
@@ -82,7 +83,6 @@
 - [What Worries Security Teams About the Cloud?](https://www.darkreading.com/edge-threat-monitor/what-worries-security-teams-about-the-cloud-)
 - [Genesis IAB Market Brings Polish to the Dark Web](https://www.darkreading.com/endpoint/genesis-iab-market-polish-dark-web)
 - [A Ransomware Explosion Fosters Thriving Dark Web Ecosystem](https://www.darkreading.com/risk/ransomware-explosion-thriving-dark-web-ecosystem)
-- [Stolen Data Gives Attackers Advantage Against Text-Based 2FA](https://www.darkreading.com/cloud/stolen-data-attackers-advantage-text-based-2fa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
