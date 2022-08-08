@@ -76,13 +76,13 @@
 
 <!-- DARKREADING:START -->
 - [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
+- [10 Malicious Code Packages Slither into PyPI Registry](https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry)
 - [Deepfakes Grow in Sophistication, Cyberattacks Rise Following Ukraine War](https://www.darkreading.com/risk/deepfakes-grow-sophistication-cyberattacks-rise-ukraine-war)
 - [HYAS Infosec Announces General Availability of Cybersecurity Solution for Production Environments](https://www.darkreading.com/operations/hyas-infosec-announces-general-availability-of-cybersecurity-solution-for-production-environments)
 - [We Have the Tech to Scale Up Open Source Vulnerability Fixes — Now It&#39;s Time to Leverage It](https://www.darkreading.com/dr-tech/we-have-the-tech-to-scale-up-open-source-vulnerability-fixes-now-it-s-time-to-leverage-it)
 - [What Adjustable Dumbbells Can Teach Us About Risk Management](https://www.darkreading.com/edge-articles/what-adjustable-dumbbells-can-teach-us-about-risk-management)
 - [Pipeline Operators Are Headed in the Right Direction, With or Without TSA&#39;s Updated Security Directives](https://www.darkreading.com/vulnerabilities-threats/pipeline-operators-are-headed-in-the-right-direction-with-or-without-tsa-s-updated-security-directives)
 - [What Worries Security Teams About the Cloud?](https://www.darkreading.com/edge-threat-monitor/what-worries-security-teams-about-the-cloud-)
-- [Genesis IAB Market Brings Polish to the Dark Web](https://www.darkreading.com/endpoint/genesis-iab-market-polish-dark-web)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
