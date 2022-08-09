@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Patches Zero-Day Actively Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild)
+- [Halo Security Emerges From Stealth With Full Attack Surface Management Platform](https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform)
 - [Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals](https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals)
 - [Researchers Debut Fresh RCE Vector for Common Google API Tool](https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool)
 - [Abusing Kerberos for Local Privilege Escalation](https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation)
 - [Domino&#39;s Takes a Methodical Approach to IoT](https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot)
 - [Russia-Ukraine Conflict Holds Cyberwar Lessons](https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons)
 - [US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study](https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study)
-- [Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale](https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale)
-- [Lacework Updates Threat Detection To Uncover More Malicious Activity and Speed Investigation at Scale](https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
