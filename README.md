@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Domino&#39;s Takes a Methodical Approach to IoT](https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot)
+- [Russia-Ukraine Conflict Holds Cyberwar Lessons](https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons)
+- [US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study](https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study)
+- [Netscout Arbor Insight Leverages Patented ASI Technology to Enhance Security and Operational Awareness for Network Operators of Any Scale](https://www.darkreading.com/attacks-breaches/netscout-arbor-insight-leverages-patented-asi-technology-to-enhance-security-and-operational-awareness-for-network-operators-of-any-scale)
 - [Lacework Updates Threat Detection To Uncover More Malicious Activity and Speed Investigation at Scale](https://www.darkreading.com/cloud/lacework-updates-threat-detection-to-uncover-more-malicious-activity-and-speed-investigation-at-scale)
 - [Don&#39;t Take the Cyber Safety Review Board&#39;s Log4j Report at Face Value](https://www.darkreading.com/edge/don-t-take-the-cyber-safety-review-board-s-log4j-report-at-face-value)
 - [Human Threat Hunters Are Essential to Thwarting Zero-Day Attacks](https://www.darkreading.com/attacks-breaches/human-threat-hunters-are-essential-to-thwarting-zero-day-attacks)
 - [10 Malicious Code Packages Slither into PyPI Registry](https://www.darkreading.com/application-security/10-malicious-packages-slither-pypi-registry)
-- [Deepfakes Grow in Sophistication, Cyberattacks Rise Following Ukraine War](https://www.darkreading.com/risk/deepfakes-grow-sophistication-cyberattacks-rise-ukraine-war)
-- [HYAS Infosec Announces General Availability of Cybersecurity Solution for Production Environments](https://www.darkreading.com/operations/hyas-infosec-announces-general-availability-of-cybersecurity-solution-for-production-environments)
-- [We Have the Tech to Scale Up Open Source Vulnerability Fixes — Now It&#39;s Time to Leverage It](https://www.darkreading.com/dr-tech/we-have-the-tech-to-scale-up-open-source-vulnerability-fixes-now-it-s-time-to-leverage-it)
-- [What Adjustable Dumbbells Can Teach Us About Risk Management](https://www.darkreading.com/edge-articles/what-adjustable-dumbbells-can-teach-us-about-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
