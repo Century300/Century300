@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OPSWAT Presents New Malware Analysis Capabilities for Operational Technology at Black Hat USA 2022](https://www.darkreading.com/threat-intelligence/opswat-presents-new-malware-analysis-capabilities-for-operational-technology-at-black-hat-usa-2022)
+- [Bugcrowd Taps Top Hackers for Live Hacking Event with Indeed at 2022 Black Hat Conference](https://www.darkreading.com/attacks-breaches/bugcrowd-taps-top-hackers-for-live-hacking-event-with-indeed-at-2022-black-hat-conference)
+- [Deepfence ThreatMapper 1.4 Unveils Open Source Threat Graph to Visualize Cloud-Native Threat Landscape](https://www.darkreading.com/cloud/deepfence-threatmapper-1-4-unveils-open-source-threat-graph-to-visualize-cloud-native-threat-landscape)
 - [Compliance Certifications: Worth the Effort?](https://www.darkreading.com/risk/compliance-certifications-worth-the-effort-)
+- [Zero Trust &amp; XDR: The New Architecture of Defense](https://www.darkreading.com/endpoint/zero-trust-xdr-the-new-architecture-of-defense)
 - [Flow Security Launches Next-Gen Data Security Platform Following $10 Million Seed Round](https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round)
 - [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
 - [Looking Back at 25 Years of Black Hat](https://www.darkreading.com/edge-articles/looking-back-at-25-years-of-black-hat)
-- [Software Development Pipelines Offer Cybercriminals &#39;Free-Range&#39; Access to Cloud, On-Prem](https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem)
-- [Microsoft Patches Zero-Day Actively Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild)
-- [Halo Security Emerges From Stealth With Full Attack Surface Management Platform](https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform)
-- [Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals](https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
