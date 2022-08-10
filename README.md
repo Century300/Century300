@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Software Development Pipelines Offer Cybercriminals &#39;Free-Range&#39; Access to Cloud, On-Prem](https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem)
 - [Microsoft Patches Zero-Day Actively Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild)
 - [Halo Security Emerges From Stealth With Full Attack Surface Management Platform](https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform)
 - [Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals](https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals)
@@ -82,7 +83,6 @@
 - [Abusing Kerberos for Local Privilege Escalation](https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation)
 - [Domino&#39;s Takes a Methodical Approach to IoT](https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot)
 - [Russia-Ukraine Conflict Holds Cyberwar Lessons](https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons)
-- [US Oil and Gas Sector at Risk of a Cyberbreach, According to BreachBits Study](https://www.darkreading.com/risk/us-oil-and-gas-sector-at-risk-of-a-cyberbreach-according-to-breachbits-study)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
