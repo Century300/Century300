@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UntitledFlow Security Launches Next-Gen Data Security Platform Following $10 Million Seed Round](https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round)
+- [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
+- [Looking Back at 25 Years of Black Hat](https://www.darkreading.com/edge-articles/looking-back-at-25-years-of-black-hat)
 - [Software Development Pipelines Offer Cybercriminals &#39;Free-Range&#39; Access to Cloud, On-Prem](https://www.darkreading.com/application-security/software-development-pipelines-cybercriminals-free-range-access-cloud-on-prem)
 - [Microsoft Patches Zero-Day Actively Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-zero-day-actively-exploited-in-the-wild)
 - [Halo Security Emerges From Stealth With Full Attack Surface Management Platform](https://www.darkreading.com/dr-tech/halo-security-emerges-from-stealth-with-full-attack-surface-management-platform)
 - [Cybrary Unveils Next-Generation Interactive, Hands-On Training Experience to Upskill Cybersecurity Professionals](https://www.darkreading.com/careers-and-people/cybrary-unveils-next-generation-interactive-hands-on-training-experience-to-upskill-cybersecurity-professionals)
 - [Researchers Debut Fresh RCE Vector for Common Google API Tool](https://www.darkreading.com/risk/researchers-debut-rce-vector-common-google-api-tool)
-- [Abusing Kerberos for Local Privilege Escalation](https://www.darkreading.com/operations/abusing-kerberos-for-local-privilege-escalation)
-- [Domino&#39;s Takes a Methodical Approach to IoT](https://www.darkreading.com/iot/domino-s-takes-a-methodical-approach-to-iot)
-- [Russia-Ukraine Conflict Holds Cyberwar Lessons](https://www.darkreading.com/threat-intelligence/russia-ukraine-conflict-holds-cyberwar-lessons)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
