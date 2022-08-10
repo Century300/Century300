@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mimecast Announces Mimecast X1™ Platform Providing Customers With Email and Collaboration Security](https://www.darkreading.com/cloud/mimecast-announces-mimecast-x1-platform-providing-customers-with-email-and-collaboration-security)
 - [OPSWAT Presents New Malware Analysis Capabilities for Operational Technology at Black Hat USA 2022](https://www.darkreading.com/threat-intelligence/opswat-presents-new-malware-analysis-capabilities-for-operational-technology-at-black-hat-usa-2022)
 - [Bugcrowd Taps Top Hackers for Live Hacking Event with Indeed at 2022 Black Hat Conference](https://www.darkreading.com/attacks-breaches/bugcrowd-taps-top-hackers-for-live-hacking-event-with-indeed-at-2022-black-hat-conference)
 - [Deepfence ThreatMapper 1.4 Unveils Open Source Threat Graph to Visualize Cloud-Native Threat Landscape](https://www.darkreading.com/cloud/deepfence-threatmapper-1-4-unveils-open-source-threat-graph-to-visualize-cloud-native-threat-landscape)
@@ -82,7 +83,6 @@
 - [Zero Trust &amp; XDR: The New Architecture of Defense](https://www.darkreading.com/endpoint/zero-trust-xdr-the-new-architecture-of-defense)
 - [Flow Security Launches Next-Gen Data Security Platform Following $10 Million Seed Round](https://www.darkreading.com/attacks-breaches/untitledflow-security-launches-next-gen-data-security-platform-following-10-million-seed-round)
 - [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
-- [Looking Back at 25 Years of Black Hat](https://www.darkreading.com/edge-articles/looking-back-at-25-years-of-black-hat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
