@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Time Is Now for IoT Security Standards](https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards)
+- [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
 - [New Open Source Tools Launched for Adversary Simulation](https://www.darkreading.com/dr-tech/new-open-source-tools-launched-for-adversary-simulation)
 - [New HTTP Request Smuggling Attacks Target Web Browsers](https://www.darkreading.com/application-security/researcher-at-black-hat-describes-new-htpp-request-smuggling-attack)
 - [Multiple Vulnerabilities Discovered in Device42 Asset Management Appliance](https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance)
 - [Many ZTNA, MFA Tools Offer Little Protection Against Cookie Session Hijacking Attacks](https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks)
 - [Rethinking Software in the Organizational Hierarchy](https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy)
 - [Mimecast Announces Mimecast X1™ Platform Providing Customers With Email and Collaboration Security](https://www.darkreading.com/cloud/mimecast-announces-mimecast-x1-platform-providing-customers-with-email-and-collaboration-security)
-- [OPSWAT Presents New Malware Analysis Capabilities for Operational Technology at Black Hat USA 2022](https://www.darkreading.com/threat-intelligence/opswat-presents-new-malware-analysis-capabilities-for-operational-technology-at-black-hat-usa-2022)
-- [Bugcrowd Taps Top Hackers for Live Hacking Event with Indeed at 2022 Black Hat Conference](https://www.darkreading.com/attacks-breaches/bugcrowd-taps-top-hackers-for-live-hacking-event-with-indeed-at-2022-black-hat-conference)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
