@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber-Insurance Fail: Most Businesses Lack Ransomware Coverage](https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage)
+- [4 Flaws, Other Weaknesses Undermine Cisco ASA Firewalls](https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls)
 - [New Cross-Industry Group Launches Open Cybersecurity Framework](https://www.darkreading.com/threat-intelligence/new-cross-industry-group-launches-open-cybersecurity-framework)
+- [Cisco Confirms Data Breach, Hacked Files Leaked](https://www.darkreading.com/attacks-breaches/cisco-confirms-data-breach-hacked-files-leaked)
 - [The Time Is Now for IoT Security Standards](https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards)
 - [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
 - [New Open Source Tools Launched for Adversary Simulation](https://www.darkreading.com/dr-tech/new-open-source-tools-launched-for-adversary-simulation)
 - [New HTTP Request Smuggling Attacks Target Web Browsers](https://www.darkreading.com/application-security/researcher-at-black-hat-describes-new-htpp-request-smuggling-attack)
-- [Multiple Vulnerabilities Discovered in Device42 Asset Management Appliance](https://www.darkreading.com/vulnerabilities-threats/multiple-vulnerabilities-discovered-in-device42-asset-management-appliance)
-- [Many ZTNA, MFA Tools Offer Little Protection Against Cookie Session Hijacking Attacks](https://www.darkreading.com/identity-and-access-management/many-ztna-mfa-tools-offer-little-protection-against-cookie-session-hijacking-attacks)
-- [Rethinking Software in the Organizational Hierarchy](https://www.darkreading.com/attacks-breaches/rethinking-software-in-the-organizational-hierarchy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
