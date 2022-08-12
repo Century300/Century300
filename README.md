@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken)
+- [Software Supply Chain Chalks Up a Security Win With New Crypto Effort](https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort)
 - [Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan](https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan)
 - [How to Clear Security Obstacles and Achieve Cloud Nirvana](https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana)
 - [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
 - [Krebs: Taiwan, Geopolitical Headwinds Loom Large](https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large)
 - [After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks](https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks)
 - [Supply Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight](https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight)
-- [Cyber-Insurance Fail: Most Businesses Lack Ransomware Coverage](https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage)
-- [4 Flaws, Other Weaknesses Undermine Cisco ASA Firewalls](https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
