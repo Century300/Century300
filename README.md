@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
+- [Krebs: Taiwan, Geopolitical Headwinds Loom Large](https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large)
 - [After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks](https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks)
 - [Supply-Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight](https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight)
 - [Cyber-Insurance Fail: Most Businesses Lack Ransomware Coverage](https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage)
 - [4 Flaws, Other Weaknesses Undermine Cisco ASA Firewalls](https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls)
 - [New Cross-Industry Group Launches Open Cybersecurity Framework](https://www.darkreading.com/threat-intelligence/new-cross-industry-group-launches-open-cybersecurity-framework)
 - [Cisco Confirms Data Breach, Hacked Files Leaked](https://www.darkreading.com/attacks-breaches/cisco-confirms-data-breach-hacked-files-leaked)
-- [The Time Is Now for IoT Security Standards](https://www.darkreading.com/iot/the-time-is-now-for-iot-security-standards)
-- [Dark Reading News Desk: Live at Black Hat USA 2022](https://www.darkreading.com/cloud/dark-reading-news-desk-live-at-black-hat-usa-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
