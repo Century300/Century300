@@ -78,7 +78,7 @@
 - [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
 - [Krebs: Taiwan, Geopolitical Headwinds Loom Large](https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large)
 - [After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks](https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks)
-- [Supply-Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight](https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight)
+- [Supply Chain Security Startup Phylum Wins the First Black Hat Innovation Spotlight](https://www.darkreading.com/risk/supply-chain-security-startup-phylum-wins-the-first-black-hat-innovation-spotlight)
 - [Cyber-Insurance Fail: Most Businesses Lack Ransomware Coverage](https://www.darkreading.com/risk/cyber-insurance-fail-businesses-lack-ransomware-coverage)
 - [4 Flaws, Other Weaknesses Undermine Cisco ASA Firewalls](https://www.darkreading.com/application-security/four-flaws-other-weaknesses-undermine-cisco-asa-firewalls)
 - [New Cross-Industry Group Launches Open Cybersecurity Framework](https://www.darkreading.com/threat-intelligence/new-cross-industry-group-launches-open-cybersecurity-framework)
