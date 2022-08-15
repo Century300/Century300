@@ -75,7 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cybercriminals Weaponizing Ransomware Data For BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
+- [Cybercriminals Weaponizing Ransomware Data for BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
 - [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken)
 - [Software Supply Chain Chalks Up a Security Win With New Crypto Effort](https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort)
 - [Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan](https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan)
