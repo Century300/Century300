@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How and Why to Apply OSINT to Protect the Enterprise](https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise)
 - [Cybercriminals Weaponizing Ransomware Data for BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
 - [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken)
 - [Software Supply Chain Chalks Up a Security Win With New Crypto Effort](https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort)
@@ -82,7 +83,6 @@
 - [How to Clear Security Obstacles and Achieve Cloud Nirvana](https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana)
 - [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
 - [Krebs: Taiwan, Geopolitical Headwinds Loom Large](https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large)
-- [After Colonial Pipeline, Critical Infrastructure Operators Remain Blind to Cyber-Risks](https://www.darkreading.com/risk/colonial-pipeline-critical-infrastructure-operators-blind-cyber-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
