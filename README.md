@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Transitioning From VPNs to Zero-Trust Access Requires Shoring Up Third-Party Risk Management](https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management)
 - [How and Why to Apply OSINT to Protect the Enterprise](https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise)
 - [Cybercriminals Weaponizing Ransomware Data for BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
 - [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken)
@@ -82,7 +83,6 @@
 - [Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan](https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan)
 - [How to Clear Security Obstacles and Achieve Cloud Nirvana](https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana)
 - [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
-- [Krebs: Taiwan, Geopolitical Headwinds Loom Large](https://www.darkreading.com/risk/krebs-taiwan-geopolitical-headwinds-loom-large)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
