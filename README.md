@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Most Q2 Attacks Targeted Old Microsoft Vulnerabilities](https://www.darkreading.com/attacks-breaches/most-attacks-in-q2-targeted-old-microsoft-vulnerabilities)
 - [Transitioning From VPNs to Zero-Trust Access Requires Shoring Up Third-Party Risk Management](https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management)
 - [How and Why to Apply OSINT to Protect the Enterprise](https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise)
 - [Cybercriminals Weaponizing Ransomware Data for BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
@@ -82,7 +83,6 @@
 - [Software Supply Chain Chalks Up a Security Win With New Crypto Effort](https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort)
 - [Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan](https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan)
 - [How to Clear Security Obstacles and Achieve Cloud Nirvana](https://www.darkreading.com/cloud/how-to-clear-security-obstacles-and-achieve-cloud-nirvana)
-- [Microsoft: We Don&#39;t Want to Zero-Day Our Customers](https://www.darkreading.com/application-security/microsoft-zero-day-customers-security-exec)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
