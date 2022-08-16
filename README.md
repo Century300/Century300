@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Vicious Circle](https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle)
 - [With Plunge in Value, Cryptocurrency Crimes Decline in 2022](https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022)
 - [Windows Vulnerability Could Crack DC Server Credentials Open](https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open)
 - [Lessons From the Cybersecurity Trenches](https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches)
@@ -82,7 +83,6 @@
 - [DEF CON 30: Hackers Come Home to Vibrant Community](https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community)
 - [Most Q2 Attacks Targeted Old Microsoft Vulnerabilities](https://www.darkreading.com/attacks-breaches/most-attacks-in-q2-targeted-old-microsoft-vulnerabilities)
 - [Transitioning From VPNs to Zero-Trust Access Requires Shoring Up Third-Party Risk Management](https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management)
-- [How and Why to Apply OSINT to Protect the Enterprise](https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
