@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons From the Cybersecurity Trenches](https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches)
+- [SEPT. 7-9: Ukraine, Election, AI, Cybercrime, 5G Among Topics Explored by 125+ Speakers at 13th Billington Cybersecurity Summit](https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit)
 - [DEF CON 30: Hackers Come Home to Vibrant Community](https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community)
 - [Most Q2 Attacks Targeted Old Microsoft Vulnerabilities](https://www.darkreading.com/attacks-breaches/most-attacks-in-q2-targeted-old-microsoft-vulnerabilities)
 - [Transitioning From VPNs to Zero-Trust Access Requires Shoring Up Third-Party Risk Management](https://www.darkreading.com/dr-tech/transitioning-from-vpns-to-zero-trust-access-requires-shoring-p-third-party-risk-management)
 - [How and Why to Apply OSINT to Protect the Enterprise](https://www.darkreading.com/attacks-breaches/how-and-why-to-apply-osint-to-protect-the-enterprise)
 - [Cybercriminals Weaponizing Ransomware Data for BEC Attacks](https://www.darkreading.com/edge-threat-monitor/cybercriminals-weaponizing-ransomware-data-for-bec-attacks)
 - [Patch Madness: Vendor Bug Advisories Are Broken, So Broken](https://www.darkreading.com/risk/patch-madness-vendor-bug-advisories-broken)
-- [Software Supply Chain Chalks Up a Security Win With New Crypto Effort](https://www.darkreading.com/application-security/software-supply-chain-chalks-up-security-win-with-crypto-effort)
-- [Novel Ransomware Comes to the Sophisticated SOVA Android Banking Trojan](https://www.darkreading.com/endpoint/ransomware-sova-android-banking-trojan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
