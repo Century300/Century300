@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Disrupts Russian Group&#39;s Multiyear Cyber-Espionage Campaign](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign)
+- [DEF CON: A Woman&#39;s First Experience](https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience)
 - [Clop Ransomware Gang Breaches Water Utility, Just Not the Right One](https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility)
 - [Whack-a-Mole: More Malicious PyPI Packages Spring Up Targeting Discord, Roblox](https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox)
 - [Name That Toon: Vicious Circle](https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle)
 - [With Plunge in Value, Cryptocurrency Crimes Decline in 2022](https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022)
 - [Windows Vulnerability Could Crack DC Server Credentials Open](https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open)
 - [Lessons From the Cybersecurity Trenches](https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches)
-- [SEPT. 7-9: Ukraine, Election, AI, Cybercrime, 5G Among Topics Explored by 125+ Speakers at 13th Billington Cybersecurity Summit](https://www.darkreading.com/vulnerabilities-threats/sept-7-9-ukraine-election-ai-cybercrime-5g-among-topics-explored-by-125-speakers-at-13th-billington-cybersecurity-summit)
-- [DEF CON 30: Hackers Come Home to Vibrant Community](https://www.darkreading.com/threat-intelligence/def-con-30-hackers-come-home-to-vibrant-community)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
