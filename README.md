@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;DarkTortilla&#39; Malware Wraps in Sophistication for High-Volume RAT Infections](https://www.darkreading.com/vulnerabilities-threats/darktortilla-sophisticated-malware-rat-infections)
 - [When Countries Are Attacked:  Making the Case for More Private-Public Cooperation](https://www.darkreading.com/threat-intelligence/when-countries-are-attacked-making-the-case-for-more-private-public-cooperation)
 - [&#39;Operation Sugarush&#39; Mounts Concerning Spy Effort on Shipping, Healthcare Industries](https://www.darkreading.com/risk/operation-sugarush-spy-effort-shipping-healthcare-industries)
 - [China-Backed RedAlpha APT Builds Sprawling Cyber-Espionage Infrastructure](https://www.darkreading.com/threat-intelligence/china-backed-redalpha-apt-sprawling-cyberespionage-infrastructure)
@@ -82,7 +83,6 @@
 - [ThreatX Raises $30 Million in Series B Funding to Accelerate Growth in Global API Protection Market](https://www.darkreading.com/application-security/threatx-raises-30-million-in-series-b-funding-to-accelerate-growth-in-global-api-protection-market)
 - [AuditBoard Launches Third-Party Risk Management Solution, Empowering Enterprises to Tackle IT Vendor Risk at Scale](https://www.darkreading.com/cloud/auditboard-launches-third-party-risk-management-solution-empowering-enterprises-to-tackle-it-vendor-risk-at-scale)
 - [7 Smart Ways to Secure Your E-Commerce Site](https://www.darkreading.com/application-security/7-smart-ways-to-secure-your-ecommerce-site)
-- [Microsoft Rolls Out Tamper Protection for Macs](https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
