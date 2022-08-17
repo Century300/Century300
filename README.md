@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Smart Ways to Secure Your E-Commerce Site](https://www.darkreading.com/application-security/7-smart-ways-to-secure-your-ecommerce-site)
 - [Microsoft Rolls Out Tamper Protection for Macs](https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs)
 - [Microsoft Disrupts Russian Group&#39;s Multiyear Cyber-Espionage Campaign](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign)
 - [DEF CON: A Woman&#39;s First Experience](https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience)
@@ -82,7 +83,6 @@
 - [Whack-a-Mole: More Malicious PyPI Packages Spring Up Targeting Discord, Roblox](https://www.darkreading.com/application-security/whack-a-mole-malicious-pypi-packages-target-discord-roblox)
 - [Name That Toon: Vicious Circle](https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle)
 - [With Plunge in Value, Cryptocurrency Crimes Decline in 2022](https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022)
-- [Windows Vulnerability Could Crack DC Server Credentials Open](https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
