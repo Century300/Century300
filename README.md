@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Countries Are Attacked:  Making the Case for More Private-Public Cooperation](https://www.darkreading.com/threat-intelligence/when-countries-are-attacked-making-the-case-for-more-private-public-cooperation)
+- [&#39;Operation Sugarush&#39; Mounts Concerning Spy Effort on Shipping, Healthcare Industries](https://www.darkreading.com/risk/operation-sugarush-spy-effort-shipping-healthcare-industries)
+- [China-Backed RedAlpha APT Builds Sprawling Cyber-Espionage Infrastructure](https://www.darkreading.com/threat-intelligence/china-backed-redalpha-apt-sprawling-cyberespionage-infrastructure)
 - [Thoma Bravo Closes $6.9B Acquisition of Identity-Security Vendor SailPoint](https://www.darkreading.com/edge/thoma-bravo-closes-acquisition-identity-security-vendor-sailpoint)
 - [ThreatX Raises $30 Million in Series B Funding to Accelerate Growth in Global API Protection Market](https://www.darkreading.com/application-security/threatx-raises-30-million-in-series-b-funding-to-accelerate-growth-in-global-api-protection-market)
 - [AuditBoard Launches Third-Party Risk Management Solution, Empowering Enterprises to Tackle IT Vendor Risk at Scale](https://www.darkreading.com/cloud/auditboard-launches-third-party-risk-management-solution-empowering-enterprises-to-tackle-it-vendor-risk-at-scale)
 - [7 Smart Ways to Secure Your E-Commerce Site](https://www.darkreading.com/application-security/7-smart-ways-to-secure-your-ecommerce-site)
 - [Microsoft Rolls Out Tamper Protection for Macs](https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs)
-- [Microsoft Disrupts Russian Group&#39;s Multiyear Cyber-Espionage Campaign](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign)
-- [DEF CON: A Woman&#39;s First Experience](https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience)
-- [Clop Ransomware Gang Breaches Water Utility, Just Not the Right One](https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
