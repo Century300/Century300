@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Rolls Out Tamper Protection for Macs](https://www.darkreading.com/dr-tech/microsoft-rolls-out-tamper-protection-for-macs)
 - [Microsoft Disrupts Russian Group&#39;s Multiyear Cyber-Espionage Campaign](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-russian-group-cyberespionage-campaign)
 - [DEF CON: A Woman&#39;s First Experience](https://www.darkreading.com/omdia/def-con-a-woman-s-first-experience)
 - [Clop Ransomware Gang Breaches Water Utility, Just Not the Right One](https://www.darkreading.com/attacks-breaches/clop-ransomware-gang-breaches-water-utility)
@@ -82,7 +83,6 @@
 - [Name That Toon: Vicious Circle](https://www.darkreading.com/remote-workforce/name-that-toon-vicious-circle)
 - [With Plunge in Value, Cryptocurrency Crimes Decline in 2022](https://www.darkreading.com/attacks-breaches/plunge-value-cryptocurrency-crimes-decline-2022)
 - [Windows Vulnerability Could Crack DC Server Credentials Open](https://www.darkreading.com/remote-workforce/windows-vulnerability-could-crack-dc-server-credentials-open)
-- [Lessons From the Cybersecurity Trenches](https://www.darkreading.com/threat-intelligence/lessons-from-the-cybersecurity-trenches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
