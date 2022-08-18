@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Russia-Linked Groups Target Ukraine in Cyberwar](https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar)
 - [Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out](https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning)
 - [Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors](https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel)
 - [How to Upskill Tech Staff to Meet Cybersecurity Needs](https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs)
@@ -82,7 +83,6 @@
 - [Google Cloud Adds Curated Detection to Chronicle](https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle)
 - [Google Chrome Zero-Day Found Exploited in the Wild](https://www.darkreading.com/application-security/google-chrome-zero-day-exploited-wild)
 - [&#39;DarkTortilla&#39; Malware Wraps in Sophistication for High-Volume RAT Infections](https://www.darkreading.com/vulnerabilities-threats/darktortilla-sophisticated-malware-rat-infections)
-- [When Countries Are Attacked:  Making the Case for More Private-Public Cooperation](https://www.darkreading.com/threat-intelligence/when-countries-are-attacked-making-the-case-for-more-private-public-cooperation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
