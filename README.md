@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Easing the Cyber-Skills Crisis With Staff Augmentation](https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation)
 - [China&#39;s APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload](https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload)
 - [Mac Attack: North Korea&#39;s Lazarus APT Targets Apple&#39;s M1 Chip](https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip)
 - [5 Russia-Linked Groups Target Ukraine in Cyberwar](https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar)
@@ -82,7 +83,6 @@
 - [Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors](https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel)
 - [How to Upskill Tech Staff to Meet Cybersecurity Needs](https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs)
 - [OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain](https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain)
-- [Google Cloud Adds Curated Detection to Chronicle](https://www.darkreading.com/dr-tech/google-cloud-adds-curated-detection-to-chronicle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
