@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing](https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing)
 - [Cyber Resiliency Isn&#39;t Just About Technology, It&#39;s About People](https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people)
 - [Easing the Cyber-Skills Crisis With Staff Augmentation](https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation)
 - [China&#39;s APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload](https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload)
@@ -82,7 +83,6 @@
 - [5 Russia-Linked Groups Target Ukraine in Cyberwar](https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar)
 - [Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out](https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning)
 - [Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors](https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel)
-- [How to Upskill Tech Staff to Meet Cybersecurity Needs](https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
