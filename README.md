@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Resiliency Isn&#39;t Just About Technology, It&#39;s About People](https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people)
 - [Easing the Cyber-Skills Crisis With Staff Augmentation](https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation)
 - [China&#39;s APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload](https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload)
 - [Mac Attack: North Korea&#39;s Lazarus APT Targets Apple&#39;s M1 Chip](https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip)
@@ -82,7 +83,6 @@
 - [Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out](https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning)
 - [Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors](https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel)
 - [How to Upskill Tech Staff to Meet Cybersecurity Needs](https://www.darkreading.com/careers-and-people/how-to-upskill-tech-staff-to-meet-cybersecurity-needs)
-- [OpenSSF Announces 13 New Members Committed to Strengthening the Security of the Open Source Software Supply Chain](https://www.darkreading.com/application-security/openssf-announces-13-new-members-committed-to-strengthening-the-security-of-the-open-source-software-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
