@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims](https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims)
 - [BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing](https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing)
 - [Cyber Resiliency Isn&#39;t Just About Technology, It&#39;s About People](https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people)
 - [Easing the Cyber-Skills Crisis With Staff Augmentation](https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation)
@@ -82,7 +83,6 @@
 - [Mac Attack: North Korea&#39;s Lazarus APT Targets Apple&#39;s M1 Chip](https://www.darkreading.com/endpoint/mac-attack-north-korea-lazarus-apt-apple-m1-chip)
 - [5 Russia-Linked Groups Target Ukraine in Cyberwar](https://www.darkreading.com/attacks-breaches/five-russia-linked-groups-target-ukraine-in-cyberwar)
 - [Which Security Bugs Will Be Exploited? Researchers Create an ML Model to Find Out](https://www.darkreading.com/application-security/security-bugs-exploited-model-machine-learning)
-- [Summertime Blues: TA558 Ramps Up Attacks on Hospitality, Travel Sectors](https://www.darkreading.com/remote-workforce/summertime-blues-ta558-ramps-attacks-hospitality-travel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
