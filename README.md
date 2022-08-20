@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cybersecurity Solutions Must Evolve, Says Netography CEO](https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo)
+- [PIXM: Stopping Targeted Phishing Attacks With &#39;Computer Vision&#39;](https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-)
 - [Intel Adds New Circuit to Chips to Ward Off Motherboard Exploits](https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits)
 - [Patch Now: 2 Apple Zero-Days Exploited in Wild](https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited)
+- [Cybersecurity Solutions Must Evolve, Says Netography CEO](https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo)
 - [State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims](https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims)
 - [BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing](https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing)
 - [Cyber Resiliency Isn&#39;t Just About Technology, It&#39;s About People](https://www.darkreading.com/vulnerabilities-threats/cyber-resiliency-isn-t-just-about-technology-it-s-about-people)
 - [Easing the Cyber-Skills Crisis With Staff Augmentation](https://www.darkreading.com/operations/easing-the-cyber-skills-crisis-with-staff-augmentation)
-- [China&#39;s APT41 Embraces Baffling Approach for Dropping Cobalt Strike Payload](https://www.darkreading.com/remote-workforce/china-apt41-baffling-approach-cobalt-strike-payload)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
