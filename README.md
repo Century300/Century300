@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mimecast: Mitigating Risk Across a Complex Threat Landscape](https://www.darkreading.com/risk/mimecast-mitigating-risk-across-a-complex-threat-landscape)
 - [Banyan Recommends Phased Approach When Introducing Zero Trust](https://www.darkreading.com/risk/banyan-recommends-phased-approach-when-introducing-zero-trust)
 - [DeepSurface Adds Risk-Based Approach to Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management)
 - [The HEAT Is On, Says Menlo Security](https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security)
@@ -82,7 +83,6 @@
 - [Intel Adds New Circuit to Chips to Ward Off Motherboard Exploits](https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits)
 - [Patch Now: 2 Apple Zero-Days Exploited in Wild](https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited)
 - [Cybersecurity Solutions Must Evolve, Says Netography CEO](https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo)
-- [State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims](https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
