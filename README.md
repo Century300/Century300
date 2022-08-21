@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Banyan Recommends Phased Approach When Introducing Zero Trust](https://www.darkreading.com/risk/banyan-recommends-phased-approach-when-introducing-zero-trust)
 - [DeepSurface Adds Risk-Based Approach to Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management)
 - [The HEAT Is On, Says Menlo Security](https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security)
 - [PIXM: Stopping Targeted Phishing Attacks With &#39;Computer Vision&#39;](https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-)
@@ -82,7 +83,6 @@
 - [Patch Now: 2 Apple Zero-Days Exploited in Wild](https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited)
 - [Cybersecurity Solutions Must Evolve, Says Netography CEO](https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo)
 - [State-Sponsored APTs Dangle Job Opps to Lure In Spy Victims](https://www.darkreading.com/remote-workforce/state-sponsored-apts-dangle-job-opps-lure-spy-victims)
-- [BlackByte Ransomware Gang Returns With Twitter Presence, Tiered Pricing](https://www.darkreading.com/threat-intelligence/blackbyte-ransomware-gang-returns-twitter-presence-tiered-pricing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
