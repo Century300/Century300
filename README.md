@@ -94,7 +94,7 @@
 - [Plex media server unable to connect? Fix by configuring firewall UFW](https://www.youtube.com/watch?v=-UTHUouiSVQ)
 - [how to contact YouTube support in 2021, lost access to YouTube channel](https://www.youtube.com/watch?v=dQu735Nmp14)
 - [Facebook was down today after whistleblower Frances Haugen aired](https://www.youtube.com/watch?v=fKoa-SPk9FM)
-- [how to fix VMware no internet connection in 2021 in 1.5 minutes](https://www.youtube.com/watch?v=7UwhtDtHgOc)
+- [how to fix VMware &amp; VirtualBox no internet connection in 1.5 minutes](https://www.youtube.com/watch?v=7UwhtDtHgOc)
 - [25 Minutes Music: Relaxing Guitar with Pomodoro timer &amp; bell in HD view](https://www.youtube.com/watch?v=Wq8ZsjbbypE)
 <!-- YOUTUBE:END -->
 
