@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco: All Intelligence is Not Created Equal](https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal)
 - [Identity Security Pain Points and What Can Be Done](https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done)
 - [How Qualys Reduces Risk and Enables Tool Consolidation](https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation)
 - [Expiring Root Certificates Threaten IoT in the Enterprise](https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise)
@@ -82,7 +83,6 @@
 - [Banyan Recommends Phased Approach When Introducing Zero Trust](https://www.darkreading.com/risk/banyan-recommends-phased-approach-when-introducing-zero-trust)
 - [DeepSurface Adds Risk-Based Approach to Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/deepsurface-adds-risk-based-approach-to-vulnerability-management)
 - [The HEAT Is On, Says Menlo Security](https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security)
-- [PIXM: Stopping Targeted Phishing Attacks With &#39;Computer Vision&#39;](https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
