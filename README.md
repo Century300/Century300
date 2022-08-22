@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Qualys Reduces Risk and Enables Tool Consolidation](https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation)
 - [Expiring Root Certificates Threaten IoT in the Enterprise](https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise)
 - [Mimecast: Mitigating Risk Across a Complex Threat Landscape](https://www.darkreading.com/risk/mimecast-mitigating-risk-across-a-complex-threat-landscape)
 - [Banyan Recommends Phased Approach When Introducing Zero Trust](https://www.darkreading.com/risk/banyan-recommends-phased-approach-when-introducing-zero-trust)
@@ -82,7 +83,6 @@
 - [The HEAT Is On, Says Menlo Security](https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security)
 - [PIXM: Stopping Targeted Phishing Attacks With &#39;Computer Vision&#39;](https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-)
 - [Intel Adds New Circuit to Chips to Ward Off Motherboard Exploits](https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits)
-- [NIST Weighs in on AI Risk](https://www.darkreading.com/edge/nist-weighs-in-on-ai-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
