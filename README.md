@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Secureworks: How To Distinguish Hype From Reality With AI in SecOps](https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops)
+- [New &#39;BianLian&#39; Ransomware Variant on the Rise](https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise)
 - [Tanium: Taking A Deeper Cut At Converged Endpoint Management](https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management)
 - [Pentera Helps Enterprises Reduce Their Security Exposure](https://www.darkreading.com/cloud/pentera-helps-enterprises-reduce-their-security-exposure)
 - [Cisco: All Intelligence is Not Created Equal](https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal)
 - [Identity Security Pain Points and What Can Be Done](https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done)
 - [How Qualys Reduces Risk and Enables Tool Consolidation](https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation)
 - [Expiring Root Certificates Threaten IoT in the Enterprise](https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise)
-- [Mimecast: Mitigating Risk Across a Complex Threat Landscape](https://www.darkreading.com/risk/mimecast-mitigating-risk-across-a-complex-threat-landscape)
-- [Banyan Recommends Phased Approach When Introducing Zero Trust](https://www.darkreading.com/risk/banyan-recommends-phased-approach-when-introducing-zero-trust)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
