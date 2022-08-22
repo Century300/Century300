@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [InQuest: Adding File Detection and Response to the Security Arsenal](https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal)
 - [Secureworks: How To Distinguish Hype From Reality With AI in SecOps](https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops)
 - [New &#39;BianLian&#39; Ransomware Variant on the Rise](https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise)
 - [Tanium: Taking A Deeper Cut At Converged Endpoint Management](https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management)
@@ -82,7 +83,6 @@
 - [Cisco: All Intelligence is Not Created Equal](https://www.darkreading.com/threat-intelligence/cisco-all-intelligence-is-not-created-equal)
 - [Identity Security Pain Points and What Can Be Done](https://www.darkreading.com/operations/identity-security-pain-points-and-what-can-be-done)
 - [How Qualys Reduces Risk and Enables Tool Consolidation](https://www.darkreading.com/risk/how-qualys-reduces-risk-and-enables-tool-consolidation)
-- [Expiring Root Certificates Threaten IoT in the Enterprise](https://www.darkreading.com/edge-articles/expiring-root-certificates-threaten-iot-in-the-enterprise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
