@@ -81,8 +81,8 @@
 - [The HEAT Is On, Says Menlo Security](https://www.darkreading.com/attacks-breaches/the-heat-is-on-says-menlo-security)
 - [PIXM: Stopping Targeted Phishing Attacks With &#39;Computer Vision&#39;](https://www.darkreading.com/attacks-breaches/pixm-stopping-targeted-phishing-attacks-with-computer-vision-)
 - [Intel Adds New Circuit to Chips to Ward Off Motherboard Exploits](https://www.darkreading.com/dr-tech/intel-adds-new-circuit-to-chips-to-ward-off-motherboard-exploits)
+- [NIST Weighs in on AI Risk](https://www.darkreading.com/edge/nist-weighs-in-on-ai-risk)
 - [Patch Now: 2 Apple Zero-Days Exploited in Wild](https://www.darkreading.com/vulnerabilities-threats/patch-apple-zero-days-exploited)
-- [Cybersecurity Solutions Must Evolve, Says Netography CEO](https://www.darkreading.com/cloud/cybersecurity-solutions-must-evolve-says-netography-ceo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
