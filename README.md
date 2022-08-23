@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mudge Blows Whistle on Alleged Twitter Security Nightmare](https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare)
 - [Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform](https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform)
 - [Facing the New Security Challenges That Come With Cloud](https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud)
 - [Secure Code Warrior Spotlights the Importance of Developer Security Skills with 2nd Annual Devlympics Competition](https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition)
@@ -82,7 +83,6 @@
 - [Coalfire Federal Among First Authorized to Conduct CMMC Assessments](https://www.darkreading.com/risk/coalfire-federal-among-first-authorized-to-conduct-cmmc-assessments)
 - [Apathy Is Your Company&#39;s Biggest Cybersecurity Vulnerability — Here&#39;s How to Combat It](https://www.darkreading.com/attacks-breaches/apathy-is-your-company-s-biggest-cybersecurity-vulnerability-here-s-how-to-combat-it)
 - [Meta Takes Offensive Posture With Privacy Red Team](https://www.darkreading.com/edge/meta-takes-offensive-posture-with-privacy-red-team)
-- [Novant Health Notifies Patients of Potential Data Privacy Incident](https://www.darkreading.com/attacks-breaches/novant-health-notifies-patients-of-potential-data-privacy-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
