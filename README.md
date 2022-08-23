@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Facing the New Security Challenges That Come With Cloud](https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud)
 - [Fake DDoS Protection Alerts Distribute Dangerous RAT](https://www.darkreading.com/attacks-breaches/threat-actors-using-fake-ddos-protection-alerts-to-distribute-dangerous-rat)
 - [Metasploit Creator Renames His Startup and IT Discovery Tool Rumble to &#39;runZero&#39;](https://www.darkreading.com/operations/hd-moore-s-startup-and-it-discovery-tool-rumble-renamed-runzero)
 - [For Penetration Security Testing, Alternative Cloud Offers Something Others Don&#39;t](https://www.darkreading.com/cloud/for-penetration-security-testing-alternative-cloud-offers-something-others-don-t)
@@ -82,7 +83,6 @@
 - [InQuest: Adding File Detection and Response to the Security Arsenal](https://www.darkreading.com/endpoint/inquest-adding-file-detection-and-response-to-the-security-arsenal)
 - [Secureworks: How To Distinguish Hype From Reality With AI in SecOps](https://www.darkreading.com/application-security/secureworks-how-to-distinguish-hype-from-reality-with-ai-in-secops)
 - [New &#39;BianLian&#39; Ransomware Variant on the Rise](https://www.darkreading.com/cloud/new-bianlian-ransomware-variant-on-the-rise)
-- [Tanium: Taking A Deeper Cut At Converged Endpoint Management](https://www.darkreading.com/endpoint/tanium-taking-a-deeper-cut-at-converged-endpoint-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
