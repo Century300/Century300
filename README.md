@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thoma Bravo Buying Spree Highlights Hot Investor Interest in IAM Market](https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market)
 - [Mudge Blows Whistle on Alleged Twitter Security Nightmare](https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare)
 - [Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform](https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform)
 - [Facing the New Security Challenges That Come With Cloud](https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud)
@@ -82,7 +83,6 @@
 - [One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious](https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious)
 - [Coalfire Federal Among First Authorized to Conduct CMMC Assessments](https://www.darkreading.com/risk/coalfire-federal-among-first-authorized-to-conduct-cmmc-assessments)
 - [Apathy Is Your Company&#39;s Biggest Cybersecurity Vulnerability — Here&#39;s How to Combat It](https://www.darkreading.com/attacks-breaches/apathy-is-your-company-s-biggest-cybersecurity-vulnerability-here-s-how-to-combat-it)
-- [Meta Takes Offensive Posture With Privacy Red Team](https://www.darkreading.com/edge/meta-takes-offensive-posture-with-privacy-red-team)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
