@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Gang Demands $10M in Attack on French Hospital](https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital)
 - [VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data](https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data)
+- [New Zero-Trust Maturity Data: Charting Your Own Organization](https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization)
 - [Unusual Microsoft 365 Phishing Campaign Spoofs eFax Via Compromised Dynamics Voice Account](https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account)
 - [Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack](https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack)
 - [Acronis&#39; Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023](https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023)
 - [Why Empathy Is the Key to Better Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling)
 - [CyberRatings.org Announces New Web Browser Test Results for 2022](https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022)
-- [Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats](https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats)
-- [DevSecOps Gains Traction — but Security Still Lags](https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
