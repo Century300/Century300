@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Empathy Is the Key to Better Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling)
+- [CyberRatings.org Announces New Web Browser Test Results for 2022](https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022)
 - [Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats](https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats)
 - [DevSecOps Gains Traction — but Security Still Lags](https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags)
 - [Thoma Bravo Buying Spree Highlights Hot Investor Interest in IAM Market](https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market)
 - [Mudge Blows Whistle on Alleged Twitter Security Nightmare](https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare)
 - [Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform](https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform)
 - [Facing the New Security Challenges That Come With Cloud](https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud)
-- [Secure Code Warrior Spotlights the Importance of Developer Security Skills with 2nd Annual Devlympics Competition](https://www.darkreading.com/vulnerabilities-threats/secure-code-warrior-spotlights-the-importance-of-developer-security-skills-with-2nd-annual-devlympics-competition)
-- [One-Third of Popular PyPI Packages Mistakenly Flagged as Malicious](https://www.darkreading.com/application-security/one-third-pypi-packages-mistakenly-flagged-malicious)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
