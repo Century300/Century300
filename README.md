@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack](https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack)
+- [Acronis&#39; Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023](https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023)
 - [Why Empathy Is the Key to Better Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/why-empathy-is-the-key-to-better-threat-modeling)
 - [CyberRatings.org Announces New Web Browser Test Results for 2022](https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022)
 - [Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats](https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats)
 - [DevSecOps Gains Traction — but Security Still Lags](https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags)
 - [Thoma Bravo Buying Spree Highlights Hot Investor Interest in IAM Market](https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market)
 - [Mudge Blows Whistle on Alleged Twitter Security Nightmare](https://www.darkreading.com/cloud/mudge-blows-whistle-alleged-twitter-security-nightmare)
-- [Proofpoint Introduces a Smarter Way to Stay Compliant with New Intelligent Compliance Platform](https://www.darkreading.com/risk/proofpoint-introduces-a-smarter-way-to-stay-compliant-with-new-intelligent-compliance-platform)
-- [Facing the New Security Challenges That Come With Cloud](https://www.darkreading.com/cloud/facing-the-new-security-challenges-that-come-with-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
