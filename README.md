@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data](https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data)
 - [Unusual Microsoft 365 Phishing Campaign Spoofs eFax Via Compromised Dynamics Voice Account](https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account)
 - [Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack](https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack)
 - [Acronis&#39; Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023](https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023)
@@ -82,7 +83,6 @@
 - [CyberRatings.org Announces New Web Browser Test Results for 2022](https://www.darkreading.com/vulnerabilities-threats/cyberratings-org-announces-new-web-browser-test-results-for-2022)
 - [Report: Financial Institutions Are Overwhelmed When Facing Growing Firmware Security and Supply Chain Threats](https://www.darkreading.com/attacks-breaches/report-financial-institutions-are-overwhelmed-when-facing-growing-firmware-security-and-supply-chain-threats)
 - [DevSecOps Gains Traction — but Security Still Lags](https://www.darkreading.com/vulnerabilities-threats/devsecops-gains-traction----but-security-still-lags)
-- [Thoma Bravo Buying Spree Highlights Hot Investor Interest in IAM Market](https://www.darkreading.com/operations/thoma-bravo-buying-spree-investor-interest-iam-market)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
