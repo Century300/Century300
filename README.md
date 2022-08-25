@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Optiv&#39;s Annual $40K Scholarship for Black, African-American-Identifying STEM Students Now Open for Applicants](https://www.darkreading.com/careers-and-people/optiv-s-annual-40k-scholarship-for-black-african-american-identifying-stem-students-now-open-for-applicants)
+- [New Exterro FTK Update Accelerates Mobile Digital Forensics](https://www.darkreading.com/dr-tech/new-exterro-ftk-update-accelerates-mobile-digital-forensics)
+- [Thousands of Organizations Remain at Risk From Critical Zero-Click IP Camera Bug](https://www.darkreading.com/vulnerability-management/thousands-organizations-risk-critical-ip-camera-bug)
 - [CISA: Just-Disclosed Palo Alto Networks Firewall Bug Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit)
 - [Efficient &#39;MagicWeb&#39; Malware Subverts AD FS Authentication, Microsoft Warns](https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft)
 - [Ransomware Gang Demands $10M in Attack on French Hospital](https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital)
 - [VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data](https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data)
 - [New Zero-Trust Maturity Data: Charting Your Own Organization](https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization)
-- [Unusual Microsoft 365 Phishing Campaign Spoofs eFax Via Compromised Dynamics Voice Account](https://www.darkreading.com/cloud/unusual-microsoft-365-phishing-efax-compromised-dynamic-voice-account)
-- [Nearly 3 Years Later, SolarWinds CISO Shares 3 Lessons From the Infamous Attack](https://www.darkreading.com/edge-articles/3-years-later-solarwinds-ciso-shares-3-lessons-from-the-infamous-attack)
-- [Acronis&#39; Midyear Cyberthreats Report Finds Ransomware Is the No. 1 Threat to Organizations, Projects Damages to Exceed $30 Billion by 2023](https://www.darkreading.com/attacks-breaches/acronis-midyear-cyberthreats-report-finds-ransomware-is-the-no-1-threat-to-organizations-projects-damages-to-exceed-30-billion-by-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
