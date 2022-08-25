@@ -75,14 +75,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What You Need to Know About the Psychology Behind Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/what-you-need-to-know-about-the-psychology-behind-cyber-resilience)
+- [Penetration Testing Market Worth $2.7B By 2027: MarketsandMarkets&lpar;TM&rpar; Report](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-worth-2-7b-by-2027-marketsandmarkets-tm-report)
 - [Optiv&#39;s Annual $40K Scholarship for Black, African-American-Identifying STEM Students Now Open for Applicants](https://www.darkreading.com/careers-and-people/optiv-s-annual-40k-scholarship-for-black-african-american-identifying-stem-students-now-open-for-applicants)
 - [New Exterro FTK Update Accelerates Mobile Digital Forensics](https://www.darkreading.com/dr-tech/new-exterro-ftk-update-accelerates-mobile-digital-forensics)
 - [Thousands of Organizations Remain at Risk From Critical Zero-Click IP Camera Bug](https://www.darkreading.com/vulnerability-management/thousands-organizations-risk-critical-ip-camera-bug)
 - [CISA: Just-Disclosed Palo Alto Networks Firewall Bug Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/cisa-palo-alto-firewall-bug-active-exploit)
 - [Efficient &#39;MagicWeb&#39; Malware Subverts AD FS Authentication, Microsoft Warns](https://www.darkreading.com/threat-intelligence/efficient-magicweb-malware-subverts-ad-fs-authentication-microsoft)
 - [Ransomware Gang Demands $10M in Attack on French Hospital](https://www.darkreading.com/vulnerabilities-threats/ransomware-gang-demands-10m-attack-french-hospital)
-- [VMware LPE Bug Allows Cyberattackers to Feast on Virtual Machine Data](https://www.darkreading.com/cloud/vmware-lpe-bug-cyberattackers-virtual-machine-data)
-- [New Zero-Trust Maturity Data: Charting Your Own Organization](https://www.darkreading.com/cloud/new-zero-trust-maturity-data-charting-your-own-organization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
