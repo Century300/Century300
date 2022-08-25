@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
 - [ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users](https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users)
 - [More Bang for the Buck: Cross-Platform Ransomware Is the Next Problem](https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem)
 - [Wyden Renews Call to Encrypt Twitter DMs, Secure Americans&#39; Data From Unfriendly Foreign Governments](https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments)
@@ -82,7 +83,6 @@
 - [Cyberstarts Closes $60M in Seed Fund III](https://www.darkreading.com/cloud/cyberstarts-closes-60m-in-seed-fund-iii)
 - [The &lpar;Nation&rpar; State of Cyber: 64% of Businesses Suspect They&#39;ve Been Targeted or Impacted by Nation-State Attacks](https://www.darkreading.com/attacks-breaches/the-nation-state-of-cyber-64-of-businesses-suspect-they-ve-been-targeted-or-impacted-by-nation-state-attacks)
 - [What You Need to Know About the Psychology Behind Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/what-you-need-to-know-about-the-psychology-behind-cyber-resilience)
-- [Penetration Testing Market Worth $2.7B By 2027: MarketsandMarkets&lpar;TM&rpar; Report](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-worth-2-7b-by-2027-marketsandmarkets-tm-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
