@@ -75,6 +75,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users](https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users)
 - [More Bang for the Buck: Cross-Platform Ransomware Is the Next Problem](https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem)
 - [Wyden Renews Call to Encrypt Twitter DMs, Secure Americans&#39; Data From Unfriendly Foreign Governments](https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments)
 - [Senior-Level Women Leaders in Cybersecurity Form New Nonprofit](https://www.darkreading.com/remote-workforce/senior-level-women-leaders-cybersecurity-nonprofit)
@@ -82,7 +83,6 @@
 - [The &lpar;Nation&rpar; State of Cyber: 64% of Businesses Suspect They&#39;ve Been Targeted or Impacted by Nation-State Attacks](https://www.darkreading.com/attacks-breaches/the-nation-state-of-cyber-64-of-businesses-suspect-they-ve-been-targeted-or-impacted-by-nation-state-attacks)
 - [What You Need to Know About the Psychology Behind Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/what-you-need-to-know-about-the-psychology-behind-cyber-resilience)
 - [Penetration Testing Market Worth $2.7B By 2027: MarketsandMarkets&lpar;TM&rpar; Report](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-worth-2-7b-by-2027-marketsandmarkets-tm-report)
-- [Optiv&#39;s Annual $40K Scholarship for Black, African-American-Identifying STEM Students Now Open for Applicants](https://www.darkreading.com/careers-and-people/optiv-s-annual-40k-scholarship-for-black-african-american-identifying-stem-students-now-open-for-applicants)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
