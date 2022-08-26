@@ -82,7 +82,7 @@
 - [How DevSecOps Empowers Citizen Developers](https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers)
 - [Endpoint Protection / Antivirus Products Tested for Malware Protection](https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection)
 - [Capital One Joins Open Source Security Foundation](https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation)
-- [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
+- [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply-Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
 - [ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users](https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users)
 <!-- DARKREADING:END -->
 
