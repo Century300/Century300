@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How DevSecOps Empowers Citizen Developers](https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers)
 - [Endpoint Protection / Antivirus Products Tested for Malware Protection](https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection)
 - [Capital One Joins Open Source Security Foundation](https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation)
 - [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
@@ -83,7 +84,6 @@
 - [More Bang for the Buck: Cross-Platform Ransomware Is the Next Problem](https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem)
 - [Wyden Renews Call to Encrypt Twitter DMs, Secure Americans&#39; Data From Unfriendly Foreign Governments](https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments)
 - [Senior-Level Women Leaders in Cybersecurity Form New Nonprofit](https://www.darkreading.com/remote-workforce/senior-level-women-leaders-cybersecurity-nonprofit)
-- [Cyberstarts Closes $60M in Seed Fund III](https://www.darkreading.com/cloud/cyberstarts-closes-60m-in-seed-fund-iii)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
