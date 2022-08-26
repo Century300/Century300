@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Sliver&#39; Emerges as Cobalt Strike Alternative for Malicious C2](https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2)
 - [&#39;No-Party&#39; Data Architectures Promise More Control, Better Security](https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security)
 - [How DevSecOps Empowers Citizen Developers](https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers)
 - [Endpoint Protection / Antivirus Products Tested for Malware Protection](https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection)
@@ -83,7 +84,6 @@
 - [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
 - [ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users](https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users)
 - [More Bang for the Buck: Cross-Platform Ransomware Is the Next Problem](https://www.darkreading.com/threat-intelligence/cross-platform-ransomware-spikes-problem)
-- [Wyden Renews Call to Encrypt Twitter DMs, Secure Americans&#39; Data From Unfriendly Foreign Governments](https://www.darkreading.com/risk/wyden-renews-call-to-encrypt-twitter-dms-secure-americans-data-from-unfriendly-foreign-governments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
