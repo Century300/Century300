@@ -54,6 +54,7 @@
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-grey?style=flat-square&logo=kdenlive)
 ![GIMP](https://img.shields.io/badge/GIMP-grey?style=flat-square&logo=gimp)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-black?style=flat-square&logo=apple&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-ebecf1?style=flat-square&logo=debian&logoColor=red)
 ![archlinux](https://img.shields.io/badge/archlinux-333333?style=flat-square&logo=arch-linux&logoColor=1793d1)
