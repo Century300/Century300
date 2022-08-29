@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber-Insurance Firms Limit Payouts, Risk Obsolescence](https://www.darkreading.com/risk/cyber-insurance-firms-limit-payouts-risk-obsolescence)
+- [NATO Investigates Dark Web Leak of Data Stolen from Missile Vendor](https://www.darkreading.com/vulnerabilities-threats/nato-investigates-leak-of-data-stolen-from-missile-vendor)
 - [The 3 Questions CISOs Must Ask to Protect Their Sensitive Data](https://www.darkreading.com/attacks-breaches/the-3-questions-cisos-must-ask-to-protect-their-sensitive-data)
 - [LastPass Suffers Data Breach, Source Code Stolen](https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen)
 - [&#39;Sliver&#39; Emerges as Cobalt Strike Alternative for Malicious C2](https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2)
 - [&#39;No-Party&#39; Data Architectures Promise More Control, Better Security](https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security)
 - [How DevSecOps Empowers Citizen Developers](https://www.darkreading.com/application-security/how-devsecops-empowers-citizen-developers)
 - [Endpoint Protection / Antivirus Products Tested for Malware Protection](https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection)
-- [Capital One Joins Open Source Security Foundation](https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation)
-- [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply-Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
