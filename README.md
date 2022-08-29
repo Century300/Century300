@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft 365 Empowers Business Users to Shoot Themselves in the Foot](https://www.darkreading.com/edge-articles)
 - [LastPass Suffers Data Breach, Source Code Stolen](https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen)
 - [&#39;Sliver&#39; Emerges as Cobalt Strike Alternative for Malicious C2](https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2)
 - [&#39;No-Party&#39; Data Architectures Promise More Control, Better Security](https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security)
@@ -83,7 +84,6 @@
 - [Endpoint Protection / Antivirus Products Tested for Malware Protection](https://www.darkreading.com/endpoint/endpoint-protection-antivirus-products-tested-for-malware-protection)
 - [Capital One Joins Open Source Security Foundation](https://www.darkreading.com/application-security/capital-one-joins-open-source-security-foundation)
 - [Twilio Hackers Scarf 10K Okta Credentials in Sprawling Supply-Chain Attack](https://www.darkreading.com/remote-workforce/twilio-hackers-okta-credentials-sprawling-supply-chain-attack)
-- [ReasonLabs Launches Free Online Security Tool to Power Secure Web Experience for Millions of Global Users](https://www.darkreading.com/endpoint/reasonlabs-launches-free-online-security-tool-to-power-secure-web-experience-for-millions-of-global-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
