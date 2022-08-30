@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New ODGen Tool Unearths 180 Zero-Days in Node.js Libraries](https://www.darkreading.com/dr-tech/new-odgen-tool-unearths-180-zero-days-in-node-js-libraries)
 - [Don&#39;t Let &#39;Perfect&#39; Be the Enemy of a Good AppSec Program](https://www.darkreading.com/edge-articles/don-t-let-perfect-be-the-enemy-of-a-good-appsec-program)
 - [Malicious Chrome Extensions Plague 1.4M Users](https://www.darkreading.com/vulnerabilities-threats/1-4m-users-running-malicious-chrome-extensions)
 - [Chinese Hackers Target Energy Sector in Australia, South China Sea](https://www.darkreading.com/vulnerabilities-threats/chinese-hackers-target-energy-sector-australia-south-china-sea)
@@ -83,7 +84,6 @@
 - [Cohesity Research Reveals that Reliance on Legacy Technology Is Undermining How Organizations Respond to Ransomware](https://www.darkreading.com/attacks-breaches/cohesity-research-reveals-that-reliance-on-legacy-technology-is-undermining-how-organizations-respond-to-ransomware)
 - [Phishing Campaign Targets PyPI Users to Distribute Malicious Code](https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code)
 - [Building a Strong SOC Starts With People](https://www.darkreading.com/attacks-breaches/building-a-strong-soc-starts-with-people)
-- [Google Expands Bug Bounties to Its Open Source Projects](https://www.darkreading.com/vulnerabilities-threats/google-expands-bug-bounties-to-its-open-source-projects)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
