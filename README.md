@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Hackers Target Energy Sector in Australia, South China Sea](https://www.darkreading.com/vulnerabilities-threats/chinese-hackers-target-energy-sector-australia-south-china-sea)
 - [Security Culture: An OT Survival Story](https://www.darkreading.com/operations/security-culture-an-ot-survival-story)
 - [Cohesity Research Reveals that Reliance on Legacy Technology Is Undermining How Organizations Respond to Ransomware](https://www.darkreading.com/attacks-breaches/cohesity-research-reveals-that-reliance-on-legacy-technology-is-undermining-how-organizations-respond-to-ransomware)
 - [Phishing Campaign Targets PyPI Users to Distribute Malicious Code](https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code)
@@ -83,7 +84,6 @@
 - [Google Expands Bug Bounties to Its Open Source Projects](https://www.darkreading.com/vulnerabilities-threats/google-expands-bug-bounties-to-its-open-source-projects)
 - [Cerberus Sentinel Announces Acquisition of CUATROi](https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi)
 - [A Peek Into CISA&#39;s Post-Quantum Cryptography Roadmap](https://www.darkreading.com/edge-articles/a-peek-into-cisa-s-post-quantum-cryptography-roadmap)
-- [Receipt for €8M iOS Zero-Day Sale Pops Up on Dark Web](https://www.darkreading.com/vulnerabilities-threats/receipt-8m-ios-zero-day-sale-dark-web)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
