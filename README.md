@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cerberus Sentinel Announces Acquisition of CUATROi](https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi)
+- [A Peek Into CISA&#39;s Post-Quantum Cryptography Roadmap](https://www.darkreading.com/edge-articles/a-peek-into-cisa-s-post-quantum-cryptography-roadmap)
 - [Receipt for €8M iOS Zero-Day Sale Pops Up on Dark Web](https://www.darkreading.com/vulnerabilities-threats/receipt-8m-ios-zero-day-sale-dark-web)
 - [3 Ways No-Code Developers Can Shoot Themselves in the Foot](https://www.darkreading.com/dr-tech/3-ways-no-code-developers-can-shoot-themselves-in-the-foot)
 - [Cyber-Insurance Firms Limit Payouts, Risk Obsolescence](https://www.darkreading.com/risk/cyber-insurance-firms-limit-payouts-risk-obsolescence)
 - [NATO Investigates Dark Web Leak of Data Stolen From Missile Vendor](https://www.darkreading.com/vulnerabilities-threats/nato-investigates-leak-of-data-stolen-from-missile-vendor)
 - [The 3 Questions CISOs Must Ask to Protect Their Sensitive Data](https://www.darkreading.com/attacks-breaches/the-3-questions-cisos-must-ask-to-protect-their-sensitive-data)
 - [LastPass Suffers Data Breach, Source Code Stolen](https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen)
-- [&#39;Sliver&#39; Emerges as Cobalt Strike Alternative for Malicious C2](https://www.darkreading.com/vulnerabilities-threats/-sliver-cobalt-strike-alternative-malicious-c2)
-- [&#39;No-Party&#39; Data Architectures Promise More Control, Better Security](https://www.darkreading.com/dr-tech/-no-party-data-architectures-promise-more-control-better-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
