@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Building a Strong SOC Starts With People](https://www.darkreading.com/attacks-breaches/building-a-strong-soc-starts-with-people)
 - [Cerberus Sentinel Announces Acquisition of CUATROi](https://www.darkreading.com/cloud/cerberus-sentinel-announces-acquisition-of-cuatroi)
 - [A Peek Into CISA&#39;s Post-Quantum Cryptography Roadmap](https://www.darkreading.com/edge-articles/a-peek-into-cisa-s-post-quantum-cryptography-roadmap)
 - [Receipt for €8M iOS Zero-Day Sale Pops Up on Dark Web](https://www.darkreading.com/vulnerabilities-threats/receipt-8m-ios-zero-day-sale-dark-web)
@@ -83,7 +84,6 @@
 - [Cyber-Insurance Firms Limit Payouts, Risk Obsolescence](https://www.darkreading.com/risk/cyber-insurance-firms-limit-payouts-risk-obsolescence)
 - [NATO Investigates Dark Web Leak of Data Stolen From Missile Vendor](https://www.darkreading.com/vulnerabilities-threats/nato-investigates-leak-of-data-stolen-from-missile-vendor)
 - [The 3 Questions CISOs Must Ask to Protect Their Sensitive Data](https://www.darkreading.com/attacks-breaches/the-3-questions-cisos-must-ask-to-protect-their-sensitive-data)
-- [LastPass Suffers Data Breach, Source Code Stolen](https://www.darkreading.com/cloud/lastpass-data-breach-source-code-stolen)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
