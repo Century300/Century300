@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Google Fixes 24 Vulnerabilities with New Chrome Update](https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version)
+- [Google Fixes 24 Vulnerabilities With New Chrome Update](https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version)
 - [Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack](https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack)
 - [James Webb Telescope Images Loaded With Malware Are Evading EDR](https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr)
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
