@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Inevitability of Cloud Breaches: Tales of Real-World Cloud Attacks](https://www.darkreading.com/cloud/the-inevitability-of-cloud-breaches-tales-of-real-world-cloud-attacks-)
 - [SecureAuth Announces General Availability of Arculix, Its Next-Gen Passwordless, Continuous-Authentication Platform](https://www.darkreading.com/endpoint/secureauth-announces-general-availability-of-arculix-its-next-gen-passwordless-continuous-authentication-platform)
 - [New ODGen Tool Unearths 180 Zero-Days in Node.js Libraries](https://www.darkreading.com/dr-tech/new-odgen-tool-unearths-180-zero-days-in-node-js-libraries)
 - [Don&#39;t Let &#39;Perfect&#39; Be the Enemy of a Good AppSec Program](https://www.darkreading.com/edge-articles/don-t-let-perfect-be-the-enemy-of-a-good-appsec-program)
@@ -83,7 +84,6 @@
 - [Chinese Hackers Target Energy Sector in Australia, South China Sea](https://www.darkreading.com/vulnerabilities-threats/chinese-hackers-target-energy-sector-australia-south-china-sea)
 - [Security Culture: An OT Survival Story](https://www.darkreading.com/operations/security-culture-an-ot-survival-story)
 - [Cohesity Research Reveals that Reliance on Legacy Technology Is Undermining How Organizations Respond to Ransomware](https://www.darkreading.com/attacks-breaches/cohesity-research-reveals-that-reliance-on-legacy-technology-is-undermining-how-organizations-respond-to-ransomware)
-- [Phishing Campaign Targets PyPI Users to Distribute Malicious Code](https://www.darkreading.com/cloud/phishing-campaign-targets-pypi-users-to-distribute-malicious-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
