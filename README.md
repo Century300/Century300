@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Neopets Hackers Had Network Access for 18 Months](https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months)
+- [Threat Actor Phishing PyPI Users Identified](https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users)
+- [Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams](https://www.darkreading.com/iot/iot-bug-disclosure-security-teams)
 - [New Guidelines Spell Out How to Test IoT Security Products](https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products)
 - [Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects](https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects)
 - [Apple Quietly Releases Another Patch for Zero-Day RCE Bug](https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug)
 - [&lpar;ISC&rpar;&lpar;2&rpar; Launches &#39;Certified in Cybersecurity&#39; Entry-Level Certification to Address Global Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap)
 - [Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation](https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation)
-- [Closing the Security Gap Opened by the Rise of No-Code Tools](https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools)
-- [Google Fixes 24 Vulnerabilities With New Chrome Update](https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version)
-- [Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack](https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
