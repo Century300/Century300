@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
 - [Neopets Hackers Had Network Access for 18 Months](https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months)
 - [Threat Actor Phishing PyPI Users Identified](https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users)
 - [Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams](https://www.darkreading.com/iot/iot-bug-disclosure-security-teams)
 - [New Guidelines Spell Out How to Test IoT Security Products](https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products)
 - [Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects](https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects)
 - [Apple Quietly Releases Another Patch for Zero-Day RCE Bug](https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug)
-- [&lpar;ISC&rpar;&lpar;2&rpar; Launches &#39;Certified in Cybersecurity&#39; Entry-Level Certification to Address Global Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap)
-- [Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation](https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation)
+- [&lpar;ISC&rpar;² Launches &#39;Certified in Cybersecurity&#39; Entry-Level Certification to Address Global Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
