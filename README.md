@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Closing the Security Gap Opened by the Rise of No-Code Tools](https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools)
 - [Google Fixes 24 Vulnerabilities With New Chrome Update](https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version)
 - [Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack](https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack)
 - [James Webb Telescope Images Loaded With Malware Are Evading EDR](https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr)
@@ -83,7 +84,6 @@
 - [OpenText Goes All-in on Cybersecurity Size and Scale With Micro Focus Purchase](https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase)
 - [&lpar;ISC&rpar;² Opens Global Enrollment for &#39;1 Million Certified in Cybersecurity&#39; Initiative](https://www.darkreading.com/careers-and-people/-isc-opens-global-enrollment-for-1-million-certified-in-cybersecurity-initiative)
 - [TikTok for Android Bug Allows Single-Click Account Hijack](https://www.darkreading.com/vulnerabilities-threats/tiktok-android-bug-allows-single-click-account-hijack)
-- [The Inevitability of Cloud Breaches: Tales of Real-World Cloud Attacks](https://www.darkreading.com/cloud/the-inevitability-of-cloud-breaches-tales-of-real-world-cloud-attacks-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
