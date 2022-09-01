@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Quietly Releases Another Patch for Zero-Day RCE Bug](https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug)
 - [&lpar;ISC&rpar;&lpar;2&rpar; Launches &#39;Certified in Cybersecurity&#39; Entry-Level Certification to Address Global Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap)
 - [Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation](https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation)
 - [Closing the Security Gap Opened by the Rise of No-Code Tools](https://www.darkreading.com/dr-tech/closing-the-security-gap-opened-by-the-rise-of-no-code-tools)
@@ -83,7 +84,6 @@
 - [Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack](https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack)
 - [James Webb Telescope Images Loaded With Malware Are Evading EDR](https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr)
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
-- [OpenText Goes All-in on Cybersecurity Size and Scale With Micro Focus Purchase](https://www.darkreading.com/omdia/opentext-goes-all-in-on-cybersecurity-size-and-scale-with-micro-focus-purchase)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
