@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects](https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects)
 - [Apple Quietly Releases Another Patch for Zero-Day RCE Bug](https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug)
 - [&lpar;ISC&rpar;&lpar;2&rpar; Launches &#39;Certified in Cybersecurity&#39; Entry-Level Certification to Address Global Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-2-launches-certified-in-cybersecurity-entry-level-certification-to-address-global-workforce-gap)
 - [Real-World Cloud Attacks: The True Tasks of Cloud Ransomware Mitigation](https://www.darkreading.com/cloud/real-world-cloud-attacks-true-tasks-of-cloud-ransomware-mitigation)
@@ -83,7 +84,6 @@
 - [Google Fixes 24 Vulnerabilities With New Chrome Update](https://www.darkreading.com/vulnerabilities-threats/google-fixes-24-browser-vulnerabilities-with-chrome-105-version)
 - [Crypto-Crooks Spread Trojanized Google Translate App in Watering-Hole Attack](https://www.darkreading.com/vulnerabilities-threats/crypto-crooks-trojanized-google-translate-app-watering-hole-attack)
 - [James Webb Telescope Images Loaded With Malware Are Evading EDR](https://www.darkreading.com/vulnerabilities-threats/james-webb-telescope-images-loaded-with-malware-are-evading-edr)
-- [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
