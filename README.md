@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
+- [Ragnar Locker Brags About TAP Air Portugal Breach](https://www.darkreading.com/attacks-breaches/ragnar-locker-brags-tap-air-portugal-data)
 - [Ghost Data Increases Enterprise Business Risk](https://www.darkreading.com/edge-threat-monitor/ghost-data-increases-enterprise-business-risk)
 - [Neopets Hackers Had Network Access for 18 Months](https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months)
 - [Threat Actor Phishing PyPI Users Identified](https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users)
 - [Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams](https://www.darkreading.com/iot/iot-bug-disclosure-security-teams)
 - [New Guidelines Spell Out How to Test IoT Security Products](https://www.darkreading.com/dr-tech/new-guidelines-spell-out-how-to-test-iot-security-products)
 - [Code-Injection Bugs Bite Google, Apache Open Source GitHub Projects](https://www.darkreading.com/vulnerabilities-threats/code-injection-bugs-google-apache-open-source-github-projects)
-- [Apple Quietly Releases Another Patch for Zero-Day RCE Bug](https://www.darkreading.com/vulnerabilities-threats/apple-patch-zero-day-rce-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
