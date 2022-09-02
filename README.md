@@ -79,7 +79,7 @@
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
 - [Feds, npm Issue Supply Chain Security Guidance to Avert Another SolarWinds](https://www.darkreading.com/attacks-breaches/supply-chain-security-guidance-feds-npm-solarwinds)
 - [Researchers Spot Snowballing BianLian Ransomware Gang Activity](https://www.darkreading.com/vulnerabilities-threats/researchers-snowballing-bianlian-ransomware-gang-activity)
-- [4 Scenarios for the Digital World of 2040](https://www.darkreading.com/dr-tech/4-scenarios-for-the-digital-world-of-2040)
+- [4 Scenarios for the Digital World of 2040](https://www.darkreading.com/the-cyber-future/4-scenarios-for-the-digital-world-of-2040)
 - [Raspberry Robin Malware Connected to Russian Evil Corp Gang](https://www.darkreading.com/threat-intelligence/raspberry-robin-malware-russian-evil-corp)
 - [AWS Tokens Lurking in Android, iOS Apps Crack Open Corporate Cloud Data](https://www.darkreading.com/cloud/aws-tokens-android-ios-apps-corporate-cloud-data)
 - [The Makings of a Successful Threat-Hunting Program](https://www.darkreading.com/threat-intelligence/the-makings-of-a-successful-threat-hunting-program)
