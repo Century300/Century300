@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
+- [4 Scenarios for the Digital World of 2040](https://www.darkreading.com/dr-tech/4-scenarios-for-the-digital-world-of-2040)
 - [AWS Tokens Lurking in Android, iOS Apps Crack Open Corporate Cloud Data](https://www.darkreading.com/cloud/aws-tokens-android-ios-apps-corporate-cloud-data)
 - [The Makings of a Successful Threat-Hunting Program](https://www.darkreading.com/threat-intelligence/the-makings-of-a-successful-threat-hunting-program)
 - [Ragnar Locker Brags About TAP Air Portugal Breach](https://www.darkreading.com/attacks-breaches/ragnar-locker-brags-tap-air-portugal-data)
 - [Ghost Data Increases Enterprise Business Risk](https://www.darkreading.com/edge-threat-monitor/ghost-data-increases-enterprise-business-risk)
 - [Neopets Hackers Had Network Access for 18 Months](https://www.darkreading.com/attacks-breaches/neopets-hackers-network-access-18-months)
 - [Threat Actor Phishing PyPI Users Identified](https://www.darkreading.com/application-security/researchers-identify-threat-actor-behind-recent-phishing-attack-targeting-pypi-users)
-- [Skyrocketing IoT Bug Disclosures Put Pressure on Security Teams](https://www.darkreading.com/iot/iot-bug-disclosure-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
