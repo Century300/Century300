@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Botnets in the Age of Remote Work](https://www.darkreading.com/attacks-breaches/botnets-in-the-age-of-remote-work)
+- [EvilProxy Commodifies Reverse-Proxy Tactic for Phishing, Bypassing 2FA](https://www.darkreading.com/vulnerabilities-threats/evilproxy-commodifies-reverse-proxy-tactic-phishing-bypassing-2fa)
 - [Defenders Be Prepared: Cyberattacks Surge Against Linux Amid Cloud Migration](https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration)
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
 - [3 Critical Steps for Reducing Cloud Risk](https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk)
 - [Feds, npm Issue Supply Chain Security Guidance to Avert Another SolarWinds](https://www.darkreading.com/attacks-breaches/supply-chain-security-guidance-feds-npm-solarwinds)
 - [Researchers Spot Snowballing BianLian Ransomware Gang Activity](https://www.darkreading.com/vulnerabilities-threats/researchers-snowballing-bianlian-ransomware-gang-activity)
 - [4 Scenarios for the Digital World of 2040](https://www.darkreading.com/the-cyber-future/4-scenarios-for-the-digital-world-of-2040)
-- [Raspberry Robin Malware Connected to Russian Evil Corp Gang](https://www.darkreading.com/threat-intelligence/raspberry-robin-malware-russian-evil-corp)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
