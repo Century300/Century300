@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Defenders Be Prepared: Cyberattacks Surge Against Linux Amid Cloud Migration](https://www.darkreading.com/application-security/defenders-prepared-cyberattacks-linux-cloud-migration)
 - [The Pros and Cons of Managed Firewalls](https://www.darkreading.com/attacks-breaches/the-pros-and-cons-of-managed-firewalls)
+- [3 Critical Steps for Reducing Cloud Risk](https://www.darkreading.com/cloud/3-critical-steps-for-reducing-cloud-risk)
 - [Feds, npm Issue Supply Chain Security Guidance to Avert Another SolarWinds](https://www.darkreading.com/attacks-breaches/supply-chain-security-guidance-feds-npm-solarwinds)
 - [Researchers Spot Snowballing BianLian Ransomware Gang Activity](https://www.darkreading.com/vulnerabilities-threats/researchers-snowballing-bianlian-ransomware-gang-activity)
 - [4 Scenarios for the Digital World of 2040](https://www.darkreading.com/the-cyber-future/4-scenarios-for-the-digital-world-of-2040)
 - [Raspberry Robin Malware Connected to Russian Evil Corp Gang](https://www.darkreading.com/threat-intelligence/raspberry-robin-malware-russian-evil-corp)
 - [AWS Tokens Lurking in Android, iOS Apps Crack Open Corporate Cloud Data](https://www.darkreading.com/cloud/aws-tokens-android-ios-apps-corporate-cloud-data)
-- [The Makings of a Successful Threat-Hunting Program](https://www.darkreading.com/threat-intelligence/the-makings-of-a-successful-threat-hunting-program)
-- [Ragnar Locker Brags About TAP Air Portugal Breach](https://www.darkreading.com/attacks-breaches/ragnar-locker-brags-tap-air-portugal-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
