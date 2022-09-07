@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [Holiday Inn Owner InterContinental Has a Breach Trend](https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend)
 - [Fighting Ransomware Takes an Army: Our Public &amp; Private Sector Soldiers Join Forces](https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-our-public-private-sector-soldiers-join-forces)
 - [How Can I Protect My SaaS Apps Amid Employee Turnover?](https://www.darkreading.com/edge-ask-the-experts/how-can-i-protect-my-saas-apps-amid-employee-turnover-)
 - [Next-Gen Linux Malware Takes Over Devices With Unique Toolset](https://www.darkreading.com/vulnerabilities-threats/next-gen-linux-malware-takes-over-devices-unique-toolset)
 - [Iran-Linked APT Cozies Up to &#39;Enemies&#39; in Trust-Based Spy Game](https://www.darkreading.com/vulnerabilities-threats/iran-linked-apt-cozies-up-enemies-trust-based-spy-game)
 - [Some Employees Aren&#39;t Just Leaving Companies — They&#39;re Defrauding Them](https://www.darkreading.com/vulnerabilities-threats/some-employees-aren-t-just-leaving-companies-they-re-defrauding-them)
 - [Mysterious &#39;Worok&#39; Group Launches Spy Effort With Obfuscated Code, Private Tools](https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools)
-- [TeslaGun Primed to Blast a New Wave of Backdoor Cyberattacks](https://www.darkreading.com/operations/teslagun-blast-new-wave-backdoor-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
