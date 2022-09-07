@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [Some Employees Aren&#39;t Just Leaving Companies — They&#39;re Defrauding Them](https://www.darkreading.com/vulnerabilities-threats/some-employees-aren-t-just-leaving-companies-they-re-defrauding-them)
 - [Mysterious &#39;Worok&#39; Group Launches Spy Effort With Obfuscated Code, Private Tools](https://www.darkreading.com/attacks-breaches/mysterious-worok-spy-obfuscated-code-private-tools)
 - [TeslaGun Primed to Blast a New Wave of Backdoor Cyberattacks](https://www.darkreading.com/operations/teslagun-blast-new-wave-backdoor-cyberattacks)
 - [As LA Unified Battles Ransomware, CISA Warns About Back-to-School Attacks](https://www.darkreading.com/attacks-breaches/la-unified-ransomware-cisa-warns-back-to-school-attacks)
 - [Name That Edge Toon: Mime&#39;s the Word](https://www.darkreading.com/edge-articles/name-that-edge-toon-mime-s-the-word)
 - [Internet Security &amp; Encryption Pioneer Peter Eckersley Passes at 43](https://www.darkreading.com/careers-and-people/internet-security-encryption-pioneer-peter-eckersley-passes)
 - [Critical QNAP NAS Zero-Day Bug Exploited to Deliver DeadBolt Ransomware](https://www.darkreading.com/vulnerabilities-threats/critical-qnap-nas-zero-day-bug-exploited-deadbolt-ransomware)
-- [The 3 Fundamentals of Building an Effective IoMT Security Strategy](https://www.darkreading.com/dr-tech/the-3-fundamentals-of-building-an-effective-iomt-security-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
