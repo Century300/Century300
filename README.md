@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [5 Keys to Better Key Management](https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management)
+- [Meta to Appeal $400M GDPR Fine for Mishandling Teen Data in Instagram](https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data)
 - [Vulnerability Exploits, Not Phishing, Are the Top Cyberattack Vector for Initial Compromise](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise)
 - [Former Conti Ransomware Members Join Initial Access Broker Group Targeting Ukraine](https://www.darkreading.com/threat-intelligence/former-conti-ransomware-members-join-initial-access-broker-ukraine)
 - [Everything You Need To Know About BlackCat &lpar;AlphaV&rpar;](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-)
 - [SaaS Alerts Secures $22M Investment from Insight Partners to Scale SaaS Security Monitoring and Response Platform](https://www.darkreading.com/risk/saas-alerts-secures-22m-investment-from-insight-partners-to-scale-saas-security-monitoring-and-response-platform)
 - [Pen Testing Evolves for the DevSecOps World](https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world)
-- [Holiday Inn Owner InterContinental Has a Breach Trend](https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend)
-- [Fighting Ransomware Takes an Army: Our Public &amp; Private Sector Soldiers Join Forces](https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-our-public-private-sector-soldiers-join-forces)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
