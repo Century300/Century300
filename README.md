@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
 - [Everything You Need To Know About BlackCat &lpar;AlphaV&rpar;](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-)
+- [SaaS Alerts Secures $22M Investment from Insight Partners to Scale SaaS Security Monitoring and Response Platform](https://www.darkreading.com/risk/saas-alerts-secures-22m-investment-from-insight-partners-to-scale-saas-security-monitoring-and-response-platform)
 - [Pen Testing Evolves for the DevSecOps World](https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world)
 - [Holiday Inn Owner InterContinental Has a Breach Trend](https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend)
 - [Fighting Ransomware Takes an Army: Our Public &amp; Private Sector Soldiers Join Forces](https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-our-public-private-sector-soldiers-join-forces)
 - [How Can I Protect My SaaS Apps Amid Employee Turnover?](https://www.darkreading.com/edge-ask-the-experts/how-can-i-protect-my-saas-apps-amid-employee-turnover-)
 - [Next-Gen Linux Malware Takes Over Devices With Unique Tool Set](https://www.darkreading.com/vulnerabilities-threats/next-gen-linux-malware-takes-over-devices-unique-toolset)
-- [Iran-Linked APT Cozies Up to &#39;Enemies&#39; in Trust-Based Spy Game](https://www.darkreading.com/vulnerabilities-threats/iran-linked-apt-cozies-up-enemies-trust-based-spy-game)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
