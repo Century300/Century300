@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
-- [Pentesting Evolves for the DevSecOps World](https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world)
+- [Everything You Need To Know About BlackCat &lpar;AlphaV&rpar;](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-)
+- [Pen Testing Evolves for the DevSecOps World](https://www.darkreading.com/dr-tech/pentesting-evolves-for-the-devsecops-world)
 - [Holiday Inn Owner InterContinental Has a Breach Trend](https://www.darkreading.com/attacks-breaches/holiday-inn-owner-intercontinental-breach-trend)
 - [Fighting Ransomware Takes an Army: Our Public &amp; Private Sector Soldiers Join Forces](https://www.darkreading.com/attacks-breaches/fighting-ransomware-takes-an-army-our-public-private-sector-soldiers-join-forces)
 - [How Can I Protect My SaaS Apps Amid Employee Turnover?](https://www.darkreading.com/edge-ask-the-experts/how-can-i-protect-my-saas-apps-amid-employee-turnover-)
 - [Next-Gen Linux Malware Takes Over Devices With Unique Tool Set](https://www.darkreading.com/vulnerabilities-threats/next-gen-linux-malware-takes-over-devices-unique-toolset)
 - [Iran-Linked APT Cozies Up to &#39;Enemies&#39; in Trust-Based Spy Game](https://www.darkreading.com/vulnerabilities-threats/iran-linked-apt-cozies-up-enemies-trust-based-spy-game)
-- [Some Employees Aren&#39;t Just Leaving Companies — They&#39;re Defrauding Them](https://www.darkreading.com/vulnerabilities-threats/some-employees-aren-t-just-leaving-companies-they-re-defrauding-them)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
