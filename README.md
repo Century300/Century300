@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [Why Ports Are at Risk of Cyberattacks](https://www.darkreading.com/attacks-breaches/why-ports-are-at-risk-of-cyberattacks)
 - [Darktrace Shares Plunge After Thoma Bravo Acquisition Falls Apart](https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition)
 - [A Pragmatic Response to the Quantum Threat](https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat)
 - [5 Keys to Better Key Management](https://www.darkreading.com/vulnerabilities-threats/5-keys-to-better-key-management)
 - [Meta to Appeal $400M GDPR Fine for Mishandling Teen Data in Instagram](https://www.darkreading.com/application-security/meta-appeal-400m-fine-mishandling-instagram-teen-data)
 - [Vulnerability Exploits, Not Phishing, Are the Top Cyberattack Vector for Initial Compromise](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploits-phishing-top-attack-vector-initial-compromise)
 - [Former Conti Ransomware Members Join Initial Access Broker Group Targeting Ukraine](https://www.darkreading.com/threat-intelligence/former-conti-ransomware-members-join-initial-access-broker-ukraine)
-- [Everything You Need To Know About BlackCat &lpar;AlphaV&rpar;](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-blackcat-alphav-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
