@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Business Security Starts With Identity](https://www.darkreading.com/operations/business-security-starts-with-identity)
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [Monti, the New Conti: Ransomware Gang Uses Recycled Code](https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code)
 - [Attackers Exploit Zero-Day WordPress Plug-in Vulnerability in BackupBuddy](https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy)
 - [US Sanctions Iran Over APT Cyberattack Activity](https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity)
 - [Microsoft, Cloud Providers Move to Ban Basic Authentication](https://www.darkreading.com/cloud/microsoft-cloud-providers-ban-basic-authentication)
 - [LockBit, ALPHV &amp; Other Ransomware Gang Leak Sites Hit by DDoS Attacks](https://www.darkreading.com/threat-intelligence/lockbit-alphv-ransomware-gang-leak-sites-ddos-attacks)
 - [Why Ports Are at Risk of Cyberattacks](https://www.darkreading.com/attacks-breaches/why-ports-are-at-risk-of-cyberattacks)
-- [Darktrace Shares Plunge After Thoma Bravo Acquisition Falls Apart](https://www.darkreading.com/threat-intelligence/darktrace-shares-plunge-after-thoma-bravo-acquisition)
-- [A Pragmatic Response to the Quantum Threat](https://www.darkreading.com/dr-tech/a-pragmatic-response-to-the-quantum-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
