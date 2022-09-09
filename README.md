@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Business Security Starts With Identity](https://www.darkreading.com/operations/business-security-starts-with-identity)
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
+- [Zane Lackey: &#39;Technology Is the Easy Bit&#39;](https://www.darkreading.com/edge-articles/zane-lackey-technology-is-the-easy-bit-)
 - [Monti, the New Conti: Ransomware Gang Uses Recycled Code](https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code)
 - [Attackers Exploit Zero-Day WordPress Plug-in Vulnerability in BackupBuddy](https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy)
 - [US Sanctions Iran Over APT Cyberattack Activity](https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity)
