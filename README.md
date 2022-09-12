@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Federal Privacy Bill That Would Preempt State Privacy Laws Faces Uncertain Future](https://www.darkreading.com/edge-articles/federal-privacy-bill-that-would-preempt-state-privacy-laws-faces-uncertain-future)
+- [Cisco Data Breach Attributed to Lapsus$ Ransomware Group](https://www.darkreading.com/attacks-breaches/cisco-data-breach-lapsus-ransomware-group)
 - [Cybersecurity Awareness Campaigns: How Effective Are They in Changing Behavior?](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-awareness-campaigns-how-effective-are-they-in-changing-behavior-)
 - [Google Completes Acquisition of Mandiant](https://www.darkreading.com/threat-intelligence/google-completes-acquisition-of-mandiant)
 - [Security Awareness Training Must Evolve to Align With Growing E-Commerce Security Threats](https://www.darkreading.com/vulnerabilities-threats/security-awareness-training-must-evolve-to-align-with-growing-e-commerce-security-threats)
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
 - [Zane Lackey: &#39;Technology Is the Easy Bit&#39;](https://www.darkreading.com/edge-articles/zane-lackey-technology-is-the-easy-bit-)
 - [Monti, the New Conti: Ransomware Gang Uses Recycled Code](https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code)
-- [Attackers Exploit Zero-Day WordPress Plug-in Vulnerability in BackupBuddy](https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy)
-- [US Sanctions Iran Over APT Cyberattack Activity](https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
