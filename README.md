@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Completes Acquisition of Mandiant](https://www.darkreading.com/threat-intelligence/google-completes-acquisition-of-mandiant)
+- [Security Awareness Training Must Evolve to Align With Growing E-Commerce Security Threats](https://www.darkreading.com/vulnerabilities-threats/security-awareness-training-must-evolve-to-align-with-growing-e-commerce-security-threats)
 - [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
 - [Zane Lackey: &#39;Technology Is the Easy Bit&#39;](https://www.darkreading.com/edge-articles/zane-lackey-technology-is-the-easy-bit-)
 - [Monti, the New Conti: Ransomware Gang Uses Recycled Code](https://www.darkreading.com/vulnerabilities-threats/monti-conti-ransomware-recycled-code)
 - [Attackers Exploit Zero-Day WordPress Plug-in Vulnerability in BackupBuddy](https://www.darkreading.com/attacks-breaches/attackers-exploit-zero-day-wordpress-plugin-vulnerability-backupbuddy)
 - [US Sanctions Iran Over APT Cyberattack Activity](https://www.darkreading.com/vulnerabilities-threats/us-sanctions-iran-apt-cyberattack-activity)
 - [Microsoft, Cloud Providers Move to Ban Basic Authentication](https://www.darkreading.com/cloud/microsoft-cloud-providers-ban-basic-authentication)
-- [LockBit, ALPHV &amp; Other Ransomware Gang Leak Sites Hit by DDoS Attacks](https://www.darkreading.com/threat-intelligence/lockbit-alphv-ransomware-gang-leak-sites-ddos-attacks)
-- [Why Ports Are at Risk of Cyberattacks](https://www.darkreading.com/attacks-breaches/why-ports-are-at-risk-of-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
