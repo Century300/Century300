@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Can Compromise Most Cloud Data in Just 3 Steps](https://www.darkreading.com/cloud/cyberattackers-compromise-most-cloud-data-3-steps)
 - [How Machine Learning Can Boost Network Visibility for OT Teams](https://www.darkreading.com/dr-tech/how-machine-learning-can-boost-network-visibility-for-ot-teams)
 - [Google Releases Pixel Patches for Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/google-releases-pixel-patches-critical-bugs)
 - [Federal Privacy Bill That Would Preempt State Privacy Laws Faces Uncertain Future](https://www.darkreading.com/edge-articles/federal-privacy-bill-that-would-preempt-state-privacy-laws-faces-uncertain-future)
@@ -83,7 +84,6 @@
 - [Cybersecurity Awareness Campaigns: How Effective Are They in Changing Behavior?](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-awareness-campaigns-how-effective-are-they-in-changing-behavior-)
 - [Google Completes Acquisition of Mandiant](https://www.darkreading.com/threat-intelligence/google-completes-acquisition-of-mandiant)
 - [Security Awareness Training Must Evolve to Align With Growing E-Commerce Security Threats](https://www.darkreading.com/vulnerabilities-threats/security-awareness-training-must-evolve-to-align-with-growing-e-commerce-security-threats)
-- [Report Highlights Prevalence of Software Supply Chain Risks](https://www.darkreading.com/application-security/report-highlights-prevalence-of-software-supply-chain-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
