@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [U-Haul Customer Contract Search Tool Compromised](https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised)
+- [ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools](https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage)
+- [Cyberattackers Abuse Facebook Ad Manager in Savvy Credential-Harvesting Campaign](https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign)
 - [Name That Toon: Shiver Me Timbers!](https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-)
 - [Opus Security Emerges from Stealth with $10M in Funding for Cloud SecOps and Remediation Processes](https://www.darkreading.com/cloud/opus-security-emerges-from-stealth-with-10m-in-funding-for-cloud-secops-and-remediation-processes)
 - [Arcserve Independent Global Study Finds Businesses Still Losing Mission-Critical Company Data](https://www.darkreading.com/operations/arcserve-independent-global-study-finds-businesses-still-losing-mission-critical-company-data)
 - [Lorenz Ransomware Goes After SMBs via Mitel VoIP Phone Systems](https://www.darkreading.com/vulnerabilities-threats/lorenz-ransomware-smbs-mitel-voip-phone-systems)
 - [Business Security Starts With Identity](https://www.darkreading.com/operations/business-security-starts-with-identity)
-- [Gartner Survey Shows 75% of Organizations Are Pursuing Security Vendor Consolidation in 2022](https://www.darkreading.com/risk/gartner-survey-shows-75-of-organizations-are-pursuing-security-vendor-consolidation-in-2022)
-- [Attackers Can Compromise Most Cloud Data in Just 3 Steps](https://www.darkreading.com/cloud/cyberattackers-compromise-most-cloud-data-3-steps)
-- [How Machine Learning Can Boost Network Visibility for OT Teams](https://www.darkreading.com/dr-tech/how-machine-learning-can-boost-network-visibility-for-ot-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
