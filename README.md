@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bishop Fox Releases Cloud Enumeration Tool CloudFox](https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox)
 - [Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs)
 - [U-Haul Customer Contract Search Tool Compromised](https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised)
 - [ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools](https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage)
@@ -83,7 +84,6 @@
 - [Name That Toon: Shiver Me Timbers!](https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-)
 - [Opus Security Emerges from Stealth with $10M in Funding for Cloud SecOps and Remediation Processes](https://www.darkreading.com/cloud/opus-security-emerges-from-stealth-with-10m-in-funding-for-cloud-secops-and-remediation-processes)
 - [Arcserve Independent Global Study Finds Businesses Still Losing Mission-Critical Company Data](https://www.darkreading.com/operations/arcserve-independent-global-study-finds-businesses-still-losing-mission-critical-company-data)
-- [Lorenz Ransomware Goes After SMBs via Mitel VoIP Phone Systems](https://www.darkreading.com/vulnerabilities-threats/lorenz-ransomware-smbs-mitel-voip-phone-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
