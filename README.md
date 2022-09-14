@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Use SSH Keys and 1Password to Sign Git Commits](https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits)
 - [SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign](https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign)
 - [Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly](https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly)
 - [To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline](https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline)
-- [TeamTNT Hits 150K Docker Containers via Malicious Cloud Images](https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images)
+- [TeamTNT Hits Docker Containers via 150K Malicious Cloud Image Pulls](https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images)
 - [Key Takeaways From the Twitter Whistleblower&#39;s Testimony](https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony)
 - [Bishop Fox Releases Cloud Enumeration Tool CloudFox](https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox)
 - [Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs)
-- [U-Haul Customer Contract Search Tool Compromised](https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
