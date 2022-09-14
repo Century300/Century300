@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Guidance Recommends SBOMs for Federal Agencies](https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies)
 - [How to Use SSH Keys and 1Password to Sign Git Commits](https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits)
 - [SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign](https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign)
 - [Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly](https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly)
@@ -83,7 +84,6 @@
 - [TeamTNT Hits Docker Containers via 150K Malicious Cloud Image Pulls](https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images)
 - [Key Takeaways From the Twitter Whistleblower&#39;s Testimony](https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony)
 - [Bishop Fox Releases Cloud Enumeration Tool CloudFox](https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox)
-- [Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
