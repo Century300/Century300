@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly](https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly)
+- [To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline](https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline)
 - [TeamTNT Hits 150K Docker Containers via Malicious Cloud Images](https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images)
 - [Key Takeaways From the Twitter Whistleblower&#39;s Testimony](https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony)
 - [Bishop Fox Releases Cloud Enumeration Tool CloudFox](https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox)
 - [Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs)
 - [U-Haul Customer Contract Search Tool Compromised](https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised)
 - [ShadowPad Threat Actors Return With Fresh Government Strikes, Updated Tools](https://www.darkreading.com/attacks-breaches/shadowpad-threat-actor-dll-sideloading-espionage)
-- [Cyberattackers Abuse Facebook Ad Manager in Savvy Credential-Harvesting Campaign](https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign)
-- [Name That Toon: Shiver Me Timbers!](https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
