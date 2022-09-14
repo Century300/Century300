@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Key Takeaways From the Twitter Whistleblower&#39;s Testimony](https://www.darkreading.com/edge-articles/key-takeaways-from-the-twitter-whistleblower-s-testimony)
 - [Bishop Fox Releases Cloud Enumeration Tool CloudFox](https://www.darkreading.com/dr-tech/bishopfox-releases-cloud-enumeration-tool-cloudfox)
 - [Microsoft Quashes Actively Exploited Zero-Day, Wormable Critical Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-quashes-actively-exploited-zero-day-wormable-critical-bugs)
 - [U-Haul Customer Contract Search Tool Compromised](https://www.darkreading.com/attacks-breaches/u-haul-customer-contract-search-tool-compromised)
@@ -83,7 +84,6 @@
 - [Cyberattackers Abuse Facebook Ad Manager in Savvy Credential-Harvesting Campaign](https://www.darkreading.com/attacks-breaches/cyberattackers-abuse-facebook-ad-manager-credential-harvesting-campaign)
 - [Name That Toon: Shiver Me Timbers!](https://www.darkreading.com/attacks-breaches/name-that-toon-shiver-me-timbers-)
 - [Opus Security Emerges from Stealth with $10M in Funding for Cloud SecOps and Remediation Processes](https://www.darkreading.com/cloud/opus-security-emerges-from-stealth-with-10m-in-funding-for-cloud-secops-and-remediation-processes)
-- [Arcserve Independent Global Study Finds Businesses Still Losing Mission-Critical Company Data](https://www.darkreading.com/operations/arcserve-independent-global-study-finds-businesses-still-losing-mission-critical-company-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
