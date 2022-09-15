@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Fortanix Raises $90M in Series C Funding Led by Goldman Sachs Asset Management to Accelerate Leadership in the Data Security Market](https://www.darkreading.com/cloud/fortanix-raises-90m-in-series-c-funding-led-by-goldman-sachs-asset-management-to-accelerate-leadership-in-the-data-security-market)
+- [5 Best Practices for Building Your Data Loss Prevention Strategy](https://www.darkreading.com/attacks-breaches/5-best-practices-for-building-your-data-loss-prevention-strategy)
+- [Fortanix Raises $90M in Series C Funding Led by Goldman Sachs Asset Management](https://www.darkreading.com/cloud/fortanix-raises-90m-in-series-c-funding-led-by-goldman-sachs-asset-management-to-accelerate-leadership-in-the-data-security-market)
 - [Token-Mining Weakness in Microsoft Teams Makes for Perfect Phish](https://www.darkreading.com/vulnerabilities-threats/token-mining-weakness-microsoft-teams-perfect-phish)
 - [White House Guidance Recommends SBOMs for Federal Agencies](https://www.darkreading.com/application-security/white-house-guidance-recommends-sboms-federal-agencies)
 - [How to Use SSH Keys and 1Password to Sign Git Commits](https://www.darkreading.com/dr-tech/how-to-use-ssh-keys-and-1password-to-sign-git-commits)
 - [SparklingGoblin Updates Linux Version of SideWalk Backdoor in Ongoing Cyber Campaign](https://www.darkreading.com/attacks-breaches/sparklinggoblin-updates-linux-version-of-sidewalk-backdoor-cyber-campaign)
 - [Cyberattacks Are Now Increasingly Hands-On, Break Out More Quickly](https://www.darkreading.com/threat-intelligence/attacks-increasingly-hands-on-break-out-more-quickly)
 - [To Ease the Cybersecurity Worker Shortage, Broaden the Candidate Pipeline](https://www.darkreading.com/careers-and-people/to-ease-the-cybersecurity-worker-shortage-broaden-the-candidate-pipeline)
-- [TeamTNT Hits Docker Containers via 150K Malicious Cloud Image Pulls](https://www.darkreading.com/cloud/teamtnt-docker-containers-malicious-cloud-images)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
