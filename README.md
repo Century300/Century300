@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Highlights of the 2022 Pwnie Awards](https://www.darkreading.com/edge-slideshows/the-highlights-of-the-2022-pwnie-awards)
+- [Business Application Compromise &amp; the Evolving Art of Social Engineering](https://www.darkreading.com/vulnerabilities-threats/business-application-compromise-the-evolving-art-of-social-engineering)
 - [Note to Security Vendors — Companies Are Picking Favorites](https://www.darkreading.com/dr-tech/note-to-security-vendors-companies-are-picking-favorites)
 - [Malware on Pirated Content Sites a Major WFH Risk for Enterprises](https://www.darkreading.com/threat-intelligence/malware-pirated-content-sites-major-wfh-risk-enterprises)
 - [Popular IoT Cameras Need Patching to Fend Off Catastrophic Attacks](https://www.darkreading.com/attacks-breaches/popular-iot-cameras-patching-catastrophic-attacks)
 - [Will the Cloud End the Endpoint?](https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-)
 - [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
 - [Unflagging Iranian Threat Activity Spurs Warnings, Indictments From US Government](https://www.darkreading.com/attacks-breaches/iranian-threat-activity-warnings-indictments-us-government)
-- [Telos Corporation to Help Enterprises Operationalize Cybersecurity Compliance and Regulatory Risks with IBM Security](https://www.darkreading.com/risk/telos-corporation-to-help-enterprises-operationalize-cybersecurity-compliance-and-regulatory-risks-with-ibm-security)
-- [5 Best Practices for Building Your Data Loss Prevention Strategy](https://www.darkreading.com/attacks-breaches/5-best-practices-for-building-your-data-loss-prevention-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
