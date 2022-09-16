@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tackling Financial Fraud With Machine Learning](https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning)
 - [Real Estate Phish Swallows 1,000s of Microsoft 365 Credentials](https://www.darkreading.com/attacks-breaches/real-estate-phish-1000s-credentials-escalating-cyber-risk)
 - [Keep Today&#39;s Encrypted Data From Becoming Tomorrow&#39;s Treasure](https://www.darkreading.com/edge-articles/keep-today-s-encrypted-data-from-becoming-tomorrow-s-treasure)
 - [DDoS Attack Against Eastern Europe Target Sets New Record](https://www.darkreading.com/attacks-breaches/ddos-attack-eastern-europe-target-sets-new-record)
@@ -83,7 +84,6 @@
 - [Highlights of the 2022 Pwnie Awards](https://www.darkreading.com/edge-slideshows/the-highlights-of-the-2022-pwnie-awards)
 - [Business Application Compromise &amp; the Evolving Art of Social Engineering](https://www.darkreading.com/vulnerabilities-threats/business-application-compromise-the-evolving-art-of-social-engineering)
 - [Note to Security Vendors — Companies Are Picking Favorites](https://www.darkreading.com/dr-tech/note-to-security-vendors-companies-are-picking-favorites)
-- [Malware on Pirated Content Sites a Major WFH Risk for Enterprises](https://www.darkreading.com/threat-intelligence/malware-pirated-content-sites-major-wfh-risk-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
