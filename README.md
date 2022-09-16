@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacker Pwns Uber Via Compromised Slack Account](https://www.darkreading.com/attacks-breaches/hacker-pwns-uber-via-compromised-slack-account)
 - [Highlights of the 2022 Pwnie Awards](https://www.darkreading.com/edge-slideshows/the-highlights-of-the-2022-pwnie-awards)
 - [Business Application Compromise &amp; the Evolving Art of Social Engineering](https://www.darkreading.com/vulnerabilities-threats/business-application-compromise-the-evolving-art-of-social-engineering)
 - [Note to Security Vendors — Companies Are Picking Favorites](https://www.darkreading.com/dr-tech/note-to-security-vendors-companies-are-picking-favorites)
@@ -83,7 +84,6 @@
 - [Popular IoT Cameras Need Patching to Fend Off Catastrophic Attacks](https://www.darkreading.com/attacks-breaches/popular-iot-cameras-patching-catastrophic-attacks)
 - [Will the Cloud End the Endpoint?](https://www.darkreading.com/cloud/will-the-cloud-end-the-endpoint-)
 - [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
-- [Unflagging Iranian Threat Activity Spurs Warnings, Indictments From US Government](https://www.darkreading.com/attacks-breaches/iranian-threat-activity-warnings-indictments-us-government)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
