@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack](https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack)
 - [Rockstar Games Confirms &#39;Grand Theft Auto 6&#39; Breach](https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach)
 - [Cyberattackers Make Waves in Hotel Swimming Pool Controls](https://www.darkreading.com/attacks-breaches/breached-controllers-let-attackers-breach-hotel-pools-in-israel)
 - [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
@@ -83,7 +84,6 @@
 - [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
 - [Attacker Apparently Didn&#39;t Have to Breach a Single System to Pwn Uber](https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber)
 - [Tackling Financial Fraud With Machine Learning](https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning)
-- [Real Estate Phish Swallows 1,000s of Microsoft 365 Credentials](https://www.darkreading.com/attacks-breaches/real-estate-phish-1000s-credentials-escalating-cyber-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
