@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Make Waves in Hotel Swimming Pool Controls](https://www.darkreading.com/attacks-breaches/breached-controllers-let-attackers-breach-hotel-pools-in-israel)
 - [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
 - [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
 - [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
@@ -83,7 +84,6 @@
 - [Tackling Financial Fraud With Machine Learning](https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning)
 - [Real Estate Phish Swallows 1,000s of Microsoft 365 Credentials](https://www.darkreading.com/attacks-breaches/real-estate-phish-1000s-credentials-escalating-cyber-risk)
 - [Keep Today&#39;s Encrypted Data From Becoming Tomorrow&#39;s Treasure](https://www.darkreading.com/edge-articles/keep-today-s-encrypted-data-from-becoming-tomorrow-s-treasure)
-- [DDoS Attack Against Eastern Europe Target Sets New Record](https://www.darkreading.com/attacks-breaches/ddos-attack-eastern-europe-target-sets-new-record)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
