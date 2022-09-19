@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
+- [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
 - [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
 - [Attacker Apparently Didn&#39;t Have to Breach a Single System to Pwn Uber](https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber)
 - [Tackling Financial Fraud With Machine Learning](https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning)
 - [Real Estate Phish Swallows 1,000s of Microsoft 365 Credentials](https://www.darkreading.com/attacks-breaches/real-estate-phish-1000s-credentials-escalating-cyber-risk)
 - [Keep Today&#39;s Encrypted Data From Becoming Tomorrow&#39;s Treasure](https://www.darkreading.com/edge-articles/keep-today-s-encrypted-data-from-becoming-tomorrow-s-treasure)
 - [DDoS Attack Against Eastern Europe Target Sets New Record](https://www.darkreading.com/attacks-breaches/ddos-attack-eastern-europe-target-sets-new-record)
-- [Hacker Pwns Uber Via Compromised VPN Account](https://www.darkreading.com/attacks-breaches/hacker-pwns-uber-via-compromised-slack-account)
-- [Highlights of the 2022 Pwnie Awards](https://www.darkreading.com/edge-slideshows/the-highlights-of-the-2022-pwnie-awards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
