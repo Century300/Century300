@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Water Sector Will Benefit From Call for Cyber Hardening of Critical Infrastructure](https://www.darkreading.com/attacks-breaches/water-sector-will-benefit-from-call-for-cyber-hardening-of-critical-infrastructure)
 - [CrowdStrike Investment Spotlights API Security](https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security)
 - [Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack](https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack)
 - [Rockstar Games Confirms &#39;Grand Theft Auto 6&#39; Breach](https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach)
@@ -83,7 +84,6 @@
 - [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
 - [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
 - [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
-- [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
