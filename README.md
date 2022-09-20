@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Investment Spotlights API Security](https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security)
 - [Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack](https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack)
 - [Rockstar Games Confirms &#39;Grand Theft Auto 6&#39; Breach](https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach)
 - [Cyberattackers Make Waves in Hotel Swimming Pool Controls](https://www.darkreading.com/attacks-breaches/breached-controllers-let-attackers-breach-hotel-pools-in-israel)
@@ -83,7 +84,6 @@
 - [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
 - [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
 - [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
-- [Attacker Apparently Didn&#39;t Have to Breach a Single System to Pwn Uber](https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
