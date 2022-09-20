@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Kaspersky EDR Optimum Further Simplifies Protection Against Evasive Threats](https://www.darkreading.com/operations/new-kaspersky-edr-optimum-further-simplifies-protection-against-evasive-threats)
+- [ThreatQuotient Enhances Data-Driven Automation Capabilities With New ThreatQ TDR Orchestrator Features](https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features)
+- [SASE Bucks Economic Uncertainty With Over 30% Growth in 2Q 2022, According to Dell&#39;Oro Group](https://www.darkreading.com/perimeter/sase-bucks-economic-uncertainty-with-over-30-growth-in-2q-2022-according-to-dell-oro-group)
+- [Invicti Security and ESG Report on How Companies are Shifting for Higher Quality, Secure Application Code](https://www.darkreading.com/application-security/invicti-security-and-esg-report-on-how-companies-are-shifting-for-higher-quality-secure-application-code)
+- [Byos Releases Free Assessment Tool to Provide Companies with Tailored Network Security Recommendations](https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations)
 - [Water Sector Will Benefit From Call for Cyber Hardening of Critical Infrastructure](https://www.darkreading.com/attacks-breaches/water-sector-will-benefit-from-call-for-cyber-hardening-of-critical-infrastructure)
 - [CrowdStrike Investment Spotlights API Security](https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security)
 - [Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack](https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack)
-- [Rockstar Games Confirms &#39;Grand Theft Auto 6&#39; Breach](https://www.darkreading.com/attacks-breaches/rockstar-games-confirms-grand-theft-auto-6-breach)
-- [Cyberattackers Make Waves in Hotel Swimming Pool Controls](https://www.darkreading.com/attacks-breaches/breached-controllers-let-attackers-breach-hotel-pools-in-israel)
-- [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
-- [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
-- [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
