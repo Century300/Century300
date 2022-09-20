@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Data](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
+- [Cast AI Introduces Cloud Security Insights for Kubernetes](https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes)
+- [Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords](https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords)
 - [Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks](https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks)
 - [How to Dodge New Ransomware Tactics](https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics)
 - [No Enterprise Push for Quantum Without Regulatory Push](https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push)
 - [New Kaspersky EDR Optimum Further Simplifies Protection Against Evasive Threats](https://www.darkreading.com/operations/new-kaspersky-edr-optimum-further-simplifies-protection-against-evasive-threats)
 - [ThreatQuotient Enhances Data-Driven Automation Capabilities With New ThreatQ TDR Orchestrator Features](https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features)
-- [SASE Bucks Economic Uncertainty With Over 30% Growth in 2Q 2022, According to Dell&#39;Oro Group](https://www.darkreading.com/perimeter/sase-bucks-economic-uncertainty-with-over-30-growth-in-2q-2022-according-to-dell-oro-group)
-- [Invicti Security and ESG Report on How Companies are Shifting for Higher Quality, Secure Application Code](https://www.darkreading.com/application-security/invicti-security-and-esg-report-on-how-companies-are-shifting-for-higher-quality-secure-application-code)
-- [Byos Releases Free Assessment Tool to Provide Companies With Tailored Network Security Recommendations](https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
