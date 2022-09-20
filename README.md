@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Data](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
+- [2-Step Email Attack Uses Powtoon Video to Execute Payload](https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload)
+- [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
 - [Cast AI Introduces Cloud Security Insights for Kubernetes](https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes)
 - [Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords](https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords)
 - [Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks](https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks)
 - [How to Dodge New Ransomware Tactics](https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics)
 - [No Enterprise Push for Quantum Without Regulatory Push](https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push)
 - [New Kaspersky EDR Optimum Further Simplifies Protection Against Evasive Threats](https://www.darkreading.com/operations/new-kaspersky-edr-optimum-further-simplifies-protection-against-evasive-threats)
-- [ThreatQuotient Enhances Data-Driven Automation Capabilities With New ThreatQ TDR Orchestrator Features](https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
