@@ -81,9 +81,9 @@
 - [Cyberattackers Make Waves in Hotel Swimming Pool Controls](https://www.darkreading.com/attacks-breaches/breached-controllers-let-attackers-breach-hotel-pools-in-israel)
 - [5 Ways to Improve Fraud Detection and User Experience](https://www.darkreading.com/edge-articles/5-ways-to-improve-fraud-detection-and-user-experience)
 - [TPx Introduces Penetration Scanning, Expands Security Advisory Services](https://www.darkreading.com/operations/tpx-introduces-penetration-scanning-expands-security-advisory-services)
+- [5 Steps to Strengthening Cyber Resilience](https://www.darkreading.com/microsoft/5-steps-to-strengthening-cyber-resilience)
 - [Cyberattack Costs for US Businesses up by 80%](https://www.darkreading.com/attacks-breaches/cyberattack-costs-for-us-businesses-up-by-80-)
 - [Attacker Apparently Didn&#39;t Have to Breach a Single System to Pwn Uber](https://www.darkreading.com/attacks-breaches/attacker-apparently-didnt-breach-single-system-pwn-uber)
-- [Tackling Financial Fraud With Machine Learning](https://www.darkreading.com/edge-articles/tackling-financial-fraud-with-machine-learning)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
