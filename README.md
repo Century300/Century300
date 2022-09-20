@@ -80,7 +80,7 @@
 - [ThreatQuotient Enhances Data-Driven Automation Capabilities With New ThreatQ TDR Orchestrator Features](https://www.darkreading.com/operations/threatquotient-enhances-data-driven-automation-capabilities-with-new-threatq-tdr-orchestrator-features)
 - [SASE Bucks Economic Uncertainty With Over 30% Growth in 2Q 2022, According to Dell&#39;Oro Group](https://www.darkreading.com/perimeter/sase-bucks-economic-uncertainty-with-over-30-growth-in-2q-2022-according-to-dell-oro-group)
 - [Invicti Security and ESG Report on How Companies are Shifting for Higher Quality, Secure Application Code](https://www.darkreading.com/application-security/invicti-security-and-esg-report-on-how-companies-are-shifting-for-higher-quality-secure-application-code)
-- [Byos Releases Free Assessment Tool to Provide Companies with Tailored Network Security Recommendations](https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations)
+- [Byos Releases Free Assessment Tool to Provide Companies With Tailored Network Security Recommendations](https://www.darkreading.com/perimeter/byos-releases-free-assessment-tool-to-provide-companies-with-tailored-network-security-recommendations)
 - [Water Sector Will Benefit From Call for Cyber Hardening of Critical Infrastructure](https://www.darkreading.com/attacks-breaches/water-sector-will-benefit-from-call-for-cyber-hardening-of-critical-infrastructure)
 - [CrowdStrike Investment Spotlights API Security](https://www.darkreading.com/dr-tech/crowdstrike-investment-spotlights-api-security)
 - [Uber: Lapsus$ Targeted External Contractor With MFA Bombing Attack](https://www.darkreading.com/attacks-breaches/uber-breach-external-contractor-mfa-bombing-attack)
