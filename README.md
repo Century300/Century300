@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Quantify Risk, Calculate ROI](https://www.darkreading.com/dr-tech/quantify-risk-calculate-roi)
 - [Threat Actor Abuses LinkedIn&#39;s Smart Links Feature to Harvest Credit Cards](https://www.darkreading.com/attacks-breaches/threat-actor-abuses-linkedin-smart-links-feature-harvest-credit-cards)
 - [Sophisticated Hermit Mobile Spyware Heralds Wave of Government Surveillance](https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance)
 - [Hackers Paralyze 911 Operations in Suffolk County, NY](https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny)
@@ -83,7 +84,6 @@
 - [Don&#39;t Wait for a Mobile WannaCry](https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry)
 - [Cyber Insurers Clamp Down on Clients&#39; Self-Attestation of Security Controls](https://www.darkreading.com/edge-articles)
 - [15-Year-Old Python Flaw Slithers into Software Worldwide](https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide)
-- [Ransomware: The Latest Chapter](https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
