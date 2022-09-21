@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Brings Zero Trust to Hardware in Windows 11](https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11)
 - [ChromeLoader Malware Evolves into Prevalent, More Dangerous Cyber Threat](https://www.darkreading.com/attacks-breaches/chromeloader-malware-prevalent-more-dangerous-cyber-threat)
 - [2-Step Email Attack Uses Powtoon Video to Execute Payload](https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload)
 - [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
@@ -83,7 +84,6 @@
 - [Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords](https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords)
 - [Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks](https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks)
 - [How to Dodge New Ransomware Tactics](https://www.darkreading.com/attacks-breaches/how-to-dodge-new-ransomware-tactics)
-- [No Enterprise Push for Quantum Without Regulatory Push](https://www.darkreading.com/edge-threat-monitor/no-enterprise-push-for-quantum-without-regulatory-push)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
