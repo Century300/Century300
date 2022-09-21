@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Don&#39;t Wait for a Mobile WannaCry](https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry)
+- [Cyber Insurers Clamp Down on Clients&#39; Self-Attestation of Security Controls](https://www.darkreading.com/edge-articles)
+- [15-Year-Old Python Flaw Slithers into Software Worldwide](https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide)
 - [Ransomware: The Latest Chapter](https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter)
 - [Microsoft Brings Zero Trust to Hardware in Windows 11](https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11)
 - [ChromeLoader Malware Evolves into Prevalent, More Dangerous Cyber Threat](https://www.darkreading.com/attacks-breaches/chromeloader-malware-prevalent-more-dangerous-cyber-threat)
 - [2-Step Email Attack Uses Powtoon Video to Execute Payload](https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload)
 - [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
-- [Cast AI Introduces Cloud Security Insights for Kubernetes](https://www.darkreading.com/dr-tech/cast-ai-introduces-cloud-security-insights-for-kubernetes)
-- [Spell-Checking in Google Chrome, Microsoft Edge Browsers Leaks Passwords](https://www.darkreading.com/application-security/spellchecking-google-chrome-microsoft-edge-browsers-leaks-passwords)
-- [Survey Shows CISOs Losing Confidence in Ability to Stop Ransomware Attacks](https://www.darkreading.com/application-security/survey-cisos-losing-confidence-stop-ransomware-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
