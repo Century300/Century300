@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated Hermit Mobile Spyware Heralds Wave of Government Surveillance](https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance)
+- [Hackers Paralyze 911 Operations in Suffolk County, NY](https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny)
+- [Data Scientists Dial Back Use of Open Source Code Due to Security Worries](https://www.darkreading.com/application-security/open-source-security-concerns-expand-beyond-developers)
 - [Don&#39;t Wait for a Mobile WannaCry](https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry)
 - [Cyber Insurers Clamp Down on Clients&#39; Self-Attestation of Security Controls](https://www.darkreading.com/edge-articles)
 - [15-Year-Old Python Flaw Slithers into Software Worldwide](https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide)
 - [Ransomware: The Latest Chapter](https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter)
 - [Microsoft Brings Zero Trust to Hardware in Windows 11](https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11)
-- [ChromeLoader Malware Evolves into Prevalent, More Dangerous Cyber Threat](https://www.darkreading.com/attacks-breaches/chromeloader-malware-prevalent-more-dangerous-cyber-threat)
-- [2-Step Email Attack Uses Powtoon Video to Execute Payload](https://www.darkreading.com/attacks-breaches/email-attack-powtoon-video-execute-payload)
-- [Beware of Phish: American Airlines, Revolut Data Breaches Expose Customer Info](https://www.darkreading.com/attacks-breaches/phish-american-airlines-revolut-data-breaches-expose-customer-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
