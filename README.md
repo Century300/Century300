@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actor Abuses LinkedIn&#39;s Smart Links Feature to Harvest Credit Cards](https://www.darkreading.com/attacks-breaches/threat-actor-abuses-linkedin-smart-links-feature-harvest-credit-cards)
 - [Sophisticated Hermit Mobile Spyware Heralds Wave of Government Surveillance](https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance)
 - [Hackers Paralyze 911 Operations in Suffolk County, NY](https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny)
 - [Data Scientists Dial Back Use of Open Source Code Due to Security Worries](https://www.darkreading.com/application-security/open-source-security-concerns-expand-beyond-developers)
@@ -83,7 +84,6 @@
 - [Cyber Insurers Clamp Down on Clients&#39; Self-Attestation of Security Controls](https://www.darkreading.com/edge-articles)
 - [15-Year-Old Python Flaw Slithers into Software Worldwide](https://www.darkreading.com/application-security/15-year-old-python-flaw-software-worldwide)
 - [Ransomware: The Latest Chapter](https://www.darkreading.com/attacks-breaches/ransomware-the-latest-chapter)
-- [Microsoft Brings Zero Trust to Hardware in Windows 11](https://www.darkreading.com/emerging-tech/microsoft-brings-zero-trust-to-hardware-in-windows-11)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
