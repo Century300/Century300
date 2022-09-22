@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twitter&#39;s Whistleblower Allegations Are a Cautionary Tale for All Businesses](https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses)
+- [StackHawk Launches Deeper API Security Test Coverage to Improve the Security of APIs](https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis)
+- [Palo Alto Networks 5G-Native Security Now Available on Microsoft Azure Private Multi-Access Edge Compute](https://www.darkreading.com/cloud/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-multi-access-edge-compute)
 - [Wintermute DeFi Platform Offers Hacker a Cut in $160M Crypto-Heist](https://www.darkreading.com/application-security/wintermute-defi-platform-offers-hacker-a-cut-in-160m-crypto-heist)
 - [Quantify Risk, Calculate ROI](https://www.darkreading.com/dr-tech/quantify-risk-calculate-roi)
 - [Threat Actor Abuses LinkedIn&#39;s Smart Links Feature to Harvest Credit Cards](https://www.darkreading.com/attacks-breaches/threat-actor-abuses-linkedin-smart-links-feature-harvest-credit-cards)
 - [Sophisticated Hermit Mobile Spyware Heralds Wave of Government Surveillance](https://www.darkreading.com/application-security/sophisticated-hermit-mobile-spyware-government-surveillance)
 - [Hackers Paralyze 911 Operations in Suffolk County, NY](https://www.darkreading.com/attacks-breaches/hackers-paralyze-911-operations-suffolk-county-ny)
-- [Data Scientists Dial Back Use of Open Source Code Due to Security Worries](https://www.darkreading.com/application-security/open-source-security-concerns-expand-beyond-developers)
-- [Don&#39;t Wait for a Mobile WannaCry](https://www.darkreading.com/vulnerabilities-threats/don-t-wait-for-a-mobile-wannacry)
-- [Cyber Insurers Clamp Down on Clients&#39; Self-Attestation of Security Controls](https://www.darkreading.com/edge-articles)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
