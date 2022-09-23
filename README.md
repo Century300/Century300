@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cyberattackers Compromise Microsoft Exchange Servers Via Malicious OAuth Apps](https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps)
+- [Cyberattackers Compromise Microsoft Exchange Servers via Malicious OAuth Apps](https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps)
 - [How Europe Is Using Regulations to Harden Medical Devices Against Attack](https://www.darkreading.com/edge-articles/how-europe-is-using-regulations-to-harden-medical-devices-against-attack)
 - [Neglecting Open Source Developers Puts the Internet at Risk](https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk)
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
