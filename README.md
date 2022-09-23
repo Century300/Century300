@@ -82,8 +82,8 @@
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
 - [Mitigating Risk and Communicating Value in Multicloud Environments](https://www.darkreading.com/dr-tech/mitigating-risk-and-communicating-value-in-multicloud-environments)
 - [Researchers Uncover Mysterious &#39;Metador&#39; Cyber-Espionage Group](https://www.darkreading.com/attacks-breaches/researchers-uncover-mysterious-metador-cyber-espionage-group)
+- [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
 - [Developer Leaks LockBit 3.0 Ransomware-Builder Code](https://www.darkreading.com/attacks-breaches/developer-leaks-lockbit-3-0-ransomware-builder-code)
-- [CircleCI, GitHub Users Targeted in Phishing Campaign](https://www.darkreading.com/attacks-breaches/circleci-and-github-customers-targeted-phishing-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
