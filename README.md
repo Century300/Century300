@@ -76,13 +76,13 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
 - [Cyberattackers Compromise Microsoft Exchange Servers via Malicious OAuth Apps](https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps)
 - [How Europe Is Using Regulations to Harden Medical Devices Against Attack](https://www.darkreading.com/edge-articles/how-europe-is-using-regulations-to-harden-medical-devices-against-attack)
 - [Neglecting Open Source Developers Puts the Internet at Risk](https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk)
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
 - [Mitigating Risk and Communicating Value in Multicloud Environments](https://www.darkreading.com/dr-tech/mitigating-risk-and-communicating-value-in-multicloud-environments)
 - [Researchers Uncover Mysterious &#39;Metador&#39; Cyber-Espionage Group](https://www.darkreading.com/attacks-breaches/researchers-uncover-mysterious-metador-cyber-espionage-group)
-- [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
 - [Developer Leaks LockBit 3.0 Ransomware-Builder Code](https://www.darkreading.com/attacks-breaches/developer-leaks-lockbit-3-0-ransomware-builder-code)
 <!-- DARKREADING:END -->
 
