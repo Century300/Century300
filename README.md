@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Uncover Mysterious &#39;Metador&#39; Cyber-Espionage Group](https://www.darkreading.com/attacks-breaches/researchers-uncover-mysterious-metador-cyber-espionage-group)
 - [Developer Leaks LockBit 3.0 Ransomware-Builder Code](https://www.darkreading.com/attacks-breaches/developer-leaks-lockbit-3-0-ransomware-builder-code)
 - [CircleCI, GitHub Users Targeted in Phishing Campaign](https://www.darkreading.com/attacks-breaches/circleci-and-github-customers-targeted-phishing-campaign)
 - [Time to Quell the Alarm Bells Around Post-Quantum Crypto-Cracking](https://www.darkreading.com/emerging-tech/alarm-bells-post-quantum-crypto-cracking)
@@ -83,7 +84,6 @@
 - [Malicious npm Package Poses as Tailwind Tool](https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool)
 - [Allurity Acquires Spanish Multinational Aiuken Cybersecurity](https://www.darkreading.com/operations/allurity-acquires-spanish-multinational-aiuken-cybersecurity)
 - [Twitter&#39;s Whistleblower Allegations Are a Cautionary Tale for All Businesses](https://www.darkreading.com/vulnerabilities-threats/twitter-s-whistleblower-allegations-are-a-cautionary-tale-for-all-businesses)
-- [StackHawk Launches Deeper API Security Test Coverage to Improve the Security of APIs](https://www.darkreading.com/application-security/stackhawk-launches-deeper-api-security-test-coverage-to-improve-the-security-of-apis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
