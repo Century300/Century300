@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Neglecting Open Source Developers Puts the Internet at Risk](https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk)
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
 - [Mitigating Risk and Communicating Value in Multicloud Environments](https://www.darkreading.com/dr-tech/mitigating-risk-and-communicating-value-in-multicloud-environments)
 - [Researchers Uncover Mysterious &#39;Metador&#39; Cyber-Espionage Group](https://www.darkreading.com/attacks-breaches/researchers-uncover-mysterious-metador-cyber-espionage-group)
@@ -83,7 +84,6 @@
 - [CircleCI, GitHub Users Targeted in Phishing Campaign](https://www.darkreading.com/attacks-breaches/circleci-and-github-customers-targeted-phishing-campaign)
 - [Time to Quell the Alarm Bells Around Post-Quantum Crypto-Cracking](https://www.darkreading.com/emerging-tech/alarm-bells-post-quantum-crypto-cracking)
 - [Feds Sound Alarm on Rising OT/ICS Threats From APT Groups](https://www.darkreading.com/attacks-breaches/feds-sound-alarm-rising-ot-ics-threats)
-- [Malicious npm Package Poses as Tailwind Tool](https://www.darkreading.com/application-security/malicious-npm-package-poses-tailwind-tool)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
