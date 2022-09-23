@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [App Developers Increasingly Targeted via Slack, DevOps Tools](https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools)
 - [Malicious Apps With Millions of Downloads Found in Apple App Store, Google Play](https://www.darkreading.com/attacks-breaches/malicious-apps-millions-downloads-apple-google-app-stores)
 - [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
 - [Cyberattackers Compromise Microsoft Exchange Servers via Malicious OAuth Apps](https://www.darkreading.com/application-security/cyberattackers-compromise-microsoft-exchange-servers-malicious-oauth-apps)
@@ -83,7 +84,6 @@
 - [Neglecting Open Source Developers Puts the Internet at Risk](https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk)
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
 - [Mitigating Risk and Communicating Value in Multicloud Environments](https://www.darkreading.com/dr-tech/mitigating-risk-and-communicating-value-in-multicloud-environments)
-- [Researchers Uncover Mysterious &#39;Metador&#39; Cyber-Espionage Group](https://www.darkreading.com/attacks-breaches/researchers-uncover-mysterious-metador-cyber-espionage-group)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
