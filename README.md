@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Planning Cyberattacks on Ukraine&#39;s Energy Grid](https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector)
 - [Cyber Threat Alliance Extends Membership to 6+ Leading Cybersecurity Companies](https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies)
 - [Samsung Fails Consumers in Preventable Back-to-Back Data Breaches, According to Federal Lawsuit](https://www.darkreading.com/attacks-breaches/samsung-fails-consumers-in-preventable-back-to-back-data-breaches-according-to-federal-lawsuit)
 - [Should Hacking Have a Code of Conduct?](https://www.darkreading.com/vulnerabilities-threats/should-hacking-have-a-code-of-conduct-)
@@ -83,7 +84,6 @@
 - [We&#39;re Thinking About SaaS the Wrong Way](https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way)
 - [App Developers Increasingly Targeted via Slack, DevOps Tools](https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools)
 - [Malicious Apps With Millions of Downloads Found in Apple App Store, Google Play](https://www.darkreading.com/attacks-breaches/malicious-apps-millions-downloads-apple-google-app-stores)
-- [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
