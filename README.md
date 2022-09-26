@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [We&#39;re Thinking About SaaS the Wrong Way](https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way)
 - [App Developers Increasingly Targeted via Slack, DevOps Tools](https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools)
 - [Malicious Apps With Millions of Downloads Found in Apple App Store, Google Play](https://www.darkreading.com/attacks-breaches/malicious-apps-millions-downloads-apple-google-app-stores)
 - [CISA: Zoho ManageEngine RCE Bug Is Under Active Exploit](https://www.darkreading.com/attacks-breaches/cisa-zoho-manageengine-rce-bug-under-active-exploit)
@@ -83,7 +84,6 @@
 - [How Europe Is Using Regulations to Harden Medical Devices Against Attack](https://www.darkreading.com/edge-articles/how-europe-is-using-regulations-to-harden-medical-devices-against-attack)
 - [Neglecting Open Source Developers Puts the Internet at Risk](https://www.darkreading.com/attacks-breaches/neglecting-open-source-developers-puts-the-internet-at-risk)
 - [Microsoft Looks to Enable Practical Zero-Trust Security With Windows 11](https://www.darkreading.com/operations/microsoft-practical-zero-trust-security-windows-11)
-- [Mitigating Risk and Communicating Value in Multicloud Environments](https://www.darkreading.com/dr-tech/mitigating-risk-and-communicating-value-in-multicloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
