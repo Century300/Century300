@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake Sites Siphon Millions of Dollars in 3-Year Scam](https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam)
 - [Despite Recession Jitters, M&amp;A Dominates a Robust Cybersecurity Market](https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market)
 - [Russia Planning Cyberattacks on Ukraine&#39;s Energy Grid](https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector)
 - [Cyber Threat Alliance Extends Membership to 6+ Leading Cybersecurity Companies](https://www.darkreading.com/vulnerabilities-threats/cyber-threat-alliance-extends-membership-to-6-leading-cybersecurity-companies)
@@ -83,7 +84,6 @@
 - [Should Hacking Have a Code of Conduct?](https://www.darkreading.com/vulnerabilities-threats/should-hacking-have-a-code-of-conduct-)
 - [How Quantum Physics Leads to Decrypting Common Algorithms](https://www.darkreading.com/dr-tech/how-quantum-physics-leads-to-decrypting-common-algorithms)
 - [We&#39;re Thinking About SaaS the Wrong Way](https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way)
-- [App Developers Increasingly Targeted via Slack, DevOps Tools](https://www.darkreading.com/cloud/app-developers-increasingly-targeted-slack-devops-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
