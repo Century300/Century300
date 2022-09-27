@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Organizations Finding the Need For New Approaches On the Cybersecurity Front, CompTIA Research Reveals](https://www.darkreading.com/threat-intelligence/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals)
 - [Fake Sites Siphon Millions of Dollars in 3-Year Scam](https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam)
 - [Despite Recession Jitters, M&amp;A Dominates a Robust Cybersecurity Market](https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market)
 - [Russia Planning Cyberattacks on Ukraine&#39;s Energy Grid](https://www.darkreading.com/attacks-breaches/russia-planning-cyberattacks-ukraine-energy-sector)
@@ -83,7 +84,6 @@
 - [Samsung Fails Consumers in Preventable Back-to-Back Data Breaches, According to Federal Lawsuit](https://www.darkreading.com/attacks-breaches/samsung-fails-consumers-in-preventable-back-to-back-data-breaches-according-to-federal-lawsuit)
 - [Should Hacking Have a Code of Conduct?](https://www.darkreading.com/vulnerabilities-threats/should-hacking-have-a-code-of-conduct-)
 - [How Quantum Physics Leads to Decrypting Common Algorithms](https://www.darkreading.com/dr-tech/how-quantum-physics-leads-to-decrypting-common-algorithms)
-- [We&#39;re Thinking About SaaS the Wrong Way](https://www.darkreading.com/edge-articles/we-re-thinking-about-saas-the-wrong-way)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
