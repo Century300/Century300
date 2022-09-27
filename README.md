@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons from the GitHub Cybersecurity Breach: Protecting the Most Sensitive Data](https://www.darkreading.com/dr-tech/lessons-from-the-github-cybersecurity-breach-protecting-the-most-sensitive-data)
+- [4 Data Security Best Practices You Should Know](https://www.darkreading.com/attacks-breaches/4-data-security-best-practices-you-should-know)
 - [Adversaries Continue Cyberattacks with Greater Precision and Innovative Attack Methods According to NETSCOUT Report](https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report)
 - [Netography Upgrades Platform to Provide Scalable, Continuous Network Security and Visibility](https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility)
 - [7 Metrics to Measure the Effectiveness of Your Security Operations](https://www.darkreading.com/attacks-breaches/7-metrics-to-measure-the-effectiveness-of-your-security-operations)
+- [IaC Scanning: A Fantastic, Overlooked Learning Opportunity](https://www.darkreading.com/cloud/iac-scanning-a-fantastic-overlooked-learning-opportunity)
 - [BlackCat/ALPHV Gang Adds Wiper Functionality as Ransomware Tactic](https://www.darkreading.com/threat-intelligence/blackcat-alphv-gang-wiper-functionality-ransomware-tactic)
 - [Organizations Finding the Need For New Approaches On the Cybersecurity Front, CompTIA Research Reveals](https://www.darkreading.com/threat-intelligence/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals)
-- [Fake Sites Siphon Millions of Dollars in 3-Year Scam](https://www.darkreading.com/attacks-breaches/fake-sites-siphon-millions-dollars-3-year-scam)
-- [MITRE Rolls Out FiGHT to Protect 5G Networks](https://www.darkreading.com/dr-tech/mitre-rolls-out-fight-to-protect-5g-networks)
-- [Despite Recession Jitters, M&amp;A Dominates a Robust Cybersecurity Market](https://www.darkreading.com/application-security/recession-jitters-ma-dominates-robust-cybersecurity-market)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
