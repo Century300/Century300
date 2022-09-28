@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake Accounts Are Not Your Friends!](https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-)
 - [Plug Your Data Leaks: Integrating Data Loss Prevention into Your Security Stack](https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack)
 - [Google Quashes 5 High-Severity Bugs With Chrome 106 Update](https://www.darkreading.com/application-security/google-5-high-severity-bugs-chrome-106-update)
 - [Sophisticated Covert Cyberattack Campaign Targets Military Contractors](https://www.darkreading.com/attacks-breaches/sophisticated-cyberattack-campaign-targets-defense-contractors)
@@ -83,7 +84,6 @@
 - [Container Supply Chain Attacks Cash In on Cryptojacking](https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking)
 - [Google Cloud DORA: Securing the Supply Chain Begins With Culture](https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture)
 - [Phishing Attacks Crushed Records Last Quarter, Driven by Mobile](https://www.darkreading.com/attacks-breaches/phishing-attacks-crushed-records-last-quarter)
-- [The Countdown to DORA](https://www.darkreading.com/risk/the-countdown-to-dora)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
