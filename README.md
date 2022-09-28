@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated Covert Cyberattack Campaign Targets Military Contractors](https://www.darkreading.com/attacks-breaches/sophisticated-cyberattack-campaign-targets-defense-contractors)
+- [Fast Company CMS Hack Raises Security Questions](https://www.darkreading.com/attacks-breaches/fast-company-cms-hack-raises-security-questions)
+- [Container Supply Chain Attacks Cash In on Cryptojacking](https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking)
 - [Google Cloud DORA: Securing the Supply Chain Begins With Culture](https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture)
 - [Phishing Attacks Crushed Records Last Quarter, Driven by Mobile](https://www.darkreading.com/attacks-breaches/phishing-attacks-crushed-records-last-quarter)
 - [The Countdown to DORA](https://www.darkreading.com/risk/the-countdown-to-dora)
 - [Chaos Malware Resurfaces With All-New DDoS &amp; Cryptomining Modules](https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat)
 - [Illumio Introduces New Solution to Stop Endpoint Ransomware from Spreading Across the Hybrid Attack Surface](https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface)
-- [Jamf Announces Intent to Acquire ZecOps, to Provide a Market-Leading Security Solution for Mobile Devices as Targeted Attacks Continue to Grow](https://www.darkreading.com/mobile/jamf-announces-intent-to-acquire-zecops-to-provide-a-market-leading-security-solution-for-mobile-devices-as-targeted-attacks-continue-to-grow)
-- [Time to Change Our Flawed Approach to Security Awareness](https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness)
-- [When Will Cybersecurity Get Its Bloomberg Terminal?](https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
