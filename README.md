@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Jamf Announces Intent to Acquire ZecOps, to Provide a Market-Leading Security Solution for Mobile Devices as Targeted Attacks Continue to Grow](https://www.darkreading.com/mobile/jamf-announces-intent-to-acquire-zecops-to-provide-a-market-leading-security-solution-for-mobile-devices-as-targeted-attacks-continue-to-grow)
+- [Time to Change Our Flawed Approach to Security Awareness](https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness)
+- [When Will Cybersecurity Get Its Bloomberg Terminal?](https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-)
+- [Malwarebytes Expands OneView Platform for MSPs](https://www.darkreading.com/endpoint/malwarebytes-expands-oneview-platform-for-msps)
 - [Most Attackers Need Less Than 10 Hours to Find Weaknesses](https://www.darkreading.com/attacks-breaches/attackers-less-than-ten-hours-find-weaknesses)
 - [Lazarus Lures Aspiring Crypto Pros With Fake Exchange Job Postings](https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings)
 - [Amid Sweeping Change, Cyber Defenders Face Escalating Visibility — and Pressure](https://www.darkreading.com/operations/sweeping-change-cyber-defenders-escalating-visibility-pressure)
 - [FBI Helping Australian Authorities Investigate Massive Optus Data Breach: Reports](https://www.darkreading.com/attacks-breaches/fbi-helping-australian-authorities-investigate-massive-optus-data-breach-reports)
-- [Microsoft Rolls Out Passwordless Sign-on for Azure Virtual Desktop](https://www.darkreading.com/cloud/microsoft-passwordless-sign-on-azure-virtual-desktop)
-- [Lessons From the GitHub Cybersecurity Breach](https://www.darkreading.com/dr-tech/lessons-from-the-github-cybersecurity-breach-protecting-the-most-sensitive-data)
-- [4 Data Security Best Practices You Should Know](https://www.darkreading.com/attacks-breaches/4-data-security-best-practices-you-should-know)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
