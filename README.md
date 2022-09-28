@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Countdown to DORA](https://www.darkreading.com/risk/the-countdown-to-dora)
+- [Chaos Malware Resurfaces With All-New DDoS &amp; Cryptomining Modules](https://www.darkreading.com/attacks-breaches/chaos-malware-resurfaces-go-based-ddos-cryptomining-threat)
 - [Illumio Introduces New Solution to Stop Endpoint Ransomware from Spreading Across the Hybrid Attack Surface](https://www.darkreading.com/remote-workforce/illumio-introduces-new-solution-to-stop-endpoint-ransomware-from-spreading-across-the-hybrid-attack-surface)
 - [Jamf Announces Intent to Acquire ZecOps, to Provide a Market-Leading Security Solution for Mobile Devices as Targeted Attacks Continue to Grow](https://www.darkreading.com/mobile/jamf-announces-intent-to-acquire-zecops-to-provide-a-market-leading-security-solution-for-mobile-devices-as-targeted-attacks-continue-to-grow)
 - [Time to Change Our Flawed Approach to Security Awareness](https://www.darkreading.com/vulnerabilities-threats/time-to-change-our-flawed-approach-to-security-awareness)
 - [When Will Cybersecurity Get Its Bloomberg Terminal?](https://www.darkreading.com/dr-tech/when-will-cybersecurity-get-its-bloomberg-terminal-)
 - [Malwarebytes Expands OneView Platform for MSPs](https://www.darkreading.com/endpoint/malwarebytes-expands-oneview-platform-for-msps)
 - [Most Attackers Need Less Than 10 Hours to Find Weaknesses](https://www.darkreading.com/attacks-breaches/attackers-less-than-ten-hours-find-weaknesses)
-- [Lazarus Lures Aspiring Crypto Pros With Fake Exchange Job Postings](https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings)
-- [Amid Sweeping Change, Cyber Defenders Face Escalating Visibility — and Pressure](https://www.darkreading.com/operations/sweeping-change-cyber-defenders-escalating-visibility-pressure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
