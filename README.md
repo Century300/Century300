@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Most Attackers Need Less Than 10 Hours to Find Weaknesses](https://www.darkreading.com/attacks-breaches/attackers-less-than-ten-hours-find-weaknesses)
 - [Lazarus Lures Aspiring Crypto Pros With Fake Exchange Job Postings](https://www.darkreading.com/attacks-breaches/lazarus-lures-aspiring-crypto-pros-fake-exchange-job-postings)
 - [Amid Sweeping Change, Cyber Defenders Face Escalating Visibility — and Pressure](https://www.darkreading.com/operations/sweeping-change-cyber-defenders-escalating-visibility-pressure)
 - [FBI Helping Australian Authorities Investigate Massive Optus Data Breach: Reports](https://www.darkreading.com/attacks-breaches/fbi-helping-australian-authorities-investigate-massive-optus-data-breach-reports)
@@ -83,7 +84,6 @@
 - [Lessons From the GitHub Cybersecurity Breach](https://www.darkreading.com/dr-tech/lessons-from-the-github-cybersecurity-breach-protecting-the-most-sensitive-data)
 - [4 Data Security Best Practices You Should Know](https://www.darkreading.com/attacks-breaches/4-data-security-best-practices-you-should-know)
 - [Adversaries Continue Cyberattacks with Greater Precision and Innovative Attack Methods According to NETSCOUT Report](https://www.darkreading.com/threat-intelligence/adversaries-continue-cyberattacks-with-greater-precision-and-innovative-attack-methods-according-to-netscout-report)
-- [Netography Upgrades Platform to Provide Scalable, Continuous Network Security and Visibility](https://www.darkreading.com/perimeter/netography-upgrades-platform-to-provide-scalable-continuous-network-security-and-visibility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
