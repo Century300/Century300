@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Lurks in the Shadows of Cloud Security?](https://www.darkreading.com/omdia/what-lurks-in-the-shadows-of-cloud-security)
 - [Fake Accounts Are Not Your Friends!](https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-)
 - [Plug Your Data Leaks: Integrating Data Loss Prevention into Your Security Stack](https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack)
 - [Google Quashes 5 High-Severity Bugs With Chrome 106 Update](https://www.darkreading.com/application-security/google-5-high-severity-bugs-chrome-106-update)
@@ -83,7 +84,6 @@
 - [Fast Company CMS Hack Raises Security Questions](https://www.darkreading.com/attacks-breaches/fast-company-cms-hack-raises-security-questions)
 - [Container Supply Chain Attacks Cash In on Cryptojacking](https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking)
 - [Google Cloud DORA: Securing the Supply Chain Begins With Culture](https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture)
-- [Phishing Attacks Crushed Records Last Quarter, Driven by Mobile](https://www.darkreading.com/attacks-breaches/phishing-attacks-crushed-records-last-quarter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
