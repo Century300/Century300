@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Why the US Should Help Secure Mexican Infrastructure — and What It Gets in Return](https://www.darkreading.com/vulnerabilities-threats/why-the-us-should-help-secure-mexican-infrastructure-and-what-it-gets-in-return)
+- [3 Reasons Why BEC Scams Work in Real Estate](https://www.darkreading.com/edge-articles/3-reasons-why-bec-scams-work-in-real-estate-and-how-to-fight-back)
 - [&lpar;ISC&rpar;² Recruits More Than 55,000 Cybersecurity Candidates in First 30 Days of New Programs to Address Workforce Gap](https://www.darkreading.com/careers-and-people/-isc-recruits-more-than-55-000-cybersecurity-candidates-in-first-30-days-of-new-programs-to-address-workforce-gap)
 - [Capital One Phish Showcases Growing Bank-Brand Targeting Trend](https://www.darkreading.com/attacks-breaches/capital-one-phish-trend-targeting-bank-brands)
 - [Espionage Group Wields Steganographic Backdoor Against Govs, Stock Exchange](https://www.darkreading.com/attacks-breaches/espionage-steganographic-backdoor-against-govs-stock-exchange)
 - [XSS Flaw in Prevalent Media Imaging Tool Exposes Trove of Patient Data](https://www.darkreading.com/attacks-breaches/xss-flaw-prevalent-media-imaging-tool-exposes-trove-patient-data)
 - [What Lurks in the Shadows of Cloud Security?](https://www.darkreading.com/omdia/what-lurks-in-the-shadows-of-cloud-security)
 - [Fake Accounts Are Not Your Friends!](https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-)
-- [Plug Your Data Leaks: Integrating Data Loss Prevention into Your Security Stack](https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
