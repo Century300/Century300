@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why the US Should Help Secure Mexican Infrastructure — and What It Gets in Return](https://www.darkreading.com/vulnerabilities-threats/why-the-us-should-help-secure-mexican-infrastructure-and-what-it-gets-in-return)
+- [XSS Flaw in Prevalent Media Imaging Tool Exposes Trove of Patient Data](https://www.darkreading.com/attacks-breaches/xss-flaw-prevalent-media-imaging-tool-exposes-trove-patient-data)
 - [What Lurks in the Shadows of Cloud Security?](https://www.darkreading.com/omdia/what-lurks-in-the-shadows-of-cloud-security)
 - [Fake Accounts Are Not Your Friends!](https://www.darkreading.com/edge-articles/fake-accounts-are-not-your-friends-)
 - [Plug Your Data Leaks: Integrating Data Loss Prevention into Your Security Stack](https://www.darkreading.com/cloud/plug-your-data-leaks-integrating-data-loss-prevention-into-your-security-stack)
 - [Google Quashes 5 High-Severity Bugs With Chrome 106 Update](https://www.darkreading.com/application-security/google-5-high-severity-bugs-chrome-106-update)
 - [Sophisticated Covert Cyberattack Campaign Targets Military Contractors](https://www.darkreading.com/attacks-breaches/sophisticated-cyberattack-campaign-targets-defense-contractors)
 - [Fast Company CMS Hack Raises Security Questions](https://www.darkreading.com/attacks-breaches/fast-company-cms-hack-raises-security-questions)
-- [Container Supply Chain Attacks Cash In on Cryptojacking](https://www.darkreading.com/attacks-breaches/container-supply-chain-attacks-cashing-in-on-cryptojacking)
-- [Google Cloud DORA: Securing the Supply Chain Begins With Culture](https://www.darkreading.com/application-security/google-cloud-securing-supply-chain-culture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
