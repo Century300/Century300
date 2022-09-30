@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates](https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates)
 - [With the Software Supply Chain, You Can&#39;t Secure What You Don&#39;t Measure](https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure)
 - [Onyxia Raises $5M to Help Companies Proactively Manage Cybersecurity Risks Using AI](https://www.darkreading.com/vulnerabilities-threats/onyxia-raises-5m-to-help-companies-proactively-manage-cybersecurity-risks-using-ai)
 - [Cyera Survey Finds One in Three Respondents Want to Minimize Cloud Data Risk](https://www.darkreading.com/cloud/cyera-survey-finds-one-in-three-want-to-minimize-cloud-data-risk-48-prioritize-better-governance-or-policy-management-of-cloud-data-access)
@@ -83,7 +84,6 @@
 - [Israel Cybersecurity Enterprise &lpar;ICE&rpar; Teams with CybeReady to Deliver World-Class Security Training](https://www.darkreading.com/risk/israel-cybersecurity-enterprise-ice-teams-with-cybeready-to-deliver-world-class-security-training)
 - [Aunalytics Launches Security Patching Platform as a Service](https://www.darkreading.com/vulnerabilities-threats/aunalytics-launches-security-patching-platform-as-a-service)
 - [Veristor Partners with SANS Security Awareness to Deliver Employee Security Awareness Training](https://www.darkreading.com/vulnerabilities-threats/veristor-partners-with-sans-security-awareness-to-deliver-employee-security-awareness-training)
-- [YouMail, Inc. and WMC Global Partner to Deliver Voice and SMS Phishing Disruption Services](https://www.darkreading.com/attacks-breaches/youmail-inc-and-wmc-global-partner-to-deliver-voice-and-sms-phishing-disruption-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
