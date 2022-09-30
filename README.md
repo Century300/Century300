@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Onyxia Raises $5M to Help Companies Proactively Manage Cybersecurity Risks Using AI](https://www.darkreading.com/vulnerabilities-threats/onyxia-raises-5m-to-help-companies-proactively-manage-cybersecurity-risks-using-ai)
 - [Cyera Survey Finds One in Three Respondents Want to Minimize Cloud Data Risk](https://www.darkreading.com/cloud/cyera-survey-finds-one-in-three-want-to-minimize-cloud-data-risk-48-prioritize-better-governance-or-policy-management-of-cloud-data-access)
 - [Safous Adds Browser Isolation to Its Zero-Trust Network Access Service](https://www.darkreading.com/application-security/safous-adds-browser-isolation-to-its-zero-trust-network-access-service)
 - [Israel Cybersecurity Enterprise &lpar;ICE&rpar; Teams with CybeReady to Deliver World-Class Security Training](https://www.darkreading.com/risk/israel-cybersecurity-enterprise-ice-teams-with-cybeready-to-deliver-world-class-security-training)
@@ -83,7 +84,6 @@
 - [Veristor Partners with SANS Security Awareness to Deliver Employee Security Awareness Training](https://www.darkreading.com/vulnerabilities-threats/veristor-partners-with-sans-security-awareness-to-deliver-employee-security-awareness-training)
 - [YouMail, Inc. and WMC Global Partner to Deliver Voice and SMS Phishing Disruption Services](https://www.darkreading.com/attacks-breaches/youmail-inc-and-wmc-global-partner-to-deliver-voice-and-sms-phishing-disruption-services)
 - [Organizations Finding the Need for New Approaches on the Cybersecurity Front, CompTIA research reveals](https://www.darkreading.com/risk/organizations-finding-the-need-for-new-approaches-on-the-cybersecurity-front-comptia-research-reveals)
-- [Intel Hardens Confidential Computing With Project Amber Updates](https://www.darkreading.com/dr-tech/intel-hardens-confidential-computing-with-project-amber-updates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
