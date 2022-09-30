@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack](https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer)
 - [Microsoft Confirms Pair of Blindsiding Exchange Zero-Days, No Patch Yet](https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch)
 - [SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates](https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates)
 - [With the Software Supply Chain, You Can&#39;t Secure What You Don&#39;t Measure](https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure)
@@ -83,7 +84,6 @@
 - [Cyera Survey Finds One in Three Respondents Want to Minimize Cloud Data Risk](https://www.darkreading.com/cloud/cyera-survey-finds-one-in-three-want-to-minimize-cloud-data-risk-48-prioritize-better-governance-or-policy-management-of-cloud-data-access)
 - [Safous Adds Browser Isolation to Its Zero-Trust Network Access Service](https://www.darkreading.com/application-security/safous-adds-browser-isolation-to-its-zero-trust-network-access-service)
 - [Israel Cybersecurity Enterprise &lpar;ICE&rpar; Teams with CybeReady to Deliver World-Class Security Training](https://www.darkreading.com/risk/israel-cybersecurity-enterprise-ice-teams-with-cybeready-to-deliver-world-class-security-training)
-- [Aunalytics Launches Security Patching Platform as a Service](https://www.darkreading.com/vulnerabilities-threats/aunalytics-launches-security-patching-platform-as-a-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
