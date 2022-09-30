@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here](https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here)
 - [Cybercriminals See Allure in BEC Attacks Over Ransomware](https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware)
 - [Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack](https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer)
 - [Microsoft Confirms Pair of Blindsiding Exchange Zero-Days, No Patch Yet](https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch)
@@ -83,7 +84,6 @@
 - [With the Software Supply Chain, You Can&#39;t Secure What You Don&#39;t Measure](https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure)
 - [Onyxia Raises $5M to Help Companies Proactively Manage Cybersecurity Risks Using AI](https://www.darkreading.com/vulnerabilities-threats/onyxia-raises-5m-to-help-companies-proactively-manage-cybersecurity-risks-using-ai)
 - [Cyera Survey Finds One in Three Respondents Want to Minimize Cloud Data Risk](https://www.darkreading.com/cloud/cyera-survey-finds-one-in-three-want-to-minimize-cloud-data-risk-48-prioritize-better-governance-or-policy-management-of-cloud-data-access)
-- [Safous Adds Browser Isolation to Its Zero-Trust Network Access Service](https://www.darkreading.com/application-security/safous-adds-browser-isolation-to-its-zero-trust-network-access-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
