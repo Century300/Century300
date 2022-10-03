@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bumblebee Malware Loader&#39;s Payloads Significantly Vary by Victim System](https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system)
+- [First 72 Hours of Incident Response Critical to Taming Cyberattack Chaos](https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos)
+- [Vice Society Publishes LA Public School Student Data, Psych Evals](https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals)
 - [Name That Edge Toon: Mumbo Dumbo](https://www.darkreading.com/edge-articles/name-that-edge-toon-mumbo-dumbo)
 - [How AWS, Cisco, Netflix &amp; SAP Are Approaching Cybersecurity Awareness Month](https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month)
 - [Worried About the Exchange Zero-Day? Here&#39;s What to Do](https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do)
 - [LA School District Ransomware Attackers Now Threaten to Leak Stolen Data](https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data)
 - [The Top 4 Mistakes in Security Programs to Avoid](https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid)
-- [Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here](https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here)
-- [Cybercriminals See Allure in BEC Attacks Over Ransomware](https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware)
-- [Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack](https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
