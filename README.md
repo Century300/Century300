@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How AWS, Cisco, Netflix &amp; SAP Are Approaching Cybersecurity Awareness Month](https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month)
 - [Worried About the Exchange Zero-Day? Here&#39;s What to Do](https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do)
 - [LA School District Ransomware Attackers Now Threaten to Leak Stolen Data](https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data)
+- [The Top 4 Mistakes in Security Programs to Avoid](https://www.darkreading.com/microsoft/the-top-4-mistakes-in-security-programs-to-avoid)
 - [Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here](https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here)
 - [Cybercriminals See Allure in BEC Attacks Over Ransomware](https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware)
 - [Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack](https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer)
 - [Microsoft Confirms Pair of Blindsiding Exchange Zero-Days, No Patch Yet](https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch)
-- [SolarMarker Attack Leverages Weak WordPress Sites, Fake Chrome Browser Updates](https://www.darkreading.com/attacks-breaches/solarmarker-attack-wordpress-fake-chrome-browser-updates)
-- [With the Software Supply Chain, You Can&#39;t Secure What You Don&#39;t Measure](https://www.darkreading.com/vulnerabilities-threats/with-the-software-supply-chain-you-can-t-secure-what-you-don-t-measure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
