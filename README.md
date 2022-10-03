@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Mumbo Dumbo](https://www.darkreading.com/edge-articles/name-that-edge-toon-mumbo-dumbo)
 - [How AWS, Cisco, Netflix &amp; SAP Are Approaching Cybersecurity Awareness Month](https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month)
 - [Worried About the Exchange Zero-Day? Here&#39;s What to Do](https://www.darkreading.com/dr-tech/worried-about-the-exchange-0day-here-s-what-to-do)
 - [LA School District Ransomware Attackers Now Threaten to Leak Stolen Data](https://www.darkreading.com/attacks-breaches/la-school-district-ransomware-attackers-leak-stolen-data)
@@ -83,7 +84,6 @@
 - [Reshaping the Threat Landscape: Deepfake Cyberattacks Are Here](https://www.darkreading.com/threat-intelligence/threat-landscape-deepfake-cyberattacks-are-here)
 - [Cybercriminals See Allure in BEC Attacks Over Ransomware](https://www.darkreading.com/threat-intelligence/cybercriminals-see-allure-bec-attacks-ransomware)
 - [Trojanized, Signed Comm100 Chat Installer Anchors Supply Chain Attack](https://www.darkreading.com/attacks-breaches/trojanized-signed-supply-chain-attack-comm100-chat-installer)
-- [Microsoft Confirms Pair of Blindsiding Exchange Zero-Days, No Patch Yet](https://www.darkreading.com/application-security/microsoft-confirms-exchange-zero-days-no-patch)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
