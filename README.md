@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Updates Mitigation for Exchange Server Zero-Days](https://www.darkreading.com/remote-workforce/microsoft-updates-mitigation-for-exchange-server-zero-days)
 - [Aussie Telco Telstra Breached, Reportedly Exposing 30,000 Employees&#39; Data](https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data)
 - [Former NSA Employee Faces Death Penalty for Selling Secrets](https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets)
 - [Workforce Data Privacy in the Modern Work Era](https://www.darkreading.com/endpoint/workforce-data-privacy-in-the-modern-work-era)
@@ -83,7 +84,6 @@
 - [More Than 30% of All Malicious Attacks Target Shadow APIs](https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis)
 - [Eclypsium Raises Series B to Protect Digital Supply Chain As Attacks Grow](https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow)
 - [Aryaka Delivers Zero-Trust WAN Based on Unified SASE Architecture](https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture)
-- [Ransomware 3.0: The Next Frontier](https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
