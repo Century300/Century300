@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [More Than 30% of All Malicious Attacks Target Shadow APIs](https://www.darkreading.com/attacks-breaches/more-than-30-of-all-malicious-attacks-target-shadow-apis)
+- [Eclypsium Raises Series B to Protect Digital Supply Chain As Attacks Grow](https://www.darkreading.com/cloud/eclypsium-raises-series-b-to-protect-digital-supply-chain-as-attacks-grow)
 - [Aryaka Delivers Zero-Trust WAN Based on Unified SASE Architecture](https://www.darkreading.com/perimeter/aryaka-delivers-zero-trust-wan-based-on-unified-sase-architecture)
 - [Ransomware 3.0: The Next Frontier](https://www.darkreading.com/vulnerabilities-threats/ransomware-3-the-next-frontier)
 - [Tidal Cyber Closes $4M Funding Round To Expand Threat-Informed Defense Tech](https://www.darkreading.com/cloud/tidal-cyber-closes-4m-funding-round-to-continue-making-threat-informed-defense-achievable)
 - [Bumblebee Malware Loader&#39;s Payloads Significantly Vary by Victim System](https://www.darkreading.com/attacks-breaches/bumblebee-malware-loader-s-payloads-significantly-vary-by-victim-system)
 - [First 72 Hours of Incident Response Critical to Taming Cyberattack Chaos](https://www.darkreading.com/attacks-breaches/incident-response-s-first-72-hours-critical-to-taming-chaos)
 - [Vice Society Publishes LA Public School Student Data, Psych Evals](https://www.darkreading.com/attacks-breaches/vice-society-publishes-la-public-school-student-data-psych-evals)
-- [Name That Edge Toon: Mumbo Dumbo](https://www.darkreading.com/edge-articles/name-that-edge-toon-mumbo-dumbo)
-- [How AWS, Cisco, Netflix &amp; SAP Are Approaching Cybersecurity Awareness Month](https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
