@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA: Multiple APT Groups Infiltrate Defense Organization](https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization)
 - [Secure Your Application Layer, Secure Your Business](https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business)
 - [NullMixer Dropper Delivers a Multimalware Code Bomb](https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb)
 - [Giving Away the Keys to Your Backups? Here’s How to Keep Out Hackers](https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-)
@@ -83,7 +84,6 @@
 - [7 Practical Considerations for Effective Threat Intelligence](https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence)
 - [Why Don&#39;t CISOs Trust Their Employees?](https://www.darkreading.com/vulnerabilities-threats/why-don-t-cisos-trust-their-employees-)
 - [RatMilad Spyware Scurries onto Enterprise Android Phones](https://www.darkreading.com/mobile/ratmilad-spyware-scurries-enterprise-android-phones)
-- [The Insecurities of Cybersecurity Success](https://www.darkreading.com/edge-articles/the-insecurities-of-cybersecurity-success)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
