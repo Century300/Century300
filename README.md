@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NetSPI Raises $410 Million in Growth Funding from KKR](https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr)
 - [7 Practical Considerations for Effective Threat Intelligence](https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence)
 - [Why Don&#39;t CISOs Trust Their Employees?](https://www.darkreading.com/vulnerabilities-threats/why-don-t-cisos-trust-their-employees-)
 - [RatMilad Spyware Scurries onto Enterprise Android Phones](https://www.darkreading.com/mobile/ratmilad-spyware-scurries-enterprise-android-phones)
@@ -83,7 +84,6 @@
 - [Exposure Management? Understanding the Attacker Takes Center Stage](https://www.darkreading.com/dr-tech/exposure-management-understanding-the-attacker-takes-center-stage)
 - [Microsoft Updates Mitigation for Exchange Server Zero-Days](https://www.darkreading.com/remote-workforce/microsoft-updates-mitigation-for-exchange-server-zero-days)
 - [Aussie Telco Telstra Breached, Reportedly Exposing 30,000 Employees&#39; Data](https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data)
-- [Former NSA Employee Faces Death Penalty for Selling Secrets](https://www.darkreading.com/attacks-breaches/ex--nsa-employee-faces-death-penalty-for-selling-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
