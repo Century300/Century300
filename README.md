@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Giving Away the Keys to Your Backups? Here’s How to Keep Out Hackers](https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-)
 - [NetSPI Raises $410 Million in Growth Funding from KKR](https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr)
 - [7 Practical Considerations for Effective Threat Intelligence](https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence)
 - [Why Don&#39;t CISOs Trust Their Employees?](https://www.darkreading.com/vulnerabilities-threats/why-don-t-cisos-trust-their-employees-)
@@ -83,7 +84,6 @@
 - [The Insecurities of Cybersecurity Success](https://www.darkreading.com/edge-articles/the-insecurities-of-cybersecurity-success)
 - [Exposure Management? Understanding the Attacker Takes Center Stage](https://www.darkreading.com/dr-tech/exposure-management-understanding-the-attacker-takes-center-stage)
 - [Microsoft Updates Mitigation for Exchange Server Zero-Days](https://www.darkreading.com/remote-workforce/microsoft-updates-mitigation-for-exchange-server-zero-days)
-- [Aussie Telco Telstra Breached, Reportedly Exposing 30,000 Employees&#39; Data](https://www.darkreading.com/attacks-breaches/aussie-telco-telstra-breached-reportedly-exposing-30-000-employees-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
