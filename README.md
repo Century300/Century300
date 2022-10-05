@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ikea Smart Light System Flaw Lets Attackers Turn Bulbs on Full Blast](https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast)
 - [CISA: Multiple APT Groups Infiltrate Defense Organization](https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization)
 - [Secure Your Application Layer, Secure Your Business](https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business)
 - [NullMixer Dropper Delivers a Multimalware Code Bomb](https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb)
@@ -83,7 +84,6 @@
 - [NetSPI Raises $410 Million in Growth Funding from KKR](https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr)
 - [7 Practical Considerations for Effective Threat Intelligence](https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence)
 - [Why Don&#39;t CISOs Trust Their Employees?](https://www.darkreading.com/vulnerabilities-threats/why-don-t-cisos-trust-their-employees-)
-- [RatMilad Spyware Scurries onto Enterprise Android Phones](https://www.darkreading.com/mobile/ratmilad-spyware-scurries-enterprise-android-phones)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
