@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Consumers Are Finally Becoming More Security &amp; Privacy Conscious](https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious)
 - [Hackers Have It Out for Microsoft Email Defenses](https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses)
 - [Russia-Linked Cybercrime Group Hawks Combo of Malicious Services With LilithBot](https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot)
 - [School Is in Session: 5 Lessons for Future Cybersecurity Pros](https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros)
@@ -83,7 +84,6 @@
 - [New SonicWall Survey Data Reveals 91% of Organizations Fear Ransomware Attacks in 2022](https://www.darkreading.com/remote-workforce/new-sonicwall-survey-data-reveals-91-of-organizations-fear-ransomware-attacks-in-2022)
 - [Research Reveals Microsoft Teams Security and Backup Flaws, With Over Half of Users Sharing Business-Critical Information on the Platform](https://www.darkreading.com/operations/research-reveals-microsoft-teams-security-and-backup-flaws-with-over-half-of-users-sharing-business-critical-information-on-the-platform)
 - [Contrast Security Launches Expanded Security Testing Tools for JavaScript and Popular Angular, React, and jQuery Frameworks](https://www.darkreading.com/application-security/contrast-security-launches-expanded-security-testing-tools-for-javascript-and-popular-angular-react-and-jquery-frameworks)
-- [Relentless Russian Cyberattacks on Ukraine Raise Important Policy Questions](https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
