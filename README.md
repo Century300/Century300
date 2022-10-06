@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 IoT Devices That Make Security Pros Cringe](https://www.darkreading.com/vulnerabilities-threats/7-iot-devices-that-make-security-pros-cringe)
+- [New SonicWall Survey Data Reveals 91% of Organizations Fear Ransomware Attacks in 2022](https://www.darkreading.com/remote-workforce/new-sonicwall-survey-data-reveals-91-of-organizations-fear-ransomware-attacks-in-2022)
+- [Research Reveals Microsoft Teams Security and Backup Flaws, With Over Half of Users Sharing Business-Critical Information on the Platform](https://www.darkreading.com/operations/research-reveals-microsoft-teams-security-and-backup-flaws-with-over-half-of-users-sharing-business-critical-information-on-the-platform)
+- [Contrast Security Launches Expanded Security Testing Tools for JavaScript and Popular Angular, React, and jQuery Frameworks](https://www.darkreading.com/application-security/contrast-security-launches-expanded-security-testing-tools-for-javascript-and-popular-angular-react-and-jquery-frameworks)
 - [Relentless Russian Cyberattacks on Ukraine Raise Important Policy Questions](https://www.darkreading.com/threat-intelligence/russian-cyberattacks-ukraine-raise-important-policy-questions)
 - [Ikea Smart Light System Flaw Lets Attackers Turn Bulbs on Full Blast](https://www.darkreading.com/application-security/ikea-smart-light-system-flaw-lets-attackers-turn-bulbs-on-full-blast)
 - [CISA: Multiple APT Groups Infiltrate Defense Organization](https://www.darkreading.com/attacks-breaches/cisa-multiple-apt-groups-infiltrate-defense-organization)
 - [Secure Your Application Layer, Secure Your Business](https://www.darkreading.com/application-security/secure-your-application-layer-secure-your-business)
-- [NullMixer Dropper Delivers a Multimalware Code Bomb](https://www.darkreading.com/remote-workforce/nullmixer-multi-malware-dropper-code-bomb)
-- [Giving Away the Keys to Your Backups? Here’s How to Keep Out Hackers](https://www.darkreading.com/attacks-breaches/giving-away-the-keys-to-your-backups-here-s-how-to-keep-out-hackers-)
-- [NetSPI Raises $410 Million in Growth Funding from KKR](https://www.darkreading.com/vulnerabilities-threats/netspi-raises-410-million-in-growth-funding-from-kkr)
-- [7 Practical Considerations for Effective Threat Intelligence](https://www.darkreading.com/edge-articles/7-practical-considerations-for-effective-threat-intelligence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
