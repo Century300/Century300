@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests](https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests)
 - [Sharing Knowledge at 44CON](https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con)
 - [macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks](https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks)
 - [Russian Hackers Shut Down US State Government Websites](https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites)
@@ -83,7 +84,6 @@
 - [Hackers Have It Out for Microsoft Email Defenses](https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses)
 - [Russia-Linked Cybercrime Group Hawks Combo of Malicious Services With LilithBot](https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot)
 - [School Is in Session: 5 Lessons for Future Cybersecurity Pros](https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros)
-- [7 IoT Devices That Make Security Pros Cringe](https://www.darkreading.com/vulnerabilities-threats/7-iot-devices-that-make-security-pros-cringe)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
