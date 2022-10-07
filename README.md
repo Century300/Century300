@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident)
+- [Patch Now: Fortinet FortiGate &amp; FortiProxy Contain Critical Vuln](https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln)
 - [LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software](https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software)
 - [We Can Save Security Teams From Crushing Workloads. Will We?](https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-)
 - [CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests](https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests)
 - [Sharing Knowledge at 44CON](https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con)
 - [macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks](https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks)
 - [Russian Hackers Shut Down US State Government Websites](https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites)
-- [US Consumers Are Finally Becoming More Security &amp; Privacy Conscious](https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious)
-- [Hackers Have It Out for Microsoft Email Defenses](https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
