@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Credential Harvesting Is Retail Industry&#39;s Top Threat](https://www.darkreading.com/edge-threat-monitor/credential-harvesting-is-retail-industry-s-top-threat)
 - [Cybersecurity Will Account for Nearly One-Quarter of AI Software Market Through 2025](https://www.darkreading.com/tech-trends/cybersecurity-will-account-for-nearly-one-quarter-of-ai-software-market-through-2025)
 - [Meta Flags Malicious Android, iOS Apps Affecting 1M Facebook Users](https://www.darkreading.com/remote-workforce/meta-flags-malicious-android-ios-apps-affecting-1m-facebook-users)
 - [State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident)
@@ -83,7 +84,6 @@
 - [LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software](https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software)
 - [We Can Save Security Teams From Crushing Workloads. Will We?](https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-)
 - [CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests](https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests)
-- [Sharing Knowledge at 44CON](https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
