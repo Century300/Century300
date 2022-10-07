@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [We Can Save Security Teams From Crushing Workloads. Will We?](https://www.darkreading.com/vulnerabilities-threats/we-can-save-security-teams-from-crushing-workloads-will-we-)
 - [CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests](https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests)
 - [Sharing Knowledge at 44CON](https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con)
 - [macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks](https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks)
@@ -83,7 +84,6 @@
 - [US Consumers Are Finally Becoming More Security &amp; Privacy Conscious](https://www.darkreading.com/remote-workforce/survey-shows-us-consumers-are-becoming-more-security-and-privacy-conscious)
 - [Hackers Have It Out for Microsoft Email Defenses](https://www.darkreading.com/remote-workforce/hackers-have-it-out-for-microsoft-email-defenses)
 - [Russia-Linked Cybercrime Group Hawks Combo of Malicious Services With LilithBot](https://www.darkreading.com/remote-workforce/russia-linked-cybercrime-group-hawks-combo-of-malicious-services-with-lilithbot)
-- [School Is in Session: 5 Lessons for Future Cybersecurity Pros](https://www.darkreading.com/careers-and-people/school-is-in-session-5-lessons-for-future-cybersecurity-pros)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
