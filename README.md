@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Will Account for Nearly One-Quarter of AI Software Market Through 2025](https://www.darkreading.com/tech-trends/cybersecurity-will-account-for-nearly-one-quarter-of-ai-software-market-through-2025)
 - [State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident)
 - [Patch Now: Fortinet FortiGate &amp; FortiProxy Contain Critical Vuln](https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln)
 - [LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software](https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software)
@@ -83,7 +84,6 @@
 - [CyberRatings.org Invites Industry Participation in Forthcoming Enterprise Firewall and Data Center Firewall Tests](https://www.darkreading.com/perimeter/cyberratings-org-invites-industry-participation-in-forthcoming-enterprise-firewall-and-data-center-firewall-tests)
 - [Sharing Knowledge at 44CON](https://www.darkreading.com/edge-articles/sharing-knowledge-at-44con)
 - [macOS Archive Utility Bug Lets Malicious Apps Bypass Security Checks](https://www.darkreading.com/application-security/macos-archive-utility-bug-malicious-apps-bypass-security-checks)
-- [Russian Hackers Shut Down US State Government Websites](https://www.darkreading.com/attacks-breaches/russian-hackers-shut-down-state-government-sites)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
