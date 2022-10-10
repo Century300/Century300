@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Airports in Cyberattack Crosshairs for Pro-Russian Group Killnet](https://www.darkreading.com/attacks-breaches/us-airports-cyberattack-crosshairs-pro-russian-group-killnet)
 - [Zimbra RCE Bug Under Active Attack](https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack)
 - [6 Things Every CISO Should Do the First 90 Days on the Job](https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job)
 - [Email Defenses Under Siege: Phishing Attacks Dramatically Improve](https://www.darkreading.com/remote-workforce/email-defenses-under-siege-phishing-attacks-dramatically-improve)
@@ -83,7 +84,6 @@
 - [Cybersecurity Will Account for Nearly One-Quarter of AI Software Market Through 2025](https://www.darkreading.com/tech-trends/cybersecurity-will-account-for-nearly-one-quarter-of-ai-software-market-through-2025)
 - [State Bar of Georgia Notifies Members and Employees of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/state-bar-of-georgia-notifies-members-and-employees-of-cybersecurity-incident)
 - [Patch Now: Fortinet FortiGate &amp; FortiProxy Contain Critical Vuln](https://www.darkreading.com/vulnerabilities-threats/patch-now-fortinet-fortigate-and-fortiproxy-contain-critical-vuln)
-- [LofyGang Uses 100s of Malicious NPM Packages to Poison Open Source Software](https://www.darkreading.com/application-security/lofygang-100s-malicious-packages-poison-open-source-software)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
