@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI and Residual Finger Heat Could Be a Password Cracker&#39;s Latest Tools](https://www.darkreading.com/endpoint/ai-and-residual-finger-heat-could-be-a-password-cracker-s-latest-tools)
+- [Critical Open Source vm2 Sandbox Escape Bug Affects Millions](https://www.darkreading.com/application-security/critical-open-source-vm2-sandbox-escape-bug-affects-millions)
 - [OT Cybersecurity Leader Paul Brager Passes Away](https://www.darkreading.com/careers-and-people/ot-cybersecurity-leader-paul-brager-passes-away)
 - [Intel Processor UEFI Source Code Leaked](https://www.darkreading.com/threat-intelligence/intel-processor-uefi-source-code-leaked)
 - [It&#39;s Time to Make Security an Innovation Enabler](https://www.darkreading.com/cloud/it-s-time-to-make-security-an-innovation-enabler)
 - [Skybox Security Unveils Industry&#39;s First SaaS Solution For Security Policy and Vulnerability Management Across Hybrid Environments](https://www.darkreading.com/vulnerabilities-threats/skybox-security-unveils-industry-s-first-saas-solution-for-security-policy-and-vulnerability-management-across-hybrid-environments)
+- [Dependency Management Aims to Make Security Easier](https://www.darkreading.com/dr-tech/dependency-management-aims-to-make-security-easier)
 - [DigiCert Root CA Approved for Matter Device Attestation by Connectivity Standards Alliance](https://www.darkreading.com/iot/digicert-root-ca-approved-for-matter-device-attestation-by-connectivity-standards-alliance)
-- [Delinea Releases &#39;Cloud Server Privilege Management for Dummies&#39; eBook](https://www.darkreading.com/cloud/delinea-releases-cloud-server-privilege-management-for-dummies-ebook)
-- [Stairwell Announces $45M Series B Funding Round](https://www.darkreading.com/attacks-breaches/stairwell-announces-45m-series-b-funding-round)
-- [Outpost24 Announces Expansion of Penetration Testing Offerings to North America](https://www.darkreading.com/vulnerabilities-threats/outpost24-announces-expansion-of-penetration-testing-offerings-to-north-america)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
