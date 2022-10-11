@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Delinea Releases &#39;Cloud Server Privilege Management for Dummies&#39; eBook](https://www.darkreading.com/cloud/delinea-releases-cloud-server-privilege-management-for-dummies-ebook)
+- [Stairwell Announces $45M Series B Funding Round](https://www.darkreading.com/attacks-breaches/stairwell-announces-45m-series-b-funding-round)
 - [Outpost24 Announces Expansion of Penetration Testing Offerings to North America](https://www.darkreading.com/vulnerabilities-threats/outpost24-announces-expansion-of-penetration-testing-offerings-to-north-america)
 - [High-Value Targets: String of Aussie Telco Breaches Continues](https://www.darkreading.com/attacks-breaches/third-aussie-telco-breached-in-less-than-a-month)
 - [Proposed SEC Disclosure Rules Could Transform Cyber-Incident Response](https://www.darkreading.com/vulnerabilities-threats/proposed-sec-disclosure-rules-could-transform-cyber-incident-response)
 - [Cybersecurity Survey of State CISOs Identifies Many Positive Trends](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survey-of-state-cisos-identifies-many-positive-trends)
 - [US Airports in Cyberattack Crosshairs for Pro-Russian Group Killnet](https://www.darkreading.com/attacks-breaches/us-airports-cyberattack-crosshairs-pro-russian-group-killnet)
 - [Emotet Rises Again With More Sophistication, Evasion](https://www.darkreading.com/threat-intelligence/emotet-rises-again-with-more-sophistication-evasion)
-- [Zimbra RCE Bug Under Active Attack](https://www.darkreading.com/remote-workforce/zimbra-rce-bug-under-active-attack)
-- [6 Things Every CISO Should Do the First 90 Days on the Job](https://www.darkreading.com/careers-and-people/6-things-every-ciso-should-do-the-first-90-days-on-the-job)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
