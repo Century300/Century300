@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Airborne Drones Are Dropping Cyber-Spy Exploits in the Wild](https://www.darkreading.com/threat-intelligence/drones-cyber-spy-exploits-in-the-wild)
 - [Key Takeaways From Omdia&#39;s IGA Market Radar](https://www.darkreading.com/omdia/key-takeaways-from-omdia-s-iga-market-radar)
 - [Cyolo Receives Investment from IBM Ventures for Zero Trust Secure Access Platform](https://www.darkreading.com/remote-workforce/cyolo-receives-investment-from-ibm-ventures-for-zero-trust-secure-access-platform)
+- [Android Leaks Wi-Fi Traffic Even When VPN Protection Features Are On](https://www.darkreading.com/cloud/android-leaks-wi-fi-traffic-vpn-protection-features-on)
 - [E-Commerce Losses to Online Payment Fraud to Exceed $48B Globally in 2023, as Fraud Incursions Evolve](https://www.darkreading.com/remote-workforce/e-commerce-losses-to-online-payment-fraud-to-exceed-48b-globally-in-2023-as-fraud-incursions-evolve)
 - [5 Signs That It&#39;s Time to Invest in Data Loss Prevention](https://www.darkreading.com/endpoint/5-signs-that-it-s-time-to-invest-in-data-loss-prevention)
 - [Beachhead Solutions Adds Windows Security Management to the BeachheadSecure® Platform](https://www.darkreading.com/endpoint/beachhead-solutions-adds-windows-security-management-to-the-beachheadsecure-platform)
 - [Refund Fraud-as-a-Service Ads on Hacker Forums Increase by 60%](https://www.darkreading.com/attacks-breaches/refund-fraud-as-a-service-ads-on-hacker-forums-increase-by-60-)
-- [Vectra Advances Security AI to Deliver Attack Signal Intelligence™, Empowering Security Teams to Investigate and Respond to Attacks in Real Time](https://www.darkreading.com/operations/vectra-advances-security-ai-to-deliver-attack-signal-intelligence-empowering-security-teams-to-investigate-and-respond-to-attacks-in-real-time)
-- [Cloud Data Breaches Are Running Rampant. What Are the Common Characteristics?](https://www.darkreading.com/cloud/cloud-data-breaches-are-running-rampant-what-are-the-common-characteristics-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
