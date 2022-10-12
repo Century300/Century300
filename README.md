@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vectra Advances Security AI to Deliver Attack Signal Intelligence™, Empowering Security Teams to Investigate and Respond to Attacks in Real Time](https://www.darkreading.com/operations/vectra-advances-security-ai-to-deliver-attack-signal-intelligence-empowering-security-teams-to-investigate-and-respond-to-attacks-in-real-time)
+- [Cloud Data Breaches Are Running Rampant. What Are the Common Characteristics?](https://www.darkreading.com/cloud/cloud-data-breaches-are-running-rampant-what-are-the-common-characteristics-)
+- [2 Out of 3 Companies See Zero Trust Network Access as Key to Mitigate Work-From-Anywhere Risks, According to New EMA Report](https://www.darkreading.com/endpoint/2-out-of-3-companies-see-zero-trust-network-access-as-key-to-mitigate-work-from-anywhere-risks-according-to-new-ema-report)
+- [InterVision Announces Study Identifying Ransomware as No. 1 Threat to Business Longevity](https://www.darkreading.com/attacks-breaches/intervision-announces-study-identifying-ransomware-as-no-1-threat-to-business-longevity)
 - [Palo Alto Networks Ushers in the Next-Generation Security Operations Center With General Availability of Cortex XSIAM — the Autonomous Security Operations Platform](https://www.darkreading.com/operations/palo-alto-networks-ushers-in-the-next-generation-security-operations-center-with-general-availability-of-cortex-xsiam-the-autonomous-security-operations-platform)
 - [Microsoft Addresses Zero-Days, but Exchange Server Exploit Chain Remains Unpatched](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-exchange-server-exploit-chain-remains-unpatched)
 - [AI and Residual Finger Heat Could Be a Password Cracker&#39;s Latest Tools](https://www.darkreading.com/endpoint/ai-and-residual-finger-heat-could-be-a-password-cracker-s-latest-tools)
 - [Critical Open Source vm2 Sandbox Escape Bug Affects Millions](https://www.darkreading.com/application-security/critical-open-source-vm2-sandbox-escape-bug-affects-millions)
-- [OT Cybersecurity Leader Paul Brager Passes Away](https://www.darkreading.com/careers-and-people/ot-cybersecurity-leader-paul-brager-passes-away)
-- [Intel Processor UEFI Source Code Leaked](https://www.darkreading.com/threat-intelligence/intel-processor-uefi-source-code-leaked)
-- [It&#39;s Time to Make Security an Innovation Enabler](https://www.darkreading.com/cloud/it-s-time-to-make-security-an-innovation-enabler)
-- [Skybox Security Unveils Industry&#39;s First SaaS Solution For Security Policy and Vulnerability Management Across Hybrid Environments](https://www.darkreading.com/vulnerabilities-threats/skybox-security-unveils-industry-s-first-saas-solution-for-security-policy-and-vulnerability-management-across-hybrid-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
