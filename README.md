@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the Uber Breach Verdict Means for CISOs in the US](https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us)
 - [Thoma Bravo to Acquire ForgeRock in $2.3B Deal](https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock)
 - [WhatsApp Users Beware: Dangerous Mobile Trojan Being Distributed via Malicious Mod](https://www.darkreading.com/mobile/whatsapp-beware-dangerous-mobile-trojan-malicious-mod)
 - [KnowBe4 to Be Acquired for $4.6B by Private Equity Firm Vista](https://www.darkreading.com/endpoint/knowbe4-to-be-acquired-for-4-6b-by-private-equity-firm-vista)
@@ -83,7 +84,6 @@
 - [Key Takeaways From Omdia&#39;s IGA Market Radar](https://www.darkreading.com/omdia/key-takeaways-from-omdia-s-iga-market-radar)
 - [Cyolo Receives Investment from IBM Ventures for Zero Trust Secure Access Platform](https://www.darkreading.com/remote-workforce/cyolo-receives-investment-from-ibm-ventures-for-zero-trust-secure-access-platform)
 - [Android Leaks Wi-Fi Traffic Even When VPN Protection Features Are On](https://www.darkreading.com/cloud/android-leaks-wi-fi-traffic-vpn-protection-features-on)
-- [E-Commerce Losses to Online Payment Fraud to Exceed $48B Globally in 2023, as Fraud Incursions Evolve](https://www.darkreading.com/remote-workforce/e-commerce-losses-to-online-payment-fraud-to-exceed-48b-globally-in-2023-as-fraud-incursions-evolve)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
