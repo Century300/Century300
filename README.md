@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Comprehensive Network Visibility Is Imperative for Zero-Trust Maturity](https://www.darkreading.com/edge-articles/distrust-and-verify-why-comprehensive-network-visibility-is-required-for-mature-zero-trust-architectures)
+- [Novel npm Timing Attack Allows Corporate Targeting](https://www.darkreading.com/application-security/novel-npm-timing-attack-allows-corporate-targeting)
+- [Feature-Rich &#39;Alchimist&#39; Cyberattack Framework Targets Windows, Mac, Linux Environments](https://www.darkreading.com/attacks-breaches/new-alchimist-attack-framework-targets-windows-mac-linux-environments)
 - [Tanium Benchmark Sets New Standard for Tracking and Improving Security and Operational Metrics](https://www.darkreading.com/endpoint/tanium-benchmark-sets-new-standard-for-tracking-and-improving-security-and-operational-metrics)
 - [QAKBOT Attacks Spike Amid Concerning Cybercriminal Collaborations](https://www.darkreading.com/attacks-breaches/qakbot-attacks-spike-cybercriminal-collaborations)
 - [DFIN DealMaker Meter: Surge in &#39;Dark Data&#39; Represents Growing Danger for Corporations](https://www.darkreading.com/attacks-breaches/dfin-dealmaker-meter-surge-in-dark-data-represents-growing-danger-for-corporations)
 - [Orange Bank Deploys Real-Time Sanctions Screening with SAS and Neterium](https://www.darkreading.com/application-security/orange-bank-deploys-real-time-sanctions-screening-with-sas-and-neterium)
 - [Nudge Security Launches Platform With Humans in Mind](https://www.darkreading.com/cloud/nudge-security-launches-platform-with-humans-in-mind)
-- [The Playbook for Human-Operated Ransomware](https://www.darkreading.com/microsoft/the-playbook-for-human-operated-ransomware)
-- [What You Need for a Strong Security Posture](https://www.darkreading.com/vulnerabilities-threats/what-you-need-for-a-strong-security-posture)
-- [Cyberattackers Spoof Google Translate in Unique Phishing Tactic](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-google-translate-unique-phishing-tactic)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
