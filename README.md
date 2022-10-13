@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [State of Security Data Management 2022 Report Reveals Overconfidence Masks a Pervasive Data Problem](https://www.darkreading.com/vulnerabilities-threats/state-of-security-data-management-2022-report-reveals-overconfidence-masks-a-pervasive-data-problem)
+- [Attackers Use Automation to Speed from Exploit to Compromise According to Lacework Labs Cloud Threat Report](https://www.darkreading.com/cloud/attackers-use-automation-to-speed-from-exploit-to-compromise-according-to-lacework-labs-cloud-threat-report)
 - [What the Uber Breach Verdict Means for CISOs in the US](https://www.darkreading.com/attacks-breaches/what-the-uber-breach-verdict-means-for-cisos-in-the-us)
 - [Thoma Bravo to Acquire ForgeRock in $2.3B Deal](https://www.darkreading.com/application-security/thoma-bravo-acquire-forgerock)
 - [WhatsApp Users Beware: Dangerous Mobile Trojan Being Distributed via Malicious Mod](https://www.darkreading.com/mobile/whatsapp-beware-dangerous-mobile-trojan-malicious-mod)
 - [KnowBe4 to Be Acquired for $4.6B by Private Equity Firm Vista](https://www.darkreading.com/endpoint/knowbe4-to-be-acquired-for-4-6b-by-private-equity-firm-vista)
 - [Airborne Drones Are Dropping Cyber-Spy Exploits in the Wild](https://www.darkreading.com/threat-intelligence/drones-cyber-spy-exploits-in-the-wild)
 - [Key Takeaways From Omdia&#39;s IGA Market Radar](https://www.darkreading.com/omdia/key-takeaways-from-omdia-s-iga-market-radar)
-- [Cyolo Receives Investment from IBM Ventures for Zero Trust Secure Access Platform](https://www.darkreading.com/remote-workforce/cyolo-receives-investment-from-ibm-ventures-for-zero-trust-secure-access-platform)
-- [Android Leaks Wi-Fi Traffic Even When VPN Protection Features Are On](https://www.darkreading.com/cloud/android-leaks-wi-fi-traffic-vpn-protection-features-on)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
