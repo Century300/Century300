@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft 365 Message Encryption Can Leak Sensitive Info](https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info)
+- [Acuity Reports Increase in Cyber Liability Insurance Claims as Cybercrime Skyrockets](https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets)
 - [Care and Feeding of the SOC&#39;s Most Powerful Tool: Your Brain](https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain)
 - [Juice Technology Receives ISO Certification for Charging Station Cyber Security](https://www.darkreading.com/application-security/juice-technology-receives-iso-certification-for-charging-station-cyber-security)
 - [ControlMap Announces the Launch of the Trust Portal, Creating Transparency in Cybersecurity Compliance](https://www.darkreading.com/risk/controlmap-announces-the-launch-of-the-trust-portal-creating-transparency-in-cybersecurity-compliance)
 - [Quarter of Healthcare Ransomware Victims Forced to Halt Operations](https://www.darkreading.com/attacks-breaches/quarter-of-healthcare-ransomware-victims-forced-to-halt-operations)
 - [Armis Now Available on Google Cloud Marketplace](https://www.darkreading.com/attacks-breaches/armis-now-available-on-google-cloud-marketplace)
 - [Google Cloud Advances Partnerships with 20-Plus Software Companies Focused on Digital Sovereignty and Cybersecurity](https://www.darkreading.com/cloud/google-cloud-advances-partnerships-with-20-plus-software-companies-focused-on-digital-sovereignty-and-cybersecurity)
-- [HSBC and Silent Eight Expand Machine Learning Partnership](https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership)
-- [Nexusguard Research Shows Total Number of DDoS Attacks Increased during First Half of 2022 While Maximum Attack Size Decreased Compared to Second Half of 2021](https://www.darkreading.com/attacks-breaches/nexusguard-research-shows-total-number-of-ddos-attacks-increased-during-first-half-of-2022-while-maximum-attack-size-decreased-compared-to-second-half-of-2021)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
