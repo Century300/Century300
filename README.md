@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Comprehensive Network Visibility Is Imperative for Zero-Trust Maturity](https://www.darkreading.com/edge-articles/distrust-and-verify-why-comprehensive-network-visibility-is-required-for-mature-zero-trust-architectures)
-- [Novel npm Timing Attack Allows Corporate Targeting](https://www.darkreading.com/application-security/novel-npm-timing-attack-allows-corporate-targeting)
-- [Feature-Rich &#39;Alchimist&#39; Cyberattack Framework Targets Windows, Mac, Linux Environments](https://www.darkreading.com/attacks-breaches/new-alchimist-attack-framework-targets-windows-mac-linux-environments)
-- [Tanium Benchmark Sets New Standard for Tracking and Improving Security and Operational Metrics](https://www.darkreading.com/endpoint/tanium-benchmark-sets-new-standard-for-tracking-and-improving-security-and-operational-metrics)
-- [QAKBOT Attacks Spike Amid Concerning Cybercriminal Collaborations](https://www.darkreading.com/attacks-breaches/qakbot-attacks-spike-cybercriminal-collaborations)
-- [DFIN DealMaker Meter: Surge in &#39;Dark Data&#39; Represents Growing Danger for Corporations](https://www.darkreading.com/attacks-breaches/dfin-dealmaker-meter-surge-in-dark-data-represents-growing-danger-for-corporations)
-- [Orange Bank Deploys Real-Time Sanctions Screening with SAS and Neterium](https://www.darkreading.com/application-security/orange-bank-deploys-real-time-sanctions-screening-with-sas-and-neterium)
-- [Nudge Security Launches Platform With Humans in Mind](https://www.darkreading.com/cloud/nudge-security-launches-platform-with-humans-in-mind)
+- [Juice Technology Receives ISO Certification for Charging Station Cyber Security](https://www.darkreading.com/application-security/juice-technology-receives-iso-certification-for-charging-station-cyber-security)
+- [ControlMap Announces the Launch of the Trust Portal, Creating Transparency in Cybersecurity Compliance](https://www.darkreading.com/risk/controlmap-announces-the-launch-of-the-trust-portal-creating-transparency-in-cybersecurity-compliance)
+- [Quarter of Healthcare Ransomware Victims Forced to Halt Operations](https://www.darkreading.com/attacks-breaches/quarter-of-healthcare-ransomware-victims-forced-to-halt-operations)
+- [Armis Now Available on Google Cloud Marketplace](https://www.darkreading.com/attacks-breaches/armis-now-available-on-google-cloud-marketplace)
+- [Google Cloud Advances Partnerships with 20-Plus Software Companies Focused on Digital Sovereignty and Cybersecurity](https://www.darkreading.com/cloud/google-cloud-advances-partnerships-with-20-plus-software-companies-focused-on-digital-sovereignty-and-cybersecurity)
+- [HSBC and Silent Eight Expand Machine Learning Partnership](https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership)
+- [Nexusguard Research Shows Total Number of DDoS Attacks Increased during First Half of 2022 While Maximum Attack Size Decreased Compared to Second Half of 2021](https://www.darkreading.com/attacks-breaches/nexusguard-research-shows-total-number-of-ddos-attacks-increased-during-first-half-of-2022-while-maximum-attack-size-decreased-compared-to-second-half-of-2021)
+- [Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering](https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
