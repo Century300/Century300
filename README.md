@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Apple&#39;s Constant Battles Against Zero-Day Exploits](https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits)
 - [Concerns Over Fortinet Flaw Mount; PoC Released, Exploit Activity Grows](https://www.darkreading.com/attacks-breaches/concerns-fortinet-flaw-poc-increased-exploit-activity)
+- [Apple&#39;s Constant Battles Against Zero-Day Exploits](https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits)
 - [Fast Fashion Retailer Data Breach Draws $1.9M Fine](https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine)
 - [Microsoft 365 Message Encryption Can Leak Sensitive Info](https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info)
 - [Acuity Reports Increase in Cyber Liability Insurance Claims as Cybercrime Skyrockets](https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets)
