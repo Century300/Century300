@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fast Fashion Retailer Data Breach Draws $1.9M Fine](https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine)
 - [Microsoft 365 Message Encryption Can Leak Sensitive Info](https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info)
 - [Acuity Reports Increase in Cyber Liability Insurance Claims as Cybercrime Skyrockets](https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets)
 - [Care and Feeding of the SOC&#39;s Most Powerful Tool: Your Brain](https://www.darkreading.com/vulnerabilities-threats/care-and-feeding-of-the-soc-s-most-powerful-tool-your-brain)
@@ -83,7 +84,6 @@
 - [ControlMap Announces the Launch of the Trust Portal, Creating Transparency in Cybersecurity Compliance](https://www.darkreading.com/risk/controlmap-announces-the-launch-of-the-trust-portal-creating-transparency-in-cybersecurity-compliance)
 - [Quarter of Healthcare Ransomware Victims Forced to Halt Operations](https://www.darkreading.com/attacks-breaches/quarter-of-healthcare-ransomware-victims-forced-to-halt-operations)
 - [Armis Now Available on Google Cloud Marketplace](https://www.darkreading.com/attacks-breaches/armis-now-available-on-google-cloud-marketplace)
-- [Google Cloud Advances Partnerships with 20-Plus Software Companies Focused on Digital Sovereignty and Cybersecurity](https://www.darkreading.com/cloud/google-cloud-advances-partnerships-with-20-plus-software-companies-focused-on-digital-sovereignty-and-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
