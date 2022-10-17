@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Fast-Talkers Can Teach Us About Vetting Vendors](https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors)
+- [Disinformation Attacks Threaten US Midterm Elections](https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections)
 - [4 Stakeholders Critical to Addressing the Cybersecurity Workforce Gap](https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap)
 - [Imprivata Expands Its Integrated Digital Identity Platform to Defragment Identities Across Disparate Applications](https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications)
 - [Microsoft Secures Azure Enclaves With Hardware Guards](https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards)
 - [Concerns Over Fortinet Flaw Mount; PoC Released, Exploit Activity Grows](https://www.darkreading.com/attacks-breaches/concerns-fortinet-flaw-poc-increased-exploit-activity)
 - [Apple&#39;s Constant Battles Against Zero-Day Exploits](https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits)
 - [Fast Fashion Retailer Data Breach Draws $1.9M Fine](https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine)
-- [Microsoft 365 Message Encryption Can Leak Sensitive Info](https://www.darkreading.com/application-security/microsoft-365-message-encryption-can-leak-sensitive-info)
-- [Acuity Reports Increase in Cyber Liability Insurance Claims as Cybercrime Skyrockets](https://www.darkreading.com/attacks-breaches/acuity-reports-increase-in-cyber-liability-insurance-claims-as-cybercrime-skyrockets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
