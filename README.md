@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text](https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text)
 - [The Risk of Stateful Anti-Patterns in Enterprise Internet Architecture](https://www.darkreading.com/dr-tech/the-risk-of-stateful-antipatterns-in-enterprise-internet-architecture)
 - [Signal to Ditch SMS/MMS Messaging on Android](https://www.darkreading.com/endpoint/signal-to-ditch-sms-mms-messaging-on-android)
 - [Tactics Tie Ransom Cartel Group to Defunct REvil Ransomware](https://www.darkreading.com/threat-intelligence/tactics-tie-ransom-cartel-group-to-defunct-revil-ransomware)
@@ -83,7 +84,6 @@
 - [What Fast-Talkers Can Teach Us About Vetting Vendors](https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors)
 - [Disinformation Attacks Threaten US Midterm Elections](https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections)
 - [4 Stakeholders Critical to Addressing the Cybersecurity Workforce Gap](https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap)
-- [Imprivata Expands Its Integrated Digital Identity Platform to Defragment Identities Across Disparate Applications](https://www.darkreading.com/endpoint/imprivata-expands-its-integrated-digital-identity-platform-to-defragment-identities-across-disparate-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
