@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Research Report Predicts Blockchain and Quantum Threat Will Quickly Spread Beyond Cybercurrencies; Surge in New Product and Services Opportunities to Come](https://www.darkreading.com/vulnerabilities-threats/new-research-report-predicts-blockchain-and-quantum-threat-will-quickly-spread-beyond-cybercurrencies-surge-in-new-product-and-services-opportunities-to-come)
 - [What Fast-Talkers Can Teach Us About Vetting Vendors](https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors)
 - [Disinformation Attacks Threaten US Midterm Elections](https://www.darkreading.com/threat-intelligence/disinformation-attacks-threaten-us-midterm-elections)
 - [4 Stakeholders Critical to Addressing the Cybersecurity Workforce Gap](https://www.darkreading.com/careers-and-people/4-stakeholders-critical-to-addressing-the-cybersecurity-workforce-gap)
@@ -83,7 +84,6 @@
 - [Microsoft Secures Azure Enclaves With Hardware Guards](https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards)
 - [Concerns Over Fortinet Flaw Mount; PoC Released, Exploit Activity Grows](https://www.darkreading.com/attacks-breaches/concerns-fortinet-flaw-poc-increased-exploit-activity)
 - [Apple&#39;s Constant Battles Against Zero-Day Exploits](https://www.darkreading.com/edge-articles/apple-s-constant-battles-against-zero-day-exploits)
-- [Fast Fashion Retailer Data Breach Draws $1.9M Fine](https://www.darkreading.com/attacks-breaches/shein-fast-fashion-retailer-data-breach-draws-1-9m-fine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
