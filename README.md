@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phishing Mitigation Can Cost Businesses More Than $1M Annually](https://www.darkreading.com/attacks-breaches/phishing-mitigation-can-cost-businesses-more-than-1m-annually)
+- [AutoRABIT Accelerates Release Management Processes with Automation and Key Integrations](https://www.darkreading.com/application-security/autorabit-accelerates-release-management-processes-with-automation-and-key-integrations)
+- [CISA Offers Free RedEye Analytics Tool for Red Teams](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-redeye-analytics-tool-for-red-teams)
 - [Shared Responsibility or Shared Fate? Decentralized IT Means We Are All Cyber Defenders](https://www.darkreading.com/vulnerabilities-threats/shared-responsibility-or-shared-fate-decentralized-it-means-we-are-all-cyber-defenders)
 - [Mastercard To Bring Crypto Trading Capabilities To Banks](https://www.darkreading.com/operations/mastercard-to-bring-crypto-trading-capabilities-to-banks)
 - [Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text](https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text)
 - [Cybersecurity&#39;s Hiring Spree Requires a Recruiting Rethink](https://www.darkreading.com/cloud/cybersecurity-s-hiring-spree-is-going-to-require-recruitment-rethink)
 - [The Risk of Stateful Anti-Patterns in Enterprise Internet Architecture](https://www.darkreading.com/dr-tech/the-risk-of-stateful-antipatterns-in-enterprise-internet-architecture)
-- [Signal to Ditch SMS/MMS Messaging on Android](https://www.darkreading.com/endpoint/signal-to-ditch-sms-mms-messaging-on-android)
-- [Tactics Tie Ransom Cartel Group to Defunct REvil Ransomware](https://www.darkreading.com/threat-intelligence/tactics-tie-ransom-cartel-group-to-defunct-revil-ransomware)
-- [New Research Report Predicts Blockchain and Quantum Threat Will Quickly Spread Beyond Cybercurrencies; Surge in New Product and Services Opportunities to Come](https://www.darkreading.com/vulnerabilities-threats/new-research-report-predicts-blockchain-and-quantum-threat-will-quickly-spread-beyond-cybercurrencies-surge-in-new-product-and-services-opportunities-to-come)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
