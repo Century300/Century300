@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Treat Essential Security Certificates as Valuable Assets](https://www.darkreading.com/vulnerabilities-threats/treat-essential-security-certificates-as-valuable-assets)
 - [Phishing Mitigation Can Cost Businesses More Than $1M Annually](https://www.darkreading.com/attacks-breaches/phishing-mitigation-can-cost-businesses-more-than-1m-annually)
 - [AutoRABIT Accelerates Release Management Processes with Automation and Key Integrations](https://www.darkreading.com/application-security/autorabit-accelerates-release-management-processes-with-automation-and-key-integrations)
 - [CISA Offers Free RedEye Analytics Tool for Red Teams](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-redeye-analytics-tool-for-red-teams)
@@ -83,7 +84,6 @@
 - [Mastercard To Bring Crypto Trading Capabilities To Banks](https://www.darkreading.com/operations/mastercard-to-bring-crypto-trading-capabilities-to-banks)
 - [Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text](https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text)
 - [Cybersecurity&#39;s Hiring Spree Requires a Recruiting Rethink](https://www.darkreading.com/cloud/cybersecurity-s-hiring-spree-is-going-to-require-recruitment-rethink)
-- [The Risk of Stateful Anti-Patterns in Enterprise Internet Architecture](https://www.darkreading.com/dr-tech/the-risk-of-stateful-antipatterns-in-enterprise-internet-architecture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
