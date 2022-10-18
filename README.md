@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patching-as-a-Service Offers Benefits, Challenges](https://www.darkreading.com/dr-tech/patching-as-a-service-offers-benefits-challenges)
 - [What Is the Difference Between Identity Verification and Authentication?](https://www.darkreading.com/edge-ask-the-experts/what-is-the-difference-between-identity-verification-and-authentication-)
 - [Gen Z, Millennial Workers Are Bigger Cybersecurity Risks Than Older Employees](https://www.darkreading.com/threat-intelligence/gen-z-millennial-workers-are-bigger-cybersecurity-risks-than-older-employees)
 - [German Cybersecurity Boss Sacked Over Kremlin Connection](https://www.darkreading.com/careers-and-people/german-cybersecurity-boss-sacked-over-kremlin-connection)
@@ -83,7 +84,6 @@
 - [Phishing Mitigation Can Cost Businesses More Than $1M Annually](https://www.darkreading.com/attacks-breaches/phishing-mitigation-can-cost-businesses-more-than-1m-annually)
 - [AutoRABIT Accelerates Release Management Processes with Automation and Key Integrations](https://www.darkreading.com/application-security/autorabit-accelerates-release-management-processes-with-automation-and-key-integrations)
 - [CISA Offers Free RedEye Analytics Tool for Red Teams](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-redeye-analytics-tool-for-red-teams)
-- [Shared Responsibility or Shared Fate? Decentralized IT Means We Are All Cyber Defenders](https://www.darkreading.com/vulnerabilities-threats/shared-responsibility-or-shared-fate-decentralized-it-means-we-are-all-cyber-defenders)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
