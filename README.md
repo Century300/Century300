@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shared Responsibility or Shared Fate? Decentralized IT Means We Are All Cyber Defenders](https://www.darkreading.com/vulnerabilities-threats/shared-responsibility-or-shared-fate-decentralized-it-means-we-are-all-cyber-defenders)
 - [Mastercard To Bring Crypto Trading Capabilities To Banks](https://www.darkreading.com/operations/mastercard-to-bring-crypto-trading-capabilities-to-banks)
 - [Researchers Keep a Wary Eye on Critical New Vulnerability in Apache Commons Text](https://www.darkreading.com/application-security/researchers-keep-a-wary-eye-on-critical-new-vulnerability-in-apache-commons-text)
 - [Cybersecurity&#39;s Hiring Spree Requires a Recruiting Rethink](https://www.darkreading.com/cloud/cybersecurity-s-hiring-spree-is-going-to-require-recruitment-rethink)
@@ -83,7 +84,6 @@
 - [Signal to Ditch SMS/MMS Messaging on Android](https://www.darkreading.com/endpoint/signal-to-ditch-sms-mms-messaging-on-android)
 - [Tactics Tie Ransom Cartel Group to Defunct REvil Ransomware](https://www.darkreading.com/threat-intelligence/tactics-tie-ransom-cartel-group-to-defunct-revil-ransomware)
 - [New Research Report Predicts Blockchain and Quantum Threat Will Quickly Spread Beyond Cybercurrencies; Surge in New Product and Services Opportunities to Come](https://www.darkreading.com/vulnerabilities-threats/new-research-report-predicts-blockchain-and-quantum-threat-will-quickly-spread-beyond-cybercurrencies-surge-in-new-product-and-services-opportunities-to-come)
-- [What Fast-Talkers Can Teach Us About Vetting Vendors](https://www.darkreading.com/edge-articles/what-fast-talkers-can-teach-us-about-vetting-vendors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
