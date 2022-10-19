@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scammers Targeting Those Seeking Student Loan Forgiveness](https://www.darkreading.com/attacks-breaches/scammers-targeting-those-seeking-student-loan-forgiveness)
 - [Apache Commons Vulnerability: Patch but Don&#39;t Panic](https://www.darkreading.com/application-security/apache-commons-vulnerability-patch-but-dont-panic)
 - [SBOMs: An Overhyped Concept That Won&#39;t Secure Your Software Supply Chain](https://www.darkreading.com/cloud/sboms-an-overhyped-concept-that-won-t-secure-your-software-supply-chain-)
 - [Zscaler Advances Enterprise Data Security With Zero-Configuration Data Protection](https://www.darkreading.com/cloud/zscaler-advances-enterprise-data-security-with-zero-configuration-data-protection)
@@ -83,7 +84,6 @@
 - [GroupSense Delivers New Ransomware Negotiation Training Service](https://www.darkreading.com/attacks-breaches/groupsense-delivers-new-ransomware-negotiation-training-service)
 - [DigiCert Appoints Industry Veteran Amit Sinha as Chief Executive Officer](https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer)
 - [Revelstoke Teams Up With BreachRx, Offering Users Automated Incident Response and Compliance Solutions](https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions)
-- [A New Solution to the Cybersecurity Skills Gap: Building Security into Operational Teams](https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
