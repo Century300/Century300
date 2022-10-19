@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DigiCert Appoints Industry Veteran Amit Sinha as Chief Executive Officer](https://www.darkreading.com/cloud/digicert-appoints-industry-veteran-amit-sinha-as-chief-executive-officer)
+- [Revelstoke Teams Up With BreachRx, Offering Users Automated Incident Response and Compliance Solutions](https://www.darkreading.com/risk/revelstoke-teams-up-with-breachrx-offering-users-automated-incident-response-and-compliance-solutions)
 - [A New Solution to the Cybersecurity Skills Gap: Building Security into Operational Teams](https://www.darkreading.com/careers-and-people/a-new-solution-to-the-cybersecurity-skills-gap-building-security-into-operational-teams)
 - [RCS Secure Catches Its Next Big Wave](https://www.darkreading.com/operations/rcs-secure-catches-its-next-big-wave)
-- [China-Linked Cyber Espionage Team Homes In on Hong Kong Government Orgs](https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs)
+- [China-Linked Cyber-Espionage Team Homes In on Hong Kong Government Orgs](https://www.darkreading.com/threat-intelligence/china-linked-cyber-espionage-team-homes-in-on-hong-kong-government-orgs)
 - [GitGuardian Extends Code Security Platform, Adding Infrastructure-as-Code Scanning for Security Misconfigurations](https://www.darkreading.com/application-security/gitguardian-extends-code-security-platform-adding-infrastructure-as-code-scanning-for-security-misconfigurations)
 - [Patching-as-a-Service Offers Benefits, Challenges](https://www.darkreading.com/dr-tech/patching-as-a-service-offers-benefits-challenges)
 - [What Is the Difference Between Identity Verification and Authentication?](https://www.darkreading.com/edge-ask-the-experts/what-is-the-difference-between-identity-verification-and-authentication-)
-- [Gen Z, Millennial Workers Are Bigger Cybersecurity Risks Than Older Employees](https://www.darkreading.com/threat-intelligence/gen-z-millennial-workers-are-bigger-cybersecurity-risks-than-older-employees)
-- [German Cybersecurity Boss Sacked Over Kremlin Connection](https://www.darkreading.com/careers-and-people/german-cybersecurity-boss-sacked-over-kremlin-connection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
