@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Ways To Achieve Comprehensive Security](https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security)
 - [&#39;FurBall&#39; Spyware Being Used Against Iranian Citizens](https://www.darkreading.com/attacks-breaches/furball-spyware-being-used-against-iranian-citizens)
 - [Name That Toon: Witching Hour](https://www.darkreading.com/cloud/name-that-toon-witching-hour)
 - [Banco Santander and Forgepoint Capital Announce Strategic Alliance to Advance Cybersecurity Investment and Innovation Globally](https://www.darkreading.com/application-security/banco-santander-and-forgepoint-capital-announce-strategic-alliance-to-advance-cybersecurity-investment-and-innovation-globally)
@@ -83,7 +84,6 @@
 - [Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection](https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection)
 - [Corsa Security Drives Forward with Additional $10 Million Funding](https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding)
 - [Only 4% of Security and IT Leaders Believe All of Their Cloud Data is Sufficiently Secured](https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured)
-- [CyCognito Launches Next Generation of Exploit Intelligence Threat Remediation Platform](https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
