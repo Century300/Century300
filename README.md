@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hardware Makers Standardize Server Chip Security With Caliptra](https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra)
 - [Brazilian Police Nab Suspected Member of Lapsus$ Group](https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member)
 - [4 Ways To Achieve Comprehensive Security](https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security)
 - [&#39;FurBall&#39; Spyware Being Used Against Iranian Citizens](https://www.darkreading.com/attacks-breaches/furball-spyware-being-used-against-iranian-citizens)
@@ -83,7 +84,6 @@
 - [Banco Santander and Forgepoint Capital Announce Strategic Alliance to Advance Cybersecurity Investment and Innovation Globally](https://www.darkreading.com/application-security/banco-santander-and-forgepoint-capital-announce-strategic-alliance-to-advance-cybersecurity-investment-and-innovation-globally)
 - [Anonos Secures $50 Million in IP-Backed Financing to Deliver Data Privacy Technology with 100% Accuracy and Utility to Data-Driven Enterprises](https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises)
 - [Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection](https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection)
-- [Corsa Security Drives Forward with Additional $10 Million Funding](https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
