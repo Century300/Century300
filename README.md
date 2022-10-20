@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anonos Secures $50 Million in IP-Backed Financing to Deliver Data Privacy Technology with 100% Accuracy and Utility to Data-Driven Enterprises](https://www.darkreading.com/privacy/anonos-secures-50-million-in-ip-backed-financing-to-deliver-data-privacy-technology-with-100-accuracy-and-utility-to-data-driven-enterprises)
+- [Datadog Launches Cloud Security Management to Provide Cloud Native Application Protection](https://www.darkreading.com/cloud/datadog-launches-cloud-security-management-to-provide-cloud-native-application-protection)
+- [Corsa Security Drives Forward with Additional $10 Million Funding](https://www.darkreading.com/perimeter/corsa-security-drives-forward-with-additional-10-million-funding)
 - [Only 4% of Security and IT Leaders Believe All of Their Cloud Data is Sufficiently Secured](https://www.darkreading.com/cloud/only-4-of-security-and-it-leaders-believe-all-of-their-cloud-data-is-sufficiently-secured)
 - [CyCognito Launches Next Generation of Exploit Intelligence Threat Remediation Platform](https://www.darkreading.com/threat-intelligence/cycognito-launches-next-generation-of-exploit-intelligence-threat-remediation-platform)
 - [SynSaber Adds New Dynamic Pipeline to OT Cybersecurity Platform](https://www.darkreading.com/perimeter/synsaber-adds-new-dynamic-pipeline-to-ot-cybersecurity-platform)
 - [New Torii Report Finds 60% of IT Leaders Don’t Know What Apps They Have](https://www.darkreading.com/operations/new-torii-report-finds-60-of-it-leaders-don-t-know-what-apps-they-have)
 - [HP Launches Sure Access Enterprise to Protect High Value Data and Systems](https://www.darkreading.com/endpoint/hp-launches-sure-access-enterprise-to-protect-high-value-data-and-systems)
-- [Are You a CISO Building Your Risk Register for 2023? Read This First](https://www.darkreading.com/risk/are-you-a-ciso-building-your-risk-register-for-2023-read-this-first)
-- [Bolster Deepens Platform with Dark Web Threat Intelligence and 24/7 Support](https://www.darkreading.com/threat-intelligence/bolster-deepens-platform-with-dark-web-threat-intelligence-and-24-7-support)
-- [8 Trends Driving Cybersecurity in the Public Sector](https://www.darkreading.com/cloud/8-trends-driving-cybersecurity-in-the-public-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
