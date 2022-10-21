@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability](https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability)
 - [Passkey Demos Hint at What&#39;s Ahead for Passwordless Authentication](https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future)
 - [Katzcy Teams up with NIST on Cybersecurity Games](https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games)
 - [Iron Man Started His Journey From Scratch &amp; Your Security Awareness Program Can Too](https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too)
@@ -83,7 +84,6 @@
 - [Hardware Makers Standardize Server Chip Security With Caliptra](https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra)
 - [Brazilian Police Nab Suspected Member of Lapsus$ Group](https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member)
 - [Microsoft Data-Exposure Incident Highlights Risk of Cloud Storage Misconfiguration](https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations)
-- [4 Ways To Achieve Comprehensive Security](https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
