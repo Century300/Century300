@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Passkey Demos Hint at What&#39;s Ahead for Passwordless Authentication](https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future)
 - [Katzcy Teams up with NIST on Cybersecurity Games](https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games)
 - [Iron Man Started His Journey From Scratch &amp; Your Security Awareness Program Can Too](https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too)
 - [List of Common Passwords Accounts for Nearly All Cyberattacks](https://www.darkreading.com/endpoint/a-common-password-list-accounts-for-nearly-all-cyberattacks)
@@ -83,7 +84,6 @@
 - [Brazilian Police Nab Suspected Member of Lapsus$ Group](https://www.darkreading.com/attacks-breaches/brazilian-police-nab-suspected-lapsus-group-member)
 - [Microsoft Data-Exposure Incident Highlights Risk of Cloud Storage Misconfiguration](https://www.darkreading.com/cloud/microsoft-data-exposure-incident-highlights-risk-of-cloud-storage-misconfigurations)
 - [4 Ways To Achieve Comprehensive Security](https://www.darkreading.com/microsoft/4-ways-to-achieve-comprehensive-security)
-- [&#39;FurBall&#39; Spyware Being Used Against Iranian Citizens](https://www.darkreading.com/attacks-breaches/furball-spyware-being-used-against-iranian-citizens)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
