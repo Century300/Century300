@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Barrage Aimed at US Healthcare Sector, Feds Warn](https://www.darkreading.com/attacks-breaches/ransomware-barrage-us-healthcare-sector-feds-warn)
 - [Godspeed Capital-Backed SilverEdge Partners with Counter Threat Solutions](https://www.darkreading.com/threat-intelligence/godspeed-capital-backed-silveredge-partners-with-counter-threat-solutions)
 - [Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime](https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime)
 - [Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall](https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall)
@@ -83,7 +84,6 @@
 - [Scribe Security Launches Evidence-Based Security Trust Hub](https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub)
 - [Nok Nok, a Global Leader in Customer Passwordless Authentication, Releases Full Support for Passkeys](https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys)
 - [Embracing the Next Generation of Business Developers](https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers)
-- [FBI: Iranian Threat Group Likely to Target US Midterms](https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
