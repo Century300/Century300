@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IoT Fingerprinting Helps Authenticate and Secure All Those Devices](https://www.darkreading.com/dr-tech/iot-fingerprinting-helps-authenticate-and-secure-all-those-devices)
 - [Stress Is Driving Cybersecurity Professionals to Rethink Roles](https://www.darkreading.com/careers-and-people/stress-driving-cybersecurity-professionals-rethink-roles)
 - [Atlassian Vulnerabilities Highlight Criticality of Cloud Services](https://www.darkreading.com/vulnerabilities-threats/atlassian-vulnerabilities-highlight-criticality-cloud-services)
 - [Ransomware Barrage Aimed at US Healthcare Sector, Feds Warn](https://www.darkreading.com/attacks-breaches/ransomware-barrage-us-healthcare-sector-feds-warn)
@@ -83,7 +84,6 @@
 - [Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime](https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime)
 - [Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall](https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall)
 - [Cybersecurity&#39;s Role in Combating Midterm Election Disinformation](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-)
-- [Scribe Security Launches Evidence-Based Security Trust Hub](https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
