@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nok Nok, a Global Leader in Customer Passwordless Authentication, Releases Full Support for Passkeys](https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys)
+- [Embracing the Next Generation of Business Developers](https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers)
 - [FBI: Iranian Threat Group Likely to Target US Midterms](https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms)
 - [Google&#39;s GUAC Aims to Democratize Software Supply Chain Security Metadata](https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata)
 - [Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability](https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability)
 - [Passkey Demos Hint at What&#39;s Ahead for Passwordless Authentication](https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future)
 - [Katzcy Teams up with NIST on Cybersecurity Games](https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games)
 - [Iron Man Started His Journey From Scratch &amp; Your Security Awareness Program Can Too](https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too)
-- [List of Common Passwords Accounts for Nearly All Cyberattacks](https://www.darkreading.com/endpoint/a-common-password-list-accounts-for-nearly-all-cyberattacks)
-- [Hardware Makers Standardize Server Chip Security With Caliptra](https://www.darkreading.com/dr-tech/hardware-makers-standardize-server-chip-security-with-caliptra)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
