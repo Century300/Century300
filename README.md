@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall](https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall)
+- [Cybersecurity&#39;s Role in Combating Midterm Election Disinformation](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-)
+- [Scribe Security Launches Evidence-Based Security Trust Hub](https://www.darkreading.com/application-security/scribe-security-launches-evidence-based-security-trust-hub)
 - [Nok Nok, a Global Leader in Customer Passwordless Authentication, Releases Full Support for Passkeys](https://www.darkreading.com/endpoint/nok-nok-a-global-leader-in-customer-passwordless-authentication-releases-full-support-for-passkeys)
 - [Embracing the Next Generation of Business Developers](https://www.darkreading.com/edge-articles/embracing-the-next-generation-of-business-developers)
 - [FBI: Iranian Threat Group Likely to Target US Midterms](https://www.darkreading.com/threat-intelligence/fbi-iranian-threat-group-likely-to-target-us-midterms)
 - [Google&#39;s GUAC Aims to Democratize Software Supply Chain Security Metadata](https://www.darkreading.com/application-security/googles-guac-project-aims-to-democratize-software-supply-chain-security-metadata)
 - [Exploit Attempts Underway for Apache Commons Text4Shell Vulnerability](https://www.darkreading.com/attacks-breaches/exploit-attempts-are-under-way-for-apache-commons-text4shell-vulnerability)
-- [Passkey Demos Hint at What&#39;s Ahead for Passwordless Authentication](https://www.darkreading.com/dr-tech/google-and-microsoft-passkeys-preview-the-passwordless-future)
-- [Katzcy Teams up with NIST on Cybersecurity Games](https://www.darkreading.com/careers-and-people/katzcy-teams-up-with-nist-on-cybersecurity-games)
-- [Iron Man Started His Journey From Scratch &amp; Your Security Awareness Program Can Too](https://www.darkreading.com/attacks-breaches/iron-man-started-his-journey-from-scratch-your-security-awareness-program-can-too)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
