@@ -80,10 +80,10 @@
 - [LinkedIn Phishing Spoof Bypasses Google Workspace Security](https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security)
 - [Threat Groups Repurpose Banking Trojans into Backdoors](https://www.darkreading.com/risk/threat-groups-repurpose-banking-trojans-backdoors)
 - [HR Departments Play a Key Role in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/hr-departments-play-a-key-role-in-cybersecurity)
+- [Equifax&#39;s Lessons Are Still Relevant, 5 Years Later](https://www.darkreading.com/edge-articles/5-years-after-the-equifax-breach-industry-experts-share-new-insights)
 - [Spyderbat Raises Series A to Deliver Runtime Security Throughout Cloud Native Software Development Environments](https://www.darkreading.com/cloud/spyderbat-raises-series-a-to-deliver-runtime-security-throughout-cloud-native-software-development-environments)
 - [MSP Market Opportunity Report Finds Cybersecurity as Primary Growth Driver as SMBs Lack Resources to Develop Security Program In-House](https://www.darkreading.com/operations/msp-market-opportunity-report-finds-cybersecurity-as-primary-growth-driver-as-smbs-lack-resources-to-develop-security-program-in-house)
 - [Security Leaders are Calling for Industry to Take Action and Programmatically Improve Secure Coding Education](https://www.darkreading.com/application-security/security-leaders-are-calling-for-industry-to-take-action-and-programmatically-improve-secure-coding-education)
-- [SealPath Data Classification Powered by Getvisibility Applies Artificial Intelligence to Improve Accuracy and Efficiency of Data Labelling and Protection](https://www.darkreading.com/analytics/sealpath-data-classification-powered-by-getvisibility-applies-artificial-intelligence-to-improve-accuracy-and-efficiency-of-data-labelling-and-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
