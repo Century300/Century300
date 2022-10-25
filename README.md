@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Groups Repurpose Banking Trojans into Backdoors](https://www.darkreading.com/risk/threat-groups-repurpose-banking-trojans-backdoors)
+- [HR Departments Play a Key Role in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/hr-departments-play-a-key-role-in-cybersecurity)
 - [Spyderbat Raises Series A to Deliver Runtime Security Throughout Cloud Native Software Development Environments](https://www.darkreading.com/cloud/spyderbat-raises-series-a-to-deliver-runtime-security-throughout-cloud-native-software-development-environments)
 - [MSP Market Opportunity Report Finds Cybersecurity as Primary Growth Driver as SMBs Lack Resources to Develop Security Program In-House](https://www.darkreading.com/operations/msp-market-opportunity-report-finds-cybersecurity-as-primary-growth-driver-as-smbs-lack-resources-to-develop-security-program-in-house)
 - [Security Leaders are Calling for Industry to Take Action and Programmatically Improve Secure Coding Education](https://www.darkreading.com/application-security/security-leaders-are-calling-for-industry-to-take-action-and-programmatically-improve-secure-coding-education)
 - [SealPath Data Classification Powered by Getvisibility Applies Artificial Intelligence to Improve Accuracy and Efficiency of Data Labelling and Protection](https://www.darkreading.com/analytics/sealpath-data-classification-powered-by-getvisibility-applies-artificial-intelligence-to-improve-accuracy-and-efficiency-of-data-labelling-and-protection)
 - [Study Finds Significant Correlation Between BitSight Analytics and Cybersecurity Incidents](https://www.darkreading.com/risk/study-finds-significant-correlation-between-bitsight-analytics-and-cybersecurity-incidents)
 - [Dealers Report Dramatic Increase in Identity Fraud: Most Lack Effective Protection](https://www.darkreading.com/endpoint/dealers-report-dramatic-increase-in-identity-fraud-most-lack-effective-protection)
-- [Cybersecurity Risks &amp; Stats This Spooky Season](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-risks-and-stats-this-spooky-season)
-- [As Vulnerabilities Soar, Slim.AI Launches &#39;Container Intelligence&#39; to Give In-Depth Analysis on Hundreds of Popular Container Images](https://www.darkreading.com/cloud/as-vulnerabilities-soar-slim-ai-launches-container-intelligence-to-give-in-depth-analysis-on-hundreds-of-popular-container-images)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
