@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [IoT Fingerprinting Helps Authenticate and Secure All Those Devices](https://www.darkreading.com/dr-tech/iot-fingerprinting-helps-authenticate-and-secure-all-those-devices)
-- [Stress Is Driving Cybersecurity Professionals to Rethink Roles](https://www.darkreading.com/careers-and-people/stress-driving-cybersecurity-professionals-rethink-roles)
-- [Atlassian Vulnerabilities Highlight Criticality of Cloud Services](https://www.darkreading.com/vulnerabilities-threats/atlassian-vulnerabilities-highlight-criticality-cloud-services)
-- [Ransomware Barrage Aimed at US Healthcare Sector, Feds Warn](https://www.darkreading.com/attacks-breaches/ransomware-barrage-us-healthcare-sector-feds-warn)
-- [Godspeed Capital-Backed SilverEdge Partners with Counter Threat Solutions](https://www.darkreading.com/threat-intelligence/godspeed-capital-backed-silveredge-partners-with-counter-threat-solutions)
-- [Uptycs Introduces Detections that Correlate Threat Activity from the Kubernetes Control Plane and Container Runtime](https://www.darkreading.com/cloud/uptycs-introduces-detections-that-correlate-threat-activity-from-the-kubernetes-control-plane-and-container-runtime)
-- [Hornetsecurity Launches Next-Generation Security Awareness Training to Help Organizations Strengthen Their Human Firewall](https://www.darkreading.com/operations/hornetsecurity-launches-next-generation-security-awareness-training-to-help-organizations-strengthen-their-human-firewall)
-- [Cybersecurity&#39;s Role in Combating Midterm Election Disinformation](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-s-role-in-combating-midterm-election-disinformation-)
+- [Duality Launches First Ever Enterprise-Ready Privacy-Enhanced Data Collaboration Platform](https://www.darkreading.com/operations/duality-launches-first-ever-enterprise-ready-privacy-enhanced-data-collaboration-platform)
+- [Financial Services Firms Operating Under False Sense of Security](https://www.darkreading.com/attacks-breaches/financial-services-firms-operating-under-false-sense-of-security)
+- [Palo Alto Networks NextWave Program Provides the Threat Response Community With XDR for Incident Response Fueled by MSSP Demand](https://www.darkreading.com/attacks-breaches/palo-alto-networks-nextwave-program-provides-the-threat-response-community-with-xdr-for-incident-response-fueled-by-mssp-demand)
+- [US Employees Feel Little Concern for Data Theft at Work, New Research Reveals](https://www.darkreading.com/attacks-breaches/u-s-employees-feel-little-concern-for-data-theft-at-work-new-research-reveals)
+- [Spyderbat Announces Open Source Program for Cloud Native Visibility and Security](https://www.darkreading.com/cloud/spyderbat-announces-open-source-program-for-cloud-native-visibility-and-security)
+- [Akamai Announces Next Generation DDoS Defense Platform](https://www.darkreading.com/perimeter/akamai-announces-next-generation-ddos-defense-p)
+- [Illusive&#39;s Identity Threat Detection and Response &lpar;ITDR&rpar; Solution Protects Privileged Accounts](https://www.darkreading.com/endpoint/illusive-s-identity-threat-detection-and-response-itdr-solution-protects-privileged-accounts)
+- [AwareID™ Offers Lightning-Fast Identity Verification, Multi-Factor Authentication and Multi-Modal Biometrics in a Single Low-Code platform](https://www.darkreading.com/application-security/awareid-offers-lightning-fast-identity-verification-multi-factor-authentication-and-multi-modal-biometrics-in-a-single-low-code-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
