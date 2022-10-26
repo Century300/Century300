@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Gangs Ramp Up Industrial Attacks in US](https://www.darkreading.com/ics-ot/ransomware-gangs-ramp-industrial-attacks-us)
+- [Why Retail Stores Are More Vulnerable Than Ever to Cybercrime](https://www.darkreading.com/physical-security/why-retail-stores-are-more-vulnerable-than-ever-to-cybercrime)
+- [4 Reasons Open Source Matters for Cloud Security](https://www.darkreading.com/cloud/4-reasons-open-source-matters-for-cloud-security)
 - [Cisco Warns AnyConnect VPNs Under Active Cyberattack](https://www.darkreading.com/remote-workforce/cisco-warns-anyconnect-vpns-active-cyberattack)
 - [Content Security Market Worth $2.2 Million by 2027 - Exclusive Study by MarketsandMarkets&lpar;TM&rpar;](https://www.darkreading.com/cloud/content-security-market-worth-2-219-million-by-2027---exclusive-study-by-marketsandmarkets-tm-)
 - [Google Enters Into Stipulated Agreement to Improve Legal Process Compliance Program](https://www.darkreading.com/risk/google-enters-into-stipulated-agreement-to-improve-legal-process-compliance-program)
 - [54% of Staff Would Reconsider Working for a Firm That Had Experienced a Cyber Breach, Research Finds](https://www.darkreading.com/careers-and-people/54-of-staff-would-reconsider-working-for-a-firm-that-had-experienced-a-cyber-breach-research-finds)
 - [Valence Security Announces $25M Series A to Scale Delivery of Collaborative SaaS Security Remediation Solutions to Customers](https://www.darkreading.com/cloud/valence-security-announces-25m-series-a-to-scale-delivery-of-collaborative-saas-security-remediation-solutions-to-customers)
-- [Open Source Is Just the Tip of the Iceberg in Software Supply Chain Security](https://www.darkreading.com/risk/open-source-is-just-the-tip-of-the-iceberg-in-software-supply-chain-security)
-- [Rezilion Vulnerability Scanner Benchmark Report Finds Top Scanners Only 73% Accurate](https://www.darkreading.com/vulnerabilities-threats/rezilion-vulnerability-scanner-benchmark-report-finds-top-scanners-only-73-accurate)
-- [BlackBerry Launches Cyber Threat Intelligence Service to Strengthen Cyber Defenses](https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
