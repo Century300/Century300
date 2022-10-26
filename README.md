@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [54% of Staff Would Reconsider Working for a Firm That Had Experienced a Cyber Breach, Research Finds](https://www.darkreading.com/careers-and-people/54-of-staff-would-reconsider-working-for-a-firm-that-had-experienced-a-cyber-breach-research-finds)
+- [Valence Security Announces $25M Series A to Scale Delivery of Collaborative SaaS Security Remediation Solutions to Customers](https://www.darkreading.com/cloud/valence-security-announces-25m-series-a-to-scale-delivery-of-collaborative-saas-security-remediation-solutions-to-customers)
 - [Open Source Is Just the Tip of the Iceberg in Software Supply Chain Security](https://www.darkreading.com/risk/open-source-is-just-the-tip-of-the-iceberg-in-software-supply-chain-security)
 - [Rezilion Vulnerability Scanner Benchmark Report Finds Top Scanners Only 73% Accurate](https://www.darkreading.com/vulnerabilities-threats/rezilion-vulnerability-scanner-benchmark-report-finds-top-scanners-only-73-accurate)
 - [BlackBerry Launches Cyber Threat Intelligence Service to Strengthen Cyber Defenses](https://www.darkreading.com/threat-intelligence/blackberry-launches-cyber-threat-intelligence-service-to-strengthen-cyber-defenses)
 - [Top 10 Kubernetes Security Risks Every DevSecOps Pro Should Know](https://www.darkreading.com/dr-tech/top-10-kubernetes-security-risks-every-devsecops-needs-to-know)
 - [Baltimore/Washington International Thurgood Marshall Airport Selects Telos to Process Background Checks for Aviation Workers](https://www.darkreading.com/physical-security/baltimore-washington-international-thurgood-marshall-airport-selects-telos-to-process-background-checks-for-aviation-workers)
 - [Dark Reading Launches New Section Dedicated to ICS/OT Security](https://www.darkreading.com/ics-ot/dark-reading-launches-new-section-dedicated-to-ics-ot-security)
-- [Windows Mark of the Web Zero-Days Remain Patchless, Under Exploit](https://www.darkreading.com/attacks-breaches/windows-mark-of-the-web-zero-days-patchless-exploit)
-- [LinkedIn Phishing Spoof Bypasses Google Workspace Security](https://www.darkreading.com/risk/linkedin-phishing-spoof-bypasses-google-workspace-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
