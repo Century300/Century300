@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [iOS Bug Lets Apps Record Siri Conversations](https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations)
 - [Raspberry Robin&#39;s Cyber Worm Infects Thousands of Endpoints](https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints)
 - [NY Post Falls Victim to Insider Threat](https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat)
 - [Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn](https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn)
@@ -83,7 +84,6 @@
 - [Persona Launches Unified Identity Platform to Fight Fraud and Reduce Compliance Risk](https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk)
 - [Cybersecurity Startup Protexxa Raises $4 Million in Seed Funding to Protect Businesses and Individuals Online as Cybercrime Accelerates](https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates)
 - [Cyberattackers Target Instagram Users With Threats of Copyright Infringement](https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement)
-- [Cryptojacking, Freejacking Compromise Cloud Infrastructure](https://www.darkreading.com/cloud/cryptojacking-freejacking-compromise-cloud-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
