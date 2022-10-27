@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cryptojacking, Freejacking Compromise Cloud Infrastructure](https://www.darkreading.com/cloud/cryptojacking-freejacking-compromise-cloud-infrastructure)
+- [Worldwide Banking Encryption Software Market to Reach $5.03 Billion by 2030 at a 13% CAGR](https://www.darkreading.com/attacks-breaches/worldwide-banking-encryption-software-market-to-reach-5-03-billion-by-2030-at-a-13-cagr)
+- [3 Steps Small Businesses Can Take to Prevent Cyberattacks](https://www.darkreading.com/edge-articles/3-steps-small-businesses-can-take-to-prevent-cyberattacks)
+- [OneLayer Opens 5G Security Lab for Network Security Companies to Research Threats to Private Cellular Networks](https://www.darkreading.com/ics-ot/onelayer-opens-5g-security-lab-for-network-security-companies-to-research-threats-to-private-cellular-networks)
+- [Netwrix Study: 86% of Cloud Attacks in the Healthcare Sector Result in Financial Losses or Other Damage](https://www.darkreading.com/attacks-breaches/netwrix-study-86-of-cloud-attacks-in-the-healthcare-sector-result-in-financial-losses-or-other-damage)
+- [2022 Advisen-Zurich Survey Illuminates Growing Cybersecurity Concerns](https://www.darkreading.com/risk/2022-advisen-zurich-survey-illuminates-growing-cybersecurity-concerns)
+- [7 Hidden Social Media Cyber Risks for Enterprises](https://www.darkreading.com/application-security/7-hidden-social-media-cyber-risks-enterprises)
 - [Google Chrome Pays $57K &lpar;and Counting&rpar; in Bug Bounties for Latest Update](https://www.darkreading.com/vulnerabilities-threats/google-chrome-paid-57k-bug-bounties-update)
-- [GitLab Adds Governance, Software Supply Chain Enhancements](https://www.darkreading.com/dr-tech/gitlab-adds-governance-software-supply-chain-enhancements)
-- [Ransomware Gangs Ramp Up Industrial Attacks in US](https://www.darkreading.com/ics-ot/ransomware-gangs-ramp-industrial-attacks-us)
-- [Why Retail Stores Are More Vulnerable Than Ever to Cybercrime](https://www.darkreading.com/physical-security/why-retail-stores-are-more-vulnerable-than-ever-to-cybercrime)
-- [4 Reasons Open Source Matters for Cloud Security](https://www.darkreading.com/cloud/4-reasons-open-source-matters-for-cloud-security)
-- [Cisco Warns AnyConnect VPNs Under Active Cyberattack](https://www.darkreading.com/remote-workforce/cisco-warns-anyconnect-vpns-active-cyberattack)
-- [Content Security Market Worth $2.2 Million by 2027 - Exclusive Study by MarketsandMarkets&lpar;TM&rpar;](https://www.darkreading.com/cloud/content-security-market-worth-2-219-million-by-2027---exclusive-study-by-marketsandmarkets-tm-)
-- [Google Enters Into Stipulated Agreement to Improve Legal Process Compliance Program](https://www.darkreading.com/risk/google-enters-into-stipulated-agreement-to-improve-legal-process-compliance-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
