@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Raspberry Robin&#39;s Cyber Worm Infects Thousands of Endpoints](https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints)
+- [NY Post Falls Victim to Insider Threat](https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat)
 - [Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn](https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn)
 - [Google Trumpets US Federal Open Source Security Initiative](https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative)
 - [Persona Launches Unified Identity Platform to Fight Fraud and Reduce Compliance Risk](https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk)
 - [Cybersecurity Startup Protexxa Raises $4 Million in Seed Funding to Protect Businesses and Individuals Online as Cybercrime Accelerates](https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates)
 - [Cyberattackers Target Instagram Users With Threats of Copyright Infringement](https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement)
 - [Cryptojacking, Freejacking Compromise Cloud Infrastructure](https://www.darkreading.com/cloud/cryptojacking-freejacking-compromise-cloud-infrastructure)
-- [How to Attract Top Research Talent for Your Bug Bounty Program](https://www.darkreading.com/attacks-breaches/how-to-attract-top-research-talent-for-your-bug-bounty-program)
-- [Worldwide Banking Encryption Software Market to Reach $5.03 Billion by 2030 at a 13% CAGR](https://www.darkreading.com/attacks-breaches/worldwide-banking-encryption-software-market-to-reach-5-03-billion-by-2030-at-a-13-cagr)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
