@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Target Instagram Users With Threats of Copyright Infringement](https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement)
 - [Cryptojacking, Freejacking Compromise Cloud Infrastructure](https://www.darkreading.com/cloud/cryptojacking-freejacking-compromise-cloud-infrastructure)
 - [How to Attract Top Research Talent for Your Bug Bounty Program](https://www.darkreading.com/attacks-breaches/how-to-attract-top-research-talent-for-your-bug-bounty-program)
 - [Worldwide Banking Encryption Software Market to Reach $5.03 Billion by 2030 at a 13% CAGR](https://www.darkreading.com/attacks-breaches/worldwide-banking-encryption-software-market-to-reach-5-03-billion-by-2030-at-a-13-cagr)
@@ -83,7 +84,6 @@
 - [OneLayer Opens 5G Security Lab for Network Security Companies to Research Threats to Private Cellular Networks](https://www.darkreading.com/ics-ot/onelayer-opens-5g-security-lab-for-network-security-companies-to-research-threats-to-private-cellular-networks)
 - [Netwrix Study: 86% of Cloud Attacks in the Healthcare Sector Result in Financial Losses or Other Damage](https://www.darkreading.com/attacks-breaches/netwrix-study-86-of-cloud-attacks-in-the-healthcare-sector-result-in-financial-losses-or-other-damage)
 - [2022 Advisen-Zurich Survey Illuminates Growing Cybersecurity Concerns](https://www.darkreading.com/risk/2022-advisen-zurich-survey-illuminates-growing-cybersecurity-concerns)
-- [7 Hidden Social Media Cyber Risks for Enterprises](https://www.darkreading.com/application-security/7-hidden-social-media-cyber-risks-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
