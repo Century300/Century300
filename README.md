@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Wanted: Cybersecurity Training That Breaks Down Silos](https://www.darkreading.com/edge-articles/cybersecurity-training-that-breaks-silos-and-upskills-talent)
 - [Cranefly Cyberspy Group Spawns Unique ISS Technique](https://www.darkreading.com/risk/cranefly-cyberspy-group-spawns-unique-iss-technique)
 - [Reimagining the Role of the CISO](https://www.darkreading.com/careers-and-people/reimagining-the-role-of-the-ciso)
 - [Cloud Providers Throw Their Weight Behind Confidential Computing](https://www.darkreading.com/dr-tech/cloud-providers-are-putting-more-weight-in-confidential-computing)
@@ -83,7 +84,6 @@
 - [iOS Bug Lets Apps Record Siri Conversations](https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations)
 - [Raspberry Robin&#39;s Cyber Worm Infects Thousands of Endpoints](https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints)
 - [NY Post Falls Victim to Insider Threat](https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat)
-- [Prepare Now for Critical Flaw in OpenSSL, Security Experts Warn](https://www.darkreading.com/vulnerabilities-threats/prepare-critical-flaw-openssl-security-experts-warn)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
