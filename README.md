@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Notice: Multi-Color Corporation Statement on Data Security Incident](https://www.darkreading.com/attacks-breaches/notice-multi-color-corporation-statement-on-data-security-incident)
 - [Urgent: Google Issues Emergency Patch for Chrome Zero-Day](https://www.darkreading.com/vulnerabilities-threats/urgent-google-issues-emergency-patch-chrome-zero-day)
+- [Cyber Leadership and Strategy Solutions &lpar;CLASS-LLC&rpar; and Cyversity Launch a Cybersecurity Apprenticeship Cohort](https://www.darkreading.com/careers-and-people/cyber-leadership-and-strategy-solutions-class-llc-and-cyversity-launch-a-cybersecurity-apprenticeship-cohort)
 - [Nozomi Networks-Sponsored SANS Survey Finds Security Defenses are Getting Stronger as Cyber Threats to OT Environments Remain High](https://www.darkreading.com/ics-ot/nozomi-networks-sponsored-sans-survey-finds-security-defenses-are-getting-stronger-as-cyber-threats-to-ot-environments-remain-high)
 - [Dark Web Forum Busts Come Days Apart](https://www.darkreading.com/attacks-breaches/two-illicit-dark-web-platform-operators-busted-days-apart)
 - [Wanted: Cybersecurity Training That Breaks Down Silos](https://www.darkreading.com/edge-articles/cybersecurity-training-that-breaks-silos-and-upskills-talent)
 - [Cranefly Cyberspy Group Spawns Unique ISS Technique](https://www.darkreading.com/risk/cranefly-cyberspy-group-spawns-unique-iss-technique)
 - [Reimagining the Role of the CISO](https://www.darkreading.com/careers-and-people/reimagining-the-role-of-the-ciso)
-- [Cloud Providers Throw Their Weight Behind Confidential Computing](https://www.darkreading.com/dr-tech/cloud-providers-are-putting-more-weight-in-confidential-computing)
-- [Apple Launches New Security Research Hub](https://www.darkreading.com/dr-tech/apple-launches-new-security-research-hub)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
