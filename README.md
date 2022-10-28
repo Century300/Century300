@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Launches New Security Research Hub](https://www.darkreading.com/dr-tech/apple-launches-new-security-research-hub)
 - [iOS Bug Lets Apps Record Siri Conversations](https://www.darkreading.com/mobile/ios-bug-apps-record-siri-conversations)
 - [Raspberry Robin&#39;s Cyber Worm Infects Thousands of Endpoints](https://www.darkreading.com/threat-intelligence/raspberry-robin-cyber-worm-infects-thousands-endpoints)
 - [NY Post Falls Victim to Insider Threat](https://www.darkreading.com/attacks-breaches/ny-post-falls-victim-to-insider-threat)
@@ -83,7 +84,6 @@
 - [Google Trumpets US Federal Open Source Security Initiative](https://www.darkreading.com/risk/google-trumpets-us-federal-open-source-security-initiative)
 - [Persona Launches Unified Identity Platform to Fight Fraud and Reduce Compliance Risk](https://www.darkreading.com/risk/persona-launches-unified-identity-platform-to-fight-fraud-and-reduce-compliance-risk)
 - [Cybersecurity Startup Protexxa Raises $4 Million in Seed Funding to Protect Businesses and Individuals Online as Cybercrime Accelerates](https://www.darkreading.com/risk/cybersecurity-startup-protexxa-raises-4-million-in-seed-funding-to-protect-businesses-and-individuals-online-as-cybercrime-accelerates)
-- [Cyberattackers Target Instagram Users With Threats of Copyright Infringement](https://www.darkreading.com/application-security/cyberttackers-target-instagram-users-threats-copyright-infringement)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
