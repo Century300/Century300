@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: Dangerous RCE Bug Lays Open ConnectWise Server Backup Managers](https://www.darkreading.com/risk/patch-rce-bug-connectwise-server-backup-managers)
+- [How Chip Makers Are Implementing Confidential Computing](https://www.darkreading.com/dr-tech/how-chip-makers-are-implementing-confidential-computing)
 - [White House Convenes International Ransomware Summit](https://www.darkreading.com/risk/white-house-convenes-international-ransomware-summit)
 - [Why Are Zombie APIs and Shadow APIs So Scary?](https://www.darkreading.com/edge-ask-the-experts/why-are-zombie-apis-and-shadow-apis-so-scary-)
 - [Cyberattack Strikes Global Copper Conglomerate](https://www.darkreading.com/ics-ot/cyberattack-strikes-global-copper-conglomerate)
 - [Normalyze Co-Founder and CTO, Ravi Ithal, Named to the Enterprise Security Tech Cyber Influencer Top 10 List](https://www.darkreading.com/careers-and-people/normalyze-co-founder-and-cto-ravi-ithal-named-to-the-enterprise-security-tech-cyber-influencer-top-10-list)
 - [Cloud-Native Security Was in the Air at KubeCon/CloudNativeCon 2022](https://www.darkreading.com/omdia/cloud-native-security-was-in-the-air-at-kubecon-cloudnativecon-2022)
 - [Persistent Launches Cyber-Recovery Solution With Google Cloud](https://www.darkreading.com/attacks-breaches/persistent-launches-cyber-recovery-solution-with-google-cloud)
-- [Zscaler&#39;s Cloud-Based Cybersecurity Outages Showcase Redundancy Problem](https://www.darkreading.com/cloud/zscaler-cloud-based-cybersecurity-outages-redundancy)
-- [A Cyber Threat Minute: Cybercrime’s Scope in 60-Second Snapshots](https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
