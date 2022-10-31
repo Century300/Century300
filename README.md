@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Normalyze Co-Founder and CTO, Ravi Ithal, Named to the Enterprise Security Tech Cyber Influencer Top 10 List](https://www.darkreading.com/careers-and-people/normalyze-co-founder-and-cto-ravi-ithal-named-to-the-enterprise-security-tech-cyber-influencer-top-10-list)
 - [Cloud-Native Security Was in the Air at KubeCon/CloudNativeCon 2022](https://www.darkreading.com/omdia/cloud-native-security-was-in-the-air-at-kubecon-cloudnativecon-2022)
 - [Persistent Launches Cyber-Recovery Solution With Google Cloud](https://www.darkreading.com/attacks-breaches/persistent-launches-cyber-recovery-solution-with-google-cloud)
 - [Zscaler&#39;s Cloud-Based Cybersecurity Outages Showcase Redundancy Problem](https://www.darkreading.com/cloud/zscaler-cloud-based-cybersecurity-outages-redundancy)
@@ -83,7 +84,6 @@
 - [Does Security Have to Get Worse Before It Gets Better?](https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better)
 - [Synack Expands Security Platform With Adversarial API Pentesting](https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting)
 - [Notice: Multi-Color Corporation Statement on Data Security Incident](https://www.darkreading.com/attacks-breaches/notice-multi-color-corporation-statement-on-data-security-incident)
-- [Urgent: Google Issues Emergency Patch for Chrome Zero-Day](https://www.darkreading.com/vulnerabilities-threats/urgent-google-issues-emergency-patch-chrome-zero-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
