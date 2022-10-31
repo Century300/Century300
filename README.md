@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud-Native Security Was in the Air at KubeCon/CloudNativeCon 2022](https://www.darkreading.com/omdia/cloud-native-security-was-in-the-air-at-kubecon-cloudnativecon-2022)
+- [Persistent Launches Cyber-Recovery Solution With Google Cloud](https://www.darkreading.com/attacks-breaches/persistent-launches-cyber-recovery-solution-with-google-cloud)
+- [Zscaler&#39;s Cloud-Based Cybersecurity Outages Showcase Redundancy Problem](https://www.darkreading.com/cloud/zscaler-cloud-based-cybersecurity-outages-redundancy)
 - [A Cyber Threat Minute: Cybercrime’s Scope in 60-Second Snapshots](https://www.darkreading.com/microsoft/a-cyberthreat-minute-cybercrime-s-scope-in-60-second-snapshots)
 - [Does Security Have to Get Worse Before It Gets Better?](https://www.darkreading.com/application-security/does-security-have-to-get-worse-before-it-gets-better)
 - [Synack Expands Security Platform With Adversarial API Pentesting](https://www.darkreading.com/application-security/synack-expands-security-platform-with-adversarial-api-pentesting)
 - [Notice: Multi-Color Corporation Statement on Data Security Incident](https://www.darkreading.com/attacks-breaches/notice-multi-color-corporation-statement-on-data-security-incident)
 - [Urgent: Google Issues Emergency Patch for Chrome Zero-Day](https://www.darkreading.com/vulnerabilities-threats/urgent-google-issues-emergency-patch-chrome-zero-day)
-- [Cyber Leadership and Strategy Solutions &lpar;CLASS-LLC&rpar; and Cyversity Launch a Cybersecurity Apprenticeship Cohort](https://www.darkreading.com/careers-and-people/cyber-leadership-and-strategy-solutions-class-llc-and-cyversity-launch-a-cybersecurity-apprenticeship-cohort)
-- [Nozomi Networks-Sponsored SANS Survey Finds Security Defenses are Getting Stronger as Cyber Threats to OT Environments Remain High](https://www.darkreading.com/ics-ot/nozomi-networks-sponsored-sans-survey-finds-security-defenses-are-getting-stronger-as-cyber-threats-to-ot-environments-remain-high)
-- [Dark Web Forum Busts Come Days Apart](https://www.darkreading.com/attacks-breaches/two-illicit-dark-web-platform-operators-busted-days-apart)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
