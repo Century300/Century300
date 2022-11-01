@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Retailers Can Stay Protected During the Most Wonderful Time of the Year](https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year)
+- [FTC Gives Chegg an &#39;F&#39; for Careless Cybersecurity Impacting 40M Students](https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students)
 - [Name That Edge Toon: Talk Turkey](https://www.darkreading.com/edge-articles/name-that-edge-toon-talk-turkey)
 - [Network Perception and Check Point Software Technologies Partner to Tighten the Security of OT Firewall Environments](https://www.darkreading.com/ics-ot/network-perception-and-check-point-software-technologies-partner-to-tighten-the-security-of-ot-firewall-environments)
 - [China-Backed APT10 Supercharges Spy Game With Custom Fileless Backdoor](https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor)
 - [Where Are All of the Container Breaches?](https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-)
 - [Online Holiday Shopping Frenzy: Study Shows 1 in 3 Americans Tend to Take More Risks When Shopping Online During Holiday Season](https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season)
 - [Critical Start® Launches New Managed SIEM Service](https://www.darkreading.com/operations/critical-start-launches-new-managed-siem-service)
-- [FitStack, a New Solution For Code and Container Risk Management, Launches With Support From Varsity Venture Studio](https://www.darkreading.com/cloud/fitstack-a-new-solution-for-code-and-container-risk-management-launches-with-support-from-varsity-venture-studio)
-- [Can You Nudge Employees Toward Better Cybersecurity? New Research Says Yes](https://www.darkreading.com/vulnerabilities-threats/can-you-nudge-employees-toward-better-cybersecurity-new-research-says-yes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
