@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical](https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical)
+- [Bed Bath &amp; Beyond Discloses Data Breach to SEC](https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec)
 - [Now That EDR Is Obvious, What Comes Next?](https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-)
 - [Layoffs Mount as Cybersecurity Vendors Hunker Down](https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down)
 - [How Retailers Can Stay Protected During the Most Wonderful Time of the Year](https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year)
 - [FTC Gives Chegg an &#39;F&#39; for Careless Cybersecurity Impacting 40M Students](https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students)
 - [Name That Edge Toon: Talk Turkey](https://www.darkreading.com/edge-articles/name-that-edge-toon-talk-turkey)
 - [Network Perception and Check Point Software Technologies Partner to Tighten the Security of OT Firewall Environments](https://www.darkreading.com/ics-ot/network-perception-and-check-point-software-technologies-partner-to-tighten-the-security-of-ot-firewall-environments)
-- [China-Backed APT10 Supercharges Spy Game With Custom Fileless Backdoor](https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor)
-- [Where Are All of the Container Breaches?](https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
