@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Where Are All of the Container Breaches?](https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-)
+- [Online Holiday Shopping Frenzy: Study Shows 1 in 3 Americans Tend to Take More Risks When Shopping Online During Holiday Season](https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season)
+- [Critical Start® Launches New Managed SIEM Service](https://www.darkreading.com/operations/critical-start-launches-new-managed-siem-service)
 - [FitStack, a New Solution For Code and Container Risk Management, Launches With Support From Varsity Venture Studio](https://www.darkreading.com/cloud/fitstack-a-new-solution-for-code-and-container-risk-management-launches-with-support-from-varsity-venture-studio)
 - [Can You Nudge Employees Toward Better Cybersecurity? New Research Says Yes](https://www.darkreading.com/vulnerabilities-threats/can-you-nudge-employees-toward-better-cybersecurity-new-research-says-yes)
 - [Mission Secure Releases Sentinel 5.0 Platform, Enabling Context-Aware, Zero Trust Security for Critical Infrastructure OT](https://www.darkreading.com/ics-ot/mission-secure-releases-sentinel-5-0-platform-enabling-context-aware-zero-trust-security-for-critical-infrastructure-ot)
 - [Kodiak Robotics Hires Former Google Chief Information Security Officer Gerhard Eschelbeck](https://www.darkreading.com/careers-and-people/kodiak-robotics-hires-former-google-chief-information-security-officer-gerhard-eschelbeck)
 - [&lpar;ISC&rpar;² Expands DEI Initiative with International Partnership Agreements](https://www.darkreading.com/careers-and-people/-isc-expands-dei-initiative-with-international-partnership-agreements)
-- [Mercy College Awarded NSA Research Grant to Develop Cybersecurity Technology](https://www.darkreading.com/attacks-breaches/mercy-college-awarded-nsa-research-grant-to-develop-cybersecurity-technology)
-- [Patch Now: Dangerous RCE Bug Lays Open ConnectWise Server Backup Managers](https://www.darkreading.com/risk/patch-rce-bug-connectwise-server-backup-managers)
-- [How Chipmakers Are Implementing Confidential Computing](https://www.darkreading.com/dr-tech/how-chip-makers-are-implementing-confidential-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
