@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Now That EDR Is Obvious, What Comes Next?](https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-)
 - [Layoffs Mount as Cybersecurity Vendors Hunker Down](https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down)
 - [How Retailers Can Stay Protected During the Most Wonderful Time of the Year](https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year)
 - [FTC Gives Chegg an &#39;F&#39; for Careless Cybersecurity Impacting 40M Students](https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students)
@@ -83,7 +84,6 @@
 - [Network Perception and Check Point Software Technologies Partner to Tighten the Security of OT Firewall Environments](https://www.darkreading.com/ics-ot/network-perception-and-check-point-software-technologies-partner-to-tighten-the-security-of-ot-firewall-environments)
 - [China-Backed APT10 Supercharges Spy Game With Custom Fileless Backdoor](https://www.darkreading.com/threat-intelligence/china-backed-apt10-spy-game-custom-fileless-backdoor)
 - [Where Are All of the Container Breaches?](https://www.darkreading.com/cloud/where-are-all-of-the-container-breaches-)
-- [Online Holiday Shopping Frenzy: Study Shows 1 in 3 Americans Tend to Take More Risks When Shopping Online During Holiday Season](https://www.darkreading.com/risk/online-holiday-shopping-frenzy-study-shows-1-in-3-americans-tend-to-take-more-risks-when-shopping-online-during-holiday-season)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
