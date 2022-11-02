@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SMEs Must Plan for Recovery from Cybersecurity Attacks Amid Shifting Threats, Says MIT Technology Review Insights](https://www.darkreading.com/attacks-breaches/smes-must-plan-for-recovery-from-cybersecurity-attacks-amid-shifting-threats-says-mit-technology-review-insights)
+- [LastPass Research Finds False Sense of Cybersecurity Running Rampant](https://www.darkreading.com/vulnerabilities-threats/untitled)
 - [The Art of Calculating the Cost of Risk](https://www.darkreading.com/edge-articles/the-art-of-calculating-the-cost-of-risk)
 - [Netskope Threat Research: Next Generation of Phishing Attacks Uses Unexpected Delivery Methods to Steal Data](https://www.darkreading.com/cloud/netskope-threat-research-next-generation-of-phishing-attacks-uses-unexpected-delivery-methods-to-steal-data)
+- [Musk&#39;s Twitter-Verification Payment Tease Spurs Cyberattackers](https://www.darkreading.com/cloud/musk-twitter-verification-payment-cyberattackers)
 - [Global Automotive Cybersecurity Market Report 2022: Expected Mandate for Cybersecurity Protocols to Significantly Boost Sector](https://www.darkreading.com/vulnerabilities-threats/global-automotive-cybersecurity-market-report-2022-expected-mandate-for-cybersecurity-protocols-to-significantly-boost-sector)
 - [Everything You Need to Know About LockBit](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-lockbit)
 - [Aravo Integration With Black Kite Helps Improve Cybersecurity Defenses](https://www.darkreading.com/risk/aravo-integration-with-black-kite-helps-improve-cybersecurity-defenses)
-- [PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation](https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation)
-- [Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks](https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-)
-- [How AI Can Deliver the Next Phase of Scalability](https://www.darkreading.com/zscaler/how-ai-can-deliver-the-next-phase-of-scalability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
