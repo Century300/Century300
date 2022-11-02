@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Art of Calculating the Cost of Risk](https://www.darkreading.com/edge-articles/the-art-of-calculating-the-cost-of-risk)
+- [Netskope Threat Research: Next Generation of Phishing Attacks Uses Unexpected Delivery Methods to Steal Data](https://www.darkreading.com/cloud/netskope-threat-research-next-generation-of-phishing-attacks-uses-unexpected-delivery-methods-to-steal-data)
+- [Global Automotive Cybersecurity Market Report 2022: Expected Mandate for Cybersecurity Protocols to Significantly Boost Sector](https://www.darkreading.com/vulnerabilities-threats/global-automotive-cybersecurity-market-report-2022-expected-mandate-for-cybersecurity-protocols-to-significantly-boost-sector)
+- [Everything You Need to Know About LockBit](https://www.darkreading.com/vulnerabilities-threats/everything-you-need-to-know-about-lockbit)
 - [Aravo Integration With Black Kite Helps Improve Cybersecurity Defenses](https://www.darkreading.com/risk/aravo-integration-with-black-kite-helps-improve-cybersecurity-defenses)
 - [PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation](https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation)
 - [Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks](https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-)
-- [The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical](https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical)
-- [Bed Bath &amp; Beyond Discloses Data Breach to SEC](https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec)
-- [Now That EDR Is Obvious, What Comes Next?](https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-)
-- [Layoffs Mount as Cybersecurity Vendors Hunker Down](https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down)
-- [How Retailers Can Stay Protected During the Most Wonderful Time of the Year](https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year)
+- [How AI Can Deliver the Next Phase of Scalability](https://www.darkreading.com/zscaler/how-ai-can-deliver-the-next-phase-of-scalability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
