@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aravo Integration With Black Kite Helps Improve Cybersecurity Defenses](https://www.darkreading.com/risk/aravo-integration-with-black-kite-helps-improve-cybersecurity-defenses)
+- [PQShield and Riscure Collaborate on Post-Quantum Cryptography SCA Validation](https://www.darkreading.com/vulnerabilities-threats/pqshield-and-riscure-collaborate-on-post-quantum-cryptography-sca-validation)
 - [Critical Vulnerability in Microsoft Azure Cosmos DB Opens Up Jupyter Notebooks](https://www.darkreading.com/application-security/critical-vulnerability-found-and-fixed-in-azure-cosmos-db-)
 - [The Sky Is Not Falling: Disclosed OpenSSL Bugs Are Serious but Not Critical](https://www.darkreading.com/risk/disclosed-openssl-bugs-serious-not-critical)
 - [Bed Bath &amp; Beyond Discloses Data Breach to SEC](https://www.darkreading.com/attacks-breaches/bed-bath-beyond-discloses-data-breach-to-sec)
 - [Now That EDR Is Obvious, What Comes Next?](https://www.darkreading.com/dr-tech/now-that-edr-is-obvious-what-comes-next-)
 - [Layoffs Mount as Cybersecurity Vendors Hunker Down](https://www.darkreading.com/careers-and-people/layoffs-mount-cybersecurity-vendors-hunker-down)
 - [How Retailers Can Stay Protected During the Most Wonderful Time of the Year](https://www.darkreading.com/risk/how-retailers-can-stay-protected-during-the-most-wonderful-time-of-the-year)
-- [FTC Gives Chegg an &#39;F&#39; for Careless Cybersecurity Impacting 40M Students](https://www.darkreading.com/attacks-breaches/ftc-chegg-careless-cybersecurity-students)
-- [Name That Edge Toon: Talk Turkey](https://www.darkreading.com/edge-articles/name-that-edge-toon-talk-turkey)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
