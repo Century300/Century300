@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Leaders Share 5 Steps to Strengthen Cyber Resilience](https://www.darkreading.com/microsoft/security-leaders-share-5-steps-to-strengthen-cyber-resilience)
+- [Economic Uncertainty Isn&#39;t Stopping Cybercrime Recruitment — It&#39;s Fueling It](https://www.darkreading.com/attacks-breaches/economic-uncertainty-isn-t-stopping-cybercrime-recruitment-it-s-fueling-it)
 - [1Password Acquires Passage Identity to Power a Passwordless Future](https://www.darkreading.com/endpoint/1password-acquires-passage-identity-to-power-a-passwordless-future)
 - [Iris® Powered by Generali Reports Four in Five Americans Less Willing to Shop at Stores With Data Breaches in 2022 Holiday Survey](https://www.darkreading.com/vulnerabilities-threats/iris-powered-by-generali-reports-four-in-five-americans-less-willing-to-shop-at-stores-with-data-breaches-in-2022-holiday-survey)
 - [Alethea Closes $10M Series A Financing Led by Ballistic Ventures](https://www.darkreading.com/risk/alethea-closes-10m-series-a-financing-led-by-ballistic-ventures)
 - [Mimecast Unveils Email Security, Cloud Integrated for Optimized Flexibility and Speed](https://www.darkreading.com/endpoint/mimecast-unveils-email-security-cloud-integrated-for-optimized-flexibility-and-speed)
 - [Qualys Announces Third Quarter 2022 Financial Results](https://www.darkreading.com/cloud/qualys-announces-third-quarter-2022-financial-results)
 - [Certificate-Based Authentication With YubiKeys for Microsoft, Third-Party, and Web Applications Now Available on iOS and Android](https://www.darkreading.com/endpoint/certificate-based-authentication-with-yubikeys-for-microsoft-third-party-and-web-applications-now-available-on-ios-and-android)
-- [Cyber-Threat Actor Uses Booby-Trapped VPN App to Deploy Android Spyware](https://www.darkreading.com/mobile/cyber-threat-actor-booby-trapped-vpn-app-deploy-android-spyware)
-- [Dropbox Code Repositories Stolen in Cyberattack on GitHub-Based Developers](https://www.darkreading.com/attacks-breaches/dropbox-code-repositories-stolen-cyberattack-github-developers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
