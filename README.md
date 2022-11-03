@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Senhasegura Introduces MySafe for Managing Personal Passwords](https://www.darkreading.com/endpoint/senhasegura-introduces-mysafe-for-managing-personal-passwords)
 - [Apiiro Raises $100M Series B Funding Round to Solidify Position as the Cloud-Native Application Security Leader](https://www.darkreading.com/cloud/apiiro-raises-100m-series-b-funding-round-to-solidify-position-as-the-cloud-native-application-security-leader)
 - [FS-ISAC and Cyberbit Announce Winner of the First Financial Cyber League](https://www.darkreading.com/operations/fs-isac-and-cyberbit-announce-winner-of-the-first-financial-cyber-league)
 - [Optiv Helps Safeguard Critical Industries with Cyber Advisory and Protection Offerings](https://www.darkreading.com/ics-ot/optiv-helps-safeguard-critical-industries-with-cyber-advisory-and-protection-offerings)
@@ -83,7 +84,6 @@
 - [Security Leaders Share 5 Steps to Strengthen Cyber Resilience](https://www.darkreading.com/microsoft/security-leaders-share-5-steps-to-strengthen-cyber-resilience)
 - [Economic Uncertainty Isn&#39;t Stopping Cybercrime Recruitment — It&#39;s Fueling It](https://www.darkreading.com/attacks-breaches/economic-uncertainty-isn-t-stopping-cybercrime-recruitment-it-s-fueling-it)
 - [1Password Acquires Passage Identity to Power a Passwordless Future](https://www.darkreading.com/endpoint/1password-acquires-passage-identity-to-power-a-passwordless-future)
-- [Iris® Powered by Generali Reports Four in Five Americans Less Willing to Shop at Stores With Data Breaches in 2022 Holiday Survey](https://www.darkreading.com/vulnerabilities-threats/iris-powered-by-generali-reports-four-in-five-americans-less-willing-to-shop-at-stores-with-data-breaches-in-2022-holiday-survey)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
