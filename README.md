@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DDoS Cyberscore: US Treasury: 1, Killnet: 0](https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0)
 - [Senhasegura Introduces MySafe for Managing Personal Passwords](https://www.darkreading.com/endpoint/senhasegura-introduces-mysafe-for-managing-personal-passwords)
 - [Apiiro Raises $100M Series B Funding Round to Solidify Position as the Cloud-Native Application Security Leader](https://www.darkreading.com/cloud/apiiro-raises-100m-series-b-funding-round-to-solidify-position-as-the-cloud-native-application-security-leader)
 - [FS-ISAC and Cyberbit Announce Winner of the First Financial Cyber League](https://www.darkreading.com/operations/fs-isac-and-cyberbit-announce-winner-of-the-first-financial-cyber-league)
@@ -83,7 +84,6 @@
 - [Supply Chain Attack Pushes Out Malware to More than 250 Media Websites](https://www.darkreading.com/application-security/supply-chain-attack-pushes-out-malware-to-more-than-250-media-websites)
 - [Security Leaders Share 5 Steps to Strengthen Cyber Resilience](https://www.darkreading.com/microsoft/security-leaders-share-5-steps-to-strengthen-cyber-resilience)
 - [Economic Uncertainty Isn&#39;t Stopping Cybercrime Recruitment — It&#39;s Fueling It](https://www.darkreading.com/attacks-breaches/economic-uncertainty-isn-t-stopping-cybercrime-recruitment-it-s-fueling-it)
-- [1Password Acquires Passage Identity to Power a Passwordless Future](https://www.darkreading.com/endpoint/1password-acquires-passage-identity-to-power-a-passwordless-future)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
