@@ -79,7 +79,7 @@
 - [Oreo Giant Mondelez Settles NotPetya &#39;Act of War&#39; Insurance Suit](https://www.darkreading.com/attacks-breaches/oreo-giant-mondelez-settles-notpetya-act-of-war-insurance-suit)
 - [NCSC Implements Vulnerability Scanning Program Across UK](https://www.darkreading.com/risk/ncsc-implements-vulnerability-scanning-program-across-uk)
 - [FIN7 Cybercrime Group Likely Behind Black Basta Ransomware Campaign](https://www.darkreading.com/attacks-breaches/fin7-cybercrime-group-likely-behind-black-basta-ransomware-campaign)
-- [Why Third-Party Risk Should be Manufacturing&#39;s Top Priority](https://www.darkreading.com/vulnerabilities-threats/why-third-party-risk-should-be-manufacturing-s-top-priority)
+- [Why Third-Party Risk Should Be Manufacturing&#39;s Top Priority](https://www.darkreading.com/vulnerabilities-threats/why-third-party-risk-should-be-manufacturing-s-top-priority)
 - [DDoS Cyberscore: US Treasury: 1, Killnet: 0](https://www.darkreading.com/attacks-breaches/us-treasury-1-killnet-0)
 - [Senhasegura Introduces MySafe for Managing Personal Passwords](https://www.darkreading.com/endpoint/senhasegura-introduces-mysafe-for-managing-personal-passwords)
 - [Apiiro Raises $100M Series B Funding Round to Solidify Position as the Cloud-Native Application Security Leader](https://www.darkreading.com/cloud/apiiro-raises-100m-series-b-funding-round-to-solidify-position-as-the-cloud-native-application-security-leader)
