@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Warns on Zero-Day Spike as Nation-State Groups Shift Tactics](https://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics)
+- [RomCom Malware Woos Victims With &#39;Wrapped&#39; SolarWinds, KeePass Software](https://www.darkreading.com/threat-intelligence/romcom-malware-victims-wrapped-solarwinds-keepass)
 - [Cyberattackers Focus In on State-of-the-Art ALMA Observatory](https://www.darkreading.com/attacks-breaches/cyberattackers-focus-alma-observatory)
 - [Detecting Malicious User Behavior Within and Across Applications](https://www.darkreading.com/dr-tech/detecting-malicious-user-behavior-within-and-across-applications)
 - [W4SP Stealer Stings Python Developers in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/w4sp-stealer-aims-to-sting-python-developers-in-supply-chain-attack)
 - [Calamu Partners With Wasabi Technologies to Deliver Cloud Storage Vaults](https://www.darkreading.com/cloud/calamu-partners-with-wasabi-technologies-to-deliver-cloud-storage-vaults)
 - [Simplilearn and the University of California, Irvine Division of Continuing Education Partner for a Cybersecurity Boot Camp](https://www.darkreading.com/careers-and-people/simplilearn-and-the-university-of-california-irvine-division-of-continuing-education-partner-for-a-cybersecurity-boot-camp)
 - [Build Security Around Users: A Human-First Approach to Cyber Resilience](https://www.darkreading.com/risk/build-security-around-users-a-human-first-approach-to-cyber-resilience)
-- [Oreo Giant Mondelez Settles NotPetya &#39;Act of War&#39; Insurance Suit](https://www.darkreading.com/attacks-breaches/oreo-giant-mondelez-settles-notpetya-act-of-war-insurance-suit)
-- [NCSC Implements Vulnerability Scanning Program Across UK](https://www.darkreading.com/risk/ncsc-implements-vulnerability-scanning-program-across-uk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
