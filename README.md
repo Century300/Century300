@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Detecting Malicious User Behavior Within and Across Applications](https://www.darkreading.com/dr-tech/detecting-malicious-user-behavior-within-and-across-applications)
 - [W4SP Stealer Stings Python Developers in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/w4sp-stealer-aims-to-sting-python-developers-in-supply-chain-attack)
 - [Calamu Partners With Wasabi Technologies to Deliver Cloud Storage Vaults](https://www.darkreading.com/cloud/calamu-partners-with-wasabi-technologies-to-deliver-cloud-storage-vaults)
 - [Simplilearn and the University of California, Irvine Division of Continuing Education Partner for a Cybersecurity Boot Camp](https://www.darkreading.com/careers-and-people/simplilearn-and-the-university-of-california-irvine-division-of-continuing-education-partner-for-a-cybersecurity-boot-camp)
@@ -83,7 +84,6 @@
 - [Oreo Giant Mondelez Settles NotPetya &#39;Act of War&#39; Insurance Suit](https://www.darkreading.com/attacks-breaches/oreo-giant-mondelez-settles-notpetya-act-of-war-insurance-suit)
 - [NCSC Implements Vulnerability Scanning Program Across UK](https://www.darkreading.com/risk/ncsc-implements-vulnerability-scanning-program-across-uk)
 - [FIN7 Cybercrime Group Likely Behind Black Basta Ransomware Campaign](https://www.darkreading.com/attacks-breaches/fin7-cybercrime-group-likely-behind-black-basta-ransomware-campaign)
-- [Why Third-Party Risk Should Be Manufacturing&#39;s Top Priority](https://www.darkreading.com/vulnerabilities-threats/why-third-party-risk-should-be-manufacturing-s-top-priority)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
