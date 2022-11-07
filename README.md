@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenText Security Solutions Global SMB Ransomware Survey Reveals Heightened Worry About Increased Cyberattacks Due to Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/opentext-security-solutions-global-smb-ransomware-survey-reveals-heightened-worry-about-increased-cyberattacks-due-to-geopolitical-tensions)
+- [Out of Stealth: New SURF Zero-Trust Enterprise Browser](https://www.darkreading.com/endpoint/out-of-stealth-new-surf-zero-trust-enterprise-browser)
 - [Beyond the Pen Test: How to Protect Against Sophisticated Cybercriminals](https://www.darkreading.com/attacks-breaches/beyond-the-pen-test-how-to-protect-against-sophisticated-cyber-criminals)
 - [Human Security Tackles Malvertising With Clean.io Buy](https://www.darkreading.com/dr-tech/human-security-tackles-malvertising-with-clean-io-buy)
 - [Microsoft Warns on Zero-Day Spike as Nation-State Groups Shift Tactics](https://www.darkreading.com/attacks-breaches/microsoft-zero-day-nation-state-groups-tactics)
 - [RomCom Malware Woos Victims With &#39;Wrapped&#39; SolarWinds, KeePass Software](https://www.darkreading.com/threat-intelligence/romcom-malware-victims-wrapped-solarwinds-keepass)
 - [Cyberattackers Focus In on State-of-the-Art ALMA Observatory](https://www.darkreading.com/attacks-breaches/cyberattackers-focus-alma-observatory)
 - [Detecting Malicious User Behavior Within and Across Applications](https://www.darkreading.com/dr-tech/detecting-malicious-user-behavior-within-and-across-applications)
-- [W4SP Stealer Stings Python Developers in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/w4sp-stealer-aims-to-sting-python-developers-in-supply-chain-attack)
-- [Calamu Partners With Wasabi Technologies to Deliver Cloud Storage Vaults](https://www.darkreading.com/cloud/calamu-partners-with-wasabi-technologies-to-deliver-cloud-storage-vaults)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
