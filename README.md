@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [It&#39;s Time to See Cybersecurity Regulation as a Friend, Not a Foe](https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe)
 - [Cyber.org Range Offers Cybersecurity Job Paths for K-12 Students](https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students)
 - [The Shifting Role of the CISO](https://www.darkreading.com/careers-and-people/the-shifting-role-of-the-ciso)
 - [Bugcrowd Names David Gerry Chief Executive Officer](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-david-gerry-chief-executive-officer)
@@ -83,7 +84,6 @@
 - [Living Security and CybSafe Propose the First Human Risk Management Maturity Model](https://www.darkreading.com/risk/living-security-and-cybsafe-propose-the-first-human-risk-management-maturity-model)
 - [OpenText Security Solutions Global SMB Ransomware Survey Reveals Heightened Worry about Increased Cyberattacks Due to Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/opentext-security-solutions-global-smb-ransomware-survey-reveals-heightened-worry-about-increased-cyberattacks-due-to-geopolitical-tensions)
 - [How Does DNS Telemetry Help Detect and Stop Threats?](https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats)
-- [Microsoft&#39;s Certificate-Based Authentication Enables Phishing-Resistant MFA](https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
