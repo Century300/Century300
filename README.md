@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenText Security Solutions Global SMB Ransomware Survey Reveals Heightened Worry about Increased Cyberattacks Due to Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/opentext-security-solutions-global-smb-ransomware-survey-reveals-heightened-worry-about-increased-cyberattacks-due-to-geopolitical-tensions)
 - [How Does DNS Telemetry Help Detect and Stop Threats?](https://www.darkreading.com/edge-ask-the-experts/how-does-dns-telemetry-help-detect-and-stop-threats)
 - [Microsoft&#39;s Certificate-Based Authentication Enables Phishing-Resistant MFA](https://www.darkreading.com/dr-tech/microsoft-certificate-based-authentication-enables-phishing-resistant-mfa)
 - [SolarWinds Faces Potential SEC Enforcement Act Over Orion Breach](https://www.darkreading.com/application-security/solarwinds-faces-potential-sec-enforcement-act-over-orion-breach)
@@ -83,7 +84,6 @@
 - [Cybercrime Group OPERA1ER Stole $11M From 16 African Businesses](https://www.darkreading.com/attacks-breaches/cybercrime-group-opera1er-stole-11m-from-16-african-businesses)
 - [Unencrypted Traffic Still Undermining Wi-Fi Security](https://www.darkreading.com/remote-workforce/unencrypted-traffic-weak-e-mail-passwords-still-undermining-wifi-security)
 - [OpenText Security Solutions Global SMB Ransomware Survey Reveals Heightened Worry About Increased Cyberattacks Due to Geopolitical Tensions](https://www.darkreading.com/attacks-breaches/opentext-security-solutions-global-smb-ransomware-survey-reveals-heightened-worry-about-increased-cyberattacks-due-to-geopolitical-tensions)
-- [Out of Stealth: New SURF Zero-Trust Enterprise Browser](https://www.darkreading.com/endpoint/out-of-stealth-new-surf-zero-trust-enterprise-browser)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
