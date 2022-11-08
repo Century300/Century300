@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cyber.org Range Offers Cyber-Job Paths for K-12 Students](https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students)
+- [Cyber.org Range Offers Cybersecurity Job Paths for K-12 Students](https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students)
 - [The Shifting Role of the CISO](https://www.darkreading.com/careers-and-people/the-shifting-role-of-the-ciso)
 - [Bugcrowd Names David Gerry Chief Executive Officer](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-david-gerry-chief-executive-officer)
 - [Retail Sector Prepares for Annual Holiday Cybercrime Onslaught](https://www.darkreading.com/risk/retail-sector-prepares-for-annual-holiday-cybercrime-onslaught)
