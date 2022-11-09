@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Confidence in Data Recovery Tools Low](https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low)
 - [The CIS Benchmarks Community Consensus Process](https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process)
 - [Microsoft Quashes Bevy of Actively Exploited Zero-Days for November Patch Tuesday](https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday)
 - [Extortion Economics: Ransomware&#39;s New Business Model](https://www.darkreading.com/microsoft/extortion-economics-ransomware-s-new-business-model)
@@ -83,7 +84,6 @@
 - [It&#39;s Time to See Cybersecurity Regulation as a Friend, Not a Foe](https://www.darkreading.com/risk/it-s-time-to-see-cybersecurity-regulation-as-a-friend-not-a-foe)
 - [Cyber.org Range Offers Cybersecurity Job Paths for K-12 Students](https://www.darkreading.com/careers-and-people/cyber-org-range-cyber-job-k-12-students)
 - [The Shifting Role of the CISO](https://www.darkreading.com/careers-and-people/the-shifting-role-of-the-ciso)
-- [Bugcrowd Names David Gerry Chief Executive Officer](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-david-gerry-chief-executive-officer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
