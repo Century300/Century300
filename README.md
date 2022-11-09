@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover](https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover)
+- [InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery](https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing)
 - [How US Businesses Suffer From the Lack of Personal Data Privacy Laws](https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws)
 - [Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects](https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects)
 - [Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements](https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements)
 - [A Better Way to Resist Identity-Based Cyber Threats](https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats)
 - [Cloud9 Malware Offers a Paradise of Cyberattack Methods](https://www.darkreading.com/threat-intelligence/cloud9-malware-paradise-cyberattack-methods)
 - [Compliancy Group Urges Healthcare Organizations to Complete Their HIPAA Security Risk Assessments](https://www.darkreading.com/risk/compliancy-group-urges-healthcare-organizations-to-complete-their-hipaa-security-risk-assessments)
-- [What We Really Mean When We Talk About ‘Cybersecurity’](https://www.darkreading.com/vulnerabilities-threats/what-we-really-mean-when-we-talk-about-cybersecurity-)
-- [Research Finds Less Than a Quarter of Organizations Fully Confident Ex-Employees No Longer Have Access to Company Infrastructure](https://www.darkreading.com/vulnerabilities-threats/research-finds-less-than-a-quarter-of-organizations-fully-confident-ex-employees-no-longer-have-access-to-company-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
