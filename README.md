@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Better Way to Resist Identity-Based Cyber Threats](https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats)
 - [Cloud9 Malware Offers a Paradise of Cyberattack Methods](https://www.darkreading.com/threat-intelligence/cloud9-malware-paradise-cyberattack-methods)
 - [Compliancy Group Urges Healthcare Organizations to Complete Their HIPAA Security Risk Assessments](https://www.darkreading.com/risk/compliancy-group-urges-healthcare-organizations-to-complete-their-hipaa-security-risk-assessments)
 - [What We Really Mean When We Talk About ‘Cybersecurity’](https://www.darkreading.com/vulnerabilities-threats/what-we-really-mean-when-we-talk-about-cybersecurity-)
@@ -83,7 +84,6 @@
 - [Industrial Control Systems &lpar;ICS&rpar; Security Market Worth $23.7B by 2027, Report Says](https://www.darkreading.com/ics-ot/industrial-control-systems-ics-security-market-worth-23-7b-by-2027)
 - [Confidence in Data Recovery Tools Low](https://www.darkreading.com/tech-trends/confidence-in-data-recovery-tools-low)
 - [The CIS Benchmarks Community Consensus Process](https://www.darkreading.com/operations/the-cis-benchmarks-community-consensus-process)
-- [Microsoft Quashes Bevy of Actively Exploited Zero-Days for November Patch Tuesday](https://www.darkreading.com/threat-intelligence/microsoft-quashes-actively-exploited-zero-days-november-patch-tuesday)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
