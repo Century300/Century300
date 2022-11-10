@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Easy Steps to Bypass Google Pixel Lock Screens](https://www.darkreading.com/mobile/5-easy-steps-bypass-google-pixel-lock-screens)
+- [Veterans Day Salute: 6 Reasons Why You Want Vets in Your Cyber Platoon](https://www.darkreading.com/careers-and-people/6-reasons-why-veterans-are-a-good-choice-for-cybersecurity)
 - [Twitter&#39;s CISO Takes Off, Leaving Security an Open Question](https://www.darkreading.com/risk/twitter-ciso-resigns-security-open-question)
 - [LockBit Bigwig Arrested for Ransomware Crimes](https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes)
 - [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
 - [Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises](https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises)
 - [Amazon, Microsoft Cloud Leaks Highlight Lingering Misconfiguration Issues](https://www.darkreading.com/cloud/amazon-microsoft-cloud-leaks-highlight-lingering-misconfiguration-issues)
 - [How to Close Kubernetes&#39; Network Security Gap](https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap)
-- [Flashpoint Releases Ransomware Prediction Model for Vulnerabilities](https://www.darkreading.com/risk/flashpoint-releases-ransomware-prediction-model-for-vulnerabilities)
-- [Rezilion Expands Dynamic SBOM Capability to Support Windows Environments](https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
