@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Close Kubernetes&#39; Network Security Gap](https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap)
+- [Flashpoint Releases Ransomware Prediction Model for Vulnerabilities](https://www.darkreading.com/risk/flashpoint-releases-ransomware-prediction-model-for-vulnerabilities)
+- [Rezilion Expands Dynamic SBOM Capability to Support Windows Environments](https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments)
 - [Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning](https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning)
 - [Malicious Python Package Relies on Steganography to Download Malware](https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware)
 - [Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover](https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover)
 - [InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery](https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing)
 - [How US Businesses Suffer From the Lack of Personal Data Privacy Laws](https://www.darkreading.com/edge-articles/how-us-businesses-suffer-from-the-lack-of-personal-data-privacy-laws)
-- [Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects](https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects)
-- [Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements](https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements)
-- [A Better Way to Resist Identity-Based Cyber Threats](https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
