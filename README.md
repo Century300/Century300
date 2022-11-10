@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
 - [Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises](https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises)
 - [Amazon, Microsoft Cloud Leaks Highlight Lingering Misconfiguration Issues](https://www.darkreading.com/cloud/amazon-microsoft-cloud-leaks-highlight-lingering-misconfiguration-issues)
 - [How to Close Kubernetes&#39; Network Security Gap](https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap)
@@ -83,7 +84,6 @@
 - [Rezilion Expands Dynamic SBOM Capability to Support Windows Environments](https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments)
 - [Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning](https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning)
 - [Understanding the Rise of Risk-Based Vulnerability Management](https://www.darkreading.com/omdia/understanding-the-rise-of-risk-based-vulnerability-management)
-- [Malicious Python Package Relies on Steganography to Download Malware](https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
