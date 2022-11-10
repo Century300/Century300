@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twitter&#39;s CISO Takes Off, Leaving Security an Open Question](https://www.darkreading.com/risk/twitter-ciso-resigns-security-open-question)
 - [LockBit Bigwig Arrested for Ransomware Crimes](https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes)
 - [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
 - [Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises](https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises)
@@ -83,7 +84,6 @@
 - [How to Close Kubernetes&#39; Network Security Gap](https://www.darkreading.com/cloud/how-to-close-kubernetes-network-security-gap)
 - [Flashpoint Releases Ransomware Prediction Model for Vulnerabilities](https://www.darkreading.com/risk/flashpoint-releases-ransomware-prediction-model-for-vulnerabilities)
 - [Rezilion Expands Dynamic SBOM Capability to Support Windows Environments](https://www.darkreading.com/application-security/rezilion-expands-dynamic-sbom-capability-to-support-windows-environments)
-- [Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning](https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
