@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lacework Extends CNAPP Capabilities With Attack Path Analysis and Agentless Workload Scanning](https://www.darkreading.com/cloud/lacework-extends-cnapp-capabilities-with-attack-path-analysis-and-agentless-workload-scanning)
 - [Malicious Python Package Relies on Steganography to Download Malware](https://www.darkreading.com/threat-intelligence/malicious-pypi-package-steganography-download-malware)
 - [Patch ASAP: Critical Citrix, VMware Bugs Threaten Remote Workspaces With Takeover](https://www.darkreading.com/vulnerabilities-threats/patch-asap-critical-citrix-vmware-bugs-remote-workspaces-takeover)
 - [InterPlanetary File System Increasingly Weaponized for Phishing, Malware Delivery](https://www.darkreading.com/vulnerabilities-threats/use-of-interplanetary-file-system-for-phishing-malware-distribution-is-growing)
@@ -83,7 +84,6 @@
 - [Long Island Midterm Votes Delayed Due to Cyberattack Aftereffects](https://www.darkreading.com/attacks-breaches/long-island-midterm-votes-delayed-due-to-cyberattack-after-effects)
 - [Experian, T-Mobile Pay Up in Multimillion-Dollar Data Breach Settlements](https://www.darkreading.com/risk/experian-t-mobile-pay-up-in-multimillion-dollar-data-breach-settlements)
 - [A Better Way to Resist Identity-Based Cyber Threats](https://www.darkreading.com/operations/a-better-way-to-resist-identity-based-cyber-threats)
-- [Cloud9 Malware Offers a Paradise of Cyberattack Methods](https://www.darkreading.com/threat-intelligence/cloud9-malware-paradise-cyberattack-methods)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
