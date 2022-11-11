@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Okta Launches New Workforce Identity Cloud](https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud)
 - [Cyberwar and Cybercrime Go Hand in Hand](https://www.darkreading.com/edge-articles/cyberwar-and-cybercrime-go-hand-in-hand)
 - [5 Easy Steps to Bypass Google Pixel Lock Screens](https://www.darkreading.com/mobile/5-easy-steps-bypass-google-pixel-lock-screens)
 - [Veterans Day Salute: 6 Reasons Why You Want Vets in Your Cyber Platoon](https://www.darkreading.com/careers-and-people/6-reasons-why-veterans-are-a-good-choice-for-cybersecurity)
@@ -83,7 +84,6 @@
 - [LockBit Bigwig Arrested for Ransomware Crimes](https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes)
 - [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
 - [Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises](https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises)
-- [Amazon, Microsoft Cloud Leaks Highlight Lingering Misconfiguration Issues](https://www.darkreading.com/cloud/amazon-microsoft-cloud-leaks-highlight-lingering-misconfiguration-issues)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
