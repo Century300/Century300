@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why CVE Management as a Primary Strategy Doesn&#39;t Work](https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work)
 - [Okta Launches New Workforce Identity Cloud](https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud)
 - [Cyberwar and Cybercrime Go Hand in Hand](https://www.darkreading.com/edge-articles/cyberwar-and-cybercrime-go-hand-in-hand)
 - [5 Easy Steps to Bypass Google Pixel Lock Screens](https://www.darkreading.com/mobile/5-easy-steps-bypass-google-pixel-lock-screens)
@@ -83,7 +84,6 @@
 - [Twitter&#39;s CISO Takes Off, Leaving Security an Open Question](https://www.darkreading.com/risk/twitter-ciso-resigns-security-open-question)
 - [LockBit Bigwig Arrested for Ransomware Crimes](https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes)
 - [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
-- [Evasive KmsdBot Cryptominer/DDoS Bot Targets Gaming, Enterprises](https://www.darkreading.com/threat-intelligence/evasive-kmsdbot-cryptominer-ddos-bot-targets-gaming-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
