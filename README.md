@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
+- [Knock, Knock: Aiphone Bug Allows Cyberattackers to Literally Open &lpar;Physical&rpar; Doors](https://www.darkreading.com/iot/knock-knock-aiphone-bug-allows-cyberattackers-to-literally-open-physical-doors)
+- [Uyghurs Targeted With Spyware, Courtesy of PRC](https://www.darkreading.com/threat-intelligence/china-using-spyware-to-target-uyghurs)
 - [Why CVE Management as a Primary Strategy Doesn&#39;t Work](https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work)
 - [Okta Launches New Workforce Identity Cloud](https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud)
 - [Cyberwar and Cybercrime Go Hand in Hand](https://www.darkreading.com/edge-articles/cyberwar-and-cybercrime-go-hand-in-hand)
 - [5 Easy Steps to Bypass Google Pixel Lock Screens](https://www.darkreading.com/mobile/5-easy-steps-bypass-google-pixel-lock-screens)
 - [Veterans Day Salute: 6 Reasons Why You Want Vets in Your Cyber Platoon](https://www.darkreading.com/careers-and-people/6-reasons-why-veterans-are-a-good-choice-for-cybersecurity)
-- [Twitter&#39;s CISO Takes Off, Leaving Security an Open Question](https://www.darkreading.com/risk/twitter-ciso-resigns-security-open-question)
-- [LockBit Bigwig Arrested for Ransomware Crimes](https://www.darkreading.com/threat-intelligence/lockbit-bigwig-arrested-ransomware-crimes)
-- [Managing and Mitigating Risk From Unknown Unknowns](https://www.darkreading.com/threat-intelligence/managing-and-mitigating-risk-from-unknown-unknowns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
