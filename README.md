@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Sound Alarm on Dangerous BatLoader Malware Dropper](https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper)
 - [Australia Declares War on Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals)
 - [Unpatched Zimbra Platforms Are Probably Compromised, CISA Says](https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says)
 - [Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs](https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs)
@@ -83,7 +84,6 @@
 - [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
 - [How APIs and Applications Can Live Happily Ever After](https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after)
 - [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
-- [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
