@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
 - [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
 - [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
 - [Cookies for MFA Bypass Gain Traction Among Cyberattackers](https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers)
@@ -83,7 +84,6 @@
 - [Uyghurs Targeted With Spyware, Courtesy of PRC](https://www.darkreading.com/threat-intelligence/china-using-spyware-to-target-uyghurs)
 - [Why CVE Management as a Primary Strategy Doesn&#39;t Work](https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work)
 - [Okta Launches New Workforce Identity Cloud](https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud)
-- [Cyberwar and Cybercrime Go Hand in Hand](https://www.darkreading.com/edge-articles/cyberwar-and-cybercrime-go-hand-in-hand)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
