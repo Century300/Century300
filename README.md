@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australia Declares War on Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals)
 - [Unpatched Zimbra Platforms Are Probably Compromised, CISA Says](https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says)
 - [Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs](https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs)
 - [Avatier Achieves ISO 27001 Certification for its Information Security Management System](https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system)
@@ -83,7 +84,6 @@
 - [How APIs and Applications Can Live Happily Ever After](https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after)
 - [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
 - [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
-- [Cookies for MFA Bypass Gain Traction Among Cyberattackers](https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
