@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs](https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs)
+- [Avatier Achieves ISO 27001 Certification for its Information Security Management System](https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system)
 - [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
+- [How APIs and Applications Can Live Happily Ever After](https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after)
 - [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
 - [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
 - [Cookies for MFA Bypass Gain Traction Among Cyberattackers](https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers)
 - [Knock, Knock: Aiphone Bug Allows Cyberattackers to Literally Open &lpar;Physical&rpar; Doors](https://www.darkreading.com/iot/knock-knock-aiphone-bug-allows-cyberattackers-to-literally-open-physical-doors)
-- [Uyghurs Targeted With Spyware, Courtesy of PRC](https://www.darkreading.com/threat-intelligence/china-using-spyware-to-target-uyghurs)
-- [Why CVE Management as a Primary Strategy Doesn&#39;t Work](https://www.darkreading.com/vulnerabilities-threats/why-cve-management-as-a-primary-strategy-doesn-t-work)
-- [Okta Launches New Workforce Identity Cloud](https://www.darkreading.com/dr-tech/okta-launches-new-workforce-identity-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
