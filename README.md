@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unpatched Zimbra Platforms Are Probably Compromised, CISA Says](https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says)
 - [Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs](https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs)
 - [Avatier Achieves ISO 27001 Certification for its Information Security Management System](https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system)
 - [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
@@ -83,7 +84,6 @@
 - [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
 - [Cybersecurity &#39;Nutrition&#39; Labels Still a Work in Progress](https://www.darkreading.com/dr-tech/cybersecurity-nutrition-labels-still-a-work-in-progress)
 - [Cookies for MFA Bypass Gain Traction Among Cyberattackers](https://www.darkreading.com/threat-intelligence/cookies-mfa-bypass-cyberattackers)
-- [Knock, Knock: Aiphone Bug Allows Cyberattackers to Literally Open &lpar;Physical&rpar; Doors](https://www.darkreading.com/iot/knock-knock-aiphone-bug-allows-cyberattackers-to-literally-open-physical-doors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
