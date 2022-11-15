@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Where Can Third-Party Governance and Risk Management Take Us?](https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-)
+- [Misconfigurations, Vulnerabilities Found in 95% of Applications](https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications)
 - [How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture)
 - [Google Forks Over $391.5M in Record-Setting US Consumer Privacy Settlement](https://www.darkreading.com/endpoint/google-3915m-record-setting-us-consumer-privacy-settlement)
 - [Yakima Neighborhood Health Services Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident)
 - [Red Canary Provides First-Ever MITRE Engenuity™ ATT&amp;CK® Evaluations for Managed Services](https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services)
 - [Nasty SQL Injection Bug in Zendesk Endangers Sensitive Customer Data](https://www.darkreading.com/cloud/nasty-sql-injection-bug-zendesk-endangers-sensitive-customer-data)
 - [Evolving Security for Government Multiclouds](https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds)
-- [44% of Financial Institutions Believe Their Own IT Teams Are the Main Risk to Cloud Security](https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security)
-- [Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks](https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
