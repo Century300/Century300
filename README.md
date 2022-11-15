@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Wipermania: Malware Remains a Potent Threat, 10 Years Since &#39;Shamoon&#39;](https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon)
 - [Where Can Third-Party Governance and Risk Management Take Us?](https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-)
 - [Misconfigurations, Vulnerabilities Found in 95% of Applications](https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications)
 - [How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture)
@@ -83,7 +84,6 @@
 - [Yakima Neighborhood Health Services Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident)
 - [Red Canary Provides First-Ever MITRE Engenuity™ ATT&amp;CK® Evaluations for Managed Services](https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services)
 - [Nasty SQL Injection Bug in Zendesk Endangers Sensitive Customer Data](https://www.darkreading.com/cloud/nasty-sql-injection-bug-zendesk-endangers-sensitive-customer-data)
-- [Evolving Security for Government Multiclouds](https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
