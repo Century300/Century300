@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Swimlane Introduces Low-Code, Automation Approach to OT Security](https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security)
 - [Researchers Sound Alarm on Dangerous BatLoader Malware Dropper](https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper)
 - [Australia Declares War on Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals)
 - [Unpatched Zimbra Platforms Are Probably Compromised, CISA Says](https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says)
@@ -83,7 +84,6 @@
 - [Avatier Achieves ISO 27001 Certification for its Information Security Management System](https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system)
 - [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
 - [How APIs and Applications Can Live Happily Ever After](https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after)
-- [Why Cybersecurity Should Highlight Veteran-Hiring Programs](https://www.darkreading.com/edge-articles/cybersecurity-needs-to-highlight-veteran-hiring-programs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
