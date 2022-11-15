@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture)
 - [Google Forks Over $391.5M in Record-Setting US Consumer Privacy Settlement](https://www.darkreading.com/endpoint/google-3915m-record-setting-us-consumer-privacy-settlement)
 - [Yakima Neighborhood Health Services Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident)
 - [Red Canary Provides First-Ever MITRE Engenuity™ ATT&amp;CK® Evaluations for Managed Services](https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services)
@@ -83,7 +84,6 @@
 - [Evolving Security for Government Multiclouds](https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds)
 - [44% of Financial Institutions Believe Their Own IT Teams Are the Main Risk to Cloud Security](https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security)
 - [Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks](https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks)
-- [Neosec Introduces Automated Tokenization to Enable Full API Visibility Without Exposure of Sensitive Data](https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
