@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Yakima Neighborhood Health Services Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident)
+- [Red Canary Provides First-Ever MITRE Engenuity™ ATT&amp;CK® Evaluations for Managed Services](https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services)
+- [Nasty SQL Injection Bug in Zendesk Endangers Sensitive Customer Data](https://www.darkreading.com/cloud/nasty-sql-injection-bug-zendesk-endangers-sensitive-customer-data)
 - [Evolving Security for Government Multiclouds](https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds)
 - [44% of Financial Institutions Believe Their Own IT Teams Are the Main Risk to Cloud Security](https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security)
 - [Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks](https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks)
 - [Neosec Introduces Automated Tokenization to Enable Full API Visibility Without Exposure of Sensitive Data](https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data)
 - [Balbix Announces Cybersecurity Posture Automation Support for Google Cloud Platform](https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform)
-- [Bugcrowd Earns CREST Accreditation for Pen Testing](https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing)
-- [Swimlane Introduces Low-Code, Automation Approach to OT Security](https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security)
-- [Researchers Sound Alarm on Dangerous BatLoader Malware Dropper](https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
