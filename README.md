@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Evolving Security for Government Multiclouds](https://www.darkreading.com/cloud/evolving-security-for-government-multiclouds)
+- [44% of Financial Institutions Believe Their Own IT Teams Are the Main Risk to Cloud Security](https://www.darkreading.com/cloud/44-of-financial-institutions-believe-their-own-it-teams-are-the-main-risk-to-cloud-security)
+- [Authomize Launches Identity Threat Detection and Response Platform to Protect Against Identity-Based Attacks](https://www.darkreading.com/cloud/authomize-launches-identity-threat-detection-and-response-platform-to-protect-against-identity-based-attacks)
+- [Neosec Introduces Automated Tokenization to Enable Full API Visibility Without Exposure of Sensitive Data](https://www.darkreading.com/threat-intelligence/neosec-introduces-automated-tokenization-to-enable-full-api-visibility-without-exposure-of-sensitive-data)
+- [Balbix Announces Cybersecurity Posture Automation Support for Google Cloud Platform](https://www.darkreading.com/cloud/balbix-announces-cybersecurity-posture-automation-support-for-google-cloud-platform)
+- [Bugcrowd Earns CREST Accreditation for Pen Testing](https://www.darkreading.com/cloud/bugcrowd-earns-crest-accreditation-for-pen-testing)
 - [Swimlane Introduces Low-Code, Automation Approach to OT Security](https://www.darkreading.com/dr-tech/swimlane-introduces-low-code-automation-approach-to-ot-security)
 - [Researchers Sound Alarm on Dangerous BatLoader Malware Dropper](https://www.darkreading.com/attacks-breaches/researchers-alarm-batloader-malware-dropper)
-- [Australia Declares War on Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/australia-declares-war-against-cybercriminals)
-- [Unpatched Zimbra Platforms Are Probably Compromised, CISA Says](https://www.darkreading.com/threat-intelligence/unpatched-zimbra-platforms-probably-compromised-cisa-says)
-- [Privacy4Cars Secures Fourth Patent to Remove Privacy Information From Vehicles and Create Compliance Logs](https://www.darkreading.com/endpoint/privacy4cars-secures-fourth-patent-to-remove-privacy-information-from-vehicles-and-create-compliance-logs)
-- [Avatier Achieves ISO 27001 Certification for its Information Security Management System](https://www.darkreading.com/operations/avatier-achieves-iso-27001-certification-for-its-information-security-management-system)
-- [Quantum Cryptography Apocalypse: A Timeline and Action Plan](https://www.darkreading.com/attacks-breaches/quantum-cryptography-apocalypse-a-timeline-and-action-plan)
-- [How APIs and Applications Can Live Happily Ever After](https://www.darkreading.com/edge-articles/how-apis-and-applications-can-live-happily-ever-after)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
