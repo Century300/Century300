@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vectra Unveils Global Managed Detection and Response &lpar;MDR&rpar; Services With Game-Changing Attack Signal Intelligence™](https://www.darkreading.com/cloud/vectra-unveils-global-managed-detection-and-response-mdr-services-with-game-changing-attack-signal-intelligence-)
 - [BitSight Enhances Its Third-Party Risk Management Platform to Help Organizations Respond to Major Vulnerabilities](https://www.darkreading.com/risk/bitsight-enhances-its-third-party-risk-management-platform-to-help-organizations-respond-to-major-vulnerabilities)
 - [Palo Alto Networks Announces PAN-OS 11.0 Nova to Help Keep Organizations One Step Ahead of Zero-Day Threats](https://www.darkreading.com/vulnerabilities-threats/palo-alto-networks-announces-pan-os-11-0-nova-to-help-keep-organizations-one-step-ahead-of-zero-day-threats)
+- [Cymulate Survey Finds Consolidation Is Happening, but Only 20% Cite Cost As the Reason](https://www.darkreading.com/vulnerabilities-threats/cymulate-survey-finds-consolidation-is-happening-but-only-20-cite-cost-as-the-reason)
 - [Cybersecurity Best Practice Is Critical for Winning the New Space Race](https://www.darkreading.com/attacks-breaches/cybersecurity-best-practice-is-critical-for-winning-the-new-space-race)
 - [What Is Top of Mind for CISOs Right Now?](https://www.darkreading.com/microsoft/what-is-top-of-mind-for-cisos-right-now-)
 - [Viakoo Announces Strategic Alliance With Nozomi Networks to Deliver Agentless, End-to-End IoT Security at Scale](https://www.darkreading.com/iot/viakoo-announces-strategic-alliance-with-nozomi-networks-to-deliver-agentless-end-to-end-iot-security-at-scale)
 - [More Than 1,000 New Cybersecurity Apprentices Joined Workforce in Past 12 Months](https://www.darkreading.com/endpoint/more-than-1-000-new-cybersecurity-apprentices-joined-workforce-in-past-12-months)
-- [Wipermania: Malware Remains a Potent Threat, 10 Years Since &#39;Shamoon&#39;](https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon)
-- [Modern CISO: More Than a Security Officer](https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
