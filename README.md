@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Best Practice Is Critical for Winning the New Space Race](https://www.darkreading.com/attacks-breaches/cybersecurity-best-practice-is-critical-for-winning-the-new-space-race)
+- [What Is Top of Mind for CISOs Right Now?](https://www.darkreading.com/microsoft/what-is-top-of-mind-for-cisos-right-now-)
+- [Viakoo Announces Strategic Alliance With Nozomi Networks to Deliver Agentless, End-to-End IoT Security at Scale](https://www.darkreading.com/iot/viakoo-announces-strategic-alliance-with-nozomi-networks-to-deliver-agentless-end-to-end-iot-security-at-scale)
+- [More Than 1,000 New Cybersecurity Apprentices Joined Workforce in Past 12 Months](https://www.darkreading.com/endpoint/more-than-1-000-new-cybersecurity-apprentices-joined-workforce-in-past-12-months)
 - [Wipermania: Malware Remains a Potent Threat, 10 Years Since &#39;Shamoon&#39;](https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon)
 - [Modern CISO: More Than a Security Officer](https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer)
 - [Where Can Third-Party Governance and Risk Management Take Us?](https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-)
 - [Misconfigurations, Vulnerabilities Found in 95% of Applications](https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications)
-- [How Routine Pen Testing Can Reveal the Unseen Flaws in Your Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-routine-pen-testing-can-reveal-the-unseen-flaws-in-your-cybersecurity-posture)
-- [Google Forks Over $391.5M in Record-Setting US Consumer Privacy Settlement](https://www.darkreading.com/endpoint/google-3915m-record-setting-us-consumer-privacy-settlement)
-- [Yakima Neighborhood Health Services Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/yakima-neighborhood-health-services-notice-of-data-security-incident)
-- [Red Canary Provides First-Ever MITRE Engenuity™ ATT&amp;CK® Evaluations for Managed Services](https://www.darkreading.com/threat-intelligence/red-canary-provides-first-ever-mitre-engenuity-att-ck-evaluations-for-managed-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
