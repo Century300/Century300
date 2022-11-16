@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BitSight Enhances Its Third-Party Risk Management Platform to Help Organizations Respond to Major Vulnerabilities](https://www.darkreading.com/risk/bitsight-enhances-its-third-party-risk-management-platform-to-help-organizations-respond-to-major-vulnerabilities)
+- [Palo Alto Networks Announces PAN-OS 11.0 Nova to Help Keep Organizations One Step Ahead of Zero-Day Threats](https://www.darkreading.com/vulnerabilities-threats/palo-alto-networks-announces-pan-os-11-0-nova-to-help-keep-organizations-one-step-ahead-of-zero-day-threats)
 - [Cybersecurity Best Practice Is Critical for Winning the New Space Race](https://www.darkreading.com/attacks-breaches/cybersecurity-best-practice-is-critical-for-winning-the-new-space-race)
 - [What Is Top of Mind for CISOs Right Now?](https://www.darkreading.com/microsoft/what-is-top-of-mind-for-cisos-right-now-)
 - [Viakoo Announces Strategic Alliance With Nozomi Networks to Deliver Agentless, End-to-End IoT Security at Scale](https://www.darkreading.com/iot/viakoo-announces-strategic-alliance-with-nozomi-networks-to-deliver-agentless-end-to-end-iot-security-at-scale)
 - [More Than 1,000 New Cybersecurity Apprentices Joined Workforce in Past 12 Months](https://www.darkreading.com/endpoint/more-than-1-000-new-cybersecurity-apprentices-joined-workforce-in-past-12-months)
 - [Wipermania: Malware Remains a Potent Threat, 10 Years Since &#39;Shamoon&#39;](https://www.darkreading.com/endpoint/wipermania-malware-potent-threat-since-shamoon)
 - [Modern CISO: More Than a Security Officer](https://www.darkreading.com/edge-ask-the-experts/modern-ciso-more-than-a-security-officer)
-- [Where Can Third-Party Governance and Risk Management Take Us?](https://www.darkreading.com/dr-tech/where-can-third-party-governance-and-risk-management-take-us-)
-- [Misconfigurations, Vulnerabilities Found in 95% of Applications](https://www.darkreading.com/application-security/misconfigurations-vulnerabilities-found-in-95-of-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
