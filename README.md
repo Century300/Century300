@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iranian APT Actors Breached a US Government Network](https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network)
 - [Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident](https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident)
 - [Instagram Impersonators Target Thousands, Slipping by Microsoft&#39;s Cybersecurity](https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity)
 - [Spacecraft Vulnerable to Failure, Thanks to Aerospace Networking Bug](https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug)
@@ -83,7 +84,6 @@
 - [Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON](https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon)
 - [41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows](https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows)
 - [Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities](https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities)
-- [China-Based Billbug APT Infiltrates Certificate Authority](https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
