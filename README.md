@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Instagram Impersonators Target Thousands, Slipping by Microsoft&#39;s Cybersecurity](https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity)
+- [Spacecraft Vulnerable to Failure, Thanks to Aerospace Networking Bug](https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug)
 - [TMI Tech: How to Stop Vulnerable Software from &#39;Oversharing&#39;](https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-)
 - [Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON](https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon)
 - [41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows](https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows)
 - [Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities](https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities)
 - [China-Based Billbug APT Infiltrates Certificate Authority](https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority)
 - [MITRE Engenuity Launches Evaluations for Security Service Providers](https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers)
-- [Are We Ready for AI-Generated Code?](https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-)
-- [The Future of Cybersecurity Recruiting: Lessons on What Employers Want and What Students Need](https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
