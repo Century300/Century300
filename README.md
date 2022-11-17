@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [China-Based Billbug APT Infiltrates Certificate Authority](https://www.darkreading.com/endpoint/china-based-billbug-apt-infiltrates-certificate-authority)
+- [MITRE Engenuity Launches Evaluations for Security Service Providers](https://www.darkreading.com/risk/mitre-engenuity-launches-evaluations-security-service-providers)
 - [Are We Ready for AI-Generated Code?](https://www.darkreading.com/edge-articles/ai-generated-code-is-coming-are-you-ready-)
 - [The Future of Cybersecurity Recruiting: Lessons on What Employers Want and What Students Need](https://www.darkreading.com/operations/the-future-of-cybersecurity-recruiting-lessons-on-what-employers-want-and-what-students-need)
 - [BoostSecurity Emerges From Stealth With SaaS DevSecOps Platform](https://www.darkreading.com/application-security/boostsecurity-stealth-saas-devsecops-platform)
 - [New Ransomware Data Is In: What&#39;s Happening and How to Fight Back](https://www.darkreading.com/vulnerabilities-threats/new-ransomware-data-is-in-what-s-happening-and-how-to-fight-back)
 - [Ukraine&#39;s &#39;IT Army&#39; Stops 1,300 Cyberattacks in 8 Months of War](https://www.darkreading.com/endpoint/ukraine-it-army-stops-1300-cyberattacks-war)
 - [Thousands of Amazon RDS Snapshots Are Leaking Corporate PII](https://www.darkreading.com/cloud/thousands-amazon-rds-snapshots-leaking-corporate-pii)
-- [Vectra Unveils Global Managed Detection and Response &lpar;MDR&rpar; Services With Game-Changing Attack Signal Intelligence™](https://www.darkreading.com/cloud/vectra-unveils-global-managed-detection-and-response-mdr-services-with-game-changing-attack-signal-intelligence-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
