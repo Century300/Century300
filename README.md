@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Iranian APT Actors Breached a US Government Network](https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network)
+- [Iranian APT Actors Breach US Government Network](https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network)
 - [Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident](https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident)
 - [Instagram Impersonators Target Thousands, Slipping by Microsoft&#39;s Cybersecurity](https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity)
 - [Spacecraft Vulnerable to Failure, Thanks to Aerospace Networking Bug](https://www.darkreading.com/ics-ot/spacecraft-failure-vulnerability-thanks-to-networking-bug)
