@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
 - [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
+- [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
 - [Amid Legal Fallout, Cyber Insurers Redefine State-Sponsored Attacks as Act of War](https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war)
 - [Palo Alto Networks Focuses on Secure Coding with $195M Cider Deal](https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal)
 - [Secure Offboarding in the Spotlight as Tech Layoffs Mount](https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount)
