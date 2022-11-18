@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
+- [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
 - [Amid Legal Fallout, Cyber Insurers Redefine State-Sponsored Attacks as Act of War](https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war)
 - [Palo Alto Networks Focuses on Secure Coding with $195M Cider Deal](https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal)
 - [Secure Offboarding in the Spotlight as Tech Layoffs Mount](https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount)
 - [The Next Generation of Supply Chain Attacks Is Here to Stay](https://www.darkreading.com/attacks-breaches/the-next-generation-of-supply-chain-attacks-is-here-to-stay)
 - [County of Tehama, Calif., Identifies and Addresses Data Security Incident](https://www.darkreading.com/endpoint/county-of-tehama-calif-identifies-and-addresses-data-security-incident)
 - [Analysts Welcome NSA&#39;s Advice for Developers to Adopt Memory-Safe Languages](https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled)
-- [Iranian APT Actors Breach US Government Network](https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network)
-- [Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident](https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
