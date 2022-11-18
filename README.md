@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Analysts Welcome NSA&#39;s Advice for Developers to Adopt Memory-Safe Languages](https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled)
 - [Iranian APT Actors Breach US Government Network](https://www.darkreading.com/attacks-breaches/iranian-apt-actors-breached-a-us-government-network)
 - [Zero-Trust Initiatives Stall, as Cyberattack Costs Rocket to $1M per Incident](https://www.darkreading.com/endpoint/zero-trust-initiatives-stall-cyberattack-costs-1m-per-incident)
 - [Instagram Impersonators Target Thousands, Slipping by Microsoft&#39;s Cybersecurity](https://www.darkreading.com/application-security/instagram-impersonators-target-thousands-microsoft-cybersecurity)
@@ -83,7 +84,6 @@
 - [TMI Tech: How to Stop Vulnerable Software from &#39;Oversharing&#39;](https://www.darkreading.com/vulnerabilities-threats/tmi-tech-how-to-stop-vulnerable-software-from-oversharing-)
 - [Cyber Monday Will Be the Most Fraudulent Day of the Season, Says SEON](https://www.darkreading.com/vulnerabilities-threats/cyber-monday-will-be-the-most-fraudulent-day-of-the-season-says-seon)
 - [41 Transatlantic Business Coalition Calls on EU Policymakers to Finalize Agreement to Secure Transatlantic Data Flows](https://www.darkreading.com/endpoint/41-transatlantic-business-coalition-calls-on-eu-policymakers-to-finalize-agreement-to-secure-transatlantic-data-flows)
-- [Revelstoke Upgrades SOAR Platform With Augmented Automation, Case Management, and User Interface Capabilities](https://www.darkreading.com/operations/revelstoke-upgrades-soar-platform-with-augmented-automation-case-management-and-user-interface-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
