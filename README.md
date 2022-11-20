@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Charting the Path to Zero Trust: Where to Begin](https://www.darkreading.com/zscaler/charting-the-path-to-zero-trust-where-to-begin)
 - [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
 - [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
 - [Amid Legal Fallout, Cyber Insurers Redefine State-Sponsored Attacks as Act of War](https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war)
@@ -83,7 +84,6 @@
 - [Secure Offboarding in the Spotlight as Tech Layoffs Mount](https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount)
 - [The Next Generation of Supply Chain Attacks Is Here to Stay](https://www.darkreading.com/attacks-breaches/the-next-generation-of-supply-chain-attacks-is-here-to-stay)
 - [County of Tehama, Calif., Identifies and Addresses Data Security Incident](https://www.darkreading.com/endpoint/county-of-tehama-calif-identifies-and-addresses-data-security-incident)
-- [Analysts Welcome NSA&#39;s Advice for Developers to Adopt Memory-Safe Languages](https://www.darkreading.com/edge-articles/untianalysts-welcome-nsa-s-advice-for-developers-to-adopt-memory-safe-languages-tled)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
