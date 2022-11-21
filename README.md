@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Startup OpsHelm Tackles Cloud Misconfigurations](https://www.darkreading.com/dr-tech/new-startup-opshelm-tackles-cloud-misconfigurations)
 - [Charting the Path to Zero Trust: Where to Begin](https://www.darkreading.com/zscaler/charting-the-path-to-zero-trust-where-to-begin)
 - [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
 - [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
@@ -83,7 +84,6 @@
 - [Palo Alto Networks Focuses on Secure Coding with $195M Cider Deal](https://www.darkreading.com/application-security/palo-alto-networks-secure-coding-cider-security-195m-deal)
 - [Secure Offboarding in the Spotlight as Tech Layoffs Mount](https://www.darkreading.com/application-security/secure-offboarding-spotlight-tech-layoffs-mount)
 - [The Next Generation of Supply Chain Attacks Is Here to Stay](https://www.darkreading.com/attacks-breaches/the-next-generation-of-supply-chain-attacks-is-here-to-stay)
-- [County of Tehama, Calif., Identifies and Addresses Data Security Incident](https://www.darkreading.com/endpoint/county-of-tehama-calif-identifies-and-addresses-data-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
