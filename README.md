@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlueVoyant Research Reveals Private Equity Portfolio Company Cybersecurity Challenges](https://www.darkreading.com/risk/bluevoyant-research-reveals-private-equity-portfolio-company-cybersecurity-challenges)
 - [A Third of Global Organizations Were Breached Over Seven Times in the Past Year](https://www.darkreading.com/attacks-breaches/a-third-of-global-organizations-were-breached-over-seven-times-in-the-past-year)
 - [#BeCyberSmart All Year Round With Educational Resources From Microsoft](https://www.darkreading.com/microsoft/-becybersmart-all-year-round-with-educational-resources-from-microsoft)
 - [Better Together: Why It&#39;s Time for Ops and Security to Converge](https://www.darkreading.com/vulnerabilities-threats/better-together-why-it-s-time-for-ops-and-security-to-converge)
@@ -83,7 +84,6 @@
 - [Charting the Path to Zero Trust: Where to Begin](https://www.darkreading.com/zscaler/charting-the-path-to-zero-trust-where-to-begin)
 - [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
 - [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
-- [Amid Legal Fallout, Cyber Insurers Redefine State-Sponsored Attacks as Act of War](https://www.darkreading.com/edge-articles/amid-notpetya-fallout-cyber-insurers-define-state-sponsored-attacks-as-act-of-war)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
