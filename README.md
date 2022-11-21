@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Luna Moth&#39;s Novel, Malware-Free Extortion Campaign Takes Flight](https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign)
+- [Google Releases YARA Rules to Disrupt Cobalt Strike Abuse](https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse)
+- [Microsoft Warns of Rise in Stolen Cloud Tokens Used to Bypass MFA](https://www.darkreading.com/endpoint/microsoft-warns-of-rise-in-stolen-cloud-tokens-used-to-bypass-mfa)
+- [Investors Are Pouring Cash Into These 10 Cybersecurity Startups](https://www.darkreading.com/endpoint/investors-pouring-cash-10-cybersecurity-startups)
 - [Name That Toon: Fall Cleanup](https://www.darkreading.com/threat-intelligence/name-that-toon-fall-cleanup)
 - [Major Security Breach From Business Users&#39; Low-Code Apps Could Come in 2023, Analysts Warn](https://www.darkreading.com/edge-articles/major-security-breach-from-business-users-low-code-apps-could-come-in-2023-analysts-warn)
 - [Time to Get Kids Hacking: Our 2022 Holiday Gift Guide](https://www.darkreading.com/endpoint/get-kids-hacking-2022-holiday-gift-guide)
 - [MIT Research Documents Effectiveness of Consensus Cyber Risk Oversight Principles](https://www.darkreading.com/risk/mit-research-documents-effectiveness-of-consensus-cyber-risk-oversight-principles)
-- [BlueVoyant Research Reveals Private Equity Portfolio Company Cybersecurity Challenges](https://www.darkreading.com/risk/bluevoyant-research-reveals-private-equity-portfolio-company-cybersecurity-challenges)
-- [A Third of Global Organizations Were Breached Over Seven Times in the Past Year](https://www.darkreading.com/attacks-breaches/a-third-of-global-organizations-were-breached-over-seven-times-in-the-past-year)
-- [#BeCyberSmart All Year Round With Educational Resources From Microsoft](https://www.darkreading.com/microsoft/-becybersmart-all-year-round-with-educational-resources-from-microsoft)
-- [Better Together: Why It&#39;s Time for Ops and Security to Converge](https://www.darkreading.com/vulnerabilities-threats/better-together-why-it-s-time-for-ops-and-security-to-converge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
