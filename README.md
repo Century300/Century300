@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Time to Get Kids Hacking: Our 2022 Holiday Gift Guide](https://www.darkreading.com/endpoint/get-kids-hacking-2022-holiday-gift-guide)
 - [MIT Research Documents Effectiveness of Consensus Cyber Risk Oversight Principles](https://www.darkreading.com/risk/mit-research-documents-effectiveness-of-consensus-cyber-risk-oversight-principles)
 - [BlueVoyant Research Reveals Private Equity Portfolio Company Cybersecurity Challenges](https://www.darkreading.com/risk/bluevoyant-research-reveals-private-equity-portfolio-company-cybersecurity-challenges)
 - [A Third of Global Organizations Were Breached Over Seven Times in the Past Year](https://www.darkreading.com/attacks-breaches/a-third-of-global-organizations-were-breached-over-seven-times-in-the-past-year)
@@ -83,7 +84,6 @@
 - [Better Together: Why It&#39;s Time for Ops and Security to Converge](https://www.darkreading.com/vulnerabilities-threats/better-together-why-it-s-time-for-ops-and-security-to-converge)
 - [New Startup OpsHelm Tackles Cloud Misconfigurations](https://www.darkreading.com/dr-tech/new-startup-opshelm-tackles-cloud-misconfigurations)
 - [Charting the Path to Zero Trust: Where to Begin](https://www.darkreading.com/zscaler/charting-the-path-to-zero-trust-where-to-begin)
-- [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
