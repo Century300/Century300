@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MIT Research Documents Effectiveness of Consensus Cyber Risk Oversight Principles](https://www.darkreading.com/risk/mit-research-documents-effectiveness-of-consensus-cyber-risk-oversight-principles)
 - [BlueVoyant Research Reveals Private Equity Portfolio Company Cybersecurity Challenges](https://www.darkreading.com/risk/bluevoyant-research-reveals-private-equity-portfolio-company-cybersecurity-challenges)
 - [A Third of Global Organizations Were Breached Over Seven Times in the Past Year](https://www.darkreading.com/attacks-breaches/a-third-of-global-organizations-were-breached-over-seven-times-in-the-past-year)
 - [#BeCyberSmart All Year Round With Educational Resources From Microsoft](https://www.darkreading.com/microsoft/-becybersmart-all-year-round-with-educational-resources-from-microsoft)
@@ -83,7 +84,6 @@
 - [New Startup OpsHelm Tackles Cloud Misconfigurations](https://www.darkreading.com/dr-tech/new-startup-opshelm-tackles-cloud-misconfigurations)
 - [Charting the Path to Zero Trust: Where to Begin](https://www.darkreading.com/zscaler/charting-the-path-to-zero-trust-where-to-begin)
 - [DEV-0569 Ransomware Group Remarkably Innovative, Microsoft Cautions](https://www.darkreading.com/endpoint/dev-0569-ransomware-group-remarkably-innovative-microsoft-cautions)
-- [Australia&#39;s Hack-Back Plan Against Cyberattackers Raises Familiar Concerns](https://www.darkreading.com/attacks-breaches/australia-hack-back-plan-against-cyberattackers-familiar-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
