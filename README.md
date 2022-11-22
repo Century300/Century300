@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ducktail Cyberattackers Add WhatsApp to Facebook Business Attack Chain](https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain)
 - [DraftKings Account Takeovers Frame Sports-Betting Cybersecurity Dilemma](https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma)
 - [Cyber Due Diligence in M&amp;As Uncovers Threats, Improves Valuations](https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations)
 - [How Work From Home Shaped the Road to SASE for Enterprises](https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises)
@@ -83,7 +84,6 @@
 - [Google Blocks 231B Spam, Phishing Emails in Past 2 Weeks](https://www.darkreading.com/remote-workforce/google-blocks-231b-spam-phishing-messages-2-weeks)
 - [How Tech Companies Can Slow Down Spike in Breaches](https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches)
 - [Hack The Box Launches Annual University CTF to Inspire Next Generation of Security Professionals](https://www.darkreading.com/vulnerabilities-threats/hack-the-box-launches-annual-university-ctf-to-inspire-next-generation-of-security-professionals)
-- [CybeReady Releases Five Easy Tips to Shop Safely During Black Friday](https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
