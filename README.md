@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Tech Companies Can Slow Down Spike in Breaches](https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches)
+- [Hack The Box Launches Annual University CTF to Inspire Next Generation of Security Professionals](https://www.darkreading.com/vulnerabilities-threats/hack-the-box-launches-annual-university-ctf-to-inspire-next-generation-of-security-professionals)
+- [CybeReady Releases Five Easy Tips to Shop Safely During Black Friday](https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday)
+- [FIDO Alliance Announces Authenticate Virtual Summit Focused on Securing IoT](https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot)
 - [Two Estonian Citizens Arrested in $575 Million Cryptocurrency Fraud and Money Laundering Scheme](https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme)
 - [Identity Security Needs Humans and AI Working Hand in Hand](https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand)
 - [Luna Moth&#39;s Novel, Malware-Free Extortion Campaign Takes Flight](https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign)
 - [Google Releases YARA Rules to Disrupt Cobalt Strike Abuse](https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse)
-- [Microsoft Warns of Rise in Stolen Cloud Tokens Used to Bypass MFA](https://www.darkreading.com/endpoint/microsoft-warns-of-rise-in-stolen-cloud-tokens-used-to-bypass-mfa)
-- [Investors Are Pouring Cash Into These 10 Cybersecurity Startups](https://www.darkreading.com/endpoint/investors-pouring-cash-10-cybersecurity-startups)
-- [Name That Toon: Fall Cleanup](https://www.darkreading.com/threat-intelligence/name-that-toon-fall-cleanup)
-- [Major Security Breach From Business Users&#39; Low-Code Apps Could Come in 2023, Analysts Warn](https://www.darkreading.com/edge-articles/major-security-breach-from-business-users-low-code-apps-could-come-in-2023-analysts-warn)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
