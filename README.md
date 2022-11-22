@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Work From Home Shaped the Road to SASE for Enterprises](https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises)
 - [Enterprises Pay $1,200 Per Employee Annually to Fight Cyberattacks Against Cloud Collab Apps](https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps)
 - [Google Blocks 231B Spam, Phishing Emails in Past 2 Weeks](https://www.darkreading.com/remote-workforce/google-blocks-231b-spam-phishing-messages-2-weeks)
 - [How Tech Companies Can Slow Down Spike in Breaches](https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches)
@@ -83,7 +84,6 @@
 - [CybeReady Releases Five Easy Tips to Shop Safely During Black Friday](https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday)
 - [FIDO Alliance Announces Authenticate Virtual Summit Focused on Securing IoT](https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot)
 - [Two Estonian Citizens Arrested in $575 Million Cryptocurrency Fraud and Money Laundering Scheme](https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme)
-- [Identity Security Needs Humans and AI Working Hand in Hand](https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
