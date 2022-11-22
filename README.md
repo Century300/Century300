@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DraftKings Account Takeovers Frame Sports-Betting Cybersecurity Dilemma](https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma)
 - [Cyber Due Diligence in M&amp;As Uncovers Threats, Improves Valuations](https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations)
 - [How Work From Home Shaped the Road to SASE for Enterprises](https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises)
 - [Enterprises Pay $1,200 Per Employee Annually to Fight Cyberattacks Against Cloud Collab Apps](https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps)
@@ -83,7 +84,6 @@
 - [How Tech Companies Can Slow Down Spike in Breaches](https://www.darkreading.com/attacks-breaches/how-tech-companies-can-slow-down-spike-in-breaches)
 - [Hack The Box Launches Annual University CTF to Inspire Next Generation of Security Professionals](https://www.darkreading.com/vulnerabilities-threats/hack-the-box-launches-annual-university-ctf-to-inspire-next-generation-of-security-professionals)
 - [CybeReady Releases Five Easy Tips to Shop Safely During Black Friday](https://www.darkreading.com/vulnerabilities-threats/cybeready-releases-five-easy-tips-to-shop-safely-during-black-friday)
-- [FIDO Alliance Announces Authenticate Virtual Summit Focused on Securing IoT](https://www.darkreading.com/iot/fido-alliance-announces-authenticate-virtual-summit-focused-on-securing-iot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
