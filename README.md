@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Two Estonian Citizens Arrested in $575 Million Cryptocurrency Fraud and Money Laundering Scheme](https://www.darkreading.com/attacks-breaches/two-estonian-citizens-arrested-in-575-million-cryptocurrency-fraud-and-money-laundering-scheme)
 - [Identity Security Needs Humans and AI Working Hand in Hand](https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand)
 - [Luna Moth&#39;s Novel, Malware-Free Extortion Campaign Takes Flight](https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign)
 - [Google Releases YARA Rules to Disrupt Cobalt Strike Abuse](https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse)
@@ -83,7 +84,6 @@
 - [Investors Are Pouring Cash Into These 10 Cybersecurity Startups](https://www.darkreading.com/endpoint/investors-pouring-cash-10-cybersecurity-startups)
 - [Name That Toon: Fall Cleanup](https://www.darkreading.com/threat-intelligence/name-that-toon-fall-cleanup)
 - [Major Security Breach From Business Users&#39; Low-Code Apps Could Come in 2023, Analysts Warn](https://www.darkreading.com/edge-articles/major-security-breach-from-business-users-low-code-apps-could-come-in-2023-analysts-warn)
-- [Time to Get Kids Hacking: Our 2022 Holiday Gift Guide](https://www.darkreading.com/endpoint/get-kids-hacking-2022-holiday-gift-guide)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
