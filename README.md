@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Identity Security Needs Humans and AI Working Hand in Hand](https://www.darkreading.com/attacks-breaches/identity-security-needs-humans-and-ai-working-hand-in-hand)
 - [Luna Moth&#39;s Novel, Malware-Free Extortion Campaign Takes Flight](https://www.darkreading.com/endpoint/luna-moth-malware-free-extortion-campaign)
 - [Google Releases YARA Rules to Disrupt Cobalt Strike Abuse](https://www.darkreading.com/dr-tech/google-releases-yara-rules-to-disrupt-cobalt-strike-abuse)
 - [Microsoft Warns of Rise in Stolen Cloud Tokens Used to Bypass MFA](https://www.darkreading.com/endpoint/microsoft-warns-of-rise-in-stolen-cloud-tokens-used-to-bypass-mfa)
@@ -83,7 +84,6 @@
 - [Name That Toon: Fall Cleanup](https://www.darkreading.com/threat-intelligence/name-that-toon-fall-cleanup)
 - [Major Security Breach From Business Users&#39; Low-Code Apps Could Come in 2023, Analysts Warn](https://www.darkreading.com/edge-articles/major-security-breach-from-business-users-low-code-apps-could-come-in-2023-analysts-warn)
 - [Time to Get Kids Hacking: Our 2022 Holiday Gift Guide](https://www.darkreading.com/endpoint/get-kids-hacking-2022-holiday-gift-guide)
-- [MIT Research Documents Effectiveness of Consensus Cyber Risk Oversight Principles](https://www.darkreading.com/risk/mit-research-documents-effectiveness-of-consensus-cyber-risk-oversight-principles)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
