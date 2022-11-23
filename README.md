@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Penetration Testing Market Size Is Projected to Reach $5.28B Globally by 2028](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028)
 - [Where Are We Heading With Data Privacy Regulations?](https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-)
 - [Cybersecurity Pros Put Mastodon Flaws Under the Microscope](https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope)
 - [Adversarial AI Attacks Highlight Fundamental Security Issues](https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues)
@@ -83,7 +84,6 @@
 - [DraftKings Account Takeovers Frame Sports-Betting Cybersecurity Dilemma](https://www.darkreading.com/threat-intelligence/draftkings-account-takeovers-frame-sports-betting-cybersecurity-dilemma)
 - [Cyber Due Diligence in M&amp;As Uncovers Threats, Improves Valuations](https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations)
 - [How Work From Home Shaped the Road to SASE for Enterprises](https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises)
-- [Enterprises Pay $1,200 Per Employee Annually to Fight Cyberattacks Against Cloud Collab Apps](https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
