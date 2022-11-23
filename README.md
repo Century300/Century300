@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Where Are We Heading With Data Privacy Regulations?](https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-)
 - [Cybersecurity Pros Put Mastodon Flaws Under the Microscope](https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope)
 - [Adversarial AI Attacks Highlight Fundamental Security Issues](https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues)
 - [Ducktail Cyberattackers Add WhatsApp to Facebook Business Attack Chain](https://www.darkreading.com/attacks-breaches/ducktail-cyberattackers-whatsapp-facebook-business-attack-chain)
@@ -83,7 +84,6 @@
 - [Cyber Due Diligence in M&amp;As Uncovers Threats, Improves Valuations](https://www.darkreading.com/edge-articles/cyber-due-diligence-in-m-as-uncovers-threats-improves-valuations)
 - [How Work From Home Shaped the Road to SASE for Enterprises](https://www.darkreading.com/remote-workforce/how-work-from-home-shaped-the-road-to-sase-for-enterprises)
 - [Enterprises Pay $1,200 Per Employee Annually to Fight Cyberattacks Against Cloud Collab Apps](https://www.darkreading.com/remote-workforce/enterprises-pay-1200-per-employee-annually-cyberattacks-cloud-collab-apps)
-- [Google Blocks 231B Spam, Phishing Emails in Past 2 Weeks](https://www.darkreading.com/remote-workforce/google-blocks-231b-spam-phishing-messages-2-weeks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
