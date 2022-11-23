@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Development Teams Should Respond to Text4Shell](https://www.darkreading.com/dr-tech/how-development-teams-should-respond-to-text4shell)
 - [Why Africa&#39;s Telecoms Must Actively Collaborate to Combat Fraud](https://www.darkreading.com/edge-articles/why-africa-s-telecoms-must-actively-collaborate-to-combat-fraud)
 - [&#39;Patch Lag&#39; Leaves Millions of Android Devices Vulnerable](https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable)
 - [Hot Ticket: &#39;Aurora&#39; Go-Based InfoStealer Finds Favor Among Cyber-Threat Actors](https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors)
@@ -83,7 +84,6 @@
 - [Penetration Testing Market Size Is Projected to Reach $5.28B Globally by 2028](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028)
 - [Where Are We Heading With Data Privacy Regulations?](https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-)
 - [Cybersecurity Pros Put Mastodon Flaws Under the Microscope](https://www.darkreading.com/dr-tech/cybersecurity-pros-mastodon-flaws-under-microscope)
-- [Adversarial AI Attacks Highlight Fundamental Security Issues](https://www.darkreading.com/vulnerabilities-threats/adversarial-ai-attacks-highlight-fundamental-security-issues)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
