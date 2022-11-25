@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 - [For Gaming Companies, Cybersecurity Has Become a Major Value Proposition](https://www.darkreading.com/threat-intelligence/cybersecurity-major-game-company-value-proposition)
 - [How Development Teams Should Respond to Text4Shell](https://www.darkreading.com/dr-tech/how-development-teams-should-respond-to-text4shell)
 - [Why Africa&#39;s Telecoms Must Actively Collaborate to Combat Fraud](https://www.darkreading.com/edge-articles/why-africa-s-telecoms-must-actively-collaborate-to-combat-fraud)
@@ -83,7 +84,6 @@
 - [Hot Ticket: &#39;Aurora&#39; Go-Based InfoStealer Finds Favor Among Cyber-Threat Actors](https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors)
 - [Microsoft: Popular IoT SDKs Leave Critical Infrastructure Wide Open to Cyberattack](https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack)
 - [Penetration Testing Market Size Is Projected to Reach $5.28B Globally by 2028](https://www.darkreading.com/vulnerabilities-threats/penetration-testing-market-size-is-projected-to-reach-5-28b-globally-by-2028)
-- [Where Are We Heading With Data Privacy Regulations?](https://www.darkreading.com/endpoint/where-are-we-heading-with-data-privacy-regulations-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
