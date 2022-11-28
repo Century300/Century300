@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Cybersecurity Consolidation Continues, Even as Valuations Stall](https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall)
+- [Cyber-Threat Group Targets Critical RCE Vulnerability in &#39;Bleed You&#39; Campaign](https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign)
+- [Global Cyber-Enforcement Op Nets $130M, Says Interpol](https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol)
 - [Black Basta Gang Deploys Qakbot Malware in Aggressive Cyber Campaign](https://www.darkreading.com/threat-intelligence/black-basta-gang-deploys-qakbot-malware-cyber-campaign)
 - [$275M Fine for Meta After Facebook Data Scrape](https://www.darkreading.com/threat-intelligence/facebook-data-scrape-meta-265m-fine)
 - [KnowBe4 Launches New Mobile Learner App for Cybersecurity Learning](https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning)
 - [NanoLock Brings Built-In Meter-Level Cybersecurity to Renesas Customers](https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers)
 - [Bring Your Own Key — A Placebo?](https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-)
-- [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
-- [For Gaming Companies, Cybersecurity Has Become a Major Value Proposition](https://www.darkreading.com/threat-intelligence/cybersecurity-major-game-company-value-proposition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
