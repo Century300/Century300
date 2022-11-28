@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KnowBe4 Launches New Mobile Learner App for Cybersecurity Learning](https://www.darkreading.com/remote-workforce/knowbe4-launches-new-mobile-learner-app-for-cybersecurity-learning)
+- [NanoLock Brings Built-In Meter-Level Cybersecurity to Renesas Customers](https://www.darkreading.com/ics-ot/nanolock-brings-built-in-meter-level-cybersecurity-to-renesas-customers)
 - [Bring Your Own Key — A Placebo?](https://www.darkreading.com/cloud/bring-your-own-key-a-placebo-)
 - [Slippery RansomExx Malware Moves to Rust, Evading VirusTotal](https://www.darkreading.com/threat-intelligence/slippery-ransomexx-malware-moves-rust-virustotal)
 - [For Gaming Companies, Cybersecurity Has Become a Major Value Proposition](https://www.darkreading.com/threat-intelligence/cybersecurity-major-game-company-value-proposition)
 - [How Development Teams Should Respond to Text4Shell](https://www.darkreading.com/dr-tech/how-development-teams-should-respond-to-text4shell)
 - [Why Africa&#39;s Telecoms Must Actively Collaborate to Combat Fraud](https://www.darkreading.com/edge-articles/why-africa-s-telecoms-must-actively-collaborate-to-combat-fraud)
 - [&#39;Patch Lag&#39; Leaves Millions of Android Devices Vulnerable](https://www.darkreading.com/mobile/-patch-lag-leaves-millions-android-devices-vulnerable)
-- [Hot Ticket: &#39;Aurora&#39; Go-Based InfoStealer Finds Favor Among Cyber-Threat Actors](https://www.darkreading.com/threat-intelligence/hot-ticket-aurora-go-based-infostealer-favor-cyber-threat-actors)
-- [Microsoft: Popular IoT SDKs Leave Critical Infrastructure Wide Open to Cyberattack](https://www.darkreading.com/ics-ot/microsoft-iot-sdks-critical-infrastructure-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
