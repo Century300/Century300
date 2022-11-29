@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CDNetworks Releases State of Web Security H1 2022: Attacks Against API Services Surged 168.8%](https://www.darkreading.com/attacks-breaches/cdnetworks-releases-state-of-web-security-h1-2022-attacks-against-api-services-surged-168-8-)
 - [Acer Firmware Flaw Lets Attackers Bypass Key Security Feature](https://www.darkreading.com/threat-intelligence/acer-firmware-flaw-attackers-bypass-key-security-feature)
 - [Nok Nok and UberEther Partner to Deliver Phishing-Resistant MFA FedRAMP-Certified IAM Solutions](https://www.darkreading.com/endpoint/nok-nok-and-uberether-partner-to-deliver-phishing-resistant-mfa-fedramp-certified-iam-solutions)
 - [CISA&#39;s Strategic Plan Is Ushering in a New Cybersecurity Era](https://www.darkreading.com/vulnerabilities-threats/cisa-s-strategic-plan-is-ushering-in-a-new-cybersecurity-era)
@@ -83,7 +84,6 @@
 - [9 Out of 10 Security Leaders State That Control Failures Are the Primary Reason For Data Breaches](https://www.darkreading.com/attacks-breaches/9-out-of-10-security-leaders-state-that-control-failures-are-the-primary-reason-for-data-breaches)
 - [What Every Enterprise Can Learn From Russia’s Cyber Assault on Ukraine](https://www.darkreading.com/microsoft/what-every-enterprise-can-learn-from-russia-s-cyber-assault-on-ukraine)
 - [How the Cloud Changed Digital Forensics Investigations](https://www.darkreading.com/edge-articles/how-the-cloud-changed-digital-forensics-investigations)
-- [Cybersecurity Consolidation Continues, Even as Valuations Stall](https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
