@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Defender Gets New Security Protections](https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections)
+- [How to Use Cyber Deception to Counter an Evolving and Advanced Threat Landscape](https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape)
+- [Cyberattackers Selling Access to Networks Compromised via Recent Fortinet Flaw](https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw)
 - [Oracle Fusion Middleware Flaw Flagged by CISA](https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa)
 - [The Metaverse Could Become a Top Avenue for Cyberattacks in 2023](https://www.darkreading.com/attacks-breaches/metaverse-top-avenue-cyberattacks-2023)
 - [Killnet Gloats About DDoS Attacks Downing Starlink, White House](https://www.darkreading.com/threat-intelligence/killnet-gloats-ddos-attacks-starlink-whitehouse-gov)
 - [Why the Culture Shift on Privacy and Security Means Today&#39;s Data Looks Different](https://www.darkreading.com/endpoint/why-the-culture-shift-on-privacy-and-security-means-today-s-data-looks-different)
 - [CDNetworks Releases State of Web Security H1 2022: Attacks Against API Services Surged 168.8%](https://www.darkreading.com/attacks-breaches/cdnetworks-releases-state-of-web-security-h1-2022-attacks-against-api-services-surged-168-8-)
-- [Acer Firmware Flaw Lets Attackers Bypass Key Security Feature](https://www.darkreading.com/threat-intelligence/acer-firmware-flaw-attackers-bypass-key-security-feature)
-- [Nok Nok and UberEther Partner to Deliver Phishing-Resistant MFA FedRAMP-Certified IAM Solutions](https://www.darkreading.com/endpoint/nok-nok-and-uberether-partner-to-deliver-phishing-resistant-mfa-fedramp-certified-iam-solutions)
-- [CISA&#39;s Strategic Plan Is Ushering in a New Cybersecurity Era](https://www.darkreading.com/vulnerabilities-threats/cisa-s-strategic-plan-is-ushering-in-a-new-cybersecurity-era)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
