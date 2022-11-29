@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Acer Firmware Flaw Lets Attackers Bypass Key Security Feature](https://www.darkreading.com/threat-intelligence/acer-firmware-flaw-attackers-bypass-key-security-feature)
+- [Nok Nok and UberEther Partner to Deliver Phishing-Resistant MFA FedRAMP-Certified IAM Solutions](https://www.darkreading.com/endpoint/nok-nok-and-uberether-partner-to-deliver-phishing-resistant-mfa-fedramp-certified-iam-solutions)
 - [CISA&#39;s Strategic Plan Is Ushering in a New Cybersecurity Era](https://www.darkreading.com/vulnerabilities-threats/cisa-s-strategic-plan-is-ushering-in-a-new-cybersecurity-era)
 - [Cybersecurity and ESG Among Top Areas of Concern for Audit Leaders in 2023](https://www.darkreading.com/risk/cybersecurity-and-esg-among-top-areas-of-concern-for-audit-leaders-in-2023)
 - [9 Out of 10 Security Leaders State That Control Failures Are the Primary Reason For Data Breaches](https://www.darkreading.com/attacks-breaches/9-out-of-10-security-leaders-state-that-control-failures-are-the-primary-reason-for-data-breaches)
 - [What Every Enterprise Can Learn From Russia’s Cyber Assault on Ukraine](https://www.darkreading.com/microsoft/what-every-enterprise-can-learn-from-russia-s-cyber-assault-on-ukraine)
 - [How the Cloud Changed Digital Forensics Investigations](https://www.darkreading.com/edge-articles/how-the-cloud-changed-digital-forensics-investigations)
 - [Cybersecurity Consolidation Continues, Even as Valuations Stall](https://www.darkreading.com/attacks-breaches/cybersecurity-consolidation-continues-valuations-stall)
-- [Cyber-Threat Group Targets Critical RCE Vulnerability in &#39;Bleed You&#39; Campaign](https://www.darkreading.com/threat-intelligence/cyber-threat-weak-windows-servers-bleed-you-campaign)
-- [Global Cyber-Enforcement Op Nets $130M, Says Interpol](https://www.darkreading.com/threat-intelligence/global-cyber-enforcement-op-nets-130-million-interpol)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
