@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Oracle Fusion Middleware Flaw Flagged by CISA](https://www.darkreading.com/threat-intelligence/oracle-fusion-middleware-flaw-flagged-by-cisa)
 - [The Metaverse Could Become a Top Avenue for Cyberattacks in 2023](https://www.darkreading.com/attacks-breaches/metaverse-top-avenue-cyberattacks-2023)
 - [Killnet Gloats About DDoS Attacks Downing Starlink, White House](https://www.darkreading.com/threat-intelligence/killnet-gloats-ddos-attacks-starlink-whitehouse-gov)
 - [Why the Culture Shift on Privacy and Security Means Today&#39;s Data Looks Different](https://www.darkreading.com/endpoint/why-the-culture-shift-on-privacy-and-security-means-today-s-data-looks-different)
@@ -83,7 +84,6 @@
 - [Acer Firmware Flaw Lets Attackers Bypass Key Security Feature](https://www.darkreading.com/threat-intelligence/acer-firmware-flaw-attackers-bypass-key-security-feature)
 - [Nok Nok and UberEther Partner to Deliver Phishing-Resistant MFA FedRAMP-Certified IAM Solutions](https://www.darkreading.com/endpoint/nok-nok-and-uberether-partner-to-deliver-phishing-resistant-mfa-fedramp-certified-iam-solutions)
 - [CISA&#39;s Strategic Plan Is Ushering in a New Cybersecurity Era](https://www.darkreading.com/vulnerabilities-threats/cisa-s-strategic-plan-is-ushering-in-a-new-cybersecurity-era)
-- [Cybersecurity and ESG Among Top Areas of Concern for Audit Leaders in 2023](https://www.darkreading.com/risk/cybersecurity-and-esg-among-top-areas-of-concern-for-audit-leaders-in-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
