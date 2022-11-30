@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google TAG Warns on Emerging Heliconia Exploit Framework for RCE](https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework)
 - [How Banks Can Upgrade Security Without Affecting Client Service](https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service)
 - [New Exploit Broker on the Scene Pays Premium for Signal App Zero-Days](https://www.darkreading.com/application-security/new-exploit-broker-pays-premium-signal-app-zero-days)
 - [SPHERE Receives $31M for Series B Funding From Edison Partners, Forgepoint Capital](https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital)
@@ -83,7 +84,6 @@
 - [API Secrets: Where the Bearer Model Breaks Down](https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down)
 - [Critical Quarkus Flaw Threatens Cloud Developers With Easy RCE](https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce)
 - [Identity Digital Releases Its First DNS Anti-Abuse Report](https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report)
-- [Delinea Introduces Granular Privileged Access Controls on Servers](https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
