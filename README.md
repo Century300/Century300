@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SPHERE Receives $31M for Series B Funding From Edison Partners, Forgepoint Capital](https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital)
 - [The Evolution of Business Email Compromise](https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise)
 - [API Secrets: Where the Bearer Model Breaks Down](https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down)
 - [Identity Digital Releases Its First DNS Anti-Abuse Report](https://www.darkreading.com/perimeter/identity-digital-releases-its-first-dns-anti-abuse-report)
 - [Delinea Introduces Granular Privileged Access Controls on Servers](https://www.darkreading.com/remote-workforce/delinea-introduces-new-granular-privileged-access-controls-on-servers)
 - [CyberRatings.org Revives NSS Labs Research](https://www.darkreading.com/threat-intelligence/cyberratings-org-revives-nss-labs-research)
+- [Connect the Dots with Genetic Algorithms on CNAPP](https://www.darkreading.com/zscaler/connect-the-dots-with-genetic-algorithms-on-cnapp)
 - [Microsoft Defender Gets New Security Protections](https://www.darkreading.com/dr-tech/microsoft-defender-gets-new-security-protections)
-- [How to Use Cyber Deception to Counter an Evolving and Advanced Threat Landscape](https://www.darkreading.com/edge-articles/how-to-use-cyber-deception-to-counter-an-evolving-and-advanced-threat-landscape)
-- [Cyberattackers Selling Access to Networks Compromised via Recent Fortinet Flaw](https://www.darkreading.com/threat-intelligence/tcyberattackers-selling-access-networks-compromised-fortinet-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
