@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CI Fuzz CLI Brings Fuzz Testing to Java Applications](https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications)
 - [Nvidia GPU Driver Bugs Threaten Device Takeover &amp; More](https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover)
 - [Google TAG Warns on Emerging Heliconia Exploit Framework for RCE](https://www.darkreading.com/threat-intelligence/google-tag-warns-emerging-heliconia-exploit-framework)
 - [How Banks Can Upgrade Security Without Affecting Client Service](https://www.darkreading.com/vulnerabilities-threats/how-banks-can-upgrade-security-without-affecting-client-service)
@@ -83,7 +84,6 @@
 - [SPHERE Receives $31M for Series B Funding From Edison Partners, Forgepoint Capital](https://www.darkreading.com/remote-workforce/sphere-receives-31m-for-series-b-funding-from-edison-partners-forgepoint-capital)
 - [The Evolution of Business Email Compromise](https://www.darkreading.com/endpoint/the-evolution-of-business-email-compromise)
 - [API Secrets: Where the Bearer Model Breaks Down](https://www.darkreading.com/edge-articles/api-secrets-where-the-bearer-model-breaks-down)
-- [Critical Quarkus Flaw Threatens Cloud Developers With Easy RCE](https://www.darkreading.com/application-security/critical-quarkus-flaw-threatens-cloud-developers-easy-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
