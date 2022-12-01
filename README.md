@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [One Year After Log4Shell, Most Firms Are Still Exposed to Attack](https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack)
 - [Is MFA the Vegetable of Cybersecurity?](https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-)
 - [IBM Cloud Supply Chain Vulnerability Showcases New Threat Class](https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class)
 - [Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands](https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands)
@@ -83,7 +84,6 @@
 - [CyberRatings.org Announces Results from First-of-its-Kind Comparative Test on Cloud Network Firewall](https://www.darkreading.com/threat-intelligence/cyberratings-org-announces-results-from-first-of-its-kind-comparative-test-on-cloud-network-firewall)
 - [Phylum Expands Its Software Supply Chain Security Capabilities, Introduces Automated Vulnerability Reachability](https://www.darkreading.com/vulnerabilities-threats/phylum-expands-its-software-supply-chain-security-capabilities-introduces-automated-vulnerability-reachability)
 - [CI Fuzz CLI Brings Fuzz Testing to Java Applications](https://www.darkreading.com/dr-tech/ci-fuzz-cli-brings-fuzz-testing-to-java-applications)
-- [Nvidia GPU Driver Bugs Threaten Device Takeover &amp; More](https://www.darkreading.com/application-security/nvidia-gpu-driver-bugs-device-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
