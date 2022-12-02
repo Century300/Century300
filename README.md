@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AWS Unveils Amazon Security Lake at re:Invent 2022](https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022)
 - [LastPass Discloses Second Breach in Three Months](https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months)
 - [Artifact Poisoning in GitHub Actions Imports Malware via Software Pipelines](https://www.darkreading.com/application-security/artifact-poisoning-github-actions-malware-software-pipelines)
 - [One Year After Log4Shell, Most Firms Are Still Exposed to Attack](https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack)
@@ -83,7 +84,6 @@
 - [IBM Cloud Supply Chain Vulnerability Showcases New Threat Class](https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class)
 - [Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands](https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands)
 - [Of Exploits and Experts: The Professionalization of Cybercrime](https://www.darkreading.com/zscaler/of-exploits-and-experts-the-professionalization-of-cybercrime)
-- [Guidehouse Insights Anticipates Market for Automotive Cybersecurity Solutions Will Grow to More Than $445 Billion by 2031](https://www.darkreading.com/endpoint/guidehouse-insights-anticipates-market-for-automotive-cybersecurity-solutions-will-grow-to-more-than-445-billion-by-2031)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
