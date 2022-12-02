@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SOC Turns to Homegrown Machine Learning to Catch Cyber-Intruders](https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders)
 - [A Risky Business: Choosing the Right Methodology](https://www.darkreading.com/risk/a-risky-business-choosing-the-right-methodology)
 - [AWS Unveils Amazon Security Lake at re:Invent 2022](https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022)
 - [LastPass Discloses Second Breach in Three Months](https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months)
@@ -83,7 +84,6 @@
 - [One Year After Log4Shell, Most Firms Are Still Exposed to Attack](https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack)
 - [Is MFA the Vegetable of Cybersecurity?](https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-)
 - [IBM Cloud Supply Chain Vulnerability Showcases New Threat Class](https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class)
-- [Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands](https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
