@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Risky Business: Choosing the Right Methodology](https://www.darkreading.com/risk/a-risky-business-choosing-the-right-methodology)
 - [AWS Unveils Amazon Security Lake at re:Invent 2022](https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022)
 - [LastPass Discloses Second Breach in Three Months](https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months)
 - [Artifact Poisoning in GitHub Actions Imports Malware via Software Pipelines](https://www.darkreading.com/application-security/artifact-poisoning-github-actions-malware-software-pipelines)
@@ -83,7 +84,6 @@
 - [Is MFA the Vegetable of Cybersecurity?](https://www.darkreading.com/microsoft/is-mfa-the-vegetable-of-cybersecurity-)
 - [IBM Cloud Supply Chain Vulnerability Showcases New Threat Class](https://www.darkreading.com/cloud/ibm-cloud-supply-chain-vulnerability-showcases-new-threat-class)
 - [Data Security Concerns Are Driving Changes in US Consumer Behavior and Demands](https://www.darkreading.com/endpoint/data-security-concerns-are-driving-changes-in-us-consumer-behavior-and-demands)
-- [Of Exploits and Experts: The Professionalization of Cybercrime](https://www.darkreading.com/zscaler/of-exploits-and-experts-the-professionalization-of-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
