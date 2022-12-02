@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SiriusXM, MyHyundai Car Apps Showcase Next-Gen Car Hacking](https://www.darkreading.com/application-security/siriusxm-myhyundai-car-apps-showcase-next-gen-car-hacking)
 - [Newsroom Sues NSO Group for Pegasus Spyware Compromise](https://www.darkreading.com/application-security/newsroom-sues-nso-group-for-pegasus-spyware)
 - [Where Advanced Cyberttackers Are Heading Next: Disruptive Hits, New Tech](https://www.darkreading.com/threat-intelligence/advanced-cyberattackers-disruptive-hits-new-technologies)
 - [SOC Turns to Homegrown Machine Learning to Catch Cyber-Intruders](https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders)
@@ -83,7 +84,6 @@
 - [AWS Unveils Amazon Security Lake at re:Invent 2022](https://www.darkreading.com/dr-tech/aws-unveils-amazon-security-lake-at-reinvent-2022)
 - [LastPass Discloses Second Breach in Three Months](https://www.darkreading.com/application-security/lastpass-discloses-second-breach-in-three-months)
 - [Artifact Poisoning in GitHub Actions Imports Malware via Software Pipelines](https://www.darkreading.com/application-security/artifact-poisoning-github-actions-malware-software-pipelines)
-- [One Year After Log4Shell, Most Firms Are Still Exposed to Attack](https://www.darkreading.com/application-security/one-year-later-log4shell-exposed-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
