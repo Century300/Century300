@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The New External Attack Surface: 3 Elements Every Organization Should Monitor](https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor)
+- [Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care](https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care)
+- [OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software](https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software)
 - [Infostealer Malware Market Booms, as MFA Fatigue Sets In](https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue)
 - [The Privacy War Is Coming](https://www.darkreading.com/endpoint/the-privacy-war-is-coming)
 - [Ransomware Professionalization Grows as RaaS Takes Hold](https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold)
 - [Malware Authors Inadvertently Take Down Own Botnet](https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet)
 - [Concern Over DDoS Attacks Falls Despite Rise in Incidents](https://www.darkreading.com/edge-threat-monitor/concern-over-ddos-attacks-falls-despite-rise-in-incidents)
-- [SiriusXM, MyHyundai Car Apps Showcase Next-Gen Car Hacking](https://www.darkreading.com/application-security/siriusxm-myhyundai-car-apps-showcase-next-gen-car-hacking)
-- [Newsroom Sues NSO Group for Pegasus Spyware Compromise](https://www.darkreading.com/application-security/newsroom-sues-nso-group-for-pegasus-spyware)
-- [Where Advanced Cyberttackers Are Heading Next: Disruptive Hits, New Tech](https://www.darkreading.com/threat-intelligence/advanced-cyberattackers-disruptive-hits-new-technologies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
