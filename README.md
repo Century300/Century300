@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infostealer Malware Market Booms, as MFA Fatigue Sets In](https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue)
 - [The Privacy War Is Coming](https://www.darkreading.com/endpoint/the-privacy-war-is-coming)
-- [Malware Authors Inadvertently Takedown Own Botnet](https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet)
+- [Ransomware Professionalization Grows as RaaS Takes Hold](https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold)
+- [Malware Authors Inadvertently Take Down Own Botnet](https://www.darkreading.com/attacks-breaches/malware-authors-inadvertently-takdown-own-botnet)
 - [Concern Over DDoS Attacks Falls Despite Rise in Incidents](https://www.darkreading.com/edge-threat-monitor/concern-over-ddos-attacks-falls-despite-rise-in-incidents)
 - [SiriusXM, MyHyundai Car Apps Showcase Next-Gen Car Hacking](https://www.darkreading.com/application-security/siriusxm-myhyundai-car-apps-showcase-next-gen-car-hacking)
 - [Newsroom Sues NSO Group for Pegasus Spyware Compromise](https://www.darkreading.com/application-security/newsroom-sues-nso-group-for-pegasus-spyware)
 - [Where Advanced Cyberttackers Are Heading Next: Disruptive Hits, New Tech](https://www.darkreading.com/threat-intelligence/advanced-cyberattackers-disruptive-hits-new-technologies)
-- [SOC Turns to Homegrown Machine Learning to Catch Cyber Intruders](https://www.darkreading.com/analytics/soc-homegrown-machine-learning-cyberintruders)
-- [A Risky Business: Choosing the Right Methodology](https://www.darkreading.com/risk/a-risky-business-choosing-the-right-methodology)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
