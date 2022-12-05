@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hive Social Buzzing With Security Flaws, Analysts Warn](https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws)
 - [Cybersecurity Should Focus on Managing Risk](https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk)
 - [Cyberattack Shuts Down French Hospital](https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital)
 - [The New External Attack Surface: 3 Elements Every Organization Should Monitor](https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor)
@@ -83,7 +84,6 @@
 - [OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software](https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software)
 - [Infostealer Malware Market Booms, as MFA Fatigue Sets In](https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue)
 - [The Privacy War Is Coming](https://www.darkreading.com/endpoint/the-privacy-war-is-coming)
-- [Ransomware Professionalization Grows as RaaS Takes Hold](https://www.darkreading.com/threat-intelligence/ransomware-professionalization-grows-as-raas-takes-hold)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
