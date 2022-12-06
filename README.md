@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intellicene Brand Launches After Completion of Acquisition by Volaris Group](https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group)
 - [Hardening Identities With Phish-Resistant MFA](https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa)
 - [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
 - [Russian Actors Use Compromised Healthcare Networks Against Ukrainian Orgs](https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs)
@@ -83,7 +84,6 @@
 - [Machine Learning Models: A Dangerous New Attack Vector](https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector)
 - [Wiper, Disguised as Fake Ransomware, Targets Russian Orgs](https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs)
 - [Hive Social Buzzing With Security Flaws, Analysts Warn](https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws)
-- [Cybersecurity Should Focus on Managing Risk](https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
