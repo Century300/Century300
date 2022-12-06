@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hardening Identities With Phish-Resistant MFA](https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa)
 - [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
+- [Russian Actors Use Compromised Healthcare Networks Against Ukrainian Orgs](https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs)
 - [AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market](https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market)
 - [Machine Learning Models: A Dangerous New Attack Vector](https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector)
 - [Wiper, Disguised as Fake Ransomware, Targets Russian Orgs](https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs)
 - [Hive Social Buzzing With Security Flaws, Analysts Warn](https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws)
 - [Cybersecurity Should Focus on Managing Risk](https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk)
-- [Cyberattack Shuts Down French Hospital](https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital)
-- [The New External Attack Surface: 3 Elements Every Organization Should Monitor](https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
