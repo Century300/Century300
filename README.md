@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
+- [AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market](https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market)
+- [Machine Learning Models: A Dangerous New Attack Vector](https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector)
 - [Wiper, Disguised as Fake Ransomware, Targets Russian Orgs](https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs)
 - [Hive Social Buzzing With Security Flaws, Analysts Warn](https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws)
 - [Cybersecurity Should Focus on Managing Risk](https://www.darkreading.com/edge-articles/cybersecurity-should-focus-on-managing-risk)
 - [Cyberattack Shuts Down French Hospital](https://www.darkreading.com/attacks-breaches/cyberattack-shuts-down-french-hospital)
 - [The New External Attack Surface: 3 Elements Every Organization Should Monitor](https://www.darkreading.com/microsoft/the-new-external-attack-surface-3-elements-every-organization-should-monitor)
-- [Palo Alto Networks Announces Medical IoT Security to Protect Connected Devices Critical to Patient Care](https://www.darkreading.com/iot/palo-alto-networks-announces-medical-iot-security-to-protect-connected-devices-critical-to-patient-care)
-- [OpenSSF Membership Exceeds 100, With Many New Members Dedicated to Securing Open Source Software](https://www.darkreading.com/application-security/openssf-membership-exceeds-100-with-many-new-members-dedicated-to-securing-open-source-software)
-- [Infostealer Malware Market Booms, as MFA Fatigue Sets In](https://www.darkreading.com/threat-intelligence/infostealer-malware-market-booms-mfa-fatigue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
