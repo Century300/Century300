@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine](https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine)
 - [What Will It Take to Secure Critical Infrastructure?](https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure)
 - [Name That Edge Toon: Not Your Average Bear](https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear)
 - [Intellicene Brand Launches After Completion of Acquisition by Volaris Group](https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group)
@@ -83,7 +84,6 @@
 - [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
 - [Russian Actors Use Compromised Healthcare Networks Against Ukrainian Orgs](https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs)
 - [AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market](https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market)
-- [Machine Learning Models: A Dangerous New Attack Vector](https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
