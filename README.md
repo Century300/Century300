@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Not Your Average Bear](https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear)
 - [Intellicene Brand Launches After Completion of Acquisition by Volaris Group](https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group)
 - [Hardening Identities With Phish-Resistant MFA](https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa)
 - [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
@@ -83,7 +84,6 @@
 - [AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market](https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market)
 - [Machine Learning Models: A Dangerous New Attack Vector](https://www.darkreading.com/threat-intelligence/machine-learning-models-dangerous-new-attack-vector)
 - [Wiper, Disguised as Fake Ransomware, Targets Russian Orgs](https://www.darkreading.com/threat-intelligence/wiper-disguised-fake-ransomware-targets-russian-orgs)
-- [Hive Social Buzzing With Security Flaws, Analysts Warn](https://www.darkreading.com/application-security/hive-social-buzzing-with-security-flaws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
