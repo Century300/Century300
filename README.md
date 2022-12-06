@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime](https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime)
+- [Google Chrome Flaw Added to CISA Patch List](https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list)
 - [Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine](https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine)
 - [What Will It Take to Secure Critical Infrastructure?](https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure)
 - [Name That Edge Toon: Not Your Average Bear](https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear)
 - [Intellicene Brand Launches After Completion of Acquisition by Volaris Group](https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group)
 - [Hardening Identities With Phish-Resistant MFA](https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa)
 - [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
-- [Russian Actors Use Compromised Healthcare Networks Against Ukrainian Orgs](https://www.darkreading.com/threat-intelligence/russian-actors-compromised-healthcare-networks-ukrainian-orgs)
-- [AlgoSec Acquires Prevasio To Disrupt Agentless Cloud Security Market](https://www.darkreading.com/cloud/algosec-acquires-prevasio-to-disrupt-agentless-cloud-security-market)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
