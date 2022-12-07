@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 xIoT Attacks Companies Aren&#39;t Prepared For](https://www.darkreading.com/ics-ot/3-xiot-attacks-companies-aren-t-prepared-for)
+- [San Francisco Rolls Back Its Plan for Killer Robots](https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots)
+- [Cybersecurity Resilience Emerges as Top Priority as 62% of Companies Say Security Incidents Impacted Business Operations](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-resilience-emerges-as-top-priority-as-62-of-companies-say-security-incidents-impacted-business-operations)
+- [Zerobot Weaponizes Numerous Flaws in Slew of IoT Devices](https://www.darkreading.com/remote-workforce/zerobot-weaponizes-numerous-flaws-iot-devices)
 - [For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers)
 - [Shift to Memory-Safe Languages Gains Momentum](https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum)
 - [ASM Can Fill Gaps While Working to Implement SBOM](https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm)
 - [Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime](https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime)
-- [Google Chrome Flaw Added to CISA Patch List](https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list)
-- [Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine](https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine)
-- [What Will It Take to Secure Critical Infrastructure?](https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure)
-- [Name That Edge Toon: Not Your Average Bear](https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
