@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shift to Memory-Safe Languages Gains Momentum](https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum)
+- [ASM Can Fill Gaps While Working to Implement SBOM](https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm)
 - [Cambridge Centre for Risk Studies and Kivu Release Benchmark of Cost-Effective Responses to Cybercrime](https://www.darkreading.com/risk/cambridge-centre-for-risk-studies-and-kivu-release-benchmark-of-cost-effective-responses-to-cybercrime)
 - [Google Chrome Flaw Added to CISA Patch List](https://www.darkreading.com/vulnerabilities-threats/google-chrome-flaw-added-to-cisa-patch-list)
 - [Russia Readies Winter Cyberattacks As Troops Retreat From Ukraine](https://www.darkreading.com/threat-intelligence/russia-readies-winter-cyberattacks-as-troops-retreat-from-ukraine)
 - [What Will It Take to Secure Critical Infrastructure?](https://www.darkreading.com/ics-ot/what-will-it-take-to-secure-critical-infrastructure)
 - [Name That Edge Toon: Not Your Average Bear](https://www.darkreading.com/edge-articles/name-that-edge-toon-not-your-average-bear)
 - [Intellicene Brand Launches After Completion of Acquisition by Volaris Group](https://www.darkreading.com/threat-intelligence/intellicene-brand-launches-after-completion-of-acquisition-by-volaris-group)
-- [Hardening Identities With Phish-Resistant MFA](https://www.darkreading.com/microsoft/hardening-identities-with-phish-resistant-mfa)
-- [Applying the OODA Loop to Cybersecurity and Secure Access Service Edge](https://www.darkreading.com/attacks-breaches/applying-the-ooda-loop-to-cybersecurity-and-secure-access-service-edge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
