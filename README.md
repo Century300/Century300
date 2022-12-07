@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Will New CISA Guidelines Help Bolster Cyber Defenses?](https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-)
 - [Piiano Equips Developers to Stop Sensitive Data Breaches](https://www.darkreading.com/application-security/piiano-equips-developers-to-stop-sensitive-data-breaches)
 - [3 xIoT Attacks Companies Aren&#39;t Prepared For](https://www.darkreading.com/ics-ot/3-xiot-attacks-companies-aren-t-prepared-for)
 - [San Francisco Rolls Back Its Plan for Killer Robots](https://www.darkreading.com/edge-articles/san-francisco-rolls-back-its-plan-for-killer-robots)
@@ -83,7 +84,6 @@
 - [Zerobot Weaponizes Numerous Flaws in Slew of IoT Devices](https://www.darkreading.com/remote-workforce/zerobot-weaponizes-numerous-flaws-iot-devices)
 - [For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers)
 - [Shift to Memory-Safe Languages Gains Momentum](https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum)
-- [ASM Can Fill Gaps While Working to Implement SBOM](https://www.darkreading.com/dr-tech/waiting-for-sbom-take-a-look-at-asm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
