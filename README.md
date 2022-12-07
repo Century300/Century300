@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Arrested for Filing Fake Tax Returns With Stolen Data](https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data)
 - [Will New CISA Guidelines Help Bolster Cyber Defenses?](https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-)
 - [Piiano Equips Developers to Stop Sensitive Data Breaches](https://www.darkreading.com/application-security/piiano-equips-developers-to-stop-sensitive-data-breaches)
 - [3 xIoT Attacks Companies Aren&#39;t Prepared For](https://www.darkreading.com/ics-ot/3-xiot-attacks-companies-aren-t-prepared-for)
@@ -83,7 +84,6 @@
 - [Cybersecurity Resilience Emerges as Top Priority as 62% of Companies Say Security Incidents Impacted Business Operations](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-resilience-emerges-as-top-priority-as-62-of-companies-say-security-incidents-impacted-business-operations)
 - [Zerobot Weaponizes Numerous Flaws in Slew of IoT Devices](https://www.darkreading.com/remote-workforce/zerobot-weaponizes-numerous-flaws-iot-devices)
 - [For Cyberattackers, Popular EDR Tools Can Turn into Destructive Data Wipers](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-popular-edr-tools-destructive-data-wipers)
-- [Shift to Memory-Safe Languages Gains Momentum](https://www.darkreading.com/application-security/shift-memory-safe-languages-gains-momentum)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
