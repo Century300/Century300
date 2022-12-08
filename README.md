@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phishing in the Cloud: We&#39;re Gonna Need a Bigger Boat](https://www.darkreading.com/endpoint/phishing-in-the-cloud-we-re-gonna-need-a-bigger-boat)
+- [&lpar;ISC&rpar;² Recruits 110,000 People Interested in a Cybersecurity Career in Three Months](https://www.darkreading.com/operations/-isc-recruits-110-000-people-interested-in-a-cybersecurity-career-in-three-months)
+- [Interpres Security Emerges from Stealth to Help Companies to Optimize Security Performance](https://www.darkreading.com/threat-intelligence/interpres-security-emerges-from-stealth-to-help-companies-to-optimize-security-performance)
+- [Where to Find the Best Open Source Security Technology](https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology)
+- [Report: Air-Gapped Networks Vulnerable to DNS Attacks](https://www.darkreading.com/attacks-breaches/report-air-gapped-networks-vulnerable-dns-attacks)
 - [Hacker Fails for the Win](https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win)
 - [Rackspace Incident Highlights How Disruptive Attacks on Cloud Providers Can Be](https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers)
 - [Fraudsters Siphon $360M From Retailers Using 50M Fake Shoppers](https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers)
-- [Android Serves Up a Slew of Security Updates, 4 Critical](https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical)
-- [Key Security Announcements From AWS re:Invent 2022](https://www.darkreading.com/dr-tech/key-security-announcements-from-aws-re-invent-2022)
-- [4 Arrested for Filing Fake Tax Returns With Stolen Data](https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data)
-- [Will New CISA Guidelines Help Bolster Cyber Defenses?](https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-)
-- [Piiano Equips Developers to Stop Sensitive Data Breaches](https://www.darkreading.com/application-security/piiano-equips-developers-to-stop-sensitive-data-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
