@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacker Fails for the Win](https://www.darkreading.com/vulnerabilities-threats/hacker-fails-for-the-win)
 - [Rackspace Incident Highlights How Disruptive Attacks on Cloud Providers Can Be](https://www.darkreading.com/cloud/rackspace-incident-highlights-disruptive-attacks-on-cloud-providers)
 - [Fraudsters Siphon $360M From Retailers Using 50M Fake Shoppers](https://www.darkreading.com/threat-intelligence/fraudsters-siphon-360m-fake-shoppers)
 - [Android Serves Up a Slew of Security Updates, 4 Critical](https://www.darkreading.com/application-security/android-serves-up-slew-security-updates-4-critical)
@@ -83,7 +84,6 @@
 - [4 Arrested for Filing Fake Tax Returns With Stolen Data](https://www.darkreading.com/attacks-breaches/4-arrested-for-filing-fake-tax-returns-with-stolen-data)
 - [Will New CISA Guidelines Help Bolster Cyber Defenses?](https://www.darkreading.com/attacks-breaches/will-new-cisa-guidelines-help-bolster-cyber-defenses-)
 - [Piiano Equips Developers to Stop Sensitive Data Breaches](https://www.darkreading.com/application-security/piiano-equips-developers-to-stop-sensitive-data-breaches)
-- [3 xIoT Attacks Companies Aren&#39;t Prepared For](https://www.darkreading.com/ics-ot/3-xiot-attacks-companies-aren-t-prepared-for)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
