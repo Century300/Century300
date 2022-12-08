@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Agrius Iranian APT Group Cuts Into Diamond Industry](https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry)
 - [How Do I Use the Domain Score to Determine if a Domain Is a Threat?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-use-the-domain-score-to-determine-if-a-domain-is-a-threat)
 - [Single Sign-on: It&#39;s Only as Good as Your Ability to Use It](https://www.darkreading.com/endpoint/single-sign-on-it-s-only-as-good-as-your-ability-to-use-it)
 - [Lack of Cybersecurity Expertise Poses Threat for Public-Safety Orgs](https://www.darkreading.com/remote-workforce/lack-cybersecurity-expertise-poses-threat-public-safety-orgs)
@@ -83,7 +84,6 @@
 - [Phishing in the Cloud: We&#39;re Gonna Need a Bigger Boat](https://www.darkreading.com/endpoint/phishing-in-the-cloud-we-re-gonna-need-a-bigger-boat)
 - [&lpar;ISC&rpar;² Recruits 110,000 People Interested in a Cybersecurity Career in Three Months](https://www.darkreading.com/operations/-isc-recruits-110-000-people-interested-in-a-cybersecurity-career-in-three-months)
 - [Interpres Security Emerges from Stealth to Help Companies to Optimize Security Performance](https://www.darkreading.com/threat-intelligence/interpres-security-emerges-from-stealth-to-help-companies-to-optimize-security-performance)
-- [Where to Find the Best Open Source Security Technology](https://www.darkreading.com/application-security/where-to-find-the-best-open-source-security-technology)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
