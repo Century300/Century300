@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Naming Can Change the Game in Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security)
+- [Google: Use SLSA Framework for Better Software Security](https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security)
 - [3 Ways Attackers Bypass Cloud Security](https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security)
 - [CNAPP Shines a Light Into Evolving Cloud Environments](https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments)
 - [Agrius Iranian APT Group Cuts Into Diamond Industry](https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry)
 - [How Do I Use the Domain Score to Determine if a Domain Is a Threat?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-use-the-domain-score-to-determine-if-a-domain-is-a-threat)
 - [Single Sign-on: It&#39;s Only as Good as Your Ability to Use It](https://www.darkreading.com/endpoint/single-sign-on-it-s-only-as-good-as-your-ability-to-use-it)
 - [Lack of Cybersecurity Expertise Poses Threat for Public-Safety Orgs](https://www.darkreading.com/remote-workforce/lack-cybersecurity-expertise-poses-threat-public-safety-orgs)
-- [APT37 Uses Internet Explorer Zero-Day to Spread Malware](https://www.darkreading.com/remote-workforce/apt37-internet-explorer-zero-day-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
