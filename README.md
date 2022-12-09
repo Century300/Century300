@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Naming Can Change the Game in Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security)
 - [3 Ways Attackers Bypass Cloud Security](https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security)
 - [CNAPP Shines a Light Into Evolving Cloud Environments](https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments)
 - [Agrius Iranian APT Group Cuts Into Diamond Industry](https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry)
@@ -83,7 +84,6 @@
 - [Single Sign-on: It&#39;s Only as Good as Your Ability to Use It](https://www.darkreading.com/endpoint/single-sign-on-it-s-only-as-good-as-your-ability-to-use-it)
 - [Lack of Cybersecurity Expertise Poses Threat for Public-Safety Orgs](https://www.darkreading.com/remote-workforce/lack-cybersecurity-expertise-poses-threat-public-safety-orgs)
 - [APT37 Uses Internet Explorer Zero-Day to Spread Malware](https://www.darkreading.com/remote-workforce/apt37-internet-explorer-zero-day-malware)
-- [Phishing in the Cloud: We&#39;re Gonna Need a Bigger Boat](https://www.darkreading.com/endpoint/phishing-in-the-cloud-we-re-gonna-need-a-bigger-boat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
