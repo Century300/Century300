@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms](https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms)
 - [43 Trillion Security Data Points Illuminate Our Most Pressing Threats](https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats)
 - [Iranian APT Targets US With Drokbk Spyware via GitHub](https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github)
 - [How Naming Can Change the Game in Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security)
@@ -83,7 +84,6 @@
 - [3 Ways Attackers Bypass Cloud Security](https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security)
 - [CNAPP Shines a Light Into Evolving Cloud Environments](https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments)
 - [Agrius Iranian APT Group Cuts Into Diamond Industry](https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry)
-- [How Do I Use the Domain Score to Determine Whether a Domain Is a Threat?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-use-the-domain-score-to-determine-if-a-domain-is-a-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
