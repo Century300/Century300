@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran-Backed MuddyWater&#39;s Latest Campaign Abuses Syncro Admin Tool](https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool)
 - [7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms](https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms)
 - [43 Trillion Security Data Points Illuminate Our Most Pressing Threats](https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats)
 - [Iranian APT Targets US With Drokbk Spyware via GitHub](https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github)
@@ -83,7 +84,6 @@
 - [Google: Use SLSA Framework for Better Software Security](https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security)
 - [3 Ways Attackers Bypass Cloud Security](https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security)
 - [CNAPP Shines a Light Into Evolving Cloud Environments](https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments)
-- [Agrius Iranian APT Group Cuts Into Diamond Industry](https://www.darkreading.com/attacks-breaches/agrius-iranian-apt-group-cuts-into-diamond-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
