@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TikTok Banned on Govt. Devices; Will Private Sector Follow Suit?](https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit)
 - [Iran-Backed MuddyWater&#39;s Latest Campaign Abuses Syncro Admin Tool](https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool)
 - [7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms](https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms)
 - [43 Trillion Security Data Points Illuminate Our Most Pressing Threats](https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats)
@@ -83,7 +84,6 @@
 - [How Naming Can Change the Game in Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security)
 - [Google: Use SLSA Framework for Better Software Security](https://www.darkreading.com/application-security/google-use-slsa-framework-for-better-software-security)
 - [3 Ways Attackers Bypass Cloud Security](https://www.darkreading.com/cloud/3-ways-attackers-bypass-cloud-security)
-- [CNAPP Shines a Light Into Evolving Cloud Environments](https://www.darkreading.com/dr-tech/cnapp-shines-a-light-into-evolving-cloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
