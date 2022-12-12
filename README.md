@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support](https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support)
 - [What We Can&#39;t See Can Hurt Us](https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us)
 - [Popular WAFs Subverted by JSON Bypass](https://www.darkreading.com/application-security/popular-wafs-json-bypass)
 - [When Companies Compensate the Hackers, We All Foot the Bill](https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill)
@@ -83,7 +84,6 @@
 - [Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable](https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-)
 - [Trilio Raises $17M, Appoints Massood Zarrabian as CEO](https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo)
 - [TikTok Banned on Govt. Devices; Will Private Sector Follow Suit?](https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit)
-- [Iran-Backed MuddyWater&#39;s Latest Campaign Abuses Syncro Admin Tool](https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
