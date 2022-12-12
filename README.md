@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Popular WAFs Subverted by JSON Bypass](https://www.darkreading.com/application-security/popular-wafs-json-bypass)
 - [When Companies Compensate the Hackers, We All Foot the Bill](https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill)
+- [Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks](https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-)
 - [Trilio Raises $17M, Appoints Massood Zarrabian as CEO](https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo)
 - [TikTok Banned on Govt. Devices; Will Private Sector Follow Suit?](https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit)
 - [Iran-Backed MuddyWater&#39;s Latest Campaign Abuses Syncro Admin Tool](https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool)
 - [7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms](https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms)
 - [43 Trillion Security Data Points Illuminate Our Most Pressing Threats](https://www.darkreading.com/microsoft/43-trillion-security-data-points-illuminate-our-most-pressing-threats)
-- [Iranian APT Targets US With Drokbk Spyware via GitHub](https://www.darkreading.com/threat-intelligence/iranian-apt-targets-us-drokbk-spyware-github)
-- [How Naming Can Change the Game in Software Supply Chain Security](https://www.darkreading.com/vulnerabilities-threats/how-naming-can-change-the-game-in-software-supply-chain-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
