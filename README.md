@@ -80,10 +80,10 @@
 - [Popular WAFs Subverted by JSON Bypass](https://www.darkreading.com/application-security/popular-wafs-json-bypass)
 - [When Companies Compensate the Hackers, We All Foot the Bill](https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill)
 - [Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks](https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-)
+- [Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable](https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-)
 - [Trilio Raises $17M, Appoints Massood Zarrabian as CEO](https://www.darkreading.com/cloud/trilio-raises-17m-appoints-massood-zarrabian-as-ceo)
 - [TikTok Banned on Govt. Devices; Will Private Sector Follow Suit?](https://www.darkreading.com/application-security/tiktok-banned-on-govt-devices-will-private-sector-follow-suit)
 - [Iran-Backed MuddyWater&#39;s Latest Campaign Abuses Syncro Admin Tool](https://www.darkreading.com/attacks-breaches/iran-backed-muddywater-campaign-uses-syncros-admin-tool)
-- [7 Ways Gaming Companies Can Battle Cybercrime on Their Platforms](https://www.darkreading.com/application-security/7-ways-gaming-companies-battle-cybercrime-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
