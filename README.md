@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Niels Provos Joins Lacework as Head of Security Efficacy](https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy)
+- [Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce](https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce)
+- [KnowBe4 Supports Metaverse Safety Week](https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week)
+- [Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis](https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis)
+- [Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest](https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest)
 - [The Cybersecurity Industry Doesn&#39;t Have a Stress Problem — It Has a Leadership Problem](https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem)
+- [Third Annual Global CISO Report Identifies Significant Shifts in Hiring and Retaining Security Talent](https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent)
 - [Uber Breached, Again, After Attackers Compromise Third-Party Cloud](https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud)
-- [Rash of New Ransomware Variants Springs Up in the Wild](https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild)
-- [Metaparasites &amp; the Dark Web: Scammers Turn on Their Own](https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own)
-- [Amid Outrage, Rackspace Sends Users Email Touting Its Incident Response](https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response)
-- [Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support](https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support)
-- [What We Can&#39;t See Can Hurt Us](https://www.darkreading.com/edge-articles/what-we-can-t-see-can-hurt-us)
-- [Popular WAFs Subverted by JSON Bypass](https://www.darkreading.com/application-security/popular-wafs-json-bypass)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
