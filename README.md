@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rash of New Ransomware Variants Springs Up in the Wild](https://www.darkreading.com/remote-workforce/rash-new-ransomware-variants-in-the-wild)
 - [Metaparasites &amp; the Dark Web: Scammers Turn on Their Own](https://www.darkreading.com/threat-intelligence/metaparasites-the-dark-web-scammers-turn-on-their-own)
 - [Amid Outrage, Rackspace Sends Users Email Touting Its Incident Response](https://www.darkreading.com/remote-workforce/amid-outrage-rackspace-sends-users-email-touting-incident-response)
 - [Shopify Plus Stores Can Easily Add Passwordless Login With Passkeys Support](https://www.darkreading.com/endpoint/shopify-plus-stores-can-easily-add-passwordless-login-with-passkeys-support)
@@ -83,7 +84,6 @@
 - [Popular WAFs Subverted by JSON Bypass](https://www.darkreading.com/application-security/popular-wafs-json-bypass)
 - [When Companies Compensate the Hackers, We All Foot the Bill](https://www.darkreading.com/attacks-breaches/when-companies-compensate-the-hackers-we-all-foot-the-bill)
 - [Palo Alto Networks Xpanse Active Attack Surface Management Automatically Remediates Cyber Risks Before They Lead to Cyberattacks](https://www.darkreading.com/attacks-breaches/palo-alto-networks-xpanse-active-attack-surface-management-automatically-remediates-cyber-risks-before-they-lead-to-cyberattacks-)
-- [Nearly 4,500 Pulse Connect Secure VPNs Left Unpatched and Vulnerable](https://www.darkreading.com/remote-workforce/nearly-4-500-pulse-connect-secure-vpns-unpatched-vulnerable-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
