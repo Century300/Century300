@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Accelerating Vulnerability Identification and Remediation](https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-)
+- [Security Flaw in Atlassian Products Affecting Multiple Companies](https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies)
 - [Niels Provos Joins Lacework as Head of Security Efficacy](https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy)
 - [Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce](https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce)
 - [KnowBe4 Supports Metaverse Safety Week](https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week)
 - [Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis](https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis)
 - [Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest](https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest)
 - [The Cybersecurity Industry Doesn&#39;t Have a Stress Problem — It Has a Leadership Problem](https://www.darkreading.com/operations/the-cybersecurity-industry-doesn-t-have-a-stress-problem-it-has-a-leadership-problem)
-- [Third Annual Global CISO Report Identifies Significant Shifts in Hiring and Retaining Security Talent](https://www.darkreading.com/operations/third-annual-global-ciso-report-identifies-significant-shifts-in-hiring-and-retaining-security-talent)
-- [Uber Breached, Again, After Attackers Compromise Third-Party Cloud](https://www.darkreading.com/attacks-breaches/uber-breached-again-attackers-compromise-third-party-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
