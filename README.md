@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Automated Cybercampaign Creates Masses of Bogus Software Building Blocks](https://www.darkreading.com/attacks-breaches/automated-cybercampaign-attacks-bogus-software-building-blocks)
 - [How Our Behavioral Bad Habits Are a Community Trait and Security Problem](https://www.darkreading.com/vulnerabilities-threats/how-our-behavioral-bad-habits-are-a-community-trait-and-security-problem-)
+- [Royal Ransomware Puts Novel Spin on Encryption Tactics](https://www.darkreading.com/attacks-breaches/royal-ransomware-novel-spin-encryption-tactics)
 - [Analysis Shows Attackers Favor PowerShell, File Obfuscation](https://www.darkreading.com/edge-threat-monitor/analysis-shows-attackers-favor-powershell-file-obfuscation)
 - [Cybersecurity Drives Improvements in Business Goals](https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals)
 - [Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update](https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update)
 - [Google Launches Scanner to Uncover Open Source Vulnerabilities](https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities)
 - [Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw](https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw)
-- [Accelerating Vulnerability Identification and Remediation](https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-)
-- [Security Flaw in Atlassian Products Affecting Multiple Companies](https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
