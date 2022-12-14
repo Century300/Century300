@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Drives Improvements in Business Goals](https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals)
 - [Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update](https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update)
 - [Google Launches Scanner to Uncover Open Source Vulnerabilities](https://www.darkreading.com/dr-tech/google-launches-scanner-to-uncover-open-source-vulnerabilities)
 - [Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw](https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw)
@@ -83,7 +84,6 @@
 - [Security Flaw in Atlassian Products Affecting Multiple Companies](https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies)
 - [Niels Provos Joins Lacework as Head of Security Efficacy](https://www.darkreading.com/cloud/niels-provos-joins-lacework-as-head-of-security-efficacy)
 - [Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce](https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce)
-- [KnowBe4 Supports Metaverse Safety Week](https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
