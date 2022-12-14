@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Squashes Zero-Day, Actively Exploited Bugs in Dec. Update](https://www.darkreading.com/application-security/microsoft-squashes-zero-day-actively-exploited-bugs-dec-update)
 - [Citrix ADC, Gateway Users Race Against Hackers to Patch Critical Flaw](https://www.darkreading.com/attacks-breaches/citrix-adc-gateway-users-race-against-hackers-patch-critical-flaw)
 - [Accelerating Vulnerability Identification and Remediation](https://www.darkreading.com/vulnerabilities-threats/accelerating-vulnerability-identification-and-remediation-)
 - [Security Flaw in Atlassian Products Affecting Multiple Companies](https://www.darkreading.com/threat-intelligence/security-flaw-in-atlassian-products-affecting-multiple-companies)
@@ -83,7 +84,6 @@
 - [Google Cloud and Palo Alto Networks Team to Protect the Modern Workforce](https://www.darkreading.com/remote-workforce/google-cloud-and-palo-alto-networks-team-to-protect-the-modern-workforce)
 - [KnowBe4 Supports Metaverse Safety Week](https://www.darkreading.com/vulnerabilities-threats/knowbe4-supports-metaverse-safety-week)
 - [Report: 79% of Employees Are Distracted at Work Amid a Year of Permacrisis](https://www.darkreading.com/vulnerabilities-threats/report-79-of-employees-are-distracted-at-work-amid-a-year-of-permacrisis)
-- [Hackers Score Nearly $1M at Device-Focused Pwn2Own Contest](https://www.darkreading.com/application-security/hackers-score-nearly-1-million-at-device-focused-pwn2own-contest)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
