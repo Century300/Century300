@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Epic Management Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident)
+- [Microsoft-Signed Malicious Drivers Usher In EDR-Killers, Ransomware](https://www.darkreading.com/attacks-breaches/microsoft-signed-malicious-drivers-edr-killers-ransomware)
 - [CSAF Is the Future of Vulnerability Management](https://www.darkreading.com/threat-intelligence/csaf-is-the-future-of-vulnerability-management)
 - [Apple Zero-Day Actively Exploited on iPhone 15](https://www.darkreading.com/attacks-breaches/apple-zero-day-actively-exploited-iphone-15)
 - [Proofpoint Nabs Illusive, Signaling a Sunset for Deception Tech](https://www.darkreading.com/attacks-breaches/proofpoint-nabs-illusive-signaling-sunset-deception-tech)
 - [Automated Cybercampaign Creates Masses of Bogus Software Building Blocks](https://www.darkreading.com/attacks-breaches/automated-cybercampaign-attacks-bogus-software-building-blocks)
 - [How Our Behavioral Bad Habits Are a Community Trait and Security Problem](https://www.darkreading.com/vulnerabilities-threats/how-our-behavioral-bad-habits-are-a-community-trait-and-security-problem-)
 - [Royal Ransomware Puts Novel Spin on Encryption Tactics](https://www.darkreading.com/attacks-breaches/royal-ransomware-novel-spin-encryption-tactics)
-- [Analysis Shows Attackers Favor PowerShell, File Obfuscation](https://www.darkreading.com/edge-threat-monitor/analysis-shows-attackers-favor-powershell-file-obfuscation)
-- [Cybersecurity Drives Improvements in Business Goals](https://www.darkreading.com/edge-threat-monitor/cybersecurity-drives-improvements-in-business-goals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
