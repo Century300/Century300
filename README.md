@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook](https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook)
+- [WatchGuard Threat Lab Report Finds Top Threat Arriving Exclusively Over Encrypted Connections](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections)
 - [DDoS Attack Platforms Shut Down in Global Law Enforcement Operation](https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown)
 - [Blackmailing MoneyMonger Malware Hides in Flutter Mobile Apps](https://www.darkreading.com/vulnerabilities-threats/blackmailing-moneymonger-malware-hides-flutter-mobile-apps)
 - [Data Destruction Policies in the Age of Cloud Computing](https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-)
 - [API Flaws in Lego Marketplace Put User Accounts, Data at Risk](https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk)
 - [NSA Slices Up 5G Mobile Security Risks](https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks)
 - [Cybereason Warns Global Organizations Against Destructive Ransomware Attacks From Black Basta Gang](https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang)
-- [Keysight Announces 400GE Network Cybersecurity Test Platform](https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform)
-- [Epic Management Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
