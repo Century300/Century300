@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Data Destruction Policies in the Age of Cloud Computing](https://www.darkreading.com/cloud/data-destruction-policies-in-the-age-of-cloud-computing-)
+- [API Flaws in Lego Marketplace Put User Accounts, Data at Risk](https://www.darkreading.com/vulnerabilities-threats/api-flaws-lego-marketplace-user-accounts-data-at-risk)
 - [NSA Slices Up 5G Mobile Security Risks](https://www.darkreading.com/mobile/nsa-slices-up-5g-mobile-security-risks)
 - [Cybereason Warns Global Organizations Against Destructive Ransomware Attacks From Black Basta Gang](https://www.darkreading.com/attacks-breaches/cybereason-warns-global-organizations-against-destructive-ransomware-attacks-from-black-basta-gang)
 - [Keysight Announces 400GE Network Cybersecurity Test Platform](https://www.darkreading.com/vulnerabilities-threats/keysight-announces-400ge-network-cybersecurity-test-platform)
 - [Epic Management Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/epic-management-provides-notice-of-data-security-incident)
 - [Microsoft-Signed Malicious Drivers Usher In EDR-Killers, Ransomware](https://www.darkreading.com/attacks-breaches/microsoft-signed-malicious-drivers-edr-killers-ransomware)
 - [CSAF Is the Future of Vulnerability Management](https://www.darkreading.com/threat-intelligence/csaf-is-the-future-of-vulnerability-management)
-- [Apple Zero-Day Actively Exploited on iPhone 15](https://www.darkreading.com/attacks-breaches/apple-zero-day-actively-exploited-iphone-15)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
