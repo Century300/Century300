@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: Criminals Using BEC Attacks to Scavenge Food Shipments](https://www.darkreading.com/attacks-breaches/fbi-warns-criminals-bec-attacks-steal-food-shipments)
 - [Organizations Unprepared for Upcoming Data Privacy Regulations](https://www.darkreading.com/edge-articles/organizations-unprepared-for-upcoming-data-privacy-regulations)
 - [With SASE Definition Still Cloudy, Forum Proposes Standard](https://www.darkreading.com/cloud/sase-definition-still-cloudy-forum-proposes-standard)
 - [Iran-Backed Charming Kitten APT Eyes Kinetic Ops, Kidnapping](https://www.darkreading.com/attacks-breaches/iran-backed-charming-kitten-apt-eyes-kinetic-ops-kidnapping)
@@ -83,7 +84,6 @@
 - [Compliance Is Not Enough: How to Manage Your Customer Data](https://www.darkreading.com/vulnerabilities-threats/compliance-is-not-enough-how-to-manage-your-customer-data)
 - [Zero Trust in the Era of Edge](https://www.darkreading.com/risk/zero-trust-in-the-era-of-edge)
 - [Live From London: Next-Gen Cybersecurity Takes Stage at Black Hat Europe](https://www.darkreading.com/attacks-breaches/live-from-london-next-gen-cybersecurity-takes-stage-at-black-hat-europe)
-- [NIST Finally Retires SHA-1, Kind Of](https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
