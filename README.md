@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese APT Group MirrorFace Interferes in Japanese Elections](https://www.darkreading.com/attacks-breaches/chinese-apt-group-mirrorface-interferes-japanese-elections)
 - [Compliance Is Not Enough: How to Manage Your Customer Data](https://www.darkreading.com/vulnerabilities-threats/compliance-is-not-enough-how-to-manage-your-customer-data)
 - [Zero Trust in the Era of Edge](https://www.darkreading.com/risk/zero-trust-in-the-era-of-edge)
 - [Live From London: Next-Gen Cybersecurity Takes Stage at Black Hat Europe](https://www.darkreading.com/attacks-breaches/live-from-london-next-gen-cybersecurity-takes-stage-at-black-hat-europe)
@@ -83,7 +84,6 @@
 - [Zero Trust Shouldn’t Be The New Normal](https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal)
 - [Axonius Bolsters SaaS Management Offering With Behavioral Analytics and SaaS User-Device Association Capabilities](https://www.darkreading.com/application-security/axonius-bolsters-saas-management-offering-with-new-behavioral-analytics-and-saas-user-device-association-capabilities-to-help-teams-address-saas-application-risk)
 - [Stolen Data on 80K+ Members of FBI-Run InfraGard Reportedly for Sale on Dark Web Forum](https://www.darkreading.com/attacks-breaches/stolen-data-on-80k-members-of-fbi-run-infragard-reportedly-for-sale-on-dark-web-forum)
-- [Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook](https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
