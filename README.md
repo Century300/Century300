@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Threats Loom as 5B People Prepare to Watch World Cup Final](https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final)
 - [Researcher Bypasses Akamai WAF](https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce)
 - [New Botnet Targeting Minecraft Servers Poses Potential Enterprise Threat](https://www.darkreading.com/attacks-breaches/new-botnet-targeting-minecraft-serversa-potential-enterprise-threat-)
 - [FBI: Criminals Using BEC Attacks to Scavenge Food Shipments](https://www.darkreading.com/attacks-breaches/fbi-warns-criminals-bec-attacks-steal-food-shipments)
@@ -83,7 +84,6 @@
 - [With SASE Definition Still Cloudy, Forum Proposes Standard](https://www.darkreading.com/cloud/sase-definition-still-cloudy-forum-proposes-standard)
 - [Iran-Backed Charming Kitten APT Eyes Kinetic Ops, Kidnapping](https://www.darkreading.com/attacks-breaches/iran-backed-charming-kitten-apt-eyes-kinetic-ops-kidnapping)
 - [Chinese APT Group MirrorFace Interferes in Japanese Elections](https://www.darkreading.com/attacks-breaches/chinese-apt-group-mirrorface-interferes-japanese-elections)
-- [Compliance Is Not Enough: How to Manage Your Customer Data](https://www.darkreading.com/vulnerabilities-threats/compliance-is-not-enough-how-to-manage-your-customer-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
