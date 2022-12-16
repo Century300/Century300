@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Compliance Is Not Enough: How to Manage Your Customer Data](https://www.darkreading.com/vulnerabilities-threats/compliance-is-not-enough-how-to-manage-your-customer-data)
 - [Live From London: Next-Gen Cybersecurity Takes Stage at Black Hat Europe](https://www.darkreading.com/attacks-breaches/live-from-london-next-gen-cybersecurity-takes-stage-at-black-hat-europe)
 - [NIST Finally Retires SHA-1, Kind Of](https://www.darkreading.com/dr-tech/nist-finally-retires-sha-1)
 - [Zero Trust Shouldn’t Be The New Normal](https://www.darkreading.com/edge-ask-the-experts/zero-trust-shouldnt-be-the-new-normal)
-- [Axonius Bolsters SaaS Management Offering With New Behavioral Analytics and SaaS User-Device Association Capabilities to Help Teams Address SaaS Application Risk](https://www.darkreading.com/application-security/axonius-bolsters-saas-management-offering-with-new-behavioral-analytics-and-saas-user-device-association-capabilities-to-help-teams-address-saas-application-risk)
+- [Axonius Bolsters SaaS Management Offering With Behavioral Analytics and SaaS User-Device Association Capabilities](https://www.darkreading.com/application-security/axonius-bolsters-saas-management-offering-with-new-behavioral-analytics-and-saas-user-device-association-capabilities-to-help-teams-address-saas-application-risk)
 - [Stolen Data on 80K+ Members of FBI-Run InfraGard Reportedly for Sale on Dark Web Forum](https://www.darkreading.com/attacks-breaches/stolen-data-on-80k-members-of-fbi-run-infragard-reportedly-for-sale-on-dark-web-forum)
 - [Meta Ponies Up $300K Bounty for Zero-Click Mobile RCE Bugs in Facebook](https://www.darkreading.com/vulnerabilities-threats/meta-300k-bounty-mobile-rce-vulnerabilities-facebook)
 - [WatchGuard Threat Lab Report Finds Top Threat Arriving Exclusively Over Encrypted Connections](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-top-threat-arriving-exclusively-over-encrypted-connections)
-- [DDoS Attack Platforms Shut Down in Global Law Enforcement Operation](https://www.darkreading.com/attacks-breaches/ddos-attack-platforms-shut-down-in-global-law-enforcement-crackdown)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
