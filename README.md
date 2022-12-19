@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are 100% Security Guarantees Possible?](https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-)
 - [Sophisticated DarkTortilla Malware Serves Imposter Cisco, Grammarly Pages](https://www.darkreading.com/attacks-breaches/darktortilla-malware-imposter-cisco-grammarly-phishing)
 - [T-Mobile Carrier Scammer Gets Decade in the Slammer](https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer)
 - [Threat Intelligence Through Web Scraping](https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping)
@@ -83,7 +84,6 @@
 - [Malicious Python Trojan Impersonates SentinelOne Security Client](https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client)
 - [Security Skills Command Premiums in Tight Market](https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market)
 - [Bugcrowd Launches Bug Bounty Program for Australian-Based Navitas](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-launches-bug-bounty-program-for-australian-based-navitas)
-- [Rethinking Risk After the FTX Debacle](https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
