@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated DarkTortilla Malware Serves Imposter Cisco, Grammarly Pages](https://www.darkreading.com/attacks-breaches/darktortilla-malware-imposter-cisco-grammarly-phishing)
+- [T-Mobile Carrier Scammer Gets Decade in the Slammer](https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer)
+- [Threat Intelligence Through Web Scraping](https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping)
 - [Fortnite Developer Epic Games Slapped With $275M Penalty](https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty)
 - [Malicious Python Trojan Impersonates SentinelOne Security Client](https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client)
 - [Security Skills Command Premiums in Tight Market](https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market)
 - [Bugcrowd Launches Bug Bounty Program for Australian-Based Navitas](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-launches-bug-bounty-program-for-australian-based-navitas)
 - [Rethinking Risk After the FTX Debacle](https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle)
-- [Holiday Spam, Phishing Campaigns Challenge Retailers](https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers)
-- [GitHub Expands Secret Scanning, 2FA Across Platform](https://www.darkreading.com/dr-tech/github-expands-secret-scanning-2fa-across-platform)
-- [Cyber Threats Loom as 5B People Prepare to Watch World Cup Final](https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
