@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rethinking Risk After the FTX Debacle](https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle)
+- [Holiday Spam, Phishing Campaigns Challenge Retailers](https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers)
 - [GitHub Expands Secret Scanning, 2FA Across Platform](https://www.darkreading.com/dr-tech/github-expands-secret-scanning-2fa-across-platform)
 - [Cyber Threats Loom as 5B People Prepare to Watch World Cup Final](https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final)
 - [Researcher Bypasses Akamai WAF](https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce)
 - [New Botnet Targeting Minecraft Servers Poses Potential Enterprise Threat](https://www.darkreading.com/attacks-breaches/new-botnet-targeting-minecraft-serversa-potential-enterprise-threat-)
 - [FBI: Criminals Using BEC Attacks to Scavenge Food Shipments](https://www.darkreading.com/attacks-breaches/fbi-warns-criminals-bec-attacks-steal-food-shipments)
 - [Organizations Unprepared for Upcoming Data Privacy Regulations](https://www.darkreading.com/edge-articles/organizations-unprepared-for-upcoming-data-privacy-regulations)
-- [With SASE Definition Still Cloudy, Forum Proposes Standard](https://www.darkreading.com/cloud/sase-definition-still-cloudy-forum-proposes-standard)
-- [Iran-Backed Charming Kitten APT Eyes Kinetic Ops, Kidnapping](https://www.darkreading.com/attacks-breaches/iran-backed-charming-kitten-apt-eyes-kinetic-ops-kidnapping)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
