@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortnite Developer Epic Games Slapped With $275M Penalty](https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty)
+- [Malicious Python Trojan Impersonates SentinelOne Security Client](https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client)
 - [Security Skills Command Premiums in Tight Market](https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market)
 - [Bugcrowd Launches Bug Bounty Program for Australian-Based Navitas](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-launches-bug-bounty-program-for-australian-based-navitas)
 - [Rethinking Risk After the FTX Debacle](https://www.darkreading.com/risk/rethinking-risk-after-the-ftx-debacle)
 - [Holiday Spam, Phishing Campaigns Challenge Retailers](https://www.darkreading.com/attacks-breaches/holiday-spam-phishing-campaigns-challenge-retailers)
 - [GitHub Expands Secret Scanning, 2FA Across Platform](https://www.darkreading.com/dr-tech/github-expands-secret-scanning-2fa-across-platform)
 - [Cyber Threats Loom as 5B People Prepare to Watch World Cup Final](https://www.darkreading.com/attacks-breaches/cyberthreats-loom-5b-people-watch-world-cup-final)
-- [Researcher Bypasses Akamai WAF](https://www.darkreading.com/attacks-breaches/researcher-finds-akamai-waf-bypass-to-trigger-rce)
-- [New Botnet Targeting Minecraft Servers Poses Potential Enterprise Threat](https://www.darkreading.com/attacks-breaches/new-botnet-targeting-minecraft-serversa-potential-enterprise-threat-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
