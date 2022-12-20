@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Coming to a SOC Near You: New Browsers, &#39;Posture&#39; Management, Virtual Assistants](https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants)
 - [Cybersecurity VMRay Extends Series B Investment to a Total of $34 million USD to Drive Growth Into New Markets](https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets)
-- [&#39;Blindside&#39; Attack Subverts EDR Platforms from Windows Kernel](https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel)
+- [&#39;Blindside&#39; Attack Subverts EDR Platforms From Windows Kernel](https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel)
 - [Protecting Hospital Networks From &#39;Code Dark&#39; Scenarios](https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-)
 - [AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range](https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range)
 - [Are 100% Security Guarantees Possible?](https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-)
