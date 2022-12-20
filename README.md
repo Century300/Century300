@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bfore.Ai Releases &#39;The King, The Knight &amp; The Snowball&#39; - Cybersecurity Book for Children](https://www.darkreading.com/operations/bfore-ai-releases-the-king-the-knight-the-snowball---cybersecurity-book-for-children)
+- [Microsoft Warns on &#39;Achilles&#39; macOS Gatekeeper Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-warns-on-achilles-macos-gatekeeper-bypass)
 - [Raspberry Robin Worm Targets Telcos &amp; Governments](https://www.darkreading.com/attacks-breaches/raspberry-robin-worm-targets-telcos-governments)
 - [NATO-Member Oil Refinery Targeted in Russian APT Blitz Against Ukraine](https://www.darkreading.com/attacks-breaches/nato-oil-refinery-russian-apt-blitz-against-ukraine)
 - [Searchlight Security Changes Name to Searchlight Cyber and Launches New Brand](https://www.darkreading.com/threat-intelligence/searchlight-security-changes-name-to-searchlight-cyber-and-launches-new-brand)
 - [How AI/ML Can Thwart DDoS Attacks](https://www.darkreading.com/dr-tech/how-ai-ml-can-thwart-ddos-attacks)
 - [Coming to a SOC Near You: New Browsers, &#39;Posture&#39; Management, Virtual Assistants](https://www.darkreading.com/operations/coming-soon-to-a-soc-near-you-posture-management-and-virtual-assisstants)
-- [Cybersecurity VMRay Extends Series B Investment to a Total of $34 million USD to Drive Growth Into New Markets](https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets)
-- [&#39;Blindside&#39; Attack Subverts EDR Platforms From Windows Kernel](https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel)
-- [Protecting Hospital Networks From &#39;Code Dark&#39; Scenarios](https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-)
+- [Cybersecurity Company VMRay Extends Series B Investment to a Total of $34M USD to Drive Growth into New Markets](https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
