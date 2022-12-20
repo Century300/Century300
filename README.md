@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Blindside&#39; Attack Subverts EDR Platforms from Windows Kernel](https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel)
 - [Protecting Hospital Networks From &#39;Code Dark&#39; Scenarios](https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-)
 - [AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range](https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range)
 - [Are 100% Security Guarantees Possible?](https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-)
@@ -83,7 +84,6 @@
 - [T-Mobile Carrier Scammer Gets Decade in the Slammer](https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer)
 - [Threat Intelligence Through Web Scraping](https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping)
 - [Fortnite Developer Epic Games Slapped With $275M Penalty](https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty)
-- [Malicious Python Trojan Impersonates SentinelOne Security Client](https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
