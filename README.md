@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Raspberry Robin Worm Targets Telcos &amp; Governments](https://www.darkreading.com/attacks-breaches/raspberry-robin-worm-targets-telcos-governments)
 - [NATO-Member Oil Refinery Targeted in Russian APT Blitz Against Ukraine](https://www.darkreading.com/attacks-breaches/nato-oil-refinery-russian-apt-blitz-against-ukraine)
 - [Searchlight Security Changes Name to Searchlight Cyber and Launches New Brand](https://www.darkreading.com/threat-intelligence/searchlight-security-changes-name-to-searchlight-cyber-and-launches-new-brand)
 - [How AI/ML Can Thwart DDoS Attacks](https://www.darkreading.com/dr-tech/how-ai-ml-can-thwart-ddos-attacks)
@@ -83,7 +84,6 @@
 - [Cybersecurity VMRay Extends Series B Investment to a Total of $34 million USD to Drive Growth Into New Markets](https://www.darkreading.com/attacks-breaches/cybersecurity-vmray-extends-series-b-investment-to-a-total-of-34-million-usd-to-drive-growth-into-new-markets)
 - [&#39;Blindside&#39; Attack Subverts EDR Platforms From Windows Kernel](https://www.darkreading.com/attacks-breaches/-blindside-attack-subverts-edr-platforms-windows-kernel)
 - [Protecting Hospital Networks From &#39;Code Dark&#39; Scenarios](https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-)
-- [AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range](https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
