@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Protecting Hospital Networks From &#39;Code Dark&#39; Scenarios](https://www.darkreading.com/attacks-breaches/protecting-hospital-networks-from-code-dark-scenarios-)
+- [AWS Elastic IP Transfer Feature Gives Cyberattackers Free Range](https://www.darkreading.com/cloud/aws-elastic-ip-transfer-feature-cyberattackers-free-range)
 - [Are 100% Security Guarantees Possible?](https://www.darkreading.com/edge-articles/are-100-security-guarantees-possible-)
 - [Sophisticated DarkTortilla Malware Serves Imposter Cisco, Grammarly Pages](https://www.darkreading.com/attacks-breaches/darktortilla-malware-imposter-cisco-grammarly-phishing)
 - [T-Mobile Carrier Scammer Gets Decade in the Slammer](https://www.darkreading.com/attacks-breaches/tmobile-carrier-scammer-gets-decade-slammer)
 - [Threat Intelligence Through Web Scraping](https://www.darkreading.com/threat-intelligence/threat-intelligence-through-web-scraping)
 - [Fortnite Developer Epic Games Slapped With $275M Penalty](https://www.darkreading.com/application-security/fortnite-developer-epic-games-slapped-275m-penalty)
 - [Malicious Python Trojan Impersonates SentinelOne Security Client](https://www.darkreading.com/vulnerabilities-threats/malicious-python-trojan-impersonates-sentinelone-security-client)
-- [Security Skills Command Premiums in Tight Market](https://www.darkreading.com/attacks-breaches/security-skills-command-premiums-tight-market)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
