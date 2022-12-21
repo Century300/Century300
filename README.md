@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Attackers Bypass Microsoft&#39;s ProxyNotShell Mitigations With Fresh Exploit](https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit)
+- [Heartland Alliance Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident)
 - [Best Practices for Securing and Governing Your Multicloud Deployment](https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment)
 - [Name That Toon: Kiss and Tell](https://www.darkreading.com/attacks-breaches/name-that-toon-kiss-and-tell)
 - [Trend Micro Joins Google’s App Defense Alliance](https://www.darkreading.com/application-security/-trend-micro-joins-google-s-app-defense-alliance)
-- [Two Indicted for Hijacking JFK Airport Taxi Dispatch](https://www.darkreading.com/attacks-breaches/two-indicted-for-hijacking-jfk-airport-taxi-dispatch-)
+- [&#39;Russian Hackers&#39; Help Fraudsters Hijack JFK Airport&#39;s Taxi Dispatch](https://www.darkreading.com/attacks-breaches/two-indicted-for-hijacking-jfk-airport-taxi-dispatch-)
 - [Kaspersky Research Finds Reverse Engineering Is the Most On-Demand Skill Among InfoSec Specialists](https://www.darkreading.com/operations/kaspersky-research-finds-reverse-engineering-is-the-most-on-demand-skill-among-infosec-specialists-in-2022)
 - [Understanding the 3 Classes of Kubernetes Risk](https://www.darkreading.com/edge-articles/understanding-the-3-classes-of-kubernetes-risk)
-- [How to Run Kubernetes More Securely](https://www.darkreading.com/dr-tech/how-to-run-kubernetes-more-securely)
-- [Godfather Banking Trojan Masquerades as Legitimate Google Play App](https://www.darkreading.com/attacks-breaches/godfather-banking-trojan-masquerades-legitimate-google-play-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
