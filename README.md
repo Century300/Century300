@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Best Practices for Securing and Governing Your Multicloud Deployment](https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment)
 - [Name That Toon: Kiss and Tell](https://www.darkreading.com/attacks-breaches/name-that-toon-kiss-and-tell)
 - [Trend Micro Joins Google’s App Defense Alliance](https://www.darkreading.com/application-security/-trend-micro-joins-google-s-app-defense-alliance)
 - [Two Indicted for Hijacking JFK Airport Taxi Dispatch](https://www.darkreading.com/attacks-breaches/two-indicted-for-hijacking-jfk-airport-taxi-dispatch-)
@@ -83,7 +84,6 @@
 - [Understanding the 3 Classes of Kubernetes Risk](https://www.darkreading.com/edge-articles/understanding-the-3-classes-of-kubernetes-risk)
 - [How to Run Kubernetes More Securely](https://www.darkreading.com/dr-tech/how-to-run-kubernetes-more-securely)
 - [Godfather Banking Trojan Masquerades as Legitimate Google Play App](https://www.darkreading.com/attacks-breaches/godfather-banking-trojan-masquerades-legitimate-google-play-app)
-- [Why Security Teams Shouldn&#39;t Snooze on MFA Fatigue](https://www.darkreading.com/endpoint/why-security-teams-shouldn-t-snooze-on-mfa-fatigue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
