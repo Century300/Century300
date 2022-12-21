@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Give Yourself the Gift of Secure Holiday Ecommerce](https://www.darkreading.com/edge-articles/give-yourself-the-gift-of-secure-holiday-ecommerce)
+- [Give Yourself the Gift of Secure Holiday E-Commerce](https://www.darkreading.com/edge-articles/give-yourself-the-gift-of-secure-holiday-ecommerce)
 - [Bfore.Ai Releases &#39;The King, The Knight &amp; The Snowball&#39; - Cybersecurity Book for Children](https://www.darkreading.com/operations/bfore-ai-releases-the-king-the-knight-the-snowball---cybersecurity-book-for-children)
 - [Microsoft Warns on &#39;Achilles&#39; macOS Gatekeeper Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-warns-on-achilles-macos-gatekeeper-bypass)
 - [Raspberry Robin Worm Targets Telcos &amp; Governments](https://www.darkreading.com/attacks-breaches/raspberry-robin-worm-targets-telcos-governments)
