@@ -80,10 +80,10 @@
 - [Security on a Shoestring? Cloud, Consolidation Best Bets for Businesses](https://www.darkreading.com/risk/security-shoestring-cloud-consolidation-best-bets-businesses)
 - [Google WordPress Plug-in Bug Allows AWS Metadata Theft](https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft)
 - [Threat Modeling in the Age of OpenAI&#39;s Chatbot](https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot)
+- [&#39;Sextortion,&#39; Business Disruption, and a Massive Attack: What Could Be in Store for 2023](https://www.darkreading.com/attacks-breaches/sextortion-business-disruption-and-a-massive-attack-what-could-be-in-store-for-2023)
 - [Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal](https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal)
 - [Supply Chain Risks Got You Down? Keep Calm and Get Strategic!](https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-)
 - [Ransomware Attackers Bypass Microsoft&#39;s ProxyNotShell Mitigations With Fresh Exploit](https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit)
-- [Heartland Alliance Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
