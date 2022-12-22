@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Passwordless Authentication Market to Be Worth $55.7 Billion by 2030: Grand View Research, Inc.](https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-)
+- [Google WordPress Plug-in Bug Allows AWS Metadata Theft](https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft)
 - [Threat Modeling in the Age of OpenAI&#39;s Chatbot](https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot)
 - [Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal](https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal)
 - [Supply Chain Risks Got You Down? Keep Calm and Get Strategic!](https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-)
 - [Ransomware Attackers Bypass Microsoft&#39;s ProxyNotShell Mitigations With Fresh Exploit](https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit)
 - [Heartland Alliance Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident)
 - [Best Practices for Securing and Governing Your Multicloud Deployment](https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment)
-- [Name That Toon: Kiss and Tell](https://www.darkreading.com/attacks-breaches/name-that-toon-kiss-and-tell)
-- [Trend Micro Joins Google’s App Defense Alliance](https://www.darkreading.com/application-security/-trend-micro-joins-google-s-app-defense-alliance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
