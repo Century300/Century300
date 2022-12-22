@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Modeling in the Age of OpenAI&#39;s Chatbot](https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot)
+- [Zerobot Adds Brute Force, DDoS to Its IoT Attack Arsenal](https://www.darkreading.com/threat-intelligence/zerobot-adds-brute-force-ddos-iot-attack-arsenal)
 - [Supply Chain Risks Got You Down? Keep Calm and Get Strategic!](https://www.darkreading.com/risk/supply-chain-risks-got-you-down-keep-calm-and-get-strategic-)
 - [Ransomware Attackers Bypass Microsoft&#39;s ProxyNotShell Mitigations With Fresh Exploit](https://www.darkreading.com/application-security/ransomware-attackers-bypass-microsoft-mitigation-proxynotshell-exploit)
 - [Heartland Alliance Provides Notice of Data Security Incident](https://www.darkreading.com/attacks-breaches/heartland-alliance-provides-notice-of-data-security-incident)
 - [Best Practices for Securing and Governing Your Multicloud Deployment](https://www.darkreading.com/zscaler/best-practices-for-securing-and-governing-your-multicloud-deployment)
 - [Name That Toon: Kiss and Tell](https://www.darkreading.com/attacks-breaches/name-that-toon-kiss-and-tell)
 - [Trend Micro Joins Google’s App Defense Alliance](https://www.darkreading.com/application-security/-trend-micro-joins-google-s-app-defense-alliance)
-- [&#39;Russian Hackers&#39; Help Fraudsters Hijack JFK Airport&#39;s Taxi Dispatch](https://www.darkreading.com/attacks-breaches/two-indicted-for-hijacking-jfk-airport-taxi-dispatch-)
-- [Kaspersky Research Finds Reverse Engineering Is the Most On-Demand Skill Among InfoSec Specialists](https://www.darkreading.com/operations/kaspersky-research-finds-reverse-engineering-is-the-most-on-demand-skill-among-infosec-specialists-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
