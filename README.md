@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Security Is a Second-Class Citizen in High-Performance Computing](https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing)
+- [What Kind of Data Gets Stolen When a Developer is Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised)
 - [New Brand of Security Threats Surface in the Cloud](https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud)
-- [Inside The Next-Level Fraud Ring Scamming Billions Off Holiday Retailers](https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers)
+- [Inside the Next-Level Fraud Ring Scamming Billions Off Holiday Retailers](https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers)
 - [Biden Signs Post-Quantum Cybersecurity Guidelines Into Law](https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law)
 - [Passwordless Authentication Market to Be Worth $55.7 Billion by 2030: Grand View Research, Inc.](https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-)
 - [Security on a Shoestring? Cloud, Consolidation Best Bets for Businesses](https://www.darkreading.com/risk/security-shoestring-cloud-consolidation-best-bets-businesses)
 - [Google WordPress Plug-in Bug Allows AWS Metadata Theft](https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft)
-- [Threat Modeling in the Age of OpenAI&#39;s Chatbot](https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
