@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Is a Second-Class Citizen in High-Performance Computing](https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing)
 - [New Brand of Security Threats Surface in the Cloud](https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud)
 - [Inside The Next-Level Fraud Ring Scamming Billions Off Holiday Retailers](https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers)
 - [Biden Signs Post-Quantum Cybersecurity Guidelines Into Law](https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law)
@@ -83,7 +84,6 @@
 - [Security on a Shoestring? Cloud, Consolidation Best Bets for Businesses](https://www.darkreading.com/risk/security-shoestring-cloud-consolidation-best-bets-businesses)
 - [Google WordPress Plug-in Bug Allows AWS Metadata Theft](https://www.darkreading.com/vulnerabilities-threats/google-wordpress-plugin-bug-aws-metadata-theft)
 - [Threat Modeling in the Age of OpenAI&#39;s Chatbot](https://www.darkreading.com/operations/threat-modeling-in-the-age-of-openai-s-chatbot)
-- [&#39;Sextortion,&#39; Business Disruption, and a Massive Attack: What Could Be in Store for 2023](https://www.darkreading.com/attacks-breaches/sextortion-business-disruption-and-a-massive-attack-what-could-be-in-store-for-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
