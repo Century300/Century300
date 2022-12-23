@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LastPass Cops to Massive Breach Including Customer Vault Data](https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data)
+- [Videoconferencing Worries Grow, With SMBs in Cyberattack Crosshairs](https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs)
 - [Google: With Cloud Comes APIs &amp; Security Headaches](https://www.darkreading.com/cloud/google-cloud-apis-security-headaches)
 - [Fool Me Thrice? How to Avoid Double and Triple Ransomware Extortion](https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-)
 - [Security Is a Second-Class Citizen in High-Performance Computing](https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing)
 - [What Kind of Data Gets Stolen When a Developer is Compromised?](https://www.darkreading.com/edge-ask-the-experts/what-kind-of-data-gets-stolen-when-a-developer-is-compromised)
 - [New Brand of Security Threats Surface in the Cloud](https://www.darkreading.com/cloud/new-brand-of-security-threats-surface-in-the-cloud)
 - [Inside the Next-Level Fraud Ring Scamming Billions Off Holiday Retailers](https://www.darkreading.com/attacks-breaches/inside-next-level-fraud-ring-scamming-billions-holiday-retailers)
-- [Biden Signs Post-Quantum Cybersecurity Guidelines Into Law](https://www.darkreading.com/risk/biden-signs-post-quantum-cybersecurity-guidelines-into-law)
-- [Passwordless Authentication Market to Be Worth $55.7 Billion by 2030: Grand View Research, Inc.](https://www.darkreading.com/endpoint/passwordless-authentication-market-to-be-worth-55-7-billion-by-2030-grand-view-research-inc-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
