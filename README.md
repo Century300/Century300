@@ -76,9 +76,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Get the Most out of UEBA](https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba)
 - [Why Attackers Target GitHub, and How You Can Secure It](https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it)
 - [The Threat of Predictive Policing to Data Privacy and Personal Liberty](https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty)
-- [How to Get the Most out of UEBA](https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba)
 - [Internet AppSec Remains Abysmal &amp; Requires Sustained Action in 2023](https://www.darkreading.com/application-security/internet-appsec-remains-abysmal-requires-sustained-action-in-2023)
 - [Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes](https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes)
 - [LastPass Cops to Massive Breach Including Customer Vault Data](https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data)
