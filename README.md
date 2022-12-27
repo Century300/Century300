@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Attackers Target GitHub, and How You Can Secure It](https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it)
 - [The Threat of Predictive Policing to Data Privacy and Personal Liberty](https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty)
+- [How to Get the Most out of UEBA](https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba)
 - [Internet AppSec Remains Abysmal &amp; Requires Sustained Action in 2023](https://www.darkreading.com/application-security/internet-appsec-remains-abysmal-requires-sustained-action-in-2023)
 - [Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes](https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes)
 - [LastPass Cops to Massive Breach Including Customer Vault Data](https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data)
 - [Videoconferencing Worries Grow, With SMBs in Cyberattack Crosshairs](https://www.darkreading.com/application-security/videoconferencing-worries-grow-with-smbs-in-cyberattack-crosshairs)
 - [Google: With Cloud Comes APIs &amp; Security Headaches](https://www.darkreading.com/cloud/google-cloud-apis-security-headaches)
-- [Fool Me Thrice? How to Avoid Double and Triple Ransomware Extortion](https://www.darkreading.com/vulnerabilities-threats/fool-me-thrice-how-to-avoid-double-and-triple-ransomware-extortion-)
-- [Security Is a Second-Class Citizen in High-Performance Computing](https://www.darkreading.com/dr-tech/security-is-a-second-class-citizen-in-high-performance-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
