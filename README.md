@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Healthcare Providers and Hospitals Under Ransomware&#39;s Siege](https://www.darkreading.com/edge-articles/healthcare-providers-and-hospitals-under-ransomware-s-siege)
+- [When CISOs Are Ready to Hunt](https://www.darkreading.com/dr-tech/when-cisos-are-ready-to-hunt)
 - [Why Cyber Pros and Forensic Accountants Should Work Together to Mitigate Security Risk](https://www.darkreading.com/risk/why-cyber-pros-and-forensic-accountants-should-work-together-to-mitigate-security-risk)
 - [Will the Crypto Crash Impact Cybersecurity in 2023? Maybe.](https://www.darkreading.com/threat-intelligence/crypto-crash-impact-cybersecurity-2023-maybe)
 - [How to Get the Most Out of UEBA](https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba)
 - [Why Attackers Target GitHub, and How You Can Secure It](https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it)
 - [The Threat of Predictive Policing to Data Privacy and Personal Liberty](https://www.darkreading.com/endpoint/the-threat-of-predictive-policing-to-data-privacy-and-personal-liberty)
 - [Internet AppSec Remains Abysmal &amp; Requires Sustained Action in 2023](https://www.darkreading.com/application-security/internet-appsec-remains-abysmal-requires-sustained-action-in-2023)
-- [Container Verification Bug Allows Malicious Images to Cloud Up Kubernetes](https://www.darkreading.com/cloud/container-verification-bug-malicious-images-free-rein-kubernetes)
-- [LastPass Cops to Massive Breach Including Customer Vault Data](https://www.darkreading.com/attacks-breaches/lastpass-massive-breach-including-customer-vault-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
