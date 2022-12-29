@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [After the Uber Breach: 3 Questions All CISOs Should Ask Themselves](https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-)
 - [New Year&#39;s Surprise: Cybersecurity M&amp;A, Funding Activity Snowballs in Q4](https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4)
 - [Healthcare Providers and Hospitals Under Ransomware&#39;s Siege](https://www.darkreading.com/edge-articles/healthcare-providers-and-hospitals-under-ransomware-s-siege)
 - [When CISOs Are Ready to Hunt](https://www.darkreading.com/dr-tech/when-cisos-are-ready-to-hunt)
@@ -83,7 +84,6 @@
 - [Will the Crypto Crash Impact Cybersecurity in 2023? Maybe.](https://www.darkreading.com/threat-intelligence/crypto-crash-impact-cybersecurity-2023-maybe)
 - [Securing and Improving User Experience for the Future of Hybrid Work](https://www.darkreading.com/zscaler/securing-and-improving-user-experience-for-the-future-of-hybrid-work)
 - [How to Get the Most Out of UEBA](https://www.darkreading.com/dr-tech/how-to-get-the-most-out-of-ueba)
-- [Why Attackers Target GitHub, and How You Can Secure It](https://www.darkreading.com/edge-articles/why-attackers-target-github-and-how-you-can-secure-it)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
