@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 Ways to Protect Your Organization Against LAPSUS$](https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-)
 - [3 Industries, 3 Security Programs](https://www.darkreading.com/edge-articles/3-industries-3-security-programs)
 - [Extracting Encrypted Credentials From Common Tools](https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools)
 - [After the Uber Breach: 3 Questions All CISOs Should Ask Themselves](https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-)
@@ -83,7 +84,6 @@
 - [Healthcare Providers and Hospitals Under Ransomware&#39;s Siege](https://www.darkreading.com/edge-articles/healthcare-providers-and-hospitals-under-ransomware-s-siege)
 - [When CISOs Are Ready to Hunt](https://www.darkreading.com/dr-tech/when-cisos-are-ready-to-hunt)
 - [Why Cyber Pros and Forensic Accountants Should Work Together to Mitigate Security Risk](https://www.darkreading.com/risk/why-cyber-pros-and-forensic-accountants-should-work-together-to-mitigate-security-risk)
-- [Will the Crypto Crash Impact Cybersecurity in 2023? Maybe.](https://www.darkreading.com/threat-intelligence/crypto-crash-impact-cybersecurity-2023-maybe)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
