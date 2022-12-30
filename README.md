@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [War and Geopolitical Conflict: The New Battleground for DDoS Attacks](https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks)
 - [Beyond the Obvious: The Boldest Cybersecurity Predictions for 2023](https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023)
 - [6 Ways to Protect Your Organization Against LAPSUS$](https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-)
 - [3 Industries, 3 Security Programs](https://www.darkreading.com/edge-articles/3-industries-3-security-programs)
@@ -83,7 +84,6 @@
 - [After the Uber Breach: 3 Questions All CISOs Should Ask Themselves](https://www.darkreading.com/vulnerabilities-threats/after-the-uber-breach-3-questions-all-cisos-should-ask-themselves-)
 - [New Year&#39;s Surprise: Cybersecurity M&amp;A, Funding Activity Snowballs in Q4](https://www.darkreading.com/threat-intelligence/cybersecurity-ma-funding-activity-snowballs-q4)
 - [Healthcare Providers and Hospitals Under Ransomware&#39;s Siege](https://www.darkreading.com/edge-articles/healthcare-providers-and-hospitals-under-ransomware-s-siege)
-- [When CISOs Are Ready to Hunt](https://www.darkreading.com/dr-tech/when-cisos-are-ready-to-hunt)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
