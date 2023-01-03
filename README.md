@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: The Upside Down](https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down)
 - [Are Meta and Twitter Ushering in a New Age of Insider Threats?](https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-)
 - [Black Hat Flashback: The Day That Dan Kaminsky Saved the Internet](https://www.darkreading.com/application-security/black-hat-flashback-dan-kaminsky-saved-internet)
 - [API Security Is the New Black](https://www.darkreading.com/dr-tech/api-security-is-the-new-black)
@@ -83,7 +84,6 @@
 - [Adobe, Apple, Cisco, Microsoft Flaws Make Up Half of KEV Catalog](https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog)
 - [Beyond the Obvious: The Boldest Cybersecurity Predictions for 2023](https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023)
 - [6 Ways to Protect Your Organization Against LAPSUS$](https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-)
-- [3 Industries, 3 Security Programs](https://www.darkreading.com/edge-articles/3-industries-3-security-programs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
