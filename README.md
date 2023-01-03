@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [C2A Security To Showcase Automotive Cybersecurity DevOps Platform at CES In Las Vegas, January 5-8](https://www.darkreading.com/attacks-breaches/c2a-security-to-showcase-automotive-cybersecurity-devops-platform-at-ces-in-las-vegas-january-5-8)
 - [WordPress Sites Under Attack from Newly Found Linux Trojan](https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware)
 - [Holiday Spirit? LockBit Gives Children&#39;s Hospital Free Decryptor](https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor)
 - [Raspberry Robin Worm Hatches a Highly Complex Upgrade](https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: The Upside Down](https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down)
 - [Are Meta and Twitter Ushering in a New Age of Insider Threats?](https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-)
 - [Black Hat Flashback: The Day That Dan Kaminsky Saved the Internet](https://www.darkreading.com/application-security/black-hat-flashback-dan-kaminsky-saved-internet)
-- [API Security Is the New Black](https://www.darkreading.com/dr-tech/api-security-is-the-new-black)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
