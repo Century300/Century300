@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Raspberry Robin Worm Hatches a Highly Complex Upgrade](https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade)
 - [Chinese &#39;RedZei&#39; Group Batters Victims With Incessant Vishing Effort](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
 - [Name That Edge Toon: The Upside Down](https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down)
 - [Are Meta and Twitter Ushering in a New Age of Insider Threats?](https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-)
@@ -83,7 +84,6 @@
 - [API Security Is the New Black](https://www.darkreading.com/dr-tech/api-security-is-the-new-black)
 - [War and Geopolitical Conflict: The New Battleground for DDoS Attacks](https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks)
 - [Adobe, Apple, Cisco, Microsoft Flaws Make Up Half of KEV Catalog](https://www.darkreading.com/edge-threat-monitor/adobe-apple-cisco-microsoft-flaws-make-up-half-of-kev-catalog)
-- [Beyond the Obvious: The Boldest Cybersecurity Predictions for 2023](https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
