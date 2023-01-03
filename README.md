@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are Meta and Twitter Ushering in a New Age of Insider Threats?](https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-)
 - [Black Hat Flashback: The Day That Dan Kaminsky Saved the Internet](https://www.darkreading.com/application-security/black-hat-flashback-dan-kaminsky-saved-internet)
 - [API Security Is the New Black](https://www.darkreading.com/dr-tech/api-security-is-the-new-black)
 - [War and Geopolitical Conflict: The New Battleground for DDoS Attacks](https://www.darkreading.com/attacks-breaches/war-and-geopolitical-conflict-the-new-battleground-for-ddos-attacks)
@@ -83,7 +84,6 @@
 - [Beyond the Obvious: The Boldest Cybersecurity Predictions for 2023](https://www.darkreading.com/attacks-breaches/boldest-cybersecurity-predictions-2023)
 - [6 Ways to Protect Your Organization Against LAPSUS$](https://www.darkreading.com/microsoft/6-ways-to-protect-your-organization-against-lapsus-)
 - [3 Industries, 3 Security Programs](https://www.darkreading.com/edge-articles/3-industries-3-security-programs)
-- [Extracting Encrypted Credentials From Common Tools](https://www.darkreading.com/dr-tech/extracting-encrypted-credentials-from-common-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
