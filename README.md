@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BitRat Malware Gnaws at Victims With Bank Heist Data](https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data)
 - [Understanding Infrastructure-as-Code Risks in the Cloud](https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud)
 - [Insights On the Mobile Biometrics Global Market To 2028 - Increase In Platforms Using Biometric Authentication Drives Growth](https://www.darkreading.com/endpoint/insights-on-the-mobile-biometrics-global-market-to-2028---increase-in-platforms-using-biometric-authentication-drives-growth)
 - [2023 Will See Renewed Focus on Quantum Computing](https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing)
@@ -83,7 +84,6 @@
 - [C2A Security To Showcase Automotive Cybersecurity DevOps Platform at CES In Las Vegas, January 5-8](https://www.darkreading.com/attacks-breaches/c2a-security-to-showcase-automotive-cybersecurity-devops-platform-at-ces-in-las-vegas-january-5-8)
 - [WordPress Sites Under Attack from Newly Found Linux Trojan](https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware)
 - [Holiday Spirit? LockBit Gives Children&#39;s Hospital Free Decryptor](https://www.darkreading.com/attacks-breaches/holiday-spirit-lockbit-children-s-hospital-free-decryptor)
-- [Raspberry Robin Worm Hatches a Highly Complex Upgrade](https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
