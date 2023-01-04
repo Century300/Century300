@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2023 Will See Renewed Focus on Quantum Computing](https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing)
 - [Cyberattackers Torch Python Machine Learning Project](https://www.darkreading.com/application-security/cyberattackers-torch-python-machine-learning-project)
 - [C2A Security To Showcase Automotive Cybersecurity DevOps Platform at CES In Las Vegas, January 5-8](https://www.darkreading.com/attacks-breaches/c2a-security-to-showcase-automotive-cybersecurity-devops-platform-at-ces-in-las-vegas-january-5-8)
 - [WordPress Sites Under Attack from Newly Found Linux Trojan](https://www.darkreading.com/attacks-breaches/wordpress-under-attack-from-new-linux-backdoor-malware)
@@ -83,7 +84,6 @@
 - [Raspberry Robin Worm Hatches a Highly Complex Upgrade](https://www.darkreading.com/threat-intelligence/raspberry-robin-worm-highly-complex-upgrade)
 - [Chinese &#39;RedZei&#39; Group Batters Victims With Incessant Vishing Effort](https://www.darkreading.com/attacks-breaches/chinese-redzei-victims-vishing)
 - [Name That Edge Toon: The Upside Down](https://www.darkreading.com/edge-articles/name-that-edge-toon-the-upside-down)
-- [Are Meta and Twitter Ushering in a New Age of Insider Threats?](https://www.darkreading.com/vulnerabilities-threats/are-meta-and-twitter-ushering-in-a-new-age-of-insider-threats-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
