@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities](https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities)
+- [New Survey: One In Four Schools Were Victims Of Cyber Attacks In the Last Year; Administrators To Increase Spending On Privacy and Security](https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security)
+- [Check Point Research Reports a 38% Increase In 2022 Global Cyberattacks](https://www.darkreading.com/attacks-breaches/check-point-research-reports-a-38-increase-in-2022-global-cyberattacks)
 - [CircleCI: Rotate Stored Secrets ASAP](https://www.darkreading.com/application-security/circleci-rotate-stored-secrets-asap)
 - [Bluebottle Continues Bank Heist Assault With Signed Malware](https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics)
 - [Threat Actors Evade Detection Through Geofencing &amp; Fingerprinting](https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting)
 - [Maternal &amp; Family Health Services Issues Notice Of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident)
 - [DirectTrust and EHNAC Announce Closing Of Merger](https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger)
-- [US Based ICOIN Technology Announces Secure Messaging Solution Using Hardware Wallet Encryption](https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption)
-- [Space Race: Defenses Emerge as Satellite-Focused Cyberattacks Ramp Up](https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks)
-- [Netskope Receives $401M In New Funding](https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
