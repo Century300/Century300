@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Ensure Cybersecurity Investments Remain a Priority Across Your Organization](https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization)
+- [Trend Micro Announces New Subsidiary for 5G Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/trend-micro-announces-new-subsidiary-for-5g-cybersecurity)
 - [Rackspace: Ransomware Attack Bypassed ProxyNotShell Mitigations](https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit)
 - [Five Guys Data Breach Puts HR Data Under a Heat Lamp](https://www.darkreading.com/attacks-breaches/five-guys-data-breach-hr-data)
 - [What Are Some Ways to Make APIs More Secure?](https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-)
 - [Effective and Efficient Automation for Security Teams](https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams)
 - [CORL Technologies Introduces Proactive Third-Party Incident Response Solution for Healthcare](https://www.darkreading.com/attacks-breaches/corl-technologies-introduces-proactive-third-party-incident-response-solution-for-healthcare)
 - [BitRat Malware Gnaws at Victims With Bank Heist Data](https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data)
-- [Understanding Infrastructure-as-Code Risks in the Cloud](https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud)
-- [Insights On the Mobile Biometrics Global Market To 2028 - Increase In Platforms Using Biometric Authentication Drives Growth](https://www.darkreading.com/endpoint/insights-on-the-mobile-biometrics-global-market-to-2028---increase-in-platforms-using-biometric-authentication-drives-growth)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
