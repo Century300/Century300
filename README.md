@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CircleCI: Rotate Stored Secrets ASAP](https://www.darkreading.com/application-security/circleci-rotate-stored-secrets-asap)
 - [Bluebottle Continues Bank Heist Assault With Signed Malware](https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics)
 - [Threat Actors Evade Detection Through Geofencing &amp; Fingerprinting](https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting)
 - [Maternal &amp; Family Health Services Issues Notice Of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident)
@@ -83,7 +84,6 @@
 - [US Based ICOIN Technology Announces Secure Messaging Solution Using Hardware Wallet Encryption](https://www.darkreading.com/perimeter/us-based-icoin-technology-announces-secure-messaging-solution-using-hardware-wallet-encryption)
 - [Space Race: Defenses Emerge as Satellite-Focused Cyberattacks Ramp Up](https://www.darkreading.com/ics-ot/space-race-defenses-satellite-cyberattacks)
 - [Netskope Receives $401M In New Funding](https://www.darkreading.com/cloud/netscope-receives-401m-in-new-funding)
-- [How to Ensure Cybersecurity Investments Remain a Priority Across Your Organization](https://www.darkreading.com/attacks-breaches/how-to-ensure-cybersecurity-investments-remain-a-priority-across-your-organization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
