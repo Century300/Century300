@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Confidential Computing Can Change Cybersecurity](https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity)
+- [200M Twitter Profiles, with Email Addys, Dumped on Dark Web for Free](https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails)
 - [LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities](https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities)
 - [New Survey: One In Four Schools Were Victims Of Cyber Attacks In the Last Year; Administrators To Increase Spending On Privacy and Security](https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security)
 - [Check Point Research Reports a 38% Increase In 2022 Global Cyberattacks](https://www.darkreading.com/attacks-breaches/check-point-research-reports-a-38-increase-in-2022-global-cyberattacks)
 - [CircleCI: Rotate Stored Secrets ASAP](https://www.darkreading.com/application-security/circleci-rotate-stored-secrets-asap)
 - [Bluebottle Continues Bank Heist Assault With Signed Malware](https://www.darkreading.com/attacks-breaches/bluebottle-bank-heist-assault-fresh-lol-tactics)
 - [Threat Actors Evade Detection Through Geofencing &amp; Fingerprinting](https://www.darkreading.com/dr-tech/threat-actors-evade-detection-through-geofencing-fingerprinting)
-- [Maternal &amp; Family Health Services Issues Notice Of Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/maternal-family-health-services-issues-notice-of-cybersecurity-incident)
-- [DirectTrust and EHNAC Announce Closing Of Merger](https://www.darkreading.com/operations/directtrust-and-ehnac-announce-closing-of-merger)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
