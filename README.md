@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rackspace: Ransomware Attack Bypassed ProxyNotShell Mitigations](https://www.darkreading.com/cloud/rackspace-ransomware-attack-microsoft-exchange-server-zero-day-exploit)
 - [Five Guys Data Breach Puts HR Data Under a Heat Lamp](https://www.darkreading.com/attacks-breaches/five-guys-data-breach-hr-data)
 - [What Are Some Ways to Make APIs More Secure?](https://www.darkreading.com/edge-ask-the-experts/what-are-some-ways-to-make-apis-more-secure-)
 - [Effective and Efficient Automation for Security Teams](https://www.darkreading.com/dr-tech/effective-and-efficient-automation-for-security-teams)
@@ -83,7 +84,6 @@
 - [BitRat Malware Gnaws at Victims With Bank Heist Data](https://www.darkreading.com/attacks-breaches/bitrat-malware-victims-bank-heist-data)
 - [Understanding Infrastructure-as-Code Risks in the Cloud](https://www.darkreading.com/cloud/understanding-infrastructure-as-code-risks-in-the-cloud)
 - [Insights On the Mobile Biometrics Global Market To 2028 - Increase In Platforms Using Biometric Authentication Drives Growth](https://www.darkreading.com/endpoint/insights-on-the-mobile-biometrics-global-market-to-2028---increase-in-platforms-using-biometric-authentication-drives-growth)
-- [2023 Will See Renewed Focus on Quantum Computing](https://www.darkreading.com/tech-trends/2023-will-see-more-focus-on-quantum-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
