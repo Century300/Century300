@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Rackspace Sunsets Email Service Downed in Ransomware Attack](https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack)
 - [How Confidential Computing Can Change Cybersecurity](https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity)
-- [200M Twitter Profiles, with Email Addys, Dumped on Dark Web for Free](https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails)
+- [200M Twitter Profiles, With Email Addys, Dumped on Dark Web for Free](https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails)
 - [LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities](https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities)
 - [New Survey: One In Four Schools Were Victims Of Cyber Attacks In the Last Year; Administrators To Increase Spending On Privacy and Security](https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security)
 - [Check Point Research Reports a 38% Increase In 2022 Global Cyberattacks](https://www.darkreading.com/attacks-breaches/check-point-research-reports-a-38-increase-in-2022-global-cyberattacks)
