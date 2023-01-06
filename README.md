@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vice Society Releases Info Stolen From 14 UK Schools, Including Passport Scans](https://www.darkreading.com/attacks-breaches/vice-society-releases-info-stolen-uk-schools-passport-scans)
 - [PurpleUrchin Gang Embraces DevOps In Massive Cloud Malware Campaign](https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign)
 - [From Ferrari to Ford, Cybersecurity Bugs Plague Automotive Safety](https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety)
 - [Don&#39;t Be Blindsided by Software Bills of Materials](https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials)
@@ -83,7 +84,6 @@
 - [Rackspace Sunsets Email Service Downed in Ransomware Attack](https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack)
 - [How Confidential Computing Can Change Cybersecurity](https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity)
 - [200M Twitter Profiles, With Email Addys, Dumped on Dark Web for Free](https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails)
-- [LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities](https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
