@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PurpleUrchin Gang Embraces DevOps In Massive Cloud Malware Campaign](https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign)
 - [From Ferrari to Ford, Cybersecurity Bugs Plague Automotive Safety](https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety)
 - [Don&#39;t Be Blindsided by Software Bills of Materials](https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials)
 - [ChatGPT Artificial Intelligence: An Upcoming Cybersecurity Threat?](https://www.darkreading.com/omdia/chatgpt-artificial-intelligence-an-upcoming-cybersecurity-threat-)
@@ -83,7 +84,6 @@
 - [How Confidential Computing Can Change Cybersecurity](https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity)
 - [200M Twitter Profiles, With Email Addys, Dumped on Dark Web for Free](https://www.darkreading.com/application-security/200m-twitter-profiles-dumped-dark-web-free-including-emails)
 - [LogRhythm Enhances Security Analytics With Expanded Security Operations Capabilities](https://www.darkreading.com/operations/logrhythm-enhances-security-analytics-with-expanded-security-operations-capabilities)
-- [New Survey: 1 In 4 Schools Were Victims Of Cyber Attacks In the Last Year; Administrators To Increase Spending On Privacy and Security](https://www.darkreading.com/attacks-breaches/new-survey-one-in-four-schools-were-victims-of-cyber-attacks-in-the-last-year-administrators-to-increase-spending-on-privacy-and-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
