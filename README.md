@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [In Memoriam: Remembering Those Who Passed](https://www.darkreading.com/edge-slideshows/in-memoriam-remembering-those-who-passed)
 - [Russia-Linked Turla APT Sneakily Co-Opts Ancient Andromeda USB Infections](https://www.darkreading.com/attacks-breaches/russia-turla-apt-hijacks-andromeda-usb-infections)
 - [Vice Society Releases Info Stolen From 14 UK Schools, Including Passport Scans](https://www.darkreading.com/attacks-breaches/vice-society-releases-info-stolen-uk-schools-passport-scans)
 - [PurpleUrchin Gang Embraces DevOps in Massive Cloud Malware Campaign](https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign)
@@ -83,7 +84,6 @@
 - [Don&#39;t Be Blindsided by Software Bills of Materials](https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials)
 - [ChatGPT Artificial Intelligence: An Upcoming Cybersecurity Threat?](https://www.darkreading.com/omdia/chatgpt-artificial-intelligence-an-upcoming-cybersecurity-threat-)
 - [Rackspace Sunsets Email Service Downed in Ransomware Attack](https://www.darkreading.com/attacks-breaches/rackspace-discontinues-email-service-downed-in-ransomware-attack)
-- [How Confidential Computing Can Change Cybersecurity](https://www.darkreading.com/edge-articles/how-confidential-computing-can-change-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
