@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Are Already Exploiting ChatGPT to Write Malicious Code](https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code)
+- [Serbia Slammed With DDoS Attacks](https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack)
 - [Rackspace Ransomware Incident Highlights Risks of Relying on Mitigation Alone](https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone)
 - [&#39;Copyright Infringement&#39; Lure Used for Facebook Credential Harvesting](https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting)
 - [JsonWebToken Security Bug Opens Servers to RCE](https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce)
 - [Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology &lpar;OT&rpar; Cybersecurity Exposure](https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure)
 - [7 Use Cases for Distributed Cloud Environments](https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments)
 - [CISOs Are Focused on These 3 Trends. Are You?](https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-)
-- [Web 3.0 Shifts Attack Surface and Highlights Need for Continuous Security](https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-)
-- [In Memoriam: Remembering Those Who Passed](https://www.darkreading.com/edge-slideshows/in-memoriam-remembering-those-who-passed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
