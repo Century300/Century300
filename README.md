@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Web 3.0 Shifts Attack Surface and Highlights Need for Continuous Security](https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-)
 - [In Memoriam: Remembering Those Who Passed](https://www.darkreading.com/edge-slideshows/in-memoriam-remembering-those-who-passed)
 - [Russia-Linked Turla APT Sneakily Co-Opts Ancient Andromeda USB Infections](https://www.darkreading.com/attacks-breaches/russia-turla-apt-hijacks-andromeda-usb-infections)
 - [Vice Society Releases Info Stolen From 14 UK Schools, Including Passport Scans](https://www.darkreading.com/attacks-breaches/vice-society-releases-info-stolen-uk-schools-passport-scans)
@@ -83,7 +84,6 @@
 - [PurpleUrchin Gang Embraces DevOps in Massive Cloud Malware Campaign](https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign)
 - [From Ferrari to Ford, Cybersecurity Bugs Plague Automotive Safety](https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety)
 - [Don&#39;t Be Blindsided by Software Bills of Materials](https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials)
-- [ChatGPT Artificial Intelligence: An Upcoming Cybersecurity Threat?](https://www.darkreading.com/omdia/chatgpt-artificial-intelligence-an-upcoming-cybersecurity-threat-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
