@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology &lpar;OT&rpar; Cybersecurity Exposure](https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure)
+- [7 Use Cases for Distributed Cloud Environments](https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments)
+- [CISOs Are Focused on These 3 Trends. Are You?](https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-)
 - [Web 3.0 Shifts Attack Surface and Highlights Need for Continuous Security](https://www.darkreading.com/attacks-breaches/web-3-0-shifts-attack-surface-and-highlights-need-for-continuous-security-)
 - [In Memoriam: Remembering Those Who Passed](https://www.darkreading.com/edge-slideshows/in-memoriam-remembering-those-who-passed)
 - [Russia-Linked Turla APT Sneakily Co-Opts Ancient Andromeda USB Infections](https://www.darkreading.com/attacks-breaches/russia-turla-apt-hijacks-andromeda-usb-infections)
 - [Vice Society Releases Info Stolen From 14 UK Schools, Including Passport Scans](https://www.darkreading.com/attacks-breaches/vice-society-releases-info-stolen-uk-schools-passport-scans)
-- [CISOs Are Focused on These 3 Trends. Are You?](https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-)
 - [PurpleUrchin Gang Embraces DevOps in Massive Cloud Malware Campaign](https://www.darkreading.com/attacks-breaches/purpleurchin-devops-cloud-malware-campaign)
-- [From Ferrari to Ford, Cybersecurity Bugs Plague Automotive Safety](https://www.darkreading.com/ics-ot/ferrari-ford-cybersecurity-bugs-automotive-safety)
-- [Don&#39;t Be Blindsided by Software Bills of Materials](https://www.darkreading.com/vulnerabilities-threats/don-t-be-blindsided-by-software-bills-of-materials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
