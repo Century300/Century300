@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Firmware Vulnerability in Chips Helps Hackers Take Control of Systems](https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems)
+- [Latest Firmware Flaws in Qualcomm Snapdragon Need Attention](https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems)
 - [Attackers Are Already Exploiting ChatGPT to Write Malicious Code](https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code)
 - [Serbia Slammed With DDoS Attacks](https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack)
 - [Rackspace Ransomware Incident Highlights Risks of Relying on Mitigation Alone](https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone)
