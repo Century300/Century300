@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Preparing for the Effects Of Quantum-Centric Supercomputing](https://www.darkreading.com/vulnerabilities-threats/preparing-for-the-effects-of-quantum-centric-supercomputing)
+- [Netskope Threat Research: Malware-Delivering Cloud Apps Nearly Tripled in 2022](https://www.darkreading.com/cloud/netskope-threat-research-malware-delivering-cloud-apps-nearly-tripled-in-2022)
+- [Delinea 2022 State of Ransomware Report Reveals That Attacks Are Down 61% From the Previous Year, and Ransom Payments Are Also on the Decline](https://www.darkreading.com/attacks-breaches/delinea-2022-state-of-ransomware-report-reveals-that-attacks-are-down-61-from-the-previous-year-and-ransom-payments-are-also-on-the-decline)
+- [Moving Analytics Launches Single Sign on to Strengthen Data Security and Improve User Experience](https://www.darkreading.com/endpoint/moving-analytics-launches-single-sign-on-to-strengthen-data-security-and-improve-user-experience)
 - [Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security](https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security)
 - [Latest Firmware Flaws in Qualcomm Snapdragon Need Attention](https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems)
 - [Attackers Are Already Exploiting ChatGPT to Write Malicious Code](https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code)
 - [Serbia Slammed With DDoS Attacks](https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack)
-- [Rackspace Ransomware Incident Highlights Risks of Relying on Mitigation Alone](https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone)
-- [&#39;Copyright Infringement&#39; Lure Used for Facebook Credential Harvesting](https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting)
-- [JsonWebToken Security Bug Opens Servers to RCE](https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce)
-- [Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology &lpar;OT&rpar; Cybersecurity Exposure](https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
