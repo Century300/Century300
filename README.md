@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: Kinsing Targets Kubernetes via Containers, PostgreSQL](https://www.darkreading.com/cloud/microsoft-kinsing-malware-kubernetes-containers-postgresql)
 - [NetSPI Acquires nVisium](https://www.darkreading.com/vulnerabilities-threats/netspi-acquires-nvisium)
 - [Vade Releases Advanced Threat Intel &amp; Investigation Capabilities](https://www.darkreading.com/threat-intelligence/vade-releases-advanced-threat-intel-investigation-capabilities)
 - [65% of Organizations Plan to Adopt a Security Service Edge Platform in Next 2 Years: Axis Security](https://www.darkreading.com/attacks-breaches/65-of-organizations-plan-to-adopt-a-security-service-edge-platform-in-next-2-years-axis-security)
@@ -83,7 +84,6 @@
 - [Preparing for the Effects Of Quantum-Centric Supercomputing](https://www.darkreading.com/vulnerabilities-threats/preparing-for-the-effects-of-quantum-centric-supercomputing)
 - [Delinea 2022 State of Ransomware Report Reveals That Attacks Are Down 61% From the Previous Year, and Ransom Payments Are Also on the Decline](https://www.darkreading.com/attacks-breaches/delinea-2022-state-of-ransomware-report-reveals-that-attacks-are-down-61-from-the-previous-year-and-ransom-payments-are-also-on-the-decline)
 - [Moving Analytics Launches Single Sign on to Strengthen Data Security and Improve User Experience](https://www.darkreading.com/endpoint/moving-analytics-launches-single-sign-on-to-strengthen-data-security-and-improve-user-experience)
-- [Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security](https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
