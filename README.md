@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Firmware Vulnerability in Chips Helps Hackers Take Control of Systems](https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems)
 - [Attackers Are Already Exploiting ChatGPT to Write Malicious Code](https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code)
 - [Serbia Slammed With DDoS Attacks](https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack)
 - [Rackspace Ransomware Incident Highlights Risks of Relying on Mitigation Alone](https://www.darkreading.com/vulnerabilities-threats/rackspace-ransomware-incident-highlights-risks-mitigation-alone)
@@ -83,7 +84,6 @@
 - [JsonWebToken Security Bug Opens Servers to RCE](https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce)
 - [Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology &lpar;OT&rpar; Cybersecurity Exposure](https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure)
 - [7 Use Cases for Distributed Cloud Environments](https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments)
-- [CISOs Are Focused on These 3 Trends. Are You?](https://www.darkreading.com/microsoft/cisos-are-focused-on-these-3-trends-are-you-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
