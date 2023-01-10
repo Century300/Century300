@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [San Fran&#39;s BART Investigates Vice Society Data Breach Claims](https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach)
+- [Cerberus Sentinel to Acquire RAN Security](https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security)
 - [Quantum Decryption Breakthrough? Not So Fast](https://www.darkreading.com/vulnerabilities-threats/quantum-decryption-breakthrough-not-so-fast)
 - [Microsoft: Kinsing Targets Kubernetes via Containers, PostgreSQL](https://www.darkreading.com/cloud/microsoft-kinsing-malware-kubernetes-containers-postgresql)
 - [NetSPI Acquires nVisium](https://www.darkreading.com/vulnerabilities-threats/netspi-acquires-nvisium)
 - [Vade Releases Advanced Threat Intel &amp; Investigation Capabilities](https://www.darkreading.com/threat-intelligence/vade-releases-advanced-threat-intel-investigation-capabilities)
 - [65% of Organizations Plan to Adopt a Security Service Edge Platform in Next 2 Years: Axis Security](https://www.darkreading.com/attacks-breaches/65-of-organizations-plan-to-adopt-a-security-service-edge-platform-in-next-2-years-axis-security)
 - [Netskope Threat Research: Malware-Delivering Cloud Apps Nearly Tripled in 2022](https://www.darkreading.com/cloud/netskope-threat-research-malware-delivering-cloud-apps-nearly-tripled-in-2022)
-- [Preparing for the Effects Of Quantum-Centric Supercomputing](https://www.darkreading.com/vulnerabilities-threats/preparing-for-the-effects-of-quantum-centric-supercomputing)
-- [Delinea 2022 State of Ransomware Report Reveals That Attacks Are Down 61% From the Previous Year, and Ransom Payments Are Also on the Decline](https://www.darkreading.com/attacks-breaches/delinea-2022-state-of-ransomware-report-reveals-that-attacks-are-down-61-from-the-previous-year-and-ransom-payments-are-also-on-the-decline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
