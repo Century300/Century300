@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security](https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security)
 - [Latest Firmware Flaws in Qualcomm Snapdragon Need Attention](https://www.darkreading.com/dr-tech/firmware-vulnerability-in-chips-helps-hackers-take-control-of-systems)
 - [Attackers Are Already Exploiting ChatGPT to Write Malicious Code](https://www.darkreading.com/attacks-breaches/attackers-are-already-exploiting-chatgpt-to-write-malicious-code)
 - [Serbia Slammed With DDoS Attacks](https://www.darkreading.com/attacks-breaches/serbia-slammed-ddos-attack)
@@ -83,7 +84,6 @@
 - [&#39;Copyright Infringement&#39; Lure Used for Facebook Credential Harvesting](https://www.darkreading.com/attacks-breaches/-copyright-infringement-lure-facebook-credential-harvesting)
 - [JsonWebToken Security Bug Opens Servers to RCE](https://www.darkreading.com/vulnerabilities-threats/jsonwebtoken-security-bug-opens-servers-rce)
 - [Schneider Electric and BitSight Announce Partnership to Improve Detection of Operational Technology &lpar;OT&rpar; Cybersecurity Exposure](https://www.darkreading.com/ics-ot/schneider-electric-and-bitsight-announce-partnership-to-improve-detection-of-operational-technology-ot-cybersecurity-exposure)
-- [7 Use Cases for Distributed Cloud Environments](https://www.darkreading.com/edge-articles/7-use-cases-for-distributed-cloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
