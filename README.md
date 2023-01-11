@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security](https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security)
+- [Infoblox Appoints Scott Harrell to CEO](https://www.darkreading.com/perimeter/infoblox-appoints-scott-harrell-to-ceo)
+- [SecureAuth Announces Seven New Patents for Biobehavioral Credentials for Continuous Authentication, and ID Proofing to Secure Digital Identities](https://www.darkreading.com/remote-workforce/secureauth-announces-seven-new-patents-for-biobehavioral-credentials-for-continuous-authentication-and-id-proofing-to-secure-digital-identities)
+- [The Resolution Every CSO/CISO Should Make This Year](https://www.darkreading.com/vulnerabilities-threats/the-resolution-every-cso-ciso-should-make-this-year)
 - [Cloudflare Announces Email Security &amp; Data Protection Tools](https://www.darkreading.com/cloud/cloudflare-announces-email-security-data-protection-tools)
 - [Intel&#39;s New Xeon Chip Pushes Confidential Computing to the Cloud](https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud)
 - [Security Planning: Ask What Could Go Wrong](https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong)
 - [98 Patches: Microsoft Greets New Year With Zero-Day Security Fixes](https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes)
-- [Bay Bridge Administrators, LLC Notifies Individuals of Data Breach](https://www.darkreading.com/attacks-breaches/bay-bridge-administrators-llc-notifies-individuals-of-data-breach)
-- [SCOTUS OKs WhatsApp Suit Against NSO Group](https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-)
-- [San Fran&#39;s BART Investigates Vice Society Data Breach Claims](https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach)
-- [Cerberus Sentinel to Acquire RAN Security](https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
