@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloudflare Announces Email Security &amp; Data Protection Tools](https://www.darkreading.com/cloud/cloudflare-announces-email-security-data-protection-tools)
 - [Intel&#39;s New Xeon Chip Pushes Confidential Computing to the Cloud](https://www.darkreading.com/dr-tech/intel-new-xeon-chip-pushes-confidential-computing-cloud)
 - [Security Planning: Ask What Could Go Wrong](https://www.darkreading.com/edge-articles/security-planning-ask-what-could-go-wrong)
 - [98 Patches: Microsoft Greets New Year With Zero-Day Security Fixes](https://www.darkreading.com/vulnerabilities-threats/microsoft-new-year-patches-98-security-fixes)
@@ -83,7 +84,6 @@
 - [SCOTUS OKs WhatsApp Suit Against NSO Group](https://www.darkreading.com/application-security/scotus-oks-whatsapp-suit-against-nso-group-)
 - [San Fran&#39;s BART Investigates Vice Society Data Breach Claims](https://www.darkreading.com/ics-ot/san-fran-bart-investigates-vice-society-data-breach)
 - [Cerberus Sentinel to Acquire RAN Security](https://www.darkreading.com/risk/cerberus-sentinel-to-acquire-ran-security)
-- [Quantum Decryption Breakthrough? Not So Fast](https://www.darkreading.com/vulnerabilities-threats/quantum-decryption-breakthrough-not-so-fast)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
