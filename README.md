@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Black Hat Flashback: The Deadly Consequences of Weak Medical Device Security](https://www.darkreading.com/iot/black-hat-flashback-deadly-consequences-weak-medical-device-security)
+- [Catchpoint Announces Solution to Monitor and Protect Companies From BGP Incidents](https://www.darkreading.com/perimeter/catchpoint-announces-solution-to-monitor-and-protect-companies-from-bgp-incidents)
+- [Better Phishing, Easy Malicious Implants: How AI Could Change Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/phishing-malicious-implants-ai-cyberattacks)
 - [Governance in the Cloud Shifts Left](https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left)
 - [Cyberattack Cancels Classes for Des Moines Public Schools](https://www.darkreading.com/attacks-breaches/cyberattack-cancels-classes-for-des-moines-public-schools)
 - [Cyber Jobs of the Future: Sleuth, Bodyguard, &#39;Immunity&#39; Developer](https://www.darkreading.com/operations/cyber-jobs-of-the-future-sleuth-bodyguard-immunity-developer)
 - [Infoblox Appoints Scott Harrell to CEO](https://www.darkreading.com/perimeter/infoblox-appoints-scott-harrell-to-ceo)
 - [SecureAuth Announces Seven New Patents for Biobehavioral Credentials for Continuous Authentication, and ID Proofing to Secure Digital Identities](https://www.darkreading.com/remote-workforce/secureauth-announces-seven-new-patents-for-biobehavioral-credentials-for-continuous-authentication-and-id-proofing-to-secure-digital-identities)
-- [The Resolution Every CSO/CISO Should Make This Year](https://www.darkreading.com/vulnerabilities-threats/the-resolution-every-cso-ciso-should-make-this-year)
-- [Cloudflare Announces Email Security &amp; Data Protection Tools](https://www.darkreading.com/cloud/cloudflare-announces-email-security-data-protection-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
