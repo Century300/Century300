@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Big Prizes, Cash on Offer for Joining &#39;DDosia&#39; Anti-Ukraine Cyberattack Project](https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project)
 - [Kubernetes-Related Security Projects to Watch in 2023](https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023)
+- [Securing the World&#39;s Energy Systems: Where Physical Security and Cybersecurity Must Meet](https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet)
 - [1 in 3 Organizations Do Not Provide Any Cybersecurity Training to Remote Workers Despite a Majority of Employees Having Access to Critical Data](https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data)
 - [Hack the Box Secures $55 Million in Series B Funding Led by Carlyle](https://www.darkreading.com/operations/hack-the-box-secures-55-million-in-series-b-funding-led-by-carlyle)
 - [Man Sentenced for Role in International Telemarketing Scheme](https://www.darkreading.com/attacks-breaches/man-sentenced-for-role-in-international-telemarketing-scheme)
 - [Hacker Space Rogue to Release Book on Hacking Group L0pht Heavy Industries in February](https://www.darkreading.com/vulnerabilities-threats/hacker-space-rogue-to-release-book-on-hacking-group-l0pht-heavy-industries-in-february)
 - [Use CircleCI? Here Are 3 Steps You Need to Take](https://www.darkreading.com/dr-tech/use-circleci-here-are-3-steps-you-need-to-take)
-- [Why Analyzing Past Incidents Helps Teams More Than Usual Security Metrics](https://www.darkreading.com/edge-articles/why-analyzing-past-incidents-helps-teams-more-than-usual-security-metrics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
