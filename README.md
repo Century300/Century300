@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [$20K Buys Insider Access to Telegram Servers, Dark Web Ad Claims](https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims)
+- [Software Supply Chain Security Needs a Bigger Picture](https://www.darkreading.com/dr-tech/software-supply-chain-security-needs-bigger-picture)
+- [Darktrace Publishes 2022 Cyberattack Trend Data For Energy, Healthcare &amp; Retail Sectors Globally](https://www.darkreading.com/attacks-breaches/darktrace-publishes-2022-cyberattack-trend-data-for-energy-healthcare-retail-sectors-globally)
 - [New Survey Sheds Light on Why Enterprises Struggle to Thwart API Attacks](https://www.darkreading.com/attacks-breaches/new-survey-sheds-light-on-why-enterprises-struggle-to-thwart-api-attacks)
 - [Cloudflare Expands Relationship With Microsoft](https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft)
 - [SailPoint Acquires SecZetta to Provide Comprehensive Identity Security for Non-Employee Identities](https://www.darkreading.com/press-release/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-)
 - [Critical Cisco SMB Router Flaw Allows Authentication Bypass, PoC Available](https://www.darkreading.com/remote-workforce/critical-cisco-smb-router-bug-authentication-bypass-poc-available)
 - [Securing the World&#39;s Energy Systems: Where Physical Security and Cybersecurity Must Meet](https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet)
-- [Big Prizes, Cash on Offer for Joining &#39;DDosia&#39; Anti-Ukraine Cyberattack Project](https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project)
-- [Kubernetes-Related Security Projects to Watch in 2023](https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023)
-- [1 in 3 Organizations Do Not Provide Any Cybersecurity Training to Remote Workers Despite a Majority of Employees Having Access to Critical Data](https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
