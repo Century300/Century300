@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kubernetes-Related Security Projects to Watch in 2023](https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023)
+- [1 in 3 Organizations Do Not Provide Any Cybersecurity Training to Remote Workers Despite a Majority of Employees Having Access to Critical Data](https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data)
+- [Hack the Box Secures $55 Million in Series B Funding Led by Carlyle](https://www.darkreading.com/operations/hack-the-box-secures-55-million-in-series-b-funding-led-by-carlyle)
+- [Man Sentenced for Role in International Telemarketing Scheme](https://www.darkreading.com/attacks-breaches/man-sentenced-for-role-in-international-telemarketing-scheme)
+- [Hacker Space Rogue to Release Book on Hacking Group L0pht Heavy Industries in February](https://www.darkreading.com/vulnerabilities-threats/hacker-space-rogue-to-release-book-on-hacking-group-l0pht-heavy-industries-in-february)
 - [Use CircleCI? Here Are 3 Steps You Need to Take](https://www.darkreading.com/dr-tech/use-circleci-here-are-3-steps-you-need-to-take)
 - [Why Analyzing Past Incidents Helps Teams More Than Usual Security Metrics](https://www.darkreading.com/edge-articles/why-analyzing-past-incidents-helps-teams-more-than-usual-security-metrics)
 - [Catchpoint Announces Solution to Monitor and Protect Companies From BGP Incidents](https://www.darkreading.com/perimeter/catchpoint-announces-solution-to-monitor-and-protect-companies-from-bgp-incidents)
-- [Better Phishing, Easy Malicious Implants: How AI Could Change Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/phishing-malicious-implants-ai-cyberattacks)
-- [Governance in the Cloud Shifts Left](https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left)
-- [Cyberattack Cancels Classes for Des Moines Public Schools](https://www.darkreading.com/attacks-breaches/cyberattack-cancels-classes-for-des-moines-public-schools)
-- [5 Ways Cybersecurity for Cloud Workloads Will Evolve in 2023](https://www.darkreading.com/zscaler/5-ways-cybersecurity-for-cloud-workloads-will-evolve-in-2023)
-- [Cyber Jobs of the Future: Sleuth, Bodyguard, &#39;Immunity&#39; Developer](https://www.darkreading.com/operations/cyber-jobs-of-the-future-sleuth-bodyguard-immunity-developer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
