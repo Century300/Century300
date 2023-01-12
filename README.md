@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Survey Sheds Light on Why Enterprises Struggle to Thwart API Attacks](https://www.darkreading.com/attacks-breaches/new-survey-sheds-light-on-why-enterprises-struggle-to-thwart-api-attacks)
 - [Cloudflare Expands Relationship With Microsoft](https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft)
 - [SailPoint Acquires SecZetta to Provide Comprehensive Identity Security for Non-Employee Identities](https://www.darkreading.com/press-release/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-)
 - [Critical Cisco SMB Router Flaw Allows Authentication Bypass, PoC Available](https://www.darkreading.com/remote-workforce/critical-cisco-smb-router-bug-authentication-bypass-poc-available)
+- [Securing the World&#39;s Energy Systems: Where Physical Security and Cybersecurity Must Meet](https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet)
 - [Big Prizes, Cash on Offer for Joining &#39;DDosia&#39; Anti-Ukraine Cyberattack Project](https://www.darkreading.com/attacks-breaches/prizes-cash-ddosia-ukraine-ddos-cyberattack-project)
 - [Kubernetes-Related Security Projects to Watch in 2023](https://www.darkreading.com/vulnerabilities-threats/kubernetes-related-security-projects-to-watch-in-2023)
-- [Securing the World&#39;s Energy Systems: Where Physical Security and Cybersecurity Must Meet](https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet)
 - [1 in 3 Organizations Do Not Provide Any Cybersecurity Training to Remote Workers Despite a Majority of Employees Having Access to Critical Data](https://www.darkreading.com/vulnerabilities-threats/1-in-3-organizations-do-not-provide-any-cybersecurity-training-to-remote-workers-despite-a-majority-of-employees-having-access-to-critical-data)
-- [Hack the Box Secures $55 Million in Series B Funding Led by Carlyle](https://www.darkreading.com/operations/hack-the-box-secures-55-million-in-series-b-funding-led-by-carlyle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
