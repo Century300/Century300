@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Find &#39;Digital Crime Haven&#39; While Investigating Magecart Activity](https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity)
 - [$20K Buys Insider Access to Telegram Servers, Dark Web Ad Claims](https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims)
 - [Software Supply Chain Security Needs a Bigger Picture](https://www.darkreading.com/dr-tech/software-supply-chain-security-needs-bigger-picture)
 - [Darktrace Publishes 2022 Cyberattack Trend Data For Energy, Healthcare &amp; Retail Sectors Globally](https://www.darkreading.com/attacks-breaches/darktrace-publishes-2022-cyberattack-trend-data-for-energy-healthcare-retail-sectors-globally)
@@ -83,7 +84,6 @@
 - [Cloudflare Expands Relationship With Microsoft](https://www.darkreading.com/remote-workforce/cloudflare-expands-relationship-with-microsoft)
 - [SailPoint Acquires SecZetta to Provide Comprehensive Identity Security for Non-Employee Identities](https://www.darkreading.com/press-release/sailpoint-acquires-seczetta-to-provide-comprehensive-identity-security-for-non-employee-identities-)
 - [Critical Cisco SMB Router Flaw Allows Authentication Bypass, PoC Available](https://www.darkreading.com/remote-workforce/critical-cisco-smb-router-bug-authentication-bypass-poc-available)
-- [Securing the World&#39;s Energy Systems: Where Physical Security and Cybersecurity Must Meet](https://www.darkreading.com/physical-security/securing-the-world-s-energy-systems-where-physical-security-and-cybersecurity-must-meet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
