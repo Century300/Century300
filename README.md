@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads](https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads)
 - [CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools](https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools)
 - [Cloudflare Wins CISA Contract for Registry and Authoritative Domain Name System &lpar;DNS&rpar; Services](https://www.darkreading.com/attacks-breaches/cloudflare-wins-cisa-contract-for-registry-and-authoritative-domain-name-system-dns-services)
 - [Fast-Track Secure Development Using Lite Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/fast-track-secure-development-using-lite-threat-modeling)
@@ -83,7 +84,6 @@
 - [Researchers Find &#39;Digital Crime Haven&#39; While Investigating Magecart Activity](https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity)
 - [$20K Buys Insider Access to Telegram Servers, Dark Web Ad Claims](https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims)
 - [Software Supply Chain Security Needs a Bigger Picture](https://www.darkreading.com/dr-tech/software-supply-chain-security-needs-bigger-picture)
-- [Darktrace Publishes 2022 Cyberattack Trend Data For Energy, Healthcare &amp; Retail Sectors Globally](https://www.darkreading.com/attacks-breaches/darktrace-publishes-2022-cyberattack-trend-data-for-energy-healthcare-retail-sectors-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
