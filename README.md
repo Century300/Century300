@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Norton LifeLock Warns on Password Manager Account Compromises](https://www.darkreading.com/remote-workforce/norton-lifelock-warns-on-password-manager-account-compromises)
 - [Malware Comes Standard With This Android TV Box on Amazon](https://www.darkreading.com/threat-intelligence/malware-standard-android-tv-box-amazon)
 - [Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads](https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads)
 - [CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools](https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools)
@@ -83,7 +84,6 @@
 - [Fast-Track Secure Development Using Lite Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/fast-track-secure-development-using-lite-threat-modeling)
 - [WEF&#39;s Global Risks Report 2023 Keeps Cybersecurity on the Agenda](https://www.darkreading.com/omdia/wef-s-global-risks-report-2023-keeps-cybersecurity-on-the-agenda)
 - [Researchers Find &#39;Digital Crime Haven&#39; While Investigating Magecart Activity](https://www.darkreading.com/threat-intelligence/digital-crime-haven-investigating-magecart-activity)
-- [$20K Buys Insider Access to Telegram Servers, Dark Web Ad Claims](https://www.darkreading.com/attacks-breaches/20k-buys-insider-access-telegram-servers-dark-web-ad-claims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
