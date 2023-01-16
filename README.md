@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Dangers of Default Cloud Configurations](https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations)
 - [Java, .NET Developers Prone to More Frequent Vulnerabilities](https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities)
 - [Why Mean Time to Repair Is Not Always A Useful Security Metric](https://www.darkreading.com/edge-articles/why-mean-time-to-repair-no-longer-serves-as-a-useful-security-metric)
 - [Norton LifeLock Warns on Password Manager Account Compromises](https://www.darkreading.com/remote-workforce/norton-lifelock-warns-on-password-manager-account-compromises)
@@ -83,7 +84,6 @@
 - [Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads](https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads)
 - [CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools](https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools)
 - [Cloudflare Wins CISA Contract for Registry and Authoritative Domain Name System &lpar;DNS&rpar; Services](https://www.darkreading.com/attacks-breaches/cloudflare-wins-cisa-contract-for-registry-and-authoritative-domain-name-system-dns-services)
-- [Fast-Track Secure Development Using Lite Threat Modeling](https://www.darkreading.com/vulnerabilities-threats/fast-track-secure-development-using-lite-threat-modeling)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
