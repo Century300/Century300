@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Initial Access Broker Market Booms, Posing Growing Threat to Enterprises](https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-)
 - [Secrets Rotation Recommended After CircleCI Security Incident](https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident)
 - [VIPRE Security Group Launches New Endpoint Detection and Response &lpar;EDR&rpar; Technology Built for SMEs](https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes)
 - [Unpatched Zoho MangeEngine Products Under Active Cyberattack](https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack)
@@ -83,7 +84,6 @@
 - [Why Businesses Need to Think Like Hackers This Year](https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year)
 - [Cygna Labs Introduces Entitlement and Security for Active Directory](https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory)
 - [Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services)
-- [5 Cybersecurity Tips for Higher Education Institutions](https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
