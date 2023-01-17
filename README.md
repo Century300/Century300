@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VIPRE Security Group Launches New Endpoint Detection and Response &lpar;EDR&rpar; Technology Built for SMEs](https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes)
+- [Unpatched Zoho MangeEngine Products Under Active Cyberattack](https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack)
 - [A New Era Is Dawning in Cybersecurity, but Only the Best Algorithms Will Win](https://www.darkreading.com/cloud/a-new-era-is-dawning-in-cybersecurity-but-only-the-best-algorithms-will-win)
 - [Why Businesses Need to Think Like Hackers This Year](https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year)
 - [Cygna Labs Introduces Entitlement and Security for Active Directory](https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory)
 - [Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services)
 - [5 Cybersecurity Tips for Higher Education Institutions](https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions)
 - [3 Lessons Learned in Vulnerability Management](https://www.darkreading.com/edge-articles/3-lessons-learned-in-vulnerability-management)
-- [The Dangers of Default Cloud Configurations](https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations)
-- [Java, .NET Developers Prone to More Frequent Vulnerabilities](https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
