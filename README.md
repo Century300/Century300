@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Cybersecurity Tips for Higher Education Institutions](https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions)
 - [The Dangers of Default Cloud Configurations](https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations)
 - [Java, .NET Developers Prone to More Frequent Vulnerabilities](https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities)
 - [Why Mean Time to Repair Is Not Always A Useful Security Metric](https://www.darkreading.com/edge-articles/why-mean-time-to-repair-no-longer-serves-as-a-useful-security-metric)
@@ -83,7 +84,6 @@
 - [Malware Comes Standard With This Android TV Box on Amazon](https://www.darkreading.com/threat-intelligence/malware-standard-android-tv-box-amazon)
 - [Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads](https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads)
 - [CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools](https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools)
-- [Cloudflare Wins CISA Contract for Registry and Authoritative Domain Name System &lpar;DNS&rpar; Services](https://www.darkreading.com/attacks-breaches/cloudflare-wins-cisa-contract-for-registry-and-authoritative-domain-name-system-dns-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
