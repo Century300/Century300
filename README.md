@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cygna Labs Introduces Entitlement and Security for Active Directory](https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory)
+- [Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services)
 - [5 Cybersecurity Tips for Higher Education Institutions](https://www.darkreading.com/vulnerabilities-threats/5-cybersecurity-tips-for-higher-education-institutions)
+- [3 Lessons Learned in Vulnerability Management](https://www.darkreading.com/edge-articles/3-lessons-learned-in-vulnerability-management)
 - [The Dangers of Default Cloud Configurations](https://www.darkreading.com/cloud/the-dangers-of-default-cloud-configurations)
 - [Java, .NET Developers Prone to More Frequent Vulnerabilities](https://www.darkreading.com/threat-intelligence/java-net-developers-frequent-vulnerabilities)
 - [Why Mean Time to Repair Is Not Always A Useful Security Metric](https://www.darkreading.com/edge-articles/why-mean-time-to-repair-no-longer-serves-as-a-useful-security-metric)
 - [Norton LifeLock Warns on Password Manager Account Compromises](https://www.darkreading.com/remote-workforce/norton-lifelock-warns-on-password-manager-account-compromises)
-- [Malware Comes Standard With This Android TV Box on Amazon](https://www.darkreading.com/threat-intelligence/malware-standard-android-tv-box-amazon)
-- [Sneaky New Stealer Woos Corporate Workers Through Fake Zoom Downloads](https://www.darkreading.com/threat-intelligence/sneaky-stealer-woos-remote-workers-fake-zoom-downloads)
-- [CircleCI, LastPass, Okta, and Slack: Cyberattackers Pivot to Target Core Enterprise Tools](https://www.darkreading.com/attacks-breaches/circleci-lastpass-okta-slack-cyberattackers-target-enterprise-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
