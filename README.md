@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Opens New Opportunities for Cybercriminals: 5 Ways for Organizations to Get Ready](https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready)
+- [ICS Confronted by Attackers Armed With New Motives, Tactics, and Malware](https://www.darkreading.com/ics-ot/ics-confronted-by-attackers-armed-with-new-motives-tactics-and-malware)
 - [Abacus Group Acquires Gotham Security and GoVanguard to Expand Cybersecurity Service Offerings](https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings)
 - [Perception Point Launches Advanced Threat Protection and Rapid Remediation for Zendesk Customers](https://www.darkreading.com/attacks-breaches/perception-point-launches-advanced-threat-protection-and-rapid-remediation-for-zendesk-customers)
 - [New Coalfire Report Reveals CISOs Rising Influence](https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence)
 - [Cybersecurity and the Myth of Quiet Quitting](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting)
 - [Governance in the Cloud Shifts Left](https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left)
 - [Lares Research Highlights Top 5 Penetration Test Findings From 2022](https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022)
-- [Okta Expands No-Code Offerings for Identity Cloud](https://www.darkreading.com/dr-tech/okta-expands-no-code-offerings-for-identity-cloud)
-- [Initial Access Broker Market Booms, Posing Growing Threat to Enterprises](https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
