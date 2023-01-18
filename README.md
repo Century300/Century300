@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Coalfire Report Reveals CISOs Rising Influence](https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence)
+- [Cybersecurity and the Myth of Quiet Quitting](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting)
+- [Lares Research Highlights Top 5 Penetration Test Findings From 2022](https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022)
 - [Okta Expands No-Code Offerings for Identity Cloud](https://www.darkreading.com/dr-tech/okta-expands-no-code-offerings-for-identity-cloud)
 - [Initial Access Broker Market Booms, Posing Growing Threat to Enterprises](https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-)
 - [Secrets Rotation Recommended After CircleCI Security Incident](https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident)
 - [VIPRE Security Group Launches New Endpoint Detection and Response &lpar;EDR&rpar; Technology Built for SMEs](https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes)
 - [Unpatched Zoho MangeEngine Products Under Active Cyberattack](https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack)
-- [A New Era Is Dawning in Cybersecurity, but Only the Best Algorithms Will Win](https://www.darkreading.com/cloud/a-new-era-is-dawning-in-cybersecurity-but-only-the-best-algorithms-will-win)
-- [Why Businesses Need to Think Like Hackers This Year](https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year)
-- [Cygna Labs Introduces Entitlement and Security for Active Directory](https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
