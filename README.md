@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Okta Expands No-Code Offerings for Identity Cloud](https://www.darkreading.com/dr-tech/okta-expands-no-code-offerings-for-identity-cloud)
 - [Initial Access Broker Market Booms, Posing Growing Threat to Enterprises](https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-)
 - [Secrets Rotation Recommended After CircleCI Security Incident](https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident)
 - [VIPRE Security Group Launches New Endpoint Detection and Response &lpar;EDR&rpar; Technology Built for SMEs](https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes)
@@ -83,7 +84,6 @@
 - [A New Era Is Dawning in Cybersecurity, but Only the Best Algorithms Will Win](https://www.darkreading.com/cloud/a-new-era-is-dawning-in-cybersecurity-but-only-the-best-algorithms-will-win)
 - [Why Businesses Need to Think Like Hackers This Year](https://www.darkreading.com/attacks-breaches/why-businesses-need-to-think-like-hackers-this-year)
 - [Cygna Labs Introduces Entitlement and Security for Active Directory](https://www.darkreading.com/vulnerabilities-threats/cygna-labs-introduces-entitlement-and-security-for-active-directory)
-- [Microsoft Patches 4 SSRF Flaws in Separate Azure Cloud Services](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-four-ssrf-flaws-in-separate-azure-cloud-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
