@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerable Historian Servers Imperil OT Networks](https://www.darkreading.com/ics-ot/vulnerable-historian-servers-imperil-ot-networks)
 - [Founder and Majority Owner of Cryptocurrency Exchange Charged With Processing Over $700 Million of Illicit Funds](https://www.darkreading.com/attacks-breaches/founder-and-majority-owner-of-cryptocurrency-exchange-charged-with-processing-over-700-million-of-illicit-funds)
 - [Sophos Cuts Jobs to Focus on Cybersecurity Services](https://www.darkreading.com/operations/sophos-cuts-jobs-to-focus-on-cybersecurity-services-)
 - [ChatGPT Could Create Polymorphic Malware Wave, Researchers Warn](https://www.darkreading.com/threat-intelligence/chatgpt-could-create-polymorphic-malware-researchers-warn)
@@ -83,7 +84,6 @@
 - [KnowBe4 2022 Phishing Test Report Confirms Business-Related Emails Trend](https://www.darkreading.com/remote-workforce/knowbe4-2022-phishing-test-report-confirms-business-related-emails-trend)
 - [ChatGPT Opens New Opportunities for Cybercriminals: 5 Ways for Organizations to Get Ready](https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready)
 - [ICS Confronted by Attackers Armed With New Motives, Tactics, and Malware](https://www.darkreading.com/ics-ot/ics-confronted-by-attackers-armed-with-new-motives-tactics-and-malware)
-- [Abacus Group Acquires Gotham Security and GoVanguard to Expand Cybersecurity Service Offerings](https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
