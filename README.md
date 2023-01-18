@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Abacus Group Acquires Gotham Security and GoVanguard to Expand Cybersecurity Service Offerings](https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings)
+- [Perception Point Launches Advanced Threat Protection and Rapid Remediation for Zendesk Customers](https://www.darkreading.com/attacks-breaches/perception-point-launches-advanced-threat-protection-and-rapid-remediation-for-zendesk-customers)
 - [New Coalfire Report Reveals CISOs Rising Influence](https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence)
 - [Cybersecurity and the Myth of Quiet Quitting](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting)
+- [Governance in the Cloud Shifts Left](https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left)
 - [Lares Research Highlights Top 5 Penetration Test Findings From 2022](https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022)
 - [Okta Expands No-Code Offerings for Identity Cloud](https://www.darkreading.com/dr-tech/okta-expands-no-code-offerings-for-identity-cloud)
 - [Initial Access Broker Market Booms, Posing Growing Threat to Enterprises](https://www.darkreading.com/threat-intelligence/initial-access-broker-market-booms-poses-growing-threat-to-enterprise-orgs-)
-- [Secrets Rotation Recommended After CircleCI Security Incident](https://www.darkreading.com/application-security/secrets-rotation-recommended-after-circleci-security-incident)
-- [VIPRE Security Group Launches New Endpoint Detection and Response &lpar;EDR&rpar; Technology Built for SMEs](https://www.darkreading.com/remote-workforce/vipre-security-group-launches-new-endpoint-detection-and-response-edr-technology-built-for-smes)
-- [Unpatched Zoho MangeEngine Products Under Active Cyberattack](https://www.darkreading.com/application-security/unpatched-zoho-mangeengine-products-under-active-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
