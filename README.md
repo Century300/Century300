@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoControl Announces SaaS Security Platform Expansion With Shadow Apps Module Launch](https://www.darkreading.com/application-security/docontrol-announces-saas-security-platform-expansion-with-shadow-apps-module-launch)
+- [KnowBe4 2022 Phishing Test Report Confirms Business-Related Emails Trend](https://www.darkreading.com/remote-workforce/knowbe4-2022-phishing-test-report-confirms-business-related-emails-trend)
 - [ChatGPT Opens New Opportunities for Cybercriminals: 5 Ways for Organizations to Get Ready](https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready)
 - [ICS Confronted by Attackers Armed With New Motives, Tactics, and Malware](https://www.darkreading.com/ics-ot/ics-confronted-by-attackers-armed-with-new-motives-tactics-and-malware)
 - [Abacus Group Acquires Gotham Security and GoVanguard to Expand Cybersecurity Service Offerings](https://www.darkreading.com/vulnerabilities-threats/abacus-group-acquires-gotham-security-and-govanguard-to-expand-cybersecurity-service-offerings)
 - [Perception Point Launches Advanced Threat Protection and Rapid Remediation for Zendesk Customers](https://www.darkreading.com/attacks-breaches/perception-point-launches-advanced-threat-protection-and-rapid-remediation-for-zendesk-customers)
 - [New Coalfire Report Reveals CISOs Rising Influence](https://www.darkreading.com/threat-intelligence/new-coalfire-report-reveals-cisos-rising-influence)
 - [Cybersecurity and the Myth of Quiet Quitting](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-and-the-myth-of-quiet-quitting)
-- [Governance in the Cloud Shifts Left](https://www.darkreading.com/risk/governance-in-the-cloud-shifts-left)
-- [Lares Research Highlights Top 5 Penetration Test Findings From 2022](https://www.darkreading.com/vulnerabilities-threats/lares-research-highlights-top-5-penetration-test-findings-from-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
