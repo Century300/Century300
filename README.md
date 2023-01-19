@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Media Industry Is the Most Vulnerable to Cyber Attacks, Report Shows](https://www.darkreading.com/attacks-breaches/the-media-industry-is-the-most-vulnerable-to-cyber-attacks-report-shows)
 - [SynSaber Releases ICS Vulnerabilities &amp; CVEs Report Covering Second Half of 2022](https://www.darkreading.com/ics-ot/synsaber-releases-ics-vulnerabilities-cves-report-covering-second-half-of-2022)
 - [SecurityGen Identifies the Cybersecurity Priorities for Mobile Operators in 2023](https://www.darkreading.com/mobile/securitygen-identifies-the-cybersecurity-priorities-for-mobile-operators-in-2023)
 - [KnowBe4 to Offer $10,000 Women in Cybersecurity Scholarship and &lpar;ISC&rpar; 2 Certification Education Package](https://www.darkreading.com/operations/knowbe4-to-offer-10-000-women-in-cybersecurity-scholarship-and-isc-2-certification-education-package)
@@ -83,7 +84,6 @@
 - [Ethically Exploiting Vulnerabilities: A Play-by-Play](https://www.darkreading.com/vulnerabilities-threats/ethically-exploiting-vulnerabilities-a-play-by-play)
 - [Mendix and Software Improvement Group Launch a New Software Application Quality and Security Scanning Solution](https://www.darkreading.com/application-security/mendix-and-software-improvement-group-launch-a-new-software-application-quality-and-security-scanning-solution)
 - [New Research From EMA Reveals How Organizations Are Struggling to Develop Secure Software Applications](https://www.darkreading.com/application-security/new-research-from-ema-reveals-how-organizations-are-struggling-to-develop-secure-software-applications)
-- [Cybercriminals Target Telecom Provider Networks](https://www.darkreading.com/threat-intelligence/cybercriminals-target-telecom-provider-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
