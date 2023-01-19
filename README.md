@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals Target Telecom Provider Networks](https://www.darkreading.com/threat-intelligence/cybercriminals-target-telecom-provider-networks)
+- [Data Security in Multicloud: Limit Access, Increase Visibility](https://www.darkreading.com/tech-trends/data-security-in-multicloud-limit-access-increase-visibility)
 - [How Would the FTC Rule on Noncompetes Affect Data Security?](https://www.darkreading.com/edge-ask-the-experts/how-would-ftc-rule-noncompetes-affect-data-security)
 - [Vulnerable Historian Servers Imperil OT Networks](https://www.darkreading.com/ics-ot/vulnerable-historian-servers-imperil-ot-networks)
 - [Founder and Majority Owner of Cryptocurrency Exchange Charged With Processing Over $700 Million of Illicit Funds](https://www.darkreading.com/attacks-breaches/founder-and-majority-owner-of-cryptocurrency-exchange-charged-with-processing-over-700-million-of-illicit-funds)
 - [Sophos Cuts Jobs to Focus on Cybersecurity Services](https://www.darkreading.com/operations/sophos-cuts-jobs-to-focus-on-cybersecurity-services-)
 - [ChatGPT Could Create Polymorphic Malware Wave, Researchers Warn](https://www.darkreading.com/threat-intelligence/chatgpt-could-create-polymorphic-malware-researchers-warn)
 - [DoControl Announces SaaS Security Platform Expansion With Shadow Apps Module Launch](https://www.darkreading.com/application-security/docontrol-announces-saas-security-platform-expansion-with-shadow-apps-module-launch)
-- [KnowBe4 2022 Phishing Test Report Confirms Business-Related Emails Trend](https://www.darkreading.com/remote-workforce/knowbe4-2022-phishing-test-report-confirms-business-related-emails-trend)
-- [ChatGPT Opens New Opportunities for Cybercriminals: 5 Ways for Organizations to Get Ready](https://www.darkreading.com/vulnerabilities-threats/chatgpt-opens-new-opportunities-for-cybercriminals-5-ways-for-organizations-to-get-ready)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
