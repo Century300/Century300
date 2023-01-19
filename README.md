@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Roaming Mantis Uses DNS Changers to Target Users via Compromised Public Routers](https://www.darkreading.com/remote-workforce/roaming-mantis-uses-dns-changers-to-target-users-via-compromised-public-routers)
+- [Shift Identity Left: Preventing Identity-Based Breaches](https://www.darkreading.com/cloud/shift-identity-left-preventing-identity-based-breaches)
 - [Name That Toon: Poker Hand](https://www.darkreading.com/application-security/name-that-toon-poker-hand)
 - [The Media Industry Is the Most Vulnerable to Cyber Attacks, Report Shows](https://www.darkreading.com/attacks-breaches/the-media-industry-is-the-most-vulnerable-to-cyber-attacks-report-shows)
 - [SynSaber Releases ICS Vulnerabilities &amp; CVEs Report Covering Second Half of 2022](https://www.darkreading.com/ics-ot/synsaber-releases-ics-vulnerabilities-cves-report-covering-second-half-of-2022)
 - [SecurityGen Identifies the Cybersecurity Priorities for Mobile Operators in 2023](https://www.darkreading.com/mobile/securitygen-identifies-the-cybersecurity-priorities-for-mobile-operators-in-2023)
 - [KnowBe4 to Offer $10,000 Women in Cybersecurity Scholarship and &lpar;ISC&rpar; 2 Certification Education Package](https://www.darkreading.com/operations/knowbe4-to-offer-10-000-women-in-cybersecurity-scholarship-and-isc-2-certification-education-package)
 - [International Council of E-Commerce Consultants Launches Cybersecurity Essentials Professional Certificate Program on edX](https://www.darkreading.com/operations/international-council-of-e-commerce-consultants-launches-cybersecurity-essentials-professional-certificate-program-on-edx)
-- [Ethically Exploiting Vulnerabilities: A Play-by-Play](https://www.darkreading.com/vulnerabilities-threats/ethically-exploiting-vulnerabilities-a-play-by-play)
-- [Mendix and Software Improvement Group Launch a New Software Application Quality and Security Scanning Solution](https://www.darkreading.com/application-security/mendix-and-software-improvement-group-launch-a-new-software-application-quality-and-security-scanning-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
