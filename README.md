@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Poker Hand](https://www.darkreading.com/application-security/name-that-toon-poker-hand)
 - [The Media Industry Is the Most Vulnerable to Cyber Attacks, Report Shows](https://www.darkreading.com/attacks-breaches/the-media-industry-is-the-most-vulnerable-to-cyber-attacks-report-shows)
 - [SynSaber Releases ICS Vulnerabilities &amp; CVEs Report Covering Second Half of 2022](https://www.darkreading.com/ics-ot/synsaber-releases-ics-vulnerabilities-cves-report-covering-second-half-of-2022)
 - [SecurityGen Identifies the Cybersecurity Priorities for Mobile Operators in 2023](https://www.darkreading.com/mobile/securitygen-identifies-the-cybersecurity-priorities-for-mobile-operators-in-2023)
@@ -83,7 +84,6 @@
 - [International Council of E-Commerce Consultants Launches Cybersecurity Essentials Professional Certificate Program on edX](https://www.darkreading.com/operations/international-council-of-e-commerce-consultants-launches-cybersecurity-essentials-professional-certificate-program-on-edx)
 - [Ethically Exploiting Vulnerabilities: A Play-by-Play](https://www.darkreading.com/vulnerabilities-threats/ethically-exploiting-vulnerabilities-a-play-by-play)
 - [Mendix and Software Improvement Group Launch a New Software Application Quality and Security Scanning Solution](https://www.darkreading.com/application-security/mendix-and-software-improvement-group-launch-a-new-software-application-quality-and-security-scanning-solution)
-- [New Research From EMA Reveals How Organizations Are Struggling to Develop Secure Software Applications](https://www.darkreading.com/application-security/new-research-from-ema-reveals-how-organizations-are-struggling-to-develop-secure-software-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
