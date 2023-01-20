@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Evolution of Account Takeover Attacks: Initial Access Brokers for IoT](https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot)
 - [PayPal Breach Exposed PII of Nearly 35K Accounts](https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts)
 - [EmojiDeploy Attack Chain Targets Misconfigured Azure Service](https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service)
 - [Massive Adware Campaign Shuttered](https://www.darkreading.com/attacks-breaches/massive-adware-campaign-shuttered)
@@ -83,7 +84,6 @@
 - [Roaming Mantis Uses DNS Changers to Target Users via Compromised Public Routers](https://www.darkreading.com/remote-workforce/roaming-mantis-uses-dns-changers-to-target-users-via-compromised-public-routers)
 - [Shift Identity Left: Preventing Identity-Based Breaches](https://www.darkreading.com/cloud/shift-identity-left-preventing-identity-based-breaches)
 - [Name That Toon: Poker Hand](https://www.darkreading.com/application-security/name-that-toon-poker-hand)
-- [The Media Industry Is the Most Vulnerable to Cyber Attacks, Report Shows](https://www.darkreading.com/attacks-breaches/the-media-industry-is-the-most-vulnerable-to-cyber-attacks-report-shows)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
