@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [T-Mobile Breached Again, This Time Exposing 37M Customers&#39; Data](https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data)
+- [Ransomware Profits Decline as Victims Dig In, Refuse to Pay](https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay)
 - [Compromised Zendesk Employee Credentials Lead to Breach](https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach)
 - [GPT Emerges as Key AI Tech for Security Vendors](https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors)
 - [Critical Manufacturing Sector in the Bull&#39;s-eye](https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye)
 - [The Evolution of Account Takeover Attacks: Initial Access Brokers for IoT](https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot)
 - [PayPal Breach Exposed PII of Nearly 35K Accounts](https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts)
 - [EmojiDeploy Attack Chain Targets Misconfigured Azure Service](https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service)
-- [Massive Adware Campaign Shuttered](https://www.darkreading.com/attacks-breaches/massive-adware-campaign-shuttered)
-- [Attackers Crafted Custom Malware for Fortinet Zero-Day](https://www.darkreading.com/threat-intelligence/china-based-attacker-crafted-custom-malware-for-fortinet-zero-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
