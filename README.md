@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PayPal Breach Exposed PII of Nearly 35K Accounts](https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts)
+- [EmojiDeploy Attack Chain Targets Misconfigured Azure Service](https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service)
 - [Massive Adware Campaign Shuttered](https://www.darkreading.com/attacks-breaches/massive-adware-campaign-shuttered)
 - [Attackers Crafted Custom Malware for Fortinet Zero-Day](https://www.darkreading.com/threat-intelligence/china-based-attacker-crafted-custom-malware-for-fortinet-zero-day)
 - [Roaming Mantis Uses DNS Changers to Target Users via Compromised Public Routers](https://www.darkreading.com/remote-workforce/roaming-mantis-uses-dns-changers-to-target-users-via-compromised-public-routers)
 - [Shift Identity Left: Preventing Identity-Based Breaches](https://www.darkreading.com/cloud/shift-identity-left-preventing-identity-based-breaches)
 - [Name That Toon: Poker Hand](https://www.darkreading.com/application-security/name-that-toon-poker-hand)
 - [The Media Industry Is the Most Vulnerable to Cyber Attacks, Report Shows](https://www.darkreading.com/attacks-breaches/the-media-industry-is-the-most-vulnerable-to-cyber-attacks-report-shows)
-- [SynSaber Releases ICS Vulnerabilities &amp; CVEs Report Covering Second Half of 2022](https://www.darkreading.com/ics-ot/synsaber-releases-ics-vulnerabilities-cves-report-covering-second-half-of-2022)
-- [SecurityGen Identifies the Cybersecurity Priorities for Mobile Operators in 2023](https://www.darkreading.com/mobile/securitygen-identifies-the-cybersecurity-priorities-for-mobile-operators-in-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
