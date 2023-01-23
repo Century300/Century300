@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [No One Wants to Be Governed, Everyone Wants to Be Helped](https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped)
 - [Hunting Insider Threats on the Dark Web](https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web)
 - [Gartner Predicts 10% of Large Enterprises Will Have a Mature and Measurable Zero-Trust Program in Place by 2026](https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026)
 - [Cybersecurity Worries Around Hybrid Working Drop, but Many IT Leaders Still Concerned Over Cyber-Skills Gap](https://www.darkreading.com/remote-workforce/cybersecurity-worries-around-hybrid-working-drop-but-many-it-leaders-still-concerned-over-cyber-skills-gap)
@@ -83,7 +84,6 @@
 - [T-Mobile Breached Again, This Time Exposing 37M Customers&#39; Data](https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data)
 - [Ransomware Profits Decline as Victims Dig In, Refuse to Pay](https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay)
 - [Compromised Zendesk Employee Credentials Lead to Breach](https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach)
-- [GPT Emerges as Key AI Tech for Security Vendors](https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
