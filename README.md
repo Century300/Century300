@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hunting Insider Threats on the Dark Web](https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web)
+- [Gartner Predicts 10% of Large Enterprises Will Have a Mature and Measurable Zero-Trust Program in Place by 2026](https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026)
+- [Cybersecurity Worries Around Hybrid Working Drop, but Many IT Leaders Still Concerned Over Cyber-Skills Gap](https://www.darkreading.com/remote-workforce/cybersecurity-worries-around-hybrid-working-drop-but-many-it-leaders-still-concerned-over-cyber-skills-gap)
+- [Supply Chain Security Global Market Report 2022: Sector to Reach $3.5 Billion by 2027 at an 11% CAGR](https://www.darkreading.com/vulnerabilities-threats/supply-chain-security-global-market-report-2022-sector-to-reach-3-5-billion-by-2027-at-an-11-cagr)
 - [T-Mobile Breached Again, This Time Exposing 37M Customers&#39; Data](https://www.darkreading.com/attacks-breaches/t-mobile-breached-again-exposing-37m-customers-data)
 - [Ransomware Profits Decline as Victims Dig In, Refuse to Pay](https://www.darkreading.com/attacks-breaches/ransomware-profits-decline-victims-refuse-pay)
 - [Compromised Zendesk Employee Credentials Lead to Breach](https://www.darkreading.com/application-security/compromised-zendesk-employee-credentials-breach)
 - [GPT Emerges as Key AI Tech for Security Vendors](https://www.darkreading.com/dr-tech/gpt-emerges-ai-tech-security-vendors)
-- [Critical Manufacturing Sector in the Bull&#39;s-eye](https://www.darkreading.com/ics-ot/critical-manufacturing-sector-in-the-bulls-eye)
-- [The Evolution of Account Takeover Attacks: Initial Access Brokers for IoT](https://www.darkreading.com/attacks-breaches/the-evolution-of-account-takeover-attacks-initial-access-brokers-for-iot)
-- [PayPal Breach Exposed PII of Nearly 35K Accounts](https://www.darkreading.com/attacks-breaches/paypal-breach-exposed-pii-of-nearly-35k-accounts)
-- [EmojiDeploy Attack Chain Targets Misconfigured Azure Service](https://www.darkreading.com/cloud/emojideploy-attack-chain-targets-misconfigured-azure-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
