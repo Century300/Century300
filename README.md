@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pair of Galaxy App Store Bugs Offer Cyberattackers Mobile Device Access](https://www.darkreading.com/threat-intelligence/pair-bugs-galaxy-app-store-cyberattackers-mobile-device-access)
+- [Organizations Likely to Experience Ransomware Threat in the Next 24 Months, According to Info-Tech Research Group](https://www.darkreading.com/attacks-breaches/organizations-likely-to-experience-ransomware-threat-in-the-next-24-months-according-to-info-tech-research-group)
 - [Magnet Forensics Inc. Enters Into Definitive Agreement to be Acquired by Thoma Bravo](https://www.darkreading.com/operations/magnet-forensics-inc-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo)
 - [SOCs to Face Greater Challenges From Cybercriminals Targeting Governments and Media in 2023](https://www.darkreading.com/attacks-breaches/socs-to-face-greater-challenges-from-cybercriminals-targeting-governments-and-media-in-2023)
 - [FanDuel Sportsbook Bettors Exposed in Mailchimp Breach](https://www.darkreading.com/application-security/fanduel-sportsbook-bettors-exposed-in-mailchimp-breach)
 - [No One Wants to Be Governed, Everyone Wants to Be Helped](https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped)
 - [Hunting Insider Threats on the Dark Web](https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web)
 - [Gartner Predicts 10% of Large Enterprises Will Have a Mature and Measurable Zero-Trust Program in Place by 2026](https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026)
-- [Cybersecurity Worries Around Hybrid Working Drop, but Many IT Leaders Still Concerned Over Cyber-Skills Gap](https://www.darkreading.com/remote-workforce/cybersecurity-worries-around-hybrid-working-drop-but-many-it-leaders-still-concerned-over-cyber-skills-gap)
-- [Supply Chain Security Global Market Report 2022: Sector to Reach $3.5 Billion by 2027 at an 11% CAGR](https://www.darkreading.com/vulnerabilities-threats/supply-chain-security-global-market-report-2022-sector-to-reach-3-5-billion-by-2027-at-an-11-cagr)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
