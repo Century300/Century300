@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The 2022-2023 Cloud Awards Announces Its Finalists](https://www.darkreading.com/cloud/the-2022-2023-cloud-awards-announces-its-finalists-)
+- [&#39;DragonSpark&#39; Malware: East Asian Cyberattackers Create an OSS Frankenstein](https://www.darkreading.com/threat-intelligence/dragonspark-malware-east-asian-cyberattackers-oss-frankenstein)
+- [Microsoft to Block Excel Add-ins to Stop Office Exploits](https://www.darkreading.com/vulnerabilities-threats/microsoft-excel-add-ins-stop-office-exploits)
 - [Security and the Electric Vehicle Charging Infrastructure](https://www.darkreading.com/attacks-breaches/security-and-the-electric-vehicle-charging-infrastructure)
 - [Wallarm Aims to Reduce the Harm From Compromised APIs](https://www.darkreading.com/dr-tech/wallarm-aims-to-reduce-the-harm-from-compromised-apis)
 - [Pair of Galaxy App Store Bugs Offer Cyberattackers Mobile Device Access](https://www.darkreading.com/threat-intelligence/pair-bugs-galaxy-app-store-cyberattackers-mobile-device-access)
 - [Organizations Likely to Experience Ransomware Threat in the Next 24 Months, According to Info-Tech Research Group](https://www.darkreading.com/attacks-breaches/organizations-likely-to-experience-ransomware-threat-in-the-next-24-months-according-to-info-tech-research-group)
 - [Magnet Forensics Inc. Enters Into Definitive Agreement to be Acquired by Thoma Bravo](https://www.darkreading.com/operations/magnet-forensics-inc-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo)
-- [SOCs to Face Greater Challenges From Cybercriminals Targeting Governments and Media in 2023](https://www.darkreading.com/attacks-breaches/socs-to-face-greater-challenges-from-cybercriminals-targeting-governments-and-media-in-2023)
-- [FanDuel Sportsbook Bettors Exposed in Mailchimp Breach](https://www.darkreading.com/application-security/fanduel-sportsbook-bettors-exposed-in-mailchimp-breach)
-- [No One Wants to Be Governed, Everyone Wants to Be Helped](https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
