@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Armis State of Cyberwarfare and Trends Report: 2022-2023 Highlights Global IT and Security Professionals&#39; Sentiment on Cyberwarfare](https://www.darkreading.com/attacks-breaches/armis-state-of-cyberwarfare-and-trends-report-2022-2023-highlights-global-it-and-security-professionals-sentiment-on-cyberwarfare)
+- [Keeper Security Shares Password Best Practices Ahead of Data Privacy Day](https://www.darkreading.com/endpoint/keeper-security-shares-password-best-practices-ahead-of-data-privacy-day)
 - [The 2022-2023 Cloud Awards Announces Its Finalists](https://www.darkreading.com/cloud/the-2022-2023-cloud-awards-announces-its-finalists-)
 - [&#39;DragonSpark&#39; Malware: East Asian Cyberattackers Create an OSS Frankenstein](https://www.darkreading.com/threat-intelligence/dragonspark-malware-east-asian-cyberattackers-oss-frankenstein)
 - [Microsoft to Block Excel Add-ins to Stop Office Exploits](https://www.darkreading.com/vulnerabilities-threats/microsoft-excel-add-ins-stop-office-exploits)
 - [Security and the Electric Vehicle Charging Infrastructure](https://www.darkreading.com/attacks-breaches/security-and-the-electric-vehicle-charging-infrastructure)
 - [Wallarm Aims to Reduce the Harm From Compromised APIs](https://www.darkreading.com/dr-tech/wallarm-aims-to-reduce-the-harm-from-compromised-apis)
 - [Pair of Galaxy App Store Bugs Offer Cyberattackers Mobile Device Access](https://www.darkreading.com/threat-intelligence/pair-bugs-galaxy-app-store-cyberattackers-mobile-device-access)
-- [Organizations Likely to Experience Ransomware Threat in the Next 24 Months, According to Info-Tech Research Group](https://www.darkreading.com/attacks-breaches/organizations-likely-to-experience-ransomware-threat-in-the-next-24-months-according-to-info-tech-research-group)
-- [Magnet Forensics Inc. Enters Into Definitive Agreement to be Acquired by Thoma Bravo](https://www.darkreading.com/operations/magnet-forensics-inc-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
