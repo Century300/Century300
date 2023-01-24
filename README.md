@@ -81,9 +81,9 @@
 - [Armis State of Cyberwarfare and Trends Report: 2022-2023 Highlights Global IT and Security Professionals&#39; Sentiment on Cyberwarfare](https://www.darkreading.com/attacks-breaches/armis-state-of-cyberwarfare-and-trends-report-2022-2023-highlights-global-it-and-security-professionals-sentiment-on-cyberwarfare)
 - [Keeper Security Shares Password Best Practices Ahead of Data Privacy Day](https://www.darkreading.com/endpoint/keeper-security-shares-password-best-practices-ahead-of-data-privacy-day)
 - [The 2022-2023 Cloud Awards Announces Its Finalists](https://www.darkreading.com/cloud/the-2022-2023-cloud-awards-announces-its-finalists-)
+- [Chat Cybersecurity: AI Promises a Lot, But Can It Deliver?](https://www.darkreading.com/vulnerabilities-threats/chat-cybersecurity-ai-promises-a-lot-but-can-it-deliver-)
 - [&#39;DragonSpark&#39; Malware: East Asian Cyberattackers Create an OSS Frankenstein](https://www.darkreading.com/threat-intelligence/dragonspark-malware-east-asian-cyberattackers-oss-frankenstein)
 - [Microsoft to Block Excel Add-ins to Stop Office Exploits](https://www.darkreading.com/vulnerabilities-threats/microsoft-excel-add-ins-stop-office-exploits)
-- [Security and the Electric Vehicle Charging Infrastructure](https://www.darkreading.com/attacks-breaches/security-and-the-electric-vehicle-charging-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
