@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Wallarm Aims to Reduce the Harm From Compromised APIs](https://www.darkreading.com/dr-tech/wallarm-aims-to-reduce-the-harm-from-compromised-apis)
 - [Pair of Galaxy App Store Bugs Offer Cyberattackers Mobile Device Access](https://www.darkreading.com/threat-intelligence/pair-bugs-galaxy-app-store-cyberattackers-mobile-device-access)
 - [Organizations Likely to Experience Ransomware Threat in the Next 24 Months, According to Info-Tech Research Group](https://www.darkreading.com/attacks-breaches/organizations-likely-to-experience-ransomware-threat-in-the-next-24-months-according-to-info-tech-research-group)
 - [Magnet Forensics Inc. Enters Into Definitive Agreement to be Acquired by Thoma Bravo](https://www.darkreading.com/operations/magnet-forensics-inc-enters-into-definitive-agreement-to-be-acquired-by-thoma-bravo)
@@ -83,7 +84,6 @@
 - [FanDuel Sportsbook Bettors Exposed in Mailchimp Breach](https://www.darkreading.com/application-security/fanduel-sportsbook-bettors-exposed-in-mailchimp-breach)
 - [No One Wants to Be Governed, Everyone Wants to Be Helped](https://www.darkreading.com/edge-articles/no-one-wants-to-be-governed-everyone-wants-to-be-helped)
 - [Hunting Insider Threats on the Dark Web](https://www.darkreading.com/threat-intelligence/hunting-insider-threats-on-the-dark-web)
-- [Gartner Predicts 10% of Large Enterprises Will Have a Mature and Measurable Zero-Trust Program in Place by 2026](https://www.darkreading.com/operations/gartner-predicts-10-of-large-enterprises-will-have-a-mature-and-measurable-zero-trust-program-in-place-by-2026)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
