@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackBerry&#39;s Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute](https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute)
 - [Can&#39;t Fill Open Positions? Rewrite Your Minimum Requirements](https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements)
 - [Skyhawk Security Launches Multicloud Runtime Threat Detection and Response Platform](https://www.darkreading.com/dr-tech/skyhawk-security-launches-multicloud-runtime-threat-detection-and-response-platform)
 - [View from Davos: The Changing Economics of Cybercrime](https://www.darkreading.com/edge-articles/view-from-davos-the-changing-economics-of-cybercrime)
@@ -83,7 +84,6 @@
 - [Forescout Appoints Technology Veteran Barry Mainz as CEO](https://www.darkreading.com/risk/forescout-appoints-technology-veteran-barry-mainz-as-ceo)
 - [Fenix24 Releases White Paper Proposing New Cyber Incident Response Paradigm](https://www.darkreading.com/attacks-breaches/fenix24-releases-white-paper-proposing-new-cyber-incident-response-paradigm)
 - [Armis State of Cyberwarfare and Trends Report: 2022-2023 Highlights Global IT and Security Professionals&#39; Sentiment on Cyberwarfare](https://www.darkreading.com/attacks-breaches/armis-state-of-cyberwarfare-and-trends-report-2022-2023-highlights-global-it-and-security-professionals-sentiment-on-cyberwarfare)
-- [Keeper Security Shares Password Best Practices Ahead of Data Privacy Day](https://www.darkreading.com/endpoint/keeper-security-shares-password-best-practices-ahead-of-data-privacy-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
