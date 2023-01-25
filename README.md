@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations &lpar;TI Ops&rpar;](https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-)
+- [BD Publishes 2022 Cybersecurity Annual Report](https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report)
+- [Cybersecurity Budgets Increase for Retail &amp; Hospitality Industry](https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry)
 - [BlackBerry&#39;s Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute](https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute)
 - [Can&#39;t Fill Open Positions? Rewrite Your Minimum Requirements](https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements)
 - [Skyhawk Security Launches Multicloud Runtime Threat Detection and Response Platform](https://www.darkreading.com/dr-tech/skyhawk-security-launches-multicloud-runtime-threat-detection-and-response-platform)
 - [View from Davos: The Changing Economics of Cybercrime](https://www.darkreading.com/edge-articles/view-from-davos-the-changing-economics-of-cybercrime)
 - [Ticketmaster Blames Bots in Taylor Swift &#39;Eras&#39; Tour Debacle](https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle)
-- [Forescout Appoints Technology Veteran Barry Mainz as CEO](https://www.darkreading.com/risk/forescout-appoints-technology-veteran-barry-mainz-as-ceo)
-- [Fenix24 Releases White Paper Proposing New Cyber Incident Response Paradigm](https://www.darkreading.com/attacks-breaches/fenix24-releases-white-paper-proposing-new-cyber-incident-response-paradigm)
-- [Armis State of Cyberwarfare and Trends Report: 2022-2023 Highlights Global IT and Security Professionals&#39; Sentiment on Cyberwarfare](https://www.darkreading.com/attacks-breaches/armis-state-of-cyberwarfare-and-trends-report-2022-2023-highlights-global-it-and-security-professionals-sentiment-on-cyberwarfare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
