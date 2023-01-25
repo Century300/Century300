@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KORE Delivers IoT SAFE Solution for Massive IoT Use Cases with AWS](https://www.darkreading.com/iot/kore-delivers-iot-safe-solution-for-massive-iot-use-cases-with-aws)
+- [Data Privacy Day: Privado Flags Data Privacy Challenges In 2023 As It Hails Industry Stars](https://www.darkreading.com/endpoint/data-privacy-day-privado-flags-data-privacy-challenges-in-2023-as-it-hails-industry-stars)
+- [Microsoft Azure-Based Kerberos Attacks Crack Open Cloud Accounts](https://www.darkreading.com/cloud/microsoft-azure-kerberos-attacks-open-cloud-accounts)
 - [Zacks Investment Research Hack Exposes Data for 820K Customers](https://www.darkreading.com/application-security/zacks-investment-research-hack-exposes-820k-customers-data)
 - [Google Pushes Privacy to the Limit in Updated Terms of Service](https://www.darkreading.com/edge-articles/google-play-terms-of-service-push-privacy-to-the-limit)
 - [Healthcare Remains Top Target in 2022 ITRC Breach Report](https://www.darkreading.com/attacks-breaches/healthcare-remains-top-target-in-2022-itrc-breach-report)
 - [Despite Slowing Economy, Demand for Cybersecurity Workers Remains Strong](https://www.darkreading.com/operations/despite-slowing-economy-demand-for-cybersecurity-workers-remains-strong)
 - [Davos Debrief: Critical Shortage of Cybersecurity Talent Requires Action on Several Fronts, CompTIA Executive Says](https://www.darkreading.com/operations/davos-debrief-critical-shortage-of-cybersecurity-talent-requires-action-on-several-fronts-comptia-executive-says)
-- [Researchers Pioneer PoC Exploit for NSA-Reported Bug in Windows CryptoAPI](https://www.darkreading.com/application-security/researchers-poc-exploit-nsa-flaw-windows-cryptoapi)
-- [GoTo Encrypted Backups Stolen in LastPass Breach](https://www.darkreading.com/application-security/goto-encrypted-backups-stolen-lastpass-breach)
-- [Log4j Vulnerabilities Are Here to Stay — Are You Prepared?](https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
