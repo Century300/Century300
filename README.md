@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zacks Investment Research Hack Exposes Data for 820K Customers](https://www.darkreading.com/application-security/zacks-investment-research-hack-exposes-820k-customers-data)
+- [Google Pushes Privacy to the Limit in Updated Terms of Service](https://www.darkreading.com/edge-articles/google-play-terms-of-service-push-privacy-to-the-limit)
+- [Healthcare Remains Top Target in 2022 ITRC Breach Report](https://www.darkreading.com/attacks-breaches/healthcare-remains-top-target-in-2022-itrc-breach-report)
+- [Despite Slowing Economy, Demand for Cybersecurity Workers Remains Strong](https://www.darkreading.com/operations/despite-slowing-economy-demand-for-cybersecurity-workers-remains-strong)
+- [Davos Debrief: Critical Shortage of Cybersecurity Talent Requires Action on Several Fronts, CompTIA Executive Says](https://www.darkreading.com/operations/davos-debrief-critical-shortage-of-cybersecurity-talent-requires-action-on-several-fronts-comptia-executive-says)
 - [Researchers Pioneer PoC Exploit for NSA-Reported Bug in Windows CryptoAPI](https://www.darkreading.com/application-security/researchers-poc-exploit-nsa-flaw-windows-cryptoapi)
 - [GoTo Encrypted Backups Stolen in LastPass Breach](https://www.darkreading.com/application-security/goto-encrypted-backups-stolen-lastpass-breach)
 - [Log4j Vulnerabilities Are Here to Stay — Are You Prepared?](https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-)
-- [North Korea&#39;s Top APT Swindled $1B From Crypto Investors in 2022](https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022)
-- [Multicloud Security Challenges Will Persist in 2023](https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023)
-- [ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations &lpar;TI Ops&rpar;](https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-)
-- [BD Publishes 2022 Cybersecurity Annual Report](https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report)
-- [Cybersecurity Budgets Increase for Retail &amp; Hospitality Industry](https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
