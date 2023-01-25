@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Pioneer PoC Exploit for NSA-Reported Bug in Windows CryptoAPI](https://www.darkreading.com/application-security/researchers-poc-exploit-nsa-flaw-windows-cryptoapi)
 - [GoTo Encrypted Backups Stolen in LastPass Breach](https://www.darkreading.com/application-security/goto-encrypted-backups-stolen-lastpass-breach)
 - [Log4j Vulnerabilities Are Here to Stay — Are You Prepared?](https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-)
 - [North Korea&#39;s Top APT Swindled $1B From Crypto Investors in 2022](https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022)
@@ -83,7 +84,6 @@
 - [ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations &lpar;TI Ops&rpar;](https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-)
 - [BD Publishes 2022 Cybersecurity Annual Report](https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report)
 - [Cybersecurity Budgets Increase for Retail &amp; Hospitality Industry](https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry)
-- [BlackBerry&#39;s Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute](https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
