@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Skyhawk Security Launches Multicloud Runtime Threat Detection and Response Platform](https://www.darkreading.com/dr-tech/skyhawk-security-launches-multicloud-runtime-threat-detection-and-response-platform)
 - [View from Davos: The Changing Economics of Cybercrime](https://www.darkreading.com/edge-articles/view-from-davos-the-changing-economics-of-cybercrime)
 - [Ticketmaster Blames Bots in Taylor Swift &#39;Eras&#39; Tour Debacle](https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle)
 - [Forescout Appoints Technology Veteran Barry Mainz as CEO](https://www.darkreading.com/risk/forescout-appoints-technology-veteran-barry-mainz-as-ceo)
@@ -83,7 +84,6 @@
 - [Armis State of Cyberwarfare and Trends Report: 2022-2023 Highlights Global IT and Security Professionals&#39; Sentiment on Cyberwarfare](https://www.darkreading.com/attacks-breaches/armis-state-of-cyberwarfare-and-trends-report-2022-2023-highlights-global-it-and-security-professionals-sentiment-on-cyberwarfare)
 - [Keeper Security Shares Password Best Practices Ahead of Data Privacy Day](https://www.darkreading.com/endpoint/keeper-security-shares-password-best-practices-ahead-of-data-privacy-day)
 - [The 2022-2023 Cloud Awards Announces Its Finalists](https://www.darkreading.com/cloud/the-2022-2023-cloud-awards-announces-its-finalists-)
-- [Chat Cybersecurity: AI Promises a Lot, But Can It Deliver?](https://www.darkreading.com/vulnerabilities-threats/chat-cybersecurity-ai-promises-a-lot-but-can-it-deliver-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
