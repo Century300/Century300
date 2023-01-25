@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Log4j Vulnerabilities Are Here to Stay — Are You Prepared?](https://www.darkreading.com/attacks-breaches/log4j-vulnerabilities-are-here-to-stay-are-you-prepared-)
+- [North Korea&#39;s Top APT Swindled $1B From Crypto Investors in 2022](https://www.darkreading.com/remote-workforce/north-korea-apt-swindled-1b-crypto-investors-2022)
+- [Multicloud Security Challenges Will Persist in 2023](https://www.darkreading.com/zscaler/multicloud-security-challenges-will-persist-in-2023)
 - [ThreatConnect Extends Threat Intelligence Platform to Enable Threat Intelligence Operations &lpar;TI Ops&rpar;](https://www.darkreading.com/threat-intelligence/threatconnect-extends-threat-intelligence-platform-to-enable-threat-intelligence-operations-ti-ops-)
 - [BD Publishes 2022 Cybersecurity Annual Report](https://www.darkreading.com/attacks-breaches/bd-publishes-2022-cybersecurity-annual-report)
 - [Cybersecurity Budgets Increase for Retail &amp; Hospitality Industry](https://www.darkreading.com/attacks-breaches/cybersecurity-budgets-increase-for-retail-hospitality-industry)
 - [BlackBerry&#39;s Inaugural Quarterly Threat Intelligence Report Reveals Threat Actors Launch One Malicious Threat Every Minute](https://www.darkreading.com/attacks-breaches/blackberry-s-inaugural-quarterly-threat-intelligence-report-reveals-threat-actors-launch-one-malicious-threat-every-minute)
 - [Can&#39;t Fill Open Positions? Rewrite Your Minimum Requirements](https://www.darkreading.com/operations/can-t-fill-open-positions-rewrite-your-minimum-requirements)
-- [Skyhawk Security Launches Multicloud Runtime Threat Detection and Response Platform](https://www.darkreading.com/dr-tech/skyhawk-security-launches-multicloud-runtime-threat-detection-and-response-platform)
-- [View from Davos: The Changing Economics of Cybercrime](https://www.darkreading.com/edge-articles/view-from-davos-the-changing-economics-of-cybercrime)
-- [Ticketmaster Blames Bots in Taylor Swift &#39;Eras&#39; Tour Debacle](https://www.darkreading.com/attacks-breaches/ticketmaster-blames-bots-taylor-swift-eras-tour-debacle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
