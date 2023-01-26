@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Child&#39;s Garden of Cybersecurity](https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity)
 - [Federal Agencies Infested by Cyberattackers via Legit Remote Management Systems](https://www.darkreading.com/attacks-breaches/federal-agencies-infested-cyberattackers-legit-remote-management-systems)
 - [Dutchman Detained for Dealing Details of Tens of Millions of People](https://www.darkreading.com/attacks-breaches/dutchman-detained-dealing-details-millions-people)
+- [SaaS RootKit Exploits Hidden Rules in Microsoft 365](https://www.darkreading.com/vulnerabilities-threats/saas-rootkit-exploits-hidden-rules-in-microsoft-365-)
 - [Hive Ransomware Gang Loses Its Honeycomb, Thanks to DoJ](https://www.darkreading.com/vulnerabilities-threats/hive-ransomware-gang-loses-honeycomb)
 - [German Government, Airports, Banks Hit With Killnet DDoS Attacks](https://www.darkreading.com/ics-ot/german-government-airports-banks-hit-killnet-ddos-attacks)
 - [7 Insights From a Ransomware Negotiator](https://www.darkreading.com/attacks-breaches/7-insights-from-a-ransomware-negotiator)
 - [Companies Struggle With Zero Trust as Attackers Adapt to Get Around It](https://www.darkreading.com/remote-workforce/companies-struggle-zero-trust-attackers-adapt)
-- [New Study Examines Application Connectivity Security in the Cloud](https://www.darkreading.com/cloud/new-study-examines-application-connectivity-security-in-the-cloud)
-- [Center for Cyber Safety and Education Opens 2023 Cybersecurity Scholarship Applications](https://www.darkreading.com/operations/center-for-cyber-safety-and-education-opens-2023-cybersecurity-scholarship-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
