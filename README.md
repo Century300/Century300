@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hive Ransomware Gang Loses Its Honeycomb, Thanks to DoJ](https://www.darkreading.com/vulnerabilities-threats/hive-ransomware-gang-loses-honeycomb)
+- [German Government, Airports, Banks Hit With Killnet DDoS Attacks](https://www.darkreading.com/ics-ot/german-government-airports-banks-hit-killnet-ddos-attacks)
 - [7 Insights From a Ransomware Negotiator](https://www.darkreading.com/attacks-breaches/7-insights-from-a-ransomware-negotiator)
 - [Companies Struggle With Zero Trust as Attackers Adapt to Get Around It](https://www.darkreading.com/remote-workforce/companies-struggle-zero-trust-attackers-adapt)
 - [New Study Examines Application Connectivity Security in the Cloud](https://www.darkreading.com/cloud/new-study-examines-application-connectivity-security-in-the-cloud)
 - [Center for Cyber Safety and Education Opens 2023 Cybersecurity Scholarship Applications](https://www.darkreading.com/operations/center-for-cyber-safety-and-education-opens-2023-cybersecurity-scholarship-applications)
 - [Cybellum Releases Enhanced SBOM Management and Compliance Oversight for Manufacturers with New Release of its Product Security Platform](https://www.darkreading.com/application-security/cybellum-releases-enhanced-sbom-management-and-compliance-oversight-for-manufacturers-with-new-release-of-its-product-security-platform)
 - [NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial Intelligence](https://www.darkreading.com/risk/nist-risk-management-framework-aims-to-improve-trustworthiness-of-artificial-intelligence)
-- [Organizations Must Brace for Privacy Impacts This Year](https://www.darkreading.com/endpoint/organizations-must-brace-for-privacy-impacts-this-year)
-- [Snyk Gets Nod of Approval With ServiceNow Strategic Investment](https://www.darkreading.com/dr-tech/snyk-gets-nod-of-approval-with-servicenow-strategic-investment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
