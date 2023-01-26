@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybellum Releases Enhanced SBOM Management and Compliance Oversight for Manufacturers with New Release of its Product Security Platform](https://www.darkreading.com/application-security/cybellum-releases-enhanced-sbom-management-and-compliance-oversight-for-manufacturers-with-new-release-of-its-product-security-platform)
+- [NIST Risk Management Framework Aims to Improve Trustworthiness of Artificial Intelligence](https://www.darkreading.com/risk/nist-risk-management-framework-aims-to-improve-trustworthiness-of-artificial-intelligence)
 - [Organizations Must Brace for Privacy Impacts This Year](https://www.darkreading.com/endpoint/organizations-must-brace-for-privacy-impacts-this-year)
 - [Snyk Gets Nod of Approval With ServiceNow Strategic Investment](https://www.darkreading.com/dr-tech/snyk-gets-nod-of-approval-with-servicenow-strategic-investment)
 - [KORE Delivers IoT SAFE Solution for Massive IoT Use Cases with AWS](https://www.darkreading.com/iot/kore-delivers-iot-safe-solution-for-massive-iot-use-cases-with-aws)
 - [Data Privacy Day: Privado Flags Data Privacy Challenges In 2023 As It Hails Industry Stars](https://www.darkreading.com/endpoint/data-privacy-day-privado-flags-data-privacy-challenges-in-2023-as-it-hails-industry-stars)
 - [Microsoft Azure-Based Kerberos Attacks Crack Open Cloud Accounts](https://www.darkreading.com/cloud/microsoft-azure-kerberos-attacks-open-cloud-accounts)
 - [Zacks Investment Research Hack Exposes Data for 820K Customers](https://www.darkreading.com/application-security/zacks-investment-research-hack-exposes-820k-customers-data)
-- [Google Pushes Privacy to the Limit in Updated Terms of Service](https://www.darkreading.com/edge-articles/google-play-terms-of-service-push-privacy-to-the-limit)
-- [Healthcare Remains Top Target in 2022 ITRC Breach Report](https://www.darkreading.com/attacks-breaches/healthcare-remains-top-target-in-2022-itrc-breach-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
