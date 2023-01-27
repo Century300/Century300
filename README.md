@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical RCE Lexmark Printer Bug Has Public Exploit](https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit)
 - [Google: Influence Operator Dragonbridge Floods Social Media in Sprawling Cyber Campaign](https://www.darkreading.com/vulnerabilities-threats/google-influence-operator-dragonbridge-floods-social-media-sprawling-cyber-campaign)
 - [How Noob Website Hackers Can Become Persistent Threats](https://www.darkreading.com/attacks-breaches/noob-hackers-become-persistent-threats)
 - [3 Ways ChatGPT Will Change Infosec in 2023](https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023)
@@ -83,7 +84,6 @@
 - [A Child&#39;s Garden of Cybersecurity](https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity)
 - [Federal Agencies Infested by Cyberattackers via Legit Remote Management Systems](https://www.darkreading.com/attacks-breaches/federal-agencies-infested-cyberattackers-legit-remote-management-systems)
 - [Dutchman Detained for Dealing Details of Tens of Millions of People](https://www.darkreading.com/attacks-breaches/dutchman-detained-dealing-details-millions-people)
-- [SaaS RootKit Exploits Hidden Rules in Microsoft 365](https://www.darkreading.com/vulnerabilities-threats/saas-rootkit-exploits-hidden-rules-in-microsoft-365-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
