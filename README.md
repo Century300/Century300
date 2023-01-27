@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways ChatGPT Will Change Infosec in 2023](https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023)
 - [Riot Games Latest Video-Game Maker to Suffer Breach](https://www.darkreading.com/attacks-breaches/not-playing-games-riot-games-latest-video-game-maker-to-suffer-breach)
 - [A Child&#39;s Garden of Cybersecurity](https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity)
 - [Federal Agencies Infested by Cyberattackers via Legit Remote Management Systems](https://www.darkreading.com/attacks-breaches/federal-agencies-infested-cyberattackers-legit-remote-management-systems)
@@ -83,7 +84,6 @@
 - [SaaS RootKit Exploits Hidden Rules in Microsoft 365](https://www.darkreading.com/vulnerabilities-threats/saas-rootkit-exploits-hidden-rules-in-microsoft-365-)
 - [Hive Ransomware Gang Loses Its Honeycomb, Thanks to DoJ](https://www.darkreading.com/vulnerabilities-threats/hive-ransomware-gang-loses-honeycomb)
 - [German Government, Airports, Banks Hit With Killnet DDoS Attacks](https://www.darkreading.com/ics-ot/german-government-airports-banks-hit-killnet-ddos-attacks)
-- [7 Insights From a Ransomware Negotiator](https://www.darkreading.com/attacks-breaches/7-insights-from-a-ransomware-negotiator)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
