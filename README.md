@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprises Need to Do More to Assure Consumers About Privacy](https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy)
 - [Why Most Companies Still Don’t Know What’s on Their Network](https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network)
 - [On Data Privacy Day, Organizations Fail Data Privacy Expectations](https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations)
 - [Critical RCE Lexmark Printer Bug Has Public Exploit](https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit)
@@ -83,7 +84,6 @@
 - [How Noob Website Hackers Can Become Persistent Threats](https://www.darkreading.com/attacks-breaches/noob-hackers-become-persistent-threats)
 - [3 Ways ChatGPT Will Change Infosec in 2023](https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023)
 - [Riot Games Latest Video-Game Maker to Suffer Breach](https://www.darkreading.com/attacks-breaches/not-playing-games-riot-games-latest-video-game-maker-to-suffer-breach)
-- [A Child&#39;s Garden of Cybersecurity](https://www.darkreading.com/edge-slideshows/a-child-s-garden-of-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
