@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake Texts From the Boss, Bogus Job Postings and Frankenstein Shoppers — Oh My!](https://www.darkreading.com/vulnerabilities-threats/fake-texts-from-the-boss-bogus-job-postings-and-frankenstein-shoppers-oh-my-)
+- [Convincing, Malicious Google Ads Look to Lift Password Manager Logins](https://www.darkreading.com/threat-intelligence/convincing-malicious-google-ads-password-managers)
+- [Long Con Impersonates Financial Advisers to Target Victims](https://www.darkreading.com/remote-workforce/long-con-impersonates-financial-advisers-target-victims)
 - [The Journal, Artificial Intelligence in the Life Sciences, Highlights the Contributions of Women in Artificial Intelligence in the Life Sciences](https://www.darkreading.com/operations/the-journal-artificial-intelligence-in-the-life-sciences-highlights-the-contributions-of-women-in-artificial-intelligence-in-the-life-sciences)
 - [Spotlight on 2023 DevSecOps Trends](https://www.darkreading.com/application-security/spotlight-on-2023-devsecops-trends)
 - [Enterprises Don&#39;t Know What to Buy for Responsible AI](https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai)
 - [Enterprises Need to Do More to Assure Consumers About Privacy](https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy)
 - [Why Most Companies Still Don’t Know What’s on Their Network](https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network)
-- [On Data Privacy Day, Organizations Fail Data Privacy Expectations](https://www.darkreading.com/omdia/on-data-privacy-day-organizations-fail-data-privacy-expectations)
-- [Critical RCE Lexmark Printer Bug Has Public Exploit](https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit)
-- [Google: Influence Operator Dragonbridge Floods Social Media in Sprawling Cyber Campaign](https://www.darkreading.com/vulnerabilities-threats/google-influence-operator-dragonbridge-floods-social-media-sprawling-cyber-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
