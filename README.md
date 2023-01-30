@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Spotlight on 2023 DevSecOps Trends](https://www.darkreading.com/application-security/spotlight-on-2023-devsecops-trends)
 - [Enterprises Don&#39;t Know What to Buy for Responsible AI](https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai)
 - [Enterprises Need to Do More to Assure Consumers About Privacy](https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy)
 - [Why Most Companies Still Don’t Know What’s on Their Network](https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network)
@@ -83,7 +84,6 @@
 - [Critical RCE Lexmark Printer Bug Has Public Exploit](https://www.darkreading.com/cloud/critical-rce-lexmark-printer-bug-has-public-exploit)
 - [Google: Influence Operator Dragonbridge Floods Social Media in Sprawling Cyber Campaign](https://www.darkreading.com/vulnerabilities-threats/google-influence-operator-dragonbridge-floods-social-media-sprawling-cyber-campaign)
 - [How Noob Website Hackers Can Become Persistent Threats](https://www.darkreading.com/attacks-breaches/noob-hackers-become-persistent-threats)
-- [3 Ways ChatGPT Will Change Infosec in 2023](https://www.darkreading.com/vulnerabilities-threats/3-ways-chatgpt-will-change-infosec-in-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
