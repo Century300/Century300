@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Facebook Bug Allows 2FA Bypass Via Instagram](https://www.darkreading.com/application-security/facebook-bug-2fa-bypass-instagram)
 - [Fake Texts From the Boss, Bogus Job Postings and Frankenstein Shoppers — Oh My!](https://www.darkreading.com/vulnerabilities-threats/fake-texts-from-the-boss-bogus-job-postings-and-frankenstein-shoppers-oh-my-)
 - [Convincing, Malicious Google Ads Look to Lift Password Manager Logins](https://www.darkreading.com/threat-intelligence/convincing-malicious-google-ads-password-managers)
 - [Long Con Impersonates Financial Advisers to Target Victims](https://www.darkreading.com/remote-workforce/long-con-impersonates-financial-advisers-target-victims)
@@ -83,7 +84,6 @@
 - [Spotlight on 2023 DevSecOps Trends](https://www.darkreading.com/application-security/spotlight-on-2023-devsecops-trends)
 - [Enterprises Don&#39;t Know What to Buy for Responsible AI](https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai)
 - [Enterprises Need to Do More to Assure Consumers About Privacy](https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy)
-- [Why Most Companies Still Don’t Know What’s on Their Network](https://www.darkreading.com/risk/why-most-companies-still-don-t-know-what-s-on-their-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
