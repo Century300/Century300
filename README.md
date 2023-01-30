@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How $6 Can Buy Hacked Social Media &amp; Streaming Accounts From the Dark Web, Whizcase Study Reveals](https://www.darkreading.com/attacks-breaches/how-6-can-buy-hacked-social-media-streaming-accounts-from-the-dark-web-whizcase-study-reveals)
 - [Facebook Bug Allows 2FA Bypass Via Instagram](https://www.darkreading.com/application-security/facebook-bug-2fa-bypass-instagram)
 - [Fake Texts From the Boss, Bogus Job Postings and Frankenstein Shoppers — Oh My!](https://www.darkreading.com/vulnerabilities-threats/fake-texts-from-the-boss-bogus-job-postings-and-frankenstein-shoppers-oh-my-)
 - [Convincing, Malicious Google Ads Look to Lift Password Manager Logins](https://www.darkreading.com/threat-intelligence/convincing-malicious-google-ads-password-managers)
@@ -83,7 +84,6 @@
 - [The Journal, Artificial Intelligence in the Life Sciences, Highlights the Contributions of Women in Artificial Intelligence in the Life Sciences](https://www.darkreading.com/operations/the-journal-artificial-intelligence-in-the-life-sciences-highlights-the-contributions-of-women-in-artificial-intelligence-in-the-life-sciences)
 - [Spotlight on 2023 DevSecOps Trends](https://www.darkreading.com/application-security/spotlight-on-2023-devsecops-trends)
 - [Enterprises Don&#39;t Know What to Buy for Responsible AI](https://www.darkreading.com/tech-trends/enterprises-don-t-know-what-to-buy-for-responsible-ai)
-- [Enterprises Need to Do More to Assure Consumers About Privacy](https://www.darkreading.com/edge-threat-monitor/enterprises-need-to-do-more-to-assure-consumers-about-privacy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
