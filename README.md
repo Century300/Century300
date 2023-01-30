@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SentinelOne and KPMG Announce Alliance To Accelerate Cyber Investigations and Response](https://www.darkreading.com/threat-intelligence/sentinelone-and-kpmg-announce-alliance-to-accelerate-cyber-investigations-and-response)
+- [Cybercrime Ecosystem Spawns Lucrative Underground Gig Economy](https://www.darkreading.com/risk/cybercrime-ecosystem-spawns-lucrative-underground-gig-economy)
+- [10M JD Sports Customers&#39; Info Exposed in Data Breach](https://www.darkreading.com/attacks-breaches/10m-jd-sports-customers-info-exposed-in-data-breach)
 - [IT and Security Professionals Spend an Average of 4,300 Hours Annually Achieving or Maintaining Compliance](https://www.darkreading.com/risk/it-and-security-professionals-spend-an-average-of-4-300-hours-annually-achieving-or-maintaining-compliance)
 - [The Threat from Within: 71% of Business Leaders Surveyed Think Next Cybersecurity Breach Will Come from the Inside](https://www.darkreading.com/vulnerabilities-threats/the-threat-from-within-71-of-business-leaders-surveyed-think-next-cybersecurity-breach-will-come-from-the-inside)
 - [Make Developers the Driver of Software Security Excellence](https://www.darkreading.com/edge-articles/make-developers-the-driver-of-software-security-excellence)
 - [How $6 Can Buy Hacked Social Media &amp; Streaming Accounts From the Dark Web, Whizcase Study Reveals](https://www.darkreading.com/attacks-breaches/how-6-can-buy-hacked-social-media-streaming-accounts-from-the-dark-web-whizcase-study-reveals)
 - [Facebook Bug Allows 2FA Bypass Via Instagram](https://www.darkreading.com/application-security/facebook-bug-2fa-bypass-instagram)
-- [Fake Texts From the Boss, Bogus Job Postings and Frankenstein Shoppers — Oh My!](https://www.darkreading.com/vulnerabilities-threats/fake-texts-from-the-boss-bogus-job-postings-and-frankenstein-shoppers-oh-my-)
-- [Convincing, Malicious Google Ads Look to Lift Password Manager Logins](https://www.darkreading.com/threat-intelligence/convincing-malicious-google-ads-password-managers)
-- [Long Con Impersonates Financial Advisers to Target Victims](https://www.darkreading.com/remote-workforce/long-con-impersonates-financial-advisers-target-victims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
