@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia&#39;s Sandworm APT Launches Swarm of Wiper Attacks in Ukraine](https://www.darkreading.com/attacks-breaches/russia-sandworm-apt-swarm-wiper-attacks-ukraine)
 - [SentinelOne and KPMG Announce Alliance To Accelerate Cyber Investigations and Response](https://www.darkreading.com/threat-intelligence/sentinelone-and-kpmg-announce-alliance-to-accelerate-cyber-investigations-and-response)
 - [Cybercrime Ecosystem Spawns Lucrative Underground Gig Economy](https://www.darkreading.com/risk/cybercrime-ecosystem-spawns-lucrative-underground-gig-economy)
 - [10M JD Sports Customers&#39; Info Exposed in Data Breach](https://www.darkreading.com/attacks-breaches/10m-jd-sports-customers-info-exposed-in-data-breach)
@@ -83,7 +84,6 @@
 - [The Threat from Within: 71% of Business Leaders Surveyed Think Next Cybersecurity Breach Will Come from the Inside](https://www.darkreading.com/vulnerabilities-threats/the-threat-from-within-71-of-business-leaders-surveyed-think-next-cybersecurity-breach-will-come-from-the-inside)
 - [Make Developers the Driver of Software Security Excellence](https://www.darkreading.com/edge-articles/make-developers-the-driver-of-software-security-excellence)
 - [How $6 Can Buy Hacked Social Media &amp; Streaming Accounts From the Dark Web, Whizcase Study Reveals](https://www.darkreading.com/attacks-breaches/how-6-can-buy-hacked-social-media-streaming-accounts-from-the-dark-web-whizcase-study-reveals)
-- [Facebook Bug Allows 2FA Bypass Via Instagram](https://www.darkreading.com/application-security/facebook-bug-2fa-bypass-instagram)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
