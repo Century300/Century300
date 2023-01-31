@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NanoLock Addresses Global Industrial &amp; OT Cyber Demand with Expansions into Europe and North America](https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america)
+- [New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year](https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year)
 - [Aura and Nonprofit Cyversity Partner to Support a More Inclusive Cyber Workforce](https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce)
 - [Sentra Raises $30 Million Series A Financing to Meet Growing Demand for Data Security in the Cloud](https://www.darkreading.com/cloud/sentra-raises-30-million-series-a-financing-to-meet-growing-demand-for-data-security-in-the-cloud)
 - [Are Your Employees Thinking Critically About Their Online Behaviors?](https://www.darkreading.com/operations/are-your-employees-thinking-critically-about-their-online-behaviors)
 - [Russia&#39;s Sandworm APT Launches Swarm of Wiper Attacks in Ukraine](https://www.darkreading.com/attacks-breaches/russia-sandworm-apt-swarm-wiper-attacks-ukraine)
 - [SentinelOne and KPMG Announce Alliance To Accelerate Cyber Investigations and Response](https://www.darkreading.com/threat-intelligence/sentinelone-and-kpmg-announce-alliance-to-accelerate-cyber-investigations-and-response)
 - [Cybercrime Ecosystem Spawns Lucrative Underground Gig Economy](https://www.darkreading.com/risk/cybercrime-ecosystem-spawns-lucrative-underground-gig-economy)
-- [10M JD Sports Customers&#39; Info Exposed in Data Breach](https://www.darkreading.com/attacks-breaches/10m-jd-sports-customers-info-exposed-in-data-breach)
-- [IT and Security Professionals Spend an Average of 4,300 Hours Annually Achieving or Maintaining Compliance](https://www.darkreading.com/risk/it-and-security-professionals-spend-an-average-of-4-300-hours-annually-achieving-or-maintaining-compliance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
