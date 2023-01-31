@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical VMware RCE Vulnerabilities Targeted by Public Exploit Code](https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code)
 - [Phishers Trick Microsoft Into Granting Them &#39;Verified&#39; Cloud Partner Status](https://www.darkreading.com/cloud/phishers-trick-microsoft-granting-verified-cloud-partner-status)
 - [Poser Hackers Impersonate LockBit in SMB Cyberattacks](https://www.darkreading.com/application-security/poser-hackers-impersonate-lockbit-smb-cyberattacks)
 - [Will Cybersecurity Remain Recession-Proof in 2023?](https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023)
@@ -83,7 +84,6 @@
 - [New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year](https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year)
 - [Aura and Nonprofit Cyversity Partner to Support a More Inclusive Cyber Workforce](https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce)
 - [Sentra Raises $30 Million Series A Financing to Meet Growing Demand for Data Security in the Cloud](https://www.darkreading.com/cloud/sentra-raises-30-million-series-a-financing-to-meet-growing-demand-for-data-security-in-the-cloud)
-- [Are Your Employees Thinking Critically About Their Online Behaviors?](https://www.darkreading.com/operations/are-your-employees-thinking-critically-about-their-online-behaviors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
