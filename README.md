@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Will Cybersecurity Remain Recession-Proof in 2023?](https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023)
 - [NanoLock Addresses Global Industrial &amp; OT Cyber Demand with Expansions into Europe and North America](https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america)
 - [New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year](https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year)
 - [Aura and Nonprofit Cyversity Partner to Support a More Inclusive Cyber Workforce](https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce)
@@ -83,7 +84,6 @@
 - [Are Your Employees Thinking Critically About Their Online Behaviors?](https://www.darkreading.com/operations/are-your-employees-thinking-critically-about-their-online-behaviors)
 - [Russia&#39;s Sandworm APT Launches Swarm of Wiper Attacks in Ukraine](https://www.darkreading.com/attacks-breaches/russia-sandworm-apt-swarm-wiper-attacks-ukraine)
 - [SentinelOne and KPMG Announce Alliance To Accelerate Cyber Investigations and Response](https://www.darkreading.com/threat-intelligence/sentinelone-and-kpmg-announce-alliance-to-accelerate-cyber-investigations-and-response)
-- [Cybercrime Ecosystem Spawns Lucrative Underground Gig Economy](https://www.darkreading.com/risk/cybercrime-ecosystem-spawns-lucrative-underground-gig-economy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
