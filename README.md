@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nearly All Firms Have Ties With Breached Third Parties](https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties)
 - [CISA to Open Supply Chain Risk Management Office](https://www.darkreading.com/application-security/cisa-to-open-supply-chain-risk-management-office)
 - [Greater Incident Complexity, Shift in How Threat Actors Use Stolen Data, Will Drive the Cyber Threat Landscape in 2023, Says Beazley Report](https://www.darkreading.com/attacks-breaches/greater-incident-complexity-a-shift-in-the-way-threat-actors-use-stolen-data-and-a-rise-in-us-class-actions-will-drive-the-cyber-threat-landscape-in-2023-according-to-beazley-report)
 - [Radiant Logic Signs Definitive Agreement to Acquire Brainwave GRC](https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc)
@@ -83,7 +84,6 @@
 - [Inside Killnet: Pro-Russia Hacktivist Group&#39;s Support and Influence Grows](https://www.darkreading.com/ics-ot/killnet-pro-russia-hacktivist-group-support-influence-grows)
 - [Beating the Odds: 3 Challenges Women Face in the Cybersecurity Industry](https://www.darkreading.com/operations/beating-the-odds-3-challenges-women-face-in-the-cybersecurity-industry)
 - [Gem Security Emerges From Stealth With $11M, Unveils Cloud TDIR Platform for Faster Response to Cloud Threats](https://www.darkreading.com/cloud/gem-security-emerges-from-stealth-with-11m-unveils-cloud-tdir-platform-for-faster-response-to-cloud-threats)
-- [Command-Injection Bug in Cisco Industrial Gear Opens Devices to Complete Takeover](https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
