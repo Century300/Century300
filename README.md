@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Can Disrupting DNS Communications Thwart a Malware Attack?](https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-)
 - [Firmware Flaws Could Spell &#39;Lights Out&#39; for Servers](https://www.darkreading.com/vulnerabilities-threats/firmware-flaws-could-spell-lights-out-for-servers)
 - [Critical VMware RCE Vulnerabilities Targeted by Public Exploit Code](https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code)
 - [Phishers Trick Microsoft Into Granting Them &#39;Verified&#39; Cloud Partner Status](https://www.darkreading.com/cloud/phishers-trick-microsoft-granting-verified-cloud-partner-status)
@@ -83,7 +84,6 @@
 - [Will Cybersecurity Remain Recession-Proof in 2023?](https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023)
 - [NanoLock Addresses Global Industrial &amp; OT Cyber Demand with Expansions into Europe and North America](https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america)
 - [New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year](https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year)
-- [Aura and Nonprofit Cyversity Partner to Support a More Inclusive Cyber Workforce](https://www.darkreading.com/operations/aura-and-nonprofit-cyversity-partner-to-support-a-more-inclusive-cyber-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
