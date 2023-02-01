@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gem Security Emerges From Stealth With $11M, Unveils Cloud TDIR Platform for Faster Response to Cloud Threats](https://www.darkreading.com/cloud/gem-security-emerges-from-stealth-with-11m-unveils-cloud-tdir-platform-for-faster-response-to-cloud-threats)
+- [Command-Injection Bug in Cisco Industrial Gear Opens Devices to Complete Takeover](https://www.darkreading.com/ics-ot/command-injection-bug-cisco-industrial-gear-devices-complete-takeover)
+- [Contrast Security Launches Alliance Program to Change the Way Customers Scale Their Security Solutions](https://www.darkreading.com/attacks-breaches/contrast-security-launches-alliance-program-to-change-the-way-customers-scale-their-security-solutions)
+- [Fortra&#39;s Terranova Security 2022 Gone Phishing Tournament Results Reveal Large Organizations at Highest Risk of Compromising Data](https://www.darkreading.com/attacks-breaches/fortra-s-terranova-security-2022-gone-phishing-tournament-results-reveal-large-organizations-at-highest-risk-of-compromising-data)
 - [Application Security Must Be Nonnegotiable](https://www.darkreading.com/application-security/application-security-must-be-nonnegotiable)
 - [KnowBe4 to Offer $10,000 to Black Americans in Cybersecurity Scholarship](https://www.darkreading.com/operations/knowbe4-to-offer-10-000-to-black-americans-in-cybersecurity-scholarship)
 - [ManageEngine Study Finds United States Enterprises Hit by Short-Staffed Security Operations Centers](https://www.darkreading.com/operations/manageengine-study-finds-united-states-enterprises-hit-by-short-staffed-security-operations-centers)
 - [Google Fi Users Caught Up in T-Mobile Breach](https://www.darkreading.com/attacks-breaches/google-fi-users-caught-up-in-t-mobile-breach)
-- [Checkmarx Launches Threat Intelligence for Open Source Packages](https://www.darkreading.com/dr-tech/checkmarx-launches-threat-intelligence-for-open-source-packages)
-- [How Can Disrupting DNS Communications Thwart a Malware Attack?](https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-)
-- [Firmware Flaws Could Spell &#39;Lights Out&#39; for Servers](https://www.darkreading.com/vulnerabilities-threats/firmware-flaws-could-spell-lights-out-for-servers)
-- [Critical VMware RCE Vulnerabilities Targeted by Public Exploit Code](https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
