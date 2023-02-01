@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Application Security Must Be Nonnegotiable](https://www.darkreading.com/application-security/application-security-must-be-nonnegotiable)
+- [KnowBe4 to Offer $10,000 to Black Americans in Cybersecurity Scholarship](https://www.darkreading.com/operations/knowbe4-to-offer-10-000-to-black-americans-in-cybersecurity-scholarship)
+- [ManageEngine Study Finds United States Enterprises Hit by Short-Staffed Security Operations Centers](https://www.darkreading.com/operations/manageengine-study-finds-united-states-enterprises-hit-by-short-staffed-security-operations-centers)
+- [Google Fi Users Caught Up in T-Mobile Breach](https://www.darkreading.com/attacks-breaches/google-fi-users-caught-up-in-t-mobile-breach)
+- [Checkmarx Launches Threat Intelligence for Open Source Packages](https://www.darkreading.com/dr-tech/checkmarx-launches-threat-intelligence-for-open-source-packages)
 - [How Can Disrupting DNS Communications Thwart a Malware Attack?](https://www.darkreading.com/edge-ask-the-experts/how-can-disrupting-dns-communications-thwart-a-malware-attack-)
 - [Firmware Flaws Could Spell &#39;Lights Out&#39; for Servers](https://www.darkreading.com/vulnerabilities-threats/firmware-flaws-could-spell-lights-out-for-servers)
 - [Critical VMware RCE Vulnerabilities Targeted by Public Exploit Code](https://www.darkreading.com/application-security/critical-vmware-rce-vulnerabilities-targeted-public-exploit-code)
-- [Phishers Trick Microsoft Into Granting Them &#39;Verified&#39; Cloud Partner Status](https://www.darkreading.com/cloud/phishers-trick-microsoft-granting-verified-cloud-partner-status)
-- [Poser Hackers Impersonate LockBit in SMB Cyberattacks](https://www.darkreading.com/application-security/poser-hackers-impersonate-lockbit-smb-cyberattacks)
-- [Will Cybersecurity Remain Recession-Proof in 2023?](https://www.darkreading.com/operations/will-cybersecurity-remain-recession-proof-in-2023)
-- [NanoLock Addresses Global Industrial &amp; OT Cyber Demand with Expansions into Europe and North America](https://www.darkreading.com/ics-ot/nanolock-addresses-global-industrial-ot-cyber-demand-with-expansions-into-europe-and-north-america)
-- [New Survey Reveals 40% of Companies Experienced a Data Leak in the Past Year](https://www.darkreading.com/attacks-breaches/new-survey-reveals-40-of-companies-experienced-a-data-leak-in-the-past-year)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
