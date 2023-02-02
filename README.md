@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Managing the Governance Model for Software Development in a No-Code Ecosystem](https://www.darkreading.com/application-security/managing-the-governance-model-for-software-development-in-a-no-code-ecosystem)
+- [Cybersecurity Leaders Launch First Attack Matrix for Software Supply Chain Security](https://www.darkreading.com/attacks-breaches/cybersecurity-leaders-launch-first-attack-matrix-for-software-supply-chain-security)
+- [ChatGPT May Already Be Used In Nation State Cyberattacks, Say IT Decision Makers in BlackBerry Global Research](https://www.darkreading.com/attacks-breaches/chatgpt-may-already-be-used-in-nation-state-cyberattacks-say-it-decision-makers-in-blackberry-global-research)
 - [Discrepancies Discovered in Vulnerability Severity Ratings](https://www.darkreading.com/application-security/discrepancies-discovered-in-vulnerability-severity-ratings)
 - [Lazarus Group Rises Again, to Gather Intelligence on Energy, Healthcare Firms](https://www.darkreading.com/ics-ot/lazarus-group-rises-again-gather-intelligence-energy-healthcare-firms)
 - [Why CISOs Should Care About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites)
 - [Nearly All Firms Have Ties With Breached Third Parties](https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties)
 - [CISA to Open Supply Chain Risk Management Office](https://www.darkreading.com/application-security/cisa-to-open-supply-chain-risk-management-office)
-- [Greater Incident Complexity, Shift in How Threat Actors Use Stolen Data, Will Drive the Cyber Threat Landscape in 2023, Says Beazley Report](https://www.darkreading.com/attacks-breaches/greater-incident-complexity-a-shift-in-the-way-threat-actors-use-stolen-data-and-a-rise-in-us-class-actions-will-drive-the-cyber-threat-landscape-in-2023-according-to-beazley-report)
-- [Radiant Logic Signs Definitive Agreement to Acquire Brainwave GRC](https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc)
-- [Vista Equity Partners Completes Acquisition of KnowBe4](https://www.darkreading.com/remote-workforce/vista-equity-partners-completes-acquisition-of-knowbe4)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
