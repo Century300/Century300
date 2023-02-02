@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Discrepancies Discovered in Vulnerability Severity Ratings](https://www.darkreading.com/application-security/discrepancies-discovered-in-vulnerability-severity-ratings)
 - [Lazarus Group Rises Again, to Gather Intelligence on Energy, Healthcare Firms](https://www.darkreading.com/ics-ot/lazarus-group-rises-again-gather-intelligence-energy-healthcare-firms)
 - [Why CISOs Should Care About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites)
 - [Nearly All Firms Have Ties With Breached Third Parties](https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties)
@@ -83,7 +84,6 @@
 - [Greater Incident Complexity, Shift in How Threat Actors Use Stolen Data, Will Drive the Cyber Threat Landscape in 2023, Says Beazley Report](https://www.darkreading.com/attacks-breaches/greater-incident-complexity-a-shift-in-the-way-threat-actors-use-stolen-data-and-a-rise-in-us-class-actions-will-drive-the-cyber-threat-landscape-in-2023-according-to-beazley-report)
 - [Radiant Logic Signs Definitive Agreement to Acquire Brainwave GRC](https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc)
 - [Vista Equity Partners Completes Acquisition of KnowBe4](https://www.darkreading.com/remote-workforce/vista-equity-partners-completes-acquisition-of-knowbe4)
-- [Inside Killnet: Pro-Russia Hacktivist Group&#39;s Support and Influence Grows](https://www.darkreading.com/ics-ot/killnet-pro-russia-hacktivist-group-support-influence-grows)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
