@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lazarus Group Rises Again, to Gather Intelligence on Energy, Healthcare Firms](https://www.darkreading.com/ics-ot/lazarus-group-rises-again-gather-intelligence-energy-healthcare-firms)
 - [Why CISOs Should Care About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/why-cisos-should-care-about-brand-impersonation-scam-sites)
 - [Nearly All Firms Have Ties With Breached Third Parties](https://www.darkreading.com/cloud/nearly-all-firms-have-ties-breached-third-parties)
 - [CISA to Open Supply Chain Risk Management Office](https://www.darkreading.com/application-security/cisa-to-open-supply-chain-risk-management-office)
@@ -83,7 +84,6 @@
 - [Radiant Logic Signs Definitive Agreement to Acquire Brainwave GRC](https://www.darkreading.com/risk/radiant-logic-signs-definitive-agreement-to-acquire-brainwave-grc)
 - [Vista Equity Partners Completes Acquisition of KnowBe4](https://www.darkreading.com/remote-workforce/vista-equity-partners-completes-acquisition-of-knowbe4)
 - [Inside Killnet: Pro-Russia Hacktivist Group&#39;s Support and Influence Grows](https://www.darkreading.com/ics-ot/killnet-pro-russia-hacktivist-group-support-influence-grows)
-- [Beating the Odds: 3 Challenges Women Face in the Cybersecurity Industry](https://www.darkreading.com/operations/beating-the-odds-3-challenges-women-face-in-the-cybersecurity-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
