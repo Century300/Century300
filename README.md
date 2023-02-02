@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [6 Examples of the Evolution of a Scam Site](https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site)
+- [Rising ‘Firebrick Ostrich’ BEC Group Launches Industrial-Scale Cyberattacks](https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks)
 - [Patch Critical Bug Now: QNAP NAS Devices Ripe for the Slaughter](https://www.darkreading.com/remote-workforce/patch-critical-bug-qnap-nas-devices-ripe-slaughter)
 - [Managing the Governance Model for Software Development in a No-Code Ecosystem](https://www.darkreading.com/application-security/managing-the-governance-model-for-software-development-in-a-no-code-ecosystem)
 - [AppSec Playbook 2023: Study of 829M Attacks on 1,400 Websites](https://www.darkreading.com/application-security/appsec-playbook-2023-study-of-829m-attacks-on-1-400-websites)
 - [Cybersecurity Leaders Launch First Attack Matrix for Software Supply Chain Security](https://www.darkreading.com/attacks-breaches/cybersecurity-leaders-launch-first-attack-matrix-for-software-supply-chain-security)
 - [ChatGPT May Already Be Used In Nation State Cyberattacks, Say IT Decision Makers in BlackBerry Global Research](https://www.darkreading.com/attacks-breaches/chatgpt-may-already-be-used-in-nation-state-cyberattacks-say-it-decision-makers-in-blackberry-global-research)
 - [Discrepancies Discovered in Vulnerability Severity Ratings](https://www.darkreading.com/application-security/discrepancies-discovered-in-vulnerability-severity-ratings)
-- [Lazarus Group Rises Again, to Gather Intelligence on Energy, Healthcare Firms](https://www.darkreading.com/ics-ot/lazarus-group-rises-again-gather-intelligence-energy-healthcare-firms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
