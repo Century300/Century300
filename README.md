@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Scores of Redis Servers Infested by Sophisticated Custom-Built Malware](https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware)
 - [How the Cloud Is Shifting CISO Priorities](https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities)
-- [MITRE Releases Tool to Design Cyber Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
+- [MITRE Releases Tool to Design Cyber-Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
 - [Hornetsecurity Combats QR Code Phishing With Launch of New Technology](https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology)
 - [Korelock Launches IOT Smart Lock Technology Company](https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company)
 - [Cyberattack on Fintech Firm Disrupts Derivatives Trading Globally](https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading)
