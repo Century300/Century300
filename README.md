@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MITRE Releases Tool to Design Cyber Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
 - [Hornetsecurity Combats QR Code Phishing With Launch of New Technology](https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology)
 - [Korelock Launches IOT Smart Lock Technology Company](https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company)
 - [Cyberattack on Fintech Firm Disrupts Derivatives Trading Globally](https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading)
 - [6 Examples of the Evolution of a Scam Site](https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site)
-- [Rising ‘Firebrick Ostrich’ BEC Group Launches Industrial-Scale Cyberattacks](https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks)
+- [Rising &#39;Firebrick Ostrich&#39; BEC Group Launches Industrial-Scale Cyberattacks](https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks)
 - [Patch Critical Bug Now: QNAP NAS Devices Ripe for the Slaughter](https://www.darkreading.com/remote-workforce/patch-critical-bug-qnap-nas-devices-ripe-slaughter)
 - [Managing the Governance Model for Software Development in a No-Code Ecosystem](https://www.darkreading.com/application-security/managing-the-governance-model-for-software-development-in-a-no-code-ecosystem)
-- [AppSec Playbook 2023: Study of 829M Attacks on 1,400 Websites](https://www.darkreading.com/application-security/appsec-playbook-2023-study-of-829m-attacks-on-1-400-websites)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
