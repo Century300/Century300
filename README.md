@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [What CISOs Can Do About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites)
+- [Iran-Backed Actor Behind &#39;Holy Souls&#39; Cyberattack on Charlie Hebdo, Microsoft Says](https://www.darkreading.com/attacks-breaches/iran-backed-actor-behind-cyberattack-charlie-hebdo-microsoft-says)
 - [Scores of Redis Servers Infested by Sophisticated Custom-Built Malware](https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware)
 - [How the Cloud Is Shifting CISO Priorities](https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities)
 - [MITRE Releases Tool to Design Cyber-Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
 - [Hornetsecurity Combats QR Code Phishing With Launch of New Technology](https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology)
 - [Korelock Launches IOT Smart Lock Technology Company](https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company)
 - [Cyberattack on Fintech Firm Disrupts Derivatives Trading Globally](https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading)
-- [6 Examples of the Evolution of a Scam Site](https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
