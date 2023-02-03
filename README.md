@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scores of Redis Servers Infested by Sophisticated Custom-Built Malware](https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware)
 - [How the Cloud Is Shifting CISO Priorities](https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities)
 - [MITRE Releases Tool to Design Cyber Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
 - [Hornetsecurity Combats QR Code Phishing With Launch of New Technology](https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology)
@@ -83,7 +84,6 @@
 - [Cyberattack on Fintech Firm Disrupts Derivatives Trading Globally](https://www.darkreading.com/attacks-breaches/cyberattack-fintech-firm-disrupts-derivatives-trading)
 - [6 Examples of the Evolution of a Scam Site](https://www.darkreading.com/attacks-breaches/6-examples-of-the-evolution-of-a-scam-site)
 - [Rising &#39;Firebrick Ostrich&#39; BEC Group Launches Industrial-Scale Cyberattacks](https://www.darkreading.com/remote-workforce/rising-firebrick-ostrich-bec-group-launches-industrial-scale-cyberattacks)
-- [Patch Critical Bug Now: QNAP NAS Devices Ripe for the Slaughter](https://www.darkreading.com/remote-workforce/patch-critical-bug-qnap-nas-devices-ripe-slaughter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
