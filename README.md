@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Cybercriminals Are Operationalizing Money Laundering and What to Do About It](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it)
+- [Name That Edge Toon: For the Birds](https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds)
 - [What CISOs Can Do About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites)
 - [Iran-Backed Actor Behind &#39;Holy Souls&#39; Cyberattack on Charlie Hebdo, Microsoft Says](https://www.darkreading.com/attacks-breaches/iran-backed-actor-behind-cyberattack-charlie-hebdo-microsoft-says)
 - [Scores of Redis Servers Infested by Sophisticated Custom-Built Malware](https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware)
 - [How the Cloud Is Shifting CISO Priorities](https://www.darkreading.com/cloud/how-the-cloud-is-shifting-ciso-priorities)
 - [MITRE Releases Tool to Design Cyber-Resilient Systems](https://www.darkreading.com/dr-tech/mitre-releases-tool-to-design-cyber-resilient-systems)
 - [Hornetsecurity Combats QR Code Phishing With Launch of New Technology](https://www.darkreading.com/mobile/hornetsecurity-combats-qr-code-phishing-with-launch-of-new-technology)
-- [Korelock Launches IOT Smart Lock Technology Company](https://www.darkreading.com/iot/korelock-launches-iot-smart-lock-technology-company)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
