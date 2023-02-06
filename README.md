@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Consumer Watchdog Reports: CA Privacy Board OKs Landmark Personal Data Regulations, Some Key Protections Left Out](https://www.darkreading.com/remote-workforce/consumer-watchdog-reports-ca-privacy-board-oks-landmark-personal-data-regulations-some-key-protections-left-out)
+- [Crypto Drainers Are Ready to Ransack Investor Wallets](https://www.darkreading.com/threat-intelligence/crypto-drainers-ransack-investor-wallets)
+- [Global Ransomware Attack on VMware EXSi Hypervisors Continues to Spread](https://www.darkreading.com/cloud/global-ransomware-attack-vmware-exsi-hypervisors-continues-to-spread)
 - [Cadien Cyber Response Launches to Deliver Incident Response &amp; Complex Digital Forensics Services](https://www.darkreading.com/operations/cadien-cyber-response-launches-to-deliver-incident-response-complex-digital-forensics-services)
 - [Cybercrime Shows No Signs of Slowing Down](https://www.darkreading.com/zscaler/cybercrime-shows-no-signs-of-slowing-down)
 - [Patching &amp; Passwords Lead the Problem Pack for Cyber-Teams](https://www.darkreading.com/cloud/patching-passwords-problem-pack-cyber-teams)
 - [How Cybercriminals Are Operationalizing Money Laundering and What to Do About It](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it)
 - [Name That Edge Toon: For the Birds](https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds)
-- [What CISOs Can Do About Brand Impersonation Scam Sites](https://www.darkreading.com/edge-articles/what-cisos-can-do-about-brand-impersonation-scam-sites)
-- [Iran-Backed Actor Behind &#39;Holy Souls&#39; Cyberattack on Charlie Hebdo, Microsoft Says](https://www.darkreading.com/attacks-breaches/iran-backed-actor-behind-cyberattack-charlie-hebdo-microsoft-says)
-- [Scores of Redis Servers Infested by Sophisticated Custom-Built Malware](https://www.darkreading.com/attacks-breaches/redis-servers-infested-sophisticated-custom-built-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
