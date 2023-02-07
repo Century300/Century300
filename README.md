@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DataDome&#39;s Inaugural E-Commerce Holiday Bot &amp; Online Fraud Report Reveals the U.S. as the Top Source of Bot Attacks](https://www.darkreading.com/attacks-breaches/datadome-s-inaugural-e-commerce-holiday-bot-online-fraud-report-reveals-the-u-s-as-the-top-source-of-bot-attacks)
 - [5 Ways to Survive Scam Season — or Rather, Tax Season](https://www.darkreading.com/edge-articles/5-ways-to-survive-scam-season-or-rather-tax-season)
 - [Optimizing Cybersecurity Investments in a Constrained Spending Environment](https://www.darkreading.com/operations/optimizing-cybersecurity-investments-in-a-constrained-spending-environment)
 - [A Fool With a Tool Is Still a Fool: A Cyber Take](https://www.darkreading.com/zscaler/a-fool-with-a-tool-is-still-a-fool-a-cyber-take)
@@ -83,7 +84,6 @@
 - [Consumer Watchdog Reports: CA Privacy Board OKs Landmark Personal Data Regulations, Some Key Protections Left Out](https://www.darkreading.com/remote-workforce/consumer-watchdog-reports-ca-privacy-board-oks-landmark-personal-data-regulations-some-key-protections-left-out)
 - [Crypto Drainers Are Ready to Ransack Investor Wallets](https://www.darkreading.com/threat-intelligence/crypto-drainers-ransack-investor-wallets)
 - [Global Ransomware Attack on VMware EXSi Hypervisors Continues to Spread](https://www.darkreading.com/cloud/global-ransomware-attack-vmware-exsi-hypervisors-continues-to-spread)
-- [Cadien Cyber Response Launches to Deliver Incident Response &amp; Complex Digital Forensics Services](https://www.darkreading.com/operations/cadien-cyber-response-launches-to-deliver-incident-response-complex-digital-forensics-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
