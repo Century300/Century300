@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Industrial Cybersecurity Innovator Opscura Receives $9.4M in Series A Funding as Critical Operations Transform](https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform)
+- [Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks](https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks)
 - [With TikTok Bans, the Time for Operational Governance Is Now](https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now)
 - [Backdoor in Dingo Cryptocurrency Allows Creator to Steal &lpar;Nearly&rpar; Everything](https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything)
 - [Coalfire Compliance Essentials Optimized for Automated Evidence Collection](https://www.darkreading.com/risk/coalfire-compliance-essentials-optimized-for-automated-evidence-collection)
 - [ARMO Integrates ChatGPT to Help Users Secure Kubernetes](https://www.darkreading.com/application-security/armo-integrates-chatgpt-to-help-users-secure-kubernetes)
 - [Intel 471 Announces Powerful and Scalable Attack Surface Protection Solution Suite](https://www.darkreading.com/attacks-breaches/intel-471-announces-powerful-and-scalable-attack-surface-protection-solution-suite)
 - [Infosec Launches New Office Comedy Themed Security Awareness Training Series](https://www.darkreading.com/remote-workforce/infosec-launches-new-office-comedy-themed-security-awareness-training-series)
-- [Financial Institutions Are Suffering From Increasingly Sophisticated Cyberattacks, According to Contrast Security](https://www.darkreading.com/attacks-breaches/financial-institutions-are-suffering-from-increasingly-sophisticated-cyberattacks-according-to-contrast-security)
-- [Valtix Survey: 95% of Organizations Say Multi-cloud Is a &#39;Strategic Priority&#39; but Only 58% Have the Security Architecture to Support It](https://www.darkreading.com/cloud/valtix-survey-95-of-organizations-say-multi-cloud-is-a-strategic-priority-but-only-58-have-the-security-architecture-to-support-it)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
