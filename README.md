@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Fool With a Tool Is Still a Fool: A Cyber Take](https://www.darkreading.com/zscaler/a-fool-with-a-tool-is-still-a-fool-a-cyber-take)
 - [Consumer Watchdog Reports: CA Privacy Board OKs Landmark Personal Data Regulations, Some Key Protections Left Out](https://www.darkreading.com/remote-workforce/consumer-watchdog-reports-ca-privacy-board-oks-landmark-personal-data-regulations-some-key-protections-left-out)
 - [Crypto Drainers Are Ready to Ransack Investor Wallets](https://www.darkreading.com/threat-intelligence/crypto-drainers-ransack-investor-wallets)
 - [Global Ransomware Attack on VMware EXSi Hypervisors Continues to Spread](https://www.darkreading.com/cloud/global-ransomware-attack-vmware-exsi-hypervisors-continues-to-spread)
@@ -83,7 +84,6 @@
 - [Cybercrime Shows No Signs of Slowing Down](https://www.darkreading.com/zscaler/cybercrime-shows-no-signs-of-slowing-down)
 - [Patching &amp; Passwords Lead the Problem Pack for Cyber-Teams](https://www.darkreading.com/cloud/patching-passwords-problem-pack-cyber-teams)
 - [How Cybercriminals Are Operationalizing Money Laundering and What to Do About It](https://www.darkreading.com/vulnerabilities-threats/how-cybercriminals-are-operationalizing-money-laundering-and-what-to-do-about-it)
-- [Name That Edge Toon: For the Birds](https://www.darkreading.com/edge-articles/name-that-edge-toon-for-the-birds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
