@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [With TikTok Bans, the Time for Operational Governance Is Now](https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now)
+- [Backdoor in Dingo Cryptocurrency Allows Creator to Steal &lpar;Nearly&rpar; Everything](https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything)
+- [Coalfire Compliance Essentials Optimized for Automated Evidence Collection](https://www.darkreading.com/risk/coalfire-compliance-essentials-optimized-for-automated-evidence-collection)
+- [ARMO Integrates ChatGPT to Help Users Secure Kubernetes](https://www.darkreading.com/application-security/armo-integrates-chatgpt-to-help-users-secure-kubernetes)
 - [Intel 471 Announces Powerful and Scalable Attack Surface Protection Solution Suite](https://www.darkreading.com/attacks-breaches/intel-471-announces-powerful-and-scalable-attack-surface-protection-solution-suite)
 - [Infosec Launches New Office Comedy Themed Security Awareness Training Series](https://www.darkreading.com/remote-workforce/infosec-launches-new-office-comedy-themed-security-awareness-training-series)
 - [Financial Institutions Are Suffering From Increasingly Sophisticated Cyberattacks, According to Contrast Security](https://www.darkreading.com/attacks-breaches/financial-institutions-are-suffering-from-increasingly-sophisticated-cyberattacks-according-to-contrast-security)
 - [Valtix Survey: 95% of Organizations Say Multi-cloud Is a &#39;Strategic Priority&#39; but Only 58% Have the Security Architecture to Support It](https://www.darkreading.com/cloud/valtix-survey-95-of-organizations-say-multi-cloud-is-a-strategic-priority-but-only-58-have-the-security-architecture-to-support-it)
-- [DataDome&#39;s Inaugural E-Commerce Holiday Bot &amp; Online Fraud Report Reveals the U.S. as the Top Source of Bot Attacks](https://www.darkreading.com/attacks-breaches/datadome-s-inaugural-e-commerce-holiday-bot-online-fraud-report-reveals-the-u-s-as-the-top-source-of-bot-attacks)
-- [5 Ways to Survive Scam Season — or Rather, Tax Season](https://www.darkreading.com/edge-articles/5-ways-to-survive-scam-season-or-rather-tax-season)
-- [Optimizing Cybersecurity Investments in a Constrained Spending Environment](https://www.darkreading.com/operations/optimizing-cybersecurity-investments-in-a-constrained-spending-environment)
-- [A Fool With a Tool Is Still a Fool: A Cyber Take](https://www.darkreading.com/zscaler/a-fool-with-a-tool-is-still-a-fool-a-cyber-take)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
