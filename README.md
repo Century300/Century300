@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Optimize Your Cyber Insurance Coverage](https://www.darkreading.com/microsoft/how-to-optimize-your-cyber-insurance-coverage)
+- [Why Some Cloud Services Vulnerabilities Are So Hard to Fix](https://www.darkreading.com/edge-articles/why-some-cloud-services-vulnerabilities-are-so-hard-to-fix)
 - [Cloud Apps Still Demand Way More Privileges Than They Use](https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use)
 - [&#39;Money Lover&#39; Finance App Exposes User Data](https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data)
 - [Fresh, Buggy Clop Ransomware Variant Targets Linux Systems](https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems)
 - [DPRK Using Unpatched Zimbra Devices to Spy on Researchers](https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-)
 - [New Banking Trojan Targeting 100M Pix Payment Platform Accounts](https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts)
 - [Industrial Cybersecurity Innovator Opscura Receives $9.4M in Series A Funding as Critical Operations Transform](https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform)
-- [Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks](https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks)
-- [With TikTok Bans, the Time for Operational Governance Is Now](https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
