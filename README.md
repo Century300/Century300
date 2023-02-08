@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SecuriThings Brings Managed Service Capabilities to Physical Security, With New Managed Service Platform](https://www.darkreading.com/physical-security/securithings-brings-managed-service-capabilities-to-physical-security-with-new-managed-service-platform)
+- [GAO Calls for Action to Protect Cybersecurity of Critical Energy, Communications Networks](https://www.darkreading.com/ics-ot/gao-calls-for-action-to-protect-cybersecurity-of-critical-infrastructure-)
+- [Corelight Expands Partnership With CrowdStrike to Provide Network Detection and Response Technology for CrowdStrike Services](https://www.darkreading.com/cloud/corelight-expands-partnership-with-crowdstrike-to-provide-network-detection-and-response-technology-for-crowdstrike-services)
+- [Almost Half of Executives Expect a Rise in Cyber Events Targeting Accounting and Financial Data in Year Ahead](https://www.darkreading.com/attacks-breaches/almost-half-of-executives-expect-a-rise-in-cyber-events-targeting-accounting-and-financial-data-in-year-ahead)
+- [Gigamon Exits NDR Market, Sells ThreatInsight Business to Fortinet](https://www.darkreading.com/omdia/gigamon-exits-ndr-market-sells-threatinsight-business-to-fortinet)
 - [It Isn&#39;t Time to Worry About Quantum Computing Just Yet](https://www.darkreading.com/vulnerabilities-threats/it-isn-t-time-to-worry-about-quantum-computing-just-yet)
+- [Toyota Global Supply Chain Portal Flaw Put Hacker in the Driver&#39;s Seat](https://www.darkreading.com/attacks-breaches/researcher-finds-backdoor-in-toyota-global-supply-chain-application)
 - [Why ChatGPT Isn&#39;t a Death Sentence for Cyber Defenders](https://www.darkreading.com/vulnerabilities-threats/why-chatgpt-isn-t-a-death-sentence-for-cyber-defenders)
-- [How to Optimize Your Cyber Insurance Coverage](https://www.darkreading.com/microsoft/how-to-optimize-your-cyber-insurance-coverage)
-- [Why Some Cloud Services Vulnerabilities Are So Hard to Fix](https://www.darkreading.com/edge-articles/why-some-cloud-services-vulnerabilities-are-so-hard-to-fix)
-- [Cloud Apps Still Demand Way More Privileges Than They Use](https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use)
-- [&#39;Money Lover&#39; Finance App Exposes User Data](https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data)
-- [Fresh, Buggy Clop Ransomware Variant Targets Linux Systems](https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems)
-- [DPRK Using Unpatched Zimbra Devices to Spy on Researchers](https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
