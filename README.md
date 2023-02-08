@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&lpar;ISC&rpar;² Makes Certified in Cybersecurity Exam Available in More Languages to Address Global Workforce Shortage](https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage)
+- [CISA Releases Recovery Script for Victims of ESXiArgs Ransomware](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware)
+- [Jailbreak Trick Breaks ChatGPT Content Safeguards](https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-)
 - [Building Up IAM in a Multicloud World](https://www.darkreading.com/dr-tech/building-up-iam-in-a-multicloud-world)
 - [Exclu Shutdown Underscores Outsized Role Messaging Apps Play in Cybercrime](https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime)
 - [ActZero Unveils Next-Generation MDR Platform](https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform)
 - [Leading Energy Companies Tap Fortress to Build and Operate Industry Repository to Identify and Remediate Critical Software Vulnerabilities](https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities)
 - [Skybox Security Appoints Cybersecurity Veteran Mordecai Rosen as CEO](https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo)
-- [SecuriThings Brings Managed Service Capabilities to Physical Security, With New Managed Service Platform](https://www.darkreading.com/physical-security/securithings-brings-managed-service-capabilities-to-physical-security-with-new-managed-service-platform)
-- [GAO Calls for Action to Protect Cybersecurity of Critical Energy, Communications Networks](https://www.darkreading.com/ics-ot/gao-calls-for-action-to-protect-cybersecurity-of-critical-infrastructure-)
-- [Corelight Expands Partnership With CrowdStrike to Provide Network Detection and Response Technology for CrowdStrike Services](https://www.darkreading.com/cloud/corelight-expands-partnership-with-crowdstrike-to-provide-network-detection-and-response-technology-for-crowdstrike-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
