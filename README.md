@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Fresh &lpar;Buggy&rpar; Clop Ransomware Variant Targets Linux Systems](https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems)
+- [Cloud Apps Still Demand Way More Privileges Than They Use](https://www.darkreading.com/tech-trends/cloud-apps-still-demand-way-more-privileges-than-they-use)
+- [&#39;Money Lover&#39; Finance App Exposes User Data](https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data)
+- [Fresh, Buggy Clop Ransomware Variant Targets Linux Systems](https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems)
 - [DPRK Using Unpatched Zimbra Devices to Spy on Researchers](https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-)
 - [New Banking Trojan Targeting 100M Pix Payment Platform Accounts](https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts)
 - [Industrial Cybersecurity Innovator Opscura Receives $9.4M in Series A Funding as Critical Operations Transform](https://www.darkreading.com/ics-ot/industrial-cybersecurity-innovator-opscura-receives-9-4m-in-series-a-funding-as-critical-operations-transform)
 - [Ongoing VMware ESXi Ransomware Attack Highlights Inherent Virtualization Risks](https://www.darkreading.com/cloud/ongoing-vmware-esxi-ransomware-attack-virtualization-risks)
 - [With TikTok Bans, the Time for Operational Governance Is Now](https://www.darkreading.com/operations/with-tiktok-bans-the-time-for-operational-governance-is-now)
-- [Backdoor in Dingo Cryptocurrency Allows Creator to Steal &lpar;Nearly&rpar; Everything](https://www.darkreading.com/risk/backdoor-dingo-cryptocurrency-allows-creator-steal-nearly-everything)
-- [Coalfire Compliance Essentials Optimized for Automated Evidence Collection](https://www.darkreading.com/risk/coalfire-compliance-essentials-optimized-for-automated-evidence-collection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
