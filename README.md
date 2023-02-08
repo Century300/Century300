@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [It Isn&#39;t Time to Worry About Quantum Computing Just Yet](https://www.darkreading.com/vulnerabilities-threats/it-isn-t-time-to-worry-about-quantum-computing-just-yet)
 - [Why ChatGPT Isn&#39;t a Death Sentence for Cyber Defenders](https://www.darkreading.com/vulnerabilities-threats/why-chatgpt-isn-t-a-death-sentence-for-cyber-defenders)
 - [How to Optimize Your Cyber Insurance Coverage](https://www.darkreading.com/microsoft/how-to-optimize-your-cyber-insurance-coverage)
 - [Why Some Cloud Services Vulnerabilities Are So Hard to Fix](https://www.darkreading.com/edge-articles/why-some-cloud-services-vulnerabilities-are-so-hard-to-fix)
@@ -83,7 +84,6 @@
 - [&#39;Money Lover&#39; Finance App Exposes User Data](https://www.darkreading.com/application-security/-money-lover-finance-app-exposes-user-data)
 - [Fresh, Buggy Clop Ransomware Variant Targets Linux Systems](https://www.darkreading.com/endpoint/fresh-buggy-clop-ransomware-variant-targets-linux-systems)
 - [DPRK Using Unpatched Zimbra Devices to Spy on Researchers](https://www.darkreading.com/remote-workforce/dprk-using-unpatched-zimbra-devices-to-spy-on-researchers-)
-- [New Banking Trojan Targeting 100M Pix Payment Platform Accounts](https://www.darkreading.com/risk/new-bank-trojan-targeting-100m-pix-payment-platform-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
