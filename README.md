@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Twitter Implements API Paywall; But Will That Solve Its Enormous Bot Crisis?](https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis)
+- [Twitter Implements API Paywall, but Will That Solve Its Enormous Bot Crisis?](https://www.darkreading.com/endpoint/twitter-api-paywall-solve-enormous-bot-crisis)
 - [Lessons From the Cold War: How Quality Trumps Quantity in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity)
 - [&lpar;ISC&rpar;² Makes Certified in Cybersecurity Exam Available in More Languages to Address Global Workforce Shortage](https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage)
 - [CISA Releases Recovery Script for Victims of ESXiArgs Ransomware](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware)
