@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Avast Threat Report: Consumers Plagued With Refund Fraud, Tech Support Scams, and Adware](https://www.darkreading.com/attacks-breaches/avast-threat-report-consumers-plagued-with-refund-fraud-tech-support-scams-and-adware)
+- [4 Ways to Handle AI Decision-Making in Cybersecurity](https://www.darkreading.com/cloud/4-ways-to-handle-ai-decision-making-in-cybersecurity)
 - [7 Critical Cloud Threats Facing the Enterprise in 2023](https://www.darkreading.com/cloud/7-critical-cloud-threats-facing-enterprise-2023)
 - [SynSaber Releases ICS CVE Retrospective: 3 Years of CISA Advisories](https://www.darkreading.com/ics-ot/synsaber-releases-ics-cve-retrospective-3-years-of-cisa-advisories)
 - [Kaspersky Finds Growing Number of Parents Experiencing Ransomware Attacks on Children&#39;s Schools](https://www.darkreading.com/attacks-breaches/kaspersky-finds-growing-number-of-parents-experiencing-ransomware-attacks-on-children-s-schools)
 - [Cryptographers Decode Secret Letters of Mary, Queen of Scots](https://www.darkreading.com/operations/crypotographers-decode-secret-letters-mary-queen-scots)
 - [Phishing Surges Ahead, as ChatGPT &amp; AI Loom](https://www.darkreading.com/vulnerabilities-threats/bolstered-chatgpt-tools-phishing-surged-ahead)
 - [NIST Picks IoT Standard for Small Electronics Cybersecurity](https://www.darkreading.com/ics-ot/nist-picks-iot-standard-lightweight-electronics-cybersecurity)
-- [In Perfect Harmony: Cybersecurity Regulation Harmonization](https://www.darkreading.com/risk/prioritizing-cybersecurity-regulation-harmonization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
