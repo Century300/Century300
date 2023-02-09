@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons From the Cold War: How Quality Trumps Quantity in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/lessons-from-the-cold-war-how-quality-trumps-quantity-in-cybersecurity)
 - [&lpar;ISC&rpar;² Makes Certified in Cybersecurity Exam Available in More Languages to Address Global Workforce Shortage](https://www.darkreading.com/operations/-isc-makes-certified-in-cybersecurity-exam-available-in-more-languages-to-address-global-workforce-shortage)
 - [CISA Releases Recovery Script for Victims of ESXiArgs Ransomware](https://www.darkreading.com/vulnerabilities-threats/cisa-releases-recovery-script-for-victims-of-esxiargs-ransomware)
 - [Jailbreak Trick Breaks ChatGPT Content Safeguards](https://www.darkreading.com/application-security/chatgpt-content-safeguards-busted-with-new-jailbreak-trick-)
@@ -83,7 +84,6 @@
 - [Exclu Shutdown Underscores Outsized Role Messaging Apps Play in Cybercrime](https://www.darkreading.com/endpoint/exclu-shutdown-underscores-outsized-apps-messaging-apps-role-in-cybercrime)
 - [ActZero Unveils Next-Generation MDR Platform](https://www.darkreading.com/attacks-breaches/actzero-unveils-next-generation-mdr-platform)
 - [Leading Energy Companies Tap Fortress to Build and Operate Industry Repository to Identify and Remediate Critical Software Vulnerabilities](https://www.darkreading.com/ics-ot/leading-energy-companies-tap-fortress-to-build-and-operate-industry-repository-to-identify-and-remediate-critical-software-vulnerabilities)
-- [Skybox Security Appoints Cybersecurity Veteran Mordecai Rosen as CEO](https://www.darkreading.com/vulnerabilities-threats/skybox-security-appoints-cybersecurity-veteran-mordecai-rosen-as-ceo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
