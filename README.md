@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits](https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits)
 - [Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst](https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst)
 - [MagicWeb Mystery Highlights Nobelium Attacker&#39;s Sophistication](https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication)
 - [Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
@@ -83,7 +84,6 @@
 - [Addressing the Elephant in the Room: Getting Developers &amp; Security Teams to Work Together](https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together)
 - [Google Cloud Connects Chronicle to Health ISAC Feed](https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed)
 - [Reddit Breached With Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/reddit-breached-with-stolen-employee-credentials)
-- [NewsPenguin Goes Phishing for Maritime &amp; Military Secrets](https://www.darkreading.com/risk/newspenguin-phishing-maritime-military-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
