@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst](https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst)
+- [MagicWeb Mystery Highlights Nobelium Attacker&#39;s Sophistication](https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication)
 - [Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
 - [Attacker Allure: A Look at the Super Bowl&#39;s Operational Cyber-Risks](https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure)
 - [Addressing the Elephant in the Room: Getting Developers &amp; Security Teams to Work Together](https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together)
 - [Google Cloud Connects Chronicle to Health ISAC Feed](https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed)
 - [Reddit Breached With Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/reddit-breached-with-stolen-employee-credentials)
 - [NewsPenguin Goes Phishing for Maritime &amp; Military Secrets](https://www.darkreading.com/risk/newspenguin-phishing-maritime-military-secrets)
-- [Avast Threat Report: Consumers Plagued With Refund Fraud, Tech Support Scams, and Adware](https://www.darkreading.com/attacks-breaches/avast-threat-report-consumers-plagued-with-refund-fraud-tech-support-scams-and-adware)
-- [4 Ways to Handle AI Decision-Making in Cybersecurity](https://www.darkreading.com/cloud/4-ways-to-handle-ai-decision-making-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
