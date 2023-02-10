@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Cloud Connects Chronicle to Health ISAC Feed](https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed)
 - [Reddit Breached With Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/reddit-breached-with-stolen-employee-credentials)
 - [NewsPenguin Goes Phishing for Maritime &amp; Military Secrets](https://www.darkreading.com/risk/newspenguin-phishing-maritime-military-secrets)
 - [Avast Threat Report: Consumers Plagued With Refund Fraud, Tech Support Scams, and Adware](https://www.darkreading.com/attacks-breaches/avast-threat-report-consumers-plagued-with-refund-fraud-tech-support-scams-and-adware)
@@ -83,7 +84,6 @@
 - [7 Critical Cloud Threats Facing the Enterprise in 2023](https://www.darkreading.com/cloud/7-critical-cloud-threats-facing-enterprise-2023)
 - [SynSaber Releases ICS CVE Retrospective: 3 Years of CISA Advisories](https://www.darkreading.com/ics-ot/synsaber-releases-ics-cve-retrospective-3-years-of-cisa-advisories)
 - [Kaspersky Finds Growing Number of Parents Experiencing Ransomware Attacks on Children&#39;s Schools](https://www.darkreading.com/attacks-breaches/kaspersky-finds-growing-number-of-parents-experiencing-ransomware-attacks-on-children-s-schools)
-- [Cryptographers Decode Secret Letters of Mary, Queen of Scots](https://www.darkreading.com/operations/crypotographers-decode-secret-letters-mary-queen-scots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
