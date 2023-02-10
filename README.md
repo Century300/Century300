@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
+- [Attacker Allure: A Look at the Super Bowl&#39;s Operational Cyber-Risks](https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure)
 - [Addressing the Elephant in the Room: Getting Developers &amp; Security Teams to Work Together](https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together)
 - [Google Cloud Connects Chronicle to Health ISAC Feed](https://www.darkreading.com/dr-tech/google-cloud-connects-chronicle-to-health-isac-feed)
 - [Reddit Breached With Stolen Employee Credentials](https://www.darkreading.com/attacks-breaches/reddit-breached-with-stolen-employee-credentials)
 - [NewsPenguin Goes Phishing for Maritime &amp; Military Secrets](https://www.darkreading.com/risk/newspenguin-phishing-maritime-military-secrets)
 - [Avast Threat Report: Consumers Plagued With Refund Fraud, Tech Support Scams, and Adware](https://www.darkreading.com/attacks-breaches/avast-threat-report-consumers-plagued-with-refund-fraud-tech-support-scams-and-adware)
 - [4 Ways to Handle AI Decision-Making in Cybersecurity](https://www.darkreading.com/cloud/4-ways-to-handle-ai-decision-making-in-cybersecurity)
-- [7 Critical Cloud Threats Facing the Enterprise in 2023](https://www.darkreading.com/cloud/7-critical-cloud-threats-facing-enterprise-2023)
-- [SynSaber Releases ICS CVE Retrospective: 3 Years of CISA Advisories](https://www.darkreading.com/ics-ot/synsaber-releases-ics-cve-retrospective-3-years-of-cisa-advisories)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
