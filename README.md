@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Accenture Acquires Morphus, Brazil-Based Cybersecurity Company](https://www.darkreading.com/risk/accenture-acquires-morphus-brazil-based-cybersecurity-company)
 - [Healthcare in the Crosshairs of North Korean Cyber Operations](https://www.darkreading.com/attacks-breaches/healthcare-in-the-crosshairs-of-north-korean-cyber-operations)
 - [Russian Hackers Disrupt NATO Earthquake Relief Operations](https://www.darkreading.com/attacks-breaches/russian-hackers-disrupt-nato-earthquake-relief-operations-)
 - [What Happened to #OpRussia?](https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia)
@@ -83,7 +84,6 @@
 - [Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits](https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits)
 - [Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst](https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst)
 - [MagicWeb Mystery Highlights Nobelium Attacker&#39;s Sophistication](https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication)
-- [Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
