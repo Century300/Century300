@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Hackers Disrupt NATO Earthquake Relief Operations](https://www.darkreading.com/attacks-breaches/russian-hackers-disrupt-nato-earthquake-relief-operations-)
 - [What Happened to #OpRussia?](https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia)
 - [Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training)
 - [Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits](https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits)
@@ -83,7 +84,6 @@
 - [MagicWeb Mystery Highlights Nobelium Attacker&#39;s Sophistication](https://www.darkreading.com/vulnerabilities-threats/magicweb-mystery-highlights-nobelium-attacker-sophistication)
 - [Malicious Game Mods Target Dota 2 Game Users](https://www.darkreading.com/cloud/malicious-game-mods-target-dota-2-game-users)
 - [Attacker Allure: A Look at the Super Bowl&#39;s Operational Cyber-Risks](https://www.darkreading.com/ics-ot/super-bowl-operational-cyber-risks-attackers-allure)
-- [Addressing the Elephant in the Room: Getting Developers &amp; Security Teams to Work Together](https://www.darkreading.com/application-security/addressing-the-elephant-in-the-room-getting-developers-and-security-teams-to-work-together)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
