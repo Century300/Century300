@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Embattled VMware ESXi Hypervisor Flaw Exploitable in Myriad Ways](https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways)
 - [Dark Web Revenue Down Dramatically After Hydra&#39;s Demise](https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise)
 - [9 Scammers Busted for 5M Euro Phishing Fraud Ring](https://www.darkreading.com/attacks-breaches/9-scammers-busted-for-5m-euro-phishing-fraud-ring)
 - [Accenture Acquires Morphus, Brazil-Based Cybersecurity Company](https://www.darkreading.com/risk/accenture-acquires-morphus-brazil-based-cybersecurity-company)
@@ -83,7 +84,6 @@
 - [Russian Hackers Disrupt NATO Earthquake Relief Operations](https://www.darkreading.com/attacks-breaches/russian-hackers-disrupt-nato-earthquake-relief-operations-)
 - [What Happened to #OpRussia?](https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia)
 - [Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training)
-- [Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits](https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
