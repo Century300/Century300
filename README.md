@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [9 New Microsoft Bugs to Patch Now](https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now)
 - [Oakland City Services Struggle to Recover From Ransomware Attack](https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack)
 - [Configuration Issues in SaltStack IT Tool Put Enterprises at Risk](https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk)
 - [Hospitals Sued for Using Meta&#39;s Ad-Tracking Code, Violating HIPAA](https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa)
@@ -83,7 +84,6 @@
 - [Vaultree Appoints Technology Industry Veteran Rinki Sethi to Its Board of Directors](https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors)
 - [Cyber-Physical Systems Vulnerability Disclosures Reach Peak, While Disclosures by Internal Teams Increase 80% Over 18 Months](https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months)
 - [Ping Identity and Deloitte Forge Alliance to Give Organizations Advanced Identity and Access Solutions](https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions)
-- [ThreatConnect Closes 2022 with Accelerated Growth in Threat Intelligence Operations &lpar;TI Ops&rpar;](https://www.darkreading.com/threat-intelligence/threatconnect-closes-2022-with-accelerated-growth-in-threat-intelligence-operations-ti-ops-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
