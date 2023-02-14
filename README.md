@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why SecDataOps Is the Future of Your Security Program](https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program)
 - [Vaultree Appoints Technology Industry Veteran Rinki Sethi to Its Board of Directors](https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors)
 - [Cyber-Physical Systems Vulnerability Disclosures Reach Peak, While Disclosures by Internal Teams Increase 80% Over 18 Months](https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months)
 - [Ping Identity and Deloitte Forge Alliance to Give Organizations Advanced Identity and Access Solutions](https://www.darkreading.com/endpoint/ping-identity-and-deloitte-forge-alliance-to-give-organizations-advanced-identity-and-access-solutions)
@@ -83,7 +84,6 @@
 - [SynSaber Launches a Free OT PCAP Analyzer Tool for the Industrial Security Community](https://www.darkreading.com/ics-ot/synsaber-launches-a-free-ot-pcap-analyzer-tool-for-the-industrial-security-community)
 - [Lessons All Industries Can Learn From Automotive Security](https://www.darkreading.com/risk/lessons-all-industries-can-learn-from-automotive-security)
 - [Embattled VMware ESXi Hypervisor Flaw Exploitable in Myriad Ways](https://www.darkreading.com/vulnerabilities-threats/attackers-can-exploit-flaw-in-vmware-esxi-hypervisor-in-multiple-ways)
-- [Dark Web Revenue Down Dramatically After Hydra&#39;s Demise](https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
