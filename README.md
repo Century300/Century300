@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Web Revenue Down Dramatically After Hydra&#39;s Demise](https://www.darkreading.com/threat-intelligence/dark-web-revenue-down-after-hydras-demise)
 - [9 Scammers Busted for 5M Euro Phishing Fraud Ring](https://www.darkreading.com/attacks-breaches/9-scammers-busted-for-5m-euro-phishing-fraud-ring)
 - [Accenture Acquires Morphus, Brazil-Based Cybersecurity Company](https://www.darkreading.com/risk/accenture-acquires-morphus-brazil-based-cybersecurity-company)
 - [Healthcare in the Crosshairs of North Korean Cyber Operations](https://www.darkreading.com/attacks-breaches/healthcare-in-the-crosshairs-of-north-korean-cyber-operations)
@@ -83,7 +84,6 @@
 - [What Happened to #OpRussia?](https://www.darkreading.com/attacks-breaches/what-happened-to-oprussia)
 - [Reddit Hack Shows Limits of MFA, Strengths of Security Training](https://www.darkreading.com/risk/reddit-hack-shows-limits-mfa-strengths-security-training)
 - [Trickbot Members Sanctioned for Pandemic-Era Ransomware Hits](https://www.darkreading.com/endpoint/trickbot-members-sanctioned-pandemic-era-ransomware-hits)
-- [Integreon Launches Cyber Incident Response Offering with Development of AI-Based Review and Integration of RadarFirst](https://www.darkreading.com/attacks-breaches/integreon-launches-cyber-incident-response-offering-with-development-of-ai-based-review-and-integration-of-radarfirst)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
