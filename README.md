@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Expel Tackles Cloud Threats With MDR for Kubernetes](https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes)
 - [OT Network Security Myths Busted in a Pair of Hacks](https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks)
 - [9 New Microsoft Bugs to Patch Now](https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now)
 - [Oakland City Services Struggle to Recover From Ransomware Attack](https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Hospitals Sued for Using Meta&#39;s Ad-Tracking Code, Violating HIPAA](https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa)
 - [Why SecDataOps Is the Future of Your Security Program](https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program)
 - [Vaultree Appoints Technology Industry Veteran Rinki Sethi to Its Board of Directors](https://www.darkreading.com/operations/vaultree-appoints-technology-industry-veteran-rinki-sethi-to-its-board-of-directors)
-- [Cyber-Physical Systems Vulnerability Disclosures Reach Peak, While Disclosures by Internal Teams Increase 80% Over 18 Months](https://www.darkreading.com/ics-ot/cyber-physical-systems-vulnerability-disclosures-reach-peak-while-disclosures-by-internal-teams-increase-80-over-18-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
