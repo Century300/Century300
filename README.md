@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Report Reveals Record-Breaking Year for Cyber Threats](https://www.darkreading.com/attacks-breaches/report-reveals-record-breaking-year-for-cyber-threats)
+- [5th State of CCPA, CPRA, and GDPR Compliance Report Shows More Than 90% of Companies Are Not Compliant](https://www.darkreading.com/risk/5th-state-of-ccpa-cpra-and-gdpr-compliance-report-shows-more-than-90-of-companies-are-not-compliant)
 - [1898 &amp; Co Launches New Cybersecurity Service for Critical Infrastructure](https://www.darkreading.com/ics-ot/1898-co-launches-new-cybersecurity-service-for-critical-infrastructure-)
 - [NIST&#39;s New Crypto Standard a Step Forward in IoT Security](https://www.darkreading.com/ics-ot/nists-new-crypto-standard-a-step-forward-in-iot-security)
 - [How Security Teams Can Protect Employees Beyond Corporate Walls](https://www.darkreading.com/vulnerabilities-threats/how-security-teams-can-protect-employees-beyond-corporate-walls)
 - [Russian Cybercriminal Faces Decades in Prison for Hacking and Trading Operation](https://www.darkreading.com/attacks-breaches/russian-cyber-criminal-faces-decades-in-prison-for-hacking-and-trading-scam)
 - [Expel Tackles Cloud Threats With MDR for Kubernetes](https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes)
 - [OT Network Security Myths Busted in a Pair of Hacks](https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks)
-- [9 New Microsoft Bugs to Patch Now](https://www.darkreading.com/endpoint/nine-new-microsoft-bugs-to-patch-now)
-- [Oakland City Services Struggle to Recover From Ransomware Attack](https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
