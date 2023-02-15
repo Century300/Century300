@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally](https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally)
 - [Brivo Reveals Top Security Trends for 2023: Convenience Is King in Securing the Hybrid Workplaces of the Future](https://www.darkreading.com/remote-workforce/brivo-reveals-top-security-trends-for-2023-convenience-is-king-in-securing-the-hybrid-workplaces-of-the-future)
 - [Call for Speakers Now Open for the RH-ISAC Cyber Intelligence Summit](https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit)
 - [GAO Calls for Improved Data Privacy Protections](https://www.darkreading.com/application-security/gao-calls-for-improved-data-privacy-protections-)
@@ -83,7 +84,6 @@
 - [3 Ways CISOs Can Lead Effectively and Avoid Burnout](https://www.darkreading.com/edge-articles/3-ways-cisos-can-lead-effectively-and-avoid-burnout)
 - [What Purple Teams Wish Companies Knew](https://www.darkreading.com/risk/what-purple-teams-wish-companies-knew)
 - [Build Cyber Resiliency With These Security Threat-Mitigation Considerations](https://www.darkreading.com/vulnerabilities-threats/build-cyber-resiliency-with-these-security-threat-mitigation-considerations-)
-- [IGEL Unveils COSMOS, the Unified End User Computing Platform for Secure, Managed Access to Any Cloud Workspace](https://www.darkreading.com/cloud/igel-unveils-cosmos-the-unified-end-user-computing-platform-for-secure-managed-access-to-any-cloud-workspace)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
