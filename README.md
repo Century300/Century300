@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Security Teams Can Protect Employees Beyond Corporate Walls](https://www.darkreading.com/vulnerabilities-threats/how-security-teams-can-protect-employees-beyond-corporate-walls)
 - [Russian Cybercriminal Faces Decades in Prison for Hacking and Trading Operation](https://www.darkreading.com/attacks-breaches/russian-cyber-criminal-faces-decades-in-prison-for-hacking-and-trading-scam)
 - [Expel Tackles Cloud Threats With MDR for Kubernetes](https://www.darkreading.com/dr-tech/expel-tackles-cloud-threats-with-mdr-for-kubernetes)
 - [OT Network Security Myths Busted in a Pair of Hacks](https://www.darkreading.com/ics-ot/ot-network-security-myths-busted-in-a-pair-of-hacks)
@@ -83,7 +84,6 @@
 - [Oakland City Services Struggle to Recover From Ransomware Attack](https://www.darkreading.com/attacks-breaches/oakland-city-services-struggles-to-recover-from-ransomware-attack)
 - [Configuration Issues in SaltStack IT Tool Put Enterprises at Risk](https://www.darkreading.com/endpoint/configuration-issues-in-saltstack-put-enterprises-at-risk)
 - [Hospitals Sued for Using Meta&#39;s Ad-Tracking Code, Violating HIPAA](https://www.darkreading.com/attacks-breaches/hospitals-sued-for-using-facebook-ad-tracking-code-violating-hippa)
-- [Why SecDataOps Is the Future of Your Security Program](https://www.darkreading.com/risk/why-secdataops-is-the-future-of-your-security-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
