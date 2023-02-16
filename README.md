@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Simplify to Survive: How Organizations Can Navigate Cyber-Risk](https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk)
 - [Descope Handles Authentication So Developers Don&#39;t Have To](https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to)
 - [Oligo Security Takes Aim at Open Source Vulnerabilities](https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities)
 - [ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally](https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally)
@@ -83,7 +84,6 @@
 - [Call for Speakers Now Open for the RH-ISAC Cyber Intelligence Summit](https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit)
 - [GAO Calls for Improved Data Privacy Protections](https://www.darkreading.com/application-security/gao-calls-for-improved-data-privacy-protections-)
 - [2023 Is the Year of Risk: 5 Ways to Prepare](https://www.darkreading.com/risk/2023-is-the-year-of-risk-5-ways-to-prepare)
-- [3 Ways CISOs Can Lead Effectively and Avoid Burnout](https://www.darkreading.com/edge-articles/3-ways-cisos-can-lead-effectively-and-avoid-burnout)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
