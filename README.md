@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Oligo Security Takes Aim at Open Source Vulnerabilities](https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities)
 - [ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally](https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally)
 - [Brivo Reveals Top Security Trends for 2023: Convenience Is King in Securing the Hybrid Workplaces of the Future](https://www.darkreading.com/remote-workforce/brivo-reveals-top-security-trends-for-2023-convenience-is-king-in-securing-the-hybrid-workplaces-of-the-future)
 - [Call for Speakers Now Open for the RH-ISAC Cyber Intelligence Summit](https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit)
@@ -83,7 +84,6 @@
 - [2023 Is the Year of Risk: 5 Ways to Prepare](https://www.darkreading.com/risk/2023-is-the-year-of-risk-5-ways-to-prepare)
 - [3 Ways CISOs Can Lead Effectively and Avoid Burnout](https://www.darkreading.com/edge-articles/3-ways-cisos-can-lead-effectively-and-avoid-burnout)
 - [What Purple Teams Wish Companies Knew](https://www.darkreading.com/risk/what-purple-teams-wish-companies-knew)
-- [Build Cyber Resiliency With These Security Threat-Mitigation Considerations](https://www.darkreading.com/vulnerabilities-threats/build-cyber-resiliency-with-these-security-threat-mitigation-considerations-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
