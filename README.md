@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SideWinder APT Spotted Stealing Crypto](https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage)
+- [Window Snyder&#39;s Start-up Launches Security Platform for IoT Device Makers](https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers)
 - [Simplify to Survive: How Organizations Can Navigate Cyber-Risk](https://www.darkreading.com/risk/simplify-to-survive-how-organizations-can-navigate-cyber-risk)
 - [Descope Handles Authentication So Developers Don&#39;t Have To](https://www.darkreading.com/dr-tech/descope-handles-authentication-so-developers-don-t-have-to)
 - [Oligo Security Takes Aim at Open Source Vulnerabilities](https://www.darkreading.com/dr-tech/oligo-security-takes-aim-at-open-source-vulnerabilities)
 - [ChatGPT Subs In as Security Analyst, Hallucinates Only Occasionally](https://www.darkreading.com/analytics/chatgpt-subs-security-analyst-hallucinates-occasionally)
 - [Brivo Reveals Top Security Trends for 2023: Convenience Is King in Securing the Hybrid Workplaces of the Future](https://www.darkreading.com/remote-workforce/brivo-reveals-top-security-trends-for-2023-convenience-is-king-in-securing-the-hybrid-workplaces-of-the-future)
 - [Call for Speakers Now Open for the RH-ISAC Cyber Intelligence Summit](https://www.darkreading.com/threat-intelligence/call-for-speakers-now-open-for-the-rh-isac-cyber-intelligence-summit)
-- [GAO Calls for Improved Data Privacy Protections](https://www.darkreading.com/application-security/gao-calls-for-improved-data-privacy-protections-)
-- [2023 Is the Year of Risk: 5 Ways to Prepare](https://www.darkreading.com/risk/2023-is-the-year-of-risk-5-ways-to-prepare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
