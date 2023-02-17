@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Inglis Retires as National Cyber Director Ahead of Biden&#39;s Cybersecurity EO](https://www.darkreading.com/operations/inglis-resigns-national-cyber-director-biden-cybersecurity-eo)
 - [Not Stoked: Burton Snowboards&#39; Online Orders Disrupted After Cyberattack](https://www.darkreading.com/cloud/burton-snowboards-online-orders-disrupted-cyberattack)
 - [Massive GoAnywhere RCE Exploit: Everything You Need to Know](https://www.darkreading.com/endpoint/massive-goanywhere-rce-exploit)
 - [AppSec Threats Deserve Their Own Incident Response Plan](https://www.darkreading.com/application-security/appsec-threats-deserve-their-own-incident-response-plan)
@@ -83,7 +84,6 @@
 - [Atlassian: Leaked Data Stolen via Third-Party App](https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-)
 - [SASE Market to Exceed Over $60B Between 2022 and 2027, According to Dell&#39;Oro Group](https://www.darkreading.com/remote-workforce/sase-market-to-exceed-over-60-b-between-2022-and-2027-according-to-dell-oro-group)
 - [MVP Vibe Fest Bridges Gap Between Athletics and Cybersecurity](https://www.darkreading.com/operations/mvp-vibe-fest-bridges-gap-between-athletics-and-cybersecurity)
-- [WatchGuard Launches New Line of Firewall Products to Enhance Unified Security for Remote and Distributed Businesses](https://www.darkreading.com/remote-workforce/watchguard-launches-new-line-of-firewall-products-to-enhance-unified-security-for-remote-and-distributed-businesses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
