@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AppSec Threats Deserve Their Own Incident Response Plan](https://www.darkreading.com/application-security/appsec-threats-deserve-their-own-incident-response-plan)
 - [ESXi Ransomware Update Outfoxes CISA Recovery Script](https://www.darkreading.com/endpoint/esxi-malware-update-outfoxes-cisa-recovery-script)
 - [Atlassian: Leaked Data Stolen via Third-Party App](https://www.darkreading.com/endpoint/leaked-atlassian-data-stolen-from-third-party-app-company-says-)
 - [SASE Market to Exceed Over $60B Between 2022 and 2027, According to Dell&#39;Oro Group](https://www.darkreading.com/remote-workforce/sase-market-to-exceed-over-60-b-between-2022-and-2027-according-to-dell-oro-group)
 - [MVP Vibe Fest Bridges Gap Between Athletics and Cybersecurity](https://www.darkreading.com/operations/mvp-vibe-fest-bridges-gap-between-athletics-and-cybersecurity)
 - [WatchGuard Launches New Line of Firewall Products to Enhance Unified Security for Remote and Distributed Businesses](https://www.darkreading.com/remote-workforce/watchguard-launches-new-line-of-firewall-products-to-enhance-unified-security-for-remote-and-distributed-businesses)
 - [Cybersecurity Jobs Remain Secure Despite Recession Fears](https://www.darkreading.com/remote-workforce/cybersecurity-jobs-remain-secure-despite-recession-fears)
-- [SideWinder APT Spotted Stealing Crypto](https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage)
-- [Window Snyder&#39;s Startup Launches Security Platform for IoT Device Makers](https://www.darkreading.com/ics-ot/window-snyder-s-start-up-launches-security-platform-for-iot-device-manufacturers)
+- [SideWinder APT Spotted Targeting Crypto](https://www.darkreading.com/endpoint/sidewinder-apt-linked-phishing-attacks-latest-rampage)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
