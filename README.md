@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
 - [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
 - [Researchers Create an AI Cyber Defender That Reacts to Attackers](https://www.darkreading.com/emerging-tech/researchers-create-ai-cyber-defender-that-reacts-to-attackers)
 - [Majority of Ransomware Attacks Last Year Exploited Old Bugs](https://www.darkreading.com/attacks-breaches/dozens-of-vulns-in-ransomware-attacks-offer-adversaries-full-kill-chain)
@@ -83,7 +84,6 @@
 - [Check Point Boosts AppSec Focus With CNAPP Enhancements](https://www.darkreading.com/dr-tech/check-point-boosts-appsec-focus-with-cnapp-enhancements)
 - [Novel Spy Group Targets Telecoms in &#39;Precision-Targeted&#39; Cyberattacks](https://www.darkreading.com/cloud/novel-spy-group-telecoms-targeted-cyberattacks)
 - [Google Translate Helps BEC Groups Scam Companies in Any Language](https://www.darkreading.com/remote-workforce/igoogle-translate-bec-scam-language)
-- [Inglis Retires as National Cyber Director Ahead of Biden&#39;s Cybersecurity EO](https://www.darkreading.com/operations/inglis-resigns-national-cyber-director-biden-cybersecurity-eo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
