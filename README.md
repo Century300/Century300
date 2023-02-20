@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
+- [Researchers Create an AI Cyber Defender That Reacts to Attackers](https://www.darkreading.com/emerging-tech/researchers-create-ai-cyber-defender-that-reacts-to-attackers)
+- [Majority of Ransomware Attacks Last Year Exploited Old Bugs](https://www.darkreading.com/attacks-breaches/dozens-of-vulns-in-ransomware-attacks-offer-adversaries-full-kill-chain)
 - [Is OWASP at Risk of Irrelevance?](https://www.darkreading.com/edge-articles/is-owasp-at-risk-of-irrelevance)
 - [Check Point Boosts AppSec Focus With CNAPP Enhancements](https://www.darkreading.com/dr-tech/check-point-boosts-appsec-focus-with-cnapp-enhancements)
 - [Novel Spy Group Targets Telecoms in &#39;Precision-Targeted&#39; Cyberattacks](https://www.darkreading.com/cloud/novel-spy-group-telecoms-targeted-cyberattacks)
 - [Google Translate Helps BEC Groups Scam Companies in Any Language](https://www.darkreading.com/remote-workforce/igoogle-translate-bec-scam-language)
 - [Inglis Retires as National Cyber Director Ahead of Biden&#39;s Cybersecurity EO](https://www.darkreading.com/operations/inglis-resigns-national-cyber-director-biden-cybersecurity-eo)
-- [Not Stoked: Burton Snowboards&#39; Online Orders Disrupted After Cyberattack](https://www.darkreading.com/cloud/burton-snowboards-online-orders-disrupted-cyberattack)
-- [Massive GoAnywhere RCE Exploit: Everything You Need to Know](https://www.darkreading.com/endpoint/massive-goanywhere-rce-exploit)
-- [AppSec Threats Deserve Their Own Incident Response Plan](https://www.darkreading.com/application-security/appsec-threats-deserve-their-own-incident-response-plan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
