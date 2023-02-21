@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Insider Threats Don&#39;t Mean Insiders Are Threatening](https://www.darkreading.com/vulnerabilities-threats/insider-threats-don-t-mean-insiders-are-threatening)
 - [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
 - [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
 - [Researchers Create an AI Cyber Defender That Reacts to Attackers](https://www.darkreading.com/emerging-tech/researchers-create-ai-cyber-defender-that-reacts-to-attackers)
@@ -83,7 +84,6 @@
 - [Is OWASP at Risk of Irrelevance?](https://www.darkreading.com/edge-articles/is-owasp-at-risk-of-irrelevance)
 - [Check Point Boosts AppSec Focus With CNAPP Enhancements](https://www.darkreading.com/dr-tech/check-point-boosts-appsec-focus-with-cnapp-enhancements)
 - [Novel Spy Group Targets Telecoms in &#39;Precision-Targeted&#39; Cyberattacks](https://www.darkreading.com/cloud/novel-spy-group-telecoms-targeted-cyberattacks)
-- [Google Translate Helps BEC Groups Scam Companies in Any Language](https://www.darkreading.com/remote-workforce/igoogle-translate-bec-scam-language)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
