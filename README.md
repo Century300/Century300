@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Analysts Slam Twitter&#39;s Decision to Disable SMS-Based 2FA](https://www.darkreading.com/remote-workforce/analysts-slams-twitter-decision-to-disable-sms-based-2fa)
 - [Cyberthreats, Regulations Mount for Financial Industry](https://www.darkreading.com/risk/cyberthreats-regulations-mount-for-financial-industry)
 - [Name That Toon: Join the Club](https://www.darkreading.com/endpoint/name-that-toon-join-the-club)
 - [Coinbase Crypto Exchange Ensnared in &#39;Oktapus&#39;-Related Smishing Attack](https://www.darkreading.com/risk/coinbase-crypto-exchange-ensnared-oktapus-smishing-attack)
@@ -83,7 +84,6 @@
 - [Israel&#39;s Top Tech University Targeted by DarkBit Ransomware](https://www.darkreading.com/risk/israeli-technical-university-targeted-darkbit-ransomware)
 - [Insider Threats Don&#39;t Mean Insiders Are Threatening](https://www.darkreading.com/vulnerabilities-threats/insider-threats-don-t-mean-insiders-are-threatening)
 - [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
-- [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
