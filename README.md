@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberthreats, Regulations Mount for Financial Industry](https://www.darkreading.com/risk/cyberthreats-regulations-mount-for-financial-industry)
 - [Name That Toon: Join the Club](https://www.darkreading.com/endpoint/name-that-toon-join-the-club)
 - [Coinbase Crypto Exchange Ensnared in &#39;Oktapus&#39;-Related Smishing Attack](https://www.darkreading.com/risk/coinbase-crypto-exchange-ensnared-oktapus-smishing-attack)
 - [Third-Party Providers Create Identity and Access Control Challenges for Fintech Apps](https://www.darkreading.com/edge-articles/third-party-providers-create-identity-and-access-control-challenges-for-fintech-apps)
@@ -83,7 +84,6 @@
 - [Insider Threats Don&#39;t Mean Insiders Are Threatening](https://www.darkreading.com/vulnerabilities-threats/insider-threats-don-t-mean-insiders-are-threatening)
 - [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
 - [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
-- [Researchers Create an AI Cyber Defender That Reacts to Attackers](https://www.darkreading.com/emerging-tech/researchers-create-ai-cyber-defender-that-reacts-to-attackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
