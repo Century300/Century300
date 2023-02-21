@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Join the Club](https://www.darkreading.com/endpoint/name-that-toon-join-the-club)
+- [Coinbase Crypto Exchange Ensnared in &#39;Oktapus&#39;-Related Smishing Attack](https://www.darkreading.com/risk/coinbase-crypto-exchange-ensnared-oktapus-smishing-attack)
+- [Third-Party Providers Create Identity and Access Control Challenges for Fintech Apps](https://www.darkreading.com/edge-articles/third-party-providers-create-identity-and-access-control-challenges-for-fintech-apps)
+- [Israel&#39;s Top Tech University Targeted by DarkBit Ransomware](https://www.darkreading.com/risk/israeli-technical-university-targeted-darkbit-ransomware)
 - [Insider Threats Don&#39;t Mean Insiders Are Threatening](https://www.darkreading.com/vulnerabilities-threats/insider-threats-don-t-mean-insiders-are-threatening)
 - [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
 - [Despite Breach, LastPass Demonstrates the Power of Password Management](https://www.darkreading.com/edge-articles/despite-breach-lastpass-demonstrates-the-power-of-password-management)
 - [Researchers Create an AI Cyber Defender That Reacts to Attackers](https://www.darkreading.com/emerging-tech/researchers-create-ai-cyber-defender-that-reacts-to-attackers)
-- [Majority of Ransomware Attacks Last Year Exploited Old Bugs](https://www.darkreading.com/attacks-breaches/dozens-of-vulns-in-ransomware-attacks-offer-adversaries-full-kill-chain)
-- [Is OWASP at Risk of Irrelevance?](https://www.darkreading.com/edge-articles/is-owasp-at-risk-of-irrelevance)
-- [Check Point Boosts AppSec Focus With CNAPP Enhancements](https://www.darkreading.com/dr-tech/check-point-boosts-appsec-focus-with-cnapp-enhancements)
-- [Novel Spy Group Targets Telecoms in &#39;Precision-Targeted&#39; Cyberattacks](https://www.darkreading.com/cloud/novel-spy-group-telecoms-targeted-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
