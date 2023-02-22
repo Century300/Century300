@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trend Micro Acquires SOC Technology Expert Anlyz](https://www.darkreading.com/operations/trend-micro-acquires-soc-technology-expert-anlyz)
 - [Exploit Code Released for Critical Fortinet RCE Bug](https://www.darkreading.com/endpoint/exploit-code-released-critical-fortinet-rce-bug)
 - [4 Tips to Guard Against DDoS Attacks](https://www.darkreading.com/microsoft/4-tips-to-guard-against-ddos-attacks)
 - [7 Tips for Mitigating Cyber-Risks to Your Corporate Social Media](https://www.darkreading.com/attacks-breaches/7-tips-for-mitigating-cyber-risks-to-your-corporate-social-media)
@@ -83,7 +84,6 @@
 - [Scrut Automation Raises Funding of $7.5M, Led by MassMutual Ventures, Lightspeed, and Endiya Partners](https://www.darkreading.com/risk/scrut-automation-raises-funding-of-7-5m-led-by-massmutual-ventures-lightspeed-and-endiya-partners)
 - [Black Hat to Launch Official Certification Program](https://www.darkreading.com/attacks-breaches/black-hat-to-launch-official-certification-program)
 - [CREST Calls for Greater Equity, Inclusion and Diversity As Part of National Cyber Security Strategy](https://www.darkreading.com/vulnerabilities-threats/crest-calls-for-greater-equity-inclusion-and-diversity-as-part-of-national-cyber-security-strategy)
-- [Malwarebytes Expands Platform With New Application Block Capabilities](https://www.darkreading.com/application-security/malwarebytes-expands-platform-with-new-application-block-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
