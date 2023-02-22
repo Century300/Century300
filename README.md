@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UL Solutions Advances Automotive Safety and Security](https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-)
+- [Scammers Mimic ChatGPT to Steal Business Credentials](https://www.darkreading.com/endpoint/scammers-mimic-chatgpt-steal-business-credentials)
 - [Half of Apps Have High-Risk Vulnerabilities Due to Open Source](https://www.darkreading.com/ics-ot/half-apps-high-risk-vulnerabilities-open-source)
 - [Entitle Brings Fine-Grained Cloud Permissions Management Out of Stealth](https://www.darkreading.com/dr-tech/entitle-fine-grained-cloud-permissions-management-out-stealth)
 - [1 in 4 CISOs Wants to Say Sayonara to Security](https://www.darkreading.com/risk/1-in-4-cisos-will-leave-cybersecurity-by-2025)
 - [US Military Emails Exposed via Cloud Account](https://www.darkreading.com/cloud/us-military-emails-exposed-via-cloud-account)
 - [Headwinds Don&#39;t Have to Be a Drag on Your Security Effectiveness](https://www.darkreading.com/vulnerabilities-threats/headwinds-don-t-have-to-be-a-drag-on-your-security-effectiveness)
 - [Phishing Fears Ramp Up on Email, Collaboration Platforms](https://www.darkreading.com/remote-workforce/phishing-fears-ramp-up-on-e-mail-collaboration-platforms)
-- [Google Delivers Record-Breaking $12M in Bug Bounties](https://www.darkreading.com/endpoint/google-delivers-record-breaking-12m-in-bug-bounties)
-- [Xcitium Brings &#39;Zero Dwell&#39; Capability to Legacy EDR Platforms](https://www.darkreading.com/endpoint/xcitium-brings-zero-dwell-capability-to-legacy-edr-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
