@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scrut Automation Raises Funding of $7.5M, Led by MassMutual Ventures, Lightspeed, and Endiya Partners](https://www.darkreading.com/risk/scrut-automation-raises-funding-of-7-5m-led-by-massmutual-ventures-lightspeed-and-endiya-partners)
+- [Black Hat to Launch Official Certification Program](https://www.darkreading.com/attacks-breaches/black-hat-to-launch-official-certification-program)
+- [CREST Calls for Greater Equity, Inclusion and Diversity As Part of National Cyber Security Strategy](https://www.darkreading.com/vulnerabilities-threats/crest-calls-for-greater-equity-inclusion-and-diversity-as-part-of-national-cyber-security-strategy)
+- [Malwarebytes Expands Platform With New Application Block Capabilities](https://www.darkreading.com/application-security/malwarebytes-expands-platform-with-new-application-block-capabilities)
 - [Analysts Slam Twitter&#39;s Decision to Disable SMS-Based 2FA](https://www.darkreading.com/remote-workforce/analysts-slams-twitter-decision-to-disable-sms-based-2fa)
 - [Cyberthreats, Regulations Mount for Financial Industry](https://www.darkreading.com/risk/cyberthreats-regulations-mount-for-financial-industry)
 - [Name That Toon: Join the Club](https://www.darkreading.com/endpoint/name-that-toon-join-the-club)
 - [Coinbase Crypto Exchange Ensnared in &#39;Oktapus&#39;-Related Smishing Attack](https://www.darkreading.com/risk/coinbase-crypto-exchange-ensnared-oktapus-smishing-attack)
-- [Third-Party Providers Create Identity and Access Control Challenges for Fintech Apps](https://www.darkreading.com/edge-articles/third-party-providers-create-identity-and-access-control-challenges-for-fintech-apps)
-- [Israel&#39;s Top Tech University Targeted by DarkBit Ransomware](https://www.darkreading.com/risk/israeli-technical-university-targeted-darkbit-ransomware)
-- [Insider Threats Don&#39;t Mean Insiders Are Threatening](https://www.darkreading.com/vulnerabilities-threats/insider-threats-don-t-mean-insiders-are-threatening)
-- [Modern Software: What&#39;s Really Inside?](https://www.darkreading.com/vulnerabilities-threats/modern-software-what-s-really-inside-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
