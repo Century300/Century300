@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Military Emails Exposed via Cloud Account](https://www.darkreading.com/cloud/us-military-emails-exposed-via-cloud-account)
 - [Headwinds Don&#39;t Have to Be a Drag on Your Security Effectiveness](https://www.darkreading.com/vulnerabilities-threats/headwinds-don-t-have-to-be-a-drag-on-your-security-effectiveness)
 - [Phishing Fears Ramp Up on Email, Collaboration Platforms](https://www.darkreading.com/remote-workforce/phishing-fears-ramp-up-on-e-mail-collaboration-platforms)
 - [Google Delivers Record-Breaking $12M in Bug Bounties](https://www.darkreading.com/endpoint/google-delivers-record-breaking-12m-in-bug-bounties)
@@ -83,7 +84,6 @@
 - [Trend Micro Acquires SOC Technology Expert Anlyz](https://www.darkreading.com/operations/trend-micro-acquires-soc-technology-expert-anlyz)
 - [Exploit Code Released for Critical Fortinet RCE Bug](https://www.darkreading.com/endpoint/exploit-code-released-critical-fortinet-rce-bug)
 - [4 Tips to Guard Against DDoS Attacks](https://www.darkreading.com/microsoft/4-tips-to-guard-against-ddos-attacks)
-- [7 Tips for Mitigating Cyber-Risks to Your Corporate Social Media](https://www.darkreading.com/attacks-breaches/7-tips-for-mitigating-cyber-risks-to-your-corporate-social-media)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
