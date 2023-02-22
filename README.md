@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Tips to Guard Against DDoS Attacks](https://www.darkreading.com/microsoft/4-tips-to-guard-against-ddos-attacks)
+- [7 Tips for Mitigating Cyber-Risks to Your Corporate Social Media](https://www.darkreading.com/attacks-breaches/7-tips-for-mitigating-cyber-risks-to-your-corporate-social-media)
 - [How to Stop Attackers That Target Healthcare Imaging Data](https://www.darkreading.com/dr-tech/how-to-stop-attackers-that-target-healthcare-imaging-data)
 - [Scrut Automation Raises Funding of $7.5M, Led by MassMutual Ventures, Lightspeed, and Endiya Partners](https://www.darkreading.com/risk/scrut-automation-raises-funding-of-7-5m-led-by-massmutual-ventures-lightspeed-and-endiya-partners)
 - [Black Hat to Launch Official Certification Program](https://www.darkreading.com/attacks-breaches/black-hat-to-launch-official-certification-program)
 - [CREST Calls for Greater Equity, Inclusion and Diversity As Part of National Cyber Security Strategy](https://www.darkreading.com/vulnerabilities-threats/crest-calls-for-greater-equity-inclusion-and-diversity-as-part-of-national-cyber-security-strategy)
 - [Malwarebytes Expands Platform With New Application Block Capabilities](https://www.darkreading.com/application-security/malwarebytes-expands-platform-with-new-application-block-capabilities)
 - [Analysts Slam Twitter&#39;s Decision to Disable SMS-Based 2FA](https://www.darkreading.com/remote-workforce/analysts-slams-twitter-decision-to-disable-sms-based-2fa)
-- [Cyberthreats, Regulations Mount for Financial Industry](https://www.darkreading.com/risk/cyberthreats-regulations-mount-for-financial-industry)
-- [Name That Toon: Join the Club](https://www.darkreading.com/endpoint/name-that-toon-join-the-club)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
