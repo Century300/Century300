@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Student Medical Records Exposed After LAUSD Breach](https://www.darkreading.com/analytics/student-medical-records-exposed-after-lausd-breach)
+- [Pirated Final Cut Pro for macOS Offers Stealth Malware Delivery](https://www.darkreading.com/analytics/pirated-final-cut-pro-macos-stealth-malware-delivery)
 - [AUVSI Launches Green UAS Cybersecurity Certification Program For Commercial Drones](https://www.darkreading.com/physical-security/auvsi-launches-green-uas-cybersecurity-certification-program-for-commercial-drones)
 - [Forsage Founders Indicted in $340M DeFi Crypto Scheme](https://www.darkreading.com/attacks-breaches/forsage-founders-indicted-in-340m-defi-crypto-scheme)
 - [Cyberattack on Dole Causes Temporary Salad Shortage](https://www.darkreading.com/analytics/cyberattack-dole-causes-temporary-salad-shortage)
 - [Linux Foundation Europe Announces Formation of OpenWallet Foundation](https://www.darkreading.com/risk/linux-foundation-europe-announces-formation-of-openwallet-foundation)
 - [UL Solutions Issues Automotive Cybersecurity Assurance Program Certificate to LG Innotek](https://www.darkreading.com/iot/ul-solutions-issues-first-automotive-cybersecurity-assurance-program-certificate-to-lg-innotek)
 - [Generative AI Changes Everything We Know About Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/generative-ai-changes-everything-we-know-about-cyberattacks)
-- [Hydrochasma Threat Group Bombards Targets With Slew of Commodity Malware, Tools](https://www.darkreading.com/analytics/hydrochasma-bombards-targets-slew-commodity-malware-tools)
-- [Unanswered Questions Cloud the Recent Targeting of an Asian Research Org](https://www.darkreading.com/analytics/unanswered-questions-cloud-recent-targeting-asian-research-org)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
