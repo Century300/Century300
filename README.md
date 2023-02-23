@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cris Thomas: Space Rogue, From L0pht Hacker to IBM Security Influencer](https://www.darkreading.com/edge-articles/cris-thomas-space-rogue-from-l0pht-hacker-to-ibm-security-influencer)
+- [Vault Vision Launches One Click Passwordless Logins With Passkey User Authentication](https://www.darkreading.com/endpoint/vault-vision-launches-one-click-passwordless-logins-with-passkey-user-authentication)
+- [Metomic Raises $20 Million to Protect Sensitive Data in SaaS Applications](https://www.darkreading.com/analytics/metomic-raises-20-million-to-protect-sensitive-data-in-saas-applications-)
 - [Why Are My Employees Integrating With So Many Unsanctioned SaaS Apps?](https://www.darkreading.com/application-security/why-are-my-employees-integrating-with-so-many-unsanctioned-saas-apps-)
 - [Rezilion Research Discovers Hidden Vulnerabilities in Hundreds of Docker Container Images](https://www.darkreading.com/analytics/rezilion-research-discovers-hidden-vulnerabilities-in-hundreds-of-docker-container-images)
 - [&lpar;ISC&rpar;² Opens Security Congress 2023 Call for Presentations](https://www.darkreading.com/analytics/-isc-opens-security-congress-2023-call-for-presentations)
 - [Top Takeaways From CloudNativeSecurityCon 2023](https://www.darkreading.com/omdia/top-takeaways-from-cloudnativesecuritycon-2023)
 - [This Will Be the Year of the SBOM, for Better or for Worse](https://www.darkreading.com/risk/this-will-be-the-year-of-the-sbom-for-better-or-for-worse)
-- [UL Solutions Advances Automotive Safety and Security](https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-)
-- [Scammers Mimic ChatGPT to Steal Business Credentials](https://www.darkreading.com/endpoint/scammers-mimic-chatgpt-steal-business-credentials)
-- [Half of Apps Have High-Risk Vulnerabilities Due to Open Source](https://www.darkreading.com/ics-ot/half-apps-high-risk-vulnerabilities-open-source)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
