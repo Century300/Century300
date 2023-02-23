@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattack on Dole Causes Temporary Salad Shortage](https://www.darkreading.com/analytics/cyberattack-dole-causes-temporary-salad-shortage)
+- [Linux Foundation Europe Announces Formation of OpenWallet Foundation](https://www.darkreading.com/risk/linux-foundation-europe-announces-formation-of-openwallet-foundation)
 - [UL Solutions Issues Automotive Cybersecurity Assurance Program Certificate to LG Innotek](https://www.darkreading.com/iot/ul-solutions-issues-first-automotive-cybersecurity-assurance-program-certificate-to-lg-innotek)
 - [Hydrochasma Threat Group Bombards Targets with Slew of Commodity Malware, Tools](https://www.darkreading.com/analytics/hydrochasma-bombards-targets-slew-commodity-malware-tools)
 - [Unanswered Questions Cloud the Recent Targeting of an Asian Research Org](https://www.darkreading.com/analytics/unanswered-questions-cloud-recent-targeting-asian-research-org)
 - [Wiper Malware Surges Ahead, Spiking 53% in 3 Months](https://www.darkreading.com/attacks-breaches/wiper-malware-surges-ahead-spiking-53-in-3-months)
 - [Cris Thomas: Space Rogue, From L0pht Hacker to IBM Security Influencer](https://www.darkreading.com/edge-articles/cris-thomas-space-rogue-from-l0pht-hacker-to-ibm-security-influencer)
 - [Vault Vision Launches One Click Passwordless Logins With Passkey User Authentication](https://www.darkreading.com/endpoint/vault-vision-launches-one-click-passwordless-logins-with-passkey-user-authentication)
-- [Metomic Raises $20 Million to Protect Sensitive Data in SaaS Applications](https://www.darkreading.com/analytics/metomic-raises-20-million-to-protect-sensitive-data-in-saas-applications-)
-- [Why Are My Employees Integrating With So Many Unsanctioned SaaS Apps?](https://www.darkreading.com/application-security/why-are-my-employees-integrating-with-so-many-unsanctioned-saas-apps-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
