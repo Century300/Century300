@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Are My Employees Integrating With So Many Unsanctioned SaaS Apps?](https://www.darkreading.com/application-security/why-are-my-employees-integrating-with-so-many-unsanctioned-saas-apps-)
+- [Rezilion Research Discovers Hidden Vulnerabilities in Hundreds of Docker Container Images](https://www.darkreading.com/analytics/rezilion-research-discovers-hidden-vulnerabilities-in-hundreds-of-docker-container-images)
+- [&lpar;ISC&rpar;² Opens Security Congress 2023 Call for Presentations](https://www.darkreading.com/analytics/-isc-opens-security-congress-2023-call-for-presentations)
 - [Top Takeaways From CloudNativeSecurityCon 2023](https://www.darkreading.com/omdia/top-takeaways-from-cloudnativesecuritycon-2023)
 - [This Will Be the Year of the SBOM, for Better or for Worse](https://www.darkreading.com/risk/this-will-be-the-year-of-the-sbom-for-better-or-for-worse)
 - [UL Solutions Advances Automotive Safety and Security](https://www.darkreading.com/iot/ul-solutions-advances-automotive-safety-and-security-)
 - [Scammers Mimic ChatGPT to Steal Business Credentials](https://www.darkreading.com/endpoint/scammers-mimic-chatgpt-steal-business-credentials)
 - [Half of Apps Have High-Risk Vulnerabilities Due to Open Source](https://www.darkreading.com/ics-ot/half-apps-high-risk-vulnerabilities-open-source)
-- [Entitle Brings Fine-Grained Cloud Permissions Management Out of Stealth](https://www.darkreading.com/dr-tech/entitle-fine-grained-cloud-permissions-management-out-stealth)
-- [1 in 4 CISOs Wants to Say Sayonara to Security](https://www.darkreading.com/risk/1-in-4-cisos-will-leave-cybersecurity-by-2025)
-- [US Military Emails Exposed via Cloud Account](https://www.darkreading.com/cloud/us-military-emails-exposed-via-cloud-account)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
