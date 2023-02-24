@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
 - [Student Medical Records Exposed After LAUSD Breach](https://www.darkreading.com/analytics/student-medical-records-exposed-after-lausd-breach)
 - [Pirated Final Cut Pro for macOS Offers Stealth Malware Delivery](https://www.darkreading.com/analytics/pirated-final-cut-pro-macos-stealth-malware-delivery)
 - [AUVSI Launches Green UAS Cybersecurity Certification Program For Commercial Drones](https://www.darkreading.com/physical-security/auvsi-launches-green-uas-cybersecurity-certification-program-for-commercial-drones)
@@ -83,7 +84,6 @@
 - [Cyberattack on Dole Causes Temporary Salad Shortage](https://www.darkreading.com/analytics/cyberattack-dole-causes-temporary-salad-shortage)
 - [Linux Foundation Europe Announces Formation of OpenWallet Foundation](https://www.darkreading.com/risk/linux-foundation-europe-announces-formation-of-openwallet-foundation)
 - [UL Solutions Issues Automotive Cybersecurity Assurance Program Certificate to LG Innotek](https://www.darkreading.com/iot/ul-solutions-issues-first-automotive-cybersecurity-assurance-program-certificate-to-lg-innotek)
-- [Generative AI Changes Everything We Know About Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/generative-ai-changes-everything-we-know-about-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
