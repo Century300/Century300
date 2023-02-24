@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [To Safeguard Critical Infrastructure, Go Back to Basics](https://www.darkreading.com/attacks-breaches/to-safeguard-critical-infrastructure-go-back-to-basics)
 - [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
 - [Student Medical Records Exposed After LAUSD Breach](https://www.darkreading.com/analytics/student-medical-records-exposed-after-lausd-breach)
 - [Pirated Final Cut Pro for macOS Offers Stealth Malware Delivery](https://www.darkreading.com/analytics/pirated-final-cut-pro-macos-stealth-malware-delivery)
@@ -83,7 +84,6 @@
 - [Forsage Founders Indicted in $340M DeFi Crypto Scheme](https://www.darkreading.com/attacks-breaches/forsage-founders-indicted-in-340m-defi-crypto-scheme)
 - [Cyberattack on Dole Causes Temporary Salad Shortage](https://www.darkreading.com/analytics/cyberattack-dole-causes-temporary-salad-shortage)
 - [Linux Foundation Europe Announces Formation of OpenWallet Foundation](https://www.darkreading.com/risk/linux-foundation-europe-announces-formation-of-openwallet-foundation)
-- [UL Solutions Issues Automotive Cybersecurity Assurance Program Certificate to LG Innotek](https://www.darkreading.com/iot/ul-solutions-issues-first-automotive-cybersecurity-assurance-program-certificate-to-lg-innotek)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
