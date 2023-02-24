@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tackling Software Supply Chain Issues With CNAPP](https://www.darkreading.com/dr-tech/tackling-software-supply-chain-issues-with-cnapp)
 - [Canadian Telecom Firm Telus Reportedly Investigating Breach](https://www.darkreading.com/attacks-breaches/canadian-telecom-firm-telus-reportedly-investigating-breach)
 - [CISA: Beware of DDoS, Web Defacements on Anniversary of Russian Invasion of Ukraine](https://www.darkreading.com/risk/cisa-beware-ddos-web-defacements-anniversary-of-russian-invasion-ukraine)
 - [&#39;New Class of Bugs&#39; in Apple Devices Opens the Door to Complete Takeover](https://www.darkreading.com/analytics/new-class-bugs-apple-devices-opens-door-complete-takeover)
@@ -83,7 +84,6 @@
 - [TikTok Ban Hits EU Commission Phones as Cybersecurity Worries Mount](https://www.darkreading.com/endpoint/tiktok-ban-hits-eu-commission-phones-cybersecurity-worries-mount)
 - [To Safeguard Critical Infrastructure, Go Back to Basics](https://www.darkreading.com/attacks-breaches/to-safeguard-critical-infrastructure-go-back-to-basics)
 - [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
-- [Student Medical Records Exposed After LAUSD Breach](https://www.darkreading.com/analytics/student-medical-records-exposed-after-lausd-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
