@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Evaluating the Cyber War Set Off by Russian Invasion of Ukraine](https://www.darkreading.com/edge-threat-monitor/evaluating-the-cyber-war-set-off-by-russian-invasion-of-ukraine)
+- [Canadian Telecom Firm Telus Reportedly Investigating Breach](https://www.darkreading.com/attacks-breaches/canadian-telecom-firm-telus-reportedly-investigating-breach)
+- [CISA: Beware of DDoS, Web Defacements on Anniversary of Russian Invasion of Ukraine](https://www.darkreading.com/risk/cisa-beware-ddos-web-defacements-anniversary-of-russian-invasion-ukraine)
+- [&#39;New Class of Bugs&#39; in Apple Devices Opens the Door to Complete Takeover](https://www.darkreading.com/analytics/new-class-bugs-apple-devices-opens-door-complete-takeover)
+- [Evaluating the Cyberwar Set Off by Russian Invasion of Ukraine](https://www.darkreading.com/edge-threat-monitor/evaluating-the-cyber-war-set-off-by-russian-invasion-of-ukraine)
 - [TikTok Ban Hits EU Commission Phones as Cybersecurity Worries Mount](https://www.darkreading.com/endpoint/tiktok-ban-hits-eu-commission-phones-cybersecurity-worries-mount)
 - [To Safeguard Critical Infrastructure, Go Back to Basics](https://www.darkreading.com/attacks-breaches/to-safeguard-critical-infrastructure-go-back-to-basics)
 - [87% of Container Images in Production Have Critical or High-Severity Vulnerabilities](https://www.darkreading.com/dr-tech/87-of-container-images-in-production-have-critical-or-high-severity-vulnerabilities)
 - [Student Medical Records Exposed After LAUSD Breach](https://www.darkreading.com/analytics/student-medical-records-exposed-after-lausd-breach)
-- [Pirated Final Cut Pro for macOS Offers Stealth Malware Delivery](https://www.darkreading.com/analytics/pirated-final-cut-pro-macos-stealth-malware-delivery)
-- [AUVSI Launches Green UAS Cybersecurity Certification Program For Commercial Drones](https://www.darkreading.com/physical-security/auvsi-launches-green-uas-cybersecurity-certification-program-for-commercial-drones)
-- [Forsage Founders Indicted in $340M DeFi Crypto Scheme](https://www.darkreading.com/attacks-breaches/forsage-founders-indicted-in-340m-defi-crypto-scheme)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
