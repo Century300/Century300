@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Active Digital Identity Apps to Surpass 4.1B by 2027](https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems)
+- [Attackers Were on Network for 2 Years, News Corp Says](https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp)
+- [Wiz Reaches $10B Valuation With Consolidated Cloud Security Platform](https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform)
 - [Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare](https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-)
 - [How to Reduce Code Risk Using Pipelineless Security](https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security)
 - [All CVEs Are Not Created Equal](https://www.darkreading.com/edge-articles/all-cves-are-not-created-equal)
 - [Palo Alto Announces Zero-Trust Security Solution for OT](https://www.darkreading.com/ics-ot/palo-alto-announces-zero-trust-security-solution-for-ot)
 - [Mobile Banking Trojans Surge, Doubling in Volume](https://www.darkreading.com/endpoint/mobile-banking-trojans-surge-doubling-volume)
-- [ThreatHunter.ai Launches &quot;More Eyes&quot; Program to Help Large Organizations Mitigate Cyber Threats](https://www.darkreading.com/risk/threathunter-ai-launches-more-eyes-program-to-help-large-organizations-mitigate-cyber-threats)
-- [Edgio Strengthens Security Offering With WAAP Enhancements and DDoS Scrubbing Solution](https://www.darkreading.com/application-security/edgio-strengthens-security-offering-with-waap-enhancements-and-ddos-scrubbing-solution)
-- [How the Ukraine War Opened a Fault Line in Cybercrime, Possibly Forever](https://www.darkreading.com/analytics/ukraine-war-fault-line-cybercrime-forever)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
