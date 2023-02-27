@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare](https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-)
 - [How to Reduce Code Risk Using Pipelineless Security](https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security)
 - [All CVEs Are Not Created Equal](https://www.darkreading.com/edge-articles/all-cves-are-not-created-equal)
 - [Palo Alto Announces Zero-Trust Security Solution for OT](https://www.darkreading.com/ics-ot/palo-alto-announces-zero-trust-security-solution-for-ot)
@@ -83,7 +84,6 @@
 - [ThreatHunter.ai Launches &quot;More Eyes&quot; Program to Help Large Organizations Mitigate Cyber Threats](https://www.darkreading.com/risk/threathunter-ai-launches-more-eyes-program-to-help-large-organizations-mitigate-cyber-threats)
 - [Edgio Strengthens Security Offering With WAAP Enhancements and DDoS Scrubbing Solution](https://www.darkreading.com/application-security/edgio-strengthens-security-offering-with-waap-enhancements-and-ddos-scrubbing-solution)
 - [How the Ukraine War Opened a Fault Line in Cybercrime, Possibly Forever](https://www.darkreading.com/analytics/ukraine-war-fault-line-cybercrime-forever)
-- [As Social Engineering Attacks Skyrocket, Evaluate Your Security Education Plan](https://www.darkreading.com/endpoint/as-social-engineering-attacks-skyrocket-evaluate-your-security-education-plan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
