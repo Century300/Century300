@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WannaCry Hero &amp; Kronos Malware Author Named Cybrary Fellow](https://www.darkreading.com/threat-intelligence/wannacry-hero-malware-creator-named-cybrary-fellow)
 - [Pernicious Permissions: How Kubernetes Cryptomining Became an AWS Cloud Data Heist](https://www.darkreading.com/risk/pernicious-permissions-kubernetes-cryptomining-cloud-data-heist)
 - [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
 - [The DoJ Disruption of the Hive Ransomware Group Is a Short-Lived Win](https://www.darkreading.com/ics-ot/the-doj-disruption-of-the-hive-ransomware-group-is-a-short-lived-win)
@@ -83,7 +84,6 @@
 - [Attackers Were on Network for 2 Years, News Corp Says](https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp)
 - [Wiz Reaches $10B Valuation With Consolidated Cloud Security Platform](https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform)
 - [Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare](https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-)
-- [How to Reduce Code Risk Using Pipelineless Security](https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
