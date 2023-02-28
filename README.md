@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Two of The Worst Healthcare Data Breaches in US History Happened Last Year](https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year)
+- [LastPass DevOps Engineer Targeted for Cloud Decryption Keys in Latest Breach Revelation](https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation)
+- [Exfiltrator-22: The Newest Post-Exploitation Toolkit Nipping at Cobalt Strike&#39;s Heels](https://www.darkreading.com/threat-intelligence/exfiltrator-22-newest-post-exploitation-toolkit-nipping-cobalt-strike-heels)
 - [US Marshals Ransomware Hit Is &#39;Major&#39; Incident](https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident)
 - [WannaCry Hero &amp; Kronos Malware Author Named Cybrary Fellow](https://www.darkreading.com/threat-intelligence/wannacry-hero-malware-creator-named-cybrary-fellow)
 - [Pernicious Permissions: How Kubernetes Cryptomining Became an AWS Cloud Data Heist](https://www.darkreading.com/risk/pernicious-permissions-kubernetes-cryptomining-cloud-data-heist)
 - [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
 - [The DoJ Disruption of the Hive Ransomware Group Is a Short-Lived Win](https://www.darkreading.com/ics-ot/the-doj-disruption-of-the-hive-ransomware-group-is-a-short-lived-win)
-- [Active Digital Identity Apps to Surpass 4.1B by 2027](https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems)
-- [Attackers Were on Network for 2 Years, News Corp Says](https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp)
-- [Wiz Reaches $10B Valuation With Consolidated Cloud Security Platform](https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
