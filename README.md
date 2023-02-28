@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
 - [The DoJ Disruption of the Hive Ransomware Group Is a Short-Lived Win](https://www.darkreading.com/ics-ot/the-doj-disruption-of-the-hive-ransomware-group-is-a-short-lived-win)
 - [Active Digital Identity Apps to Surpass 4.1B by 2027](https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems)
 - [Attackers Were on Network for 2 Years, News Corp Says](https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp)
@@ -83,7 +84,6 @@
 - [Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare](https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-)
 - [How to Reduce Code Risk Using Pipelineless Security](https://www.darkreading.com/dr-tech/how-to-reduce-code-risk-using-pipelineless-security)
 - [All CVEs Are Not Created Equal](https://www.darkreading.com/edge-articles/all-cves-are-not-created-equal)
-- [Palo Alto Announces Zero-Trust Security Solution for OT](https://www.darkreading.com/ics-ot/palo-alto-announces-zero-trust-security-solution-for-ot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
