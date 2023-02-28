@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Marshals Ransomware Hit Is &#39;Major&#39; Incident](https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident)
 - [WannaCry Hero &amp; Kronos Malware Author Named Cybrary Fellow](https://www.darkreading.com/threat-intelligence/wannacry-hero-malware-creator-named-cybrary-fellow)
 - [Pernicious Permissions: How Kubernetes Cryptomining Became an AWS Cloud Data Heist](https://www.darkreading.com/risk/pernicious-permissions-kubernetes-cryptomining-cloud-data-heist)
 - [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
@@ -83,7 +84,6 @@
 - [Active Digital Identity Apps to Surpass 4.1B by 2027](https://www.darkreading.com/endpoint/active-digital-identity-apps-to-surpass-4-1-billion-by-2027-as-third-party-platforms-look-to-leverage-civic-identity-systems)
 - [Attackers Were on Network for 2 Years, News Corp Says](https://www.darkreading.com/analytics/attackers-were-on-network-2-years-news-corp)
 - [Wiz Reaches $10B Valuation With Consolidated Cloud Security Platform](https://www.darkreading.com/cloud/wiz-reaches-10-billion-valuation-with-consolidated-cloud-security-platform)
-- [Vouched Raises $6.3M to Expand AI Identity Verification Offering to Telemedicine and Healthcare](https://www.darkreading.com/remote-workforce/vouched-raises-6-3m-to-expand-ai-identity-verification-offering-to-telemedicine-and-healthcare-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
