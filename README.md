@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Share Their 3 Top Challenges for Cybersecurity Management](https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management)
 - [Hoxhunt Launches Human Risk Management Platform](https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform)
 - [Two of The Worst Healthcare Data Breaches in US History Happened Last Year](https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year)
 - [LastPass DevOps Engineer Targeted for Cloud Decryption Keys in Latest Breach Revelation](https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation)
@@ -83,7 +84,6 @@
 - [US Marshals Ransomware Hit Is &#39;Major&#39; Incident](https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident)
 - [WannaCry Hero &amp; Kronos Malware Author Named Cybrary Fellow](https://www.darkreading.com/threat-intelligence/wannacry-hero-malware-creator-named-cybrary-fellow)
 - [Pernicious Permissions: How Kubernetes Cryptomining Became an AWS Cloud Data Heist](https://www.darkreading.com/risk/pernicious-permissions-kubernetes-cryptomining-cloud-data-heist)
-- [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
