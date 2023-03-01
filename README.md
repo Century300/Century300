@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Offensive Security Is Now OffSec - Refresh Reflects Future of Cybersecurity Learning and Skills Development](https://www.darkreading.com/endpoint/offensive-security-is-now-offsec---refreshed-brand-reflects-future-of-cybersecurity-learning-and-skills-development)
 - [Linux Support Expands Cyber Spy Group&#39;s Arsenal](https://www.darkreading.com/threat-intelligence/linux-support-expands-cyber-spy-groups-arsenal)
 - [What Happened in That Cyberattack? With Some Cloud Services, You May Never Know](https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know)
 - [The Importance of Recession-Proofing Security Operations](https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations)
@@ -83,7 +84,6 @@
 - [Without FIDO2, MFA Falls Short](https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short)
 - [Cyberattackers Double Down on Bypassing MFA](https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa)
 - [CISOs Share Their 3 Top Challenges for Cybersecurity Management](https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management)
-- [Google Adds Client-Side Encryption to Gmail, Calendar](https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
