@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hoxhunt Launches Human Risk Management Platform](https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform)
 - [Two of The Worst Healthcare Data Breaches in US History Happened Last Year](https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year)
 - [LastPass DevOps Engineer Targeted for Cloud Decryption Keys in Latest Breach Revelation](https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation)
 - [Exfiltrator-22: The Newest Post-Exploitation Toolkit Nipping at Cobalt Strike&#39;s Heels](https://www.darkreading.com/threat-intelligence/exfiltrator-22-newest-post-exploitation-toolkit-nipping-cobalt-strike-heels)
@@ -83,7 +84,6 @@
 - [WannaCry Hero &amp; Kronos Malware Author Named Cybrary Fellow](https://www.darkreading.com/threat-intelligence/wannacry-hero-malware-creator-named-cybrary-fellow)
 - [Pernicious Permissions: How Kubernetes Cryptomining Became an AWS Cloud Data Heist](https://www.darkreading.com/risk/pernicious-permissions-kubernetes-cryptomining-cloud-data-heist)
 - [China&#39;s BlackFly Targets Materials Sector in &#39;Relentless&#39; Quest for IP](https://www.darkreading.com/endpoint/china-blackfly-targets-materials-sector-relentless-quest-ip)
-- [The DoJ Disruption of the Hive Ransomware Group Is a Short-Lived Win](https://www.darkreading.com/ics-ot/the-doj-disruption-of-the-hive-ransomware-group-is-a-short-lived-win)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
