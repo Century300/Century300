@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Support Expands Cyber Spy Group&#39;s Arsenal](https://www.darkreading.com/threat-intelligence/linux-support-expands-cyber-spy-groups-arsenal)
 - [What Happened in That Cyberattack? With Some Cloud Services, You May Never Know](https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know)
 - [The Importance of Recession-Proofing Security Operations](https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations)
 - [CISA: ZK Java Framework RCE Flaw Under Active Exploit](https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit)
@@ -83,7 +84,6 @@
 - [Cyberattackers Double Down on Bypassing MFA](https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa)
 - [CISOs Share Their 3 Top Challenges for Cybersecurity Management](https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management)
 - [Google Adds Client-Side Encryption to Gmail, Calendar](https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar)
-- [Hoxhunt Launches Human Risk Management Platform](https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
