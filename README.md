@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA: ZK Java Framework RCE Flaw Under Active Exploit](https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit)
 - [Without FIDO2, MFA Falls Short](https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short)
+- [Cyberattackers Double Down on Bypassing MFA](https://www.darkreading.com/threat-intelligence/cyberattackers-double-down-bypassing-mfa)
 - [CISOs Share Their 3 Top Challenges for Cybersecurity Management](https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management)
 - [Google Adds Client-Side Encryption to Gmail, Calendar](https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar)
 - [Hoxhunt Launches Human Risk Management Platform](https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform)
 - [Two of The Worst Healthcare Data Breaches in US History Happened Last Year](https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year)
 - [LastPass DevOps Engineer Targeted for Cloud Decryption Keys in Latest Breach Revelation](https://www.darkreading.com/endpoint/lastpass-devops-engineer-targeted-cloud-decryption-keys-breach-revelation)
-- [Exfiltrator-22: The Newest Post-Exploitation Toolkit Nipping at Cobalt Strike&#39;s Heels](https://www.darkreading.com/threat-intelligence/exfiltrator-22-newest-post-exploitation-toolkit-nipping-cobalt-strike-heels)
-- [US Marshals Ransomware Hit Is &#39;Major&#39; Incident](https://www.darkreading.com/threat-intelligence/us-marshals-ransomware-hit-major-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
