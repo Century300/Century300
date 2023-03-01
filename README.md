@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Happened in That Cyberattack? With Some Cloud Services, You May Never Know](https://www.darkreading.com/cloud/what-happened-cyberattack-cloud-services-you-may-never-know)
 - [The Importance of Recession-Proofing Security Operations](https://www.darkreading.com/operations/the-importance-of-recession-proofing-security-operations)
 - [CISA: ZK Java Framework RCE Flaw Under Active Exploit](https://www.darkreading.com/risk/cisa-zk-java-framework-rce-flaw-under-active-exploit)
 - [Without FIDO2, MFA Falls Short](https://www.darkreading.com/endpoint/without-fido2-mfa-falls-short)
@@ -83,7 +84,6 @@
 - [CISOs Share Their 3 Top Challenges for Cybersecurity Management](https://www.darkreading.com/edge-articles/cisos-share-their-3-top-challenges-for-cybersecurity-management)
 - [Google Adds Client-Side Encryption to Gmail, Calendar](https://www.darkreading.com/dr-tech/google-adds-client-side-encryption-to-gmail-calendar)
 - [Hoxhunt Launches Human Risk Management Platform](https://www.darkreading.com/endpoint/hoxhunt-launches-human-risk-management-platform)
-- [Two of The Worst Healthcare Data Breaches in US History Happened Last Year](https://www.darkreading.com/attacks-breaches/two-of-the-worst-healthcare-data-breaches-in-us-history-happened-last-year)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
