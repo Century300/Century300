@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackLotus Bookit Found Targeting Windows 11](https://www.darkreading.com/endpoint/blacklotus-uefi-bootkit-can-have-its-way-with-updated-windows-11-systems)
 - [What GoDaddy&#39;s Years-Long Breach Means for Millions of Clients](https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients)
 - [Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets](https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets)
 - [Everybody Wants Least Privilege, So Why Isn&#39;t Anyone Achieving It?](https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it)
@@ -83,7 +84,6 @@
 - [Booking.com&#39;s OAuth Implementation Allows Full Account Takeover](https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover)
 - [Hackers Target Young Gamers: How Your Child Can Cause Business Compromise](https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise)
 - [On Shaky Ground: Why Dependencies Will Be Your Downfall](https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall)
-- [Ermetic Adds Kubernetes Security to CNAPP](https://www.darkreading.com/dr-tech/ermetic-adds-kubernetes-security-to-cnapp)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
