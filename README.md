@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What GoDaddy&#39;s Years-Long Breach Means for Millions of Clients](https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients)
+- [Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets](https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets)
 - [Everybody Wants Least Privilege, So Why Isn&#39;t Anyone Achieving It?](https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it)
 - [Booking.com&#39;s OAuth Implementation Allows Full Account Takeover](https://www.darkreading.com/vulnerabilities-threats/booking-com-oauth-implementation-full-account-takeover)
 - [Hackers Target Young Gamers: How Your Child Can Cause Business Compromise](https://www.darkreading.com/remote-workforce/hackers-young-gamers-child-cause-business-compromise)
 - [On Shaky Ground: Why Dependencies Will Be Your Downfall](https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall)
 - [Ermetic Adds Kubernetes Security to CNAPP](https://www.darkreading.com/dr-tech/ermetic-adds-kubernetes-security-to-cnapp)
 - [Octillo Launches Women&#39;s Cybersecurity Scholarship in Partnership With the Center for Cyber Safety and Education](https://www.darkreading.com/operations/octillo-launches-women-s-cybersecurity-scholarship-in-partnership-with-the-center-for-cyber-safety-and-education)
-- [DoControl&#39;s 2023 SaaS Security Threat Landscape Report Finds Enterprises and Mid-Market Organizations Have Exposed Public SaaS Assets](https://www.darkreading.com/threat-intelligence/docontrol-s-2023-saas-security-threat-landscape-report-finds-50-of-enterprises-and-75-of-mid-market-organizations-have-exposed-public-saas-assets)
-- [Visibility Is as Vital as Zero Trust for Low-Code/No-Code Security](https://www.darkreading.com/edge-articles/visibility-is-as-vital-as-zero-trust-for-low-code-no-code-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
