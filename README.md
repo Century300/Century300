@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Everybody Wants Least Privilege, So Why Isn&#39;t Anyone Achieving It?](https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it)
+- [On Shaky Ground: Why Dependencies Will Be Your Downfall](https://www.darkreading.com/vulnerabilities-threats/on-shaky-ground-why-dependencies-will-be-your-downfall)
 - [Ermetic Adds Kubernetes Security to CNAPP](https://www.darkreading.com/dr-tech/ermetic-adds-kubernetes-security-to-cnapp)
 - [Octillo Launches Women&#39;s Cybersecurity Scholarship in Partnership With the Center for Cyber Safety and Education](https://www.darkreading.com/operations/octillo-launches-women-s-cybersecurity-scholarship-in-partnership-with-the-center-for-cyber-safety-and-education)
 - [DoControl&#39;s 2023 SaaS Security Threat Landscape Report Finds Enterprises and Mid-Market Organizations Have Exposed Public SaaS Assets](https://www.darkreading.com/threat-intelligence/docontrol-s-2023-saas-security-threat-landscape-report-finds-50-of-enterprises-and-75-of-mid-market-organizations-have-exposed-public-saas-assets)
 - [Visibility Is as Vital as Zero Trust for Low-Code/No-Code Security](https://www.darkreading.com/edge-articles/visibility-is-as-vital-as-zero-trust-for-low-code-no-code-security)
 - [Forescout Addresses Modern SecOps Challenges With Launch of Forescout XDR](https://www.darkreading.com/attacks-breaches/forescout-addresses-modern-secops-challenges-with-launch-of-forescout-xdr)
 - [Fastly Launches Managed Security Service to Protect Enterprises From Rising Web Application Attacks](https://www.darkreading.com/application-security/fastly-launches-managed-security-service-to-protect-enterprises-from-rising-web-application-attacks)
-- [Dish Blames Ransomware Attack for Disruptions of Internal Systems, Call Center Services](https://www.darkreading.com/threat-intelligence/dish-blames-ransomware-attack-disruptions-internal-systems-call-center-services)
-- [Offensive Security Is Now OffSec - Refresh Reflects Future of Cybersecurity Learning and Skills Development](https://www.darkreading.com/endpoint/offensive-security-is-now-offsec---refreshed-brand-reflects-future-of-cybersecurity-learning-and-skills-development)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
