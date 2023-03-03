@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Polish Politician&#39;s Phone Patrolled by Pegasus](https://www.darkreading.com/endpoint/polish-politician-phone-patrolled-pegasus-spyware)
 - [3 Ways Security Teams Can Use IP Data Context](https://www.darkreading.com/dr-tech/3-ways-security-teams-can-use-ip-data-context)
 - [Chick-fil-A Customers Have a Bone to Pick After Account Takeovers](https://www.darkreading.com/endpoint/chick-fil-a-customers-bone-to-pick-data-breach)
 - [It&#39;s Time to Assess the Potential Dangers of an Increasingly Connected World](https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-)
@@ -83,7 +84,6 @@
 - [Axis Security Acquisition Strengthens Aruba&#39;s SASE Solutions With Integrated Cloud Security and SD-WAN](https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan)
 - [CISA, MITRE Look to Take ATT&amp;CK Framework Out of the Weeds](https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds)
 - [Biden&#39;s Cybersecurity Strategy Calls for Software Liability, Tighter Critical Infrastructure Security](https://www.darkreading.com/ics-ot/bidens-cybersecurity-strategy-calls-for-software-liability-tighter-critical-infastructure-security)
-- [BlackLotus Bookit Found Targeting Windows 11](https://www.darkreading.com/endpoint/blacklotus-uefi-bootkit-can-have-its-way-with-updated-windows-11-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
