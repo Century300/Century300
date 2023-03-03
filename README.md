@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways Security Teams Can Use IP Data Context](https://www.darkreading.com/dr-tech/3-ways-security-teams-can-use-ip-data-context)
+- [Chick-fil-A Customers Have a Bone to Pick After Account Takeovers](https://www.darkreading.com/endpoint/chick-fil-a-customers-bone-to-pick-data-breach)
 - [It&#39;s Time to Assess the Potential Dangers of an Increasingly Connected World](https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-)
 - [IBM Contributes Supply Chain Security Tools to OWASP](https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp)
 - [Axis Security Acquisition Strengthens Aruba&#39;s SASE Solutions With Integrated Cloud Security and SD-WAN](https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan)
 - [CISA, MITRE Look to Take ATT&amp;CK Framework Out of the Weeds](https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds)
 - [Biden&#39;s Cybersecurity Strategy Calls for Software Liability, Tighter Critical Infrastructure Security](https://www.darkreading.com/ics-ot/bidens-cybersecurity-strategy-calls-for-software-liability-tighter-critical-infastructure-security)
 - [BlackLotus Bookit Found Targeting Windows 11](https://www.darkreading.com/endpoint/blacklotus-uefi-bootkit-can-have-its-way-with-updated-windows-11-systems)
-- [What GoDaddy&#39;s Years-Long Breach Means for Millions of Clients](https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients)
-- [Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets](https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
