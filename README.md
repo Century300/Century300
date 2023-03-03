@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EV Charging Infrastructure Offers an Electric Cyberattack Opportunity](https://www.darkreading.com/ics-ot/ev-charging-infrastructure-electric-cyberattack-opportunity)
 - [Indigo Books Refuses LockBit Ransomware Demand](https://www.darkreading.com/risk/indigo-books-refuses-lockbit-ransomware-demand)
 - [Polish Politician&#39;s Phone Patrolled by Pegasus](https://www.darkreading.com/endpoint/polish-politician-phone-patrolled-pegasus-spyware)
 - [3 Ways Security Teams Can Use IP Data Context](https://www.darkreading.com/dr-tech/3-ways-security-teams-can-use-ip-data-context)
@@ -83,7 +84,6 @@
 - [It&#39;s Time to Assess the Potential Dangers of an Increasingly Connected World](https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-)
 - [IBM Contributes Supply Chain Security Tools to OWASP](https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp)
 - [Axis Security Acquisition Strengthens Aruba&#39;s SASE Solutions With Integrated Cloud Security and SD-WAN](https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan)
-- [CISA, MITRE Look to Take ATT&amp;CK Framework Out of the Weeds](https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
