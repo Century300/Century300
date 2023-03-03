@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IBM Contributes Supply Chain Security Tools to OWASP](https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp)
 - [Axis Security Acquisition Strengthens Aruba&#39;s SASE Solutions With Integrated Cloud Security and SD-WAN](https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan)
 - [CISA, MITRE Look to Take ATT&amp;CK Framework Out of the Weeds](https://www.darkreading.com/threat-intelligence/cisa-mitre-look-to-takeattack-framework-out-of-the-weeds)
 - [Biden&#39;s Cybersecurity Strategy Calls for Software Liability, Tighter Critical Infrastructure Security](https://www.darkreading.com/ics-ot/bidens-cybersecurity-strategy-calls-for-software-liability-tighter-critical-infastructure-security)
@@ -83,7 +84,6 @@
 - [What GoDaddy&#39;s Years-Long Breach Means for Millions of Clients](https://www.darkreading.com/risk/what-godaddy-years-long-breach-means-millions-clients)
 - [Sale of Stolen Credentials and Initial Access Dominate Dark Web Markets](https://www.darkreading.com/threat-intelligence/sale-of-stolen-credentials-and-initial-access-dominate-dark-web-markets)
 - [Everybody Wants Least Privilege, So Why Isn&#39;t Anyone Achieving It?](https://www.darkreading.com/attacks-breaches/everybody-wants-least-privilege-so-why-isn-t-anyone-achieving-it)
-- [New Report: Inside the High Risk of Third-Party SaaS Apps](https://www.darkreading.com/cloud/new-report-inside-the-high-risk-of-third-party-saas-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
