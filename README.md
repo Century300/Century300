@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rapid7 Brings Threat Intel Data to USF Cybersecurity Lab](https://www.darkreading.com/edge-articles/rapid7-brings-threat-intel-data-to-usf-cybersecurity-lab)
 - [EV Charging Infrastructure Offers an Electric Cyberattack Opportunity](https://www.darkreading.com/ics-ot/ev-charging-infrastructure-electric-cyberattack-opportunity)
 - [Indigo Books Refuses LockBit Ransomware Demand](https://www.darkreading.com/risk/indigo-books-refuses-lockbit-ransomware-demand)
 - [Polish Politician&#39;s Phone Patrolled by Pegasus](https://www.darkreading.com/endpoint/polish-politician-phone-patrolled-pegasus-spyware)
@@ -83,7 +84,6 @@
 - [Chick-fil-A Customers Have a Bone to Pick After Account Takeovers](https://www.darkreading.com/endpoint/chick-fil-a-customers-bone-to-pick-data-breach)
 - [It&#39;s Time to Assess the Potential Dangers of an Increasingly Connected World](https://www.darkreading.com/risk/it-s-time-to-assess-the-potential-dangers-of-an-increasingly-connected-world-)
 - [IBM Contributes Supply Chain Security Tools to OWASP](https://www.darkreading.com/dr-tech/ibm-contributes-supply-chain-security-tools-to-owasp)
-- [Axis Security Acquisition Strengthens Aruba&#39;s SASE Solutions With Integrated Cloud Security and SD-WAN](https://www.darkreading.com/cloud/axis-security-acquisition-strengthens-aruba-s-sase-solutions-with-integrated-cloud-security-and-sd-wan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
