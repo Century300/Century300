@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shein Shopping App Glitch Copies Android Clipboard Contents](https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context)
 - [Police Raid Rounds Up Core Members of DoppelPaymer Ransomware Gang](https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang)
 - [NIST&#39;s Quantum-Proof Algorithm Has a Bug, Analysts Say](https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts)
 - [SANS Institute Partners With Google to Launch Cloud Diversity Academy](https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: Domino Effect](https://www.darkreading.com/edge-articles/name-that-edge-toon-domino-effect)
 - [Rapid7 Brings Threat Intel Data to USF Cybersecurity Lab](https://www.darkreading.com/edge-articles/rapid7-brings-threat-intel-data-to-usf-cybersecurity-lab)
 - [EV Charging Infrastructure Offers an Electric Cyberattack Opportunity](https://www.darkreading.com/ics-ot/ev-charging-infrastructure-electric-cyberattack-opportunity)
-- [Indigo Books Refuses LockBit Ransomware Demand](https://www.darkreading.com/risk/indigo-books-refuses-lockbit-ransomware-demand)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
