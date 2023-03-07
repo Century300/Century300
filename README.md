@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scams Security Pros Almost Fell For](https://www.darkreading.com/risk/scams-security-pros-almost-fell-for)
+- [99% of Cybersecurity Leaders Are Stressed About Email Security](https://www.darkreading.com/endpoint/99-of-cybersecurity-leaders-are-stressed-about-email-security)
+- [Palo Alto Survey Reveals 90% of Organizations Cannot Resolve Cyberthreats Within an Hour](https://www.darkreading.com/cloud/palo-alto-networks-global-state-of-cloud-native-security-survey-reveals-90-of-organizations-cannot-detect-contain-and-resolve-cyberthreats-within-an-hour)
 - [Remcos RAT Spyware Scurries Into Machines via Cloud Servers](https://www.darkreading.com/threat-intelligence/remcos-rat-spyware-machines-cloud-servers)
 - [Delinea Adds New features for its Privilege Manager and DevOps Secrets Vault](https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault)
 - [Key Proposals in Biden&#39;s Cybersecurity Strategy Face Congressional Challenges](https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges)
 - [Ransomware&#39;s Favorite Target: Critical Infrastructure and Its Industrial Control Systems](https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems)
 - [Optiv Launches Full Suite of Operational Technology Services](https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services)
-- [Cyber Security Works to Rebrand As Securin Inc.](https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-)
-- [Machine Learning Improves Prediction of Exploited Vulnerabilities](https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities)
-- [Shein Shopping App Glitch Copies Android Clipboard Contents](https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
