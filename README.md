@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Delinea Adds New features for its Privilege Manager and DevOps Secrets Vault](https://www.darkreading.com/operations/delinea-adds-new-features-for-its-privilege-manager-and-devops-secrets-vault)
+- [Key Proposals in Biden&#39;s Cybersecurity Strategy Face Congressional Challenges](https://www.darkreading.com/risk/key-proposals-in-biden-cybersecurity-strategy-face-congressional-challenges)
 - [Ransomware&#39;s Favorite Target: Critical Infrastructure and Its Industrial Control Systems](https://www.darkreading.com/ics-ot/ransomware-s-favorite-target-critical-infrastructure-and-its-industrial-control-systems)
 - [Optiv Launches Full Suite of Operational Technology Services](https://www.darkreading.com/ics-ot/optiv-launches-full-suite-of-operational-technology-services)
 - [Cyber Security Works to Rebrand As Securin Inc.](https://www.darkreading.com/vulnerabilities-threats/cyber-security-works-to-rebrand-as-securin-inc-)
 - [Machine Learning Improves Prediction of Exploited Vulnerabilities](https://www.darkreading.com/emerging-tech/machine-learning-improves-prediction-of-exploited-vulnerabilities)
 - [Shein Shopping App Glitch Copies Android Clipboard Contents](https://www.darkreading.com/threat-intelligence/shein-shopping-app-glitch-copies-android-clipboard-context)
 - [Police Raid Rounds Up Core Members of DoppelPaymer Ransomware Gang](https://www.darkreading.com/threat-intelligence/police-raid-alleged-core-members-of-doppelpaymer-ransomware-gang)
-- [NIST&#39;s Quantum-Proof Algorithm Has a Bug, Analysts Say](https://www.darkreading.com/threat-intelligence/nist-quantum-proof-algorithm-bug-analysts)
-- [SANS Institute Partners With Google to Launch Cloud Diversity Academy](https://www.darkreading.com/cloud/sans-institute-partners-with-google-to-launch-cloud-diversity-academy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
