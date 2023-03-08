@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Influence Duo Targets Politicians, CEOs for Embarrassing Video Calls](https://www.darkreading.com/threat-intelligence/russian-influence-duo-targets-politicians-ceos-video-calls)
 - [AI-Powered &#39;BlackMamba&#39; Keylogging Attack Evades Modern EDR Security](https://www.darkreading.com/endpoint/ai-blackmamba-keylogging-edr-security)
 - [Lacework Launches Secured by Women Initiative](https://www.darkreading.com/operations/lacework-launches-secured-by-women-initiative-)
 - [Surge in Cloud Adoption Means a Greater Data Attack Surface for Healthcare and Financial Services](https://www.darkreading.com/cloud/surge-in-cloud-adoption-means-a-greater-data-attack-surface-for-healthcare-and-financial-services)
@@ -83,7 +84,6 @@
 - [Tech Giants Go Cloud-Native Shopping](https://www.darkreading.com/dr-tech/tech-giants-go-cloud-native-shopping)
 - [Akamai Technologies Releases New Service and Tools to Stop Advanced Threats and Drive Zero Trust Adoption](https://www.darkreading.com/cloud/akamai-technologies-releases-new-service-and-tools-to-stop-advanced-threats-and-drive-zero-trust-adoption)
 - [Hiatus Campaign Infects DrayTek Routers for Cyber Espionage, Proxy Control](https://www.darkreading.com/threat-intelligence/hiatusrat-campaign-draytek-gear-cyber-espionage-proxy-control)
-- [Acer Confirms Data Offered Up for Sale Was Stolen](https://www.darkreading.com/application-security/acer-confirms-data-offered-for-sale-stolen)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
