@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IceFire Ransomware Portends a Broader Shift From Windows to Linux](https://www.darkreading.com/endpoint/icefire-ransomware-portends-broader-shift-windows-linux)
+- [AT&amp;T Vendor Breach Exposes Data on 9M Wireless Accounts](https://www.darkreading.com/application-security/att-vendor-breach-exposes-data-9m-wireless-accounts)
+- [US Lawmakers Face Cyberattacks, Potential Physical Harm After DC Health Link Breach](https://www.darkreading.com/application-security/us-lawmakers-cyberattacks-physical-harm-dc-health-link-breach)
 - [Medusa Gang Video Shows Minneapolis School District&#39;s Ransomed Data](https://www.darkreading.com/threat-intelligence/medusa-gang-video-minneapolis-school-district-ransomed-data)
 - [5 Reasons You Should Care About Unmanaged Assets](https://www.darkreading.com/vulnerabilities-threats/5-reasons-you-should-care-about-unmanaged-assets)
 - [Inside Threat: Developers Leaked 10M Credentials, Passwords in 2022](https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022)
 - [How to Jump-Start Your Cybersecurity Career](https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career)
 - [Iranian APT Targets Female Activists With Mahsa Amini Protest Lures](https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists)
-- [Critical RCE Bug Opens Fortinet&#39;s Secure Web Gateway to Takeover](https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover)
-- [5 Critical Components of Effective ICS/OT Security](https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-)
-- [&#39;Skinny&#39; Cyber-Insurance Policies Create Compliance Path](https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
