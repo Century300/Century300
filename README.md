@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical RCE Bug Opens Fortinet&#39;s Secure Web Gateway to Takeover](https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover)
+- [5 Critical Components of Effective ICS/OT Security](https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-)
 - [&#39;Skinny&#39; Cyber-Insurance Policies Create Compliance Path](https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path)
 - [Edgeless Systems Raises $5M to Advance Confidential Computing](https://www.darkreading.com/application-security/edgeless-systems-raises-5m-to-advance-confidential-computing)
 - [Emotet Resurfaces Yet Again After 3-Month Hiatus](https://www.darkreading.com/threat-intelligence/emotet-resurfaces-yet-again-after-three-month-hiatus)
 - [TSA Issues Urgent Directive to Make Aviation More Cyber Resilient](https://www.darkreading.com/ics-ot/tsa-issues-urgent-directive-aviation-cyber-resilient)
 - [40% of Global ICS Systems Attacked With Malware in 2022](https://www.darkreading.com/application-security/40-global-ics-systems-attacked-malware-2022)
 - [Russian Influence Duo Targets Politicians, CEOs for Embarrassing Video Calls](https://www.darkreading.com/threat-intelligence/russian-influence-duo-targets-politicians-ceos-video-calls)
-- [AI-Powered &#39;BlackMamba&#39; Keylogging Attack Evades Modern EDR Security](https://www.darkreading.com/endpoint/ai-blackmamba-keylogging-edr-security)
-- [Lacework Launches Secured by Women Initiative](https://www.darkreading.com/operations/lacework-launches-secured-by-women-initiative-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
