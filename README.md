@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Avast Introduces Avast One Platinum](https://www.darkreading.com/remote-workforce/avast-introduces-avast-one-platinum)
+- [Forrester Study Reveals Businesses Are Insufficiently Prepared to Manage Enterprise Risks](https://www.darkreading.com/risk/new-forrester-study-reveals-businesses-are-insufficiently-prepared-to-manage-enterprise-risks)
+- [Keeper Security Issues Top 5 Cybersecurity Tips for 2023 College Basketball Tournament](https://www.darkreading.com/risk/keeper-security-issues-top-5-cybersecurity-tips-for-2023-college-basketball-tournament)
+- [ThreatBlockr Announces Partnership With Engaged Security Partners](https://www.darkreading.com/threat-intelligence/threatblockr-announces-partnership-with-engaged-security-partners)
 - [IceFire Ransomware Portends a Broader Shift From Windows to Linux](https://www.darkreading.com/endpoint/icefire-ransomware-portends-broader-shift-windows-linux)
 - [AT&amp;T Vendor Breach Exposes Data on 9M Wireless Accounts](https://www.darkreading.com/application-security/att-vendor-breach-exposes-data-9m-wireless-accounts)
 - [US Lawmakers Face Cyberattacks, Potential Physical Harm After DC Health Link Breach](https://www.darkreading.com/application-security/us-lawmakers-cyberattacks-physical-harm-dc-health-link-breach)
 - [Medusa Gang Video Shows Minneapolis School District&#39;s Ransomed Data](https://www.darkreading.com/threat-intelligence/medusa-gang-video-minneapolis-school-district-ransomed-data)
-- [5 Reasons You Should Care About Unmanaged Assets](https://www.darkreading.com/vulnerabilities-threats/5-reasons-you-should-care-about-unmanaged-assets)
-- [Inside Threat: Developers Leaked 10M Credentials, Passwords in 2022](https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022)
-- [How to Jump-Start Your Cybersecurity Career](https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career)
-- [Iranian APT Targets Female Activists With Mahsa Amini Protest Lures](https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
