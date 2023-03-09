@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Inside Threat: Developers Leaked 10M Credentials, Passwords in 2022](https://www.darkreading.com/application-security/inside-threat-developers-leaked-10m-credentials-passwords-2022)
+- [How to Jump-Start Your Cybersecurity Career](https://www.darkreading.com/operations/how-to-jump-start-your-cybersecurity-career)
 - [Iranian APT Targets Female Activists With Mahsa Amini Protest Lures](https://www.darkreading.com/threat-intelligence/iranian-apt-uses-mahsa-amini-protests-to-target-female-activists)
 - [Critical RCE Bug Opens Fortinet&#39;s Secure Web Gateway to Takeover](https://www.darkreading.com/application-security/critical-rce-bug-fortinet-secure-web-gateway-takeover)
 - [5 Critical Components of Effective ICS/OT Security](https://www.darkreading.com/ics-ot/5-critical-components-of-effective-ics-ot-security-)
 - [&#39;Skinny&#39; Cyber-Insurance Policies Create Compliance Path](https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path)
 - [Edgeless Systems Raises $5M to Advance Confidential Computing](https://www.darkreading.com/application-security/edgeless-systems-raises-5m-to-advance-confidential-computing)
 - [Emotet Resurfaces Yet Again After 3-Month Hiatus](https://www.darkreading.com/threat-intelligence/emotet-resurfaces-yet-again-after-three-month-hiatus)
-- [TSA Issues Urgent Directive to Make Aviation More Cyber Resilient](https://www.darkreading.com/ics-ot/tsa-issues-urgent-directive-aviation-cyber-resilient)
-- [40% of Global ICS Systems Attacked With Malware in 2022](https://www.darkreading.com/application-security/40-global-ics-systems-attacked-malware-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
