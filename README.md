@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [&#39;Skinny&#39; Cyber Insurance Policies Create Compliance Path](https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path)
+- [&#39;Skinny&#39; Cyber-Insurance Policies Create Compliance Path](https://www.darkreading.com/edge-articles/-skinny-cyber-insurance-policies-create-compliance-path)
 - [Edgeless Systems Raises $5M to Advance Confidential Computing](https://www.darkreading.com/application-security/edgeless-systems-raises-5m-to-advance-confidential-computing)
 - [Emotet Resurfaces Yet Again After 3-Month Hiatus](https://www.darkreading.com/threat-intelligence/emotet-resurfaces-yet-again-after-three-month-hiatus)
 - [TSA Issues Urgent Directive to Make Aviation More Cyber Resilient](https://www.darkreading.com/ics-ot/tsa-issues-urgent-directive-aviation-cyber-resilient)
