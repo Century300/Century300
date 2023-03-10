@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Make Sure Your Cybersecurity Budget Stays Flexible](https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible)
 - [Proposed FCC Rule Redefines Data Breaches for Communications Carriers](https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers)
 - [Avast Introduces Avast One Platinum](https://www.darkreading.com/remote-workforce/avast-introduces-avast-one-platinum)
 - [Forrester Study Reveals Businesses Are Insufficiently Prepared to Manage Enterprise Risks](https://www.darkreading.com/risk/new-forrester-study-reveals-businesses-are-insufficiently-prepared-to-manage-enterprise-risks)
@@ -83,7 +84,6 @@
 - [ThreatBlockr Announces Partnership With Engaged Security Partners](https://www.darkreading.com/threat-intelligence/threatblockr-announces-partnership-with-engaged-security-partners)
 - [IceFire Ransomware Portends a Broader Shift From Windows to Linux](https://www.darkreading.com/endpoint/icefire-ransomware-portends-broader-shift-windows-linux)
 - [AT&amp;T Vendor Breach Exposes Data on 9M Wireless Accounts](https://www.darkreading.com/application-security/att-vendor-breach-exposes-data-9m-wireless-accounts)
-- [US Lawmakers Face Cyberattacks, Potential Physical Harm After DC Health Link Breach](https://www.darkreading.com/application-security/us-lawmakers-cyberattacks-physical-harm-dc-health-link-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
