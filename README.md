@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlackLotus Secure Boot Bypass Malware Set to Ramp Up](https://www.darkreading.com/threat-intelligence/blacklotus-secure-boot-bypass-malware-set-to-ramp-up)
 - [Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping](https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping)
 - [Make Sure Your Cybersecurity Budget Stays Flexible](https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible)
 - [Proposed FCC Rule Redefines Data Breaches for Communications Carriers](https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers)
@@ -83,7 +84,6 @@
 - [Forrester Study Reveals Businesses Are Insufficiently Prepared to Manage Enterprise Risks](https://www.darkreading.com/risk/new-forrester-study-reveals-businesses-are-insufficiently-prepared-to-manage-enterprise-risks)
 - [Keeper Security Issues Top 5 Cybersecurity Tips for 2023 College Basketball Tournament](https://www.darkreading.com/risk/keeper-security-issues-top-5-cybersecurity-tips-for-2023-college-basketball-tournament)
 - [ThreatBlockr Announces Partnership With Engaged Security Partners](https://www.darkreading.com/threat-intelligence/threatblockr-announces-partnership-with-engaged-security-partners)
-- [IceFire Ransomware Portends a Broader Shift From Windows to Linux](https://www.darkreading.com/endpoint/icefire-ransomware-portends-broader-shift-windows-linux)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
