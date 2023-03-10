@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [BlackLotus Secure Boot Bypass Malware Set to Ramp Up](https://www.darkreading.com/threat-intelligence/blacklotus-secure-boot-bypass-malware-set-to-ramp-up)
+- [Legal Industry Faces Double Jeopardy as a Favorite Cybercrime Target](https://www.darkreading.com/threat-intelligence/legal-industry-double-jeopardy-favorite-cybercrime-target)
 - [Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping](https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping)
 - [Make Sure Your Cybersecurity Budget Stays Flexible](https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible)
 - [Proposed FCC Rule Redefines Data Breaches for Communications Carriers](https://www.darkreading.com/edge-articles/proposed-fcc-rule-redefines-data-breaches-for-communications-carriers)
 - [Avast Introduces Avast One Platinum](https://www.darkreading.com/remote-workforce/avast-introduces-avast-one-platinum)
 - [Forrester Study Reveals Businesses Are Insufficiently Prepared to Manage Enterprise Risks](https://www.darkreading.com/risk/new-forrester-study-reveals-businesses-are-insufficiently-prepared-to-manage-enterprise-risks)
 - [Keeper Security Issues Top 5 Cybersecurity Tips for 2023 College Basketball Tournament](https://www.darkreading.com/risk/keeper-security-issues-top-5-cybersecurity-tips-for-2023-college-basketball-tournament)
-- [ThreatBlockr Announces Partnership With Engaged Security Partners](https://www.darkreading.com/threat-intelligence/threatblockr-announces-partnership-with-engaged-security-partners)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
