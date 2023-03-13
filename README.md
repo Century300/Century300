@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [And the Cyberattack Goes To ... Oscar-Nominated Film Fans](https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans)
+- [And the Cyberattack Goes to ... Fans of Oscar-Nominated Films](https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans)
 - [ChatGPT Browser Extension Hijacks Facebook Business Accounts](https://www.darkreading.com/application-security/chatgpt-browser-extension-hijacks-facebook-business-accounts)
 - [Pig Butchering &amp; Investment Scams: The $3B Cybercrime Threat Overtaking BEC](https://www.darkreading.com/application-security/pig-butchering-investment-scams-3b-cybercrime-threat-overtaking-bec)
 - [BlackLotus Secure Boot Bypass Malware Set to Ramp Up](https://www.darkreading.com/threat-intelligence/blacklotus-secure-boot-bypass-malware-set-to-ramp-up)
