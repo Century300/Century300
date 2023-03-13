@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Hike in AI-Created YouTube Videos Loaded With Malware](https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-)
+- [Brand Names in Finance, Telecom, Tech Lead Successful Phishing Lures](https://www.darkreading.com/threat-intelligence/brand-names-finance-telecom-tech-successful-phishing-lures)
+- [Hackers Lure Cybersecurity Researchers With Fake LinkedIn Recruiter Profiles](https://www.darkreading.com/application-security/north-korean-hackers-targeting-security-researchers)
+- [AI-Created YouTube Videos Spread Around Malware](https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-)
 - [5 Lessons Learned From Hundreds of Penetration Tests](https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests)
 - [And the Cyberattack Goes to ... Fans of Oscar-Nominated Films](https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans)
 - [ChatGPT Browser Extension Hijacks Facebook Business Accounts](https://www.darkreading.com/application-security/chatgpt-browser-extension-hijacks-facebook-business-accounts)
 - [Pig Butchering &amp; Investment Scams: The $3B Cybercrime Threat Overtaking BEC](https://www.darkreading.com/application-security/pig-butchering-investment-scams-3b-cybercrime-threat-overtaking-bec)
 - [BlackLotus Secure Boot Bypass Malware Set to Ramp Up](https://www.darkreading.com/threat-intelligence/blacklotus-secure-boot-bypass-malware-set-to-ramp-up)
-- [Legal Industry Faces Double Jeopardy as a Favorite Cybercrime Target](https://www.darkreading.com/threat-intelligence/legal-industry-double-jeopardy-favorite-cybercrime-target)
-- [Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping](https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
