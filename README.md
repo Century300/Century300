@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hike in AI-Created YouTube Videos Loaded With Malware](https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-)
 - [5 Lessons Learned From Hundreds of Penetration Tests](https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests)
 - [And the Cyberattack Goes to ... Fans of Oscar-Nominated Films](https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans)
 - [ChatGPT Browser Extension Hijacks Facebook Business Accounts](https://www.darkreading.com/application-security/chatgpt-browser-extension-hijacks-facebook-business-accounts)
@@ -83,7 +84,6 @@
 - [BlackLotus Secure Boot Bypass Malware Set to Ramp Up](https://www.darkreading.com/threat-intelligence/blacklotus-secure-boot-bypass-malware-set-to-ramp-up)
 - [Legal Industry Faces Double Jeopardy as a Favorite Cybercrime Target](https://www.darkreading.com/threat-intelligence/legal-industry-double-jeopardy-favorite-cybercrime-target)
 - [Unpatched Zero-Day Bugs in Smart Intercom Allow Remote Eavesdropping](https://www.darkreading.com/cloud/unpatched-zero-day-bugs-smart-intercom-remote-eavesdropping)
-- [Make Sure Your Cybersecurity Budget Stays Flexible](https://www.darkreading.com/operations/make-sure-your-cybersecurity-budget-stays-flexible)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
