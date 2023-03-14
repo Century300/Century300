@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust)
 - [Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks](https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks)
 - [Orgs Have a Long Way to Go in Securing Remote Workforce](https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce)
 - [200-300% Increase in AI-Generated YouTube Videos to Spread Stealer Malware](https://www.darkreading.com/attacks-breaches/200-300-increase-in-ai-generated-youtube-videos-to-spread-stealer-malware)
@@ -83,7 +84,6 @@
 - [Brand Names in Finance, Telecom, Tech Lead Successful Phishing Lures](https://www.darkreading.com/threat-intelligence/brand-names-finance-telecom-tech-successful-phishing-lures)
 - [Hackers Lure Cybersecurity Researchers With Fake LinkedIn Recruiter Profiles](https://www.darkreading.com/application-security/north-korean-hackers-targeting-security-researchers)
 - [AI-Created YouTube Videos Spread Around Malware](https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-)
-- [5 Lessons Learned From Hundreds of Penetration Tests](https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
