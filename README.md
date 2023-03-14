@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks](https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks)
 - [Orgs Have a Long Way to Go in Securing Remote Workforce](https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce)
 - [200-300% Increase in AI-Generated YouTube Videos to Spread Stealer Malware](https://www.darkreading.com/attacks-breaches/200-300-increase-in-ai-generated-youtube-videos-to-spread-stealer-malware)
 - [SVB Meltdown: What It Means for Cybersecurity Startups&#39; Access to Capital](https://www.darkreading.com/risk/svb-meltdown-cybersec-startups-access-capital)
@@ -83,7 +84,6 @@
 - [Hackers Lure Cybersecurity Researchers With Fake LinkedIn Recruiter Profiles](https://www.darkreading.com/application-security/north-korean-hackers-targeting-security-researchers)
 - [AI-Created YouTube Videos Spread Around Malware](https://www.darkreading.com/application-security/ai-creating-compelling-youtube-videos-loaded-with-malware-)
 - [5 Lessons Learned From Hundreds of Penetration Tests](https://www.darkreading.com/application-security/5-lessons-learned-from-hundreds-of-penetration-tests)
-- [And the Cyberattack Goes to ... Fans of Oscar-Nominated Films](https://www.darkreading.com/application-security/and-the-cyberattack-goes-to-oscar-nominated-film-fans)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
