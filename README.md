@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [LockBit Threatens to Leak Stolen SpaceX Schematics](https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics)
+- [CISA Trials Ransomware Warning System for Critical Infrastructure Orgs](https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure)
 - [Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface](https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface)
 - [How Businesses Can Get Ready for AI-Powered Security Threats](https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats)
 - [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust)
 - [Emotet, QSnatch Malware Dominate Malicious DNS Traffic](https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic)
 - [Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks](https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks)
 - [Orgs Have a Long Way to Go in Securing Remote Workforce](https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce)
-- [200-300% Increase in AI-Generated YouTube Videos to Spread Stealer Malware](https://www.darkreading.com/attacks-breaches/200-300-increase-in-ai-generated-youtube-videos-to-spread-stealer-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
