@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
+- [Microsoft Zero-Day Bugs Allow Security Feature Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass)
+- [Samsung Next Invests in Mitiga, Brings Total Funding to $45M](https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m)
 - [LockBit Threatens to Leak Stolen SpaceX Schematics](https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics)
 - [CISA Trials Ransomware Warning System for Critical Infrastructure Orgs](https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure)
 - [Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface](https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface)
 - [How Businesses Can Get Ready for AI-Powered Security Threats](https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats)
 - [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust)
-- [Emotet, QSnatch Malware Dominate Malicious DNS Traffic](https://www.darkreading.com/threat-intelligence/dns-autobahn-malicious-network-traffic)
-- [Why Healthcare Boards Lag Other Industries in Preparing for Cyberattacks](https://www.darkreading.com/attacks-breaches/why-healthcare-boards-lag-other-industries-in-preparing-for-cyberattacks)
-- [Orgs Have a Long Way to Go in Securing Remote Workforce](https://www.darkreading.com/tech-trends/orgs-have-a-long-way-to-go-in-securing-remote-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
