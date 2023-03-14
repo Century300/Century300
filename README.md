@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 - [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
 - [Microsoft Zero-Day Bugs Allow Security Feature Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass)
 - [Samsung Next Invests in Mitiga, Brings Total Funding to $45M](https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m)
@@ -83,7 +84,6 @@
 - [CISA Trials Ransomware Warning System for Critical Infrastructure Orgs](https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure)
 - [Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface](https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface)
 - [How Businesses Can Get Ready for AI-Powered Security Threats](https://www.darkreading.com/risk/how-businesses-can-get-ready-for-ai-powered-security-threats)
-- [Deepfakes, Synthetic Media: How Digital Propaganda Undermines Trust](https://www.darkreading.com/microsoft/deepfakes-synthetic-media-how-digital-propaganda-undermines-trust)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
