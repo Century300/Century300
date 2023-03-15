@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Security Practitioners Should Understand Their Business](https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business)
 - [SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce](https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce)
 - [Are We Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
 - [Google Proposes Reducing TLS Cert Lifespan to 90 Days](https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days)
@@ -83,7 +84,6 @@
 - [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 - [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
 - [Microsoft Zero-Day Bugs Allow Security Feature Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass)
-- [Samsung Next Invests in Mitiga, Brings Total Funding to $45M](https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
