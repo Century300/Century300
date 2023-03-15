@@ -79,7 +79,7 @@
 - [Why Security Practitioners Should Understand Their Business](https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business)
 - [SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce](https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce)
 - [Are We Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
-- [Google Proposes Reducing TLS Cert Lifespan to 90 Days](https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days)
+- [Google Proposes Reducing TLS Cert Life Span to 90 Days](https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days)
 - [How Patch Tuesday Keeps the Beat After 20 Years](https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years)
 - [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 - [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
