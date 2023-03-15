@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns](https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns)
+- [Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector](https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector)
 - [Meet Data Privacy Mandates With Cybersecurity Frameworks](https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks)
 - [GoatRAT Android Banking Trojan Targets Mobile Automated Payment System](https://www.darkreading.com/attacks-breaches/goatrat-android-trojan-targets-mobile-banking-automated-payment-system)
 - [Why Security Practitioners Should Understand Their Business](https://www.darkreading.com/risk/why-security-practitioners-should-understand-their-business)
 - [SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce](https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce)
 - [Are We Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
 - [Google Proposes Reducing TLS Cert Life Span to 90 Days](https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days)
-- [How Patch Tuesday Keeps the Beat After 20 Years](https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years)
-- [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
