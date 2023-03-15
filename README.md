@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Are we Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
 - [How Patch Tuesday Keeps the Beat After 20 Years](https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years)
 - [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 - [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
@@ -83,7 +84,6 @@
 - [Samsung Next Invests in Mitiga, Brings Total Funding to $45M](https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m)
 - [LockBit Threatens to Leak Stolen SpaceX Schematics](https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics)
 - [CISA Trials Ransomware Warning System for Critical Infrastructure Orgs](https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure)
-- [Access Control Gap in Microsoft Active Directory Widens Enterprise Attack Surface](https://www.darkreading.com/risk/access-control-gap-microsoft-active-directory-enterprise-attack-surface)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
