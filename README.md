@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Are we Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
+- [SMBs Orgs Want Help, but Cybersecurity Expertise Is Scarce](https://www.darkreading.com/operations/midsize-orgs-want-help-cybersecurity-pros-scarce)
+- [Are We Doing Enough to Protect Our Unstructured Data?](https://www.darkreading.com/omdia/are-we-doing-enough-to-protect-our-unstructured-data-)
+- [Google Proposes Reducing TLS Cert Lifespan to 90 Days](https://www.darkreading.com/dr-tech/google-proposes-reducing-tls-cert-lifespan-to-90-days)
 - [How Patch Tuesday Keeps the Beat After 20 Years](https://www.darkreading.com/edge-articles/how-patch-tuesday-keeps-the-beat-after-20-years)
 - [Optiv More Than Doubles Federal Presence With ClearShark Acquisition](https://www.darkreading.com/risk/optiv-more-than-doubles-federal-presence-with-clearshark-acquisition)
 - [Camozzi Group and Radiflow Announce Collaboration on Industrial Systems Cybersecurity](https://www.darkreading.com/ics-ot/camozzi-group-and-radiflow-announce-collaboration-on-industrial-systems-cybersecurity)
 - [Microsoft Zero-Day Bugs Allow Security Feature Bypass](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-bugs-security-feature-bypass)
 - [Samsung Next Invests in Mitiga, Brings Total Funding to $45M](https://www.darkreading.com/cloud/samsung-next-invests-in-mitiga-brings-total-funding-to-45m)
-- [LockBit Threatens to Leak Stolen SpaceX Schematics](https://www.darkreading.com/ics-ot/lockbit-threatens-leak-stolen-spacex-schematics)
-- [CISA Trials Ransomware Warning System for Critical Infrastructure Orgs](https://www.darkreading.com/ics-ot/cisa-ransomware-warning-system-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
