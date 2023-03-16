@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service](https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service)
 - [5 Ways to Fight School Ransomware Attacks](https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks)
 - [How Do Attackers Hijack Old Domains and Subdomains?](https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains)
 - [Hornetsecurity Launches VM Backup V9](https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9)
@@ -83,7 +84,6 @@
 - [Cyberattackers Continue Assault Against Fortinet Devices](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices)
 - [SecurityScorecard Appoints Former US Congressman John Katko As Senior Advisor](https://www.darkreading.com/operations/securityscorecard-appoints-former-us-congressman-john-katko-as-senior-advisor)
 - [&#39;Vile&#39; Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit](https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion)
-- [Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns](https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
