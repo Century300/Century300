@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [$3B Crypto Laundering Operation Seized by Cops](https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-)
+- [$3B Crypto-Mixer Money Laundering Operation Seized by Cops](https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-)
 - [Change Is Coming to the Network Detection and Response &lpar;NDR&rpar; Market](https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market)
 - [BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion](https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion)
 - [Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service](https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service)
