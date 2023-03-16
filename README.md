@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Do Attackers Hijack Old Domains and Subdomains?](https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains)
 - [Hornetsecurity Launches VM Backup V9](https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9)
 - [DirectDefense Reports the Top Threats From 2022 and What&#39;s Trending for 2023](https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023)
 - [Cyberattackers Continue Assault Against Fortinet Devices](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices)
@@ -83,7 +84,6 @@
 - [&#39;Vile&#39; Gang Duo Breaches Police Database, Impersonates Officers in Extortion Gambit](https://www.darkreading.com/attacks-breaches/vile-gang-duo-breaches-police-database-impersonates-officers-extortion)
 - [Telerik Bug Exploited to Steal Federal Agency Data, CISA Warns](https://www.darkreading.com/application-security/telerik-bug-exploited-steal-federal-agency-data-cisa-warns)
 - [Analysts Spot a Wave of SVB-Related Cyber Fraud Striking the Business Sector](https://www.darkreading.com/threat-intelligence/analysts-wave-svb-cyber-fraud-striking-business-sector)
-- [Meet Data Privacy Mandates With Cybersecurity Frameworks](https://www.darkreading.com/risk/meet-data-privacy-mandates-with-cybersecurity-frameworks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
