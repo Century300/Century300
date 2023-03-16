@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [$3B Crypto Laundering Operation Seized by Cops](https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-)
 - [Change Is Coming to the Network Detection and Response &lpar;NDR&rpar; Market](https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market)
 - [BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion](https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion)
 - [Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service](https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service)
@@ -83,7 +84,6 @@
 - [How Do Attackers Hijack Old Domains and Subdomains?](https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains)
 - [Hornetsecurity Launches VM Backup V9](https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9)
 - [DirectDefense Reports the Top Threats From 2022 and What&#39;s Trending for 2023](https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023)
-- [Cyberattackers Continue Assault Against Fortinet Devices](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-continue-assault-against-fortinet-devices)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
