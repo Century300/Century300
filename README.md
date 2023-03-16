@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Leveraging Behavioral Analysis to Catch Living-Off-the-Land Attacks](https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks)
 - [$3B Crypto-Mixer Money Laundering Operation Seized by Cops](https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-)
 - [Change Is Coming to the Network Detection and Response &lpar;NDR&rpar; Market](https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market)
 - [BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion](https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion)
@@ -83,7 +84,6 @@
 - [5 Ways to Fight School Ransomware Attacks](https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks)
 - [How Do Attackers Hijack Old Domains and Subdomains?](https://www.darkreading.com/edge-ask-the-experts/how-do-attackers-hijack-old-domains-and-subdomains)
 - [Hornetsecurity Launches VM Backup V9](https://www.darkreading.com/cloud/hornetsecurity-launches-vm-backup-v9)
-- [DirectDefense Reports the Top Threats From 2022 and What&#39;s Trending for 2023](https://www.darkreading.com/endpoint/directdefense-reports-the-top-threats-from-2022-and-what-s-trending-for-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
