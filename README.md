@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [The Ethics of Network and Security Monitoring](https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring)
+- [Low-Budget &#39;Winter Vivern&#39; APT Awakens After 2-Year Hibernation](https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation)
 - [Meta Proposes Revamped Approach to Online Kill Chain Frameworks](https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats)
 - [Leveraging Behavioral Analysis to Catch Living-Off-the-Land Attacks](https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks)
 - [$3B Crypto-Mixer Money Laundering Operation Seized by Cops](https://www.darkreading.com/application-security/-3b-crypto-money-laundering-operation-seized-by-cops-)
 - [Change Is Coming to the Network Detection and Response &lpar;NDR&rpar; Market](https://www.darkreading.com/omdia/change-is-coming-to-the-network-detection-and-response-ndr-market)
 - [BianLian Ransomware Pivots From Encryption to Pure Data-Theft Extortion](https://www.darkreading.com/risk/bianlian-ransomware-pivots-encryption-pure-data-theft-extortion)
 - [Rapid7 Acquires Minerva Labs to Extend Leading Managed Detection and Response Service](https://www.darkreading.com/endpoint/rapid7-acquires-minerva-labs-to-extend-leading-managed-detection-and-response-service)
-- [5 Ways to Fight School Ransomware Attacks](https://www.darkreading.com/attacks-breaches/5-ways-to-fight-school-ransomware-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
