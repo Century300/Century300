@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How CISOs Can Work With the CFO to Get the Best Security Budget](https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget)
 - [Microsoft Azure Warns on Killnet&#39;s Growing DDoS Onslaught Against Healthcare](https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare)
 - [Prancer Announces Integration With ChatGPT for Enhanced Security Assessments](https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments)
 - [Microsoft Outlook Vulnerability Could Be 2023&#39;s &#39;It&#39; Bug](https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug)
@@ -83,7 +84,6 @@
 - [The Ethics of Network and Security Monitoring](https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring)
 - [Low-Budget &#39;Winter Vivern&#39; APT Awakens After 2-Year Hibernation](https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation)
 - [Meta Proposes Revamped Approach to Online Kill Chain Frameworks](https://www.darkreading.com/application-security/meta-proposes-revamped-kill-chain-framework-online-threats)
-- [Leveraging Behavioral Analysis to Catch Living-Off-the-Land Attacks](https://www.darkreading.com/attacks-breaches/leveraging-behavioral-analysis-to-catch-living-off-the-land-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
