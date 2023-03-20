@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
+- [AI Has Your Business Data](https://www.darkreading.com/edge-articles/ai-has-your-business-data)
 - [Cops Nab BreachForums Boss in New York](https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york)
 - [Cyberattackers Hoop NBA Fan Data via Third-Party Vendor](https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor)
 - [SecurityBridge Introduces The SAP Management Dashboard](https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard)
 - [Shouldering the Increasingly Heavy Cloud Shared-Responsibility Model](https://www.darkreading.com/cloud/shouldering-the-increasingly-heavy-cloud-shared-responsibility-model)
 - [How CISOs Can Work With the CFO to Get the Best Security Budget](https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget)
 - [Microsoft Azure Warns on Killnet&#39;s Growing DDoS Onslaught Against Healthcare](https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare)
-- [Prancer Announces Integration With ChatGPT for Enhanced Security Assessments](https://www.darkreading.com/cloud/prancer-announces-integration-with-chatgpt-for-enhanced-security-assessments)
-- [Microsoft Outlook Vulnerability Could Be 2023&#39;s &#39;It&#39; Bug](https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
