@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SecurityBridge Introduces The SAP Management Dashboard](https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard)
 - [Shouldering the Increasingly Heavy Cloud Shared-Responsibility Model](https://www.darkreading.com/cloud/shouldering-the-increasingly-heavy-cloud-shared-responsibility-model)
 - [How CISOs Can Work With the CFO to Get the Best Security Budget](https://www.darkreading.com/edge-articles/how-cisos-can-work-with-the-cfo-to-get-the-best-security-budget)
 - [Microsoft Azure Warns on Killnet&#39;s Growing DDoS Onslaught Against Healthcare](https://www.darkreading.com/attacks-breaches/microsoft-azure-killnet-dos-onslaught-healthcare)
@@ -83,7 +84,6 @@
 - [Microsoft Outlook Vulnerability Could Be 2023&#39;s &#39;It&#39; Bug](https://www.darkreading.com/application-security/microsoft-outlook-vulnerability-2023-it-bug)
 - [Technology Firms Delivering Much-Sought Encryption-in-Use](https://www.darkreading.com/emerging-tech/technology-firms-delivering-much-sought-encryption-in-use)
 - [The Ethics of Network and Security Monitoring](https://www.darkreading.com/risk/the-ethics-of-network-and-security-monitoring)
-- [Low-Budget &#39;Winter Vivern&#39; APT Awakens After 2-Year Hibernation](https://www.darkreading.com/threat-intelligence/low-budget-winter-vivern-apt-awakens-after-2-year-hibernation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
