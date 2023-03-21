@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: It&#39;s E-Live!](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-)
 - [Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority](https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-)
 - [IAM Startup Aembit Secures How Workloads Connect to Services](https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services)
 - [ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?](https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped)
@@ -83,7 +84,6 @@
 - [AI Has Your Business Data](https://www.darkreading.com/edge-articles/ai-has-your-business-data)
 - [Unpatched Samsung Chipset Vulnerabilities Open Android Users to RCE Attacks](https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks)
 - [Cops Nab BreachForums Boss in New York](https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york)
-- [Cyberattackers Hoop NBA Fan Data via Third-Party Vendor](https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
