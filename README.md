@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority](https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-)
 - [IAM Startup Aembit Secures How Workloads Connect to Services](https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services)
 - [ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?](https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped)
 - [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
@@ -83,7 +84,6 @@
 - [Unpatched Samsung Chipset Vulnerabilities Open Android Users to RCE Attacks](https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks)
 - [Cops Nab BreachForums Boss in New York](https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york)
 - [Cyberattackers Hoop NBA Fan Data via Third-Party Vendor](https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor)
-- [SecurityBridge Introduces The SAP Management Dashboard](https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
