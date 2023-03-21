@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Research Highlights Cyber Security&#39;s Underestimated Role As a Business and Revenue Enabler](https://www.darkreading.com/operations/research-highlights-cyber-security-s-underestimated-role-as-a-business-and-revenue-enabler)
+- [BlackBerry Announces New Patent Sale Transaction With Patent Monetization Company for Up to $900M](https://www.darkreading.com/remote-workforce/blackberry-announces-new-patent-sale-transaction-with-patent-monetization-company-for-up-to-900m)
+- [Normalyze Granted Patent for Data Security Posture Management &lpar;DSPM&rpar;](https://www.darkreading.com/cloud/normalyze-granted-patent-for-data-security-posture-management-dspm-)
+- [Zero-Day Bug Allows Crypto Hackers to Drain $1.6M From Bitcoin ATMs](https://www.darkreading.com/attacks-breaches/zero-day-bug-crypto-hackers-bitcoin-atms)
+- [BigID&#39;s Data Security Posture Management Solution Integrates With SOAR Platforms](https://www.darkreading.com/risk/bigid-s-data-security-posture-management-solution-integrates-with-soar-platforms)
 - [Cybersecurity Skills Shortage, Recession Fears Drive &#39;Upskilling&#39; Training Trend](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-skills-shortage-recession-fears-drive-upskilling-training-trend)
 - [Name That Toon: It&#39;s E-Live!](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-)
 - [Custom &#39;Naplistener&#39; Malware a Nightmare for Network-Based Detection](https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep)
-- [Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority](https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-)
-- [IAM Startup Aembit Secures How Workloads Connect to Services](https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services)
-- [ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?](https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped)
-- [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
-- [AI Has Your Business Data](https://www.darkreading.com/edge-articles/ai-has-your-business-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
