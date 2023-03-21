@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Skills Shortage, Recession Fears Drive &#39;Upskilling&#39; Training Trend](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-skills-shortage-recession-fears-drive-upskilling-training-trend)
 - [Name That Toon: It&#39;s E-Live!](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-it-s-e-live-)
 - [Custom &#39;Naplistener&#39; Malware a Nightmare for Network-Based Detection](https://www.darkreading.com/threat-intelligence/custom-naplistener-malware-network-based-detection-sleep)
 - [Controlling Third-Party Data Risk Should Be a Top Cybersecurity Priority](https://www.darkreading.com/attacks-breaches/controlling-third-party-data-risk-should-be-a-top-cybersecurity-priority-)
@@ -83,7 +84,6 @@
 - [ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?](https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped)
 - [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
 - [AI Has Your Business Data](https://www.darkreading.com/edge-articles/ai-has-your-business-data)
-- [Unpatched Samsung Chipset Vulnerabilities Open Android Users to RCE Attacks](https://www.darkreading.com/attacks-breaches/samsung-chipset-vulnerabilities-android-users-rce-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
