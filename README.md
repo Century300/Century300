@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IAM Startup Aembit Secures How Workloads Connect to Services](https://www.darkreading.com/dr-tech/new-iam-startup-aembit-secures-how-workloads-connect-to-services)
 - [ChatGPT Gut Check: Cybersecurity Threats Overhyped or Not?](https://www.darkreading.com/attacks-breaches/chatgpt-gut-check-openai-cybersecurity-threat-overhyped)
 - [Mirai Hackers Use Golang to Create a Bigger, Badder DDoS Botnet](https://www.darkreading.com/vulnerabilities-threats/mirai-hackers-golang-bigger-badder-ddos-botnet)
 - [AI Has Your Business Data](https://www.darkreading.com/edge-articles/ai-has-your-business-data)
@@ -83,7 +84,6 @@
 - [Cops Nab BreachForums Boss in New York](https://www.darkreading.com/threat-intelligence/cops-nab-breachforums-boss-new-york)
 - [Cyberattackers Hoop NBA Fan Data via Third-Party Vendor](https://www.darkreading.com/risk/cyberattackers-hoop-nba-fan-data-third-party-vendor)
 - [SecurityBridge Introduces The SAP Management Dashboard](https://www.darkreading.com/application-security/securitybridge-introduces-the-sap-management-dashboard)
-- [Shouldering the Increasingly Heavy Cloud Shared-Responsibility Model](https://www.darkreading.com/cloud/shouldering-the-increasingly-heavy-cloud-shared-responsibility-model)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
