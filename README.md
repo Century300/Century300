@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Keep Incident Response Plans Current](https://www.darkreading.com/attacks-breaches/how-to-keep-incident-response-plans-current)
 - [Cyberpion Rebrands As IONIX](https://www.darkreading.com/attacks-breaches/cyberpion-rebrands-as-ionix)
 - [.NET Devs Targeted With Malicious NuGet Packages](https://www.darkreading.com/application-security/net-devs-targeted-with-malicious-nuget-packages)
 - [Renowned Researcher Kelly Lum Passes Away](https://www.darkreading.com/application-security/renowned-researcher-kelly-lum-passes-away)
@@ -83,7 +84,6 @@
 - [BlackBerry Announces New Patent Sale Transaction With Patent Monetization Company for Up to $900M](https://www.darkreading.com/remote-workforce/blackberry-announces-new-patent-sale-transaction-with-patent-monetization-company-for-up-to-900m)
 - [Normalyze Granted Patent for Data Security Posture Management &lpar;DSPM&rpar;](https://www.darkreading.com/cloud/normalyze-granted-patent-for-data-security-posture-management-dspm-)
 - [Zero-Day Bug Allows Crypto Hackers to Drain $1.6M From Bitcoin ATMs](https://www.darkreading.com/attacks-breaches/zero-day-bug-crypto-hackers-bitcoin-atms)
-- [BigID&#39;s Data Security Posture Management Solution Integrates With SOAR Platforms](https://www.darkreading.com/risk/bigid-s-data-security-posture-management-solution-integrates-with-soar-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
