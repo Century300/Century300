@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vectra Unifies AI-Driven Behavior-Based Detection and Signature-Based Detection](https://www.darkreading.com/attacks-breaches/vectra-unifies-ai-driven-behavior-based-detection-and-signature-based-detection)
+- [XM Cyber Announces Acquisition of Confluera, Adding Run-Time Protection on Cloud Workloads](https://www.darkreading.com/cloud/xm-cyber-announces-acquisition-of-confluera-adding-run-time-protection-on-cloud-workloads)
 - [10 Vulnerabilities Types to Focus On This Year](https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year)
 - [Kaspersky Survey Finds One in Three Users Have Experienced CryptoTheft](https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft)
+- [$36M BEC Fraud Attempt Narrowly Thwarted by AI](https://www.darkreading.com/risk/bec-fraud-attempt-thwarted-ai)
 - [Chinese Warships Suspected of Signal-Jamming Passenger Jets](https://www.darkreading.com/ics-ot/chinese-warships-suspected-signal-jamming-passenger-jets)
 - [Pipeline Cybersecurity Rules Show the Need for Public-Private Partnerships](https://www.darkreading.com/ics-ot/pipeline-cybersecurity-rules-show-the-need-for-public-private-partnerships)
 - [Attackers Are Probing for Zero-Day Vulns in Edge Infrastructure Products](https://www.darkreading.com/attacks-breaches/attackers-probing-zero-day-vulns-edge-infrastructure)
-- [BreachForums Shuts Down in Wake of Leader&#39;s Arrest](https://www.darkreading.com/vulnerabilities-threats/breachforums-shuts-down-leaders-arrest)
-- [How to Keep Incident Response Plans Current](https://www.darkreading.com/attacks-breaches/how-to-keep-incident-response-plans-current)
-- [Cyberpion Rebrands As IONIX](https://www.darkreading.com/attacks-breaches/cyberpion-rebrands-as-ionix)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
