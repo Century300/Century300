@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [10 Vulnerabilities Types to Focus On This Year](https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year)
 - [Pipeline Cybersecurity Rules Show the Need for Public-Private Partnerships](https://www.darkreading.com/ics-ot/pipeline-cybersecurity-rules-show-the-need-for-public-private-partnerships)
+- [Attackers Are Probing for Zero-Day Vulns in Edge Infrastructure Products](https://www.darkreading.com/attacks-breaches/attackers-probing-zero-day-vulns-edge-infrastructure)
 - [BreachForums Shuts Down in Wake of Leader&#39;s Arrest](https://www.darkreading.com/vulnerabilities-threats/breachforums-shuts-down-leaders-arrest)
 - [How to Keep Incident Response Plans Current](https://www.darkreading.com/attacks-breaches/how-to-keep-incident-response-plans-current)
 - [Cyberpion Rebrands As IONIX](https://www.darkreading.com/attacks-breaches/cyberpion-rebrands-as-ionix)
 - [.NET Devs Targeted With Malicious NuGet Packages](https://www.darkreading.com/application-security/net-devs-targeted-with-malicious-nuget-packages)
 - [Renowned Researcher Kelly Lum Passes Away](https://www.darkreading.com/application-security/renowned-researcher-kelly-lum-passes-away)
-- [Research Highlights Cyber Security&#39;s Underestimated Role As a Business and Revenue Enabler](https://www.darkreading.com/operations/research-highlights-cyber-security-s-underestimated-role-as-a-business-and-revenue-enabler)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
