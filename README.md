@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Okta Post-Exploitation Method Exposes User Passwords](https://www.darkreading.com/endpoint/okta-post-exploit-method-exposes-user-passwords)
 - [Just 1% of Nonprofit Domains Have Basic DMARC Email Security Protections](https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections)
 - [Are You Talking to a Carbon, Silicon, or Artificial Identity?](https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-)
 - [Lightspin Launches Remediation Hub to Identify and Fix Cloud Security Threats](https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats)
@@ -83,7 +84,6 @@
 - [Vectra Unifies AI-Driven Behavior-Based Detection and Signature-Based Detection](https://www.darkreading.com/attacks-breaches/vectra-unifies-ai-driven-behavior-based-detection-and-signature-based-detection)
 - [XM Cyber Announces Acquisition of Confluera, Adding Run-Time Protection on Cloud Workloads](https://www.darkreading.com/cloud/xm-cyber-announces-acquisition-of-confluera-adding-run-time-protection-on-cloud-workloads)
 - [10 Vulnerabilities Types to Focus On This Year](https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year)
-- [Kaspersky Survey Finds One in Three Users Have Experienced CryptoTheft](https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
