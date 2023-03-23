@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Android Malware Targets Customers of 450 Financial Institutions Worldwide](https://www.darkreading.com/mobile/new-android-malware-targets-customers-of-450-financial-institutions-worldwide)
 - [Bundestag Bungle: Political Microtargeting of Facebook Users Draws Ire](https://www.darkreading.com/vulnerabilities-threats/bundestag-bungle-political-microtargeting-of-facebook-users-draws-ire)
 - [The Board of Directors Will See You Now](https://www.darkreading.com/risk/the-board-of-directors-will-see-you-now)
 - [Epidemic of Insecure Storage, Backup Devices Is a Windfall for Cybercriminals](https://www.darkreading.com/risk/epidemic-insecure-storage-backup-devices-cybercriminals)
@@ -83,7 +84,6 @@
 - [Human Detection and Response: A New Approach to Building a Strong Security Culture](https://www.darkreading.com/risk/human-detection-and-response-a-new-approach-to-building-a-strong-security-culture)
 - [Okta Post-Exploitation Method Exposes User Passwords](https://www.darkreading.com/endpoint/okta-post-exploit-method-exposes-user-passwords)
 - [Just 1% of Nonprofit Domains Have Basic DMARC Email Security Protections](https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections)
-- [Are You Talking to a Carbon, Silicon, or Artificial Identity?](https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
