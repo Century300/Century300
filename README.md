@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IoT Startup OP[4] Launches With Vulnerability Management Platform](https://www.darkreading.com/dr-tech/-iot-startup-op-4-launches-with-vulnerability-management-platform)
 - [Lightspin Launches Remediation Hub to Identify and Fix Cloud Security Threats](https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats)
 - [CISA Warns on Unpatched ICS Vulnerabilities Lurking in Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-unpatched-vulnerabilities-ics-critical-infrastructure)
 - [Vectra Unifies AI-Driven Behavior-Based Detection and Signature-Based Detection](https://www.darkreading.com/attacks-breaches/vectra-unifies-ai-driven-behavior-based-detection-and-signature-based-detection)
@@ -83,7 +84,6 @@
 - [10 Vulnerabilities Types to Focus On This Year](https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year)
 - [Kaspersky Survey Finds One in Three Users Have Experienced CryptoTheft](https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft)
 - [$36M BEC Fraud Attempt Narrowly Thwarted by AI](https://www.darkreading.com/risk/bec-fraud-attempt-thwarted-ai)
-- [Chinese Warships Suspected of Signal-Jamming Passenger Jets](https://www.darkreading.com/ics-ot/chinese-warships-suspected-signal-jamming-passenger-jets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
