@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Just 1% of Nonprofit Domains Have Basic DMARC Email Security Protections](https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections)
 - [Are You Talking to a Carbon, Silicon, or Artificial Identity?](https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-)
 - [Lightspin Launches Remediation Hub to Identify and Fix Cloud Security Threats](https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats)
 - [CISA Warns on Unpatched ICS Vulnerabilities Lurking in Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-unpatched-vulnerabilities-ics-critical-infrastructure)
@@ -83,7 +84,6 @@
 - [XM Cyber Announces Acquisition of Confluera, Adding Run-Time Protection on Cloud Workloads](https://www.darkreading.com/cloud/xm-cyber-announces-acquisition-of-confluera-adding-run-time-protection-on-cloud-workloads)
 - [10 Vulnerabilities Types to Focus On This Year](https://www.darkreading.com/edge-articles/10-vulnerability-types-to-focus-on-this-year)
 - [Kaspersky Survey Finds One in Three Users Have Experienced CryptoTheft](https://www.darkreading.com/endpoint/kaspersky-survey-finds-one-in-three-users-have-experienced-cryptotheft)
-- [$36M BEC Fraud Attempt Narrowly Thwarted by AI](https://www.darkreading.com/risk/bec-fraud-attempt-thwarted-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
