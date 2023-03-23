@@ -79,11 +79,11 @@
 - [The Board of Directors Will See You Now](https://www.darkreading.com/risk/the-board-of-directors-will-see-you-now)
 - [Epidemic of Insecure Storage, Backup Devices Is a Windfall for Cybercriminals](https://www.darkreading.com/risk/epidemic-insecure-storage-backup-devices-cybercriminals)
 - [MITRE Rolls Out Supply Chain Security Prototype](https://www.darkreading.com/risk/mitre-rolls-out-supply-chain-security-prototype)
+- [Human Detection and Response: A New Approach to Building a Strong Security Culture](https://www.darkreading.com/risk/human-detection-and-response-a-new-approach-to-building-a-strong-security-culture)
 - [Okta Post-Exploitation Method Exposes User Passwords](https://www.darkreading.com/endpoint/okta-post-exploit-method-exposes-user-passwords)
 - [Just 1% of Nonprofit Domains Have Basic DMARC Email Security Protections](https://www.darkreading.com/attacks-breaches/nonprofit-domains-basic-dmarc-impersonation-protections)
 - [Are You Talking to a Carbon, Silicon, or Artificial Identity?](https://www.darkreading.com/vulnerabilities-threats/are-you-talking-to-a-carbon-silicon-or-artificial-identity-)
 - [Lightspin Launches Remediation Hub to Identify and Fix Cloud Security Threats](https://www.darkreading.com/cloud/lightspin-launches-remediation-hub-to-identify-and-fix-cloud-security-threats)
-- [CISA Warns on Unpatched ICS Vulnerabilities Lurking in Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-unpatched-vulnerabilities-ics-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
