@@ -79,7 +79,7 @@
 - [Red Teaming at Scale to Uncover Your Big Unknowns](https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns)
 - [Application Security Requires More Investment in Developer Education](https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education)
 - [Open Source Vulnerabilities Still Pose a Big Challenge for Security Teams](https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams)
-- [New Android Malware Targets Customers of 450 Financial Institutions Worldwide](https://www.darkreading.com/mobile/new-android-malware-targets-customers-of-450-financial-institutions-worldwide)
+- [&#39;Nexus&#39; Android Malware Targets Customers of 450 Financial Institutions Worldwide](https://www.darkreading.com/mobile/new-android-malware-targets-customers-of-450-financial-institutions-worldwide)
 - [Bundestag Bungle: Political Microtargeting of Facebook Users Draws Ire](https://www.darkreading.com/vulnerabilities-threats/bundestag-bungle-political-microtargeting-of-facebook-users-draws-ire)
 - [The Board of Directors Will See You Now](https://www.darkreading.com/risk/the-board-of-directors-will-see-you-now)
 - [Epidemic of Insecure Storage, Backup Devices Is a Windfall for Cybercriminals](https://www.darkreading.com/risk/epidemic-insecure-storage-backup-devices-cybercriminals)
