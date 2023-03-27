@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Clop Keeps Racking Up Ransomware Victims With GoAnywhere Flaw](https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-)
+- [Twitter&#39;s Source Code Leak on GitHub a Potential Cyber Nightmare](https://www.darkreading.com/attacks-breaches/twitter-source-code-leak-github-potential-cyber-nightmare)
 - [7 Women Leading the Charge in Cybersecurity Research &amp; Analysis](https://www.darkreading.com/vulnerabilities-threats/7-women-leading-charge-cybersecurity-research-analysis)
 - [Drive to Pervasive Encryption Boosts Key Management](https://www.darkreading.com/dr-tech/drive-pervasive-encryption-boosts-key-management)
 - [Cybersecurity vs. Everyone: From Conflict to Collaboration](https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration)
 - [CyberSecure Announces Strategic Alliance](https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance)
 - [Tesla Model 3 Hacked in Less Than 2 Minutes at Pwn2Own Contest](https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest)
 - [GitHub&#39;s Private RSA SSH Key Mistakenly Exposed in Public Repository](https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository)
-- [Zoom Zoom: &#39;Dark Power&#39; Ransomware Extorts 10 Targets in Less Than a Month](https://www.darkreading.com/vulnerabilities-threats/dark-power-ransomware-extorts-10-targets-less-than-a-month)
-- [Malicious ChatGPT Extensions Add to Google Chrome Woes](https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
