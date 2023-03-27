@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity vs. Everyone: From Conflict to Collaboration](https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration)
 - [CyberSecure Announces Strategic Alliance](https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance)
 - [Tesla Model 3 Hacked in Less Than 2 Minutes at Pwn2Own Contest](https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest)
 - [GitHub&#39;s Private RSA SSH Key Mistakenly Exposed in Public Repository](https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository)
@@ -83,7 +84,6 @@
 - [Malicious ChatGPT Extensions Add to Google Chrome Woes](https://www.darkreading.com/attacks-breaches/malicious-chatgpt-extensions-add-to-google-chrome-woes)
 - [Red Teaming at Scale to Uncover Your Big Unknowns](https://www.darkreading.com/edge-articles/red-teaming-at-scale-to-uncover-your-big-unknowns)
 - [Application Security Requires More Investment in Developer Education](https://www.darkreading.com/application-security/application-security-requires-more-investment-in-developer-education)
-- [Open Source Vulnerabilities Still Pose a Big Challenge for Security Teams](https://www.darkreading.com/application-security/open-source-vulnerabilities-still-pose-a-big-challenge-for-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
