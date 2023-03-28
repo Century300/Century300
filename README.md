@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bitwarden Announces Secrets Management With a Combination of Open Source, End-to-End Encryption, and Ease of Use](https://www.darkreading.com/cloud/bitwarden-announces-secrets-management-with-a-combination-of-open-source-end-to-end-encryption-and-ease-of-use)
 - [North Korea&#39;s Kimsuky Evolves into Full-Fledged, Prolific APT](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat)
 - [Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds](https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds)
 - [Spend on Safety Measures &amp; Call Out Insecure Practices for Safer IoT](https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot)
@@ -83,7 +84,6 @@
 - [CISA Releases Hunt Tool for Microsoft&#39;s Cloud Services](https://www.darkreading.com/dr-tech/cisa-releases-hunt-tool-for-microsoft-s-cloud-services)
 - [Clop Keeps Racking Up Ransomware Victims With GoAnywhere Flaw](https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-)
 - [Twitter&#39;s Source Code Leak on GitHub a Potential Cyber Nightmare](https://www.darkreading.com/attacks-breaches/twitter-source-code-leak-github-potential-cyber-nightmare)
-- [7 Women Leading the Charge in Cybersecurity Research &amp; Analysis](https://www.darkreading.com/vulnerabilities-threats/7-women-leading-charge-cybersecurity-research-analysis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
