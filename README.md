@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How CISOs Can Reduce the Danger of Using Data Brokers](https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers)
 - [Clop Keeps Racking Up Ransomware Victims With GoAnywhere Flaw](https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-)
 - [Twitter&#39;s Source Code Leak on GitHub a Potential Cyber Nightmare](https://www.darkreading.com/attacks-breaches/twitter-source-code-leak-github-potential-cyber-nightmare)
 - [7 Women Leading the Charge in Cybersecurity Research &amp; Analysis](https://www.darkreading.com/vulnerabilities-threats/7-women-leading-charge-cybersecurity-research-analysis)
@@ -83,7 +84,6 @@
 - [Cybersecurity vs. Everyone: From Conflict to Collaboration](https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration)
 - [CyberSecure Announces Strategic Alliance](https://www.darkreading.com/physical-security/cybersecure-announces-strategic-alliance)
 - [Tesla Model 3 Hacked in Less Than 2 Minutes at Pwn2Own Contest](https://www.darkreading.com/vulnerabilities-threats/tesla-model-3-hacked-2-minutes-pwn2own-contest)
-- [GitHub&#39;s Private RSA SSH Key Mistakenly Exposed in Public Repository](https://www.darkreading.com/application-security/github-private-rsa-ssh-key-mistakenly-exposed-public-repository)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
