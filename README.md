@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea&#39;s Kimsuky Evolves into Full-Fledged, Prolific APT](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat)
 - [Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds](https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds)
 - [Spend on Safety Measures &amp; Call Out Insecure Practices for Safer IoT](https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot)
 - [How CISOs Can Reduce the Danger of Using Data Brokers](https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers)
@@ -83,7 +84,6 @@
 - [Clop Keeps Racking Up Ransomware Victims With GoAnywhere Flaw](https://www.darkreading.com/attacks-breaches/clop-keeps-racking-up-ransomware-victims-with-goanywhere-flaw-)
 - [Twitter&#39;s Source Code Leak on GitHub a Potential Cyber Nightmare](https://www.darkreading.com/attacks-breaches/twitter-source-code-leak-github-potential-cyber-nightmare)
 - [7 Women Leading the Charge in Cybersecurity Research &amp; Analysis](https://www.darkreading.com/vulnerabilities-threats/7-women-leading-charge-cybersecurity-research-analysis)
-- [Drive to Pervasive Encryption Boosts Key Management](https://www.darkreading.com/dr-tech/drive-pervasive-encryption-boosts-key-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
