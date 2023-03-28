@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds](https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds)
 - [Spend on Safety Measures &amp; Call Out Insecure Practices for Safer IoT](https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot)
 - [How CISOs Can Reduce the Danger of Using Data Brokers](https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers)
 - [CISA Releases Hunt Tool for Microsoft&#39;s Cloud Services](https://www.darkreading.com/dr-tech/cisa-releases-hunt-tool-for-microsoft-s-cloud-services)
@@ -83,7 +84,6 @@
 - [Twitter&#39;s Source Code Leak on GitHub a Potential Cyber Nightmare](https://www.darkreading.com/attacks-breaches/twitter-source-code-leak-github-potential-cyber-nightmare)
 - [7 Women Leading the Charge in Cybersecurity Research &amp; Analysis](https://www.darkreading.com/vulnerabilities-threats/7-women-leading-charge-cybersecurity-research-analysis)
 - [Drive to Pervasive Encryption Boosts Key Management](https://www.darkreading.com/dr-tech/drive-pervasive-encryption-boosts-key-management)
-- [Cybersecurity vs. Everyone: From Conflict to Collaboration](https://www.darkreading.com/operations/cybersecurity-vs-everyone-from-conflict-to-collaboration)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
