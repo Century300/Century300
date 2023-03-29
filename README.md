@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Does Data Literacy Enhance Data Security?](https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-)
 - [MacStealer Malware Plucks Bushels of Data From Apple Users](https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users)
 - [NullMixer Polymorphic Malware Variant Infects 8K Targets in Just a Month](https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month)
 - [Millions of Pen Tests Show Companies&#39; Security Postures Are Getting Worse](https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse)
@@ -83,7 +84,6 @@
 - [North Korea&#39;s Kimsuky Evolves into Full-Fledged, Prolific APT43](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat)
 - [Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds](https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds)
 - [Spend on Safety Measures &amp; Call Out Insecure Practices for Safer IoT](https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot)
-- [How CISOs Can Reduce the Danger of Using Data Brokers](https://www.darkreading.com/edge-articles/how-cisos-can-reduce-the-danger-of-using-data-brokers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
