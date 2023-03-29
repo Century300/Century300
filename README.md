@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trojan-Rigged Tor Browser Bundle Drops Malware](https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware)
+- [Patch Now: Cybercriminals Set Sights on Critical IBM File Transfer Bug](https://www.darkreading.com/vulnerabilities-threats/patch-now-cybercriminals-set-sights-critical-ibm-file-transfer-bug)
 - [Phishing Emails Up a Whopping 569% in 2022](https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022)
 - [Cybersecurity Investment Outlook Remains Grim as Funding Activity Sharply Declines](https://www.darkreading.com/threat-intelligence/cybersecurity-investment-and-m-a-activity-slowed-in-q1-2023)
 - [Using Observability to Power a Smarter Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy)
 - [Google: Commercial Spyware Used by Governments Laden With Zero-Day Exploits](https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits)
 - [The CISO Mantra: Get Ready to Do More With Less](https://www.darkreading.com/vulnerabilities-threats/the-ciso-mantra-get-ready-to-do-more-with-less)
 - [How Does Data Literacy Enhance Data Security?](https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-)
-- [Microsoft Security Copilot Uses GPT-4 to Beef Up Security Incident Response](https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response)
-- [MacStealer Malware Plucks Bushels of Data From Apple Users](https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
