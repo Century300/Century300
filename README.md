@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Top Tech Talent Warns on AI&#39;s Threat to Human Existence in Open Letter](https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter)
+- [Top Tech Talent Warns of AI&#39;s Threat to Human Existence in Open Letter](https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter)
 - [Trojan-Rigged Tor Browser Bundle Drops Malware](https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware)
 - [Patch Now: Cybercriminals Set Sights on Critical IBM File Transfer Bug](https://www.darkreading.com/vulnerabilities-threats/patch-now-cybercriminals-set-sights-critical-ibm-file-transfer-bug)
 - [Phishing Emails Up a Whopping 569% in 2022](https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022)
