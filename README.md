@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Using Observability to Power a Smarter Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy)
+- [Google: Commercial Spyware Used by Governments Laden With Zero-Day Exploits](https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits)
 - [The CISO Mantra: Get Ready to Do More With Less](https://www.darkreading.com/vulnerabilities-threats/the-ciso-mantra-get-ready-to-do-more-with-less)
 - [How Does Data Literacy Enhance Data Security?](https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-)
 - [Microsoft Security Copilot Uses GPT-4 to Beef Up Security Incident Response](https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response)
 - [MacStealer Malware Plucks Bushels of Data From Apple Users](https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users)
 - [NullMixer Polymorphic Malware Variant Infects 8K Targets in Just a Month](https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month)
 - [Millions of Pen Tests Show Companies&#39; Security Postures Are Getting Worse](https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse)
-- [Bitwarden Announces Secrets Management With a Combination of Open Source, End-to-End Encryption, and Ease of Use](https://www.darkreading.com/cloud/bitwarden-announces-secrets-management-with-a-combination-of-open-source-end-to-end-encryption-and-ease-of-use)
-- [North Korea&#39;s Kimsuky Evolves into Full-Fledged, Prolific APT43](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
