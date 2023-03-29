@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Investment Outlook Remains Grim as Funding Activity Sharply Declines](https://www.darkreading.com/threat-intelligence/cybersecurity-investment-outlook-grim-funding-declines)
 - [Using Observability to Power a Smarter Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy)
 - [Google: Commercial Spyware Used by Governments Laden With Zero-Day Exploits](https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits)
 - [The CISO Mantra: Get Ready to Do More With Less](https://www.darkreading.com/vulnerabilities-threats/the-ciso-mantra-get-ready-to-do-more-with-less)
@@ -83,7 +84,6 @@
 - [Microsoft Security Copilot Uses GPT-4 to Beef Up Security Incident Response](https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response)
 - [MacStealer Malware Plucks Bushels of Data From Apple Users](https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users)
 - [NullMixer Polymorphic Malware Variant Infects 8K Targets in Just a Month](https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month)
-- [Millions of Pen Tests Show Companies&#39; Security Postures Are Getting Worse](https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
