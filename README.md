@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Does Data Literacy Enhance Data Security?](https://www.darkreading.com/edge-ask-the-experts/how-does-data-literacy-enhance-data-security-)
+- [Microsoft Security Copilot Uses GPT-4 to Beef Up Security Incident Response](https://www.darkreading.com/dr-tech/microsoft-security-copilot-uses-gpt-4-to-beef-up-security-incident-response)
 - [MacStealer Malware Plucks Bushels of Data From Apple Users](https://www.darkreading.com/attacks-breaches/macstealer-malware-plucks-bushels-data-apple-users)
 - [NullMixer Polymorphic Malware Variant Infects 8K Targets in Just a Month](https://www.darkreading.com/attacks-breaches/nullmixer-polymorphic-malware-variant-8k-targets-month)
 - [Millions of Pen Tests Show Companies&#39; Security Postures Are Getting Worse](https://www.darkreading.com/cloud/millions-pen-tests-companies-security-posture-getting-worse)
 - [Bitwarden Announces Secrets Management With a Combination of Open Source, End-to-End Encryption, and Ease of Use](https://www.darkreading.com/cloud/bitwarden-announces-secrets-management-with-a-combination-of-open-source-end-to-end-encryption-and-ease-of-use)
 - [North Korea&#39;s Kimsuky Evolves into Full-Fledged, Prolific APT43](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-evolves-full-fledged-persistent-threat)
 - [Hey, Siri: Hackers Can Control Smart Devices Using Inaudible Sounds](https://www.darkreading.com/vulnerabilities-threats/siri-hackers-control-smart-devices-inaudible-sounds)
-- [Spend on Safety Measures &amp; Call Out Insecure Practices for Safer IoT](https://www.darkreading.com/ics-ot/spend-on-safety-measures-call-out-insecure-practices-for-safer-iot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
