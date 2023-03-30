@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
 - [Organizations Reassess Cyber Insurance as Self-Insurance Strategies Emerge](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
 - [DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud](https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud)
 - [Socura Launches Managed SASE &lpar;MSASE&rpar; Service](https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service)
@@ -83,7 +84,6 @@
 - [Spera Takes Aim at Identity Security Posture Management](https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management)
 - [Top Tech Talent Warns of AI&#39;s Threat to Human Existence in Open Letter](https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter)
 - [Trojan-Rigged Tor Browser Bundle Drops Malware](https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware)
-- [Patch Now: Cybercriminals Set Sights on Critical IBM File Transfer Bug](https://www.darkreading.com/vulnerabilities-threats/patch-now-cybercriminals-set-sights-critical-ibm-file-transfer-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
