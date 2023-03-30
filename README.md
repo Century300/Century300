@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Stop Blaming the End User for Security Risk](https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk)
 - [Spera Takes Aim at Identity Security Posture Management](https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management)
 - [Top Tech Talent Warns of AI&#39;s Threat to Human Existence in Open Letter](https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter)
 - [Trojan-Rigged Tor Browser Bundle Drops Malware](https://www.darkreading.com/attacks-breaches/trojan-rigged-tor-browser-bundle-drops-malware)
@@ -83,7 +84,6 @@
 - [Phishing Emails Up a Whopping 569% in 2022](https://www.darkreading.com/attacks-breaches/phishing-emails-up-whopping-569-percent-2022)
 - [Cybersecurity Investment Outlook Remains Grim as Funding Activity Sharply Declines](https://www.darkreading.com/threat-intelligence/cybersecurity-investment-and-m-a-activity-slowed-in-q1-2023)
 - [Using Observability to Power a Smarter Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/using-observability-to-power-a-smarter-cybersecurity-strategy)
-- [Google: Commercial Spyware Used by Governments Laden With Zero-Day Exploits](https://www.darkreading.com/attacks-breaches/google-spyware-governments-zero-day-exploits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
