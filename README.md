@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
 - [BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist](https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist)
 - [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
 - [Organizations Reassess Cyber Insurance as Self-Insurance Strategies Emerge](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
@@ -83,7 +84,6 @@
 - [Socura Launches Managed SASE &lpar;MSASE&rpar; Service](https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service)
 - [Stop Blaming the End User for Security Risk](https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk)
 - [Spera Takes Aim at Identity Security Posture Management](https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management)
-- [Top Tech Talent Warns of AI&#39;s Threat to Human Existence in Open Letter](https://www.darkreading.com/application-security/top-tech-talent-ai-threat-human-existence-open-letter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
