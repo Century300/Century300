@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What CISOs Can Do to Build Trust &amp; Fight Fraud in the Metaverse](https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse)
+- [Post-Quantum Satellite Protection Rockets Towards Reality](https://www.darkreading.com/cloud/post-quantum-satellite-protection-rockets-towards-reality)
 - [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
 - [BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist](https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist)
 - [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
 - [Organizations Consider Self-Insurance to Manage Risk](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
 - [DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud](https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud)
 - [Socura Launches Managed SASE &lpar;MSASE&rpar; Service](https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service)
-- [Stop Blaming the End User for Security Risk](https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk)
-- [Spera Takes Aim at Identity Security Posture Management](https://www.darkreading.com/dr-tech/spira-takes-aim-at-identity-security-posture-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
