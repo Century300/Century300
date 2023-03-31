@@ -81,9 +81,9 @@
 - [Mimecast Report Reveals Nearly 60% of Companies in UAE and Saudi Arabia Need to Increase Cybersecurity Spending](https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending)
 - [Pro-Islam &#39;Anonymous Sudan&#39; Hacktivists Likely a Front for Russia&#39;s Killnet Operation](https://www.darkreading.com/attacks-breaches/pro-islam-anonymous-sudan-hacktivists-front-russia-killnet-operation)
 - [Adaptive Access Technologies Gaining Traction for Security, Agility](https://www.darkreading.com/emerging-tech/adaptive-access-technologies-gaining-traction-for-security-agility)
-- [How to Solve IoT&#39;s Identity Problem](https://www.darkreading.com/dr-tech/how-to-solve-iot-s-identity-problem)
 - [Is Decentralized Identity About to Reach an Inflection Point?](https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-)
 - [Vulkan Playbook Leak Exposes Russia&#39;s Plans for Worldwide Cyberwar](https://www.darkreading.com/vulnerabilities-threats/vulkan-playbook-leak-exposes-russia-plans-worldwide-cyber-war)
+- [US Space Force Requests $700M for Cybersecurity Blast Off](https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
