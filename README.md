@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Space Force Requests $700M for Cybersecurity Blast Off](https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity)
 - [What CISOs Can Do to Build Trust &amp; Fight Fraud in the Metaverse](https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse)
 - [Post-Quantum Satellite Protection Rockets Towards Reality](https://www.darkreading.com/cloud/post-quantum-satellite-protection-rockets-towards-reality)
 - [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
@@ -83,7 +84,6 @@
 - [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
 - [Organizations Consider Self-Insurance to Manage Risk](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
 - [DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud](https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud)
-- [Socura Launches Managed SASE &lpar;MSASE&rpar; Service](https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
