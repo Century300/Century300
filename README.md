@@ -79,7 +79,7 @@
 - [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
 - [BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist](https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist)
 - [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
-- [Organizations Reassess Cyber Insurance as Self-Insurance Strategies Emerge](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
+- [Organizations Consider Self-Insurance to Manage Risk](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
 - [DataDome Closes $42M in Series C Funding to Advance the Fight Against Bot-Driven Cyberattacks and Fraud](https://www.darkreading.com/attacks-breaches/datadome-closes-42m-in-series-c-funding-to-advance-the-fight-against-bot-driven-cyberattacks-and-fraud)
 - [Socura Launches Managed SASE &lpar;MSASE&rpar; Service](https://www.darkreading.com/perimeter/socura-launches-managed-sase-msase-service)
 - [Stop Blaming the End User for Security Risk](https://www.darkreading.com/risk/stop-blaming-the-end-user-for-security-risk)
