@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is Decentralized Identity About to Reach an Inflection Point?](https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-)
 - [Vulkan Playbook Leak Exposes Russia&#39;s Plans for Worldwide Cyberwar](https://www.darkreading.com/vulnerabilities-threats/vulkan-playbook-leak-exposes-russia-plans-worldwide-cyber-war)
 - [US Space Force Requests $700M for Cybersecurity Blast Off](https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity)
 - [What CISOs Can Do to Build Trust &amp; Fight Fraud in the Metaverse](https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse)
@@ -83,7 +84,6 @@
 - [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
 - [BEC Fraudsters Expand to Snatch Real-World Goods in Commodities Twist](https://www.darkreading.com/threat-intelligence/bec-fraudsters-expand-snatch-real-world-goods-commodities-twist)
 - [Microsoft Patches &#39;Dangerous&#39; RCE Flaw in Azure Cloud Service](https://www.darkreading.com/cloud/microsoft-patches-dangerous-xss-flaw-azure-service-fabric)
-- [Organizations Consider Self-Insurance to Manage Risk](https://www.darkreading.com/edge-articles/organizations-reassess-cyber-insurance-as-self-insurance-strategies-emerge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
