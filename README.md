@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Elastic Expands Cloud Security Capabilities for AWS](https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws)
+- [The FDA&#39;s Medical Device Cybersecurity Overhaul Has Real Teeth, Experts Say](https://www.darkreading.com/cloud/the-fda-medical-device-cybersecurity-overhaul-real-teeth)
+- [Mimecast Report Reveals Nearly 60% of Companies in UAE and Saudi Arabia Need to Increase Cybersecurity Spending](https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending)
+- [Pro-Islam &#39;Anonymous Sudan&#39; Hacktivists Likely a Front for Russia&#39;s Killnet Operation](https://www.darkreading.com/attacks-breaches/pro-islam-anonymous-sudan-hacktivists-front-russia-killnet-operation)
 - [Adaptive Access Technologies Gaining Traction for Security, Agility](https://www.darkreading.com/emerging-tech/adaptive-access-technologies-gaining-traction-for-security-agility)
 - [How to Solve IoT&#39;s Identity Problem](https://www.darkreading.com/dr-tech/how-to-solve-iot-s-identity-problem)
 - [Is Decentralized Identity About to Reach an Inflection Point?](https://www.darkreading.com/omdia/is-decentralized-identity-about-to-reach-an-inflection-point-)
 - [Vulkan Playbook Leak Exposes Russia&#39;s Plans for Worldwide Cyberwar](https://www.darkreading.com/vulnerabilities-threats/vulkan-playbook-leak-exposes-russia-plans-worldwide-cyber-war)
-- [US Space Force Requests $700M for Cybersecurity Blast Off](https://www.darkreading.com/cloud/us-space-force-wants-700m-cybersecurity)
-- [What CISOs Can Do to Build Trust &amp; Fight Fraud in the Metaverse](https://www.darkreading.com/vulnerabilities-threats/what-cisos-can-do-to-build-trust-fight-fraud-in-the-metaverse)
-- [Post-Quantum Satellite Protection Rockets Towards Reality](https://www.darkreading.com/cloud/post-quantum-satellite-protection-rockets-towards-reality)
-- [Automatic Updates Deliver Malicious 3CX &#39;Upgrades&#39; to Enterprises](https://www.darkreading.com/endpoint/automatic-officlal-updates-malicious-3cx-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
