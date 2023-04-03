@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Recovers $112M in Crypto Stolen With Romance Scams](https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams)
+- [3CX Breach Widens as Cyberattackers Drop Second-Stage Backdoor](https://www.darkreading.com/attacks-breaches/3cx-breach-cyberattackers-second-stage-backdoor)
 - [For Cybercrime Gangs, Professionalization Comes With &#39;Corporate&#39; Headaches](https://www.darkreading.com/vulnerabilities-threats/cybercrime-professionalization-gangs-corporate-headaches)
 - [Data Breach Strikes Western Digital](https://www.darkreading.com/attacks-breaches/security-breach-strikes-western-digital)
 - [How Good Is Your Advanced Threat Management?](https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-)
 - [Name That Edge Toon: Tower of Babble](https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble)
 - [4 Steps for Shifting Left &amp; Winning the Cybersecurity Battle](https://www.darkreading.com/vulnerabilities-threats/4-steps-for-shifting-left-and-winning-the-cybersecurity-battle)
 - [Elastic Expands Cloud Security Capabilities for AWS](https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws)
-- [The FDA&#39;s Medical Device Cybersecurity Overhaul Has Real Teeth, Experts Say](https://www.darkreading.com/cloud/the-fda-medical-device-cybersecurity-overhaul-real-teeth)
-- [Mimecast Report Reveals Nearly 60% of Companies in UAE and Saudi Arabia Need to Increase Cybersecurity Spending](https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
