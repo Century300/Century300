@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [For Cybercrime Gangs, Professionalization Comes With &#39;Corporate&#39; Headaches](https://www.darkreading.com/vulnerabilities-threats/cybercrime-professionalization-gangs-corporate-headaches)
 - [Data Breach Strikes Western Digital](https://www.darkreading.com/attacks-breaches/security-breach-strikes-western-digital)
 - [How Good Is Your Advanced Threat Management?](https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-)
 - [Name That Edge Toon: Tower of Babble](https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble)
@@ -83,7 +84,6 @@
 - [Elastic Expands Cloud Security Capabilities for AWS](https://www.darkreading.com/cloud/elastic-expands-cloud-security-capabilities-for-aws)
 - [The FDA&#39;s Medical Device Cybersecurity Overhaul Has Real Teeth, Experts Say](https://www.darkreading.com/cloud/the-fda-medical-device-cybersecurity-overhaul-real-teeth)
 - [Mimecast Report Reveals Nearly 60% of Companies in UAE and Saudi Arabia Need to Increase Cybersecurity Spending](https://www.darkreading.com/operations/mimecast-report-reveals-nearly-60-of-companies-in-uae-and-saudi-arabia-need-to-increase-cybersecurity-spending)
-- [Pro-Islam &#39;Anonymous Sudan&#39; Hacktivists Likely a Front for Russia&#39;s Killnet Operation](https://www.darkreading.com/attacks-breaches/pro-islam-anonymous-sudan-hacktivists-front-russia-killnet-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
