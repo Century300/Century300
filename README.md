@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybereason Secures $100M in Funding Led by SoftBank Corp.](https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-)
+- [Industrial Defender Launches Phoenix: OT Visibility &amp; Security Solution for Small to Midsized Operations](https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations)
+- [CardinalOps Launches MITRE ATT&amp;CK Security Layers for Measuring Detection Posture](https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture)
+- [F5 Safeguards Digital Services With New AI-Powered App and API Security Capabilities](https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities)
 - [Law Firm for Uber Loses Drivers&#39; Data to Hackers in Yet Another Breach](https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach)
 - [eFile Tax Return Software Found Serving Up Malware](https://www.darkreading.com/application-security/efile-tax-return-software-malware)
+- [Akamai Launches Managed Security Service Updates and New Premium Offering](https://www.darkreading.com/operations/akamai-launches-managed-security-service-updates-and-new-premium-offering)
 - [Mysterious &#39;Rorschach&#39; Ransomware Doubles Known Encryption Speeds](https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds)
-- [15M+ Services &amp; Apps Remain Sitting Ducks for Known Exploits](https://www.darkreading.com/vulnerabilities-threats/15m-services-apps-sitting-ducks-known-exploits)
-- [What RASP Should Have Been](https://www.darkreading.com/attacks-breaches/what-rasp-should-have-been)
-- [How Strategic Investors Can Help Cybersecurity Startups](https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-)
-- [Designing Tabletop Exercises That Actually Thwart Attacks](https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks)
-- [&#39;Proxyjacking&#39; Cybercriminals Exploit Log4j in Emerging, Lucrative Cloud Attacks](https://www.darkreading.com/cloud/cybercriminals-can-earn-potentially-200k-monthly-exploiting-log4j-in-proxyjacking-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
