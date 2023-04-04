@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Law Firm for Uber Loses Drivers&#39; Data to Hackers in Yet Another Breach](https://www.darkreading.com/attacks-breaches/law-firm-uber-loses-drivers-data-hackers-breach)
+- [eFile Tax Return Software Found Serving Up Malware](https://www.darkreading.com/application-security/efile-tax-return-software-malware)
 - [Mysterious &#39;Rorschach&#39; Ransomware Doubles Known Encryption Speeds](https://www.darkreading.com/vulnerabilities-threats/mysterious-rorschach-ransomware-doubles-known-encryption-speeds)
 - [15M+ Services &amp; Apps Remain Sitting Ducks for Known Exploits](https://www.darkreading.com/vulnerabilities-threats/15m-services-apps-sitting-ducks-known-exploits)
 - [What RASP Should Have Been](https://www.darkreading.com/attacks-breaches/what-rasp-should-have-been)
 - [How Strategic Investors Can Help Cybersecurity Startups](https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-)
 - [Designing Tabletop Exercises That Actually Thwart Attacks](https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks)
 - [&#39;Proxyjacking&#39; Cybercriminals Exploit Log4j in Emerging, Lucrative Cloud Attacks](https://www.darkreading.com/cloud/cybercriminals-can-earn-potentially-200k-monthly-exploiting-log4j-in-proxyjacking-attacks)
-- [DoJ Recovers $112M in Crypto Stolen With Romance Scams](https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams)
-- [3CX Breach Widens as Cyberattackers Drop Second-Stage Backdoor](https://www.darkreading.com/attacks-breaches/3cx-breach-cyberattackers-second-stage-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
