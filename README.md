@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What RASP Should Have Been](https://www.darkreading.com/attacks-breaches/what-rasp-should-have-been)
 - [How Strategic Investors Can Help Cybersecurity Startups](https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-)
 - [Designing Tabletop Exercises That Actually Thwart Attacks](https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks)
 - [DoJ Recovers $112M in Crypto Stolen With Romance Scams](https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams)
@@ -83,7 +84,6 @@
 - [For Cybercrime Gangs, Professionalization Comes With &#39;Corporate&#39; Headaches](https://www.darkreading.com/vulnerabilities-threats/cybercrime-professionalization-gangs-corporate-headaches)
 - [Data Breach Strikes Western Digital](https://www.darkreading.com/attacks-breaches/security-breach-strikes-western-digital)
 - [How Good Is Your Advanced Threat Management?](https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-)
-- [Name That Edge Toon: Tower of Babble](https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
