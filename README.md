@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Strategic Investors Can Help Cybersecurity Startups](https://www.darkreading.com/attacks-breaches/how-strategic-investors-can-help-cybersecurity-startups-)
 - [Designing Tabletop Exercises That Actually Thwart Attacks](https://www.darkreading.com/edge-articles/designing-tabletop-exercises-truly-help-thwart-cyberattacks)
 - [DoJ Recovers $112M in Crypto Stolen With Romance Scams](https://www.darkreading.com/attacks-breaches/doj-112m-crypto-stolen-romance-scams)
 - [3CX Breach Widens as Cyberattackers Drop Second-Stage Backdoor](https://www.darkreading.com/attacks-breaches/3cx-breach-cyberattackers-second-stage-backdoor)
@@ -83,7 +84,6 @@
 - [Data Breach Strikes Western Digital](https://www.darkreading.com/attacks-breaches/security-breach-strikes-western-digital)
 - [How Good Is Your Advanced Threat Management?](https://www.darkreading.com/dr-tech/how-good-is-your-advanced-threat-management-)
 - [Name That Edge Toon: Tower of Babble](https://www.darkreading.com/edge-articles/name-that-edge-toon-tower-of-babble)
-- [4 Steps for Shifting Left &amp; Winning the Cybersecurity Battle](https://www.darkreading.com/vulnerabilities-threats/4-steps-for-shifting-left-and-winning-the-cybersecurity-battle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
