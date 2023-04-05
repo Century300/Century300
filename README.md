@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researcher Tricks ChatGPT into Building Undetectable Steganography Malware](https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware)
 - [FBI Seizes Genesis Cybercriminal Marketplace in &#39;Operation Cookie Monster&#39;](https://www.darkreading.com/vulnerabilities-threats/fbi-seizes-genesis-cybercriminal-marketplace-operation-cookie-monster)
 - [QNAP Zero-Days Leave 80K Devices Vulnerable to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/qnap-zero-days-80k-devices-vulnerable-cyberattack)
 - [3 Fronts in the Battle for Digital Identity](https://www.darkreading.com/endpoint/3-fronts-in-the-battle-for-digital-identity)
@@ -83,7 +84,6 @@
 - [Cybereason Secures $100M in Funding Led by SoftBank Corp.](https://www.darkreading.com/threat-intelligence/cybereason-secures-100-million-in-funding-led-by-softbank-corp-)
 - [Industrial Defender Launches Phoenix: OT Visibility &amp; Security Solution for Small to Midsized Operations](https://www.darkreading.com/ics-ot/industrial-defender-launches-phoenix-ot-visibility-security-solution-for-small-to-midsized-operations)
 - [CardinalOps Launches MITRE ATT&amp;CK Security Layers for Measuring Detection Posture](https://www.darkreading.com/threat-intelligence/cardinalops-launches-mitre-att-ck-security-layers-for-measuring-detection-posture)
-- [F5 Safeguards Digital Services With New AI-Powered App and API Security Capabilities](https://www.darkreading.com/cloud/f5-safeguards-digital-services-with-new-ai-powered-app-and-api-security-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
