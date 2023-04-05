@@ -79,11 +79,11 @@
 - [Noname Security Announces Hardened API Security Platform](https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform)
 - [BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents](https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents)
 - [Garage Door Openers Open to Hijacking, Thanks to Unpatched Security Vulns](https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns)
+- [AppSec Looms Large for RSAC 2023 Innovation Sandbox Finalists](https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists)
 - [Researcher Tricks ChatGPT Into Building Undetectable Steganography Malware](https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware)
 - [FBI Seizes Genesis Cybercriminal Marketplace in &#39;Operation Cookie Monster&#39;](https://www.darkreading.com/vulnerabilities-threats/fbi-seizes-genesis-cybercriminal-marketplace-operation-cookie-monster)
 - [QNAP Zero-Days Leave 80K Devices Vulnerable to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/qnap-zero-days-80k-devices-vulnerable-cyberattack)
 - [3 Fronts in the Battle for Digital Identity](https://www.darkreading.com/endpoint/3-fronts-in-the-battle-for-digital-identity)
-- [New GRC Platform TrustRegister Links Risk to Revenue Impact](https://www.darkreading.com/dr-tech/new-grc-platform-trustregister-links-risk-to-revenue-impact)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
