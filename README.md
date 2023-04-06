@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 - [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
 - [Australia Is Scouring the Earth for Cybercriminals — the US Should Too](https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too)
 - [It Takes AI Security to Fight AI Cyberattacks](https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks)
@@ -83,7 +84,6 @@
 - [Styx Marketplace Provides Hub for Financial Cybercrime](https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime)
 - [The Pope&#39;s Security Gets a Boost With Vatican&#39;s MDM Move](https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move)
 - [Noname Security Announces Hardened API Security Platform](https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform)
-- [BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents](https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
