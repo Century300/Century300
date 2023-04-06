@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australia Is Scouring the Earth for Cybercriminals — the US Should Too](https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too)
 - [It Takes AI Security to Fight AI Cyberattacks](https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks)
 - [What to Discuss at RSA Conference — and It&#39;s Not ChatGPT](https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt)
 - [Styx Marketplace Provides Hub for Financial Cybercrime](https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime)
@@ -83,7 +84,6 @@
 - [Noname Security Announces Hardened API Security Platform](https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform)
 - [BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents](https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents)
 - [Garage Door Openers Open to Hijacking, Thanks to Unpatched Security Vulns](https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns)
-- [AppSec Looms Large for RSAC 2023 Innovation Sandbox Finalists](https://www.darkreading.com/emerging-tech/appsec-looms-large-for-rsac-2023-innovation-sandbox-finalists)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
