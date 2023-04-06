@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Pope&#39;s Security Gets a Boost With Vatican&#39;s MDM Move](https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move)
 - [Noname Security Announces Hardened API Security Platform](https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform)
 - [BlackBerry Introduces Integrated Solution to Assure Secure Bi-Directional Response Communications During Cyber Incidents](https://www.darkreading.com/mobile/blackberry-introduces-integrated-solution-to-assure-secure-bi-directional-response-communications-during-cyber-incidents)
 - [Garage Door Openers Open to Hijacking, Thanks to Unpatched Security Vulns](https://www.darkreading.com/attacks-breaches/garage-door-openers-hijacking-unpatched-security-vulns)
@@ -83,7 +84,6 @@
 - [Researcher Tricks ChatGPT Into Building Undetectable Steganography Malware](https://www.darkreading.com/attacks-breaches/researcher-tricks-chatgpt-undetectable-steganography-malware)
 - [FBI Seizes Genesis Cybercriminal Marketplace in &#39;Operation Cookie Monster&#39;](https://www.darkreading.com/vulnerabilities-threats/fbi-seizes-genesis-cybercriminal-marketplace-operation-cookie-monster)
 - [QNAP Zero-Days Leave 80K Devices Vulnerable to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/qnap-zero-days-80k-devices-vulnerable-cyberattack)
-- [3 Fronts in the Battle for Digital Identity](https://www.darkreading.com/endpoint/3-fronts-in-the-battle-for-digital-identity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
