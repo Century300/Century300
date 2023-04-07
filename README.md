@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
+- [Close the Permissions Gap With Identity And Access Management For Multicloud Workforces](https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces)
 - [Printers Pose Persistent Yet Overlooked Threat](https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat)
 - [Bad Actors Will Use Large Language Models — but Defenders Can, Too](https://www.darkreading.com/vulnerabilities-threats/bad-actors-will-use-large-language-models-defenders-can-too)
 - [Cybercriminals &#39;CAN&#39; Steal Your Car, Using Novel IoT Hack](https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack)
 - [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
 - [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 - [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
-- [Australia Is Scouring the Earth for Cybercriminals — the US Should Too](https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
