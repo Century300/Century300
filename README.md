@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Almost Half of Former Employees Say Their Passwords Still Work](https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work)
 - [Microsoft, Fortra &amp; Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools](https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools)
 - [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
 - [Close the Permissions Gap With Identity And Access Management For Multicloud Workforces](https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces)
@@ -83,7 +84,6 @@
 - [Bad Actors Will Use Large Language Models — but Defenders Can, Too](https://www.darkreading.com/vulnerabilities-threats/bad-actors-will-use-large-language-models-defenders-can-too)
 - [Cybercriminals &#39;CAN&#39; Steal Your Car, Using Novel IoT Hack](https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack)
 - [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
-- [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
