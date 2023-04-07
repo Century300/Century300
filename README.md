@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
+- [Printers Pose Persistent Yet Overlooked Threat](https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat)
+- [Bad Actors Will Use Large Language Models — but Defenders Can, Too](https://www.darkreading.com/vulnerabilities-threats/bad-actors-will-use-large-language-models-defenders-can-too)
 - [Cybercriminals &#39;CAN&#39; Steal Your Car, Using Novel IoT Hack](https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack)
 - [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
 - [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 - [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
 - [Australia Is Scouring the Earth for Cybercriminals — the US Should Too](https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too)
-- [It Takes AI Security to Fight AI Cyberattacks](https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks)
-- [What to Discuss at RSA Conference — and It&#39;s Not ChatGPT](https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt)
-- [Styx Marketplace Provides Hub for Financial Cybercrime](https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
