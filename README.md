@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft, Fortra &amp; Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools](https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools)
 - [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
 - [Close the Permissions Gap With Identity And Access Management For Multicloud Workforces](https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces)
 - [Printers Pose Persistent Yet Overlooked Threat](https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat)
@@ -83,7 +84,6 @@
 - [Cybercriminals &#39;CAN&#39; Steal Your Car, Using Novel IoT Hack](https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack)
 - [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
 - [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
-- [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
