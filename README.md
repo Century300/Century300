@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals &#39;CAN&#39; Steal Your Car, Using Novel IoT Hack](https://www.darkreading.com/attacks-breaches/cybercriminals-can-steal-your-car-novel-iot-hack)
 - [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
 - [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 - [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
@@ -83,7 +84,6 @@
 - [It Takes AI Security to Fight AI Cyberattacks](https://www.darkreading.com/attacks-breaches/it-takes-ai-security-to-fight-ai-cyberattacks)
 - [What to Discuss at RSA Conference — and It&#39;s Not ChatGPT](https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt)
 - [Styx Marketplace Provides Hub for Financial Cybercrime](https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime)
-- [The Pope&#39;s Security Gets a Boost With Vatican&#39;s MDM Move](https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
