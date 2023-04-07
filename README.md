@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fight AI With AI](https://www.darkreading.com/dr-tech/fight-ai-with-ai)
 - [Twitter &#39;Shadow Ban&#39; Bug Gets Official CVE](https://www.darkreading.com/attacks-breaches/twitter-shadow-ban-bug-gets-cve-score)
 - [&#39;BEC 3.0&#39; Is Here With Tax-Season QuickBooks Cyberattacks](https://www.darkreading.com/attacks-breaches/bec-3-tax-season-quickbooks-cyberattacks)
 - [Australia Is Scouring the Earth for Cybercriminals — the US Should Too](https://www.darkreading.com/attacks-breaches/australia-is-scouring-the-earth-for-cybercriminals-the-us-should-too)
@@ -83,7 +84,6 @@
 - [What to Discuss at RSA Conference — and It&#39;s Not ChatGPT](https://www.darkreading.com/vulnerabilities-threats/what-to-discuss-at-rsa-conference-and-it-s-not-chatgpt)
 - [Styx Marketplace Provides Hub for Financial Cybercrime](https://www.darkreading.com/vulnerabilities-threats/styx-marketplace-provides-hub-financial-cybercrime)
 - [The Pope&#39;s Security Gets a Boost With Vatican&#39;s MDM Move](https://www.darkreading.com/vulnerabilities-threats/pope-mobile-security-vatican-mdm-move)
-- [Noname Security Announces Hardened API Security Platform](https://www.darkreading.com/application-security/noname-security-announces-hardened-api-security-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
