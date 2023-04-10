@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [High-Stakes Ransomware Response: Know What Cards You Hold](https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold)
 - [Russia&#39;s Joker DPR Claims Access to Ukraine Troop Movement Data](https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data)
 - [How and Why to Put Multicloud to Work](https://www.darkreading.com/edge-articles/how-and-why-to-put-multicloud-to-work)
 - [Rethinking Cybersecurity&#39;s Structure &amp; the Role of the Modern CISO](https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso)
@@ -83,7 +84,6 @@
 - [Microsoft, Fortra &amp; Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools](https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools)
 - [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
 - [Close the Permissions Gap With Identity And Access Management For Multicloud Workforces](https://www.darkreading.com/cloud/close-the-permissions-gap-with-identity-and-access-management-for-multicloud-workforces)
-- [Printers Pose Persistent Yet Overlooked Threat](https://www.darkreading.com/vulnerabilities-threats/printers-pose-persistent-yet-overlooked-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
