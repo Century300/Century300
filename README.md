@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apps for Sale: Cybercriminals Sell Android Hacks for Up to $20K a Pop](https://www.darkreading.com/vulnerabilities-threats/apps-for-sale-cybercriminals-sell-android-hacks-20k)
 - [Pair of Apple Zero-Days Under Active Exploit; Patch &amp; Update Accordingly](https://www.darkreading.com/application-security/pair-apple-zero-days-active-exploit-patch-accordingly-)
 - [High-Stakes Ransomware Response: Know What Cards You Hold](https://www.darkreading.com/attacks-breaches/high-stakes-ransomware-response-cards-hold)
 - [Russia&#39;s Joker DPR Claims Access to Ukraine Troop Movement Data](https://www.darkreading.com/attacks-breaches/russia-joker-dpr-access-ukraine-troop-movement-data)
@@ -83,7 +84,6 @@
 - [Rethinking Cybersecurity&#39;s Structure &amp; the Role of the Modern CISO](https://www.darkreading.com/operations/rethinking-cybersecurity-s-structure-the-role-of-the-modern-ciso)
 - [Almost Half of Former Employees Say Their Passwords Still Work](https://www.darkreading.com/edge-threat-monitor/almost-half-of-former-employees-say-their-passwords-still-work)
 - [Microsoft, Fortra &amp; Health-ISAC Team Up to Remove Illicit Cobalt Strike Tools](https://www.darkreading.com/application-security/microsoft-fortra-health-isac-team-up-to-remove-illicit-cobalt-strike-tools)
-- [TikTok, Other Mobile Apps Violate Privacy Regulations](https://www.darkreading.com/vulnerabilities-threats/tiktok-other-mobile-apps-violate-privacy-regulations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
