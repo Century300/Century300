@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Blatantly Obvious&#39;: Spyware Offered to Cyberattackers via PyPI Python Repository](https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository)
 - [Where Are the Women? Making Cybersecurity More Inclusive](https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-)
 - [7 Things Your Ransomware Response Playbook Is Likely Missing](https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing)
 - [Attackers Hide RedLine Stealer Behind ChatGPT, Google Bard Facebook Ads](https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads)
@@ -83,7 +84,6 @@
 - [How CIEM Can Improve Identity, Permissions Management for Multicloud Deployments](https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments)
 - [Israeli Irrigation Water Controllers &amp; Postal Service Breached](https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached)
 - [Samsung Engineers Feed Sensitive Data to ChatGPT, Sparking Workplace AI Warnings](https://www.darkreading.com/vulnerabilities-threats/samsung-engineers-sensitive-data-chatgpt-warnings-ai-use-workplace)
-- [Renewed Focus on Incident Response Brings New Competitors and Partnerships](https://www.darkreading.com/dr-tech/renewed-focus-on-incident-response-brings-new-competitors-and-partnerships)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
