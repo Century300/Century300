@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Where Are the Women? Making Cybersecurity More Inclusive](https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-)
+- [7 Things Your Ransomware Response Playbook Is Likely Missing](https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing)
 - [Attackers Hide RedLine Stealer Behind ChatGPT, Google Bard Facebook Ads](https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads)
 - [How Password Managers Can Get Hacked](https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked)
 - [How CIEM Can Improve Identity, Permissions Management for Multicloud Deployments](https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments)
 - [Israeli Irrigation Water Controllers &amp; Postal Service Breached](https://www.darkreading.com/ics-ot/israeli-irrigation-water-controllers-postal-service-breached)
 - [Samsung Engineers Feed Sensitive Data to ChatGPT, Sparking Workplace AI Warnings](https://www.darkreading.com/vulnerabilities-threats/samsung-engineers-sensitive-data-chatgpt-warnings-ai-use-workplace)
 - [Renewed Focus on Incident Response Brings New Competitors and Partnerships](https://www.darkreading.com/dr-tech/renewed-focus-on-incident-response-brings-new-competitors-and-partnerships)
-- [Apps for Sale: Cybercriminals Sell Android Hacks for Up to $20K a Pop](https://www.darkreading.com/vulnerabilities-threats/apps-for-sale-cybercriminals-sell-android-hacks-20k)
-- [Pair of Apple Zero-Days Under Active Exploit; Patch &amp; Update Accordingly](https://www.darkreading.com/application-security/pair-apple-zero-days-active-exploit-patch-accordingly-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
