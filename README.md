@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Expands Falcon to Include IoT](https://www.darkreading.com/dr-tech/crowdstrike-expands-falcon-to-include-iot)
 - [Microsoft Patches 97 CVEs, Including Zero-Day &amp; Wormable Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs)
 - [Microsoft Azure Shared Key Misconfiguration Could Lead to RCE](https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce)
 - [&#39;Blatantly Obvious&#39;: Spyware Offered to Cyberattackers via PyPI Python Repository](https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository)
@@ -83,7 +84,6 @@
 - [7 Things Your Ransomware Response Playbook Is Likely Missing](https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing)
 - [Attackers Hide RedLine Stealer Behind ChatGPT, Google Bard Facebook Ads](https://www.darkreading.com/attacks-breaches/attackers-hide-redline-stealer-behind-chatgpt-google-bard-facebook-ads)
 - [How Password Managers Can Get Hacked](https://www.darkreading.com/vulnerabilities-threats/how-password-managers-can-get-hacked)
-- [How CIEM Can Improve Identity, Permissions Management for Multicloud Deployments](https://www.darkreading.com/microsoft/how-ciem-can-improve-identity-permissions-management-for-multicloud-deployments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
