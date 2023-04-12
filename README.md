@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gartner: Human-Centric Design Is Top Cybersecurity Trend for 2023](https://www.darkreading.com/remote-workforce/gartner-human-centric-design-is-top-cybersecurity-trend-for-2023)
 - [CrowdStrike Expands Falcon to Include IoT](https://www.darkreading.com/dr-tech/crowdstrike-expands-falcon-to-include-iot)
 - [LastPass Breach Reveals Important Lessons](https://www.darkreading.com/attacks-breaches/lastpass-breach-reveals-important-lessons)
 - [1M+ WordPress Sites Hacked via Zero-Day Plug-in Bugs](https://www.darkreading.com/vulnerabilities-threats/1m-wordpress-sites-hacked-via-zero-day-plugin-bugs)
@@ -83,7 +84,6 @@
 - [Microsoft Azure Shared Key Misconfiguration Could Lead to RCE](https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce)
 - [&#39;Blatantly Obvious&#39;: Spyware Offered to Cyberattackers via PyPI Python Repository](https://www.darkreading.com/vulnerabilities-threats/spyware-offered-cyberattackers-pypi-python-repository)
 - [Where Are the Women? Making Cybersecurity More Inclusive](https://www.darkreading.com/operations/where-are-the-women-making-cybersecurity-more-inclusive-)
-- [7 Things Your Ransomware Response Playbook Is Likely Missing](https://www.darkreading.com/attacks-breaches/7-things-ransomware-response-playbooks-missing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
