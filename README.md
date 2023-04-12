@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Opera Adds Free VPN to Opera for iOS](https://www.darkreading.com/endpoint/opera-adds-free-vpn-to-opera-for-ios)
+- [FBI &amp; FCC Warn on &#39;Juice Jacking&#39; at Public Chargers, But What&#39;s the Risk?](https://www.darkreading.com/ics-ot/fbi-fcc-warn-juice-jacking-public-chargers-risk)
 - [Data on 400K Kodi Forum Members Stolen and Put Up for Sale](https://www.darkreading.com/attacks-breaches/data-on-400k-kodi-forum-members-stolen-and-put-up-for-sale)
 - [Microsoft: NSO Group-Like &#39;QuaDream&#39; Actor Selling Mobile Spyware to Governments](https://www.darkreading.com/vulnerabilities-threats/microsoft-nso-group-like-quadream-actor-selling-mobile-spyware-governments)
+- [Survey Findings Show Link Between Data Silos and Security Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/survey-findings-show-link-between-data-silos-and-security-vulnerabilities)
 - [Gartner: Human-Centric Design Is Top Cybersecurity Trend for 2023](https://www.darkreading.com/remote-workforce/gartner-human-centric-design-is-top-cybersecurity-trend-for-2023)
 - [CrowdStrike Expands Falcon to Include IoT](https://www.darkreading.com/dr-tech/crowdstrike-expands-falcon-to-include-iot)
 - [LastPass Breach Reveals Important Lessons](https://www.darkreading.com/attacks-breaches/lastpass-breach-reveals-important-lessons)
-- [1M+ WordPress Sites Hacked via Zero-Day Plug-in Bugs](https://www.darkreading.com/vulnerabilities-threats/1m-wordpress-sites-hacked-via-zero-day-plugin-bugs)
-- [Microsoft Patches 97 CVEs, Including Zero-Day &amp; Wormable Bugs](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-97-cves-including-zero-day-wormable-bugs)
-- [Microsoft Azure Shared Key Misconfiguration Could Lead to RCE](https://www.darkreading.com/cloud/microsoft-azure-shared-key-misconfiguration-could-lead-to-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
