@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Mirai Variant Employs Uncommon Tactics to Distribute Malware](https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware)
 - [Money Ransomware Group Enters Double-Extortion Fray](https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-)
 - [Why the US Needs Quantum-Safe Cryptography Deployed Now](https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now)
 - [Remcos RAT Targets Tax Pros to Scurry Off With Workers&#39; Filing Info](https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info)
@@ -83,7 +84,6 @@
 - [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
 - [Majority of US IT Pros Told to Keep Quiet About Data Breaches](https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches)
 - [Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users](https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile)
-- [How to Define Tier-Zero Assets in Active Directory Security](https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
