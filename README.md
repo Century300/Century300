@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Money Ransomware Group Enters Double-Extortion Fray](https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-)
+- [Why the US Needs Quantum-Safe Cryptography Deployed Now](https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now)
+- [Remcos RAT Targets Tax Pros to Scurry Off With Workers&#39; Filing Info](https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info)
 - [Super-Yacht Specialist Lürssen in Dry Dock After Ransomware Attack](https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack)
 - [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
 - [Majority of US IT Pros Told to Keep Quiet About Data Breaches](https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches)
 - [Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users](https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile)
 - [How to Define Tier-Zero Assets in Active Directory Security](https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security)
-- [Google Tackles Open Source Security With New Dependency Service](https://www.darkreading.com/dr-tech/google-tackles-open-source-security-with-new-dependency-service)
-- [Menlo Security Illustrates Importance of Browser Security as 4 in 5 Ransomware Attacks Include Threats Beyond Data Encryption](https://www.darkreading.com/attacks-breaches/menlo-security-illustrates-importance-of-browser-security-as-4-in-5-ransomware-attacks-include-threats-beyond-data-encryption)
-- [VulnCheck Named CVE Numbering Authority for Common Vulnerabilities and Exposures](https://www.darkreading.com/vulnerabilities-threats/vulncheck-named-cve-numbering-authority-for-common-vulnerabilities-and-exposures)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
