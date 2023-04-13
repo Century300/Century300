@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
 - [Majority of US IT Pros Told to Keep Quiet About Data Breaches](https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches)
 - [Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users](https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile)
 - [How to Define Tier-Zero Assets in Active Directory Security](https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security)
@@ -83,7 +84,6 @@
 - [Menlo Security Illustrates Importance of Browser Security as 4 in 5 Ransomware Attacks Include Threats Beyond Data Encryption](https://www.darkreading.com/attacks-breaches/menlo-security-illustrates-importance-of-browser-security-as-4-in-5-ransomware-attacks-include-threats-beyond-data-encryption)
 - [VulnCheck Named CVE Numbering Authority for Common Vulnerabilities and Exposures](https://www.darkreading.com/vulnerabilities-threats/vulncheck-named-cve-numbering-authority-for-common-vulnerabilities-and-exposures)
 - [Report Reveals ChatGPT Already Involved in Data Leaks, Phishing Scams &amp; Malware Infections](https://www.darkreading.com/attacks-breaches/report-reveals-chatgpt-already-involved-in-data-leaks-phishing-scams-malware-infections)
-- [&lpar;ISC&rpar;² Certified in Cybersecurity Earns ANAB Accreditation to ISO 17024 and Surpasses 15,000 Certification Holders](https://www.darkreading.com/operations/-isc-certified-in-cybersecurity-earns-anab-accreditation-to-iso-17024-and-surpasses-15-000-certification-holders)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
