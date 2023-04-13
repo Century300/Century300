@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Define Tier-Zero Assets in Active Directory Security](https://www.darkreading.com/vulnerabilities-threats/how-to-define-tier-zero-assets-in-active-directory-security)
 - [Google Tackles Open Source Security With New Dependency Service](https://www.darkreading.com/dr-tech/google-tackles-open-source-security-with-new-dependency-service)
 - [Menlo Security Illustrates Importance of Browser Security as 4 in 5 Ransomware Attacks Include Threats Beyond Data Encryption](https://www.darkreading.com/attacks-breaches/menlo-security-illustrates-importance-of-browser-security-as-4-in-5-ransomware-attacks-include-threats-beyond-data-encryption)
 - [VulnCheck Named CVE Numbering Authority for Common Vulnerabilities and Exposures](https://www.darkreading.com/vulnerabilities-threats/vulncheck-named-cve-numbering-authority-for-common-vulnerabilities-and-exposures)
@@ -83,7 +84,6 @@
 - [&lpar;ISC&rpar;² Certified in Cybersecurity Earns ANAB Accreditation to ISO 17024 and Surpasses 15,000 Certification Holders](https://www.darkreading.com/operations/-isc-certified-in-cybersecurity-earns-anab-accreditation-to-iso-17024-and-surpasses-15-000-certification-holders)
 - [Lazarus Group&#39;s &#39;DeathNote&#39; Cluster Pivots to Defense Sector](https://www.darkreading.com/vulnerabilities-threats/lazarus-group-deathnote-cluster-pivots-defense-sector)
 - [When Banking Laws Don&#39;t Protect Consumers From Cybertheft](https://www.darkreading.com/edge-articles/when-banking-laws-don-t-protect-consumers-from-cybertheft)
-- [Opera Adds Free VPN to Opera for iOS](https://www.darkreading.com/endpoint/opera-adds-free-vpn-to-opera-for-ios)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
