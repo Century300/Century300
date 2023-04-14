@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Is a Revenue Booster, Not a Cost Center](https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center)
+- [Western Digital Hackers Demand 8-Figure Ransom Payment for Data](https://www.darkreading.com/vulnerabilities-threats/hackers-hold-data-hostage-demanding-8-figure-ransom-payment)
 - [SASE Market Worth $5.9B by 2028 — Report by MarketsandMarkets™](https://www.darkreading.com/cloud/sase-market-worth-5-9b-by-2028-report-by-marketsandmarkets-)
 - [What the Recent Collapse of SVB Means for Privacy](https://www.darkreading.com/attacks-breaches/what-the-recent-bank-collapse-means-for-privacy)
 - [New Mirai Variant Employs Uncommon Tactics to Distribute Malware](https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware)
 - [Money Ransomware Group Enters Double-Extortion Fray](https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-)
 - [Why the US Needs Quantum-Safe Cryptography Deployed Now](https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now)
 - [Remcos RAT Targets Tax Pros to Scurry Off With Workers&#39; Filing Info](https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info)
-- [Super-Yacht Specialist Lürssen in Dry Dock After Ransomware Attack](https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack)
-- [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
