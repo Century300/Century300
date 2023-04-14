@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SASE Market Worth $5.9B by 2028 — Report by MarketsandMarkets™](https://www.darkreading.com/cloud/sase-market-worth-5-9b-by-2028-report-by-marketsandmarkets-)
 - [What the Recent Collapse of SVB Means for Privacy](https://www.darkreading.com/attacks-breaches/what-the-recent-bank-collapse-means-for-privacy)
 - [New Mirai Variant Employs Uncommon Tactics to Distribute Malware](https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware)
 - [Money Ransomware Group Enters Double-Extortion Fray](https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-)
@@ -83,7 +84,6 @@
 - [Remcos RAT Targets Tax Pros to Scurry Off With Workers&#39; Filing Info](https://www.darkreading.com/vulnerabilities-threats/remcos-rat-tax-pros-worksers-filing-info)
 - [Super-Yacht Specialist Lürssen in Dry Dock After Ransomware Attack](https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack)
 - [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
-- [Majority of US IT Pros Told to Keep Quiet About Data Breaches](https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
