@@ -79,7 +79,7 @@
 - [Why xIoT Devices Are Cyberattackers&#39; Gateway Drug for Lateral Movement](https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement)
 - [Software-Dependency Data Delivers Security to Developers](https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers)
 - [Security Is a Revenue Booster, Not a Cost Center](https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center)
-- [Bugs in Manarium Play-to-Earn Showcase Crypto-Gaming Insecurity](https://www.darkreading.com/vulnerabilities-threats/bugs-in-manarium-play-to-earn-showcase-crypto-gaming-insecurity)
+- [Bugs in Manarium Play-to-Earn Platform Showcase Crypto-Gaming Insecurity](https://www.darkreading.com/vulnerabilities-threats/bugs-in-manarium-play-to-earn-showcase-crypto-gaming-insecurity)
 - [Western Digital Hackers Demand 8-Figure Ransom Payment for Data](https://www.darkreading.com/vulnerabilities-threats/hackers-hold-data-hostage-demanding-8-figure-ransom-payment)
 - [SASE Market Worth $5.9B by 2028 — Report by MarketsandMarkets™](https://www.darkreading.com/cloud/sase-market-worth-5-9b-by-2028-report-by-marketsandmarkets-)
 - [What the Recent Collapse of SVB Means for Privacy](https://www.darkreading.com/attacks-breaches/what-the-recent-bank-collapse-means-for-privacy)
