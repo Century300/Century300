@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the Recent Collapse of SVB Means for Privacy](https://www.darkreading.com/attacks-breaches/what-the-recent-bank-collapse-means-for-privacy)
 - [New Mirai Variant Employs Uncommon Tactics to Distribute Malware](https://www.darkreading.com/remote-workforce/new-mirai-variant-employs-uncommon-tactics-to-distribute-malware)
 - [Money Ransomware Group Enters Double-Extortion Fray](https://www.darkreading.com/vulnerabilities-threats/money-ransomware-enters-double-extortion-fray-)
 - [Why the US Needs Quantum-Safe Cryptography Deployed Now](https://www.darkreading.com/dr-tech/why-the-us-needs-quantum-safe-cryptography-deployed-now)
@@ -83,7 +84,6 @@
 - [Super-Yacht Specialist Lürssen in Dry Dock After Ransomware Attack](https://www.darkreading.com/attacks-breaches/super-yacht-specialist-dry-dock-ransomware-attack)
 - [The Internet Reform Trilemma](https://www.darkreading.com/vulnerabilities-threats/the-internet-reform-trilemma)
 - [Majority of US IT Pros Told to Keep Quiet About Data Breaches](https://www.darkreading.com/vulnerabilities-threats/us-it-pros-data-breaches-keep-quiet-data-breaches)
-- [Legion Malware Marches onto Web Servers to Steal Credentials, Spam Mobile Users](https://www.darkreading.com/cloud/legion-malware-marches-web-servers-steal-credentials-spam-mobile)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
