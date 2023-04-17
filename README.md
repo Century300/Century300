@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pentesters Need to Hack AI, but Also Question its Existence](https://www.darkreading.com/remote-workforce/pentesters-need-to-hack-ai-question-its-existence)
+- [How CISOs Can Craft Better Narratives for the Board](https://www.darkreading.com/edge-articles/how-cisos-can-craft-better-narratives-for-the-board)
 - [Aloha PoS Restaurant Software Downed by Ransomware Attack](https://www.darkreading.com/ics-ot/aloha-pos-restaurant-software-downed-ransomware-attack)
 - [Name That Toon: Lucky Charm](https://www.darkreading.com/physical-security/name-that-toon-lucky-charm)
 - [Top 5 Data Security RSAC 2023 Sessions to Attend](https://www.darkreading.com/vulnerabilities-threats/top-5-data-security-rsac-2023-sessions-to-attend)
 - [Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks)
 - [Why xIoT Devices Are Cyberattackers&#39; Gateway Drug for Lateral Movement](https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement)
 - [Software-Dependency Data Delivers Security to Developers](https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers)
-- [Security Is a Revenue Booster, Not a Cost Center](https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center)
-- [Bugs in Manarium Play-to-Earn Platform Showcase Crypto-Gaming Insecurity](https://www.darkreading.com/vulnerabilities-threats/bugs-in-manarium-play-to-earn-showcase-crypto-gaming-insecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
