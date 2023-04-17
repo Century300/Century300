@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aloha PoS Restaurant Software Downed by Ransomware Attack](https://www.darkreading.com/ics-ot/aloha-pos-restaurant-software-downed-ransomware-attack)
 - [Name That Toon: Lucky Charm](https://www.darkreading.com/physical-security/name-that-toon-lucky-charm)
 - [Top 5 Data Security RSAC 2023 Sessions to Attend](https://www.darkreading.com/vulnerabilities-threats/top-5-data-security-rsac-2023-sessions-to-attend)
 - [Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks)
@@ -83,7 +84,6 @@
 - [Software-Dependency Data Delivers Security to Developers](https://www.darkreading.com/dr-tech/software-dependency-data-delivers-security-to-developers)
 - [Security Is a Revenue Booster, Not a Cost Center](https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center)
 - [Bugs in Manarium Play-to-Earn Platform Showcase Crypto-Gaming Insecurity](https://www.darkreading.com/vulnerabilities-threats/bugs-in-manarium-play-to-earn-showcase-crypto-gaming-insecurity)
-- [Western Digital Hackers Demand 8-Figure Ransom Payment for Data](https://www.darkreading.com/vulnerabilities-threats/hackers-hold-data-hostage-demanding-8-figure-ransom-payment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
