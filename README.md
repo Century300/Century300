@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Lucky Charm](https://www.darkreading.com/physical-security/name-that-toon-lucky-charm)
 - [Top 5 Data Security RSAC 2023 Sessions to Attend](https://www.darkreading.com/vulnerabilities-threats/top-5-data-security-rsac-2023-sessions-to-attend)
 - [Russian SolarWinds Culprits Launch Fresh Barrage of Espionage Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/russian-intel-services-behind-barrage-espionage-cyberattacks)
 - [Why xIoT Devices Are Cyberattackers&#39; Gateway Drug for Lateral Movement](https://www.darkreading.com/ics-ot/why-xiot-devices-are-gateway-drug-lateral-movement)
@@ -83,7 +84,6 @@
 - [Security Is a Revenue Booster, Not a Cost Center](https://www.darkreading.com/edge-articles/security-is-a-revenue-booster-not-a-cost-center)
 - [Bugs in Manarium Play-to-Earn Platform Showcase Crypto-Gaming Insecurity](https://www.darkreading.com/vulnerabilities-threats/bugs-in-manarium-play-to-earn-showcase-crypto-gaming-insecurity)
 - [Western Digital Hackers Demand 8-Figure Ransom Payment for Data](https://www.darkreading.com/vulnerabilities-threats/hackers-hold-data-hostage-demanding-8-figure-ransom-payment)
-- [SASE Market Worth $5.9B by 2028 — Report by MarketsandMarkets™](https://www.darkreading.com/cloud/sase-market-worth-5-9b-by-2028-report-by-marketsandmarkets-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
