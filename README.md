@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Your Anti-Fraud, Identity &amp; Cybersecurity Efforts Should Be Merged](https://www.darkreading.com/vulnerabilities-threats/why-your-anti-fraud-identity-cybersecurity-efforts-should-be-merged)
+- [&#39;Goldoson&#39; Malware Sneaks into Google Play Apps, Racks Up 100M Downloads](https://www.darkreading.com/remote-workforce/goldoson-malware-google-play-apps-100m-downloads)
 - [Beyond CVEs: The Key to Mitigating High-Risk Security Exposures](https://www.darkreading.com/vulnerabilities-threats/beyond-cves-the-key-to-mitigating-high-risk-security-exposures)
 - [Recycled Core Routers Exposed Sensitive Corporate Network Info](https://www.darkreading.com/vulnerabilities-threats/recycled-core-routers-exposed-sensitive-corporate-network-info)
 - [As Consumer Privacy Evolves, Here&#39;s How You Can Stay Ahead of Regulations](https://www.darkreading.com/partner-perspectives/as-consumer-privacy-evolves-here-s-how-you-can-stay-ahead-of-regulations)
 - [ZeroFox Acquires LookingGlass](https://www.darkreading.com/dr-tech/zerofox-acquires-lookingglass)
 - [FIN7, Former Conti Gang Members Collaborate on &#39;Domino&#39; Malware](https://www.darkreading.com/attacks-breaches/fin7-former-conti-gang-members-collaborate-domino-malware)
 - [lockr Raises $2.5M](https://www.darkreading.com/endpoint/lockr-raises-2-5m)
-- [Google Issues Emergency Chrome Update for Zero-Day Bug](https://www.darkreading.com/remote-workforce/google-emergency-chrome-update-zero-day-bug)
-- [NSA&#39;s National Centers for Academic Excellence &lpar;NCAE&rpar; Cyber Games to Hold National Finals on April 22](https://www.darkreading.com/attacks-breaches/nsa-s-national-centers-for-academic-excellent-ncae-cyber-games-to-hold-national-finals-on-april-22)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
