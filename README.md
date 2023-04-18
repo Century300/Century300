@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Discover First Ever Major Ransomware Targeting macOS](https://www.darkreading.com/remote-workforce/researchers-discover-first-ever-major-ransomware-targeting-macos)
 - [Where There&#39;s No Code, There&#39;s No SDLC](https://www.darkreading.com/edge-articles/where-there-s-no-code-there-s-no-sdlc)
 - [APT41 Taps Google Red Teaming Tool in Targeted Info-Stealing Attacks](https://www.darkreading.com/vulnerabilities-threats/apt41-taps-google-red-teaming-tool-targeted-info-stealing-attacks)
 - [Why Your Anti-Fraud, Identity &amp; Cybersecurity Efforts Should Be Merged](https://www.darkreading.com/vulnerabilities-threats/why-your-anti-fraud-identity-cybersecurity-efforts-should-be-merged)
@@ -83,7 +84,6 @@
 - [Beyond CVEs: The Key to Mitigating High-Risk Security Exposures](https://www.darkreading.com/vulnerabilities-threats/beyond-cves-the-key-to-mitigating-high-risk-security-exposures)
 - [Recycled Core Routers Expose Sensitive Corporate Network Info](https://www.darkreading.com/vulnerabilities-threats/recycled-core-routers-exposed-sensitive-corporate-network-info)
 - [As Consumer Privacy Evolves, Here&#39;s How You Can Stay Ahead of Regulations](https://www.darkreading.com/partner-perspectives/as-consumer-privacy-evolves-here-s-how-you-can-stay-ahead-of-regulations)
-- [ZeroFox Acquires LookingGlass](https://www.darkreading.com/dr-tech/zerofox-acquires-lookingglass)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
