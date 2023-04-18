@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Consumer Privacy Evolves, Here&#39;s How You Can Stay Ahead of Regulations](https://www.darkreading.com/partner-perspectives/as-consumer-privacy-evolves-here-s-how-you-can-stay-ahead-of-regulations)
+- [ZeroFox Acquires LookingGlass](https://www.darkreading.com/dr-tech/zerofox-acquires-lookingglass)
 - [FIN7, Former Conti Gang Members Collaborate on &#39;Domino&#39; Malware](https://www.darkreading.com/attacks-breaches/fin7-former-conti-gang-members-collaborate-domino-malware)
 - [lockr Raises $2.5M](https://www.darkreading.com/endpoint/lockr-raises-2-5m)
 - [Google Issues Emergency Chrome Update for Zero-Day Bug](https://www.darkreading.com/remote-workforce/google-emergency-chrome-update-zero-day-bug)
 - [NSA&#39;s National Centers for Academic Excellent &lpar;NCAE&rpar; Cyber Games to Hold National Finals on April 22](https://www.darkreading.com/attacks-breaches/nsa-s-national-centers-for-academic-excellent-ncae-cyber-games-to-hold-national-finals-on-april-22)
 - [Pen Testers Need to Hack AI, but Also Question Its Existence](https://www.darkreading.com/remote-workforce/pentesters-need-to-hack-ai-question-its-existence)
 - [How CISOs Can Craft Better Narratives for the Board](https://www.darkreading.com/edge-articles/how-cisos-can-craft-better-narratives-for-the-board)
-- [Aloha PoS Restaurant Software Downed by Ransomware Attack](https://www.darkreading.com/ics-ot/aloha-pos-restaurant-software-downed-ransomware-attack)
-- [Name That Toon: Lucky Charm](https://www.darkreading.com/physical-security/name-that-toon-lucky-charm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
