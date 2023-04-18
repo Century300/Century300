@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect](https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect)
+- [Report: Over Half of North American Consumers Are Open to Passwordless](https://www.darkreading.com/endpoint/report-over-half-of-north-american-consumers-are-open-to-passwordless)
+- [Netwrix Annual Security Survey: 68% of Organizations Experienced a Cyberattack Within the Last 12 Months](https://www.darkreading.com/attacks-breaches/netwrix-annual-security-survey-68-of-organizations-experienced-a-cyberattack-within-the-last-12-months)
+- [KnowBe4 Phishing Test Results Reveal IT and Online Services  Emails Drive Dangerous Attack Trend](https://www.darkreading.com/vulnerabilities-threats/knowbe4-phishing-test-results-reveal-it-and-online-services-emails-drive-dangerous-attack-trend-)
+- [Marlinspike Adds Charles Carmakal to its Advisory Board](https://www.darkreading.com/operations/marlinspike-adds-charles-carmakal-to-its-advisory-board)
+- [NSO Group is Back in Business With 3 New iOS Zero-Click Exploits](https://www.darkreading.com/attacks-breaches/nso-group-back-business-3-new-ios-zero-click-exploits)
+- [&#39;Zaraza&#39; Bot Targets Google Chrome to Extract Login Credentials](https://www.darkreading.com/remote-workforce/zaraza-bot-targets-google-chrome-extract-login-credentials)
 - [QBot Expands Initial Access Malware Strategy With PDF-WSF Combo](https://www.darkreading.com/remote-workforce/qbot-initial-access-attack-malware-pdf-wsf-combo)
-- [Researchers Discover First Ever Major Ransomware Targeting macOS](https://www.darkreading.com/remote-workforce/researchers-discover-first-ever-major-ransomware-targeting-macos)
-- [Where There&#39;s No Code, There&#39;s No SDLC](https://www.darkreading.com/edge-articles/where-there-s-no-code-there-s-no-sdlc)
-- [APT41 Taps Google Red Teaming Tool in Targeted Info-Stealing Attacks](https://www.darkreading.com/vulnerabilities-threats/apt41-taps-google-red-teaming-tool-targeted-info-stealing-attacks)
-- [Why Your Anti-Fraud, Identity &amp; Cybersecurity Efforts Should Be Merged](https://www.darkreading.com/vulnerabilities-threats/why-your-anti-fraud-identity-cybersecurity-efforts-should-be-merged)
-- [&#39;Goldoson&#39; Malware Sneaks into Google Play Apps, Racks Up 100M Downloads](https://www.darkreading.com/remote-workforce/goldoson-malware-google-play-apps-100m-downloads)
-- [Beyond CVEs: The Key to Mitigating High-Risk Security Exposures](https://www.darkreading.com/vulnerabilities-threats/beyond-cves-the-key-to-mitigating-high-risk-security-exposures)
-- [Recycled Core Routers Expose Sensitive Corporate Network Info](https://www.darkreading.com/vulnerabilities-threats/recycled-core-routers-exposed-sensitive-corporate-network-info)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
