@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Prevent 2 Common Attacks on MFA](https://www.darkreading.com/endpoint/how-to-prevent-2-common-attacks-on-mfa)
 - [Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect](https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect)
 - [Report: Over Half of North American Consumers Are Open to Passwordless](https://www.darkreading.com/endpoint/report-over-half-of-north-american-consumers-are-open-to-passwordless)
 - [Netwrix Annual Security Survey: 68% of Organizations Experienced a Cyberattack Within the Last 12 Months](https://www.darkreading.com/attacks-breaches/netwrix-annual-security-survey-68-of-organizations-experienced-a-cyberattack-within-the-last-12-months)
@@ -83,7 +84,6 @@
 - [Marlinspike Adds Charles Carmakal to its Advisory Board](https://www.darkreading.com/operations/marlinspike-adds-charles-carmakal-to-its-advisory-board)
 - [NSO Group Is Back in Business With 3 New iOS Zero-Click Exploits](https://www.darkreading.com/attacks-breaches/nso-group-back-business-3-new-ios-zero-click-exploits)
 - [&#39;Zaraza&#39; Bot Targets Google Chrome to Extract Login Credentials](https://www.darkreading.com/remote-workforce/zaraza-bot-targets-google-chrome-extract-login-credentials)
-- [QBot Expands Initial Access Malware Strategy With PDF-WSF Combo](https://www.darkreading.com/remote-workforce/qbot-initial-access-attack-malware-pdf-wsf-combo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
