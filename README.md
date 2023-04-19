@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Popular Fitness Apps Leak Location Data Even When Users Set Privacy Zones](https://www.darkreading.com/application-security/popular-fitness-apps-leak-location-data-even-when-users-set-privacy-zones)
+- [Akamai Technologies to Acquire API Security Company Neosec](https://www.darkreading.com/application-security/akamai-technologies-to-acquire-api-security-company-neosec)
 - [How to Prevent 2 Common Attacks on MFA](https://www.darkreading.com/endpoint/how-to-prevent-2-common-attacks-on-mfa)
 - [Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect](https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect)
 - [Report: Over Half of North American Consumers Are Open to Passwordless](https://www.darkreading.com/endpoint/report-over-half-of-north-american-consumers-are-open-to-passwordless)
 - [Netwrix Annual Security Survey: 68% of Organizations Experienced a Cyberattack Within the Last 12 Months](https://www.darkreading.com/attacks-breaches/netwrix-annual-security-survey-68-of-organizations-experienced-a-cyberattack-within-the-last-12-months)
 - [KnowBe4 Phishing Test Results Reveal IT and Online Services  Emails Drive Dangerous Attack Trend](https://www.darkreading.com/vulnerabilities-threats/knowbe4-phishing-test-results-reveal-it-and-online-services-emails-drive-dangerous-attack-trend-)
 - [Marlinspike Adds Charles Carmakal to its Advisory Board](https://www.darkreading.com/operations/marlinspike-adds-charles-carmakal-to-its-advisory-board)
-- [NSO Group Is Back in Business With 3 New iOS Zero-Click Exploits](https://www.darkreading.com/attacks-breaches/nso-group-back-business-3-new-ios-zero-click-exploits)
-- [&#39;Zaraza&#39; Bot Targets Google Chrome to Extract Login Credentials](https://www.darkreading.com/remote-workforce/zaraza-bot-targets-google-chrome-extract-login-credentials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
