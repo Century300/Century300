@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Killnet Boss Exposes Rival Leader in Kremlin Hacktivist Beef](https://www.darkreading.com/threat-intelligence/killnet-boss-rival-leader-kremlin-hacktivist-beef)
+- [Russian Fancy Bear APT Exploited Unpatched Cisco Routers to Hack US, EU Gov&#39;t Agencies](https://www.darkreading.com/attacks-breaches/russian-fancy-bear-apt-exploited-unpatched-cisco-routers-to-hack-us-eu-government-agencies)
+- [7 Sizzling Sessions to Check Out at RSA Conference 2023](https://www.darkreading.com/dr-tech/7-sizzling-sessions-check-out-rsa-conference-2023)
 - [Coro Raises an Additional $75M Bringing the Total Raised to $155M in 12 Months](https://www.darkreading.com/operations/coro-raises-an-additional-75m-bringing-the-total-raised-to-155m-in-12-months)
 - [CrowdStrike Announces Managed XDR to Close the Cybersecurity Skills Gap, Expands MDR Portfolio](https://www.darkreading.com/endpoint/crowdstrike-announces-managed-xdr-to-close-the-cybersecurity-skills-gap-expands-industry-leading-mdr-portfolio)
 - [Gary Bowser, Former Nintendo Hacker, Released From Prison](https://www.darkreading.com/endpoint/gary-bowser-former-nintendo-hacker-released-from-prison)
 - [Popular Fitness Apps Leak Location Data Even When Users Set Privacy Zones](https://www.darkreading.com/application-security/popular-fitness-apps-leak-location-data-even-when-users-set-privacy-zones)
 - [3 Flaws, 1 War Dominated Cyber-Threat Landscape in 2022](https://www.darkreading.com/ics-ot/three-flaws-one-war-dominated-cyber-threat-landscape-2022)
-- [Akamai Technologies to Acquire API Security Company Neosec](https://www.darkreading.com/application-security/akamai-technologies-to-acquire-api-security-company-neosec)
-- [How to Prevent 2 Common Attacks on MFA](https://www.darkreading.com/endpoint/how-to-prevent-2-common-attacks-on-mfa)
-- [Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect](https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
