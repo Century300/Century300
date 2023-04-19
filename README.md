@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gary Bowser, Former Nintendo Hacker, Released From Prison](https://www.darkreading.com/endpoint/gary-bowser-former-nintendo-hacker-released-from-prison)
 - [Popular Fitness Apps Leak Location Data Even When Users Set Privacy Zones](https://www.darkreading.com/application-security/popular-fitness-apps-leak-location-data-even-when-users-set-privacy-zones)
 - [3 Flaws, 1 War Dominated Cyber-Threat Landscape in 2022](https://www.darkreading.com/ics-ot/three-flaws-one-war-dominated-cyber-threat-landscape-2022)
 - [Akamai Technologies to Acquire API Security Company Neosec](https://www.darkreading.com/application-security/akamai-technologies-to-acquire-api-security-company-neosec)
@@ -83,7 +84,6 @@
 - [Cyberattacks Can Cost Enterprises Up to 30% of Operating Income According to ThreatConnect](https://www.darkreading.com/attacks-breaches/cyber-attacks-can-cost-enterprises-up-to-30-percent-of-operating-income-according-to-new-research-from-threatconnect)
 - [Report: Over Half of North American Consumers Are Open to Passwordless](https://www.darkreading.com/endpoint/report-over-half-of-north-american-consumers-are-open-to-passwordless)
 - [Netwrix Annual Security Survey: 68% of Organizations Experienced a Cyberattack Within the Last 12 Months](https://www.darkreading.com/attacks-breaches/netwrix-annual-security-survey-68-of-organizations-experienced-a-cyberattack-within-the-last-12-months)
-- [KnowBe4 Phishing Test Results Reveal IT and Online Services  Emails Drive Dangerous Attack Trend](https://www.darkreading.com/vulnerabilities-threats/knowbe4-phishing-test-results-reveal-it-and-online-services-emails-drive-dangerous-attack-trend-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
