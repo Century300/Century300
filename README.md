@@ -81,7 +81,7 @@
 - [Netwrix Annual Security Survey: 68% of Organizations Experienced a Cyberattack Within the Last 12 Months](https://www.darkreading.com/attacks-breaches/netwrix-annual-security-survey-68-of-organizations-experienced-a-cyberattack-within-the-last-12-months)
 - [KnowBe4 Phishing Test Results Reveal IT and Online Services  Emails Drive Dangerous Attack Trend](https://www.darkreading.com/vulnerabilities-threats/knowbe4-phishing-test-results-reveal-it-and-online-services-emails-drive-dangerous-attack-trend-)
 - [Marlinspike Adds Charles Carmakal to its Advisory Board](https://www.darkreading.com/operations/marlinspike-adds-charles-carmakal-to-its-advisory-board)
-- [NSO Group is Back in Business With 3 New iOS Zero-Click Exploits](https://www.darkreading.com/attacks-breaches/nso-group-back-business-3-new-ios-zero-click-exploits)
+- [NSO Group Is Back in Business With 3 New iOS Zero-Click Exploits](https://www.darkreading.com/attacks-breaches/nso-group-back-business-3-new-ios-zero-click-exploits)
 - [&#39;Zaraza&#39; Bot Targets Google Chrome to Extract Login Credentials](https://www.darkreading.com/remote-workforce/zaraza-bot-targets-google-chrome-extract-login-credentials)
 - [QBot Expands Initial Access Malware Strategy With PDF-WSF Combo](https://www.darkreading.com/remote-workforce/qbot-initial-access-attack-malware-pdf-wsf-combo)
 <!-- DARKREADING:END -->
