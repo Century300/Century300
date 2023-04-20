@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [&#39;AuKill&#39; Malware Hunts &amp; Kills EDR Processes](https://www.darkreading.com/attacks-breaches/aukill-malware-hunts-kills-edr-processes)
 - [Global Spyware Attacks Spotted Against Both New &amp; Old iPhones](https://www.darkreading.com/mobile/global-spyware-attacks-spotted-new-old-iphones-global-attacks)
+- [Tech Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
 - [GPT-4 Provides Improved Answers While Posing New Questions](https://www.darkreading.com/vulnerabilities-threats/gpt-4-provides-improved-answers-while-posing-new-questions)
+- [Twitter&#39;s 2FA Policy Is a Call for Passkey Disruption](https://www.darkreading.com/endpoint/twitter-s-2fa-policy-should-be-a-call-for-passkey-disruption)
 - [Newer Authentication Tech a Priority for 2023](https://www.darkreading.com/tech-trends/newer-authentication-tech-a-priority-for-2023)
 - [Killnet Boss Exposes Rival Leader in Kremlin Hacktivist Beef](https://www.darkreading.com/threat-intelligence/killnet-boss-rival-leader-kremlin-hacktivist-beef)
 - [Russian Fancy Bear APT Exploited Unpatched Cisco Routers to Hack US, EU Gov&#39;t Agencies](https://www.darkreading.com/attacks-breaches/russian-fancy-bear-apt-exploited-unpatched-cisco-routers-to-hack-us-eu-government-agencies)
-- [7 Sizzling Sessions to Check Out at RSA Conference 2023](https://www.darkreading.com/dr-tech/7-sizzling-sessions-check-out-rsa-conference-2023)
-- [Coro Raises an Additional $75M Bringing the Total Raised to $155M in 12 Months](https://www.darkreading.com/operations/coro-raises-an-additional-75m-bringing-the-total-raised-to-155m-in-12-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
