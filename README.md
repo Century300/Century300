@@ -76,11 +76,11 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tech Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
+- [Twitter&#39;s 2FA Policy Is a Call for Passkey Disruption](https://www.darkreading.com/endpoint/twitter-s-2fa-policy-should-be-a-call-for-passkey-disruption)
 - [&#39;AuKill&#39; Malware Hunts &amp; Kills EDR Processes](https://www.darkreading.com/attacks-breaches/aukill-malware-hunts-kills-edr-processes)
 - [Global Spyware Attacks Spotted Against Both New &amp; Old iPhones](https://www.darkreading.com/mobile/global-spyware-attacks-spotted-new-old-iphones-global-attacks)
-- [Tech Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
 - [GPT-4 Provides Improved Answers While Posing New Questions](https://www.darkreading.com/vulnerabilities-threats/gpt-4-provides-improved-answers-while-posing-new-questions)
-- [Twitter&#39;s 2FA Policy Is a Call for Passkey Disruption](https://www.darkreading.com/endpoint/twitter-s-2fa-policy-should-be-a-call-for-passkey-disruption)
 - [Newer Authentication Tech a Priority for 2023](https://www.darkreading.com/tech-trends/newer-authentication-tech-a-priority-for-2023)
 - [Killnet Boss Exposes Rival Leader in Kremlin Hacktivist Beef](https://www.darkreading.com/threat-intelligence/killnet-boss-rival-leader-kremlin-hacktivist-beef)
 - [Russian Fancy Bear APT Exploited Unpatched Cisco Routers to Hack US, EU Gov&#39;t Agencies](https://www.darkreading.com/attacks-breaches/russian-fancy-bear-apt-exploited-unpatched-cisco-routers-to-hack-us-eu-government-agencies)
