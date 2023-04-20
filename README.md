@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infoblox Uncovers DNS Malware Toolkit &amp; Urges Companies to Block Malicious Domains](https://www.darkreading.com/vulnerabilities-threats/infoblox-uncovers-dns-malware-toolkit-urges-companies-to-block-malicious-domains)
+- [Bitsight Expands into Integrated Cyber-Risk Management](https://www.darkreading.com/risk/bitsight-expands-into-integrated-cyber-risk-management)
+- [&#39;GhostToken&#39; Opens Google Accounts to Permanent Infection](https://www.darkreading.com/remote-workforce/-ghosttoken-opens-google-accounts-to-permanent-infection)
 - [Red Canary Announces Readiness](https://www.darkreading.com/attacks-breaches/red-canary-announces-readiness)
 - [3CX Supply Chain Attack Tied to Financial Trading App Breach](https://www.darkreading.com/attacks-breaches/3cx-supply-chain-attack-originated-from-breach-at-another-software-company)
 - [Major US CFPB Data Breach Caused by Employee](https://www.darkreading.com/attacks-breaches/major-us-cfpb-data-breach-employee)
 - [Trigona Ransomware Trolling for &#39;Poorly Managed&#39; MS-SQL Servers](https://www.darkreading.com/remote-workforce/trigona-ransomware-trolling-for-poorly-managed-ms-sql-servers-)
 - [Expert Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
-- [Twitter&#39;s 2FA Policy Is a Call for Passkey Disruption](https://www.darkreading.com/endpoint/twitter-s-2fa-policy-should-be-a-call-for-passkey-disruption)
-- [&#39;AuKill&#39; Malware Hunts &amp; Kills EDR Processes](https://www.darkreading.com/attacks-breaches/aukill-malware-hunts-kills-edr-processes)
-- [Global Spyware Attacks Spotted Against Both New &amp; Old iPhones](https://www.darkreading.com/mobile/global-spyware-attacks-spotted-new-old-iphones-global-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
