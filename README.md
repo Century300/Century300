@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Newer Authentication Tech a Priority for 2023](https://www.darkreading.com/tech-trends/newer-authentication-tech-a-priority-for-2023)
 - [Killnet Boss Exposes Rival Leader in Kremlin Hacktivist Beef](https://www.darkreading.com/threat-intelligence/killnet-boss-rival-leader-kremlin-hacktivist-beef)
 - [Russian Fancy Bear APT Exploited Unpatched Cisco Routers to Hack US, EU Gov&#39;t Agencies](https://www.darkreading.com/attacks-breaches/russian-fancy-bear-apt-exploited-unpatched-cisco-routers-to-hack-us-eu-government-agencies)
 - [7 Sizzling Sessions to Check Out at RSA Conference 2023](https://www.darkreading.com/dr-tech/7-sizzling-sessions-check-out-rsa-conference-2023)
@@ -83,7 +84,6 @@
 - [CrowdStrike Announces Managed XDR to Close the Cybersecurity Skills Gap, Expands MDR Portfolio](https://www.darkreading.com/endpoint/crowdstrike-announces-managed-xdr-to-close-the-cybersecurity-skills-gap-expands-industry-leading-mdr-portfolio)
 - [Gary Bowser, Former Nintendo Hacker, Released From Prison](https://www.darkreading.com/endpoint/gary-bowser-former-nintendo-hacker-released-from-prison)
 - [Popular Fitness Apps Leak Location Data Even When Users Set Privacy Zones](https://www.darkreading.com/application-security/popular-fitness-apps-leak-location-data-even-when-users-set-privacy-zones)
-- [3 Flaws, 1 War Dominated Cyber-Threat Landscape in 2022](https://www.darkreading.com/ics-ot/three-flaws-one-war-dominated-cyber-threat-landscape-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
