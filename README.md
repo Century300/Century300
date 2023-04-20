@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Trigona Ransomware Trolling for &#39;Poorly Managed&#39; MS-SQL Servers](https://www.darkreading.com/remote-workforce/trigona-ransomware-trolling-for-poorly-managed-ms-sql-servers-)
-- [Tech Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
+- [Expert Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
 - [Twitter&#39;s 2FA Policy Is a Call for Passkey Disruption](https://www.darkreading.com/endpoint/twitter-s-2fa-policy-should-be-a-call-for-passkey-disruption)
 - [&#39;AuKill&#39; Malware Hunts &amp; Kills EDR Processes](https://www.darkreading.com/attacks-breaches/aukill-malware-hunts-kills-edr-processes)
 - [Global Spyware Attacks Spotted Against Both New &amp; Old iPhones](https://www.darkreading.com/mobile/global-spyware-attacks-spotted-new-old-iphones-global-attacks)
