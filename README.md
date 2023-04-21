@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Tangled Web of IR Strategies](https://www.darkreading.com/vulnerabilities-threats/the-tangled-web-of-ir-strategies)
 - [Infoblox Uncovers DNS Malware Toolkit &amp; Urges Companies to Block Malicious Domains](https://www.darkreading.com/vulnerabilities-threats/infoblox-uncovers-dns-malware-toolkit-urges-companies-to-block-malicious-domains)
 - [Bitsight Expands into Integrated Cyber-Risk Management](https://www.darkreading.com/risk/bitsight-expands-into-integrated-cyber-risk-management)
 - [&#39;GhostToken&#39; Opens Google Accounts to Permanent Infection](https://www.darkreading.com/remote-workforce/-ghosttoken-opens-google-accounts-to-permanent-infection)
@@ -83,7 +84,6 @@
 - [New Policy Group Wants to Improve Cybersecurity Disclosure, Support Researchers](https://www.darkreading.com/edge-articles/new-policy-group-wants-to-improve-cybersecurity-disclosure-support-researchers)
 - [Red Canary Announces Readiness](https://www.darkreading.com/attacks-breaches/red-canary-announces-readiness)
 - [3CX Supply Chain Attack Tied to Financial Trading App Breach](https://www.darkreading.com/attacks-breaches/3cx-supply-chain-attack-originated-from-breach-at-another-software-company)
-- [Major US CFPB Data Breach Caused by Employee](https://www.darkreading.com/attacks-breaches/major-us-cfpb-data-breach-employee)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
