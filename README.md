@@ -79,11 +79,11 @@
 - [Infoblox Uncovers DNS Malware Toolkit &amp; Urges Companies to Block Malicious Domains](https://www.darkreading.com/vulnerabilities-threats/infoblox-uncovers-dns-malware-toolkit-urges-companies-to-block-malicious-domains)
 - [Bitsight Expands into Integrated Cyber-Risk Management](https://www.darkreading.com/risk/bitsight-expands-into-integrated-cyber-risk-management)
 - [&#39;GhostToken&#39; Opens Google Accounts to Permanent Infection](https://www.darkreading.com/remote-workforce/-ghosttoken-opens-google-accounts-to-permanent-infection)
+- [OpenSSF Adds Software Supply Chain Tracks to SLSA Framework](https://www.darkreading.com/dr-tech/openssf-adds-software-supply-chain-tracks-to-slsa-framework)
 - [Red Canary Announces Readiness](https://www.darkreading.com/attacks-breaches/red-canary-announces-readiness)
 - [3CX Supply Chain Attack Tied to Financial Trading App Breach](https://www.darkreading.com/attacks-breaches/3cx-supply-chain-attack-originated-from-breach-at-another-software-company)
 - [Major US CFPB Data Breach Caused by Employee](https://www.darkreading.com/attacks-breaches/major-us-cfpb-data-breach-employee)
 - [Trigona Ransomware Trolling for &#39;Poorly Managed&#39; MS-SQL Servers](https://www.darkreading.com/remote-workforce/trigona-ransomware-trolling-for-poorly-managed-ms-sql-servers-)
-- [Expert Insight: Dangers of Using Large Language Models Before They Are Baked](https://www.darkreading.com/vulnerabilities-threats/tech-insight-dangers-of-using-large-language-models-before-they-are-baked)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
