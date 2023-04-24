@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Survival: Hide From Adversarial AI](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survival-hide-from-adversarial-ai)
+- [Zimperium Launches Unified Mobile Security Platform for Threat Detection, Visibility, and Response](https://www.darkreading.com/endpoint/zimperium-launches-the-only-unified-mobile-security-platform-for-threat-detection-visibility-and-response-for-both-endpoints-and-apps)
+- [Rethinking Safer AI: Can There Really Be a &#39;TruthGPT&#39;?](https://www.darkreading.com/remote-workforce/safer-ai-can-there-really-be-a-truthgpt)
+- [Palo Alto Networks Takes Aim At Cyberattacks With the Expansion of Unit 42&#39;s Digital Forensics &amp; Incident Response Service Globally](https://www.darkreading.com/operations/palo-alto-networks-takes-aim-at-cyber-attacks-with-the-expansion-of-unit-42-s-digital-forensics-incident-response-service-globally)
+- [CrowdStrike Introduces CrowdStream to Accelerate and Simplify XDR Adoption](https://www.darkreading.com/analytics/crowdstrike-introduces-crowdstream-to-dramatically-accelerate-and-simplify-xdr-adoption)
 - [Shields Health Breach Exposes 2.3M Users&#39; Data](https://www.darkreading.com/attacks-breaches/shields-health-breach-exposes-2-3m-users-data)
 - [North Korea&#39;s Kimsuky APT Keeps Growing, Despite Public Outing](https://www.darkreading.com/threat-intelligence/north-korea-kimsuky-apt-keeps-growing-despite-public-outing)
 - [&#39;EvilExtractor&#39; All-in-One Stealer Campaign Targets Windows User Data](https://www.darkreading.com/endpoint/evilextractor-infostealer-campaign-targets-windows-os)
-- [Intel Prioritizes Security in Latest vPro Chips](https://www.darkreading.com/dr-tech/intel-prioritizes-security-in-latest-vpro-chips)
-- [Shadow IT, SaaS Pose Security Liability for Enterprises](https://www.darkreading.com/edge-articles/shadow-it-saas-pose-security-liability-for-enterprises)
-- [The Tangled Web of IR Strategies](https://www.darkreading.com/vulnerabilities-threats/the-tangled-web-of-ir-strategies)
-- [Infoblox Uncovers DNS Malware Toolkit &amp; Urges Companies to Block Malicious Domains](https://www.darkreading.com/vulnerabilities-threats/infoblox-uncovers-dns-malware-toolkit-urges-companies-to-block-malicious-domains)
-- [Bitsight Expands into Integrated Cyber-Risk Management](https://www.darkreading.com/risk/bitsight-expands-into-integrated-cyber-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
