@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Cloud Announces New Security AI Workbench and Ecosystem Expansion at RSAC 2023](https://www.darkreading.com/cloud/google-cloud-announces-new-security-ai-workbench-and-ecosystem-expansion-at-rsac-2023)
+- [Qwiet AI Builds a Neural Net to Catch Coding Vulnerabilities](https://www.darkreading.com/dr-tech/qwiet-ai-builds-a-neural-net-to-catch-coding-vulnerabilities)
 - [ZeroFox to Acquire LookingGlass, Broadening Global Attack Surface Intelligence Capabilities](https://www.darkreading.com/threat-intelligence/zerofox-to-acquire-lookingglass-broadening-global-attack-surface-intelligence-capabilities)
 - [Cisco Unveils Solution to Rapidly Detect Advanced Cyber Threats and Automate Response](https://www.darkreading.com/threat-intelligence/cisco-unveils-solution-to-rapidly-detect-advanced-cyber-threats-and-automate-response)
 - [Cybersecurity Survival: Hide From Adversarial AI](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survival-hide-from-adversarial-ai)
 - [The New Frontier in Email Security: Goodbye, Gateways; Hello, Behavioral AI](https://www.darkreading.com/application-security/the-new-frontier-in-email-security-goodbye-gateways-hello-behavioral-ai)
 - [Zimperium Launches Unified Mobile Security Platform for Threat Detection, Visibility, and Response](https://www.darkreading.com/endpoint/zimperium-launches-the-only-unified-mobile-security-platform-for-threat-detection-visibility-and-response-for-both-endpoints-and-apps)
 - [Rethinking Safer AI: Can There Really Be a &#39;TruthGPT&#39;?](https://www.darkreading.com/remote-workforce/safer-ai-can-there-really-be-a-truthgpt)
-- [Palo Alto Networks Takes Aim At Cyberattacks With the Expansion of Unit 42&#39;s Digital Forensics &amp; Incident Response Service Globally](https://www.darkreading.com/operations/palo-alto-networks-takes-aim-at-cyber-attacks-with-the-expansion-of-unit-42-s-digital-forensics-incident-response-service-globally)
-- [CrowdStrike Introduces CrowdStream to Accelerate and Simplify XDR Adoption](https://www.darkreading.com/analytics/crowdstrike-introduces-crowdstream-to-dramatically-accelerate-and-simplify-xdr-adoption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
