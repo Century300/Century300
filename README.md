@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Workspace Extends Enterprise-Grade Security and Device Management for Hybrid Work With Okta and VMware](https://www.darkreading.com/remote-workforce/google-workspace-extends-enterprise-grade-security-and-device-management-for-hybrid-work-with-okta-and-vmware)
 - [North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.darkreading.com/attacks-breaches/north-korean-foreign-trade-bank-representative-charged-in-crypto-laundering-conspiracies)
 - [Google Cloud Announces New Security AI Workbench and Ecosystem Expansion at RSAC 2023](https://www.darkreading.com/cloud/google-cloud-announces-new-security-ai-workbench-and-ecosystem-expansion-at-rsac-2023)
 - [Qwiet AI Builds a Neural Net to Catch Coding Vulnerabilities](https://www.darkreading.com/dr-tech/qwiet-ai-builds-a-neural-net-to-catch-coding-vulnerabilities)
@@ -83,7 +84,6 @@
 - [Cisco Unveils Solution to Rapidly Detect Advanced Cyber Threats and Automate Response](https://www.darkreading.com/threat-intelligence/cisco-unveils-solution-to-rapidly-detect-advanced-cyber-threats-and-automate-response)
 - [Cybersecurity Survival: Hide From Adversarial AI](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-survival-hide-from-adversarial-ai)
 - [The New Frontier in Email Security: Goodbye, Gateways; Hello, Behavioral AI](https://www.darkreading.com/application-security/the-new-frontier-in-email-security-goodbye-gateways-hello-behavioral-ai)
-- [Zimperium Launches Unified Mobile Security Platform for Threat Detection, Visibility, and Response](https://www.darkreading.com/endpoint/zimperium-launches-the-only-unified-mobile-security-platform-for-threat-detection-visibility-and-response-for-both-endpoints-and-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
