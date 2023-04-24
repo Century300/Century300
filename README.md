@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Millions of Artifacts, Misconfigured Enterprise Software Registries Are Ripe for Pwning](https://www.darkreading.com/application-security/millions-artifacts-misconfigured-enterprise-software-registries-pwning)
+- [Tangled Up: &#39;Tomiris&#39; APT Uses Turla Malware, Confusing Researchers](https://www.darkreading.com/threat-intelligence/tangled-up-tomiris-apt-uses-turla-malware-confusing-researchers)
 - [Google Workspace Extends Enterprise-Grade Security and Device Management for Hybrid Work With Okta and VMware](https://www.darkreading.com/remote-workforce/google-workspace-extends-enterprise-grade-security-and-device-management-for-hybrid-work-with-okta-and-vmware)
+- [Bot Management Aims to Tame Attacker Automation](https://www.darkreading.com/dr-tech/bot-management-aims-to-tame-attacker-automation)
 - [Critical Infrastructure Organizations Further Affected in 3CX Breach](https://www.darkreading.com/attacks-breaches/2-infrastructure-organizations-further-affected-3cx-breach)
 - [Are Low-Code Apps a Ticking Access Control Time-Bomb?](https://www.darkreading.com/edge-articles/are-low-code-apps-a-ticking-access-control-time-bomb-)
 - [North Korean Foreign Trade Bank Representative Charged in Crypto Laundering Conspiracies](https://www.darkreading.com/attacks-breaches/north-korean-foreign-trade-bank-representative-charged-in-crypto-laundering-conspiracies)
 - [Google Cloud Announces New Security AI Workbench and Ecosystem Expansion at RSAC 2023](https://www.darkreading.com/cloud/google-cloud-announces-new-security-ai-workbench-and-ecosystem-expansion-at-rsac-2023)
-- [Qwiet AI Builds a Neural Net to Catch Coding Vulnerabilities](https://www.darkreading.com/dr-tech/qwiet-ai-builds-a-neural-net-to-catch-coding-vulnerabilities)
-- [ZeroFox to Acquire LookingGlass, Broadening Global Attack Surface Intelligence Capabilities](https://www.darkreading.com/threat-intelligence/zerofox-to-acquire-lookingglass-broadening-global-attack-surface-intelligence-capabilities)
-- [Cisco Unveils Solution to Rapidly Detect Advanced Cyber Threats and Automate Response](https://www.darkreading.com/threat-intelligence/cisco-unveils-solution-to-rapidly-detect-advanced-cyber-threats-and-automate-response)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
