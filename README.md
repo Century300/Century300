@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Good&#39; AI Is the Only Path to True Zero-Trust Architecture](https://www.darkreading.com/threat-intelligence/good-ai-crucial-to-zero-trust-success)
 - [Attackers Abuse PaperCut RCE Flaws to Take Over Enterprise Print Servers](https://www.darkreading.com/remote-workforce/attackers-abuse-papercut-rce-flaws-to-take-over-enterprise-print-servers)
 - [DDoS, Not Ransomware, Is Top Business Concern for Edge Networks](https://www.darkreading.com/ics-ot/ddos-ransomware-itop-business-concern-edge-networks)
 - [The Decline in Ransomware: Does It Actually Increase Risks for Organizations?](https://www.darkreading.com/vulnerabilities-threats/the-decline-in-ransomware-does-it-actually-increase-risks-for-organizations-)
@@ -83,7 +84,6 @@
 - [Millions of Artifacts, Misconfigured Enterprise Software Registries Are Ripe for Pwning](https://www.darkreading.com/application-security/millions-artifacts-misconfigured-enterprise-software-registries-pwning)
 - [Tangled Up: &#39;Tomiris&#39; APT Uses Turla Malware, Confusing Researchers](https://www.darkreading.com/threat-intelligence/tangled-up-tomiris-apt-uses-turla-malware-confusing-researchers)
 - [Google Workspace Extends Enterprise-Grade Security and Device Management for Hybrid Work With Okta and VMware](https://www.darkreading.com/remote-workforce/google-workspace-extends-enterprise-grade-security-and-device-management-for-hybrid-work-with-okta-and-vmware)
-- [Bot Management Aims to Tame Attacker Automation](https://www.darkreading.com/dr-tech/bot-management-aims-to-tame-attacker-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
