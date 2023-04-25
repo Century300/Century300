@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Experts: Account for AI/ML Resilience &amp; Risk While There&#39;s Still Time](https://www.darkreading.com/vulnerabilities-threats/ai-experts-account-ai-ml-resilience-risk-time)
+- [Akamai Introduces Prolexic Network Cloud Firewall](https://www.darkreading.com/cloud/akamai-introduces-prolexic-network-cloud-firewall)
+- [Forcepoint Delivers Data Security Everywhere, Extending DLP Policies From Endpoints to the Cloud](https://www.darkreading.com/endpoint/forcepoint-delivers-data-security-everywhere-extending-dlp-policies-from-endpoints-to-the-cloud)
+- [NetWitness Partners With Palo Alto Networks, Broadcom to Launch SASE Packet Integrations at RSA Conference 2023](https://www.darkreading.com/vulnerabilities-threats/netwitness-partners-with-palo-alto-networks-broadcom-to-launch-sase-packet-integrations-at-rsa-conference-2023)
+- [ReliaQuest Adds AI Capabilities to GreyMatter Intelligent Analysis](https://www.darkreading.com/threat-intelligence/reliaquest-adds-ai-capabilities-to-greymatter-intelligent-analysis)
 - [Vantage Travel Experiences Data Security Incident](https://www.darkreading.com/attacks-breaches/vantage-travel-experiences-data-security-incident)
+- [&#39;Educated Manticore&#39; Targets Israeli Victims in Improved Phishing Attacks](https://www.darkreading.com/endpoint/educated-manticore-targets-israeli-victims-in-improved-phishing-attacks)
 - [&#39;Good&#39; AI Is the Only Path to True Zero-Trust Architecture](https://www.darkreading.com/threat-intelligence/good-ai-crucial-to-zero-trust-success)
-- [Attackers Abuse PaperCut RCE Flaws to Take Over Enterprise Print Servers](https://www.darkreading.com/remote-workforce/attackers-abuse-papercut-rce-flaws-to-take-over-enterprise-print-servers)
-- [DDoS, Not Ransomware, Is Top Business Concern for Edge Networks](https://www.darkreading.com/ics-ot/ddos-ransomware-itop-business-concern-edge-networks)
-- [The Decline in Ransomware: Does It Actually Increase Risks for Organizations?](https://www.darkreading.com/vulnerabilities-threats/the-decline-in-ransomware-does-it-actually-increase-risks-for-organizations-)
-- [Building a Better SBOM](https://www.darkreading.com/application-security/building-a-better-sbom)
-- [Millions of Artifacts, Misconfigured Enterprise Software Registries Are Ripe for Pwning](https://www.darkreading.com/application-security/millions-artifacts-misconfigured-enterprise-software-registries-pwning)
-- [Tangled Up: &#39;Tomiris&#39; APT Uses Turla Malware, Confusing Researchers](https://www.darkreading.com/threat-intelligence/tangled-up-tomiris-apt-uses-turla-malware-confusing-researchers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
