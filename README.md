@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Metaverse Version of the Dark Web Could be Nearly Impenetrable](https://www.darkreading.com/cloud/metaverse-version-dark-web-nearly-impenetrable)
 - [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
 - [Malware-Free Cyberattacks Are On the Rise; Here&#39;s How to Detect Them](https://www.darkreading.com/endpoint/malware-free-cyberattacks-rise-how-to-detect)
 - [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
@@ -83,7 +84,6 @@
 - [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
 - [BlackBerry Extends Partnership With Managed Security Services Provider &lpar;MSSP&rpar; to Ensure SMBs are Set Up for Cyber Success](https://www.darkreading.com/operations/blackberry-extends-partnership-with-managed-security-services-provider-mssp-to-ensure-smbs-are-set-up-for-cyber-success)
 - [AI Experts: Account for AI/ML Resilience &amp; Risk While There&#39;s Still Time](https://www.darkreading.com/vulnerabilities-threats/ai-experts-account-ai-ml-resilience-risk-time)
-- [Akamai Introduces Prolexic Network Cloud Firewall](https://www.darkreading.com/cloud/akamai-introduces-prolexic-network-cloud-firewall)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
