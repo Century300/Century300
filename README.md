@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google 2FA Syncing Feature Could Put Your Privacy at Risk](https://www.darkreading.com/application-security/google-2fa-syncing-feature-could-put-your-privacy-at-risk)
 - [BigID and Thales Collaborate to Deliver Comprehensive Data Protection and Privacy Compliance](https://www.darkreading.com/endpoint/bigid-and-thales-collaborate-to-deliver-comprehensive-data-protection-and-privacy-compliance)
 - [Linux Shift: Chinese APT Alloy Taurus Is Back With Retooling](https://www.darkreading.com/endpoint/linux-chinese-apt-alloy-taurus-back-retooling)
 - [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
@@ -83,7 +84,6 @@
 - [Metaverse Version of the Dark Web Could be Nearly Impenetrable](https://www.darkreading.com/cloud/metaverse-version-dark-web-nearly-impenetrable)
 - [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
 - [Malware-Free Cyberattacks Are On the Rise; Here&#39;s How to Detect Them](https://www.darkreading.com/endpoint/malware-free-cyberattacks-rise-how-to-detect)
-- [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
