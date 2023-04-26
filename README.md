@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
 - [CyberGRX Announces Winners of the Inaugural Cyber Risk Nation Awards](https://www.darkreading.com/risk/cybergrx-announces-winners-of-the-inaugural-cyber-risk-nation-awards)
 - [Metaverse Version of the Dark Web Could be Nearly Impenetrable](https://www.darkreading.com/cloud/metaverse-version-dark-web-nearly-impenetrable)
 - [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
@@ -83,7 +84,6 @@
 - [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 - [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
 - [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
-- [BlackBerry Extends Partnership With Managed Security Services Provider &lpar;MSSP&rpar; to Ensure SMBs are Set Up for Cyber Success](https://www.darkreading.com/operations/blackberry-extends-partnership-with-managed-security-services-provider-mssp-to-ensure-smbs-are-set-up-for-cyber-success)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
