@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
+- [Malware-Free Cyberattacks Are On the Rise; Here&#39;s How to Detect Them](https://www.darkreading.com/endpoint/malware-free-cyberattacks-rise-how-to-detect)
 - [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 - [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
 - [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
 - [BlackBerry Extends Partnership With Managed Security Services Provider &lpar;MSSP&rpar; to Ensure SMBs are Set Up for Cyber Success](https://www.darkreading.com/operations/blackberry-extends-partnership-with-managed-security-services-provider-mssp-to-ensure-smbs-are-set-up-for-cyber-success)
 - [AI Experts: Account for AI/ML Resilience &amp; Risk While There&#39;s Still Time](https://www.darkreading.com/vulnerabilities-threats/ai-experts-account-ai-ml-resilience-risk-time)
 - [Akamai Introduces Prolexic Network Cloud Firewall](https://www.darkreading.com/cloud/akamai-introduces-prolexic-network-cloud-firewall)
-- [Forcepoint Delivers Data Security Everywhere, Extending DLP Policies From Endpoints to the Cloud](https://www.darkreading.com/endpoint/forcepoint-delivers-data-security-everywhere-extending-dlp-policies-from-endpoints-to-the-cloud)
-- [NetWitness Partners With Palo Alto Networks, Broadcom to Launch SASE Packet Integrations at RSA Conference 2023](https://www.darkreading.com/vulnerabilities-threats/netwitness-partners-with-palo-alto-networks-broadcom-to-launch-sase-packet-integrations-at-rsa-conference-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
