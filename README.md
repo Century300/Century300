@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Shift: Chinese APT Alloy Taurus Is Back With Retooling](https://www.darkreading.com/endpoint/linux-chinese-apt-alloy-taurus-back-retooling)
 - [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
 - [CyberGRX Announces Winners of the Inaugural Cyber Risk Nation Awards](https://www.darkreading.com/risk/cybergrx-announces-winners-of-the-inaugural-cyber-risk-nation-awards)
 - [Metaverse Version of the Dark Web Could be Nearly Impenetrable](https://www.darkreading.com/cloud/metaverse-version-dark-web-nearly-impenetrable)
@@ -83,7 +84,6 @@
 - [Malware-Free Cyberattacks Are On the Rise; Here&#39;s How to Detect Them](https://www.darkreading.com/endpoint/malware-free-cyberattacks-rise-how-to-detect)
 - [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 - [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
-- [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
