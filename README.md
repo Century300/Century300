@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BigID and Thales Collaborate to Deliver Comprehensive Data Protection and Privacy Compliance](https://www.darkreading.com/endpoint/bigid-and-thales-collaborate-to-deliver-comprehensive-data-protection-and-privacy-compliance)
 - [Linux Shift: Chinese APT Alloy Taurus Is Back With Retooling](https://www.darkreading.com/endpoint/linux-chinese-apt-alloy-taurus-back-retooling)
 - [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
 - [CyberGRX Announces Winners of the Inaugural Cyber Risk Nation Awards](https://www.darkreading.com/risk/cybergrx-announces-winners-of-the-inaugural-cyber-risk-nation-awards)
@@ -83,7 +84,6 @@
 - [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
 - [Malware-Free Cyberattacks Are On the Rise; Here&#39;s How to Detect Them](https://www.darkreading.com/endpoint/malware-free-cyberattacks-rise-how-to-detect)
 - [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
-- [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
