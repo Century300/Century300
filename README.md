@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Rethink Data Security with Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 - [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
 - [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
 - [BlackBerry Extends Partnership With Managed Security Services Provider &lpar;MSSP&rpar; to Ensure SMBs are Set Up for Cyber Success](https://www.darkreading.com/operations/blackberry-extends-partnership-with-managed-security-services-provider-mssp-to-ensure-smbs-are-set-up-for-cyber-success)
@@ -83,7 +84,6 @@
 - [Akamai Introduces Prolexic Network Cloud Firewall](https://www.darkreading.com/cloud/akamai-introduces-prolexic-network-cloud-firewall)
 - [Forcepoint Delivers Data Security Everywhere, Extending DLP Policies From Endpoints to the Cloud](https://www.darkreading.com/endpoint/forcepoint-delivers-data-security-everywhere-extending-dlp-policies-from-endpoints-to-the-cloud)
 - [NetWitness Partners With Palo Alto Networks, Broadcom to Launch SASE Packet Integrations at RSA Conference 2023](https://www.darkreading.com/vulnerabilities-threats/netwitness-partners-with-palo-alto-networks-broadcom-to-launch-sase-packet-integrations-at-rsa-conference-2023)
-- [ReliaQuest Adds AI Capabilities to GreyMatter Intelligent Analysis](https://www.darkreading.com/threat-intelligence/reliaquest-adds-ai-capabilities-to-greymatter-intelligent-analysis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
