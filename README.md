@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [CISOs Rethink Data Security with Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
+- [CISOs Rethink Data Security With Info-Centric Framework](https://www.darkreading.com/remote-workforce/cisos-rethink-data-security-info-centric-framework)
 - [Datadog&#39;s 2023 State of Application Security Report Presents Top AppSec Trends](https://www.darkreading.com/application-security/datadog-s-2023-state-of-application-security-report-presents-top-appsec-trends)
 - [Dig Security Announces New Integration With CrowdStrike](https://www.darkreading.com/cloud/dig-security-announces-new-integration-with-crowdstrike)
 - [BlackBerry Extends Partnership With Managed Security Services Provider &lpar;MSSP&rpar; to Ensure SMBs are Set Up for Cyber Success](https://www.darkreading.com/operations/blackberry-extends-partnership-with-managed-security-services-provider-mssp-to-ensure-smbs-are-set-up-for-cyber-success)
