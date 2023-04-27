@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Combating Kubernetes — the Newest IAM Challenge](https://www.darkreading.com/attacks-breaches/combating-kubernetes-the-newest-iam-challenge-)
 - [Tenable Makes Generative AI Security Tools Available to the Research Community](https://www.darkreading.com/endpoint/tenable-makes-generative-ai-security-tools-available-to-the-research-community)
 - [Google 2FA Syncing Feature Could Put Your Privacy at Risk](https://www.darkreading.com/application-security/google-2fa-syncing-feature-could-put-your-privacy-at-risk)
 - [BigID and Thales Collaborate to Deliver Comprehensive Data Protection and Privacy Compliance](https://www.darkreading.com/endpoint/bigid-and-thales-collaborate-to-deliver-comprehensive-data-protection-and-privacy-compliance)
@@ -83,7 +84,6 @@
 - [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
 - [CyberGRX Announces Winners of the Inaugural Cyber Risk Nation Awards](https://www.darkreading.com/risk/cybergrx-announces-winners-of-the-inaugural-cyber-risk-nation-awards)
 - [Metaverse Version of the Dark Web Could Be Nearly Impenetrable](https://www.darkreading.com/cloud/metaverse-version-dark-web-nearly-impenetrable)
-- [Effects of the Hive Ransomware Group Takedown](https://www.darkreading.com/vulnerabilities-threats/effects-of-the-hive-ransomware-group-takedown)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
