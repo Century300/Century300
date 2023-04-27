@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tessian Fully Integrates With M365 To Provide Threat Protection and Insider Risk Protection](https://www.darkreading.com/threat-intelligence/tessian-fully-integrates-with-m365-to-provide-threat-protection-and-insider-risk-protection)
+- [Uptycs Launches Cloud Security Early Warning System](https://www.darkreading.com/cloud/uptycs-launches-industry-s-first-cloud-security-early-warning-system)
 - [MajorKey Accelerates Pureplay Information Security Strategy With Acquisition of Legion Star](https://www.darkreading.com/application-security/majorkey-accelerates-pureplay-information-security-strategy-with-acquisition-of-legion-star)
 - [Delinea Onsite RSA Conference Survey Reveals Cloud Security Remains Top Cybersecurity Concern in 2023](https://www.darkreading.com/application-security/delinea-onsite-rsa-conference-survey-reveals-cloud-security-remains-top-cybersecurity-concern-in-2023)
 - [&#39;Anonymous Sudan&#39; Claims Responsibility for DDoS Attacks Against Israel](https://www.darkreading.com/attacks-breaches/anonymous-sudan-claims-responsibility-ddos-attacks-israel)
 - [Threat Actor Names Proliferate, Adding Confusion](https://www.darkreading.com/threat-intelligence/threat-actor-names-proliferate-adding-confusion)
 - [Lazarus, Scarcruft North Korean APTs Shift Tactics, Thrive](https://www.darkreading.com/endpoint/lazarus-scarcruft-north-korean-apts-shift-tactics-thrive)
 - [China&#39;s &#39;Evasive Panda&#39; Hijacks Software Updates to Deliver Custom Backdoor](https://www.darkreading.com/attacks-breaches/china-evasive-panda-hijacks-software-updates-custom-backdoor)
-- [SANS Reveals Top 5 Most Dangerous Cyberattacks for 2023](https://www.darkreading.com/attacks-breaches/sans-lists-top-5-most-dangerous-cyberattacks-in-2023)
-- [The White House National Cybersecurity Strategy Has a Fatal Flaw](https://www.darkreading.com/vulnerabilities-threats/the-white-house-national-cybersecurity-strategy-has-a-fatal-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
