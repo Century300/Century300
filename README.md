@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SANS Reveals Top 5 Most Dangerous Cyberattacks for 2023](https://www.darkreading.com/attacks-breaches/sans-lists-top-5-most-dangerous-cyberattacks-in-2023)
 - [The White House National Cybersecurity Strategy Has a Fatal Flaw](https://www.darkreading.com/vulnerabilities-threats/the-white-house-national-cybersecurity-strategy-has-a-fatal-flaw)
 - [Continuous Scanning Is Imperative for Effective Web Application Security](https://www.darkreading.com/vulnerabilities-threats/continuous-scanning-is-imperative-for-effective-web-application-security)
 - [Combating Kubernetes — the Newest IAM Challenge](https://www.darkreading.com/attacks-breaches/combating-kubernetes-the-newest-iam-challenge-)
@@ -83,7 +84,6 @@
 - [Google 2FA Syncing Feature Could Put Your Privacy at Risk](https://www.darkreading.com/application-security/google-2fa-syncing-feature-could-put-your-privacy-at-risk)
 - [BigID and Thales Collaborate to Deliver Comprehensive Data Protection and Privacy Compliance](https://www.darkreading.com/endpoint/bigid-and-thales-collaborate-to-deliver-comprehensive-data-protection-and-privacy-compliance)
 - [Linux Shift: Chinese APT Alloy Taurus Is Back With Retooling](https://www.darkreading.com/endpoint/linux-chinese-apt-alloy-taurus-back-retooling)
-- [High-Severity SLP Flaw Can Amplify DDoS Attacks up to 2,200 Times](https://www.darkreading.com/vulnerabilities-threats/high-severity-slp-flaw-can-amplify-ddos-attacks-up-to-2-200-times)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
