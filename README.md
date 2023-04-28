@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cyber Certainty: Investing in Resilience During a Post Correction Market](https://www.darkreading.com/edge-articles/cyber-certainty-investing-in-resilience-during-a-post-correction-market)
+- [Cyber Certainty: Investing in Resilience During a Post-Correction Market](https://www.darkreading.com/edge-articles/cyber-certainty-investing-in-resilience-during-a-post-correction-market)
 - [Tessian Fully Integrates With M365 To Provide Threat Protection and Insider Risk Protection](https://www.darkreading.com/threat-intelligence/tessian-fully-integrates-with-m365-to-provide-threat-protection-and-insider-risk-protection)
 - [Uptycs Launches Cloud Security Early Warning System](https://www.darkreading.com/cloud/uptycs-launches-industry-s-first-cloud-security-early-warning-system)
 - [MajorKey Accelerates Pureplay Information Security Strategy With Acquisition of Legion Star](https://www.darkreading.com/application-security/majorkey-accelerates-pureplay-information-security-strategy-with-acquisition-of-legion-star)
