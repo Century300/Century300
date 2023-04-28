@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [&#39;BellaCiao&#39; Showcases How Iran&#39;s Threat Groups Are Modernizing Their Malware](https://www.darkreading.com/cloud/bellaciao-showcases-iran-threat-groups-modernizing-malware)
-- [Google Bans Thousands of Play Store Developer Accounts to Block Malware](https://www.darkreading.com/application-security/google-bans-thousands-developer-accounts-fraud-malware-play-store)
-- [Firmware Looms as the Next Frontier for Cybersecurity](https://www.darkreading.com/endpoint/firmware-looms-next-frontier-cybersecurity)
-- [SOSSA and CRA Spell Trouble for Open Source Software](https://www.darkreading.com/vulnerabilities-threats/sossa-and-cra-spell-trouble-for-open-source-software)
-- [Cyber Certainty: Investing in Resilience During a Post-Correction Market](https://www.darkreading.com/edge-articles/cyber-certainty-investing-in-resilience-during-a-post-correction-market)
-- [Tessian Fully Integrates With M365 To Provide Threat Protection and Insider Risk Protection](https://www.darkreading.com/threat-intelligence/tessian-fully-integrates-with-m365-to-provide-threat-protection-and-insider-risk-protection)
-- [Uptycs Launches Cloud Security Early Warning System](https://www.darkreading.com/cloud/uptycs-launches-industry-s-first-cloud-security-early-warning-system)
-- [MajorKey Accelerates Pureplay Information Security Strategy With Acquisition of Legion Star](https://www.darkreading.com/application-security/majorkey-accelerates-pureplay-information-security-strategy-with-acquisition-of-legion-star)
+- [How An Identity-First Approach Can Stop Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/how-an-identity-first-approach-can-stop-attacks-on-critical-infrastructure)
+- [TXOne: Industrial Security Is Evolving to Keep the Operation Running](https://www.darkreading.com/ics-ot/txone-industrial-security-is-evolving-to-keep-the-operation-running)
+- [Mandiant Report: Dwell Time Decreases While Ransomware, Extortion Flourish](https://www.darkreading.com/vulnerabilities-threats/mandiant-report-dwell-time-decreases-while-ransomware-extortion-flourish)
+- [Beyond Identity: What Is Zero-Trust Authentication and Why Does It Matter?](https://www.darkreading.com/cloud/beyond-identity-what-is-zero-trust-authentication-and-why-does-it-matter)
+- [Sumo Logic Ponders Why We Aren&#39;t There Yet With Security Automation](https://www.darkreading.com/risk/sumo-logic-ponders-why-we-arent-there-yet-with-security-automation)
+- [Wiz: Breaking Up Silos With CNAPP And the Future Of Cloud Security](https://www.darkreading.com/cloud/wiz-breaking-up-silos-with-cnapp-and-the-future-of-cloud-security)
+- [Automox: Getting Smarter Where Endpoint Management&#39;s Concerned](https://www.darkreading.com/risk/automox-getting-smarter-where-endpoint-management-s-concerned)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
