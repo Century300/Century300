@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
+- [APT28 Employs Windows Update Lures to Trick Ukrainian Targets](https://www.darkreading.com/attacks-breaches/apt28-employs-windows-update-lures-to-trick-ukrainian-targets)
+- [BlackCat Trolls Western Digital With Leaked Response Meeting Image](https://www.darkreading.com/remote-workforce/ransomware-group-trolls-western-digital-threat-hunters-)
 - [What the Cybersecurity Industry Can Learn From the SVB Crisis](https://www.darkreading.com/risk/what-the-cybersecurity-industry-can-learn-from-the-svb-crisis)
 - [Name That Edge Toon: Fare Thee Well](https://www.darkreading.com/edge-articles/name-that-edge-toon-fare-thee-well)
 - [&#39;BellaCiao&#39; Showcases How Iran&#39;s Threat Groups Are Modernizing Their Malware](https://www.darkreading.com/cloud/bellaciao-showcases-iran-threat-groups-modernizing-malware)
 - [How An Identity-First Approach Can Stop Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/how-an-identity-first-approach-can-stop-attacks-on-critical-infrastructure)
 - [TXOne: Industrial Security Is Evolving to Keep the Operation Running](https://www.darkreading.com/ics-ot/txone-industrial-security-is-evolving-to-keep-the-operation-running)
-- [Mandiant Report: Dwell Time Decreases While Ransomware, Extortion Flourish](https://www.darkreading.com/vulnerabilities-threats/mandiant-report-dwell-time-decreases-while-ransomware-extortion-flourish)
-- [Beyond Identity: What Is Zero-Trust Authentication and Why Does It Matter?](https://www.darkreading.com/cloud/beyond-identity-what-is-zero-trust-authentication-and-why-does-it-matter)
-- [Sumo Logic Ponders Why We Aren&#39;t There Yet With Security Automation](https://www.darkreading.com/risk/sumo-logic-ponders-why-we-arent-there-yet-with-security-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
