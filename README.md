@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Wellness Provides Notification of Data Security Incident](https://www.darkreading.com/attacks-breaches/us-wellness-provides-notification-of-data-security-incident)
+- [Enterprise Strategy Group Research Reveals 75% of Organizations Change or Update APIs on a Daily or Weekly Basis](https://www.darkreading.com/application-security/enterprise-strategy-group-research-reveals-75-of-organizations-change-or-update-apis-on-a-daily-or-weekly-basis-increasing-their-attack-surface)
 - [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
 - [APT28 Employs Windows Update Lures to Trick Ukrainian Targets](https://www.darkreading.com/attacks-breaches/apt28-employs-windows-update-lures-to-trick-ukrainian-targets)
 - [BlackCat Trolls Western Digital With Leaked Response Meeting Image](https://www.darkreading.com/remote-workforce/ransomware-group-trolls-western-digital-threat-hunters-)
 - [What the Cybersecurity Industry Can Learn From the SVB Crisis](https://www.darkreading.com/risk/what-the-cybersecurity-industry-can-learn-from-the-svb-crisis)
 - [Name That Edge Toon: Fare Thee Well](https://www.darkreading.com/edge-articles/name-that-edge-toon-fare-thee-well)
 - [&#39;BellaCiao&#39; Showcases How Iran&#39;s Threat Groups Are Modernizing Their Malware](https://www.darkreading.com/cloud/bellaciao-showcases-iran-threat-groups-modernizing-malware)
-- [How An Identity-First Approach Can Stop Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/how-an-identity-first-approach-can-stop-attacks-on-critical-infrastructure)
-- [TXOne: Industrial Security Is Evolving to Keep the Operation Running](https://www.darkreading.com/ics-ot/txone-industrial-security-is-evolving-to-keep-the-operation-running)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
