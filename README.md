@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Debuts Its Rapid Response Security Update Approach](https://www.darkreading.com/application-security/apple-debuts-rapid-security-response-updates)
 - [North Korean APT Gets Around Macro-Blocking With LNK Switch-Up](https://www.darkreading.com/attacks-breaches/north-korean-apt-gets-around-macro-blocking-with-lnk-switch-up)
 - [Google Ads Abused to Lure Corporate Workers to LOBSHOT Backdoor](https://www.darkreading.com/remote-workforce/fake-google-ads-lure-corporate-workers-download-lobshot-backdoor)
 - [4 Principles for Creating a New Blueprint for Secure Software Development](https://www.darkreading.com/application-security/4-principles-for-creating-a-new-blueprint-for-secure-software-development)
@@ -83,7 +84,6 @@
 - [US Wellness Provides Notification of Data Security Incident](https://www.darkreading.com/attacks-breaches/us-wellness-provides-notification-of-data-security-incident)
 - [Enterprise Strategy Group Research Reveals 75% of Organizations Change or Update APIs on a Daily or Weekly Basis](https://www.darkreading.com/application-security/enterprise-strategy-group-research-reveals-75-of-organizations-change-or-update-apis-on-a-daily-or-weekly-basis-increasing-their-attack-surface)
 - [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
-- [APT28 Employs Windows Update Lures to Trick Ukrainian Targets](https://www.darkreading.com/attacks-breaches/apt28-employs-windows-update-lures-to-trick-ukrainian-targets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
