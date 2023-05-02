@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [APT41 Subgroup Plows Through Asia-Pacific, Utilizing Layered Stealth Tactics](https://www.darkreading.com/vulnerabilities-threats/apt41-subgroup-plows-through-asia-pacific-utilizing-layered-stealth-tactics)
+- [PrivateGPT Tackles Sensitive Info in ChatGPT Prompts](https://www.darkreading.com/application-security/privategpt-tackles-sensitive-info-chatgpt-prompts)
 - [Apple Debuts Its Rapid Response Security Update Approach](https://www.darkreading.com/application-security/apple-debuts-rapid-security-response-updates)
+- [T-Mobile Experiences Yet Another Data Breach](https://www.darkreading.com/attacks-breaches/t-mobile-experiences-another-data-breach)
 - [North Korean APT Gets Around Macro-Blocking With LNK Switch-Up](https://www.darkreading.com/attacks-breaches/north-korean-apt-gets-around-macro-blocking-with-lnk-switch-up)
 - [Google Ads Abused to Lure Corporate Workers to LOBSHOT Backdoor](https://www.darkreading.com/remote-workforce/fake-google-ads-lure-corporate-workers-download-lobshot-backdoor)
 - [4 Principles for Creating a New Blueprint for Secure Software Development](https://www.darkreading.com/application-security/4-principles-for-creating-a-new-blueprint-for-secure-software-development)
 - [China &#39;Innovated&#39; Its Cyberattack Tradecraft, Mandia Says](https://www.darkreading.com/attacks-breaches/china-innovated-its-cyberattack-tradecraft-mandia-says)
-- [US Wellness Provides Notification of Data Security Incident](https://www.darkreading.com/attacks-breaches/us-wellness-provides-notification-of-data-security-incident)
-- [Enterprise Strategy Group Research Reveals 75% of Organizations Change or Update APIs on a Daily or Weekly Basis](https://www.darkreading.com/application-security/enterprise-strategy-group-research-reveals-75-of-organizations-change-or-update-apis-on-a-daily-or-weekly-basis-increasing-their-attack-surface)
-- [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
