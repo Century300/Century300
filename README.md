@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Ads Abused to Lure Corporate Workers to LOBSHOT Backdoor](https://www.darkreading.com/remote-workforce/fake-google-ads-lure-corporate-workers-download-lobshot-backdoor)
 - [4 Principles for Creating a New Blueprint for Secure Software Development](https://www.darkreading.com/application-security/4-principles-for-creating-a-new-blueprint-for-secure-software-development)
 - [China &#39;Innovated&#39; Its Cyberattack Tradecraft, Mandia Says](https://www.darkreading.com/attacks-breaches/china-innovated-its-cyberattack-tradecraft-mandia-says)
 - [US Wellness Provides Notification of Data Security Incident](https://www.darkreading.com/attacks-breaches/us-wellness-provides-notification-of-data-security-incident)
@@ -83,7 +84,6 @@
 - [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
 - [APT28 Employs Windows Update Lures to Trick Ukrainian Targets](https://www.darkreading.com/attacks-breaches/apt28-employs-windows-update-lures-to-trick-ukrainian-targets)
 - [BlackCat Trolls Western Digital With Leaked Response Meeting Image](https://www.darkreading.com/remote-workforce/ransomware-group-trolls-western-digital-threat-hunters-)
-- [What the Cybersecurity Industry Can Learn From the SVB Crisis](https://www.darkreading.com/risk/what-the-cybersecurity-industry-can-learn-from-the-svb-crisis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
