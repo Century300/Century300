@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [4 Principles for Creating a New Blueprint for Secure Software Development](https://www.darkreading.com/application-security/4-principles-for-creating-a-new-blueprint-for-secure-software-development)
+- [China &#39;Innovated&#39; Its Cyberattack Tradecraft, Mandia Says](https://www.darkreading.com/attacks-breaches/china-innovated-its-cyberattack-tradecraft-mandia-says)
 - [US Wellness Provides Notification of Data Security Incident](https://www.darkreading.com/attacks-breaches/us-wellness-provides-notification-of-data-security-incident)
 - [Enterprise Strategy Group Research Reveals 75% of Organizations Change or Update APIs on a Daily or Weekly Basis](https://www.darkreading.com/application-security/enterprise-strategy-group-research-reveals-75-of-organizations-change-or-update-apis-on-a-daily-or-weekly-basis-increasing-their-attack-surface)
 - [FBI Focuses on Cybersecurity With $90M Budget Request](https://www.darkreading.com/remote-workforce/fbi-focuses-cybersecurity-90m-budget-request)
 - [APT28 Employs Windows Update Lures to Trick Ukrainian Targets](https://www.darkreading.com/attacks-breaches/apt28-employs-windows-update-lures-to-trick-ukrainian-targets)
 - [BlackCat Trolls Western Digital With Leaked Response Meeting Image](https://www.darkreading.com/remote-workforce/ransomware-group-trolls-western-digital-threat-hunters-)
 - [What the Cybersecurity Industry Can Learn From the SVB Crisis](https://www.darkreading.com/risk/what-the-cybersecurity-industry-can-learn-from-the-svb-crisis)
-- [Name That Edge Toon: Fare Thee Well](https://www.darkreading.com/edge-articles/name-that-edge-toon-fare-thee-well)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
