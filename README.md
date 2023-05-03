@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Moonsense Raises $4.2M in Seed Funding and Introduces Next-Gen User Behavior and Network Intelligence Solution](https://www.darkreading.com/attacks-breaches/moonsense-raises-4-2m-in-seed-funding-and-introduces-next-gen-user-behavior-and-network-intelligence-solution-to-future-proof-fraud-prevention)
+- [Threat Spotlight: Proportion of Malicious HTML Attachments Doubles Within a Year](https://www.darkreading.com/application-security/threat-spotlight-proportion-of-malicious-html-attachments-doubles-within-a-year)
+- [The Daily Number of Human-Driven Cyber Incidents Increased by 1.5 Times in 2022](https://www.darkreading.com/remote-workforce/the-daily-number-of-human-driven-cyber-incidents-increased-by-1-5-times-in-2022)
+- [Google Chrome Drops Browser Lock Icon](https://www.darkreading.com/application-security/google-chrome-loses-the-lock-icon)
 - [DNA Sequencing Equipment Vulnerability Adds New Twist to Medical Device Cyber Threats](https://www.darkreading.com/ics-ot/medical-device-flaws-gets-new-twist-with-dna-sequencer-vulnerabilities)
 - [What&#39;s the Secret to Finding the Next Big Thing in Cybersecurity?](https://www.darkreading.com/edge-articles/whats-the-secret-to-finding-the-next-big-thing-in-cybersecurity)
 - [Court Rejects Merck Insurers&#39; Attempt to Refuse Coverage for NotPetya Damages](https://www.darkreading.com/attacks-breaches/court-rejects-merck-insurers-attempts-to-refuse-coverage-for-notpetya-damages)
 - [Anatomy of a Malicious Package Attack](https://www.darkreading.com/vulnerabilities-threats/anatomy-of-a-malicious-package-attack)
-- [Legitimate Software Abuse: A Disturbing Trend in Ransomware Attacks](https://www.darkreading.com/application-security/legitimate-software-abuse-a-disturbing-trend-in-ransomware-attacks)
-- [Meta Expunges Multiple APT, Cybercrime Groups From Facebook, Instagram](https://www.darkreading.com/vulnerabilities-threats/meta-expunges-multiple-apt-cybercrime-groups-from-facebook-instagram)
-- [Hotels at Risk From Bug in Oracle Property Management Software](https://www.darkreading.com/application-security/hotels-at-risk-from-bug-in-oracle-property-management-software)
-- [APT41 Subgroup Plows Through Asia-Pacific, Utilizing Layered Stealth Tactics](https://www.darkreading.com/vulnerabilities-threats/apt41-subgroup-plows-through-asia-pacific-utilizing-layered-stealth-tactics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
