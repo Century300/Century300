@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Legitimate Software Abuse: A Disturbing Trend in Ransomware Attacks](https://www.darkreading.com/application-security/legitimate-software-abuse-a-disturbing-trend-in-ransomware-attacks)
+- [Meta Expunges Multiple APT, Cybercrime Groups from Facebook, Instagram](https://www.darkreading.com/vulnerabilities-threats/meta-expunges-multiple-apt-cybercrime-groups-from-facebook-instagram)
 - [Hotels at Risk From Bug in Oracle Property Management Software](https://www.darkreading.com/application-security/hotels-at-risk-from-bug-in-oracle-property-management-software)
 - [Palo Alto Networks Unveils New Cloud Firewall for Azure](https://www.darkreading.com/dr-tech/palo-alto-networks-unveils-new-cloud-firewall-for-azure)
 - [APT41 Subgroup Plows Through Asia-Pacific, Utilizing Layered Stealth Tactics](https://www.darkreading.com/vulnerabilities-threats/apt41-subgroup-plows-through-asia-pacific-utilizing-layered-stealth-tactics)
 - [PrivateGPT Tackles Sensitive Info in ChatGPT Prompts](https://www.darkreading.com/application-security/privategpt-tackles-sensitive-info-chatgpt-prompts)
 - [Apple Debuts Its Rapid Response Security Update Approach](https://www.darkreading.com/application-security/apple-debuts-rapid-security-response-updates)
 - [T-Mobile Experiences Yet Another Data Breach](https://www.darkreading.com/attacks-breaches/t-mobile-experiences-another-data-breach)
-- [AppSec Making Progress or Spinning Its Wheels?](https://www.darkreading.com/edge-threat-monitor/appsec-making-progress-or-spinning-its-wheels-)
-- [North Korean APT Gets Around Macro-Blocking With LNK Switch-Up](https://www.darkreading.com/attacks-breaches/north-korean-apt-gets-around-macro-blocking-with-lnk-switch-up)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
