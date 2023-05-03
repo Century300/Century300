@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anatomy of a Malicious Package Attack](https://www.darkreading.com/vulnerabilities-threats/anatomy-of-a-malicious-package-attack)
 - [Legitimate Software Abuse: A Disturbing Trend in Ransomware Attacks](https://www.darkreading.com/application-security/legitimate-software-abuse-a-disturbing-trend-in-ransomware-attacks)
 - [Meta Expunges Multiple APT, Cybercrime Groups From Facebook, Instagram](https://www.darkreading.com/vulnerabilities-threats/meta-expunges-multiple-apt-cybercrime-groups-from-facebook-instagram)
 - [Hotels at Risk From Bug in Oracle Property Management Software](https://www.darkreading.com/application-security/hotels-at-risk-from-bug-in-oracle-property-management-software)
@@ -83,7 +84,6 @@
 - [PrivateGPT Tackles Sensitive Info in ChatGPT Prompts](https://www.darkreading.com/application-security/privategpt-tackles-sensitive-info-chatgpt-prompts)
 - [Apple Debuts Its Rapid Response Security Update Approach](https://www.darkreading.com/application-security/apple-debuts-rapid-security-response-updates)
 - [T-Mobile Experiences Yet Another Data Breach](https://www.darkreading.com/attacks-breaches/t-mobile-experiences-another-data-breach)
-- [AppSec Making Progress or Spinning Its Wheels?](https://www.darkreading.com/edge-threat-monitor/appsec-making-progress-or-spinning-its-wheels-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
