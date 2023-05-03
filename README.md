@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What&#39;s the Secret to Finding the Next Big Thing in Cybersecurity?](https://www.darkreading.com/edge-articles/whats-the-secret-to-finding-the-next-big-thing-in-cybersecurity)
+- [Court Rejects Merck Insurers&#39; Attempt to Refuse Coverage for NotPetya Damages](https://www.darkreading.com/attacks-breaches/court-rejects-merck-insurers-attempts-to-refuse-coverage-for-notpetya-damages)
 - [Anatomy of a Malicious Package Attack](https://www.darkreading.com/vulnerabilities-threats/anatomy-of-a-malicious-package-attack)
 - [Legitimate Software Abuse: A Disturbing Trend in Ransomware Attacks](https://www.darkreading.com/application-security/legitimate-software-abuse-a-disturbing-trend-in-ransomware-attacks)
 - [Meta Expunges Multiple APT, Cybercrime Groups From Facebook, Instagram](https://www.darkreading.com/vulnerabilities-threats/meta-expunges-multiple-apt-cybercrime-groups-from-facebook-instagram)
 - [Hotels at Risk From Bug in Oracle Property Management Software](https://www.darkreading.com/application-security/hotels-at-risk-from-bug-in-oracle-property-management-software)
 - [APT41 Subgroup Plows Through Asia-Pacific, Utilizing Layered Stealth Tactics](https://www.darkreading.com/vulnerabilities-threats/apt41-subgroup-plows-through-asia-pacific-utilizing-layered-stealth-tactics)
 - [PrivateGPT Tackles Sensitive Info in ChatGPT Prompts](https://www.darkreading.com/application-security/privategpt-tackles-sensitive-info-chatgpt-prompts)
-- [Apple Debuts Its Rapid Response Security Update Approach](https://www.darkreading.com/application-security/apple-debuts-rapid-security-response-updates)
-- [T-Mobile Experiences Yet Another Data Breach](https://www.darkreading.com/attacks-breaches/t-mobile-experiences-another-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
