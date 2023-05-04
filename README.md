@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Autocrypt Releases Comprehensive Key Management Solution for Automotive Manufacturing](https://www.darkreading.com/operations/autocrypt-releases-comprehensive-key-management-solution-for-automotive-manufacturing)
+- [Databricks Ventures Invests in Data Security Leader Immuta](https://www.darkreading.com/operations/databricks-ventures-invests-in-data-security-leader-immuta)
 - [Dallas City Systems Taken Down by Royal Ransomware](https://www.darkreading.com/attacks-breaches/dallas-city-systems-taken-down-by-royal-ransomware)
 - [InsightCyber Launches Platform to Provide Cyber Threat Management and Security to Global Critical Infrastructure](https://www.darkreading.com/application-security/insightcyber-launches-platform-to-provide-cyber-threat-management-and-security-to-global-critical-infrastructure)
 - [OneTrust Enhances Data Discovery and Governance by Introducing AI-Powered Document Classification](https://www.darkreading.com/application-security/onetrust-enhances-data-discovery-and-governance-by-introducing-ai-powered-document-classification)
 - [Netskope: Attackers Double Down on Social Engineering Techniques and Malicious Functionalities](https://www.darkreading.com/attacks-breaches/netskope-attackers-double-down-on-social-engineering-techniques-and-malicious-functionalities)
 - [Google Launches Cybersecurity Career Certificate Program](https://www.darkreading.com/careers-and-people/google-now-offers-cybersecurity-career-certificate-program)
 - [How Public-Private Information Sharing Can Level the Cybersecurity Playing Field](https://www.darkreading.com/threat-intelligence/how-public-private-information-sharing-can-level-the-cybersecurity-playing-field-)
-- [Famine to Feast and Back: Startups Adjust to Economic Realities](https://www.darkreading.com/omdia/famine-to-feast-and-back-startups-adjust-to-economic-realities)
-- [How to Spot a ChatGPT Phishing Website](https://www.darkreading.com/remote-workforce/how-to-spot-a-chatgpt-phishing-website)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
