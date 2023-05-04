@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Public-Private Information Sharing Can Level the Cybersecurity Playing Field](https://www.darkreading.com/threat-intelligence/how-public-private-information-sharing-can-level-the-cybersecurity-playing-field-)
 - [Famine to Feast and Back: Startups Adjust to Economic Realities](https://www.darkreading.com/omdia/famine-to-feast-and-back-startups-adjust-to-economic-realities)
 - [How to Spot a ChatGPT Phishing Website](https://www.darkreading.com/remote-workforce/how-to-spot-a-chatgpt-phishing-website)
 - [Microsoft Patches Serious Azure Cloud Security Flaws](https://www.darkreading.com/cloud/microsoft-patches-serious-azure-cloud-security-flaws)
@@ -83,7 +84,6 @@
 - [New Generative AI Tools Aim to Improve Security](https://www.darkreading.com/emerging-tech/new-generative-ai-tools-aim-to-improve-security)
 - [Moonsense Raises $4.2M in Seed Funding and Introduces Next-Gen User Behavior and Network Intelligence Solution](https://www.darkreading.com/attacks-breaches/moonsense-raises-4-2m-in-seed-funding-and-introduces-next-gen-user-behavior-and-network-intelligence-solution-to-future-proof-fraud-prevention)
 - [Threat Spotlight: Proportion of Malicious HTML Attachments Doubles Within a Year](https://www.darkreading.com/application-security/threat-spotlight-proportion-of-malicious-html-attachments-doubles-within-a-year)
-- [The Daily Number of Human-Driven Cyber Incidents Increased by 1.5 Times in 2022](https://www.darkreading.com/remote-workforce/the-daily-number-of-human-driven-cyber-incidents-increased-by-1-5-times-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
