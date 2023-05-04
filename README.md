@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Netskope: Attackers Double Down on Social Engineering Techniques and Malicious Functionalities](https://www.darkreading.com/attacks-breaches/netskope-attackers-double-down-on-social-engineering-techniques-and-malicious-functionalities)
 - [Google Launches Cybersecurity Career Certificate Program](https://www.darkreading.com/careers-and-people/google-now-offers-cybersecurity-career-certificate-program)
 - [How Public-Private Information Sharing Can Level the Cybersecurity Playing Field](https://www.darkreading.com/threat-intelligence/how-public-private-information-sharing-can-level-the-cybersecurity-playing-field-)
 - [Famine to Feast and Back: Startups Adjust to Economic Realities](https://www.darkreading.com/omdia/famine-to-feast-and-back-startups-adjust-to-economic-realities)
@@ -83,7 +84,6 @@
 - [Microsoft Patches Serious Azure Cloud Security Flaws](https://www.darkreading.com/cloud/microsoft-patches-serious-azure-cloud-security-flaws)
 - [Microsoft Digital Defense Report: Key Cybercrime Trends](https://www.darkreading.com/microsoft/microsoft-digital-defense-report-key-cybercrime-trends)
 - [New Generative AI Tools Aim to Improve Security](https://www.darkreading.com/emerging-tech/new-generative-ai-tools-aim-to-improve-security)
-- [Moonsense Raises $4.2M in Seed Funding and Introduces Next-Gen User Behavior and Network Intelligence Solution](https://www.darkreading.com/attacks-breaches/moonsense-raises-4-2m-in-seed-funding-and-introduces-next-gen-user-behavior-and-network-intelligence-solution-to-future-proof-fraud-prevention)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
