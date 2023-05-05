@@ -79,11 +79,11 @@
 - [New White House AI Initiatives Include AI Software-Vetting Event at DEF CON](https://www.darkreading.com/attacks-breaches/new-white-house-ai-initiatives-include-def-con-event)
 - [2 Years After Colonial Pipeline, US Critical Infrastructure Still Not Ready for Ransomware](https://www.darkreading.com/ics-ot/2-years-after-colonial-pipeline-attack-us-critical-infrastructure-remains-as-vulnerable-to-ransomware)
 - [The &lpar;Security&rpar; Cost of Too Much Data Privacy](https://www.darkreading.com/vulnerabilities-threats/the-security-cost-of-too-much-data-privacy)
+- [Unifying XDR and SIEM Capabilities in 1 Platform](https://www.darkreading.com/endpoint/unifying-xdr-and-siem-capabilities-in-1-platform)
 - [Google Expands Passkey Support With Passwordless Authentication](https://www.darkreading.com/dr-tech/google-expands-passkey-support-with-passwordless-authentication)
 - [Identifying Compromised Data Can Be a Logistical Nightmare](https://www.darkreading.com/edge-articles/identifying-compromised-data-can-be-a-logistical-nightmare)
 - [Autocrypt Releases Comprehensive Key Management Solution for Automotive Manufacturing](https://www.darkreading.com/operations/autocrypt-releases-comprehensive-key-management-solution-for-automotive-manufacturing)
 - [Databricks Ventures Invests in Data Security Leader Immuta](https://www.darkreading.com/operations/databricks-ventures-invests-in-data-security-leader-immuta)
-- [Dallas City Systems Taken Down by Royal Ransomware](https://www.darkreading.com/attacks-breaches/dallas-city-systems-taken-down-by-royal-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
