@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Google Expands Passkey Support with Passwordless Authentication](https://www.darkreading.com/dr-tech/google-expands-passkey-support-with-passwordless-authentication)
+- [Google Expands Passkey Support With Passwordless Authentication](https://www.darkreading.com/dr-tech/google-expands-passkey-support-with-passwordless-authentication)
 - [Identifying Compromised Data Can Be a Logistical Nightmare](https://www.darkreading.com/edge-articles/identifying-compromised-data-can-be-a-logistical-nightmare)
 - [Autocrypt Releases Comprehensive Key Management Solution for Automotive Manufacturing](https://www.darkreading.com/operations/autocrypt-releases-comprehensive-key-management-solution-for-automotive-manufacturing)
 - [Databricks Ventures Invests in Data Security Leader Immuta](https://www.darkreading.com/operations/databricks-ventures-invests-in-data-security-leader-immuta)
