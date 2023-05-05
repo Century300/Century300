@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Expands Passkey Support with Passwordless Authentication](https://www.darkreading.com/dr-tech/google-expands-passkey-support-with-passwordless-authentication)
 - [Identifying Compromised Data Can Be a Logistical Nightmare](https://www.darkreading.com/edge-articles/identifying-compromised-data-can-be-a-logistical-nightmare)
 - [Autocrypt Releases Comprehensive Key Management Solution for Automotive Manufacturing](https://www.darkreading.com/operations/autocrypt-releases-comprehensive-key-management-solution-for-automotive-manufacturing)
 - [Databricks Ventures Invests in Data Security Leader Immuta](https://www.darkreading.com/operations/databricks-ventures-invests-in-data-security-leader-immuta)
@@ -83,7 +84,6 @@
 - [InsightCyber Launches Platform to Provide Cyber Threat Management and Security to Global Critical Infrastructure](https://www.darkreading.com/application-security/insightcyber-launches-platform-to-provide-cyber-threat-management-and-security-to-global-critical-infrastructure)
 - [OneTrust Enhances Data Discovery and Governance by Introducing AI-Powered Document Classification](https://www.darkreading.com/application-security/onetrust-enhances-data-discovery-and-governance-by-introducing-ai-powered-document-classification)
 - [Netskope: Attackers Double Down on Social Engineering Techniques and Malicious Functionalities](https://www.darkreading.com/attacks-breaches/netskope-attackers-double-down-on-social-engineering-techniques-and-malicious-functionalities)
-- [Google Launches Cybersecurity Career Certificate Program](https://www.darkreading.com/careers-and-people/google-now-offers-cybersecurity-career-certificate-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
