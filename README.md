@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KnowBe4 Launches Password Kit to Celebrate World Password Day](https://www.darkreading.com/application-security/knowbe4-launches-password-kit-to-celebrate-world-password-day)
+- [Satori Unveils Universal Data Permissions Scanner, A Free Open-Source Tool that Sheds Light on Data Access Authorization](https://www.darkreading.com/application-security/satori-unveils-universal-data-permissions-scanner-a-free-open-source-tool-that-sheds-light-on-data-access-authorization)
+- [Browser Isolation Adapts to Remote Work, Greater Cloud Usage](https://www.darkreading.com/dr-tech/browser-isolation-adapts-to-remote-work-greater-cloud-usage)
 - [Judge Spares Former Uber CISO Jail Time Over 2016 Data Breach Charges](https://www.darkreading.com/attacks-breaches/judge-spares-former-uber-ciso-jail-time-over-2016-data-breach-charges)
 - [Apple Patches Bluetooth Flaw in AirPods, Beats](https://www.darkreading.com/application-security/apple-patches-bluetooth-flaw-in-airpods-beats)
 - [Attackers Route Malware Activity Over Popular CDNs](https://www.darkreading.com/edge-threat-monitor/attackers-route-malware-activity-over-popular-cdns)
 - [New White House AI Initiatives Include AI Software-Vetting Event at DEF CON](https://www.darkreading.com/attacks-breaches/new-white-house-ai-initiatives-include-def-con-event)
 - [2 Years After Colonial Pipeline, US Critical Infrastructure Still Not Ready for Ransomware](https://www.darkreading.com/ics-ot/2-years-after-colonial-pipeline-attack-us-critical-infrastructure-remains-as-vulnerable-to-ransomware)
-- [The &lpar;Security&rpar; Cost of Too Much Data Privacy](https://www.darkreading.com/vulnerabilities-threats/the-security-cost-of-too-much-data-privacy)
-- [Unifying XDR and SIEM Capabilities in 1 Platform](https://www.darkreading.com/endpoint/unifying-xdr-and-siem-capabilities-in-1-platform)
-- [Google Expands Passkey Support With Passwordless Authentication](https://www.darkreading.com/dr-tech/google-expands-passkey-support-with-passwordless-authentication)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
