@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea](https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea)
+- [Whiteford Taylor &amp; Preston LLP Issues Notice of Data Incident](https://www.darkreading.com/attacks-breaches/whiteford-taylor-preston-llp-issues-notice-of-data-incident)
+- [Government, Industry Efforts to Thwart Ransomware Slowly Start to Pay Off](https://www.darkreading.com/attacks-breaches/government-industry-efforts-to-thwart-ransomware-start-to-pay-off-)
+- [1M NextGen Patient Records Compromised in Data Breach](https://www.darkreading.com/application-security/1m-nextgen-healthcare-patient-records-stolen-)
 - [Western Digital Confirms Customer Data Stolen in Ransomware Attack](https://www.darkreading.com/attacks-breaches/western-digital-confirms-its-customer-data-lifted-by-blackcat)
 - [Why the &#39;Why&#39; of a Data Breach Matters](https://www.darkreading.com/edge-articles/why-the-why-of-a-data-breach-matters)
 - [Why the FTX Collapse Was an Identity Problem](https://www.darkreading.com/operations/why-the-ftx-collapse-was-an-identity-problem)
 - [North Korean APT Uses Malicious Microsoft OneDrive Links to Spread New Malware](https://www.darkreading.com/attacks-breaches/north-korean-apt-uses-malicious-microsoft-onedrive-links-to-drop-new-malware)
-- [KnowBe4 Launches Password Kit to Celebrate World Password Day](https://www.darkreading.com/application-security/knowbe4-launches-password-kit-to-celebrate-world-password-day)
-- [Satori Unveils Universal Data Permissions Scanner, a Free Open Source Tool that Sheds Light on Data Access Authorization](https://www.darkreading.com/application-security/satori-unveils-universal-data-permissions-scanner-a-free-open-source-tool-that-sheds-light-on-data-access-authorization)
-- [Browser Isolation Adapts to Remote Work, Greater Cloud Usage](https://www.darkreading.com/dr-tech/browser-isolation-adapts-to-remote-work-greater-cloud-usage)
-- [Judge Spares Former Uber CISO Jail Time Over 2016 Data Breach Charges](https://www.darkreading.com/attacks-breaches/judge-spares-former-uber-ciso-jail-time-over-2016-data-breach-charges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
