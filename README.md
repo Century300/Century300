@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why the &#39;Why&#39; of a Data Breach Matters](https://www.darkreading.com/edge-articles/why-the-why-of-a-data-breach-matters)
 - [Why the FTX Collapse Was an Identity Problem](https://www.darkreading.com/operations/why-the-ftx-collapse-was-an-identity-problem)
 - [North Korean APT Uses Malicious Microsoft OneDrive Links to Spread New Malware](https://www.darkreading.com/attacks-breaches/north-korean-apt-uses-malicious-microsoft-onedrive-links-to-drop-new-malware)
 - [KnowBe4 Launches Password Kit to Celebrate World Password Day](https://www.darkreading.com/application-security/knowbe4-launches-password-kit-to-celebrate-world-password-day)
@@ -83,7 +84,6 @@
 - [Browser Isolation Adapts to Remote Work, Greater Cloud Usage](https://www.darkreading.com/dr-tech/browser-isolation-adapts-to-remote-work-greater-cloud-usage)
 - [Judge Spares Former Uber CISO Jail Time Over 2016 Data Breach Charges](https://www.darkreading.com/attacks-breaches/judge-spares-former-uber-ciso-jail-time-over-2016-data-breach-charges)
 - [Apple Patches Bluetooth Flaw in AirPods, Beats](https://www.darkreading.com/application-security/apple-patches-bluetooth-flaw-in-airpods-beats)
-- [Attackers Route Malware Activity Over Popular CDNs](https://www.darkreading.com/edge-threat-monitor/attackers-route-malware-activity-over-popular-cdns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
