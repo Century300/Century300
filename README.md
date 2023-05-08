@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why the FTX Collapse Was an Identity Problem](https://www.darkreading.com/operations/why-the-ftx-collapse-was-an-identity-problem)
 - [KnowBe4 Launches Password Kit to Celebrate World Password Day](https://www.darkreading.com/application-security/knowbe4-launches-password-kit-to-celebrate-world-password-day)
 - [Satori Unveils Universal Data Permissions Scanner, a Free Open Source Tool that Sheds Light on Data Access Authorization](https://www.darkreading.com/application-security/satori-unveils-universal-data-permissions-scanner-a-free-open-source-tool-that-sheds-light-on-data-access-authorization)
 - [Browser Isolation Adapts to Remote Work, Greater Cloud Usage](https://www.darkreading.com/dr-tech/browser-isolation-adapts-to-remote-work-greater-cloud-usage)
@@ -83,7 +84,6 @@
 - [Apple Patches Bluetooth Flaw in AirPods, Beats](https://www.darkreading.com/application-security/apple-patches-bluetooth-flaw-in-airpods-beats)
 - [Attackers Route Malware Activity Over Popular CDNs](https://www.darkreading.com/edge-threat-monitor/attackers-route-malware-activity-over-popular-cdns)
 - [New White House AI Initiatives Include AI Software-Vetting Event at DEF CON](https://www.darkreading.com/attacks-breaches/new-white-house-ai-initiatives-include-def-con-event)
-- [2 Years After Colonial Pipeline, US Critical Infrastructure Still Not Ready for Ransomware](https://www.darkreading.com/ics-ot/2-years-after-colonial-pipeline-attack-us-critical-infrastructure-remains-as-vulnerable-to-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
