@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [KnowBe4 Launches Password Kit to Celebrate World Password Day](https://www.darkreading.com/application-security/knowbe4-launches-password-kit-to-celebrate-world-password-day)
-- [Satori Unveils Universal Data Permissions Scanner, A Free Open-Source Tool that Sheds Light on Data Access Authorization](https://www.darkreading.com/application-security/satori-unveils-universal-data-permissions-scanner-a-free-open-source-tool-that-sheds-light-on-data-access-authorization)
+- [Satori Unveils Universal Data Permissions Scanner, a Free Open Source Tool that Sheds Light on Data Access Authorization](https://www.darkreading.com/application-security/satori-unveils-universal-data-permissions-scanner-a-free-open-source-tool-that-sheds-light-on-data-access-authorization)
 - [Browser Isolation Adapts to Remote Work, Greater Cloud Usage](https://www.darkreading.com/dr-tech/browser-isolation-adapts-to-remote-work-greater-cloud-usage)
 - [Judge Spares Former Uber CISO Jail Time Over 2016 Data Breach Charges](https://www.darkreading.com/attacks-breaches/judge-spares-former-uber-ciso-jail-time-over-2016-data-breach-charges)
 - [Apple Patches Bluetooth Flaw in AirPods, Beats](https://www.darkreading.com/application-security/apple-patches-bluetooth-flaw-in-airpods-beats)
