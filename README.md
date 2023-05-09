@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ESET APT Report: Attacks by China-, North Korea-, and Iran-aligned Threat Actors; Russia Eyes Ukraine and the EU](https://www.darkreading.com/threat-intelligence/eset-apt-activity-report-attacks-by-china--north-korea--and-iran-aligned-threat-actors-russia-eyes-ukraine-and-the-eu)
 - [The Problem of Old Vulnerabilities — and What to Do About It](https://www.darkreading.com/vulnerabilities-threats/the-problem-of-old-vulnerabilities-and-what-to-do-about-it)
+- [Justice Department Targets 13 Websites Linked to DDoS-for-Hire](https://www.darkreading.com/cloud/justice-department-targets-13-websites-linked-to-ddos-for-hire)
 - [SideWinder Strikes Victims in Pakistan, Turkey in Multiphase Polymorphic Attack](https://www.darkreading.com/attacks-breaches/sidewinder-strikes-victims-pakistan-turkey-multiphase-polymorphic-attack)
 - [Keep Your Company Cyber Competent Without Adding Cyber Anxiety](https://www.darkreading.com/attacks-breaches/keep-your-company-cyber-competent-without-adding-cyber-anxiety)
 - [Royal Ransomware Expands to Target Linux, VMware ESXi](https://www.darkreading.com/threat-intelligence/royal-ransomware-expands-target-linux-vmware-esxi-environments)
 - [Npm Packages Vulnerable to Old-School Weapon: the &#39;Shift&#39; Key](https://www.darkreading.com/threat-intelligence/half-of-npm-packages-vulnerable-to-old-school-weapon-the-shift-key)
 - [BEC Campaign via Israel Spotted Targeting Large Multinational Companies](https://www.darkreading.com/remote-workforce/bec-attacks-out-of-israel-target-multinational-corporations)
-- [New Bazel Ruleset Helps Developers Build Secure Container Images](https://www.darkreading.com/dr-tech/new-bazel-ruleset-helps-build-more-secure-container-images)
-- [Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea](https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
