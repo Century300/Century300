@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Keep Your Company Cyber Competent Without Adding Cyber Anxiety](https://www.darkreading.com/attacks-breaches/keep-your-company-cyber-competent-without-adding-cyber-anxiety)
+- [Royal Ransomware Expands to Target Linux, VMware ESXi](https://www.darkreading.com/threat-intelligence/royal-ransomware-expands-target-linux-vmware-esxi-environments)
+- [Half of npm Packages Vulnerable to Old-School Weapon: the &#39;Shift&#39; Key](https://www.darkreading.com/threat-intelligence/half-of-npm-packages-vulnerable-to-old-school-weapon-the-shift-key)
 - [BEC Campaign via Israel Spotted Targeting Large Multinational Companies](https://www.darkreading.com/remote-workforce/bec-attacks-out-of-israel-target-multinational-corporations)
 - [New Bazel Ruleset Helps Developers Build Secure Container Images](https://www.darkreading.com/dr-tech/new-bazel-ruleset-helps-build-more-secure-container-images)
 - [Consilient Inc. and Harex InfoTech Partner to Fight Financial Crime in South Korea](https://www.darkreading.com/operations/consilient-inc-and-harex-infotech-partner-to-fight-financial-crime-in-south-korea)
 - [Whiteford Taylor &amp; Preston LLP Issues Notice of Data Incident](https://www.darkreading.com/attacks-breaches/whiteford-taylor-preston-llp-issues-notice-of-data-incident)
 - [Government, Industry Efforts to Thwart Ransomware Slowly Start to Pay Off](https://www.darkreading.com/attacks-breaches/government-industry-efforts-to-thwart-ransomware-start-to-pay-off-)
-- [1M NextGen Patient Records Compromised in Data Breach](https://www.darkreading.com/application-security/1m-nextgen-healthcare-patient-records-stolen-)
-- [Western Digital Confirms Customer Data Stolen in Ransomware Attack](https://www.darkreading.com/attacks-breaches/western-digital-confirms-its-customer-data-lifted-by-blackcat)
-- [Why the &#39;Why&#39; of a Data Breach Matters](https://www.darkreading.com/edge-articles/why-the-why-of-a-data-breach-matters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
