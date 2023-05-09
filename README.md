@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI Disarms Russian FSB &#39;Snake&#39; Malware Network](https://www.darkreading.com/attacks-breaches/fbi-disarms-russian-fsb-snake-malware-network)
 - [ESET APT Report: Attacks by China-, North Korea-, and Iran-aligned Threat Actors; Russia Eyes Ukraine and the EU](https://www.darkreading.com/threat-intelligence/eset-apt-activity-report-attacks-by-china--north-korea--and-iran-aligned-threat-actors-russia-eyes-ukraine-and-the-eu)
 - [The Problem of Old Vulnerabilities — and What to Do About It](https://www.darkreading.com/vulnerabilities-threats/the-problem-of-old-vulnerabilities-and-what-to-do-about-it)
 - [Justice Department Targets 13 Websites Linked to DDoS-for-Hire](https://www.darkreading.com/cloud/justice-department-targets-13-websites-linked-to-ddos-for-hire)
@@ -83,7 +84,6 @@
 - [Keep Your Company Cyber Competent Without Adding Cyber Anxiety](https://www.darkreading.com/attacks-breaches/keep-your-company-cyber-competent-without-adding-cyber-anxiety)
 - [Royal Ransomware Expands to Target Linux, VMware ESXi](https://www.darkreading.com/threat-intelligence/royal-ransomware-expands-target-linux-vmware-esxi-environments)
 - [Npm Packages Vulnerable to Old-School Weapon: the &#39;Shift&#39; Key](https://www.darkreading.com/threat-intelligence/half-of-npm-packages-vulnerable-to-old-school-weapon-the-shift-key)
-- [BEC Campaign via Israel Spotted Targeting Large Multinational Companies](https://www.darkreading.com/remote-workforce/bec-attacks-out-of-israel-target-multinational-corporations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
