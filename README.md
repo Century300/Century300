@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Fixes Failed Patch for Exploited Outlook Vulnerability](https://www.darkreading.com/remote-workforce/microsoft-patches-bug-that-enables-simple-bypass-of-previous-fix-for-actively-exploited-outlook-vulnerability)
 - [Dark Reading Goes Global](https://www.darkreading.com/dr-global/dark-reading-goes-global)
 - [Sysco Data Breach Exposes Customer, Employee Data](https://www.darkreading.com/attacks-breaches/sysco-data-breach-exposes-customer-employee-data)
 - [RapperBot Crew Drops DDoS/CryptoJacking Botnet Collab](https://www.darkreading.com/threat-intelligence/rapperbot-crew-drops-ddos-cryptojacking-botnet-collab)
@@ -83,7 +84,6 @@
 - [The Industrywide Consequences of Making Security Products Inaccessible](https://www.darkreading.com/vulnerabilities-threats/the-industrywide-consequences-of-making-security-products-inaccessible)
 - [Microsoft Digital Defense Report: Trends In Device and Infrastructure Attacks](https://www.darkreading.com/microsoft/microsoft-digital-defense-report-trends-in-device-and-infrastructure-attacks)
 - [Free Tool Unlocks Some Encrypted Data in Ransomware Attacks](https://www.darkreading.com/attacks-breaches/free-tool-unlocks-some-encrypted-data-in-ransomware-attacks)
-- [New Startup SquareX Targets Brower-Based Attacks](https://www.darkreading.com/dr-tech/new-startup-squarex-targets-brower-based-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
