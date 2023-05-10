@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RapperBot Crew Drops DDoS/CryptoJacking Botnet Collab](https://www.darkreading.com/threat-intelligence/rapperbot-crew-drops-ddos-cryptojacking-botnet-collab)
+- [Leak of Intel Boot Guard Keys Could Have Security Repercussions for Years](https://www.darkreading.com/attacks-breaches/leak-of-intel-boot-guard-keys-could-have-security-repercussions-for-years)
 - [The Industrywide Consequences of Making Security Products Inaccessible](https://www.darkreading.com/vulnerabilities-threats/the-industrywide-consequences-of-making-security-products-inaccessible)
 - [Microsoft Digital Defense Report: Trends In Device and Infrastructure Attacks](https://www.darkreading.com/microsoft/microsoft-digital-defense-report-trends-in-device-and-infrastructure-attacks)
 - [Free Tool Unlocks Some Encrypted Data in Ransomware Attacks](https://www.darkreading.com/attacks-breaches/free-tool-unlocks-some-encrypted-data-in-ransomware-attacks)
 - [New Startup SquareX Targets Brower-Based Attacks](https://www.darkreading.com/dr-tech/new-startup-squarex-targets-brower-based-attacks)
 - [Keeper Security Announces Minority Growth Equity Investment From Summit Partners](https://www.darkreading.com/remote-workforce/keeper-security-announces-minority-growth-equity-investment-from-summit-partners)
 - [Microsoft Patches 2 Zero-Day Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/microsoft-patches-two-zero-day-vulnerabilities)
-- [Privoro and Samsung Partner to Provide Trusted Control Over Smartphone Radios and Sensors](https://www.darkreading.com/endpoint/privoro-and-samsung-partner-to-provide-trusted-control-over-smartphone-radios-and-sensors)
-- [FBI Disarms Russian FSB &#39;Snake&#39; Malware Network](https://www.darkreading.com/attacks-breaches/fbi-disarms-russian-fsb-snake-malware-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
