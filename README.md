@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Startup Competition Secures ML Systems, Vulnerabilities in Automation](https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation)
 - [CISA Addresses &#39;Cyber Poor&#39; Small Biz, Local Government](https://www.darkreading.com/threat-intelligence/cisa-addresses-cyber-poor-small-biz-local-government)
 - [Why Economic Downturns Put Innovation at Risk &amp; Threaten Cyber Safety](https://www.darkreading.com/attacks-breaches/why-economic-downturns-put-innovation-at-risk-and-threaten-cyber-safety-)
 - [Dragos Employee Hacked, Revealing Ransomware, Extortion Scheme](https://www.darkreading.com/application-security/dragos-employee-hacked-revealing-ransomware-extortion-scheme)
@@ -83,7 +84,6 @@
 - [Multiple Ransomware Groups Adapt Babuk Code to Target ESXi VMs](https://www.darkreading.com/cloud/multiple-ransomware-groups-adapt-babuk-code-to-target-esxi-vms)
 - [How Boards Can Set Enforceable Cyber Risk Tolerance Levels](https://www.darkreading.com/edge-articles/how-boards-can-set-enforceable-cyber-risk-tolerance-levels)
 - [Google Touts Security Features for Gmail, Drive](https://www.darkreading.com/dr-tech/google-touts-security-features-for-gmail-drive)
-- [Coalfire Compliance Report Unveils the Next Horizon in Compliance](https://www.darkreading.com/endpoint/coalfire-compliance-report-unveils-the-next-horizon-in-compliance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
