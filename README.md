@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korean Hackers Behind Hospital Data Breach in Seoul](https://www.darkreading.com/attacks-breaches/north-korean-hackers-behind-hospital-data-breach-in-seoul)
 - [Integrating Cyber Resiliency With FPGAs](https://www.darkreading.com/dr-tech/integrating-cyber-resiliency-with-fpgas)
 - [Startup Competition Secures ML Systems, Vulnerabilities in Automation](https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation)
 - [CISA Addresses &#39;Cyber Poor&#39; Small Biz, Local Government](https://www.darkreading.com/threat-intelligence/cisa-addresses-cyber-poor-small-biz-local-government)
@@ -83,7 +84,6 @@
 - [Dragos Employee Hacked, Revealing Ransomware, Extortion Scheme](https://www.darkreading.com/application-security/dragos-employee-hacked-revealing-ransomware-extortion-scheme)
 - [2023 AT&amp;T Cybersecurity Insights Report: Edge Ecosystem](https://www.darkreading.com/endpoint/2023-at-t-cybersecurity-insights-report-edge-ecosystem)
 - [Multiple Ransomware Groups Adapt Babuk Code to Target ESXi VMs](https://www.darkreading.com/cloud/multiple-ransomware-groups-adapt-babuk-code-to-target-esxi-vms)
-- [How Boards Can Set Enforceable Cyber Risk Tolerance Levels](https://www.darkreading.com/edge-articles/how-boards-can-set-enforceable-cyber-risk-tolerance-levels)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
