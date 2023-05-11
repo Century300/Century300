@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Billy Corgan Paid Off Hacker Who Threatened to Leak New Smashing Pumpkins Songs](https://www.darkreading.com/attacks-breaches/billy-corgan-paid-off-hacker-who-threatened-to-leak-new-smashing-pumpkins-songs-)
 - [North Korean Hackers Behind Hospital Data Breach in Seoul](https://www.darkreading.com/attacks-breaches/north-korean-hackers-behind-hospital-data-breach-in-seoul)
 - [Integrating Cyber Resiliency With FPGAs](https://www.darkreading.com/dr-tech/integrating-cyber-resiliency-with-fpgas)
 - [Startup Competition Secures ML Systems, Vulnerabilities in Automation](https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation)
@@ -83,7 +84,6 @@
 - [Why Economic Downturns Put Innovation at Risk &amp; Threaten Cyber Safety](https://www.darkreading.com/attacks-breaches/why-economic-downturns-put-innovation-at-risk-and-threaten-cyber-safety-)
 - [Dragos Employee Hacked, Revealing Ransomware, Extortion Scheme](https://www.darkreading.com/application-security/dragos-employee-hacked-revealing-ransomware-extortion-scheme)
 - [2023 AT&amp;T Cybersecurity Insights Report: Edge Ecosystem](https://www.darkreading.com/endpoint/2023-at-t-cybersecurity-insights-report-edge-ecosystem)
-- [Multiple Ransomware Groups Adapt Babuk Code to Target ESXi VMs](https://www.darkreading.com/cloud/multiple-ransomware-groups-adapt-babuk-code-to-target-esxi-vms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
