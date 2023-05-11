@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Boards Can Set Enforceable Cyber Risk Tolerance Levels](https://www.darkreading.com/edge-articles/how-boards-can-set-enforceable-cyber-risk-tolerance-levels)
+- [Google Touts Security Features for Gmail, Drive](https://www.darkreading.com/dr-tech/google-touts-security-features-for-gmail-drive)
 - [Coalfire Compliance Report Unveils the Next Horizon in Compliance](https://www.darkreading.com/endpoint/coalfire-compliance-report-unveils-the-next-horizon-in-compliance)
 - [Secureframe Finds 37% of Organizations Reuse Passwords for Cloud Service Providers](https://www.darkreading.com/cloud/secureframe-finds-37-of-organizations-reuse-passwords-for-cloud-service-providers)
 - [Experian Announces US Fintech Data Network to Combat Fraud](https://www.darkreading.com/vulnerabilities-threats/experian-announces-us-fintech-data-network-to-combat-fraud)
 - [Global Research From Delinea Reveals That 61% of IT Security Decision Makers Think Leadership Overlooks the Role of Cybersecurity in Business Success](https://www.darkreading.com/risk/global-research-from-delinea-reveals-that-61-of-it-security-decision-makers-think-leadership-overlooks-the-role-of-cybersecurity-in-business-success)
 - [Infamous Twitter Hacker Cops to Cybercrimes, Extradited to US for Trial](https://www.darkreading.com/attacks-breaches/twitter-hacker-cops-to-cybercrimes-extradited-to-us-for-trial-)
 - [Microsoft Fixes Failed Patch for Exploited Outlook Vulnerability](https://www.darkreading.com/remote-workforce/microsoft-patches-bug-that-enables-simple-bypass-of-previous-fix-for-actively-exploited-outlook-vulnerability)
-- [Dark Reading Goes Global](https://www.darkreading.com/dr-global/dark-reading-goes-global)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
