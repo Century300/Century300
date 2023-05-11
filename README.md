@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Juniper Research Study Reveals Staggering Cost of Vulnerable Software Supply Chains](https://www.darkreading.com/operations/juniper-research-study-reveals-staggering-cost-of-vulnerable-software-supply-chains-)
+- [Trend Micro Reports Consistent Earnings Results for Q1 2023](https://www.darkreading.com/operations/trend-micro-reports-consistent-earnings-results-for-q1-2023)
+- [Plug-and-Play Microsoft 365 Phishing Tool &#39;Democratizes&#39; Attack Campaigns](https://www.darkreading.com/cloud/plug-and-play-microsoft-365-phishing-tool-democratizes-attacks)
 - [Billy Corgan Paid Off Hacker Who Threatened to Leak New Smashing Pumpkins Songs](https://www.darkreading.com/attacks-breaches/billy-corgan-paid-off-hacker-who-threatened-to-leak-new-smashing-pumpkins-songs-)
 - [North Korean Hackers Behind Hospital Data Breach in Seoul](https://www.darkreading.com/attacks-breaches/north-korean-hackers-behind-hospital-data-breach-in-seoul)
 - [Integrating Cyber Resiliency With FPGAs](https://www.darkreading.com/dr-tech/integrating-cyber-resiliency-with-fpgas)
 - [Startup Competition Secures ML Systems, Vulnerabilities in Automation](https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation)
 - [CISA Addresses &#39;Cyber Poor&#39; Small Biz, Local Government](https://www.darkreading.com/threat-intelligence/cisa-addresses-cyber-poor-small-biz-local-government)
-- [Why Economic Downturns Put Innovation at Risk &amp; Threaten Cyber Safety](https://www.darkreading.com/attacks-breaches/why-economic-downturns-put-innovation-at-risk-and-threaten-cyber-safety-)
-- [Dragos Employee Hacked, Revealing Ransomware, Extortion Scheme](https://www.darkreading.com/application-security/dragos-employee-hacked-revealing-ransomware-extortion-scheme)
-- [2023 AT&amp;T Cybersecurity Insights Report: Edge Ecosystem](https://www.darkreading.com/endpoint/2023-at-t-cybersecurity-insights-report-edge-ecosystem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
