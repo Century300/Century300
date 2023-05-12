@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [An Analyst View of XM Cyber’s Acquisition of Confluera](https://www.darkreading.com/dr-tech/an-analyst-view-of-xm-cyber-s-acquisition-of-confluera)
+- [Making Sure Lost Data Stays Lost](https://www.darkreading.com/edge-articles/making-sure-lost-data-stays-lost)
 - [Malicious Chatbots Target Casinos in Southeast Asia](https://www.darkreading.com/threat-intelligence/malicious-chatbots-target-casinos)
 - [New Competition Focuses on Hardening Cryptosystems](https://www.darkreading.com/dr-tech/new-competition-focuses-on-hardening-cryptosystems)
 - [How Cybercriminals Adapted to Microsoft Blocking Macros by Default](https://www.darkreading.com/application-security/how-malware-delivery-adapted-to-microsoft-blocking-macros-by-default)
 - [&#39;Very Noisy:&#39; For the Black Hat NOC, It&#39;s All Malicious Traffic All the Time](https://www.darkreading.com/application-security/-very-noisy-black-hat-noc-malicious-traffic)
 - [AI Is About to Be Everywhere: Where Will Regulators Be?](https://www.darkreading.com/vulnerabilities-threats/ai-is-about-to-be-everywhere-where-will-regulators-be)
 - [Microsoft Authenticator to Enforce Number Matching](https://www.darkreading.com/dr-tech/microsoft-authenticator-to-enforce-number-matching)
-- [Juniper Research Study Reveals Staggering Cost of Vulnerable Software Supply Chains](https://www.darkreading.com/operations/juniper-research-study-reveals-staggering-cost-of-vulnerable-software-supply-chains-)
-- [Trend Micro Reports Consistent Earnings Results for Q1 2023](https://www.darkreading.com/operations/trend-micro-reports-consistent-earnings-results-for-q1-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
