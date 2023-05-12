@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Is About to Be Everywhere: Where Will Regulators Be?](https://www.darkreading.com/vulnerabilities-threats/ai-is-about-to-be-everywhere-where-will-regulators-be)
+- [&#39;Very Noisy:&#39; For the Black Hat NOC, It&#39;s All Malicious Traffic All the Time](https://www.darkreading.com/application-security/-very-noisy-black-hat-noc-malicious-traffic)
 - [Microsoft Authenticator to Enforce Number Matching](https://www.darkreading.com/dr-tech/microsoft-authenticator-to-enforce-number-matching)
 - [Juniper Research Study Reveals Staggering Cost of Vulnerable Software Supply Chains](https://www.darkreading.com/operations/juniper-research-study-reveals-staggering-cost-of-vulnerable-software-supply-chains-)
 - [Trend Micro Reports Consistent Earnings Results for Q1 2023](https://www.darkreading.com/operations/trend-micro-reports-consistent-earnings-results-for-q1-2023)
 - [Plug-and-Play Microsoft 365 Phishing Tool &#39;Democratizes&#39; Attack Campaigns](https://www.darkreading.com/cloud/plug-and-play-microsoft-365-phishing-tool-democratizes-attacks)
 - [Billy Corgan Paid Off Hacker Who Threatened to Leak New Smashing Pumpkins Songs](https://www.darkreading.com/attacks-breaches/billy-corgan-paid-off-hacker-who-threatened-to-leak-new-smashing-pumpkins-songs-)
 - [North Korean Hackers Behind Hospital Data Breach in Seoul](https://www.darkreading.com/attacks-breaches/north-korean-hackers-behind-hospital-data-breach-in-seoul)
-- [Integrating Cyber Resiliency With FPGAs](https://www.darkreading.com/dr-tech/integrating-cyber-resiliency-with-fpgas)
-- [Startup Competition Secures ML Systems, Vulnerabilities in Automation](https://www.darkreading.com/vulnerabilities-threats/rsa-startup-competition-secures-ml-systems-vulnerabilities-in-new-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
