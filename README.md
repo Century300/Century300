@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Advisories Are Getting Worse](https://www.darkreading.com/vulnerabilities-threats/microsoft-advisories-are-getting-worse)
+- [TSA Official: Feds Improved Cybersecurity Response Post-Colonial Pipeline](https://www.darkreading.com/ics-ot/tsa-official-feds-improved-cybersecurity-response-post-colonial-pipeline)
 - [WordPress Plug-in Used in 1M+ Websites Patched to Close Critical Bug](https://www.darkreading.com/attacks-breaches/wordpress-plugin-used-in-1m-websites-patched-to-close-critical-bug)
 - [An Analyst View of XM Cyber’s Acquisition of Confluera](https://www.darkreading.com/dr-tech/an-analyst-view-of-xm-cyber-s-acquisition-of-confluera)
 - [Making Sure Lost Data Stays Lost](https://www.darkreading.com/edge-articles/making-sure-lost-data-stays-lost)
 - [Malicious Chatbots Target Casinos in Southeast Asia](https://www.darkreading.com/threat-intelligence/malicious-chatbots-target-casinos)
 - [New Competition Focuses on Hardening Cryptosystems](https://www.darkreading.com/dr-tech/new-competition-focuses-on-hardening-cryptosystems)
 - [How Cybercriminals Adapted to Microsoft Blocking Macros by Default](https://www.darkreading.com/application-security/how-malware-delivery-adapted-to-microsoft-blocking-macros-by-default)
-- [&#39;Very Noisy&#39;: For the Black Hat NOC, It&#39;s All Malicious Traffic All the Time](https://www.darkreading.com/application-security/-very-noisy-black-hat-noc-malicious-traffic)
-- [AI Is About to Be Everywhere: Where Will Regulators Be?](https://www.darkreading.com/vulnerabilities-threats/ai-is-about-to-be-everywhere-where-will-regulators-be)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
