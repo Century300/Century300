@@ -80,7 +80,7 @@
 - [PharMerica Leaks 5.8M Deceased Users&#39; PII, Health Information](https://www.darkreading.com/attacks-breaches/pharmerica-leaks-5-8m-deceased-users-pii-health-information)
 - [RA Ransomware Group Emerges With Custom Spin on Babuk](https://www.darkreading.com/threat-intelligence/ra-group-emerges-custom-take-babuk-ransomware)
 - [Generative AI Empowers Users but Challenges Security](https://www.darkreading.com/edge-articles/generative-ai-empowers-users-but-challenges-security)
-- [Breaking the DDoS Attack Loop With Rate Limiting](https://www.darkreading.com/dr-tech/breaking-the-ddos-attack-loop-with-rate-limiting)
+- [Break the DDoS Attack Loop With Rate Limiting](https://www.darkreading.com/dr-tech/breaking-the-ddos-attack-loop-with-rate-limiting)
 - [Toyota Discloses Decade-Long Data Leak Exposing 2.15M Customers&#39; Data](https://www.darkreading.com/cloud/toyota-discloses-decade-long-data-leak-exposing-2-15m-customers-data)
 - [Microsoft Follina Bug Is Back in Meme-Themed Cyberattacks Against Travel Orgs](https://www.darkreading.com/threat-intelligence/microsoft-follina-bug-back-meme-themed-cyberattacks-travel)
 - [Microsoft Advisories Are Getting Worse](https://www.darkreading.com/vulnerabilities-threats/microsoft-advisories-are-getting-worse)
