@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qilin Ransomware Operation Outfits Affiliates With Sleek, Turnkey Cyberattacks](https://www.darkreading.com/threat-intelligence/qilin-ransomware-operation-affiliate-turnkey-cyberattacks)
 - [Name That Toon: One by One](https://www.darkreading.com/application-security/name-that-toon-one-by-one)
 - [Circle Security Technology Partnership With ForgeRock to Accelerate the Prevention-First Era in Digital Security](https://www.darkreading.com/risk/circle-security-technology-partnership-with-forgerock-to-accelerate-the-prevention-first-era-in-digital-security)
 - [Severe RCE Bugs Open Thousands of Industrial IoT Devices to Cyberattack](https://www.darkreading.com/ics-ot/severe-rce-bugs-industrial-iot-devices-devices-cyberattack)
@@ -83,7 +84,6 @@
 - [&#39;MichaelKors&#39; Showcases Ransomware&#39;s Fashionable VMware ESXi Hypervisor Trend](https://www.darkreading.com/cloud/-michaelkors-ransomware-fashionable-vmware-esxi-hypervisor)
 - [Lacework Appoints Lea Kissner as Chief Information Security Officer](https://www.darkreading.com/careers-and-people/lacework-appoints-lea-kissner-as-chief-information-security-officer)
 - [PharMerica Leaks 5.8M Deceased Users&#39; PII, Health Information](https://www.darkreading.com/attacks-breaches/pharmerica-leaks-5-8m-deceased-users-pii-health-information)
-- [RA Ransomware Group Emerges With Custom Spin on Babuk](https://www.darkreading.com/threat-intelligence/ra-group-emerges-custom-take-babuk-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
