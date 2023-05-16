@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Target macOS With &#39;Geacon&#39; Cobalt Strike Tool](https://www.darkreading.com/attacks-breaches/attackers-use-geacon-as-new-cobalt-strike-for-macos-systems)
 - [XM Cyber Announces Partnership With SAP to Deliver Robust Security for Hybrid Environments](https://www.darkreading.com/application-security/xm-cyber-announces-partnership-with-sap-to-deliver-robust-security-for-hybrid-environments)
 - [Russian Ransomware Perp Charged After High-Profile Hive, Babuk &amp; LockBit Hits](https://www.darkreading.com/threat-intelligence/russian-ransomware-perp-charged-hive-babuk-lockbit)
 - [Qilin Ransomware Operation Outfits Affiliates With Sleek, Turnkey Cyberattacks](https://www.darkreading.com/threat-intelligence/qilin-ransomware-operation-affiliate-turnkey-cyberattacks)
@@ -83,7 +84,6 @@
 - [Circle Security Technology Partnership With ForgeRock to Accelerate the Prevention-First Era in Digital Security](https://www.darkreading.com/risk/circle-security-technology-partnership-with-forgerock-to-accelerate-the-prevention-first-era-in-digital-security)
 - [Severe RCE Bugs Open Thousands of Industrial IoT Devices to Cyberattack](https://www.darkreading.com/ics-ot/severe-rce-bugs-industrial-iot-devices-devices-cyberattack)
 - [4 Big Mistakes to Avoid in OT Incident Response](https://www.darkreading.com/ics-ot/4-big-mistakes-to-avoid-in-ot-incident-response)
-- [&#39;MichaelKors&#39; Showcases Ransomware&#39;s Fashionable VMware ESXi Hypervisor Trend](https://www.darkreading.com/cloud/-michaelkors-ransomware-fashionable-vmware-esxi-hypervisor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
