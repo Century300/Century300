@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [XM Cyber Announces Partnership With SAP to Deliver Robust Security for Hybrid Environments](https://www.darkreading.com/application-security/xm-cyber-announces-partnership-with-sap-to-deliver-robust-security-for-hybrid-environments)
 - [Russian Ransomware Perp Charged After High-Profile Hive, Babuk &amp; LockBit Hits](https://www.darkreading.com/threat-intelligence/russian-ransomware-perp-charged-hive-babuk-lockbit)
 - [Qilin Ransomware Operation Outfits Affiliates With Sleek, Turnkey Cyberattacks](https://www.darkreading.com/threat-intelligence/qilin-ransomware-operation-affiliate-turnkey-cyberattacks)
 - [Name That Toon: One by One](https://www.darkreading.com/application-security/name-that-toon-one-by-one)
@@ -83,7 +84,6 @@
 - [Severe RCE Bugs Open Thousands of Industrial IoT Devices to Cyberattack](https://www.darkreading.com/ics-ot/severe-rce-bugs-industrial-iot-devices-devices-cyberattack)
 - [4 Big Mistakes to Avoid in OT Incident Response](https://www.darkreading.com/ics-ot/4-big-mistakes-to-avoid-in-ot-incident-response)
 - [&#39;MichaelKors&#39; Showcases Ransomware&#39;s Fashionable VMware ESXi Hypervisor Trend](https://www.darkreading.com/cloud/-michaelkors-ransomware-fashionable-vmware-esxi-hypervisor)
-- [Lacework Appoints Lea Kissner as Chief Information Security Officer](https://www.darkreading.com/careers-and-people/lacework-appoints-lea-kissner-as-chief-information-security-officer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
