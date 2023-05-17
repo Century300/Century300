@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Talking Security Strategy: Cybersecurity Has a Seat at the Boardroom Table](https://www.darkreading.com/vulnerabilities-threats/talking-security-strategy-cybersecurity-has-a-seat-at-the-boardroom-table)
 - [How to Protect Your Organization From Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/how-to-protect-your-organization-from-vulnerabilities)
 - [Sunday Paper Debacle: Philadelphia Inquirer Scrambles to Respond to Cyberattack](https://www.darkreading.com/threat-intelligence/philadelphia-inquirer-scrambles-to-respond-to-cyber-attack-that-prevented-printing-of-sunday-paper)
 - [I Was an RSAC Innovation Sandbox Judge — Here&#39;s What I Learned](https://www.darkreading.com/operations/i-was-an-rsac-innovation-sandbox-judge-here-s-what-i-learned)
@@ -83,7 +84,6 @@
 - [Unpatched Wemo Smart Plug Bug Opens Countless Networks to Cyberattacks](https://www.darkreading.com/ics-ot/belkins-wemo-smart-plug-opens-networks-cyberattacks)
 - [Attackers Target macOS With &#39;Geacon&#39; Cobalt Strike Tool](https://www.darkreading.com/attacks-breaches/attackers-use-geacon-as-new-cobalt-strike-for-macos-systems)
 - [XM Cyber Announces Partnership With SAP to Deliver Robust Security for Hybrid Environments](https://www.darkreading.com/application-security/xm-cyber-announces-partnership-with-sap-to-deliver-robust-security-for-hybrid-environments)
-- [Russian Ransomware Perp Charged After High-Profile Hive, Babuk &amp; LockBit Hits](https://www.darkreading.com/threat-intelligence/russian-ransomware-perp-charged-hive-babuk-lockbit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
