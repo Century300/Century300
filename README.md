@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Digital Defense Report: Nation-State Threats and Cyber Mercenaries](https://www.darkreading.com/microsoft/microsoft-digital-defense-report-nation-state-threats-and-cyber-mercenaries)
 - [Unpatched Wemo Smart Plug Bug Opens Countless Networks to Cyberattacks](https://www.darkreading.com/ics-ot/belkins-wemo-smart-plug-opens-networks-cyberattacks)
 - [Attackers Target macOS With &#39;Geacon&#39; Cobalt Strike Tool](https://www.darkreading.com/attacks-breaches/attackers-use-geacon-as-new-cobalt-strike-for-macos-systems)
 - [XM Cyber Announces Partnership With SAP to Deliver Robust Security for Hybrid Environments](https://www.darkreading.com/application-security/xm-cyber-announces-partnership-with-sap-to-deliver-robust-security-for-hybrid-environments)
@@ -83,7 +84,6 @@
 - [Qilin Ransomware Operation Outfits Affiliates With Sleek, Turnkey Cyberattacks](https://www.darkreading.com/threat-intelligence/qilin-ransomware-operation-affiliate-turnkey-cyberattacks)
 - [Name That Toon: One by One](https://www.darkreading.com/application-security/name-that-toon-one-by-one)
 - [Circle Security Technology Partnership With ForgeRock to Accelerate the Prevention-First Era in Digital Security](https://www.darkreading.com/risk/circle-security-technology-partnership-with-forgerock-to-accelerate-the-prevention-first-era-in-digital-security)
-- [Severe RCE Bugs Open Thousands of Industrial IoT Devices to Cyberattack](https://www.darkreading.com/ics-ot/severe-rce-bugs-industrial-iot-devices-devices-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
