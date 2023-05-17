@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sunday Paper Debacle: Philadelphia Inquirer Scrambles to Respond to Cyberattack](https://www.darkreading.com/threat-intelligence/philadelphia-inquirer-scrambles-to-respond-to-cyber-attack-that-prevented-printing-of-sunday-paper)
 - [I Was an RSAC Innovation Sandbox Judge — Here&#39;s What I Learned](https://www.darkreading.com/operations/i-was-an-rsac-innovation-sandbox-judge-here-s-what-i-learned)
 - [Microsoft Digital Defense Report: Nation-State Threats and Cyber Mercenaries](https://www.darkreading.com/microsoft/microsoft-digital-defense-report-nation-state-threats-and-cyber-mercenaries)
 - [Unpatched Wemo Smart Plug Bug Opens Countless Networks to Cyberattacks](https://www.darkreading.com/ics-ot/belkins-wemo-smart-plug-opens-networks-cyberattacks)
@@ -83,7 +84,6 @@
 - [XM Cyber Announces Partnership With SAP to Deliver Robust Security for Hybrid Environments](https://www.darkreading.com/application-security/xm-cyber-announces-partnership-with-sap-to-deliver-robust-security-for-hybrid-environments)
 - [Russian Ransomware Perp Charged After High-Profile Hive, Babuk &amp; LockBit Hits](https://www.darkreading.com/threat-intelligence/russian-ransomware-perp-charged-hive-babuk-lockbit)
 - [Qilin Ransomware Operation Outfits Affiliates With Sleek, Turnkey Cyberattacks](https://www.darkreading.com/threat-intelligence/qilin-ransomware-operation-affiliate-turnkey-cyberattacks)
-- [Name That Toon: One by One](https://www.darkreading.com/application-security/name-that-toon-one-by-one)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
