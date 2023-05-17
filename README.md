@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lemon Group Uses Millions of Pre-Infected Android Phones to Enable Cybercrime Enterprise](https://www.darkreading.com/threat-intelligence/threat-actor-millions-pre-infected-android-phones-cybercrime-enterprise)
 - [5 Ways Security Testing Can Aid Incident Response](https://www.darkreading.com/edge-articles/5-ways-security-testing-can-aid-incident-response)
-- [BianLian Cybercrime Group Changes Attack Methods, CISA Advisory Notes](https://www.darkreading.com/threat-intelligence/bianlian-cybercrime-group-changes-attack-methods-cisa-advisory-notes)
+- [BianLian Cybercrime Group Changes Up Extortion Methods, Warns CISA](https://www.darkreading.com/threat-intelligence/bianlian-cybercrime-group-changes-attack-methods-cisa-advisory-notes)
 - [Houthi-Backed Spyware Effort Targets Yemen Aid Workers](https://www.darkreading.com/threat-intelligence/houthi-backed-spyware-effort-yemen-aid-workers)
 - [Apple Boots a Half-Million Developers From Official App Store](https://www.darkreading.com/cloud/apple-boots-half-million-devs-official-app-store)
 - [Microsoft Teams Features Amp Up Orgs&#39; Cyberattack Exposure](https://www.darkreading.com/remote-workforce/microsoft-teams-features-amp-up-orgs-cyberattack-exposure)
 - [Talking Security Strategy: Cybersecurity Has a Seat at the Boardroom Table](https://www.darkreading.com/vulnerabilities-threats/talking-security-strategy-cybersecurity-has-a-seat-at-the-boardroom-table)
 - [How to Protect Your Organization From Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/how-to-protect-your-organization-from-vulnerabilities)
-- [Sunday Paper Debacle: Philadelphia Inquirer Scrambles to Respond to Cyberattack](https://www.darkreading.com/threat-intelligence/philadelphia-inquirer-scrambles-to-respond-to-cyber-attack-that-prevented-printing-of-sunday-paper)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
