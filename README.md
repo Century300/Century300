@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LexisNexis Risk Solutions Cybercrime Report Reveals 20% Annual Increase in Global Digital Attack Rate](https://www.darkreading.com/risk/lexisnexis-risk-solutions-cybercrime-report-reveals-20-annual-increase-in-global-digital-attack-rate)
+- [WithSecure Launches New Range of Incident Response and Readiness Services](https://www.darkreading.com/operations/withsecure-launches-new-range-of-incident-response-and-readiness-services)
 - [3 Ways Hackers Use ChatGPT to Cause Security Headaches](https://www.darkreading.com/vulnerabilities-threats/3-ways-hackers-use-chatgpt-to-cause-security-headaches)
 - [ActZero Teams Up With UScellular to Secure Mobile Devices From Ransomware Attacks](https://www.darkreading.com/mobile/actzero-teams-up-with-uscellular-to-secure-mobile-devices-from-ransomware-attacks)
 - [LayerZero Labs Launches $15M Bug Bounty; Largest in the World](https://www.darkreading.com/operations/layerzero-labs-launches-15m-bug-bounty-largest-in-the-world)
 - [Eagle Eye Networks and Brivo Announce $192M Investment — One of the Largest Ever in Cloud Physical Security](https://www.darkreading.com/physical-security/eagle-eye-networks-and-brivo-announce-192m-investment-one-of-the-largest-ever-in-cloud-physical-security)
 - [Lemon Group Uses Millions of Pre-Infected Android Phones to Enable Cybercrime Enterprise](https://www.darkreading.com/threat-intelligence/threat-actor-millions-pre-infected-android-phones-cybercrime-enterprise)
 - [5 Ways Security Testing Can Aid Incident Response](https://www.darkreading.com/edge-articles/5-ways-security-testing-can-aid-incident-response)
-- [BianLian Cybercrime Group Changes Up Extortion Methods, Warns CISA](https://www.darkreading.com/threat-intelligence/bianlian-cybercrime-group-changes-attack-methods-cisa-advisory-notes)
-- [Houthi-Backed Spyware Effort Targets Yemen Aid Workers](https://www.darkreading.com/threat-intelligence/houthi-backed-spyware-effort-yemen-aid-workers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
