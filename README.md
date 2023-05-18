@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Azure VMs Highjacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
 - [Embedding Security by Design: A Shared Responsibility](https://www.darkreading.com/application-security/embedding-security-by-design-a-shared-responsibility-)
 - [OX Security Launches OX-GPT, AppSec&#39;s First ChatGPT Integration](https://www.darkreading.com/application-security/ox-security-launches-ox-gpt-appsec-s-first-chatgpt-integration)
 - [Satori Augments Its Data Security Platform With Posture Management and Data Store Discovery Capabilities](https://www.darkreading.com/operations/satori-augments-its-data-security-platform-with-posture-management-and-data-store-discovery-capabilities-to-help-companies-proactively-protect-data)
@@ -83,7 +84,6 @@
 - [LexisNexis Risk Solutions Cybercrime Report Reveals 20% Annual Increase in Global Digital Attack Rate](https://www.darkreading.com/risk/lexisnexis-risk-solutions-cybercrime-report-reveals-20-annual-increase-in-global-digital-attack-rate)
 - [WithSecure Launches New Range of Incident Response and Readiness Services](https://www.darkreading.com/operations/withsecure-launches-new-range-of-incident-response-and-readiness-services)
 - [3 Ways Hackers Use ChatGPT to Cause Security Headaches](https://www.darkreading.com/vulnerabilities-threats/3-ways-hackers-use-chatgpt-to-cause-security-headaches)
-- [ActZero Teams Up With UScellular to Secure Mobile Devices From Ransomware Attacks](https://www.darkreading.com/mobile/actzero-teams-up-with-uscellular-to-secure-mobile-devices-from-ransomware-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
