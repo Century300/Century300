@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways Hackers Use ChatGPT to Cause Security Headaches](https://www.darkreading.com/vulnerabilities-threats/3-ways-hackers-use-chatgpt-to-cause-security-headaches)
+- [ActZero Teams Up With UScellular to Secure Mobile Devices From Ransomware Attacks](https://www.darkreading.com/mobile/actzero-teams-up-with-uscellular-to-secure-mobile-devices-from-ransomware-attacks)
+- [LayerZero Labs Launches $15M Bug Bounty; Largest in the World](https://www.darkreading.com/operations/layerzero-labs-launches-15m-bug-bounty-largest-in-the-world)
+- [Eagle Eye Networks and Brivo Announce $192M Investment — One of the Largest Ever in Cloud Physical Security](https://www.darkreading.com/physical-security/eagle-eye-networks-and-brivo-announce-192m-investment-one-of-the-largest-ever-in-cloud-physical-security)
 - [Lemon Group Uses Millions of Pre-Infected Android Phones to Enable Cybercrime Enterprise](https://www.darkreading.com/threat-intelligence/threat-actor-millions-pre-infected-android-phones-cybercrime-enterprise)
 - [5 Ways Security Testing Can Aid Incident Response](https://www.darkreading.com/edge-articles/5-ways-security-testing-can-aid-incident-response)
 - [BianLian Cybercrime Group Changes Up Extortion Methods, Warns CISA](https://www.darkreading.com/threat-intelligence/bianlian-cybercrime-group-changes-attack-methods-cisa-advisory-notes)
 - [Houthi-Backed Spyware Effort Targets Yemen Aid Workers](https://www.darkreading.com/threat-intelligence/houthi-backed-spyware-effort-yemen-aid-workers)
-- [Rebinding Attacks Persist With Spotty Browser Defenses](https://www.darkreading.com/dr-tech/rebinding-attacks-persist-with-spotty-browser-defenses)
-- [Apple Boots a Half-Million Developers From Official App Store](https://www.darkreading.com/cloud/apple-boots-half-million-devs-official-app-store)
-- [Microsoft Teams Features Amp Up Orgs&#39; Cyberattack Exposure](https://www.darkreading.com/remote-workforce/microsoft-teams-features-amp-up-orgs-cyberattack-exposure)
-- [Talking Security Strategy: Cybersecurity Has a Seat at the Boardroom Table](https://www.darkreading.com/vulnerabilities-threats/talking-security-strategy-cybersecurity-has-a-seat-at-the-boardroom-table)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
