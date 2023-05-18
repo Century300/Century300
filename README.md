@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trojan-Rigged Phishing Attacks Pepper China-Taiwan Conflict](https://www.darkreading.com/endpoint/trojan-rigged-phishing-attacks-pepper-china-taiwan-conflict)
 - [10 Types of AI Attacks CISOs Should Track](https://www.darkreading.com/threat-intelligence/10-types-of-ai-attacks-cisos-should-track)
-- [Microsoft Azure VMs Highjacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
+- [Microsoft Azure VMs Hijacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
 - [Embedding Security by Design: A Shared Responsibility](https://www.darkreading.com/application-security/embedding-security-by-design-a-shared-responsibility-)
 - [OX Security Launches OX-GPT, AppSec&#39;s First ChatGPT Integration](https://www.darkreading.com/application-security/ox-security-launches-ox-gpt-appsec-s-first-chatgpt-integration)
 - [Satori Augments Its Data Security Platform With Posture Management and Data Store Discovery Capabilities](https://www.darkreading.com/operations/satori-augments-its-data-security-platform-with-posture-management-and-data-store-discovery-capabilities-to-help-companies-proactively-protect-data)
 - [Once Again, Malware Discovered Hidden in npm](https://www.darkreading.com/application-security/once-again-malware-discovered-hidden-in-npm)
 - [LexisNexis Risk Solutions Cybercrime Report Reveals 20% Annual Increase in Global Digital Attack Rate](https://www.darkreading.com/risk/lexisnexis-risk-solutions-cybercrime-report-reveals-20-annual-increase-in-global-digital-attack-rate)
-- [WithSecure Launches New Range of Incident Response and Readiness Services](https://www.darkreading.com/operations/withsecure-launches-new-range-of-incident-response-and-readiness-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
