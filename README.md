@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Keep Your Friends Close and Your Identity Closer](https://www.darkreading.com/endpoint/keep-your-friends-close-and-your-identity-closer)
 - [Google Debuts Quality Ratings for Security Bug Disclosures](https://www.darkreading.com/vulnerabilities-threats/google-debuts-quality-ratings-for-security-bug-disclosures)
 - [Enterprises Rely on Multicloud Security to Protect Cloud Workloads](https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads)
 - [KeePass Vulnerability Imperils Master Passwords](https://www.darkreading.com/application-security/keepass-vulnerability-imperils-master-passwords)
@@ -83,7 +84,6 @@
 - [10 Types of AI Attacks CISOs Should Track](https://www.darkreading.com/threat-intelligence/10-types-of-ai-attacks-cisos-should-track)
 - [Microsoft Azure VMs Hijacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
 - [Embedding Security by Design: A Shared Responsibility](https://www.darkreading.com/application-security/embedding-security-by-design-a-shared-responsibility-)
-- [OX Security Launches OX-GPT, AppSec&#39;s First ChatGPT Integration](https://www.darkreading.com/application-security/ox-security-launches-ox-gpt-appsec-s-first-chatgpt-integration)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
