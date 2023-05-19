@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Patches 3 Zero-Days Possibly Already Exploited](https://www.darkreading.com/application-security/apple-patches-3-zero-days-possibly-already-exploited)
+- [Data Siloes: Overcoming the Greatest Challenge in SecOps](https://www.darkreading.com/edge-articles/data-siloes-overcoming-the-greatest-challenge-in-secops)
+- [3 Common Initial Attack Vectors Account for Most Ransomware Campaigns](https://www.darkreading.com/threat-intelligence/three-common-initial-attack-vectors-account-for-most-ransomware-campaigns)
 - [Keep Your Friends Close and Your Identity Closer](https://www.darkreading.com/endpoint/keep-your-friends-close-and-your-identity-closer)
 - [Google Debuts Quality Ratings for Security Bug Disclosures](https://www.darkreading.com/vulnerabilities-threats/google-debuts-quality-ratings-for-security-bug-disclosures)
 - [Enterprises Rely on Multicloud Security to Protect Cloud Workloads](https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads)
 - [KeePass Vulnerability Imperils Master Passwords](https://www.darkreading.com/application-security/keepass-vulnerability-imperils-master-passwords)
 - [Trojan-Rigged Phishing Attacks Pepper China-Taiwan Conflict](https://www.darkreading.com/endpoint/trojan-rigged-phishing-attacks-pepper-china-taiwan-conflict)
-- [10 Types of AI Attacks CISOs Should Track](https://www.darkreading.com/threat-intelligence/10-types-of-ai-attacks-cisos-should-track)
-- [Microsoft Azure VMs Hijacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
-- [Embedding Security by Design: A Shared Responsibility](https://www.darkreading.com/application-security/embedding-security-by-design-a-shared-responsibility-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
