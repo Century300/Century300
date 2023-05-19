@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Debuts Quality Ratings for Security Bug Disclosures](https://www.darkreading.com/vulnerabilities-threats/google-debuts-quality-ratings-for-security-bug-disclosures)
 - [Enterprises Rely on Multicloud Security to Protect Cloud Workloads](https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads)
 - [KeePass Vulnerability Imperils Master Passwords](https://www.darkreading.com/application-security/keepass-vulnerability-imperils-master-passwords)
 - [Trojan-Rigged Phishing Attacks Pepper China-Taiwan Conflict](https://www.darkreading.com/endpoint/trojan-rigged-phishing-attacks-pepper-china-taiwan-conflict)
@@ -83,7 +84,6 @@
 - [Microsoft Azure VMs Hijacked in Cloud Cyberattack](https://www.darkreading.com/cloud/microsoft-azure-vms-highjacked-in-cloud-cyberattack)
 - [Embedding Security by Design: A Shared Responsibility](https://www.darkreading.com/application-security/embedding-security-by-design-a-shared-responsibility-)
 - [OX Security Launches OX-GPT, AppSec&#39;s First ChatGPT Integration](https://www.darkreading.com/application-security/ox-security-launches-ox-gpt-appsec-s-first-chatgpt-integration)
-- [Satori Augments Its Data Security Platform With Posture Management and Data Store Discovery Capabilities](https://www.darkreading.com/operations/satori-augments-its-data-security-platform-with-posture-management-and-data-store-discovery-capabilities-to-help-companies-proactively-protect-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
