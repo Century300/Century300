@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Warfare Lessons From the Russia-Ukraine Conflict](https://www.darkreading.com/attacks-breaches/cyber-warfare-lessons-from-russia-ukraine-conflict)
 - [CommonMagic APT Campaign Broadens Target Scope to Central and Western Ukraine](https://www.darkreading.com/attacks-breaches/commonmagic-apt-campaign-broadens-target-scope-to-central-and-western-ukraine)
 - [Apple Patches 3 Zero-Days Possibly Already Exploited](https://www.darkreading.com/application-security/apple-patches-3-zero-days-possibly-already-exploited)
 - [Data Siloes: Overcoming the Greatest Challenge in SecOps](https://www.darkreading.com/edge-articles/data-siloes-overcoming-the-greatest-challenge-in-secops)
@@ -83,7 +84,6 @@
 - [Keep Your Friends Close and Your Identity Closer](https://www.darkreading.com/endpoint/keep-your-friends-close-and-your-identity-closer)
 - [Google Debuts Quality Ratings for Security Bug Disclosures](https://www.darkreading.com/vulnerabilities-threats/google-debuts-quality-ratings-for-security-bug-disclosures)
 - [AppSec Teams Stuck in Catch-Up Cycle Due to Massive Cloud-Native Enablement Gap](https://www.darkreading.com/cloud/appsec-teams-stuck-in-catch-up-cycle-due-to-massive-cloud-native-enablement-gap)
-- [Enterprises Rely on Multicloud Security to Protect Cloud Workloads](https://www.darkreading.com/emerging-tech/enterprises-rely-on-multicloud-security-to-protect-cloud-workloads)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
