@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IBM&#39;s Polar Buy Creates Focus on a New &#39;Shadow Data&#39; Cloud Security Area](https://www.darkreading.com/cloud/ibm-s-polar-buy-focus-shadow-data-cloud-security)
 - [Cyber Warfare Lessons From the Russia-Ukraine Conflict](https://www.darkreading.com/attacks-breaches/cyber-warfare-lessons-from-russia-ukraine-conflict)
 - [CommonMagic APT Campaign Broadens Target Scope to Central and Western Ukraine](https://www.darkreading.com/attacks-breaches/commonmagic-apt-campaign-broadens-target-scope-to-central-and-western-ukraine)
 - [Apple Patches 3 Zero-Days Possibly Already Exploited](https://www.darkreading.com/application-security/apple-patches-3-zero-days-possibly-already-exploited)
@@ -83,7 +84,6 @@
 - [3 Common Initial Attack Vectors Account for Most Ransomware Campaigns](https://www.darkreading.com/threat-intelligence/three-common-initial-attack-vectors-account-for-most-ransomware-campaigns)
 - [Keep Your Friends Close and Your Identity Closer](https://www.darkreading.com/endpoint/keep-your-friends-close-and-your-identity-closer)
 - [Google Debuts Quality Ratings for Security Bug Disclosures](https://www.darkreading.com/vulnerabilities-threats/google-debuts-quality-ratings-for-security-bug-disclosures)
-- [AppSec Teams Stuck in Catch-Up Cycle Due to Massive Cloud-Native Enablement Gap](https://www.darkreading.com/cloud/appsec-teams-stuck-in-catch-up-cycle-due-to-massive-cloud-native-enablement-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
