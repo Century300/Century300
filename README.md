@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprises Must Prepare Now for Shorter TLS Certificate Lifespans](https://www.darkreading.com/operations/enterprises-must-prepare-now-for-shorter-tls-certificate-lifespans)
 - [Improving Cybersecurity Requires Building Better Public-Private Cooperation](https://www.darkreading.com/edge-articles/improving-cybersecurity-requires-building-better-public-private-cooperation)
 - [PyPI Shuts Down Over the Weekend, Says Incident Was Overblown](https://www.darkreading.com/application-security/pypi-shuts-down-weekend-says-incident-overblown)
 - [Meta Hit With $1.3B Record-Breaking Fine for GDPR Violations](https://www.darkreading.com/endpoint/meta-hit-1-3b-record-breaking-fine-gdpr-violations)
@@ -83,7 +84,6 @@
 - [Cyber Warfare Lessons From the Russia-Ukraine Conflict](https://www.darkreading.com/attacks-breaches/cyber-warfare-lessons-from-russia-ukraine-conflict)
 - [CommonMagic APT Campaign Broadens Target Scope to Central and Western Ukraine](https://www.darkreading.com/attacks-breaches/commonmagic-apt-campaign-broadens-target-scope-to-central-and-western-ukraine)
 - [Apple Patches 3 Zero-Days Possibly Already Exploited](https://www.darkreading.com/application-security/apple-patches-3-zero-days-possibly-already-exploited)
-- [Data Siloes: Overcoming the Greatest Challenge in SecOps](https://www.darkreading.com/edge-articles/data-siloes-overcoming-the-greatest-challenge-in-secops)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
