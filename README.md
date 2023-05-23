@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [What Security Professionals Need to Know About Aggregate Cyber Risk](https://www.darkreading.com/edge-articles/what-security-professionals-need-to-know-about-aggregate-cyber-risk)
+- [FBI: Human Trafficking Rings Force Job Seekers Into Cryptokjacking Schemes](https://www.darkreading.com/cloud/fbi-human-trafficking-rings-force-job-seekers-cryptokjacking-schemes)
 - [A New Look for Risk in Awareness Training](https://www.darkreading.com/omdia/a-new-look-for-risk-in-awareness-training)
 - [Microsoft: BEC Attackers Evade &#39;Impossible Travel&#39; Flags With Residential IP Addresses](https://www.darkreading.com/endpoint/microsoft-bec-attackers-evade-impossible-travel-residential-ip-addresses)
 - [Bridgestone CISO: Lessons From Ransomware Attack Include Acting, Not Thinking](https://www.darkreading.com/ics-ot/bridgestone-ciso-lessons-ransomware-attack-acting-thinking)
 - [Enterprises Must Prepare Now for Shorter TLS Certificate Lifespans](https://www.darkreading.com/operations/enterprises-must-prepare-now-for-shorter-tls-certificate-lifespans)
 - [Improving Cybersecurity Requires Building Better Public-Private Cooperation](https://www.darkreading.com/edge-articles/improving-cybersecurity-requires-building-better-public-private-cooperation)
 - [PyPI Shuts Down Over the Weekend, Says Incident Was Overblown](https://www.darkreading.com/application-security/pypi-shuts-down-weekend-says-incident-overblown)
-- [Meta Hit With $1.3B Record-Breaking Fine for GDPR Violations](https://www.darkreading.com/endpoint/meta-hit-1-3b-record-breaking-fine-gdpr-violations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
