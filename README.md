@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Universities Can Bridge Cybersecurity&#39;s Gender Gap](https://www.darkreading.com/operations/how-universities-can-bridge-cybersecurity-s-gender-gap)
+- [Israeli Shipping, Logistics Companies Targeted in Watering Hole Attacks](https://www.darkreading.com/dr-global/israeli-shipping-logistics-companies-targeted-in-watering-hole-attacks)
 - [5 Questions to Ask When Evaluating a New Cybersecurity Technology](https://www.darkreading.com/operations/5-questions-to-ask-when-evaluating-a-new-cybersecurity-technology-)
 - [Google Adds Guardrails to Keep AI in Check](https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check)
 - [SuperMailer Abuse Bypasses Email Security for Super-Sized Credential Theft](https://www.darkreading.com/endpoint/supermailer-abuse-email-security-super-sized-credential-theft)
 - [What Security Professionals Need to Know About Aggregate Cyber-Risk](https://www.darkreading.com/edge-articles/what-security-professionals-need-to-know-about-aggregate-cyber-risk)
 - [FBI: Human Trafficking Rings Force Job Seekers Into Cryptojacking Schemes](https://www.darkreading.com/cloud/fbi-human-trafficking-rings-force-job-seekers-cryptokjacking-schemes)
 - [A New Look for Risk in Awareness Training](https://www.darkreading.com/omdia/a-new-look-for-risk-in-awareness-training)
-- [Microsoft: BEC Attackers Evade &#39;Impossible Travel&#39; Flags With Residential IP Addresses](https://www.darkreading.com/endpoint/microsoft-bec-attackers-evade-impossible-travel-residential-ip-addresses)
-- [Bridgestone CISO: Lessons From Ransomware Attack Include Acting, Not Thinking](https://www.darkreading.com/ics-ot/bridgestone-ciso-lessons-ransomware-attack-acting-thinking)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
