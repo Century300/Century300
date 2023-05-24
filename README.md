@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Google Adds Guardrails to Keep AI in Check](https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check)
 - [SuperMailer Abuse Bypasses Email Security for Super-Sized Credential Theft](https://www.darkreading.com/endpoint/supermailer-abuse-email-security-super-sized-credential-theft)
-- [What Security Professionals Need to Know About Aggregate Cyber Risk](https://www.darkreading.com/edge-articles/what-security-professionals-need-to-know-about-aggregate-cyber-risk)
+- [What Security Professionals Need to Know About Aggregate Cyber-Risk](https://www.darkreading.com/edge-articles/what-security-professionals-need-to-know-about-aggregate-cyber-risk)
 - [FBI: Human Trafficking Rings Force Job Seekers Into Cryptojacking Schemes](https://www.darkreading.com/cloud/fbi-human-trafficking-rings-force-job-seekers-cryptokjacking-schemes)
 - [A New Look for Risk in Awareness Training](https://www.darkreading.com/omdia/a-new-look-for-risk-in-awareness-training)
 - [Microsoft: BEC Attackers Evade &#39;Impossible Travel&#39; Flags With Residential IP Addresses](https://www.darkreading.com/endpoint/microsoft-bec-attackers-evade-impossible-travel-residential-ip-addresses)
