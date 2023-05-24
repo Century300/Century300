@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Compromise Barracuda Email Security Appliances](https://www.darkreading.com/endpoint/threat-actors-compromise-barracuda-email-security-appliances)
 - [Google&#39;s .zip, .mov Domains Give Social Engineers a Shiny New Tool](https://www.darkreading.com/endpoint/google-zip-mov-domains-social-engineers-shiny-new-tool)
 - [OAuth Flaw in Expo Platform Affects Hundreds of Third-Party Sites, Apps](https://www.darkreading.com/endpoint/oauth-flaw-in-expo-platform-affects-hundreds-of-third-party-sites-apps)
 - [How Universities Can Bridge Cybersecurity&#39;s Gender Gap](https://www.darkreading.com/operations/how-universities-can-bridge-cybersecurity-s-gender-gap)
@@ -83,7 +84,6 @@
 - [How AI Can Help Organizations Adapt and Recover From Cyberattacks](https://www.darkreading.com/risk/how-ai-can-help-organizations-adapt-and-recover-from-cyberattacks)
 - [5 Questions to Ask When Evaluating a New Cybersecurity Technology](https://www.darkreading.com/operations/5-questions-to-ask-when-evaluating-a-new-cybersecurity-technology-)
 - [Google Adds Guardrails to Keep AI in Check](https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check)
-- [SuperMailer Abuse Bypasses Email Security for Super-Sized Credential Theft](https://www.darkreading.com/endpoint/supermailer-abuse-email-security-super-sized-credential-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
