@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Honeywell Releases Cyber Insights to Better Identify Cybersecurity Threats and Vulnerabilities](https://www.darkreading.com/ics-ot/honeywell-releases-cyber-insights-to-better-identify-cybersecurity-threats-and-vulnerabilities-)
+- [Harvard Pilgrim Health Care Notifies Individuals of Privacy Incident](https://www.darkreading.com/endpoint/harvard-pilgrim-health-care-notifies-individuals-of-privacy-incident)
+- [Technology Veterans James Wickett and Ken Johnson Launch DryRun Security to Bring Security to Developers](https://www.darkreading.com/application-security/technology-veterans-james-wickett-and-ken-johnson-launch-dryrun-security-to-bring-security-to-developers)
+- [Appdome Launches Build-to-Test, Automated Testing Option for Protected Mobile Apps](https://www.darkreading.com/mobile/appdome-launches-build-to-test-automated-testing-option-for-protected-mobile-apps)
+- [Netwrix Report: Enterprises Suffer More Ransomware and Other Malware Attacks Than Smaller Organizations](https://www.darkreading.com/endpoint/netwrix-report-enterprises-suffer-more-ransomware-and-other-malware-attacks-than-smaller-organizations)
 - [Threat Actors Compromise Barracuda Email Security Appliances](https://www.darkreading.com/endpoint/threat-actors-compromise-barracuda-email-security-appliances)
 - [Google&#39;s .zip, .mov Domains Give Social Engineers a Shiny New Tool](https://www.darkreading.com/endpoint/google-zip-mov-domains-social-engineers-shiny-new-tool)
 - [OAuth Flaw in Expo Platform Affects Hundreds of Third-Party Sites, Apps](https://www.darkreading.com/endpoint/oauth-flaw-in-expo-platform-affects-hundreds-of-third-party-sites-apps)
-- [How Universities Can Bridge Cybersecurity&#39;s Gender Gap](https://www.darkreading.com/operations/how-universities-can-bridge-cybersecurity-s-gender-gap)
-- [Israeli Shipping, Logistics Companies Targeted in Watering Hole Attacks](https://www.darkreading.com/dr-global/israeli-shipping-logistics-companies-targeted-in-watering-hole-attacks)
-- [How AI Can Help Organizations Adapt and Recover From Cyberattacks](https://www.darkreading.com/risk/how-ai-can-help-organizations-adapt-and-recover-from-cyberattacks)
-- [5 Questions to Ask When Evaluating a New Cybersecurity Technology](https://www.darkreading.com/operations/5-questions-to-ask-when-evaluating-a-new-cybersecurity-technology-)
-- [Google Adds Guardrails to Keep AI in Check](https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
