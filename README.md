@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Volt Typhoon&#39; China-Backed APT Infiltrates US Critical Infrastructure Orgs](https://www.darkreading.com/endpoint/-volt-typhoon-china-backed-apt-infiltrates-us-critical-infrastructure)
 - [Honeywell Releases Cyber Insights to Better Identify Cybersecurity Threats and Vulnerabilities](https://www.darkreading.com/ics-ot/honeywell-releases-cyber-insights-to-better-identify-cybersecurity-threats-and-vulnerabilities-)
 - [Harvard Pilgrim Health Care Notifies Individuals of Privacy Incident](https://www.darkreading.com/endpoint/harvard-pilgrim-health-care-notifies-individuals-of-privacy-incident)
 - [Technology Veterans James Wickett and Ken Johnson Launch DryRun Security to Bring Security to Developers](https://www.darkreading.com/application-security/technology-veterans-james-wickett-and-ken-johnson-launch-dryrun-security-to-bring-security-to-developers)
@@ -83,7 +84,6 @@
 - [Netwrix Report: Enterprises Suffer More Ransomware and Other Malware Attacks Than Smaller Organizations](https://www.darkreading.com/endpoint/netwrix-report-enterprises-suffer-more-ransomware-and-other-malware-attacks-than-smaller-organizations)
 - [Threat Actors Compromise Barracuda Email Security Appliances](https://www.darkreading.com/endpoint/threat-actors-compromise-barracuda-email-security-appliances)
 - [Google&#39;s .zip, .mov Domains Give Social Engineers a Shiny New Tool](https://www.darkreading.com/endpoint/google-zip-mov-domains-social-engineers-shiny-new-tool)
-- [OAuth Flaw in Expo Platform Affects Hundreds of Third-Party Sites, Apps](https://www.darkreading.com/endpoint/oauth-flaw-in-expo-platform-affects-hundreds-of-third-party-sites-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
