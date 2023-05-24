@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Questions to Ask When Evaluating a New Cybersecurity Technology](https://www.darkreading.com/operations/5-questions-to-ask-when-evaluating-a-new-cybersecurity-technology-)
 - [Google Adds Guardrails to Keep AI in Check](https://www.darkreading.com/dr-tech/google-adds-guardrails-to-keep-ai-in-check)
 - [SuperMailer Abuse Bypasses Email Security for Super-Sized Credential Theft](https://www.darkreading.com/endpoint/supermailer-abuse-email-security-super-sized-credential-theft)
 - [What Security Professionals Need to Know About Aggregate Cyber-Risk](https://www.darkreading.com/edge-articles/what-security-professionals-need-to-know-about-aggregate-cyber-risk)
@@ -83,7 +84,6 @@
 - [A New Look for Risk in Awareness Training](https://www.darkreading.com/omdia/a-new-look-for-risk-in-awareness-training)
 - [Microsoft: BEC Attackers Evade &#39;Impossible Travel&#39; Flags With Residential IP Addresses](https://www.darkreading.com/endpoint/microsoft-bec-attackers-evade-impossible-travel-residential-ip-addresses)
 - [Bridgestone CISO: Lessons From Ransomware Attack Include Acting, Not Thinking](https://www.darkreading.com/ics-ot/bridgestone-ciso-lessons-ransomware-attack-acting-thinking)
-- [Enterprises Must Prepare Now for Shorter TLS Certificate Lifespans](https://www.darkreading.com/operations/enterprises-must-prepare-now-for-shorter-tls-certificate-lifespans)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
