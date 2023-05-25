@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Perception Point Report Finds That Advanced Phishing Attacks Grew by 356% in 2022](https://www.darkreading.com/endpoint/perception-point-report-finds-that-advanced-phishing-attacks-grew-by-356-in-2022)
+- [Memcyco Delivers Real-Time Brandjacking Detection and Protection Solution](https://www.darkreading.com/dr-global/memcyco-delivers-real-time-brandjacking-detection-and-protection-solution)
 - [Bank of Ghana Opens SOC to Enable Threat Intelligence Sharing](https://www.darkreading.com/dr-global/bank-of-ghana-opens-soc-enable-threat-intelligence-sharing)
 - [&#39;Operation Magalenha&#39; Attacks Gives Window Into Brazil&#39;s Cybercrime Ecosystem](https://www.darkreading.com/endpoint/-operation-magalenha-attacks-window-brazil-cybercrime-ecosystem)
 - [Google Cloud Bug Allows Server Takeover From CloudSQL Service](https://www.darkreading.com/cloud/google-cloud-bug-server-takeover-cloudsql-service)
 - [Dangerous Regions: Isolating Branch Offices in High-Risk Countries](https://www.darkreading.com/vulnerabilities-threats/dangerous-regions-isolating-branch-offices-in-high-risk-countries)
 - [CISO Criminalization, Vague Cyber Disclosure Rules Create Angst for Security Teams](https://www.darkreading.com/operations/criminalization-of-cisos-creating-angst-among-cyber-teams)
 - [&#39;Volt Typhoon&#39; China-Backed APT Infiltrates US Critical Infrastructure Orgs](https://www.darkreading.com/endpoint/-volt-typhoon-china-backed-apt-infiltrates-us-critical-infrastructure)
-- [Honeywell Releases Cyber Insights to Better Identify Cybersecurity Threats and Vulnerabilities](https://www.darkreading.com/ics-ot/honeywell-releases-cyber-insights-to-better-identify-cybersecurity-threats-and-vulnerabilities-)
-- [Harvard Pilgrim Health Care Notifies Individuals of Privacy Incident](https://www.darkreading.com/endpoint/harvard-pilgrim-health-care-notifies-individuals-of-privacy-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
