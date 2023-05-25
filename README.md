@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Netflix&#39;s Password-Sharing Ban Offers Security Upsides](https://www.darkreading.com/endpoint/netflix-password-sharing-ban-offers-security-upsides)
 - [Perception Point Report Finds That Advanced Phishing Attacks Grew by 356% in 2022](https://www.darkreading.com/endpoint/perception-point-report-finds-that-advanced-phishing-attacks-grew-by-356-in-2022)
 - [Memcyco Delivers Real-Time Brandjacking Detection and Protection Solution](https://www.darkreading.com/dr-global/memcyco-delivers-real-time-brandjacking-detection-and-protection-solution)
 - [Bank of Ghana Opens SOC to Enable Threat Intelligence Sharing](https://www.darkreading.com/dr-global/bank-of-ghana-opens-soc-enable-threat-intelligence-sharing)
@@ -83,7 +84,6 @@
 - [Google Cloud Bug Allows Server Takeover From CloudSQL Service](https://www.darkreading.com/cloud/google-cloud-bug-server-takeover-cloudsql-service)
 - [Dangerous Regions: Isolating Branch Offices in High-Risk Countries](https://www.darkreading.com/vulnerabilities-threats/dangerous-regions-isolating-branch-offices-in-high-risk-countries)
 - [CISO Criminalization, Vague Cyber Disclosure Rules Create Angst for Security Teams](https://www.darkreading.com/operations/criminalization-of-cisos-creating-angst-among-cyber-teams)
-- [&#39;Volt Typhoon&#39; China-Backed APT Infiltrates US Critical Infrastructure Orgs](https://www.darkreading.com/endpoint/-volt-typhoon-china-backed-apt-infiltrates-us-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
