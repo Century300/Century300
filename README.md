@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Operation Magalenha&#39; Attacks Gives Window Into Brazil&#39;s Cybercrime Ecosystem](https://www.darkreading.com/endpoint/-operation-magalenha-attacks-window-brazil-cybercrime-ecosystem)
+- [Google Cloud Bug Allows Server Takeover From CloudSQL Service](https://www.darkreading.com/cloud/google-cloud-bug-server-takeover-cloudsql-service)
 - [Dangerous Regions: Isolating Branch Offices in High-Risk Countries](https://www.darkreading.com/vulnerabilities-threats/dangerous-regions-isolating-branch-offices-in-high-risk-countries)
 - [CISO Criminalization, Vague Cyber Disclosure Rules Create Angst for Security Teams](https://www.darkreading.com/operations/criminalization-of-cisos-creating-angst-among-cyber-teams)
 - [&#39;Volt Typhoon&#39; China-Backed APT Infiltrates US Critical Infrastructure Orgs](https://www.darkreading.com/endpoint/-volt-typhoon-china-backed-apt-infiltrates-us-critical-infrastructure)
 - [Honeywell Releases Cyber Insights to Better Identify Cybersecurity Threats and Vulnerabilities](https://www.darkreading.com/ics-ot/honeywell-releases-cyber-insights-to-better-identify-cybersecurity-threats-and-vulnerabilities-)
 - [Harvard Pilgrim Health Care Notifies Individuals of Privacy Incident](https://www.darkreading.com/endpoint/harvard-pilgrim-health-care-notifies-individuals-of-privacy-incident)
 - [Technology Veterans James Wickett and Ken Johnson Launch DryRun Security to Bring Security to Developers](https://www.darkreading.com/application-security/technology-veterans-james-wickett-and-ken-johnson-launch-dryrun-security-to-bring-security-to-developers)
-- [Appdome Launches Build-to-Test, Automated Testing Option for Protected Mobile Apps](https://www.darkreading.com/mobile/appdome-launches-build-to-test-automated-testing-option-for-protected-mobile-apps)
-- [Netwrix Report: Enterprises Suffer More Ransomware and Other Malware Attacks Than Smaller Organizations](https://www.darkreading.com/endpoint/netwrix-report-enterprises-suffer-more-ransomware-and-other-malware-attacks-than-smaller-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
