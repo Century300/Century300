@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tesla Whistleblower Leaks 100GB of Data, Revealing Safety Complaints](https://www.darkreading.com/attacks-breaches/whistleblower-leaks-100gb-tesla-data-safety-complaints)
 - [Travel-Themed Phishing, BEC Campaigns Get Smarter as Summer Season Arrives](https://www.darkreading.com/endpoint/travel-themed-phishing-bec-campaigns-smarter-summer-season)
 - [How Safe Is Your Wearable Device?](https://www.darkreading.com/vulnerabilities-threats/how-safe-is-your-wearable-device)
 - [Russia&#39;s War in Ukraine Shows Cyberattacks Can Be War Crimes](https://www.darkreading.com/edge-articles/russia-war-ukraine-shows-cyberattacks-are-war-crimes)
@@ -83,7 +84,6 @@
 - [Red Hat Tackles Software Supply Chain Security](https://www.darkreading.com/dr-tech/red-hat-tackles-software-supply-chain-security)
 - [CosmicEnergy Malware Emerges, Capable of Electric Grid Shutdown](https://www.darkreading.com/ics-ot/cosmicenergy-malware-emerges-electric-grid-shutdown)
 - [Lazarus Group Striking Vulnerable Windows IIS Web Servers](https://www.darkreading.com/cloud/lazarus-group-striking-vulnerable-windows-iis-web-servers)
-- [Netflix&#39;s Password-Sharing Ban Offers Security Upsides](https://www.darkreading.com/endpoint/netflix-password-sharing-ban-offers-security-upsides)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
