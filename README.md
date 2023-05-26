@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2 Lenses for Examining the Safety of Open Source Software](https://www.darkreading.com/dr-tech/python-repository-headaches-highlights-need-for-security-support)
 - [130K+ Patients&#39; Social Security Numbers Leaked in UHS of Delaware Data Breach](https://www.darkreading.com/attacks-breaches/130k-patients-social-security-numbers-leaked-in-uhs-of-delaware-data-breach)
 - [Tesla Whistleblower Leaks 100GB of Data, Revealing Safety Complaints](https://www.darkreading.com/attacks-breaches/whistleblower-leaks-100gb-tesla-data-safety-complaints)
 - [Travel-Themed Phishing, BEC Campaigns Get Smarter as Summer Season Arrives](https://www.darkreading.com/endpoint/travel-themed-phishing-bec-campaigns-smarter-summer-season)
@@ -83,7 +84,6 @@
 - [Russia&#39;s War in Ukraine Shows Cyberattacks Can Be War Crimes](https://www.darkreading.com/edge-articles/russia-war-ukraine-shows-cyberattacks-are-war-crimes)
 - [&#39;Volt Typhoon&#39; Breaks Fresh Ground for China-Backed Cyber Campaigns](https://www.darkreading.com/ics-ot/volt-typhoon-breaks-fresh-ground-china-backed-cyber-campaigns)
 - [Red Hat Tackles Software Supply Chain Security](https://www.darkreading.com/dr-tech/red-hat-tackles-software-supply-chain-security)
-- [CosmicEnergy Malware Emerges, Capable of Electric Grid Shutdown](https://www.darkreading.com/ics-ot/cosmicenergy-malware-emerges-electric-grid-shutdown)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
