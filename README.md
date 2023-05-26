@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [130K+ Patients&#39; Social Security Numbers Leaked in UHS of Delaware Data Breach](https://www.darkreading.com/attacks-breaches/130k-patients-social-security-numbers-leaked-in-uhs-of-delaware-data-breach)
 - [Tesla Whistleblower Leaks 100GB of Data, Revealing Safety Complaints](https://www.darkreading.com/attacks-breaches/whistleblower-leaks-100gb-tesla-data-safety-complaints)
 - [Travel-Themed Phishing, BEC Campaigns Get Smarter as Summer Season Arrives](https://www.darkreading.com/endpoint/travel-themed-phishing-bec-campaigns-smarter-summer-season)
 - [How Safe Is Your Wearable Device?](https://www.darkreading.com/vulnerabilities-threats/how-safe-is-your-wearable-device)
@@ -83,7 +84,6 @@
 - [&#39;Volt Typhoon&#39; Breaks Fresh Ground for China-Backed Cyber Campaigns](https://www.darkreading.com/ics-ot/volt-typhoon-breaks-fresh-ground-china-backed-cyber-campaigns)
 - [Red Hat Tackles Software Supply Chain Security](https://www.darkreading.com/dr-tech/red-hat-tackles-software-supply-chain-security)
 - [CosmicEnergy Malware Emerges, Capable of Electric Grid Shutdown](https://www.darkreading.com/ics-ot/cosmicenergy-malware-emerges-electric-grid-shutdown)
-- [Lazarus Group Striking Vulnerable Windows IIS Web Servers](https://www.darkreading.com/cloud/lazarus-group-striking-vulnerable-windows-iis-web-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
