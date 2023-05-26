@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Travel-Themed Phishing, BEC Campaigns Get Smarter as Summer Season Arrives](https://www.darkreading.com/endpoint/travel-themed-phishing-bec-campaigns-smarter-summer-season)
 - [How Safe Is Your Wearable Device?](https://www.darkreading.com/vulnerabilities-threats/how-safe-is-your-wearable-device)
 - [Russia&#39;s War in Ukraine Shows Cyberattacks Can Be War Crimes](https://www.darkreading.com/edge-articles/russia-war-ukraine-shows-cyberattacks-are-war-crimes)
 - [&#39;Volt Typhoon&#39; Breaks Fresh Ground for China-Backed Cyber Campaigns](https://www.darkreading.com/ics-ot/volt-typhoon-breaks-fresh-ground-china-backed-cyber-campaigns)
@@ -83,7 +84,6 @@
 - [CosmicEnergy Malware Emerges, Capable of Electric Grid Shutdown](https://www.darkreading.com/ics-ot/cosmicenergy-malware-emerges-electric-grid-shutdown)
 - [Lazarus Group Striking Vulnerable Windows IIS Web Servers](https://www.darkreading.com/cloud/lazarus-group-striking-vulnerable-windows-iis-web-servers)
 - [Netflix&#39;s Password-Sharing Ban Offers Security Upsides](https://www.darkreading.com/endpoint/netflix-password-sharing-ban-offers-security-upsides)
-- [Perception Point Report Finds That Advanced Phishing Attacks Grew by 356% in 2022](https://www.darkreading.com/endpoint/perception-point-report-finds-that-advanced-phishing-attacks-grew-by-356-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
