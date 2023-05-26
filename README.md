@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia&#39;s War in Ukraine Shows Cyberattacks Can Be War Crimes](https://www.darkreading.com/edge-articles/russia-war-ukraine-shows-cyberattacks-are-war-crimes)
 - [&#39;Volt Typhoon&#39; Breaks Fresh Ground for China-Backed Cyber Campaigns](https://www.darkreading.com/ics-ot/volt-typhoon-breaks-fresh-ground-china-backed-cyber-campaigns)
 - [Red Hat Tackles Software Supply Chain Security](https://www.darkreading.com/dr-tech/red-hat-tackles-software-supply-chain-security)
 - [CosmicEnergy Malware Emerges, Capable of Electric Grid Shutdown](https://www.darkreading.com/ics-ot/cosmicenergy-malware-emerges-electric-grid-shutdown)
@@ -83,7 +84,6 @@
 - [Netflix&#39;s Password-Sharing Ban Offers Security Upsides](https://www.darkreading.com/endpoint/netflix-password-sharing-ban-offers-security-upsides)
 - [Perception Point Report Finds That Advanced Phishing Attacks Grew by 356% in 2022](https://www.darkreading.com/endpoint/perception-point-report-finds-that-advanced-phishing-attacks-grew-by-356-in-2022)
 - [Memcyco Delivers Real-Time Brandjacking Detection and Protection Solution](https://www.darkreading.com/dr-global/memcyco-delivers-real-time-brandjacking-detection-and-protection-solution)
-- [Bank of Ghana Opens SOC to Enable Threat Intelligence Sharing](https://www.darkreading.com/dr-global/bank-of-ghana-opens-soc-enable-threat-intelligence-sharing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
