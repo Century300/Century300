@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top Cyberattacks Revealed in New Threat Intelligence Report](https://www.darkreading.com/threat-intelligence/top-cyberattacks-revealed-in-new-threat-intelligence-report)
 - [2 Lenses for Examining the Safety of Open Source Software](https://www.darkreading.com/dr-tech/2-lenses-examining-safety-open-source-software)
 - [130K+ Patients&#39; Social Security Numbers Leaked in UHS of Delaware Data Breach](https://www.darkreading.com/attacks-breaches/130k-patients-social-security-numbers-leaked-in-uhs-of-delaware-data-breach)
 - [Tesla Whistleblower Leaks 100GB of Data, Revealing Safety Complaints](https://www.darkreading.com/attacks-breaches/whistleblower-leaks-100gb-tesla-data-safety-complaints)
@@ -83,7 +84,6 @@
 - [How Safe Is Your Wearable Device?](https://www.darkreading.com/vulnerabilities-threats/how-safe-is-your-wearable-device)
 - [Russia&#39;s War in Ukraine Shows Cyberattacks Can Be War Crimes](https://www.darkreading.com/edge-articles/russia-war-ukraine-shows-cyberattacks-are-war-crimes)
 - [&#39;Volt Typhoon&#39; Breaks Fresh Ground for China-Backed Cyber Campaigns](https://www.darkreading.com/ics-ot/volt-typhoon-breaks-fresh-ground-china-backed-cyber-campaigns)
-- [Red Hat Tackles Software Supply Chain Security](https://www.darkreading.com/dr-tech/red-hat-tackles-software-supply-chain-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
