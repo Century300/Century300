@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Undetected Attacks Against Middle East Targets Conducted Since 2020](https://www.darkreading.com/dr-global/undetected-attacks-against-middle-east-conducted)
 - [9M Dental Patients Affected by LockBit Attack on MCNA](https://www.darkreading.com/attacks-breaches/9-million-dental-patients-affected-lockbit-attack-mcna)
 - [Pentagon Leaks Emphasize the Need for a Trusted Workforce](https://www.darkreading.com/vulnerabilities-threats/pentagon-leaks-emphasize-the-need-for-a-trusted-workforce)
 - [Top Cyberattacks Revealed in New Threat Intelligence Report](https://www.darkreading.com/threat-intelligence/top-cyberattacks-revealed-in-new-threat-intelligence-report)
@@ -83,7 +84,6 @@
 - [130K+ Patients&#39; Social Security Numbers Leaked in UHS of Delaware Data Breach](https://www.darkreading.com/attacks-breaches/130k-patients-social-security-numbers-leaked-in-uhs-of-delaware-data-breach)
 - [Tesla Whistleblower Leaks 100GB of Data, Revealing Safety Complaints](https://www.darkreading.com/attacks-breaches/whistleblower-leaks-100gb-tesla-data-safety-complaints)
 - [Travel-Themed Phishing, BEC Campaigns Get Smarter as Summer Season Arrives](https://www.darkreading.com/endpoint/travel-themed-phishing-bec-campaigns-smarter-summer-season)
-- [How Safe Is Your Wearable Device?](https://www.darkreading.com/vulnerabilities-threats/how-safe-is-your-wearable-device)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
