@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Spotlight on 2023 Dan Kaminsky Fellow: Dr. Gus Andrews](https://www.darkreading.com/edge/spotlight-on-2023-dan-kaminsky-fellow-dr-gus-andrews)
 - [Human-Assisted CAPTCHA-Cracking Services Supercharge Shopper Bots](https://www.darkreading.com/application-security/human-assisted-captcha-cracking-services-supercharge-shopper-bots)
 - [421M Spyware Apps Downloaded Through Google Play](https://www.darkreading.com/application-security/421-spyware-apps-downloaded-google-play)
 - [Undetected Attacks Against Middle East Targets Conducted Since 2020](https://www.darkreading.com/dr-global/undetected-attacks-against-middle-east-conducted)
@@ -83,7 +84,6 @@
 - [Pentagon Leaks Emphasize the Need for a Trusted Workforce](https://www.darkreading.com/vulnerabilities-threats/pentagon-leaks-emphasize-the-need-for-a-trusted-workforce)
 - [Top Cyberattacks Revealed in New Threat Intelligence Report](https://www.darkreading.com/threat-intelligence/top-cyberattacks-revealed-in-new-threat-intelligence-report)
 - [2 Lenses for Examining the Safety of Open Source Software](https://www.darkreading.com/dr-tech/2-lenses-examining-safety-open-source-software)
-- [130K+ Patients&#39; Social Security Numbers Leaked in UHS of Delaware Data Breach](https://www.darkreading.com/attacks-breaches/130k-patients-social-security-numbers-leaked-in-uhs-of-delaware-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
