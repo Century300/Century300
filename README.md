@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Yet Another Toyota Cloud Data Breach Jeopardizes Thousands of Customers](https://www.darkreading.com/ics-ot/toyota-cloud-data-breach-jeopardizes-thousands-customers)
 - [Can Cloud Services Encourage Better Login Security? Netflix&#39;s Accidental Model](https://www.darkreading.com/endpoint/can-service-providers-encourage-better-login-security-netflix-accidental-model)
 - [MacOS &#39;Migraine&#39; Bug: Big Headache for Device System Integrity](https://www.darkreading.com/endpoint/macos-migraine-bug-headache-device-system-integrity)
 - [Ways to Help Cybersecurity&#39;s Essential Workers Avoid Burnout](https://www.darkreading.com/edge-articles/ways-to-help-cybersecurity-s-essential-workers-avoid-burnout)
@@ -83,7 +84,6 @@
 - [Investment May Be Down, but Cybersecurity Remains a Hot Sector](https://www.darkreading.com/operations/investment-may-be-down-cybersecurity-remains-hot)
 - [Checkmarx Announces GenAI-powered AppSec Platform, Empowering Developers and AppSec Teams to Find and Fix Vulnerabilities Faster](https://www.darkreading.com/application-security/checkmarx-announces-genai-powered-appsec-platform-empowering-developers-and-appsec-teams-to-find-and-fix-vulnerabilities-faster)
 - [New eID Scheme Gives EU Citizens Easy Access to Public Services Online](https://www.darkreading.com/operations/new-eid-scheme-gives-eu-citizens-easy-access-to-public-services-online)
-- [Mirai Variant Opens Tenda, Zyxel Gear to RCE, DDoS](https://www.darkreading.com/endpoint/mirai-variant-tenda-zyxel-rce-ddos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
