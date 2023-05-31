@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MacOS &#39;Migraine&#39; Bug: Big Headache for Device System Integrity](https://www.darkreading.com/endpoint/macos-migraine-bug-headache-device-system-integrity)
+- [Ways to Help Cybersecurity&#39;s Essential Workers Avoid Burnout](https://www.darkreading.com/edge-articles/ways-to-help-cybersecurity-s-essential-workers-avoid-burnout)
+- [What Apple&#39;s RSRs Reveal About Mac Patch Management](https://www.darkreading.com/endpoint/what-apple-rsrs-reveal-about-mac-patch-management)
 - [Investment May Be Down, but Cybersecurity Remains a Hot Sector](https://www.darkreading.com/operations/investment-may-be-down-cybersecurity-remains-hot)
 - [Checkmarx Announces GenAI-powered AppSec Platform, Empowering Developers and AppSec Teams to Find and Fix Vulnerabilities Faster](https://www.darkreading.com/application-security/checkmarx-announces-genai-powered-appsec-platform-empowering-developers-and-appsec-teams-to-find-and-fix-vulnerabilities-faster)
 - [New eID Scheme Gives EU Citizens Easy Access to Public Services Online](https://www.darkreading.com/operations/new-eid-scheme-gives-eu-citizens-easy-access-to-public-services-online)
 - [Mirai Variant Opens Tenda, Zyxel Gear to RCE, DDoS](https://www.darkreading.com/endpoint/mirai-variant-tenda-zyxel-rce-ddos)
 - [Focus Security Efforts on Choke Points, Not Visibility](https://www.darkreading.com/vulnerabilities-threats/focus-security-efforts-on-choke-points-not-visibility)
-- [Salesforce &#39;Ghost Sites&#39; Expose Sensitive Corporate Data](https://www.darkreading.com/application-security/salesforce-ghost-sites-expose-sensitive-corporate-data)
-- [Spotlight on 2023 Dan Kaminsky Fellow: Dr. Gus Andrews](https://www.darkreading.com/edge/spotlight-on-2023-dan-kaminsky-fellow-dr-gus-andrews)
-- [Human-Assisted CAPTCHA-Cracking Services Supercharge Shopper Bots](https://www.darkreading.com/application-security/human-assisted-captcha-cracking-services-supercharge-shopper-bots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
