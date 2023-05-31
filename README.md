@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Focus Security Efforts on Choke Points, Not Visibility](https://www.darkreading.com/vulnerabilities-threats/focus-security-efforts-on-choke-points-not-visibility)
 - [Salesforce &#39;Ghost Sites&#39; Expose Sensitive Corporate Data](https://www.darkreading.com/application-security/salesforce-ghost-sites-expose-sensitive-corporate-data)
 - [Spotlight on 2023 Dan Kaminsky Fellow: Dr. Gus Andrews](https://www.darkreading.com/edge/spotlight-on-2023-dan-kaminsky-fellow-dr-gus-andrews)
 - [Human-Assisted CAPTCHA-Cracking Services Supercharge Shopper Bots](https://www.darkreading.com/application-security/human-assisted-captcha-cracking-services-supercharge-shopper-bots)
@@ -83,7 +84,6 @@
 - [Undetected Attacks Against Middle East Targets Conducted Since 2020](https://www.darkreading.com/dr-global/undetected-attacks-against-middle-east-conducted)
 - [9M Dental Patients Affected by LockBit Attack on MCNA](https://www.darkreading.com/attacks-breaches/9-million-dental-patients-affected-lockbit-attack-mcna)
 - [Pentagon Leaks Emphasize the Need for a Trusted Workforce](https://www.darkreading.com/vulnerabilities-threats/pentagon-leaks-emphasize-the-need-for-a-trusted-workforce)
-- [Top Cyberattacks Revealed in New Threat Intelligence Report](https://www.darkreading.com/threat-intelligence/top-cyberattacks-revealed-in-new-threat-intelligence-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
