@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Biometric Bypass: BrutePrint Makes Short Work of Fingerprint Security](https://www.darkreading.com/endpoint/bruteprint-short-work-fingerprint-security)
 - [SolarWinds Transforms Brand to Signify Ongoing Evolution, Portfolio Expansion, and Customer Empowerment](https://www.darkreading.com/operations/solarwinds-transforms-brand-to-signify-ongoing-evolution-portfolio-expansion-and-customer-empowerment)
 - [Top macOS Malware Threats: Here Are 6 to Watch](https://www.darkreading.com/endpoint/top-macos-malware-threats-proliferate)
 - [Dark Reading Launches Inaugural CISO Advisory Board](https://www.darkreading.com/operations/dark-reading-launches-inaugural-ciso-advisory-board)
@@ -83,7 +84,6 @@
 - [Yet Another Toyota Cloud Data Breach Jeopardizes Thousands of Customers](https://www.darkreading.com/ics-ot/toyota-cloud-data-breach-jeopardizes-thousands-customers)
 - [Can Cloud Services Encourage Better Login Security? Netflix&#39;s Accidental Model](https://www.darkreading.com/endpoint/can-service-providers-encourage-better-login-security-netflix-accidental-model)
 - [MacOS &#39;Migraine&#39; Bug: Big Headache for Device System Integrity](https://www.darkreading.com/endpoint/macos-migraine-bug-headache-device-system-integrity)
-- [Ways to Help Cybersecurity&#39;s Essential Workers Avoid Burnout](https://www.darkreading.com/edge-articles/ways-to-help-cybersecurity-s-essential-workers-avoid-burnout)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
