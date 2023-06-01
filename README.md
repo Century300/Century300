@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Jetpack WordPress Plug-in API Bug Triggers Mass Updates](https://www.darkreading.com/endpoint/jetpack-wordpress-plugin-api-bug-mass-updates)
+- [How Do I Reduce Security Tool Sprawl in My Environment?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-reduce-security-tool-sprawl-in-my-environment)
 - [Sustained &#39;Red Deer&#39; Phishing Attacks Impersonate Israel Post, Drop RATs](https://www.darkreading.com/dr-global/sustained-red-deer-phishing-attacks-israel-post-rats)
 - [Google Drive Deficiency Allows Attackers to Exfiltrate Workspace Data Without a Trace](https://www.darkreading.com/endpoint/google-drive-deficiency-exfiltrate-workspace-data)
 - [Where SBOMs Stand Today](https://www.darkreading.com/vulnerabilities-threats/where-sboms-stand-today)
 - [Novel PyPI Malware Uses Compiled Python Bytecode to Evade Detection](https://www.darkreading.com/application-security/novel-pypi-malware-compiled-python-bytecode-evade-detection)
 - [Biometric Bypass: BrutePrint Makes Short Work of Fingerprint Security](https://www.darkreading.com/endpoint/bruteprint-short-work-fingerprint-security)
 - [SolarWinds Transforms Brand to Signify Ongoing Evolution, Portfolio Expansion, and Customer Empowerment](https://www.darkreading.com/operations/solarwinds-transforms-brand-to-signify-ongoing-evolution-portfolio-expansion-and-customer-empowerment)
-- [Top macOS Malware Threats: Here Are 6 to Watch](https://www.darkreading.com/endpoint/top-macos-malware-threats-proliferate)
-- [Dark Reading Launches Inaugural CISO Advisory Board](https://www.darkreading.com/operations/dark-reading-launches-inaugural-ciso-advisory-board)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
