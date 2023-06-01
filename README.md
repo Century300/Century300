@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DNB Strengthens its Network Security Posture and Productivity With Ericsson Security Manager Solution](https://www.darkreading.com/operations/dnb-strengthens-its-network-security-posture-and-productivity-with-ericsson-security-manager-solution)
+- [Cyversity and United Airlines to Provide Cybersecurity Training Scholarships to Cyversity Members](https://www.darkreading.com/operations/cyversity-and-united-airlines-to-provide-cybersecurity-training-scholarships-to-cyversity-members)
 - [Tel Aviv Stock Exchange Selects CardinalOps to Reduce Risk of Breaches Due to Undetected Attacks](https://www.darkreading.com/risk/tel-aviv-stock-exchange-selects-cardinalops-to-reduce-risk-of-breaches-due-to-undetected-attacks)
 - [Amazon Pays $30.8M to Settle Ring Spying &amp; Alexa Privacy Lawsuits](https://www.darkreading.com/ics-ot/amazon-ring-and-alexa-pay-30-8m-to-settle-privacy-lawsuits)
 - [Jetpack WordPress Plug-in API Bug Triggers Mass Updates](https://www.darkreading.com/endpoint/jetpack-wordpress-plugin-api-bug-mass-updates)
 - [How Do I Reduce Security Tool Sprawl in My Environment?](https://www.darkreading.com/edge-ask-the-experts/how-do-i-reduce-security-tool-sprawl-in-my-environment)
 - [Sustained &#39;Red Deer&#39; Phishing Attacks Impersonate Israel Post, Drop RATs](https://www.darkreading.com/dr-global/sustained-red-deer-phishing-attacks-israel-post-rats)
 - [Google Drive Deficiency Allows Attackers to Exfiltrate Workspace Data Without a Trace](https://www.darkreading.com/endpoint/google-drive-deficiency-exfiltrate-workspace-data)
-- [Where SBOMs Stand Today](https://www.darkreading.com/vulnerabilities-threats/where-sboms-stand-today)
-- [Novel PyPI Malware Uses Compiled Python Bytecode to Evade Detection](https://www.darkreading.com/application-security/novel-pypi-malware-compiled-python-bytecode-evade-detection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
