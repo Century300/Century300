@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sustained &#39;Red Deer&#39; Phishing Attacks Impersonate Israel Post, Drop RATs](https://www.darkreading.com/dr-global/sustained-red-deer-phishing-attacks-israel-post-rats)
 - [Google Drive Deficiency Allows Attackers to Exfiltrate Workspace Data Without a Trace](https://www.darkreading.com/endpoint/google-drive-deficiency-exfiltrate-workspace-data)
 - [Where SBOMs Stand Today](https://www.darkreading.com/vulnerabilities-threats/where-sboms-stand-today)
 - [Novel PyPI Malware Uses Compiled Python Bytecode to Evade Detection](https://www.darkreading.com/application-security/novel-pypi-malware-compiled-python-bytecode-evade-detection)
@@ -83,7 +84,6 @@
 - [SolarWinds Transforms Brand to Signify Ongoing Evolution, Portfolio Expansion, and Customer Empowerment](https://www.darkreading.com/operations/solarwinds-transforms-brand-to-signify-ongoing-evolution-portfolio-expansion-and-customer-empowerment)
 - [Top macOS Malware Threats: Here Are 6 to Watch](https://www.darkreading.com/endpoint/top-macos-malware-threats-proliferate)
 - [Dark Reading Launches Inaugural CISO Advisory Board](https://www.darkreading.com/operations/dark-reading-launches-inaugural-ciso-advisory-board)
-- [Meet Charlotte, CrowdStrike&#39;s New Generative AI Assistant](https://www.darkreading.com/dr-tech/meet-charlotte-crowdstrike-s-new-generative-ai-assistant)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
