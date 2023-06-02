@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Picture-in-Picture&#39; Obfuscation Spoofs Delta, Kohl&#39;s for Credential Harvesting](https://www.darkreading.com/endpoint/picture-in-picture-obfuscation-spoofs-delta-kohls-credential-harvesting)
+- [Streamers Ditch Netflix for Dark Web After Password Sharing Ban](https://www.darkreading.com/application-security/streamers-netflix-dark-web-password-sharing-ban)
 - [Want Sustainable Security? Find Middle Ground Between Tech &amp; Education](https://www.darkreading.com/operations/want-sustainable-security-find-the-middle-ground-between-technology-and-education)
 - [Apple Zero-Days, iMessage Used in 4-Year, Ongoing Spying Effort](https://www.darkreading.com/endpoint/apple-zero-days-imessage-4-year-spying-ios)
 - [How CISOs Can Manage the Intersection of Security, Privacy, And Trust](https://www.darkreading.com/microsoft/how-cisos-can-manage-the-intersection-of-security-privacy-and-trust)
 - [DNB Strengthens its Network Security Posture and Productivity With Ericsson Security Manager Solution](https://www.darkreading.com/operations/dnb-strengthens-its-network-security-posture-and-productivity-with-ericsson-security-manager-solution)
 - [Cyversity and United Airlines to Provide Cybersecurity Training Scholarships to Cyversity Members](https://www.darkreading.com/operations/cyversity-and-united-airlines-to-provide-cybersecurity-training-scholarships-to-cyversity-members)
 - [Tel Aviv Stock Exchange Selects CardinalOps to Reduce Risk of Breaches Due to Undetected Attacks](https://www.darkreading.com/risk/tel-aviv-stock-exchange-selects-cardinalops-to-reduce-risk-of-breaches-due-to-undetected-attacks)
-- [Amazon Pays $30.8M to Settle Ring Spying &amp; Alexa Privacy Lawsuits](https://www.darkreading.com/ics-ot/amazon-ring-and-alexa-pay-30-8m-to-settle-privacy-lawsuits)
-- [Jetpack WordPress Plug-in API Bug Triggers Mass Updates](https://www.darkreading.com/endpoint/jetpack-wordpress-plugin-api-bug-mass-updates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
