@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Red Sift Launches Relevance Detection as GPT-4-Powered Asset Discovery and Classification Solution](https://www.darkreading.com/operations/red-sift-launches-relevance-detection-as-gpt-4-powered-asset-discovery-and-classification-solution)
+- [Microsoft Links MOVEit Attack to Cl0p as British Airways, BBC Fall](https://www.darkreading.com/application-security/microsoft-links-moveit-attack-cl0p-british-airways-fall)
+- [2.5M Impacted by Enzo Biochem Data Leak After Ransomware Attack](https://www.darkreading.com/attacks-breaches/2-5m-impacted-by-enzo-biochem-data-leak-after-ransomware-attack)
+- [Gigabyte Slams Backdoor Shut With Attack-Killing BIOS Update](https://www.darkreading.com/vulnerabilities-threats/gigabyte-backdoor-attack-killing-bios-update)
 - [Moonlighter Satellite Offers In-Orbit Target for Space Hackers](https://www.darkreading.com/ics-ot/moonlighter-satellite-in-orbit-target-space-hackers)
 - [Don&#39;t Overlook Twitter&#39;s Trove of Threat Intel for Enterprise Cybersecurity](https://www.darkreading.com/threat-intelligence/twitters-trove-threat-intel-enterprise-security)
 - [Mass Exploitation of Zero-Day Bug in MOVEit File Transfer Underway](https://www.darkreading.com/application-security/mass-exploitation-0-day-bug-imoveit-file-transfer-underway)
 - [After &#39;Inception&#39; Attack, New Due Diligence Requirements Are Needed](https://www.darkreading.com/attacks-breaches/after-inception-attack-new-due-diligence-requirements-are-needed)
-- [Varonis: Reducing Insider Threats Through Improved Data Security](https://www.darkreading.com/risk/varonis-reducing-insider-threats-through-improved-data-security)
-- [Name That Edge Toon: Spring Chickens](https://www.darkreading.com/edge/name-that-edge-toon-spring-chickens)
-- [PyPI&#39;s 2FA Requirements Don&#39;t Go Far Enough, Researchers Say](https://www.darkreading.com/application-security/pypi-2fa-requirements-dont-go-far-enough)
-- [&#39;PostalFurious&#39; SMS Attacks Target UAE Citizens for Data Theft](https://www.darkreading.com/dr-global/postalfurious-sms-attacks-target-uae-citizens-data-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
