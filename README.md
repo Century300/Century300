@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [After &#39;Inception&#39; Attack, New Due Diligence Requirements Are Needed](https://www.darkreading.com/attacks-breaches/after-inception-attack-new-due-diligence-requirements-are-needed)
 - [PyPI&#39;s 2FA Requirements Don&#39;t Go Far Enough, Researchers Say](https://www.darkreading.com/application-security/pypi-2fa-requirements-dont-go-far-enough)
 - [&#39;PostalFurious&#39; SMS Attacks Target UAE Citizens for Data Theft](https://www.darkreading.com/dr-global/postalfurious-sms-attacks-target-uae-citizens-data-theft)
 - [&#39;Picture-in-Picture&#39; Obfuscation Spoofs Delta, Kohl&#39;s for Credential Harvesting](https://www.darkreading.com/endpoint/picture-in-picture-obfuscation-spoofs-delta-kohls-credential-harvesting)
@@ -83,7 +84,6 @@
 - [Want Sustainable Security? Find Middle Ground Between Tech &amp; Education](https://www.darkreading.com/operations/want-sustainable-security-find-the-middle-ground-between-technology-and-education)
 - [Apple Zero-Days, iMessage Used in 4-Year, Ongoing Spying Effort](https://www.darkreading.com/endpoint/apple-zero-days-imessage-4-year-spying-ios)
 - [How CISOs Can Manage the Intersection of Security, Privacy, And Trust](https://www.darkreading.com/microsoft/how-cisos-can-manage-the-intersection-of-security-privacy-and-trust)
-- [DNB Strengthens its Network Security Posture and Productivity With Ericsson Security Manager Solution](https://www.darkreading.com/operations/dnb-strengthens-its-network-security-posture-and-productivity-with-ericsson-security-manager-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
