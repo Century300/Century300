@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mass Exploitation of Zero-Day Bug in MOVEit File Transfer Underway](https://www.darkreading.com/application-security/mass-exploitation-0-day-bug-imoveit-file-transfer-underway)
 - [After &#39;Inception&#39; Attack, New Due Diligence Requirements Are Needed](https://www.darkreading.com/attacks-breaches/after-inception-attack-new-due-diligence-requirements-are-needed)
 - [PyPI&#39;s 2FA Requirements Don&#39;t Go Far Enough, Researchers Say](https://www.darkreading.com/application-security/pypi-2fa-requirements-dont-go-far-enough)
 - [&#39;PostalFurious&#39; SMS Attacks Target UAE Citizens for Data Theft](https://www.darkreading.com/dr-global/postalfurious-sms-attacks-target-uae-citizens-data-theft)
@@ -83,7 +84,6 @@
 - [Streamers Ditch Netflix for Dark Web After Password Sharing Ban](https://www.darkreading.com/application-security/streamers-netflix-dark-web-password-sharing-ban)
 - [Want Sustainable Security? Find Middle Ground Between Tech &amp; Education](https://www.darkreading.com/operations/want-sustainable-security-find-the-middle-ground-between-technology-and-education)
 - [Apple Zero-Days, iMessage Used in 4-Year, Ongoing Spying Effort](https://www.darkreading.com/endpoint/apple-zero-days-imessage-4-year-spying-ios)
-- [How CISOs Can Manage the Intersection of Security, Privacy, And Trust](https://www.darkreading.com/microsoft/how-cisos-can-manage-the-intersection-of-security-privacy-and-trust)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
