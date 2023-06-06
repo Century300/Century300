@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Filling the Gaps: How to Secure the Future of Hybrid Work](https://www.darkreading.com/operations/filling-the-gaps-how-to-secure-the-future-of-hybrid-work)
 - [US Aerospace Contractor Hacked With &#39;PowerDrop&#39; Backdoor](https://www.darkreading.com/vulnerabilities-threats/us-aerospace-contractor-hacked-powerdrop-backdoor)
 - [ChatGPT Hallucinations Open Developers to Supply Chain Malware Attacks](https://www.darkreading.com/application-security/chatgpt-hallucinations-developers-supply-chain-malware-attacks)
 - [Red Sift Launches Relevance Detection as GPT-4-Powered Asset Discovery and Classification Solution](https://www.darkreading.com/operations/red-sift-launches-relevance-detection-as-gpt-4-powered-asset-discovery-and-classification-solution)
@@ -83,7 +84,6 @@
 - [2.5M Impacted by Enzo Biochem Data Leak After Ransomware Attack](https://www.darkreading.com/attacks-breaches/2-5m-impacted-by-enzo-biochem-data-leak-after-ransomware-attack)
 - [Gigabyte Slams Backdoor Shut With Attack-Killing BIOS Update](https://www.darkreading.com/vulnerabilities-threats/gigabyte-backdoor-attack-killing-bios-update)
 - [Moonlighter Satellite Offers In-Orbit Target for Space Hackers](https://www.darkreading.com/ics-ot/moonlighter-satellite-in-orbit-target-space-hackers)
-- [Don&#39;t Overlook Twitter&#39;s Trove of Threat Intel for Enterprise Cybersecurity](https://www.darkreading.com/threat-intelligence/twitters-trove-threat-intel-enterprise-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
