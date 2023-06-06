@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Verizon DBIR: Social Engineering Breaches Double, Leading to Spiraling Ransomware Costs](https://www.darkreading.com/threat-intelligence/verizon-dbir-social-engineering-breaches-spiraling-ransomware-costs)
+- [Researchers Spot a Different Kind of Magecart Card-Skimming Campaign](https://www.darkreading.com/attacks-breaches/different-kind-magecart-card-skimming-campaign)
 - [Microsoft Preps $425M Payment for LinkedIn GDPR Violations](https://www.darkreading.com/endpoint/microsoft-425m-payment-linkedin-gdpr-violations)
 - [With SEC Rule Changes on the Horizon, Research Reveals Only 14% of CISOs Have Traits Desired for Cyber Expert Board Positions](https://www.darkreading.com/operations/with-sec-rule-changes-on-the-horizon-new-research-reveals-only-14-of-cisos-have-traits-desired-for-cyber-expert-board-positions)
 - [ILTA and Conversant Group Release Cybersecurity Benchmarking Survey of the Legal Industry](https://www.darkreading.com/vulnerabilities-threats/ilta-and-conversant-group-release-cybersecurity-benchmarking-survey-of-the-legal-industry)
 - [Netskope Intelligent SSE Selected by Transdev to Secure and Connect its Hybrid Workforce](https://www.darkreading.com/remote-workforce/netskope-intelligent-sse-selected-by-transdev-to-secure-and-connect-its-hybrid-workforce)
 - [Filling the Gaps: How to Secure the Future of Hybrid Work](https://www.darkreading.com/operations/filling-the-gaps-how-to-secure-the-future-of-hybrid-work)
 - [US Aerospace Contractor Hacked With &#39;PowerDrop&#39; Backdoor](https://www.darkreading.com/vulnerabilities-threats/us-aerospace-contractor-hacked-powerdrop-backdoor)
-- [ChatGPT Hallucinations Open Developers to Supply Chain Malware Attacks](https://www.darkreading.com/application-security/chatgpt-hallucinations-developers-supply-chain-malware-attacks)
-- [Red Sift Launches Relevance Detection as GPT-4-Powered Asset Discovery and Classification Solution](https://www.darkreading.com/operations/red-sift-launches-relevance-detection-as-gpt-4-powered-asset-discovery-and-classification-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
