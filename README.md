@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Hallucinations Open Developers to Supply-Chain Malware Attacks](https://www.darkreading.com/application-security/chatgpt-hallucinations-developers-supply-chain-malware-attacks)
 - [Red Sift Launches Relevance Detection as GPT-4-Powered Asset Discovery and Classification Solution](https://www.darkreading.com/operations/red-sift-launches-relevance-detection-as-gpt-4-powered-asset-discovery-and-classification-solution)
 - [Microsoft Links MOVEit Attack to Cl0p as British Airways, BBC Fall](https://www.darkreading.com/application-security/microsoft-links-moveit-attack-cl0p-british-airways-fall)
 - [2.5M Impacted by Enzo Biochem Data Leak After Ransomware Attack](https://www.darkreading.com/attacks-breaches/2-5m-impacted-by-enzo-biochem-data-leak-after-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Moonlighter Satellite Offers In-Orbit Target for Space Hackers](https://www.darkreading.com/ics-ot/moonlighter-satellite-in-orbit-target-space-hackers)
 - [Don&#39;t Overlook Twitter&#39;s Trove of Threat Intel for Enterprise Cybersecurity](https://www.darkreading.com/threat-intelligence/twitters-trove-threat-intel-enterprise-security)
 - [Mass Exploitation of Zero-Day Bug in MOVEit File Transfer Underway](https://www.darkreading.com/application-security/mass-exploitation-0-day-bug-imoveit-file-transfer-underway)
-- [After &#39;Inception&#39; Attack, New Due Diligence Requirements Are Needed](https://www.darkreading.com/attacks-breaches/after-inception-attack-new-due-diligence-requirements-are-needed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
