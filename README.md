@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Netskope Intelligent SSE Selected by Transdev to Secure and Connect its Hybrid Workforce](https://www.darkreading.com/remote-workforce/netskope-intelligent-sse-selected-by-transdev-to-secure-and-connect-its-hybrid-workforce)
 - [Filling the Gaps: How to Secure the Future of Hybrid Work](https://www.darkreading.com/operations/filling-the-gaps-how-to-secure-the-future-of-hybrid-work)
 - [US Aerospace Contractor Hacked With &#39;PowerDrop&#39; Backdoor](https://www.darkreading.com/vulnerabilities-threats/us-aerospace-contractor-hacked-powerdrop-backdoor)
 - [ChatGPT Hallucinations Open Developers to Supply Chain Malware Attacks](https://www.darkreading.com/application-security/chatgpt-hallucinations-developers-supply-chain-malware-attacks)
@@ -83,7 +84,6 @@
 - [Microsoft Links MOVEit Attack to Cl0p as British Airways, BBC Fall](https://www.darkreading.com/application-security/microsoft-links-moveit-attack-cl0p-british-airways-fall)
 - [2.5M Impacted by Enzo Biochem Data Leak After Ransomware Attack](https://www.darkreading.com/attacks-breaches/2-5m-impacted-by-enzo-biochem-data-leak-after-ransomware-attack)
 - [Gigabyte Slams Backdoor Shut With Attack-Killing BIOS Update](https://www.darkreading.com/vulnerabilities-threats/gigabyte-backdoor-attack-killing-bios-update)
-- [Moonlighter Satellite Offers In-Orbit Target for Space Hackers](https://www.darkreading.com/ics-ot/moonlighter-satellite-in-orbit-target-space-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
