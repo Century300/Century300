@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cl0p Claims the MOVEit Attack; Here&#39;s How The Gang Did It](https://www.darkreading.com/attacks-breaches/cl0p-claims-moveit-attack-how-gang-did-it)
+- [Defenders Buckle Up for a Future of Detecting Deepfakes](https://www.darkreading.com/the-cyber-future/defenders-buckle-up-future-detecting-deepfakes)
 - [Microsoft Fined $20M For Xbox Child Data Collection](https://www.darkreading.com/risk/microsoft-fined-20m-xbox-child-data-collection)
 - [Cyber Essentialism &amp; &#39;Doing Less With Less&#39;](https://www.darkreading.com/vulnerabilities-threats/cyber-essentialism-doing-less-with-less)
 - [FBI: Sextortionist Campaigns Use Deepfakes to Target Children, Adults](https://www.darkreading.com/attacks-breaches/fbi-sextortionist-campaigns-deepfakes-children-adults)
 - [The Case for a Federal Cyber-Insurance Backstop](https://www.darkreading.com/operations/the-case-for-a-federal-cyber-insurance-backstop)
 - [Cisco Touts New AI-Based Security, SSE Features](https://www.darkreading.com/dr-tech/cisco-touts-new-ai-based-security-sse-features)
 - [The Key to Zero Trust Identity Is Automation](https://www.darkreading.com/cloud/the-key-to-zero-trust-identity-is-automation)
-- [Verizon DBIR: Social Engineering Breaches Double, Leading to Spiraling Ransomware Costs](https://www.darkreading.com/threat-intelligence/verizon-dbir-social-engineering-breaches-spiraling-ransomware-costs)
-- [Researchers Spot a Different Kind of Magecart Card-Skimming Campaign](https://www.darkreading.com/attacks-breaches/different-kind-magecart-card-skimming-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
