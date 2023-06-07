@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Fined $20M For Xbox Child Data Collection](https://www.darkreading.com/risk/microsoft-fined-20m-xbox-child-data-collection)
 - [Cyber Essentialism &amp; &#39;Doing Less With Less&#39;](https://www.darkreading.com/vulnerabilities-threats/cyber-essentialism-doing-less-with-less)
 - [FBI: Sextortionist Campaigns Use Deepfakes to Target Children, Adults](https://www.darkreading.com/attacks-breaches/fbi-sextortionist-campaigns-deepfakes-children-adults)
 - [The Case for a Federal Cyber-Insurance Backstop](https://www.darkreading.com/operations/the-case-for-a-federal-cyber-insurance-backstop)
@@ -83,7 +84,6 @@
 - [The Key to Zero Trust Identity Is Automation](https://www.darkreading.com/cloud/the-key-to-zero-trust-identity-is-automation)
 - [Verizon DBIR: Social Engineering Breaches Double, Leading to Spiraling Ransomware Costs](https://www.darkreading.com/threat-intelligence/verizon-dbir-social-engineering-breaches-spiraling-ransomware-costs)
 - [Researchers Spot a Different Kind of Magecart Card-Skimming Campaign](https://www.darkreading.com/attacks-breaches/different-kind-magecart-card-skimming-campaign)
-- [Microsoft Preps $425M Payment for LinkedIn GDPR Violations](https://www.darkreading.com/endpoint/microsoft-425m-payment-linkedin-gdpr-violations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
