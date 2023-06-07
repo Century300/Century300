@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cl0p Claims the MOVEit Attack; Here&#39;s How The Gang Did It](https://www.darkreading.com/attacks-breaches/cl0p-claims-moveit-attack-how-gang-did-it)
+- [BeyondID Launches Initiative to Accelerate Zero Trust With Okta Identity Engine](https://www.darkreading.com/endpoint/beyondid-launches-initiative-to-accelerate-zero-trust-with-okta-identity-engine)
+- [Radiflow&#39;s CIARA 4.0 Delivers Actionable Insights to Simplify the Management of OT Cyber-Risk at Industrial Facilities](https://www.darkreading.com/ics-ot/radiflow-s-ciara-4-0-delivers-actionable-insights-to-simplify-the-management-of-ot-cyber-risk-at-industrial-facilities)
+- [Minecraft Malware Spreading Through Mods, Plug-ins](https://www.darkreading.com/application-security/minecraft-malware-spreading-mods-plugins)
+- [Cl0p Claims the MOVEit Attack; Here&#39;s How the Gang Did It](https://www.darkreading.com/attacks-breaches/cl0p-claims-moveit-attack-how-gang-did-it)
 - [Defenders Buckle Up for a Future of Detecting Deepfakes](https://www.darkreading.com/the-cyber-future/defenders-buckle-up-future-detecting-deepfakes)
+- [Cl0p Cybercrime Gang Delivers Ultimatum After Payroll Breach](https://www.darkreading.com/ics-ot/clop-cybercrime-gang-delivers-ultimatum-after-payroll-breach)
 - [Microsoft Fined $20M For Xbox Child Data Collection](https://www.darkreading.com/risk/microsoft-fined-20m-xbox-child-data-collection)
 - [Cyber Essentialism &amp; &#39;Doing Less With Less&#39;](https://www.darkreading.com/vulnerabilities-threats/cyber-essentialism-doing-less-with-less)
-- [FBI: Sextortionist Campaigns Use Deepfakes to Target Children, Adults](https://www.darkreading.com/attacks-breaches/fbi-sextortionist-campaigns-deepfakes-children-adults)
-- [The Case for a Federal Cyber-Insurance Backstop](https://www.darkreading.com/operations/the-case-for-a-federal-cyber-insurance-backstop)
-- [Cisco Touts New AI-Based Security, SSE Features](https://www.darkreading.com/dr-tech/cisco-touts-new-ai-based-security-sse-features)
-- [The Key to Zero Trust Identity Is Automation](https://www.darkreading.com/cloud/the-key-to-zero-trust-identity-is-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
