@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: Sextortionist Campaigns Use Deepfakes to Target Children, Adults](https://www.darkreading.com/attacks-breaches/fbi-sextortionist-campaigns-deepfakes-children-adults)
 - [The Case for a Federal Cyber-Insurance Backstop](https://www.darkreading.com/operations/the-case-for-a-federal-cyber-insurance-backstop)
 - [Cisco Touts New AI-Based Security, SSE Features](https://www.darkreading.com/dr-tech/cisco-touts-new-ai-based-security-sse-features)
 - [Verizon DBIR: Social Engineering Breaches Double, Leading to Spiraling Ransomware Costs](https://www.darkreading.com/threat-intelligence/verizon-dbir-social-engineering-breaches-spiraling-ransomware-costs)
@@ -83,7 +84,6 @@
 - [Microsoft Preps $425M Payment for LinkedIn GDPR Violations](https://www.darkreading.com/endpoint/microsoft-425m-payment-linkedin-gdpr-violations)
 - [With SEC Rule Changes on the Horizon, Research Reveals Only 14% of CISOs Have Traits Desired for Cyber Expert Board Positions](https://www.darkreading.com/operations/with-sec-rule-changes-on-the-horizon-new-research-reveals-only-14-of-cisos-have-traits-desired-for-cyber-expert-board-positions)
 - [ILTA and Conversant Group Release Cybersecurity Benchmarking Survey of the Legal Industry](https://www.darkreading.com/vulnerabilities-threats/ilta-and-conversant-group-release-cybersecurity-benchmarking-survey-of-the-legal-industry)
-- [Netskope Intelligent SSE Selected by Transdev to Secure and Connect its Hybrid Workforce](https://www.darkreading.com/remote-workforce/netskope-intelligent-sse-selected-by-transdev-to-secure-and-connect-its-hybrid-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
