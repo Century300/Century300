@@ -80,10 +80,10 @@
 - [FBI: Sextortionist Campaigns Use Deepfakes to Target Children, Adults](https://www.darkreading.com/attacks-breaches/fbi-sextortionist-campaigns-deepfakes-children-adults)
 - [The Case for a Federal Cyber-Insurance Backstop](https://www.darkreading.com/operations/the-case-for-a-federal-cyber-insurance-backstop)
 - [Cisco Touts New AI-Based Security, SSE Features](https://www.darkreading.com/dr-tech/cisco-touts-new-ai-based-security-sse-features)
+- [The Key to Zero Trust Identity Is Automation](https://www.darkreading.com/cloud/the-key-to-zero-trust-identity-is-automation)
 - [Verizon DBIR: Social Engineering Breaches Double, Leading to Spiraling Ransomware Costs](https://www.darkreading.com/threat-intelligence/verizon-dbir-social-engineering-breaches-spiraling-ransomware-costs)
 - [Researchers Spot a Different Kind of Magecart Card-Skimming Campaign](https://www.darkreading.com/attacks-breaches/different-kind-magecart-card-skimming-campaign)
 - [Microsoft Preps $425M Payment for LinkedIn GDPR Violations](https://www.darkreading.com/endpoint/microsoft-425m-payment-linkedin-gdpr-violations)
-- [With SEC Rule Changes on the Horizon, Research Reveals Only 14% of CISOs Have Traits Desired for Cyber Expert Board Positions](https://www.darkreading.com/operations/with-sec-rule-changes-on-the-horizon-new-research-reveals-only-14-of-cisos-have-traits-desired-for-cyber-expert-board-positions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
