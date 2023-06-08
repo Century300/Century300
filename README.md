@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [City of Dallas Still Clawing Back Weeks After Cyber Incident](https://www.darkreading.com/ics-ot/city-of-dallas-clawing-back-to-recovery-following-cyber-incident)
+- [Cybersecurity Institute to Open in Saudi Arabia](https://www.darkreading.com/dr-global/cybersecurity-institute-set-for-saudi-arabia)
 - [Barracuda Warns All ESG Appliances Need Urgent Rip &amp; Replace](https://www.darkreading.com/attacks-breaches/barracuda-warns-all-esg-appliances-need-urgent-rip-and-replace-)
 - [The Growing Cyber Threats of Generative AI: Who&#39;s Accountable?](https://www.darkreading.com/vulnerabilities-threats/growing-cyber-threats-of-generative-ai-who-is-accountable)
 - [Sophisticated &#39;Impulse Project&#39; Crypto Scam Sprawls With 1,000 Affiliate Sites](https://www.darkreading.com/attacks-breaches/sophisticated-crypto-scam-sprawls-1000-affiliate-sites)
 - [Fighting AI-Powered Fraud: Let the Battle of the Machines Begin](https://www.darkreading.com/vulnerabilities-threats/fighting-ai-powered-fraud-let-the-battle-of-the-machines-begin)
 - [Easily Exploitable Microsoft Visual Studio Bug Opens Developers to Takeover](https://www.darkreading.com/application-security/researchers-warn-of-easily-exploitable-spoofing-bug-in-visual-studio)
 - [60K+ Android Apps Have Delivered Adware Undetected for Months](https://www.darkreading.com/application-security/60k-android-apps-adware-undetected-months)
-- [BioCatch Strengthens Collaboration With Microsoft Cloud for Financial Services](https://www.darkreading.com/operations/biocatch-strengthens-collaboration-with-microsoft-cloud-for-financial-services)
-- [BeyondID Launches Initiative to Accelerate Zero Trust With Okta Identity Engine](https://www.darkreading.com/endpoint/beyondid-launches-initiative-to-accelerate-zero-trust-with-okta-identity-engine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
