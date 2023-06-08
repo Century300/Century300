@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Barracuda Warns All ESG Appliances Need Urgent Rip &amp; Replace](https://www.darkreading.com/attacks-breaches/barracuda-warns-all-esg-appliances-need-urgent-rip-and-replace-)
 - [The Growing Cyber Threats of Generative AI: Who&#39;s Accountable?](https://www.darkreading.com/vulnerabilities-threats/growing-cyber-threats-of-generative-ai-who-is-accountable)
 - [Sophisticated &#39;Impulse Project&#39; Crypto Scam Sprawls With 1,000 Affiliate Sites](https://www.darkreading.com/attacks-breaches/sophisticated-crypto-scam-sprawls-1000-affiliate-sites)
 - [Fighting AI-Powered Fraud: Let the Battle of the Machines Begin](https://www.darkreading.com/vulnerabilities-threats/fighting-ai-powered-fraud-let-the-battle-of-the-machines-begin)
@@ -83,7 +84,6 @@
 - [60K+ Android Apps Have Delivered Adware Undetected for Months](https://www.darkreading.com/application-security/60k-android-apps-adware-undetected-months)
 - [BioCatch Strengthens Collaboration With Microsoft Cloud for Financial Services](https://www.darkreading.com/operations/biocatch-strengthens-collaboration-with-microsoft-cloud-for-financial-services)
 - [BeyondID Launches Initiative to Accelerate Zero Trust With Okta Identity Engine](https://www.darkreading.com/endpoint/beyondid-launches-initiative-to-accelerate-zero-trust-with-okta-identity-engine)
-- [Radiflow&#39;s CIARA 4.0 Delivers Actionable Insights to Simplify the Management of OT Cyber-Risk at Industrial Facilities](https://www.darkreading.com/ics-ot/radiflow-s-ciara-4-0-delivers-actionable-insights-to-simplify-the-management-of-ot-cyber-risk-at-industrial-facilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
