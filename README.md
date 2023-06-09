@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Tips for Modernizing Your Security Operations Center Strategy](https://www.darkreading.com/vulnerabilities-threats/5-tips-for-modernizing-your-security-operations-center-strategy)
+- [How Continuous Monitoring and Threat Intel Can Help Prevent Ransomware](https://www.darkreading.com/microsoft/how-continuous-monitoring-and-threat-intel-can-help-prevent-ransomware)
 - [City of Dallas Still Clawing Back Weeks After Cyber Incident](https://www.darkreading.com/ics-ot/city-of-dallas-clawing-back-to-recovery-following-cyber-incident)
 - [QuSecure Awarded US Army Contract for Post-Quantum Cybersecurity Solutions](https://www.darkreading.com/risk/qusecure-awarded-us-army-contract-for-post-quantum-cybersecurity-solutions)
 - [Cybercrooks Scrape OpenAI API Keys to Pirate GPT-4](https://www.darkreading.com/application-security/cybercrooks-scrape-openai-keys-pirate-gpt-4)
 - [Cybersecurity Institute to Open in Saudi Arabia](https://www.darkreading.com/dr-global/cybersecurity-institute-set-for-saudi-arabia)
 - [Barracuda Warns All ESG Appliances Need Urgent Rip &amp; Replace](https://www.darkreading.com/attacks-breaches/barracuda-warns-all-esg-appliances-need-urgent-rip-and-replace-)
 - [The Growing Cyber Threats of Generative AI: Who&#39;s Accountable?](https://www.darkreading.com/vulnerabilities-threats/growing-cyber-threats-of-generative-ai-who-is-accountable)
-- [Sophisticated &#39;Impulse Project&#39; Crypto Scam Sprawls With 1,000 Affiliate Sites](https://www.darkreading.com/attacks-breaches/sophisticated-crypto-scam-sprawls-1000-affiliate-sites)
-- [Fighting AI-Powered Fraud: Let the Battle of the Machines Begin](https://www.darkreading.com/vulnerabilities-threats/fighting-ai-powered-fraud-let-the-battle-of-the-machines-begin)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
