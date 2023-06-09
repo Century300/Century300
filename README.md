@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [DOS Attacks Dominate, But System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
+- [DOS Attacks Dominate, but System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
 - [Brand-New Security Bugs Affect All MOVEit Transfer Versions](https://www.darkreading.com/vulnerabilities-threats/brand-new-security-bugs-affect-all-moveit-transfer-versions)
 - [&#39;Asylum Ambuscade&#39; Cyberattackers Blend Financial Heists &amp; Cyber Espionage](https://www.darkreading.com/threat-intelligence/asylum-ambuscade-cyberattackers-financial-cyber-espionage)
 - [3 Elite Communication Skills to Help Security Pros Get Projects Funded](https://www.darkreading.com/edge/3-elite-communication-skills-to-help-security-pros-get-projects-funded)
