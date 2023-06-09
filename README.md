@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DOS Attacks Dominate, But System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
+- [Brand-New Security Bugs Affect All MOVEit Transfer Versions](https://www.darkreading.com/vulnerabilities-threats/brand-new-security-bugs-affect-all-moveit-transfer-versions)
+- [&#39;Asylum Ambuscade&#39; Cyberattackers Blend Financial Heists &amp; Cyber Espionage](https://www.darkreading.com/threat-intelligence/asylum-ambuscade-cyberattackers-financial-cyber-espionage)
 - [3 Elite Communication Skills to Help Security Pros Get Projects Funded](https://www.darkreading.com/edge/3-elite-communication-skills-to-help-security-pros-get-projects-funded)
 - [Cl0P Gang Sat on Exploit for MOVEit Flaw for Nearly 2 Years](https://www.darkreading.com/attacks-breaches/cl0p-gang-exploit-moveit-flaw-2-years)
 - [South African Female Students Offered Cyber Scholarship](https://www.darkreading.com/dr-global/south-african-female-students-cyber-scholarships)
 - [5 Tips for Modernizing Your Security Operations Center Strategy](https://www.darkreading.com/vulnerabilities-threats/5-tips-for-modernizing-your-security-operations-center-strategy)
 - [How Continuous Monitoring and Threat Intel Can Help Prevent Ransomware](https://www.darkreading.com/microsoft/how-continuous-monitoring-and-threat-intel-can-help-prevent-ransomware)
-- [City of Dallas Still Clawing Back Weeks After Cyber Incident](https://www.darkreading.com/ics-ot/city-of-dallas-clawing-back-to-recovery-following-cyber-incident)
-- [QuSecure Awarded US Army Contract for Post-Quantum Cybersecurity Solutions](https://www.darkreading.com/risk/qusecure-awarded-us-army-contract-for-post-quantum-cybersecurity-solutions)
-- [Cybercrooks Scrape OpenAI API Keys to Pirate GPT-4](https://www.darkreading.com/application-security/cybercrooks-scrape-openai-keys-pirate-gpt-4)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
