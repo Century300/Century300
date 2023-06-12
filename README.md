@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Use of Multi-Factor Authentication &lpar;MFA&rpar; Nearly Doubles Since 2020, New Okta Secure Sign-In Trends Reports Finds](https://www.darkreading.com/endpoint/use-of-multi-factor-authentication-mfa-nearly-doubles-since-2020-new-okta-secure-sign-in-trends-reports-finds)
 - [RomCom Threat Actor Targets Ukrainian Politicians, US Healthcare](https://www.darkreading.com/threat-intelligence/romcom-threat-actor-targets-ukrainian-politicians-us-healthcare)
 - [10 Important Security Tasks You Shouldn&#39;t Skip](https://www.darkreading.com/edge/10-important-security-tasks-you-shouldn-t-skip)
 - [&#39;Stealth Soldier&#39; Attacks Target Libyan Government Entities With Surveillance Malware](https://www.darkreading.com/dr-global/syealth-soldier-attacks-target-libyan-government-entities-surveillance-malware)
@@ -83,7 +84,6 @@
 - [Doing Less With Less: Focusing on Value](https://www.darkreading.com/vulnerabilities-threats/doing-less-with-less-focusing-on-value)
 - [Passkeys See Fresh Momentum With New Pilot Programs](https://www.darkreading.com/dr-tech/apple-and-google-expand-support-for-passkeys)
 - [DOS Attacks Dominate, but System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
-- [Brand-New Security Bugs Affect All MOVEit Transfer Versions](https://www.darkreading.com/vulnerabilities-threats/brand-new-security-bugs-affect-all-moveit-transfer-versions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
