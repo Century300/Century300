@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Report First Instance of Automated SaaS Ransomware Extortion](https://www.darkreading.com/cloud/researchers-report-first-instance-of-automated-saas-ransomware-extortion)
+- [New Loader Delivering Spyware via Image Steals Cryptocurrency Info](https://www.darkreading.com/attacks-breaches/new-loader-delivering-spyware-via-image-steals-cryptocurrency-info)
 - [Use of Multifactor Authentication &lpar;MFA&rpar; Nearly Doubles Since 2020, Okta Secure Sign-in Trends Reports Finds](https://www.darkreading.com/endpoint/use-of-multi-factor-authentication-mfa-nearly-doubles-since-2020-new-okta-secure-sign-in-trends-reports-finds)
 - [RomCom Threat Actor Targets Ukrainian Politicians, US Healthcare](https://www.darkreading.com/threat-intelligence/romcom-threat-actor-targets-ukrainian-politicians-us-healthcare)
 - [10 Important Security Tasks You Shouldn&#39;t Skip](https://www.darkreading.com/edge/10-important-security-tasks-you-shouldn-t-skip)
 - [&#39;Stealth Soldier&#39; Attacks Target Libyan Government Entities With Surveillance Malware](https://www.darkreading.com/dr-global/syealth-soldier-attacks-target-libyan-government-entities-surveillance-malware)
 - [Supply Chain Attack Defense Demands Mature Threat Hunting](https://www.darkreading.com/threat-intelligence/supply-chain-attack-defense-threat-hunting-monitoring)
 - [Doing Less With Less: Focusing on Value](https://www.darkreading.com/vulnerabilities-threats/doing-less-with-less-focusing-on-value)
-- [Passkeys See Fresh Momentum With New Pilot Programs](https://www.darkreading.com/dr-tech/apple-and-google-expand-support-for-passkeys)
-- [DOS Attacks Dominate, but System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
