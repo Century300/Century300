@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Use of Multi-Factor Authentication &lpar;MFA&rpar; Nearly Doubles Since 2020, New Okta Secure Sign-In Trends Reports Finds](https://www.darkreading.com/endpoint/use-of-multi-factor-authentication-mfa-nearly-doubles-since-2020-new-okta-secure-sign-in-trends-reports-finds)
+- [Use of Multifactor Authentication &lpar;MFA&rpar; Nearly Doubles Since 2020, Okta Secure Sign-in Trends Reports Finds](https://www.darkreading.com/endpoint/use-of-multi-factor-authentication-mfa-nearly-doubles-since-2020-new-okta-secure-sign-in-trends-reports-finds)
 - [RomCom Threat Actor Targets Ukrainian Politicians, US Healthcare](https://www.darkreading.com/threat-intelligence/romcom-threat-actor-targets-ukrainian-politicians-us-healthcare)
 - [10 Important Security Tasks You Shouldn&#39;t Skip](https://www.darkreading.com/edge/10-important-security-tasks-you-shouldn-t-skip)
 - [&#39;Stealth Soldier&#39; Attacks Target Libyan Government Entities With Surveillance Malware](https://www.darkreading.com/dr-global/syealth-soldier-attacks-target-libyan-government-entities-surveillance-malware)
