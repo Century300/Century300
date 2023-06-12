@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RomCom Threat Actor Targets Ukrainian Politicians, US Healthcare](https://www.darkreading.com/threat-intelligence/romcom-threat-actor-targets-ukrainian-politicians-us-healthcare)
+- [10 Important Security Tasks You Shouldn&#39;t Skip](https://www.darkreading.com/edge/10-important-security-tasks-you-shouldn-t-skip)
 - [&#39;Stealth Soldier&#39; Attacks Target Libyan Government Entities With Surveillance Malware](https://www.darkreading.com/dr-global/syealth-soldier-attacks-target-libyan-government-entities-surveillance-malware)
 - [Supply Chain Attack Defense Demands Mature Threat Hunting](https://www.darkreading.com/threat-intelligence/supply-chain-attack-defense-threat-hunting-monitoring)
 - [Doing Less With Less: Focusing on Value](https://www.darkreading.com/vulnerabilities-threats/doing-less-with-less-focusing-on-value)
 - [Passkeys See Fresh Momentum With New Pilot Programs](https://www.darkreading.com/dr-tech/apple-and-google-expand-support-for-passkeys)
 - [DOS Attacks Dominate, but System Intrusions Cause Most Pain](https://www.darkreading.com/attacks-breaches/dos-attacks-dominate-but-system-intrusions-cause-most-pain)
 - [Brand-New Security Bugs Affect All MOVEit Transfer Versions](https://www.darkreading.com/vulnerabilities-threats/brand-new-security-bugs-affect-all-moveit-transfer-versions)
-- [&#39;Asylum Ambuscade&#39; Cyberattackers Blend Financial Heists &amp; Cyber Espionage](https://www.darkreading.com/threat-intelligence/asylum-ambuscade-cyberattackers-financial-cyber-espionage)
-- [3 Elite Communication Skills to Help Security Pros Get Projects Funded](https://www.darkreading.com/edge/3-elite-communication-skills-to-help-security-pros-get-projects-funded)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
