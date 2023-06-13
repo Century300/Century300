@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Security Leaders Should Approach Cybersecurity Startups](https://www.darkreading.com/operations/how-security-leaders-should-approach-cybersecurity-startups)
 - [Why Critical Infrastructure Remains a Ransomware Target](https://www.darkreading.com/vulnerabilities-threats/why-critical-infrastructure-remains-a-ransomware-target)
 - [Researchers Report First Instance of Automated SaaS Ransomware Extortion](https://www.darkreading.com/cloud/researchers-report-first-instance-of-automated-saas-ransomware-extortion)
 - [New Loader Delivering Spyware via Image Steals Cryptocurrency Info](https://www.darkreading.com/attacks-breaches/new-loader-delivering-spyware-via-image-steals-cryptocurrency-info)
@@ -83,7 +84,6 @@
 - [RomCom Threat Actor Targets Ukrainian Politicians, US Healthcare](https://www.darkreading.com/threat-intelligence/romcom-threat-actor-targets-ukrainian-politicians-us-healthcare)
 - [10 Important Security Tasks You Shouldn&#39;t Skip](https://www.darkreading.com/edge/10-important-security-tasks-you-shouldn-t-skip)
 - [&#39;Stealth Soldier&#39; Attacks Target Libyan Government Entities With Surveillance Malware](https://www.darkreading.com/dr-global/syealth-soldier-attacks-target-libyan-government-entities-surveillance-malware)
-- [Supply Chain Attack Defense Demands Mature Threat Hunting](https://www.darkreading.com/threat-intelligence/supply-chain-attack-defense-threat-hunting-monitoring)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
