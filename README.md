@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cycode Launches CI/CD Pipeline Monitoring Solution &lpar;Cimon&rpar; to Prevent Supply Chain Attacks](https://www.darkreading.com/application-security/cycode-launches-ci-cd-pipeline-monitoring-solution-cimon-to-prevent-supply-chain-attacks)
 - [Analysis: Social Engineering Drives BEC Losses to $50B Globally](https://www.darkreading.com/threat-intelligence/social-engineering-drives-bec-losses-to-50b-globally)
+- [Chinese Threat Actor Abused ESXi Zero-Day to Pilfer Files From Guest VMs](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-abused-esxi-zero-day-pilfer-files-guest-vms)
 - [Popular Apparel, Clothing Brands Being Used in Massive Phishing Scam](https://www.darkreading.com/risk/popular-apparel-clothing-brands-being-used-massive-phishing-scam)
 - [Harness the Power of PKI to Battle Data Breaches](https://www.darkreading.com/cloud/harness-the-power-of-pki-to-battle-data-breaches)
 - [How Security Leaders Should Approach Cybersecurity Startups](https://www.darkreading.com/operations/how-security-leaders-should-approach-cybersecurity-startups)
 - [Why Critical Infrastructure Remains a Ransomware Target](https://www.darkreading.com/vulnerabilities-threats/why-critical-infrastructure-remains-a-ransomware-target)
 - [Researchers Report First Instance of Automated SaaS Ransomware Extortion](https://www.darkreading.com/cloud/researchers-report-first-instance-of-automated-saas-ransomware-extortion)
-- [New Loader Delivering Spyware via Image Steals Cryptocurrency Info](https://www.darkreading.com/attacks-breaches/new-loader-delivering-spyware-via-image-steals-cryptocurrency-info)
-- [Use of Multifactor Authentication &lpar;MFA&rpar; Nearly Doubles Since 2020, Okta Secure Sign-in Trends Reports Finds](https://www.darkreading.com/endpoint/use-of-multi-factor-authentication-mfa-nearly-doubles-since-2020-new-okta-secure-sign-in-trends-reports-finds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
