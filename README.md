@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [XSS Vulnerabilities Found in Microsoft Azure Cloud Services](https://www.darkreading.com/application-security/xss-vulnerabilities-microsoft-azure-cloud)
 - [Moving the Cyber Industry Forward Requires a Novel Approach](https://www.darkreading.com/vulnerabilities-threats/moving-the-cyber-industry-forward-requires-a-novel-approach)
 - [Why Your SEG Could Be Your Email Security Achilles&#39; Heel](https://www.darkreading.com/attacks-breaches/why-your-seg-could-be-your-email-security-achilles-heel-)
 - [Fortinet: Patched Critical Flaw May Have Been Exploited](https://www.darkreading.com/vulnerabilities-threats/fortinet-patched-critical-flaw-may-have-been-exploited)
@@ -83,7 +84,6 @@
 - [Insights Into Nation-State Tactics: Lessons From Russia&#39;s Hybrid War In Ukraine](https://www.darkreading.com/microsoft/insights-into-nation-state-tactics-lessons-from-russia-s-hybrid-war-in-ukraine)
 - [Microsoft Fixes 69 Bugs, but None Are Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-69-bugs-but-none-are-zero-days)
 - [Cycode Launches CI/CD Pipeline Monitoring Solution &lpar;Cimon&rpar; to Prevent Supply Chain Attacks](https://www.darkreading.com/application-security/cycode-launches-ci-cd-pipeline-monitoring-solution-cimon-to-prevent-supply-chain-attacks)
-- [Analysis: Social Engineering Drives BEC Losses to $50B Globally](https://www.darkreading.com/threat-intelligence/social-engineering-drives-bec-losses-to-50b-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
