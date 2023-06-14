@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Popular Messaging Tools Instill a False Sense of Security](https://www.darkreading.com/cloud/how-popular-messaging-tools-instill-a-false-sense-of-security)
+- [Insights Into Nation-State Tactics: Lessons From Russia&#39;s Hybrid War In Ukraine](https://www.darkreading.com/microsoft/insights-into-nation-state-tactics-lessons-from-russia-s-hybrid-war-in-ukraine)
 - [Microsoft Fixes 69 Bugs, but None Are Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-fixes-69-bugs-but-none-are-zero-days)
 - [Cycode Launches CI/CD Pipeline Monitoring Solution &lpar;Cimon&rpar; to Prevent Supply Chain Attacks](https://www.darkreading.com/application-security/cycode-launches-ci-cd-pipeline-monitoring-solution-cimon-to-prevent-supply-chain-attacks)
 - [Analysis: Social Engineering Drives BEC Losses to $50B Globally](https://www.darkreading.com/threat-intelligence/social-engineering-drives-bec-losses-to-50b-globally)
 - [Chinese Threat Actor Abused ESXi Zero-Day to Pilfer Files From Guest VMs](https://www.darkreading.com/attacks-breaches/chinese-threat-actor-abused-esxi-zero-day-pilfer-files-guest-vms)
 - [Popular Apparel, Clothing Brands Being Used in Massive Phishing Scam](https://www.darkreading.com/risk/popular-apparel-clothing-brands-being-used-massive-phishing-scam)
 - [Harness the Power of PKI to Battle Data Breaches](https://www.darkreading.com/cloud/harness-the-power-of-pki-to-battle-data-breaches)
-- [How Security Leaders Should Approach Cybersecurity Startups](https://www.darkreading.com/operations/how-security-leaders-should-approach-cybersecurity-startups)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
