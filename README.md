@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Coalition Releases Security Vulnerability Exploit Scoring System](https://www.darkreading.com/risk/coalition-releases-security-vulnerability-exploit-scoring-system)
+- [Keytos Uncovers 15,000 Vulnerable Subdomains per Month in Azure Using Cryptographic Certificates](https://www.darkreading.com/analytics/keytos-uncovers-15-000-vulnerable-subdomains-per-month-in-azure-using-cryptographic-certificates)
+- [Action1 Announces $20M Investment in Its Patch Management Platform](https://www.darkreading.com/endpoint/action1-announces-20m-investment-in-its-patch-management-platform)
+- [LockBit Affiliate Arrested, as Extortion Totals Reach $91M Since 2020](https://www.darkreading.com/risk/lockbit-affiliate-arrested-extortion-totals-91m)
+- [Thales Proposes to Acquire Tesserent, Expanding its Global Cybersecurity Leadership](https://www.darkreading.com/operations/thales-proposes-to-acquire-tesserent-expanding-its-global-cybersecurity-leadership)
+- [Vulcan Cyber Is a Launch Partner for Wiz Integrations &lpar;WIN&rpar; Platform](https://www.darkreading.com/risk/vulcan-cyber-is-a-launch-partner-for-wiz-integrations-win-platform)
+- [Critical Barracuda ESG Zero-Day Linked to Novel Chinese APT](https://www.darkreading.com/attacks-breaches/critical-barracuda-esg-zero-day-chinese-apt)
 - [Free Training&#39;s Role in Cybersecurity](https://www.darkreading.com/omdia/free-training-role-in-cybersecurity)
-- [Angola Marks Technology Advancements With Cybersecurity Academy Plans](https://www.darkreading.com/dr-global/angola-marks-technology-advancements-with-cybersecurity-academy-plans)
-- [&#39;Shampoo&#39; ChromeLoader Variant Difficult to Wash Out](https://www.darkreading.com/endpoint/-shampoo-chromeloader-variant-difficult-wash-out)
-- [Borderless Data vs. Data Sovereignty: Can They Co-Exist?](https://www.darkreading.com/vulnerabilities-threats/borderless-data-vs-data-sovereignty-can-they-co-exist-)
-- [Network-Security Testing Standard Nears Prime Time](https://www.darkreading.com/dr-tech/network-security-testing-standard-nears-prime-time)
-- [Cryptocurrency Attacks Quadrupled as Cybercriminals Cash In](https://www.darkreading.com/edge/cryptocurrency-attacks-quadrupled-cybercriminals-cash-in)
-- [Russian APT &#39;Cadet Blizzard&#39; Behind Ukraine Wiper Attacks](https://www.darkreading.com/threat-intelligence/russian-apt-cadet-blizzard-ukraine-wiper-attacks)
-- [Illinois Hospital Closure Showcases Ransomware&#39;s Existential Threat](https://www.darkreading.com/attacks-breaches/illinois-hospital-closure-ransomware-existential-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
