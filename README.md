@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Angola Marks Technology Advancements With Cybersecurity Academy Plans](https://www.darkreading.com/dr-global/angola-marks-technology-advancements-with-cybersecurity-academy-plans)
 - [&#39;Shampoo&#39; ChromeLoader Variant Difficult to Wash Out](https://www.darkreading.com/endpoint/-shampoo-chromeloader-variant-difficult-wash-out)
 - [Borderless Data vs. Data Sovereignty: Can They Co-Exist?](https://www.darkreading.com/vulnerabilities-threats/borderless-data-vs-data-sovereignty-can-they-co-exist-)
 - [Network-Security Testing Standard Nears Prime Time](https://www.darkreading.com/dr-tech/network-security-testing-standard-nears-prime-time)
@@ -83,7 +84,6 @@
 - [Russian APT &#39;Cadet Blizzard&#39; Behind Ukraine Wiper Attacks](https://www.darkreading.com/threat-intelligence/russian-apt-cadet-blizzard-ukraine-wiper-attacks)
 - [Illinois Hospital Closure Showcases Ransomware&#39;s Existential Threat](https://www.darkreading.com/attacks-breaches/illinois-hospital-closure-ransomware-existential-threat)
 - [XSS Vulnerabilities Found in Microsoft Azure Cloud Services](https://www.darkreading.com/application-security/xss-vulnerabilities-microsoft-azure-cloud)
-- [Moving the Cyber Industry Forward Requires a Novel Approach](https://www.darkreading.com/vulnerabilities-threats/moving-the-cyber-industry-forward-requires-a-novel-approach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
