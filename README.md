@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercrime Doesn&#39;t Take a Vacation](https://www.darkreading.com/vulnerabilities-threats/cybercrime-doesnt-take-a-vacation)
 - [HashiCorp Expands PAM, Secrets Management Capabilities](https://www.darkreading.com/dr-tech/hashicorp-expands-pam-secrets-management-capabilities)
 - [How Do I Protect My API Keys From Appearing in Search Results?](https://www.darkreading.com/edge/how-do-i-protect-my-api-keys-from-appearing-in-github-search-results-)
 - [Coalition Releases Security Vulnerability Exploit Scoring System](https://www.darkreading.com/risk/coalition-releases-security-vulnerability-exploit-scoring-system)
@@ -83,7 +84,6 @@
 - [Action1 Announces $20M Investment in Its Patch Management Platform](https://www.darkreading.com/endpoint/action1-announces-20m-investment-in-its-patch-management-platform)
 - [LockBit Affiliate Arrested, as Extortion Totals Reach $91M Since 2020](https://www.darkreading.com/risk/lockbit-affiliate-arrested-extortion-totals-91m)
 - [Thales Proposes to Acquire Tesserent, Expanding its Global Cybersecurity Leadership](https://www.darkreading.com/operations/thales-proposes-to-acquire-tesserent-expanding-its-global-cybersecurity-leadership)
-- [Vulcan Cyber Is a Launch Partner for Wiz Integrations &lpar;WIN&rpar; Platform](https://www.darkreading.com/risk/vulcan-cyber-is-a-launch-partner-for-wiz-integrations-win-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
