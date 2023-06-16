@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dodgy Microlending Apps Stalk MEA Users, Highlighting Cyber Maturity Gaps](https://www.darkreading.com/dr-global/dodgy-micro-lending-apps-stalk-mea-users-cyber-maturity)
 - [Attackers Create Synthetic Security Researchers to Steal IP](https://www.darkreading.com/attacks-breaches/attackers-create-synthetic-security-researchers)
 - [Cybercrime Doesn&#39;t Take a Vacation](https://www.darkreading.com/vulnerabilities-threats/cybercrime-doesnt-take-a-vacation)
 - [HashiCorp Expands PAM, Secrets Management Capabilities](https://www.darkreading.com/dr-tech/hashicorp-expands-pam-secrets-management-capabilities)
@@ -83,7 +84,6 @@
 - [Coalition Releases Security Vulnerability Exploit Scoring System](https://www.darkreading.com/risk/coalition-releases-security-vulnerability-exploit-scoring-system)
 - [Keytos Uncovers 15,000 Vulnerable Subdomains per Month in Azure Using Cryptographic Certificates](https://www.darkreading.com/analytics/keytos-uncovers-15-000-vulnerable-subdomains-per-month-in-azure-using-cryptographic-certificates)
 - [Action1 Announces $20M Investment in Its Patch Management Platform](https://www.darkreading.com/endpoint/action1-announces-20m-investment-in-its-patch-management-platform)
-- [LockBit Affiliate Arrested, as Extortion Totals Reach $91M Since 2020](https://www.darkreading.com/risk/lockbit-affiliate-arrested-extortion-totals-91m)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
