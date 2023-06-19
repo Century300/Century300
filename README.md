@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Generative AI Has Its Risks, But the Sky Isn&#39;t Falling](https://www.darkreading.com/edge/generative-ai-has-its-risks-but-the-sky-isn-t-falling)
+- [US Investors Sniffing Around Blacklisted NSO Group Assets](https://www.darkreading.com/operations/us-investors-sniffing-around-buying-blacklisted-nso-group-assets)
+- [Decoding Identity and Access Management For Organizations and Consumers](https://www.darkreading.com/dr-tech/decoding-identity-and-access-management-for-organizations-and-consumers)
 - [Getting Over the DNS Security Awareness Gap](https://www.darkreading.com/dr-tech/getting-over-the-dns-security-awareness-gap)
 - [Security LeadHER Wraps Groundbreaking Inaugural Conference for Women in Security](https://www.darkreading.com/operations/security-leadher-wraps-groundbreaking-inaugural-conference-for-women-in-security)
 - [The Infrastructure Security Engineer Is a Unicorn Among Thoroughbreds](https://www.darkreading.com/edge/the-infrastructure-security-engineer-is-a-unicorn-among-thoroughbreds)
 - [Killnet Threatens Imminent SWIFT, World Banking Attacks](https://www.darkreading.com/risk/killnet-threatens-imminent-swift-world-banking-attacks)
 - [Third MOVEit Transfer Vulnerability Disclosed by Progress Software](https://www.darkreading.com/vulnerabilities-threats/third-moveit-transfer-vulnerability-progress-software)
-- [Dodgy Microlending Apps Stalk MEA Users, Highlighting Cyber Maturity Gaps](https://www.darkreading.com/dr-global/dodgy-micro-lending-apps-stalk-mea-users-cyber-maturity)
-- [Attackers Create Synthetic Security Researchers to Steal IP](https://www.darkreading.com/attacks-breaches/attackers-create-synthetic-security-researchers)
-- [Cybercrime Doesn&#39;t Take a Vacation](https://www.darkreading.com/vulnerabilities-threats/cybercrime-doesnt-take-a-vacation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
