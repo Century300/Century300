@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Netskope Enables Secure Enterprise Use of ChatGPT and Generative AI Applications](https://www.darkreading.com/application-security/netskope-enables-secure-enterprise-use-of-chatgpt-and-generative-ai-applications)
+- [NineID Raises $2.6M to Build a Secure Bridge Between the Digital and Physical Worlds of Corporate Security](https://www.darkreading.com/physical-security/nineid-raises-2-6m-to-build-a-secure-bridge-between-the-digital-and-physical-worlds-of-corporate-security)
+- [100K+ Infected Devices Leak ChatGPT Accounts to the Dark Web](https://www.darkreading.com/application-security/100k-infected-devices-leak-chatgpt-accounts-dark-web)
+- [Jordanian Cyber Leaders Kick Off Cybersecurity Framework Development](https://www.darkreading.com/dr-global/jordanian-cyber-leaders-cybersecurity-framework-development)
 - [Fresh Ransomware Gangs Emerge As Market Leaders Decline](https://www.darkreading.com/vulnerabilities-threats/fresh-ransomware-gangs-emerge-victims-decline-market-leaders)
 - [Schneider Power Meter Vulnerability Opens Door to Power Outages](https://www.darkreading.com/ics-ot/schneider-power-meter-vulnerability-power-outages)
 - [Mysterious Mystic Stealer Spreads Like Wildfire in Mere Months](https://www.darkreading.com/endpoint/mysterious-mystic-stealer-spreads-wildfire-mere-months)
 - [Hackers Will Be Quick to Bypass Gmail&#39;s Blue Check Verification System](https://www.darkreading.com/attacks-breaches/hackers-will-be-quick-to-bypass-gmail-blue-check-verification-system)
-- [Rorschach Ransomware: What You Need to Know](https://www.darkreading.com/attacks-breaches/rorschach-ransomware-what-you-need-to-know)
-- [Consumer Data: The Risk and Reward for Manufacturing Companies](https://www.darkreading.com/endpoint/consumer-data-the-risk-and-reward-for-manufacturing-companies)
-- [Name That Toon: Time to Spare?](https://www.darkreading.com/ics-ot/name-that-toon-time-to-spare-)
-- [Generative AI Has Its Risks, but the Sky Isn&#39;t Falling](https://www.darkreading.com/edge/generative-ai-has-its-risks-but-the-sky-isn-t-falling)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
