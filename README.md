@@ -78,9 +78,9 @@
 <!-- DARKREADING:START -->
 - [Consumer Data: The Risk and Reward for Manufacturing Companies](https://www.darkreading.com/endpoint/consumer-data-the-risk-and-reward-for-manufacturing-companies)
 - [Name That Toon: Time to Spare?](https://www.darkreading.com/ics-ot/name-that-toon-time-to-spare-)
-- [Generative AI Has Its Risks, But the Sky Isn&#39;t Falling](https://www.darkreading.com/edge/generative-ai-has-its-risks-but-the-sky-isn-t-falling)
+- [Generative AI Has Its Risks, but the Sky Isn&#39;t Falling](https://www.darkreading.com/edge/generative-ai-has-its-risks-but-the-sky-isn-t-falling)
 - [US Investors Sniffing Around Blacklisted NSO Group Assets](https://www.darkreading.com/operations/us-investors-sniffing-around-buying-blacklisted-nso-group-assets)
-- [Decoding Identity and Access Management For Organizations and Consumers](https://www.darkreading.com/dr-tech/decoding-identity-and-access-management-for-organizations-and-consumers)
+- [Decoding Identity and Access Management for Organizations and Consumers](https://www.darkreading.com/dr-tech/decoding-identity-and-access-management-for-organizations-and-consumers)
 - [Getting Over the DNS Security Awareness Gap](https://www.darkreading.com/dr-tech/getting-over-the-dns-security-awareness-gap)
 - [Security LeadHER Wraps Groundbreaking Inaugural Conference for Women in Security](https://www.darkreading.com/operations/security-leadher-wraps-groundbreaking-inaugural-conference-for-women-in-security)
 - [The Infrastructure Security Engineer Is a Unicorn Among Thoroughbreds](https://www.darkreading.com/edge/the-infrastructure-security-engineer-is-a-unicorn-among-thoroughbreds)
