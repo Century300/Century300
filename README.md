@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [eSentire&#39;s AI Investigator Chatbot Aids Human Response to Security Incidents](https://www.darkreading.com/dr-tech/esentire-ai-investigator-chatbot-human-response-security-incidents)
+- [Cymulate Announces Security Analytics for Continuous Threat Exposure Management](https://www.darkreading.com/risk/cymulate-announces-security-analytics-for-continuous-threat-exposure-management)
 - [Netskope Enables Secure Enterprise Use of ChatGPT and Generative AI Applications](https://www.darkreading.com/application-security/netskope-enables-secure-enterprise-use-of-chatgpt-and-generative-ai-applications)
 - [NineID Raises $2.6M to Build a Secure Bridge Between the Digital and Physical Worlds of Corporate Security](https://www.darkreading.com/physical-security/nineid-raises-2-6m-to-build-a-secure-bridge-between-the-digital-and-physical-worlds-of-corporate-security)
 - [100K+ Infected Devices Leak ChatGPT Accounts to the Dark Web](https://www.darkreading.com/application-security/100k-infected-devices-leak-chatgpt-accounts-dark-web)
 - [Jordanian Cyber Leaders Kick Off Cybersecurity Framework Development](https://www.darkreading.com/dr-global/jordanian-cyber-leaders-cybersecurity-framework-development)
 - [Fresh Ransomware Gangs Emerge As Market Leaders Decline](https://www.darkreading.com/vulnerabilities-threats/fresh-ransomware-gangs-emerge-victims-decline-market-leaders)
 - [Schneider Power Meter Vulnerability Opens Door to Power Outages](https://www.darkreading.com/ics-ot/schneider-power-meter-vulnerability-power-outages)
-- [Mysterious Mystic Stealer Spreads Like Wildfire in Mere Months](https://www.darkreading.com/endpoint/mysterious-mystic-stealer-spreads-wildfire-mere-months)
-- [Hackers Will Be Quick to Bypass Gmail&#39;s Blue Check Verification System](https://www.darkreading.com/attacks-breaches/hackers-will-be-quick-to-bypass-gmail-blue-check-verification-system)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
