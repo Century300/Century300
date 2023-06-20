@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Schneider Power Meter Vulnerability Opens Door to Power Outages](https://www.darkreading.com/ics-ot/schneider-power-meter-vulnerability-power-outages)
+- [Mysterious Mystic Stealer Spreads Like Wildfire in Mere Months](https://www.darkreading.com/endpoint/mysterious-mystic-stealer-spreads-wildfire-mere-months)
 - [Hackers Will Be Quick to Bypass Gmail&#39;s Blue Check Verification System](https://www.darkreading.com/attacks-breaches/hackers-will-be-quick-to-bypass-gmail-blue-check-verification-system)
 - [Rorschach Ransomware: What You Need to Know](https://www.darkreading.com/attacks-breaches/rorschach-ransomware-what-you-need-to-know)
 - [Consumer Data: The Risk and Reward for Manufacturing Companies](https://www.darkreading.com/endpoint/consumer-data-the-risk-and-reward-for-manufacturing-companies)
 - [Name That Toon: Time to Spare?](https://www.darkreading.com/ics-ot/name-that-toon-time-to-spare-)
 - [US Investors Sniffing Around Blacklisted NSO Group Assets](https://www.darkreading.com/operations/us-investors-sniffing-around-buying-blacklisted-nso-group-assets)
 - [Generative AI Has Its Risks, but the Sky Isn&#39;t Falling](https://www.darkreading.com/edge/generative-ai-has-its-risks-but-the-sky-isn-t-falling)
-- [Decoding Identity and Access Management for Organizations and Consumers](https://www.darkreading.com/dr-tech/decoding-identity-and-access-management-for-organizations-and-consumers)
-- [Getting Over the DNS Security Awareness Gap](https://www.darkreading.com/dr-tech/getting-over-the-dns-security-awareness-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
