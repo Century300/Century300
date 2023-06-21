@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SMB Edge Devices Walloped With Asus, Zyxel Patch Warnings](https://www.darkreading.com/endpoint/smb-edge-devices-asus-zyxel-patch-warnings)
 - [Emerging Ransomware Group 8Base Doxxes SMBs Globally](https://www.darkreading.com/vulnerabilities-threats/emerging-ransomware-8base-doxxes-smbs-globally)
 - [&#39;Muddled Libra&#39; Uses Oktapus-Related Smishing to Target Outsourcing Firms](https://www.darkreading.com/attacks-breaches/-muddled-libra-oktapus-smishing-outsourcing-firms)
 - [Cyberattacks on OT, ICS Lay Groundwork for Kinetic Warfare](https://www.darkreading.com/ics-ot/cyberattacks-ot-ics-groundwork-kinetic-warfare)
@@ -83,7 +84,6 @@
 - [An Analyst View of Gartner Security &amp; Risk Management Summit 2023](https://www.darkreading.com/edge/an-analyst-view-of-gartner-security-risk-management-summit-2023)
 - [eSentire&#39;s AI Investigator Chatbot Aids Human Response to Security Incidents](https://www.darkreading.com/dr-tech/esentire-ai-investigator-chatbot-human-response-security-incidents)
 - [Cymulate Announces Security Analytics for Continuous Threat Exposure Management](https://www.darkreading.com/risk/cymulate-announces-security-analytics-for-continuous-threat-exposure-management)
-- [Netskope Enables Secure Enterprise Use of ChatGPT and Generative AI Applications](https://www.darkreading.com/application-security/netskope-enables-secure-enterprise-use-of-chatgpt-and-generative-ai-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
