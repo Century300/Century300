@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [New DOJ Cyber Prosecution Team Will Go After Nation-State Threat Actors](https://www.darkreading.com/attacks-breaches/new-doj-natsec-cyber-prosecution-team-will-go-after-nation-state-threat-actors)
+- [20-Year-Old Chinese APT15 Finds New Life in Foreign Ministry Attacks](https://www.darkreading.com/vulnerabilities-threats/20-year-old-chinese-apt15-new-life-foreign-ministry-attacks)
+- [New DoJ Cyber Prosecution Team Will Go After Nation-State Threat Actors](https://www.darkreading.com/attacks-breaches/new-doj-natsec-cyber-prosecution-team-will-go-after-nation-state-threat-actors)
 - [Avast, Norton Parent Latest Victim of MOVEit Ransomware Attacks](https://www.darkreading.com/attacks-breaches/avast-norton-victim-moveit-ransomware-attacks)
-- [Ransomware Misconceptions Abound, To the Benefit of Attackers](https://www.darkreading.com/vulnerabilities-threats/ransomware-misconceptions-abound-to-the-benefit-of-attackers)
+- [Ransomware Misconceptions Abound, to the Benefit of Attackers](https://www.darkreading.com/vulnerabilities-threats/ransomware-misconceptions-abound-to-the-benefit-of-attackers)
 - [Keep Job Scams From Hurting Your Organization](https://www.darkreading.com/edge/keep-job-scams-from-hurting-your-organization)
 - [SMB Edge Devices Walloped With Asus, Zyxel Patch Warnings](https://www.darkreading.com/endpoint/smb-edge-devices-asus-zyxel-patch-warnings)
 - [Emerging Ransomware Group 8Base Doxxes SMBs Globally](https://www.darkreading.com/vulnerabilities-threats/emerging-ransomware-8base-doxxes-smbs-globally)
 - [&#39;Muddled Libra&#39; Uses Oktapus-Related Smishing to Target Outsourcing Firms](https://www.darkreading.com/attacks-breaches/-muddled-libra-oktapus-smishing-outsourcing-firms)
-- [Cyberattacks on OT, ICS Lay Groundwork for Kinetic Warfare](https://www.darkreading.com/ics-ot/cyberattacks-ot-ics-groundwork-kinetic-warfare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
