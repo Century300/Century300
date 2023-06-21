@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Placing People &amp; Realism at the Center of Your Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/placing-people-realism-at-the-center-of-your-cybersecurity-strategy)
 - [An Analyst View of Gartner Security &amp; Risk Management Summit 2023](https://www.darkreading.com/edge/an-analyst-view-of-gartner-security-risk-management-summit-2023)
 - [eSentire&#39;s AI Investigator Chatbot Aids Human Response to Security Incidents](https://www.darkreading.com/dr-tech/esentire-ai-investigator-chatbot-human-response-security-incidents)
 - [Cymulate Announces Security Analytics for Continuous Threat Exposure Management](https://www.darkreading.com/risk/cymulate-announces-security-analytics-for-continuous-threat-exposure-management)
@@ -83,7 +84,6 @@
 - [NineID Raises $2.6M to Build a Secure Bridge Between the Digital and Physical Worlds of Corporate Security](https://www.darkreading.com/physical-security/nineid-raises-2-6m-to-build-a-secure-bridge-between-the-digital-and-physical-worlds-of-corporate-security)
 - [100K+ Infected Devices Leak ChatGPT Accounts to the Dark Web](https://www.darkreading.com/application-security/100k-infected-devices-leak-chatgpt-accounts-dark-web)
 - [Jordanian Cyber Leaders Kick Off Cybersecurity Framework Development](https://www.darkreading.com/dr-global/jordanian-cyber-leaders-cybersecurity-framework-development)
-- [Fresh Ransomware Gangs Emerge As Market Leaders Decline](https://www.darkreading.com/vulnerabilities-threats/fresh-ransomware-gangs-emerge-victims-decline-market-leaders)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
