@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons From a Pen Tester: 3 Steps to Stay Safer](https://www.darkreading.com/attacks-breaches/lessons-from-a-pen-tester-3-tips-to-stay-safer)
 - [2 More Apple Zero-Days Exploited in Ongoing iOS Spy Campaign](https://www.darkreading.com/endpoint/more-apple-zero-days-exploited-ios-spying-campaign)
 - [Ironscales Adds AI Assistant to Suss Out Phishing Attempts](https://www.darkreading.com/dr-tech/ironscales-adds-ai-assistant-to-suss-out-phishing-attempts)
 - [20-Year-Old Chinese APT15 Finds New Life in Foreign Ministry Attacks](https://www.darkreading.com/vulnerabilities-threats/20-year-old-chinese-apt15-new-life-foreign-ministry-attacks)
@@ -83,7 +84,6 @@
 - [Avast, Norton Parent Latest Victim of MOVEit Data Breach Attacks](https://www.darkreading.com/attacks-breaches/avast-norton-victim-moveit-ransomware-attacks)
 - [Ransomware Misconceptions Abound, to the Benefit of Attackers](https://www.darkreading.com/vulnerabilities-threats/ransomware-misconceptions-abound-to-the-benefit-of-attackers)
 - [Keep Job Scams From Hurting Your Organization](https://www.darkreading.com/edge/keep-job-scams-from-hurting-your-organization)
-- [SMB Edge Devices Walloped With Asus, Zyxel Patch Warnings](https://www.darkreading.com/endpoint/smb-edge-devices-asus-zyxel-patch-warnings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
