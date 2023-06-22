@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Azure AD &#39;Log in With Microsoft&#39; Authentication Bypass Affects Thousands](https://www.darkreading.com/cloud/azure-ad-log-in-with-microsoft-authentication-bypass-affects-thousands)
 - [5 Steps for Minimizing Dark Data Risk](https://www.darkreading.com/vulnerabilities-threats/5-steps-for-minimizing-dark-data-risk)
 - [Patch Now: Cisco AnyConnect Bug Exploit Released in the Wild](https://www.darkreading.com/application-security/patch-now-cisco-anyconnect-bug-exploit-released)
 - [6 Attack Surfaces You Must Protect](https://www.darkreading.com/microsoft/6-attack-surfaces-you-must-protect)
@@ -83,7 +84,6 @@
 - [IT Staff Increasingly Saddled With Data Protection Compliance](https://www.darkreading.com/risk/it-staff-saddled-data-protection-compliance)
 - [Lessons From a Pen Tester: 3 Steps to Stay Safer](https://www.darkreading.com/attacks-breaches/lessons-from-a-pen-tester-3-tips-to-stay-safer)
 - [2 More Apple Zero-Days Exploited in Ongoing iOS Spy Campaign](https://www.darkreading.com/endpoint/more-apple-zero-days-exploited-ios-spying-campaign)
-- [Ironscales Adds AI Assistant to Suss Out Phishing Attempts](https://www.darkreading.com/dr-tech/ironscales-adds-ai-assistant-to-suss-out-phishing-attempts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
