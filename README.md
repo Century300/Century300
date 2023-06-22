@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Airgap Networks Acquires NetSpyGlass](https://www.darkreading.com/ics-ot/airgap-networks-acquires-netspyglass)
+- [Former Duo Security Co-Founder Jon Oberheide Joins DNSFilter Board of Directors](https://www.darkreading.com/careers-and-people/former-duo-security-co-founder-jon-oberheide-joins-dnsfilter-board-of-directors)
+- [Sumsub Launches Advanced Deepfakes Detector](https://www.darkreading.com/risk/sumsub-launches-advanced-deepfakes-detector)
+- [Tanium Platform Advances Threat Identification Capabilities and Enhances Endpoint Reach](https://www.darkreading.com/mobile/tanium-platform-advances-threat-identification-capabilities-and-enhances-endpoint-reach-)
 - [Even With No Recession, Smaller Firms Aim to Consolidate Security Tools](https://www.darkreading.com/operations/even-with-no-recession-firms-aim-to-consolidate-security-tools)
+- [CISA, FBI Offer $10M for Cl0p Ransomware Gang Information](https://www.darkreading.com/threat-intelligence/cisa-fbi-offer-10m-cl0p-ransomware-gang-information)
 - [Azure AD &#39;Log in With Microsoft&#39; Authentication Bypass Affects Thousands](https://www.darkreading.com/cloud/azure-ad-log-in-with-microsoft-authentication-bypass-affects-thousands)
 - [5 Steps for Minimizing Dark Data Risk](https://www.darkreading.com/vulnerabilities-threats/5-steps-for-minimizing-dark-data-risk)
-- [Patch Now: Cisco AnyConnect Bug Exploit Released in the Wild](https://www.darkreading.com/application-security/patch-now-cisco-anyconnect-bug-exploit-released)
-- [6 Attack Surfaces You Must Protect](https://www.darkreading.com/microsoft/6-attack-surfaces-you-must-protect)
-- [USB Drives Spread Spyware as China&#39;s Mustang Panda APT Goes Global](https://www.darkreading.com/threat-intelligence/usb-drives-spyware-china-mustang-panda-apt-global)
-- [IT Staff Increasingly Saddled With Data Protection Compliance](https://www.darkreading.com/risk/it-staff-saddled-data-protection-compliance)
-- [Lessons From a Pen Tester: 3 Steps to Stay Safer](https://www.darkreading.com/attacks-breaches/lessons-from-a-pen-tester-3-tips-to-stay-safer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
