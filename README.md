@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Job Seekers, Look Out for Job Scams](https://www.darkreading.com/edge/job-seekers-look-out-for-job-scams)
+- [LockBit Developing Ransomware for Apple M1 Chips, Embedded Systems](https://www.darkreading.com/vulnerabilities-threats/lockbit-ransomware-apple-m1-chips-embedded-systems)
+- [Growing SaaS Usage Means Larger Attack Surface](https://www.darkreading.com/dr-tech/growing-saas-usage-means-larger-attack-surface)
 - [Airgap Networks Acquires NetSpyGlass](https://www.darkreading.com/ics-ot/airgap-networks-acquires-netspyglass)
 - [Former Duo Security Co-Founder Jon Oberheide Joins DNSFilter Board of Directors](https://www.darkreading.com/careers-and-people/former-duo-security-co-founder-jon-oberheide-joins-dnsfilter-board-of-directors)
 - [Sumsub Launches Advanced Deepfakes Detector](https://www.darkreading.com/risk/sumsub-launches-advanced-deepfakes-detector)
 - [Tanium Platform Advances Threat Identification Capabilities and Enhances Endpoint Reach](https://www.darkreading.com/mobile/tanium-platform-advances-threat-identification-capabilities-and-enhances-endpoint-reach-)
 - [Even With No Recession, Smaller Firms Aim to Consolidate Security Tools](https://www.darkreading.com/operations/even-with-no-recession-firms-aim-to-consolidate-security-tools)
-- [CISA, FBI Offer $10M for Cl0p Ransomware Gang Information](https://www.darkreading.com/threat-intelligence/cisa-fbi-offer-10m-cl0p-ransomware-gang-information)
-- [Azure AD &#39;Log in With Microsoft&#39; Authentication Bypass Affects Thousands](https://www.darkreading.com/cloud/azure-ad-log-in-with-microsoft-authentication-bypass-affects-thousands)
-- [5 Steps for Minimizing Dark Data Risk](https://www.darkreading.com/vulnerabilities-threats/5-steps-for-minimizing-dark-data-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
