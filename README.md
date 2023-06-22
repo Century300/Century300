@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Steps for Minimizing Dark Data Risk](https://www.darkreading.com/vulnerabilities-threats/5-steps-for-minimizing-dark-data-risk)
+- [Patch Now: Cisco AnyConnect Bug Exploit Released in the Wild](https://www.darkreading.com/application-security/patch-now-cisco-anyconnect-bug-exploit-released)
 - [6 Attack Surfaces You Must Protect](https://www.darkreading.com/microsoft/6-attack-surfaces-you-must-protect)
 - [USB Drives Spread Spyware as China&#39;s Mustang Panda APT Goes Global](https://www.darkreading.com/threat-intelligence/usb-drives-spyware-china-mustang-panda-apt-global)
 - [IT Staff Increasingly Saddled With Data Protection Compliance](https://www.darkreading.com/risk/it-staff-saddled-data-protection-compliance)
 - [Lessons From a Pen Tester: 3 Steps to Stay Safer](https://www.darkreading.com/attacks-breaches/lessons-from-a-pen-tester-3-tips-to-stay-safer)
 - [2 More Apple Zero-Days Exploited in Ongoing iOS Spy Campaign](https://www.darkreading.com/endpoint/more-apple-zero-days-exploited-ios-spying-campaign)
 - [Ironscales Adds AI Assistant to Suss Out Phishing Attempts](https://www.darkreading.com/dr-tech/ironscales-adds-ai-assistant-to-suss-out-phishing-attempts)
-- [20-Year-Old Chinese APT15 Finds New Life in Foreign Ministry Attacks](https://www.darkreading.com/vulnerabilities-threats/20-year-old-chinese-apt15-new-life-foreign-ministry-attacks)
-- [New DoJ Cyber Prosecution Team Will Go After Nation-State Threat Actors](https://www.darkreading.com/attacks-breaches/new-doj-natsec-cyber-prosecution-team-will-go-after-nation-state-threat-actors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
