@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [ITDR Combines and Refines Familiar Cybersecurity Approaches](https://www.darkreading.com/dr-tech/itdr-combines-and-refines-familiar-cybersecurity-approaches)
+- [Silobreaker Unveils Geopolitical Threat Intelligence Capabilities With RANE at Infosecurity Europe 2023](https://www.darkreading.com/threat-intelligence/silobreaker-unveils-geopolitical-threat-intelligence-capabilities-with-rane-at-infosecurity-europe-2023)
 - [NSA: BlackLotus BootKit Patching Won&#39;t Prevent Compromise](https://www.darkreading.com/vulnerabilities-threats/nsa-blacklotus-bootkit-patchings-prevent-compromise)
 - [Suspicious Smartwatches Mailed to US Army Personnel](https://www.darkreading.com/threat-intelligence/suspicious-smartwatches-mailed-us-army-personnel)
 - [Microsoft Teams Attack Skips the Phish to Deliver Malware Directly](https://www.darkreading.com/vulnerabilities-threats/microsoft-teams-attack-phish-deliver-malware-directly)
 - [Why Legacy System Users Prioritize Uptime Over Security](https://www.darkreading.com/edge/why-legacy-system-users-prioritize-uptime-over-security)
 - [Black Hat Asia 2023: Cybersecurity Maturity and Concern in Asia](https://www.darkreading.com/omdia/black-hat-asia-2023-cybersecurity-maturity-concern)
 - [How Government Contractors &amp; Agencies Should Navigate New Cyber Rules](https://www.darkreading.com/operations/how-government-contractors-agencies-should-navigate-new-cyber-rules)
-- [Millions of Repos on GitHub Are Potentially Vulnerable to Hijacking](https://www.darkreading.com/application-security/millions-of-repos-on-github-are-potentially-vulnerable-to-hijacking)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
