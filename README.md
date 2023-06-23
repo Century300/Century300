@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Government Contractors &amp; Agencies Should Navigate New Cyber Rules](https://www.darkreading.com/operations/how-government-contractors-agencies-should-navigate-new-cyber-rules)
 - [Millions of Repos on GitHub Are Potentially Vulnerable to Hijacking](https://www.darkreading.com/application-security/millions-of-repos-on-github-are-potentially-vulnerable-to-hijacking)
 - [Deception Technologies Have a Maturity Problem](https://www.darkreading.com/attacks-breaches/deception-technologies-have-a-maturity-problem)
 - [Job Seekers, Look Out for Job Scams](https://www.darkreading.com/edge/job-seekers-look-out-for-job-scams)
@@ -83,7 +84,6 @@
 - [Growing SaaS Usage Means Larger Attack Surface](https://www.darkreading.com/dr-tech/growing-saas-usage-means-larger-attack-surface)
 - [Airgap Networks Acquires NetSpyGlass](https://www.darkreading.com/ics-ot/airgap-networks-acquires-netspyglass)
 - [Former Duo Security Co-Founder Jon Oberheide Joins DNSFilter Board of Directors](https://www.darkreading.com/careers-and-people/former-duo-security-co-founder-jon-oberheide-joins-dnsfilter-board-of-directors)
-- [Sumsub Launches Advanced Deepfakes Detector](https://www.darkreading.com/risk/sumsub-launches-advanced-deepfakes-detector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
