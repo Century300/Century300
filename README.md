@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Millions of Repos on GitHub Are Potentially Vulnerable to Hijacking](https://www.darkreading.com/application-security/millions-of-repos-on-github-are-potentially-vulnerable-to-hijacking)
+- [Deception Technologies Have a Maturity Problem](https://www.darkreading.com/attacks-breaches/deception-technologies-have-a-maturity-problem)
 - [Job Seekers, Look Out for Job Scams](https://www.darkreading.com/edge/job-seekers-look-out-for-job-scams)
 - [LockBit Developing Ransomware for Apple M1 Chips, Embedded Systems](https://www.darkreading.com/vulnerabilities-threats/lockbit-ransomware-apple-m1-chips-embedded-systems)
 - [Growing SaaS Usage Means Larger Attack Surface](https://www.darkreading.com/dr-tech/growing-saas-usage-means-larger-attack-surface)
 - [Airgap Networks Acquires NetSpyGlass](https://www.darkreading.com/ics-ot/airgap-networks-acquires-netspyglass)
 - [Former Duo Security Co-Founder Jon Oberheide Joins DNSFilter Board of Directors](https://www.darkreading.com/careers-and-people/former-duo-security-co-founder-jon-oberheide-joins-dnsfilter-board-of-directors)
 - [Sumsub Launches Advanced Deepfakes Detector](https://www.darkreading.com/risk/sumsub-launches-advanced-deepfakes-detector)
-- [Tanium Platform Advances Threat Identification Capabilities and Enhances Endpoint Reach](https://www.darkreading.com/mobile/tanium-platform-advances-threat-identification-capabilities-and-enhances-endpoint-reach-)
-- [Even With No Recession, Smaller Firms Aim to Consolidate Security Tools](https://www.darkreading.com/operations/even-with-no-recession-firms-aim-to-consolidate-security-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
