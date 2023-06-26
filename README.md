@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Genworth Financial Reports Data Breach Leaking SSNs Belonging to 2.7M Policyholders and Customers](https://www.darkreading.com/attacks-breaches/genworth-financial-reports-data-breach-leaking-social-security-numbers-belonging-to-as-many-as-2-7m-policyholders-and-customers)
+- [SolarWinds Execs Targeted by SEC, CEO Vows to Fight](https://www.darkreading.com/operations/solarwinds-execs-targeted-sec-ceo-fight)
+- [China&#39;s &#39;Volt Typhoon&#39; APT Turns to Zoho ManageEngine for Fresh Cyberattacks](https://www.darkreading.com/cloud/china-volt-typhoon-apt-zoho-manageengine-fresh-cyberattacks)
 - [Twitter Celeb Account Hacker Heads to Jail for 5 Years](https://www.darkreading.com/attacks-breaches/twitter-celeb-account-hacker-jail-5-years)
 - [It&#39;s Open Season on Law Firms for Ransomware &amp; Cyberattacks](https://www.darkreading.com/attacks-breaches/open-season-law-firms-ransomware-cyberattacks)
 - [Cl0p in Your Network? Here&#39;s How to Find Out](https://www.darkreading.com/dr-tech/cl0p-in-your-network-how-to-find-out)
-- [China&#39;s &#39;Volt Typhoon&#39; APT Turns to Zoho ManageEngine for Fresh Cyberattacks](https://www.darkreading.com/ics-ot/china-volt-typhoon-apt-zoho-manageengine-fresh-cyberattacks)
 - [Remediation Ballet Is a Pas de Deux of Patch and Performance](https://www.darkreading.com/edge/remediation-ballet-is-a-pas-de-deux-of-patch-and-performance)
 - [How Infrastructure as Code Can Help Minimize Human Error](https://www.darkreading.com/microsoft/how-infrastructure-as-code-can-help-minimize-human-error)
-- [Trojanized Super Mario Installer Goes After Gamer Data](https://www.darkreading.com/endpoint/trojanized-super-mario-installer-gamer-data)
-- [3 Steps to Successfully &amp; Ethically Navigate a Data Breach](https://www.darkreading.com/attacks-breaches/3-steps-successfully-ethically-navigate-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
