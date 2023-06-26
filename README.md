@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Remediation Ballet Is a Pas de Deux of Patch and Performance](https://www.darkreading.com/edge/remediation-ballet-is-a-pas-de-deux-of-patch-and-performance)
 - [How Infrastructure as Code Can Help Minimize Human Error](https://www.darkreading.com/microsoft/how-infrastructure-as-code-can-help-minimize-human-error)
 - [Trojanized Super Mario Installer Goes After Gamer Data](https://www.darkreading.com/endpoint/trojanized-super-mario-installer-gamer-data)
 - [3 Steps to Successfully &amp; Ethically Navigate a Data Breach](https://www.darkreading.com/attacks-breaches/3-steps-successfully-ethically-navigate-data-breach)
@@ -83,7 +84,6 @@
 - [ITDR Combines and Refines Familiar Cybersecurity Approaches](https://www.darkreading.com/dr-tech/itdr-combines-and-refines-familiar-cybersecurity-approaches)
 - [Silobreaker Unveils Geopolitical Threat Intelligence Capabilities With RANE at Infosecurity Europe 2023](https://www.darkreading.com/threat-intelligence/silobreaker-unveils-geopolitical-threat-intelligence-capabilities-with-rane-at-infosecurity-europe-2023)
 - [NSA: BlackLotus BootKit Patching Won&#39;t Prevent Compromise](https://www.darkreading.com/vulnerabilities-threats/nsa-blacklotus-bootkit-patchings-prevent-compromise)
-- [Suspicious Smartwatches Mailed to US Army Personnel](https://www.darkreading.com/threat-intelligence/suspicious-smartwatches-mailed-us-army-personnel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
