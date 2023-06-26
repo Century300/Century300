@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Steps to Successfully &amp; Ethically Navigate a Data Breach](https://www.darkreading.com/attacks-breaches/3-steps-successfully-ethically-navigate-data-breach)
 - [How Active Directory Bridging Extends Security Automation to Hybrid IT Environments](https://www.darkreading.com/endpoint/how-active-directory-bridging-extends-security-automation-to-hybrid-it-environments)
 - [ITDR Combines and Refines Familiar Cybersecurity Approaches](https://www.darkreading.com/dr-tech/itdr-combines-and-refines-familiar-cybersecurity-approaches)
 - [Silobreaker Unveils Geopolitical Threat Intelligence Capabilities With RANE at Infosecurity Europe 2023](https://www.darkreading.com/threat-intelligence/silobreaker-unveils-geopolitical-threat-intelligence-capabilities-with-rane-at-infosecurity-europe-2023)
@@ -83,7 +84,6 @@
 - [Suspicious Smartwatches Mailed to US Army Personnel](https://www.darkreading.com/threat-intelligence/suspicious-smartwatches-mailed-us-army-personnel)
 - [Microsoft Teams Attack Skips the Phish to Deliver Malware Directly](https://www.darkreading.com/vulnerabilities-threats/microsoft-teams-attack-phish-deliver-malware-directly)
 - [Why Legacy System Users Prioritize Uptime Over Security](https://www.darkreading.com/edge/why-legacy-system-users-prioritize-uptime-over-security)
-- [Black Hat Asia 2023: Cybersecurity Maturity and Concern in Asia](https://www.darkreading.com/omdia/black-hat-asia-2023-cybersecurity-maturity-concern)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
