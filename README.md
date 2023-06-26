@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Active Directory Bridging Extends Security Automation to Hybrid IT Environments](https://www.darkreading.com/endpoint/how-active-directory-bridging-extends-security-automation-to-hybrid-it-environments)
 - [ITDR Combines and Refines Familiar Cybersecurity Approaches](https://www.darkreading.com/dr-tech/itdr-combines-and-refines-familiar-cybersecurity-approaches)
 - [Silobreaker Unveils Geopolitical Threat Intelligence Capabilities With RANE at Infosecurity Europe 2023](https://www.darkreading.com/threat-intelligence/silobreaker-unveils-geopolitical-threat-intelligence-capabilities-with-rane-at-infosecurity-europe-2023)
 - [NSA: BlackLotus BootKit Patching Won&#39;t Prevent Compromise](https://www.darkreading.com/vulnerabilities-threats/nsa-blacklotus-bootkit-patchings-prevent-compromise)
@@ -83,7 +84,6 @@
 - [Microsoft Teams Attack Skips the Phish to Deliver Malware Directly](https://www.darkreading.com/vulnerabilities-threats/microsoft-teams-attack-phish-deliver-malware-directly)
 - [Why Legacy System Users Prioritize Uptime Over Security](https://www.darkreading.com/edge/why-legacy-system-users-prioritize-uptime-over-security)
 - [Black Hat Asia 2023: Cybersecurity Maturity and Concern in Asia](https://www.darkreading.com/omdia/black-hat-asia-2023-cybersecurity-maturity-concern)
-- [How Government Contractors &amp; Agencies Should Navigate New Cyber Rules](https://www.darkreading.com/operations/how-government-contractors-agencies-should-navigate-new-cyber-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
