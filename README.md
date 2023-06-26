@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Twitter Celeb Account Hacker Heads to Jail for 5 Years](https://www.darkreading.com/attacks-breaches/twitter-celeb-account-hacker-jail-5-years)
+- [It&#39;s Open Season on Law Firms for Ransomware &amp; Cyberattacks](https://www.darkreading.com/attacks-breaches/open-season-law-firms-ransomware-cyberattacks)
+- [Cl0p in Your Network? Here&#39;s How to Find Out](https://www.darkreading.com/dr-tech/cl0p-in-your-network-how-to-find-out)
+- [China&#39;s &#39;Volt Typhoon&#39; APT Turns to Zoho ManageEngine for Fresh Cyberattacks](https://www.darkreading.com/ics-ot/china-volt-typhoon-apt-zoho-manageengine-fresh-cyberattacks)
 - [Remediation Ballet Is a Pas de Deux of Patch and Performance](https://www.darkreading.com/edge/remediation-ballet-is-a-pas-de-deux-of-patch-and-performance)
 - [How Infrastructure as Code Can Help Minimize Human Error](https://www.darkreading.com/microsoft/how-infrastructure-as-code-can-help-minimize-human-error)
 - [Trojanized Super Mario Installer Goes After Gamer Data](https://www.darkreading.com/endpoint/trojanized-super-mario-installer-gamer-data)
 - [3 Steps to Successfully &amp; Ethically Navigate a Data Breach](https://www.darkreading.com/attacks-breaches/3-steps-successfully-ethically-navigate-data-breach)
-- [How Active Directory Bridging Extends Security Automation to Hybrid IT Environments](https://www.darkreading.com/endpoint/how-active-directory-bridging-extends-security-automation-to-hybrid-it-environments)
-- [ITDR Combines and Refines Familiar Cybersecurity Approaches](https://www.darkreading.com/dr-tech/itdr-combines-and-refines-familiar-cybersecurity-approaches)
-- [Silobreaker Unveils Geopolitical Threat Intelligence Capabilities With RANE at Infosecurity Europe 2023](https://www.darkreading.com/threat-intelligence/silobreaker-unveils-geopolitical-threat-intelligence-capabilities-with-rane-at-infosecurity-europe-2023)
-- [NSA: BlackLotus BootKit Patching Won&#39;t Prevent Compromise](https://www.darkreading.com/vulnerabilities-threats/nsa-blacklotus-bootkit-patchings-prevent-compromise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
