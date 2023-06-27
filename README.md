@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UCLA, Siemens Among Latest Victims of Relentless MOVEit Attacks](https://www.darkreading.com/attacks-breaches/ucla-siemens-among-latest-victims-of-relentless-moveit-attacks)
+- [Mockingjay Slips By EDR Tools With Process Injection Technique](https://www.darkreading.com/application-security/mockingjay-edr-tools-process-injection-technique)
+- [Trans-Rights Hacktivists Steal City of Ft. Worth&#39;s Data](https://www.darkreading.com/attacks-breaches/trans-rights-hacktivists-steal-fort-worth-data)
 - [Pilot Applicant Information for American, Southwest Hacked](https://www.darkreading.com/attacks-breaches/pilot-applicant-information-for-american-southwest-hacked-)
 - [Most Enterprise SIEMs Blind to MITRE ATT&amp;CK Tactics](https://www.darkreading.com/analytics/enterprise-siem-blind-mitre-attack-coverage)
 - [Why the FDA&#39;s SBOM Mandate Changes the Game for OSS Security](https://www.darkreading.com/attacks-breaches/fda-sbom-mandate-changes-oss-security)
 - [Why Cyber Funding Flows for Rural Water Systems](https://www.darkreading.com/ics-ot/cyber-funding-rural-water-systems)
 - [Preventing Cyberattacks on Schools Starts With K–12 Cybersecurity Education](https://www.darkreading.com/attacks-breaches/preventing-cyberattacks-schools-k-12-cybersecurity-education)
-- [Genworth Financial Reports Data Breach Leaking SSNs Belonging to 2.7M Policyholders and Customers](https://www.darkreading.com/attacks-breaches/genworth-financial-reports-data-breach-leaking-social-security-numbers-belonging-to-as-many-as-2-7m-policyholders-and-customers)
-- [SolarWinds Execs Targeted by SEC, CEO Vows to Fight](https://www.darkreading.com/operations/solarwinds-execs-targeted-sec-ceo-fight)
-- [China&#39;s &#39;Volt Typhoon&#39; APT Turns to Zoho ManageEngine for Fresh Cyberattacks](https://www.darkreading.com/cloud/china-volt-typhoon-apt-zoho-manageengine-fresh-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
