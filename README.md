@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malwarebytes ChatGPT Survey Reveals 81% are Concerned by Generative AI Security Risks](https://www.darkreading.com/operations/malwarebytes-chatgpt-survey-reveals-81-are-concerned-by-generative-ai-security-risks)
 - [FIDO Alliance Publishes Guidance for Deploying Passkeys in the Enterprise](https://www.darkreading.com/endpoint/fido-alliance-publishes-guidance-for-deploying-passkeys-in-the-enterprise)
 - [Saudi Arabia&#39;s Cyber Capabilities Ranked Second Globally](https://www.darkreading.com/dr-global/saudi-arabia-cyber-capabilities-ranked-second-globally)
 - [Generative AI Projects Pose Major Cybersecurity Risk to Enterprises](https://www.darkreading.com/vulnerabilities-threats/generative-ai-projects-cybersecurity-risks-enterprises)
@@ -83,7 +84,6 @@
 - [Open Source LLM Projects Likely Insecure, Risky to Use](https://www.darkreading.com/tech-trends/open-source-llm-project-insecure-risky-use)
 - [UCLA, Siemens Among Latest Victims of Relentless MOVEit Attacks](https://www.darkreading.com/attacks-breaches/ucla-siemens-among-latest-victims-of-relentless-moveit-attacks)
 - [Jscrambler Launches JavaScript Scanner for PCI DSS 4.0 Compliance](https://www.darkreading.com/dr-tech/jscrambler-launches-javascript-scanner-for-pci-dss-4-0-compliance)
-- [Protecting Small Businesses From Ransomware on a Budget](https://www.darkreading.com/edge/protecting-a-small-business-from-ransomware-on-a-budget)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
