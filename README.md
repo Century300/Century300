@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LetMeSpy Phone-Tracking App Hacked, Revealing User Data](https://www.darkreading.com/attacks-breaches/letmespy-phone-tracking-app-hacked-revealing-user-data)
 - [Social Engineering Adds Depth to Red Team Exercises](https://www.darkreading.com/dr-tech/social-engineering-adds-depth-to-red-team-exercises)
 - [Astrix Security Raises $25M in Series A Funding](https://www.darkreading.com/threat-intelligence/astrix-security-raises-25m-in-series-a-funding)
 - [Cato Networks Revolutionizes Network Security With Real-Time, Machine Learning-Powered Protection](https://www.darkreading.com/perimeter/cato-networks-revolutionizes-network-security-with-real-time-machine-learning-powered-protection)
@@ -83,7 +84,6 @@
 - [FIDO Alliance Publishes Guidance for Deploying Passkeys in the Enterprise](https://www.darkreading.com/endpoint/fido-alliance-publishes-guidance-for-deploying-passkeys-in-the-enterprise)
 - [Saudi Arabia&#39;s Cyber Capabilities Ranked Second Globally](https://www.darkreading.com/dr-global/saudi-arabia-cyber-capabilities-ranked-second-globally)
 - [Generative AI Projects Pose Major Cybersecurity Risk to Enterprises](https://www.darkreading.com/vulnerabilities-threats/generative-ai-projects-cybersecurity-risks-enterprises)
-- [3 Strategies for Bringing Rigor to Software Security](https://www.darkreading.com/application-security/3-strategies-for-bringing-rigor-to-software-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
