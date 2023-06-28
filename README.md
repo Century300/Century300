@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Strategies for Bringing Rigor to Software Security](https://www.darkreading.com/application-security/3-strategies-for-bringing-rigor-to-software-security)
 - [Open Source LLM Projects Likely Insecure, Risky to Use](https://www.darkreading.com/tech-trends/open-source-llm-project-insecure-risky-use)
 - [UCLA, Siemens Among Latest Victims of Relentless MOVEit Attacks](https://www.darkreading.com/attacks-breaches/ucla-siemens-among-latest-victims-of-relentless-moveit-attacks)
 - [Jscrambler Launches JavaScript Scanner for PCI DSS 4.0 Compliance](https://www.darkreading.com/dr-tech/jscrambler-launches-javascript-scanner-for-pci-dss-4-0-compliance)
@@ -83,7 +84,6 @@
 - [Cequence Security Adds Generative AI to API Security](https://www.darkreading.com/dr-tech/cequence-security-adds-generative-ai-to-api-security)
 - [Mockingjay Slips By EDR Tools With Process Injection Technique](https://www.darkreading.com/application-security/mockingjay-edr-tools-process-injection-technique)
 - [Trans-Rights Hacktivists Steal City of Ft. Worth&#39;s Data](https://www.darkreading.com/attacks-breaches/trans-rights-hacktivists-steal-fort-worth-data)
-- [Pilot Applicant Information for American, Southwest Hacked](https://www.darkreading.com/attacks-breaches/pilot-applicant-information-for-american-southwest-hacked-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
