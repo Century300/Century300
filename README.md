@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Spies, War Ministers Reliant on Cybercrime in Pariah State](https://www.darkreading.com/threat-intelligence/russia-reliant-on-cybercrime-as-international-pariah)
+- [1Password Launches Unlock With Single Sign-On for OIDC-Supported Identity Providers](https://www.darkreading.com/endpoint/1password-launches-unlock-with-single-sign-on-for-oidc-supported-identity-providers)
+- [6 Ways Cybersecurity Is Gut-Checking the ChatGPT Frenzy](https://www.darkreading.com/perimeter/cybersecurity-gut-checking-chatgpt-ai-chatbots-chatgpt)
+- [NPM Plagued With &#39;Manifest Confusion&#39; Malware-Hiding Weakness](https://www.darkreading.com/application-security/npm-manifest-confusion-malware-hiding-weakness)
 - [LetMeSpy Phone-Tracking App Hacked, Revealing User Data](https://www.darkreading.com/attacks-breaches/letmespy-phone-tracking-app-hacked-revealing-user-data)
 - [Social Engineering Adds Depth to Red Team Exercises](https://www.darkreading.com/dr-tech/social-engineering-adds-depth-to-red-team-exercises)
 - [Astrix Security Raises $25M in Series A Funding](https://www.darkreading.com/threat-intelligence/astrix-security-raises-25m-in-series-a-funding)
 - [Cato Networks Revolutionizes Network Security With Real-Time, Machine Learning-Powered Protection](https://www.darkreading.com/perimeter/cato-networks-revolutionizes-network-security-with-real-time-machine-learning-powered-protection)
-- [Malwarebytes ChatGPT Survey Reveals 81% are Concerned by Generative AI Security Risks](https://www.darkreading.com/operations/malwarebytes-chatgpt-survey-reveals-81-are-concerned-by-generative-ai-security-risks)
-- [FIDO Alliance Publishes Guidance for Deploying Passkeys in the Enterprise](https://www.darkreading.com/endpoint/fido-alliance-publishes-guidance-for-deploying-passkeys-in-the-enterprise)
-- [Saudi Arabia&#39;s Cyber Capabilities Ranked Second Globally](https://www.darkreading.com/dr-global/saudi-arabia-cyber-capabilities-ranked-second-globally)
-- [Generative AI Projects Pose Major Cybersecurity Risk to Enterprises](https://www.darkreading.com/vulnerabilities-threats/generative-ai-projects-cybersecurity-risks-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
