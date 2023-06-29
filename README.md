@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Center for Internet Security, CREST Join Forces to Secure Organizations Globally](https://www.darkreading.com/perimeter/center-for-internet-security-crest-join-forces-to-secure-organizations-globally)
+- [TXOne Networks&#39; Stellar Solution Safeguards Operational Stability for Organizations in Various Industries](https://www.darkreading.com/ics-ot/txone-networks-stellar-solution-safeguards-operational-stability-for-organizations-in-semiconductors-manufacturing-oil-and-gas-banking-pharma-and-other-verticals)
 - [WatchGuard Threat Lab Report Reveals New Browser-Based Social Engineering Trends](https://www.darkreading.com/perimeter/watchguard-threat-lab-report-reveals-new-browser-based-social-engineering-trends)
 - [Employer Demand for Technology Workers Across Europe Remains on Firm Footing](https://www.darkreading.com/dr-global/employer-demand-for-technology-workers-across-europe-remains-on-firm-footing)
 - [Cybellum Unveils New Brand, Amplifying Commitment to Team-Centric Product Security](https://www.darkreading.com/operations/cybellum-unveils-new-brand-amplifying-commitment-to-team-centric-product-security)
 - [OTORIO Rolls Out Advanced Attack Graph Analysis for OT Security](https://www.darkreading.com/ics-ot/otorio-rolls-out-advanced-attack-graph-analysis-for-ot-security)
 - [Invary Raises $1.85M in Pre-Seed Funding to Close Critical Gap in Zero Trust Security](https://www.darkreading.com/analytics/invary-raises-1-85m-in-pre-seed-funding-to-close-critical-gap-in-zero-trust-security)
 - [Mend.io Launches Inaugural Open Source Reliability Leaderboard](https://www.darkreading.com/application-security/mend-io-launches-inaugural-open-source-reliability-leaderboard)
-- [AI-Enabled Voice Cloning Anchors Deepfaked Kidnapping](https://www.darkreading.com/attacks-breaches/ai-enabled-voice-cloning-deepfaked-kidnapping)
-- [Thousands of Filipinos, Others Rescued From Forced Cybercrime Labor](https://www.darkreading.com/physical-security/filipinos-rescued-forced-cybercrime-labor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
