@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI-Enabled Voice Cloning Anchors Deepfaked Kidnapping](https://www.darkreading.com/attacks-breaches/ai-enabled-voice-cloning-deepfaked-kidnapping)
 - [Cybersecurity Is the Healthcare Your Organization Needs](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-is-the-healthcare-your-organization-needs)
-- [US Patent Office Hacked, Trademark Apps Accessed](https://www.darkreading.com/physical-security/us-patent-office-hacked-trademark-apps-accessed)
+- [US Patent Office Data Spill Exposes Trademark Applications](https://www.darkreading.com/physical-security/us-patent-office-hacked-trademark-apps-accessed)
 - [3 Tips to Increase Hybrid and Multicloud Security](https://www.darkreading.com/microsoft/3-tips-to-increase-hybrid-and-multicloud-security-)
 - [When It Comes to Secure Coding, ChatGPT Is Quintessentially Human](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-secure-coding-chatgpt-is-quintessentially-human)
 - [Newbie Akira Ransomware Builds Momentum With Linux Shift](https://www.darkreading.com/iot/akira-ransomware-builds-momentum-linux-shift)
 - [UAE, Israel Ink Pivotal Joint Cyber-Threat Intelligence Agreement](https://www.darkreading.com/threat-intelligence/uae-israel-joint-cyber-threat-intelligence-agreement)
 - [Russian Spies, War Ministers Reliant on Cybercrime in Pariah State](https://www.darkreading.com/threat-intelligence/russia-reliant-on-cybercrime-as-international-pariah)
-- [1Password Launches Unlock With Single Sign-On for OIDC-Supported Identity Providers](https://www.darkreading.com/endpoint/1password-launches-unlock-with-single-sign-on-for-oidc-supported-identity-providers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
