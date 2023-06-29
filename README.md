@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Tips to Increase Hybrid and Multicloud Security](https://www.darkreading.com/microsoft/3-tips-to-increase-hybrid-and-multicloud-security-)
 - [When It Comes to Secure Coding, ChatGPT Is Quintessentially Human](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-secure-coding-chatgpt-is-quintessentially-human)
 - [Newbie Akira Ransomware Builds Momentum With Linux Shift](https://www.darkreading.com/iot/akira-ransomware-builds-momentum-linux-shift)
 - [UAE, Israel Ink Pivotal Joint Cyber-Threat Intelligence Agreement](https://www.darkreading.com/threat-intelligence/uae-israel-joint-cyber-threat-intelligence-agreement)
@@ -83,7 +84,6 @@
 - [1Password Launches Unlock With Single Sign-On for OIDC-Supported Identity Providers](https://www.darkreading.com/endpoint/1password-launches-unlock-with-single-sign-on-for-oidc-supported-identity-providers)
 - [6 Ways Cybersecurity Is Gut-Checking the ChatGPT Frenzy](https://www.darkreading.com/perimeter/cybersecurity-gut-checking-chatgpt-ai-chatbots-chatgpt)
 - [Npm Plagued With &#39;Manifest Confusion&#39; Malware-Hiding Weakness](https://www.darkreading.com/application-security/npm-manifest-confusion-malware-hiding-weakness)
-- [LetMeSpy Phone-Tracking App Hacked, Revealing User Data](https://www.darkreading.com/attacks-breaches/letmespy-phone-tracking-app-hacked-revealing-user-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
