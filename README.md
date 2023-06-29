@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pepper and Embedded Insurance Partner on Cyber Insurance For Consumers, SMBs](https://www.darkreading.com/dr-tech/pepper-and-embedded-insurance-partner-on-cyber-insurance-for-consumers-smbs)
 - [CISA Wants Exposed Government Devices Remediated In 14 Days](https://www.darkreading.com/attacks-breaches/cisa-wants-exposed-government-devices-remediated-14-days)
 - [IEC Standardization Leaders Convene in Amsterdam to Review Utility Interworking of Key Standards](https://www.darkreading.com/ics-ot/iec-standardization-leaders-convene-in-amsterdam-to-review-utility-interworking-of-iec-61850-for-substations-iec-cim-for-control-centers-and-iec-62443-for-ot-cybersecurity)
 - [Apple Objects to UK Bill That Would Break Encrypted Messaging](https://www.darkreading.com/application-security/apple-objects-to-uk-bill-that-would-break-encrypted-messaging-)
@@ -83,7 +84,6 @@
 - [Center for Internet Security, CREST Join Forces to Secure Organizations Globally](https://www.darkreading.com/perimeter/center-for-internet-security-crest-join-forces-to-secure-organizations-globally)
 - [TXOne Networks&#39; Stellar Solution Safeguards Operational Stability for Organizations in Various Industries](https://www.darkreading.com/ics-ot/txone-networks-stellar-solution-safeguards-operational-stability-for-organizations-in-semiconductors-manufacturing-oil-and-gas-banking-pharma-and-other-verticals)
 - [WatchGuard Threat Lab Report Reveals New Browser-Based Social Engineering Trends](https://www.darkreading.com/perimeter/watchguard-threat-lab-report-reveals-new-browser-based-social-engineering-trends)
-- [Employer Demand for Technology Workers Across Europe Remains on Firm Footing](https://www.darkreading.com/dr-global/employer-demand-for-technology-workers-across-europe-remains-on-firm-footing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
