@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When It Comes to Secure Coding, ChatGPT Is Quintessentially Human](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-secure-coding-chatgpt-is-quintessentially-human)
+- [Newbie Akira Ransomware Builds Momentum With Linux Shift](https://www.darkreading.com/iot/akira-ransomware-builds-momentum-linux-shift)
+- [UAE, Israel Ink Pivotal Joint Cyber-Threat Intelligence Agreement](https://www.darkreading.com/threat-intelligence/uae-israel-joint-cyber-threat-intelligence-agreement)
 - [Russian Spies, War Ministers Reliant on Cybercrime in Pariah State](https://www.darkreading.com/threat-intelligence/russia-reliant-on-cybercrime-as-international-pariah)
 - [1Password Launches Unlock With Single Sign-On for OIDC-Supported Identity Providers](https://www.darkreading.com/endpoint/1password-launches-unlock-with-single-sign-on-for-oidc-supported-identity-providers)
 - [6 Ways Cybersecurity Is Gut-Checking the ChatGPT Frenzy](https://www.darkreading.com/perimeter/cybersecurity-gut-checking-chatgpt-ai-chatbots-chatgpt)
-- [NPM Plagued With &#39;Manifest Confusion&#39; Malware-Hiding Weakness](https://www.darkreading.com/application-security/npm-manifest-confusion-malware-hiding-weakness)
+- [Npm Plagued With &#39;Manifest Confusion&#39; Malware-Hiding Weakness](https://www.darkreading.com/application-security/npm-manifest-confusion-malware-hiding-weakness)
 - [LetMeSpy Phone-Tracking App Hacked, Revealing User Data](https://www.darkreading.com/attacks-breaches/letmespy-phone-tracking-app-hacked-revealing-user-data)
-- [Social Engineering Adds Depth to Red Team Exercises](https://www.darkreading.com/dr-tech/social-engineering-adds-depth-to-red-team-exercises)
-- [Astrix Security Raises $25M in Series A Funding](https://www.darkreading.com/threat-intelligence/astrix-security-raises-25m-in-series-a-funding)
-- [Cato Networks Revolutionizes Network Security With Real-Time, Machine Learning-Powered Protection](https://www.darkreading.com/perimeter/cato-networks-revolutionizes-network-security-with-real-time-machine-learning-powered-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
