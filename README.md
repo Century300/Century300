@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WatchGuard Threat Lab Report Reveals New Browser-Based Social Engineering Trends](https://www.darkreading.com/perimeter/watchguard-threat-lab-report-reveals-new-browser-based-social-engineering-trends)
+- [Employer Demand for Technology Workers Across Europe Remains on Firm Footing](https://www.darkreading.com/dr-global/employer-demand-for-technology-workers-across-europe-remains-on-firm-footing)
+- [Cybellum Unveils New Brand, Amplifying Commitment to Team-Centric Product Security](https://www.darkreading.com/operations/cybellum-unveils-new-brand-amplifying-commitment-to-team-centric-product-security)
+- [OTORIO Rolls Out Advanced Attack Graph Analysis for OT Security](https://www.darkreading.com/ics-ot/otorio-rolls-out-advanced-attack-graph-analysis-for-ot-security)
+- [Invary Raises $1.85M in Pre-Seed Funding to Close Critical Gap in Zero Trust Security](https://www.darkreading.com/analytics/invary-raises-1-85m-in-pre-seed-funding-to-close-critical-gap-in-zero-trust-security)
+- [Mend.io Launches Inaugural Open Source Reliability Leaderboard](https://www.darkreading.com/application-security/mend-io-launches-inaugural-open-source-reliability-leaderboard)
 - [AI-Enabled Voice Cloning Anchors Deepfaked Kidnapping](https://www.darkreading.com/attacks-breaches/ai-enabled-voice-cloning-deepfaked-kidnapping)
-- [Cybersecurity Is the Healthcare Your Organization Needs](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-is-the-healthcare-your-organization-needs)
-- [US Patent Office Data Spill Exposes Trademark Applications](https://www.darkreading.com/physical-security/us-patent-office-hacked-trademark-apps-accessed)
-- [3 Tips to Increase Hybrid and Multicloud Security](https://www.darkreading.com/microsoft/3-tips-to-increase-hybrid-and-multicloud-security-)
-- [When It Comes to Secure Coding, ChatGPT Is Quintessentially Human](https://www.darkreading.com/vulnerabilities-threats/when-it-comes-to-secure-coding-chatgpt-is-quintessentially-human)
-- [Newbie Akira Ransomware Builds Momentum With Linux Shift](https://www.darkreading.com/iot/akira-ransomware-builds-momentum-linux-shift)
-- [UAE, Israel Ink Pivotal Joint Cyber-Threat Intelligence Agreement](https://www.darkreading.com/threat-intelligence/uae-israel-joint-cyber-threat-intelligence-agreement)
-- [Russian Spies, War Ministers Reliant on Cybercrime in Pariah State](https://www.darkreading.com/threat-intelligence/russia-reliant-on-cybercrime-as-international-pariah)
+- [Thousands of Filipinos, Others Rescued From Forced Cybercrime Labor](https://www.darkreading.com/physical-security/filipinos-rescued-forced-cybercrime-labor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
