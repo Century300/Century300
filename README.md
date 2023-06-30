@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IP Fabric Announces $25M Series B Funding to Accelerate Adoption of Network Assurance](https://www.darkreading.com/perimeter/ip-fabric-announces-25m-series-b-funding-to-accelerate-adoption-of-network-assurance)
+- [Perception Point Unveils AI Model to Thwart Generative AI-Based BEC Attacks](https://www.darkreading.com/endpoint/perception-point-unveils-ai-model-to-thwart-generative-ai-based-bec-attacks)
 - [3 Ways to Build a More Skilled Cybersecurity Workforce](https://www.darkreading.com/microsoft/3-ways-to-build-a-more-skilled-cybersecurity-workforce)
 - [CISA BOD 23-01: What Agencies Need to Know About Compliance](https://www.darkreading.com/risk/cisa-bod-23-01-what-agencies-need-to-know-about-compliance)
 - [Pepper and Embedded Insurance Partner on Cyber Insurance for Consumers, SMBs](https://www.darkreading.com/dr-tech/pepper-and-embedded-insurance-partner-on-cyber-insurance-for-consumers-smbs)
 - [CISA Wants Exposed Government Devices Remediated in 14 Days](https://www.darkreading.com/attacks-breaches/cisa-wants-exposed-government-devices-remediated-14-days)
 - [IEC Standardization Leaders Convene in Amsterdam to Review Utility Interworking of Key Standards](https://www.darkreading.com/ics-ot/iec-standardization-leaders-convene-in-amsterdam-to-review-utility-interworking-of-iec-61850-for-substations-iec-cim-for-control-centers-and-iec-62443-for-ot-cybersecurity)
 - [Apple Objects to UK Bill That Would Break Encrypted Messaging](https://www.darkreading.com/application-security/apple-objects-to-uk-bill-that-would-break-encrypted-messaging-)
-- [Researchers Detail 4 SAP Bugs, Including Flaw in ABAP Kernel](https://www.darkreading.com/application-security/researchers-release-technical-details-pocs-for-4-sap-bugs)
-- [Center for Internet Security, CREST Join Forces to Secure Organizations Globally](https://www.darkreading.com/perimeter/center-for-internet-security-crest-join-forces-to-secure-organizations-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
