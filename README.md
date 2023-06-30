@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nokod Raises $8M Seed Round From Seasoned Cybersecurity Investors to Enhance Low-Code/No-Code App Security](https://www.darkreading.com/application-security/nokod-raises-8m-seed-round-from-seasoned-cybersecurity-investors-to-enhance-low-code-no-code-app-security)
 - [Iran-Linked APT35 Targets Israeli Media With Upgraded Spear-Phishing Tools](https://www.darkreading.com/dr-global/iran-linked-apt35-israeli-media-upgraded-spear-phishing)
 - [African Nations Face Escalating Phishing &amp; Compromised Password Cyberattacks](https://www.darkreading.com/dr-global/african-nations-escalating-phishing-compromised-password-cyberattacks)
 - [Russian Hacktivist Platform &#39;DDoSia&#39; Grows Exponentially](https://www.darkreading.com/threat-intelligence/russian-hacktivist-platform-ddosia-grows-exponentially)
 - [Make Diversity the &#39;How,&#39; Not the &#39;What,&#39; of Cybersecurity Success](https://www.darkreading.com/edge/making-diversity-the-how-and-not-the-what-of-cybersecurity-success)
 - [IP Fabric Announces $25M Series B Funding to Accelerate Adoption of Network Assurance](https://www.darkreading.com/perimeter/ip-fabric-announces-25m-series-b-funding-to-accelerate-adoption-of-network-assurance)
 - [Perception Point Unveils AI Model to Thwart Generative AI-Based BEC Attacks](https://www.darkreading.com/endpoint/perception-point-unveils-ai-model-to-thwart-generative-ai-based-bec-attacks)
-- [Google Cloud GenAI Is Coming to Thales&#39; Data Security Platform](https://www.darkreading.com/dr-tech/google-cloud-genai-is-coming-to-thales-data-security-platform)
-- [CISA BOD 23-01: What Agencies Need to Know About Compliance](https://www.darkreading.com/risk/cisa-bod-23-01-what-agencies-need-to-know-about-compliance)
+- [3 Ways to Build a More Skilled Cybersecurity Workforce](https://www.darkreading.com/microsoft/3-ways-to-build-a-more-skilled-cybersecurity-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
