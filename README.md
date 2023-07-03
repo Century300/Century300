@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group](https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-)
+- [Israel Aided UAE in Defending Against DDoS Attack](https://www.darkreading.com/dr-global/israel-aided-uae-in-defending-against-ddos-attack)
 - [SSH Servers Hit in &#39;Proxyjacking&#39; Cyberattacks](https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks)
-- [Name That Edge Toon: Three-Ring Circus](https://www.darkreading.com/edge-articles/name-that-edge-toon-three-ring-circus)
 - [A CISO&#39;s Guide to Paying Down Software Supply Chain Security Debt](https://www.darkreading.com/vulnerabilities-threats/ciso-guide-paying-down-software-supply-chain-security-debt)
+- [Name That Edge Toon: Three-Ring Circus](https://www.darkreading.com/edge-articles/name-that-edge-toon-three-ring-circus)
 - [Architecting XDR to Save Money and Your SOC&#39;s Sanity](https://www.darkreading.com/operations/architecting-xdr-save-money-and-your-soc-sanity)
 - [Chip Giant TSMC Blames $70M LockBit Breach on IT Hardware Supplier](https://www.darkreading.com/attacks-breaches/chip-giant-tsmc-blames-lockbit-breach-it-hardware-supplier)
 - [Mobile Cyberattacks Soar, Especially Against Android Users](https://www.darkreading.com/endpoint/mobile-cyberattacks-soar-andoird-users)
-- [Nokod Raises $8M Seed Round From Seasoned Cybersecurity Investors to Enhance Low-Code/No-Code App Security](https://www.darkreading.com/application-security/nokod-raises-8m-seed-round-from-seasoned-cybersecurity-investors-to-enhance-low-code-no-code-app-security)
-- [Iran-Linked APT35 Targets Israeli Media With Upgraded Spear-Phishing Tools](https://www.darkreading.com/dr-global/iran-linked-apt35-israeli-media-upgraded-spear-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
