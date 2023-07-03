@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Architecting XDR to Save Money and Your SOC&#39;s Sanity](https://www.darkreading.com/operations/architecting-xdr-save-money-and-your-soc-sanity)
 - [Chip Giant TSMC Blames $70M LockBit Breach on IT Hardware Supplier](https://www.darkreading.com/attacks-breaches/chip-giant-tsmc-blames-lockbit-breach-it-hardware-supplier)
 - [Mobile Cyberattacks Soar, Especially Against Android Users](https://www.darkreading.com/endpoint/mobile-cyberattacks-soar-andoird-users)
 - [Nokod Raises $8M Seed Round From Seasoned Cybersecurity Investors to Enhance Low-Code/No-Code App Security](https://www.darkreading.com/application-security/nokod-raises-8m-seed-round-from-seasoned-cybersecurity-investors-to-enhance-low-code-no-code-app-security)
@@ -83,7 +84,6 @@
 - [African Nations Face Escalating Phishing &amp; Compromised Password Cyberattacks](https://www.darkreading.com/dr-global/african-nations-escalating-phishing-compromised-password-cyberattacks)
 - [Russian Hacktivist Platform &#39;DDoSia&#39; Grows Exponentially](https://www.darkreading.com/threat-intelligence/russian-hacktivist-platform-ddosia-grows-exponentially)
 - [Make Diversity the &#39;How,&#39; Not the &#39;What,&#39; of Cybersecurity Success](https://www.darkreading.com/edge/making-diversity-the-how-and-not-the-what-of-cybersecurity-success)
-- [IP Fabric Announces $25M Series B Funding to Accelerate Adoption of Network Assurance](https://www.darkreading.com/perimeter/ip-fabric-announces-25m-series-b-funding-to-accelerate-adoption-of-network-assurance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
