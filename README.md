@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortanix Builds Hardware Security Wall Around Plaintext Search](https://www.darkreading.com/dr-tech/fortanix-builds-hardware-security-wall-around-plaintext-search)
 - [Researchers Develop Exploit Code for Critical Fortinet VPN Bug](https://www.darkreading.com/vulnerabilities-threats/researchers-develop-exploit-code-for-critical-fortinet-bug)
 - [Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group](https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-)
 - [Israel Aided UAE in Defending Against DDoS Attack](https://www.darkreading.com/dr-global/israel-aided-uae-in-defending-against-ddos-attack)
@@ -83,7 +84,6 @@
 - [A CISO&#39;s Guide to Paying Down Software Supply Chain Security Debt](https://www.darkreading.com/vulnerabilities-threats/ciso-guide-paying-down-software-supply-chain-security-debt)
 - [Name That Edge Toon: Three-Ring Circus](https://www.darkreading.com/edge-articles/name-that-edge-toon-three-ring-circus)
 - [Architecting XDR to Save Money and Your SOC&#39;s Sanity](https://www.darkreading.com/operations/architecting-xdr-save-money-and-your-soc-sanity)
-- [Chip Giant TSMC Blames $70M LockBit Breach on IT Hardware Supplier](https://www.darkreading.com/attacks-breaches/chip-giant-tsmc-blames-lockbit-breach-it-hardware-supplier)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
