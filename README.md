@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OPERA1ER Cybercrime Group&#39;s Leader Arrested by Interpol](https://www.darkreading.com/dr-global/opera1er-cybercrime-leader-arrested-interpol)
 - [Ransomware Halts Operations at Japan&#39;s Port of Nagoya](https://www.darkreading.com/attacks-breaches/ransomware-halts-operations-at-japan-port-of-nagoya)
 - [A Golden Age of AI … or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
 - [C10p&#39;s MOVEit Campaign Represents a New Era in Cyberattacks](https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks)
@@ -83,7 +84,6 @@
 - [Microsoft Can Fix Ransomware Tomorrow](https://www.darkreading.com/vulnerabilities-threats/microsoft-can-fix-ransomware-tomorrow)
 - [Fortanix Builds Hardware Security Wall Around Plaintext Search](https://www.darkreading.com/dr-tech/fortanix-builds-hardware-security-wall-around-plaintext-search)
 - [Researchers Develop Exploit Code for Critical Fortinet VPN Bug](https://www.darkreading.com/vulnerabilities-threats/researchers-develop-exploit-code-for-critical-fortinet-bug)
-- [Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group](https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
