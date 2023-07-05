@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Golden Age of AI … or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
+- [C10p&#39;s MOVEit Campaign Represents a New Era in Cyberattacks](https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks)
 - [China&#39;s Mustang Panda Linked to SmugX Attacks on European Governments](https://www.darkreading.com/endpoint/group-tied-to-china-s-mustang-panda-targets-european-governments-with-smugx)
 - [Microsoft Can Fix Ransomware Tomorrow](https://www.darkreading.com/vulnerabilities-threats/microsoft-can-fix-ransomware-tomorrow)
 - [Fortanix Builds Hardware Security Wall Around Plaintext Search](https://www.darkreading.com/dr-tech/fortanix-builds-hardware-security-wall-around-plaintext-search)
 - [Researchers Develop Exploit Code for Critical Fortinet VPN Bug](https://www.darkreading.com/vulnerabilities-threats/researchers-develop-exploit-code-for-critical-fortinet-bug)
 - [Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group](https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-)
 - [Israel Aided UAE in Defending Against DDoS Attack](https://www.darkreading.com/dr-global/israel-aided-uae-in-defending-against-ddos-attack)
-- [SSH Servers Hit in &#39;Proxyjacking&#39; Cyberattacks](https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks)
-- [A CISO&#39;s Guide to Paying Down Software Supply Chain Security Debt](https://www.darkreading.com/vulnerabilities-threats/ciso-guide-paying-down-software-supply-chain-security-debt)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
