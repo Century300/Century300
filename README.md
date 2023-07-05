@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Can Fix Ransomware Tomorrow](https://www.darkreading.com/vulnerabilities-threats/microsoft-can-fix-ransomware-tomorrow)
 - [Fortanix Builds Hardware Security Wall Around Plaintext Search](https://www.darkreading.com/dr-tech/fortanix-builds-hardware-security-wall-around-plaintext-search)
 - [Researchers Develop Exploit Code for Critical Fortinet VPN Bug](https://www.darkreading.com/vulnerabilities-threats/researchers-develop-exploit-code-for-critical-fortinet-bug)
 - [Russian Satellite Internet Downed via Attackers Claiming Ties to Wagner Group](https://www.darkreading.com/attacks-breaches/hackers-claiming-wagner-group-ties-down-russian-satellite-internet-comms-)
@@ -83,7 +84,6 @@
 - [SSH Servers Hit in &#39;Proxyjacking&#39; Cyberattacks](https://www.darkreading.com/risk/ssh-servers-hit-in-proxyjacking-cyberattacks)
 - [A CISO&#39;s Guide to Paying Down Software Supply Chain Security Debt](https://www.darkreading.com/vulnerabilities-threats/ciso-guide-paying-down-software-supply-chain-security-debt)
 - [Name That Edge Toon: Three-Ring Circus](https://www.darkreading.com/edge-articles/name-that-edge-toon-three-ring-circus)
-- [Architecting XDR to Save Money and Your SOC&#39;s Sanity](https://www.darkreading.com/operations/architecting-xdr-save-money-and-your-soc-sanity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
