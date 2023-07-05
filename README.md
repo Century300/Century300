@@ -82,7 +82,7 @@
 - [OPERA1ER Cybercrime Group&#39;s Leader Arrested by Interpol](https://www.darkreading.com/dr-global/opera1er-cybercrime-leader-arrested-interpol)
 - [Ransomware Halts Operations at Japan&#39;s Port of Nagoya](https://www.darkreading.com/attacks-breaches/ransomware-halts-operations-at-japan-port-of-nagoya)
 - [A Golden Age of AI … or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
-- [C10p&#39;s MOVEit Campaign Represents a New Era in Cyberattacks](https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks)
+- [Cl0p&#39;s MOVEit Campaign Represents a New Era in Cyberattacks](https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks)
 - [China&#39;s Mustang Panda Linked to SmugX Attacks on European Governments](https://www.darkreading.com/endpoint/group-tied-to-china-s-mustang-panda-targets-european-governments-with-smugx)
 <!-- DARKREADING:END -->
 
