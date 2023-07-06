@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patchless Cisco Flaw Breaks Cloud Encryption for ACI Traffic](https://www.darkreading.com/perimeter/patchless-cisco-flaw-cloud-encryption-aci-traffic)
+- [Shell Becomes Latest Cl0p MOVEit Victim](https://www.darkreading.com/attacks-breaches/shell-latest-cl0p-moveit-victim)
 - [Privacy Woes Hold Up Global Instagram Threads Launch](https://www.darkreading.com/endpoint/privacy-woes-hold-up-global-instagram-threads-launch)
 - [Cybersecurity&#39;s Future Hinges on Stronger Public-Private Partnerships](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-future-hinges-stronger-public-private-partnerships)
-- [Google Searches for &#39;USPS Package Tracking&#39; Leads to Banking Theft](https://www.darkreading.com/endpoint/google-searches-usps-tracking-banking-theft)
+- [Google Searches for &#39;USPS Package Tracking&#39; Lead to Banking Theft](https://www.darkreading.com/endpoint/google-searches-usps-tracking-banking-theft)
 - [CISOs Find &#39;Business as Usual&#39; Shows the Harsh Realities of Cyber-Risk](https://www.darkreading.com/risk/cisos-find-business-as-usual-shows-the-harsh-realities-of-cyber-risk)
 - [Botnets Send Exploits Within Days to Weeks After Published PoC](https://www.darkreading.com/vulnerabilities-threats/botnets-send-exploits-only-day-to-weeks-after-published-poc)
 - [6 Steps To Outsmart Business Email Compromise Scammers](https://www.darkreading.com/microsoft/6-steps-to-outsmarting-business-email-compromise-scammers)
-- [Startup Spotlight: Gomboc.ai Balances Cloud Infrastructure Security](https://www.darkreading.com/dr-tech/startup-spotlight-gomboc-ai-balances-cloud-infrastructure-security)
-- [3 Critical RCE Bugs Threaten Industrial Solar Panels, Endangering Grid Systems](https://www.darkreading.com/ics-ot/3-critical-rce-bugs-threaten-industrial-solar-panels)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
