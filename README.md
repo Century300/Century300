@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [3 Critical RCE Bugs Threaten Industrial Solar Panels, Endangering Grid Systems](https://www.darkreading.com/ics-ot/3-critical-rce-bugs-threaten-industrial-solar-panels)
+- [Mitigating Risk With Threat Intelligence](https://www.darkreading.com/edge/mitigating-risk-with-threat-intelligence)
 - [83% of Brits Demand Messaging Apps Remain Private, Ahead of Threat From Online Safety Bill](https://www.darkreading.com/iot/83-of-brits-demand-messaging-apps-remain-private-ahead-of-threat-from-online-safety-bill)
 - [Microsoft Teams Exploit Tool Auto-Delivers Malware](https://www.darkreading.com/perimeter/microsoft-teams-exploit-toll-autodeliver-malware)
 - [OPERA1ER Cybercrime Group&#39;s Leader Arrested by Interpol](https://www.darkreading.com/dr-global/opera1er-cybercrime-leader-arrested-interpol)
 - [Ransomware Halts Operations at Japan&#39;s Port of Nagoya](https://www.darkreading.com/attacks-breaches/ransomware-halts-operations-at-japan-port-of-nagoya)
 - [A Golden Age of AI … or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
 - [Cl0p&#39;s MOVEit Campaign Represents a New Era in Cyberattacks](https://www.darkreading.com/attacks-breaches/c10p-moveit-campaign-new-era-cyberattacks)
-- [China&#39;s Mustang Panda Linked to SmugX Attacks on European Governments](https://www.darkreading.com/endpoint/group-tied-to-china-s-mustang-panda-targets-european-governments-with-smugx)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
