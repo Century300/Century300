@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Find &#39;Business as Usual&#39; Shows the Harsh Realities of Cyber-Risk](https://www.darkreading.com/risk/cisos-find-business-as-usual-shows-the-harsh-realities-of-cyber-risk)
+- [Botnets Send Exploits Within Days to Weeks After Published PoC](https://www.darkreading.com/vulnerabilities-threats/botnets-send-exploits-only-day-to-weeks-after-published-poc)
+- [6 Steps To Outsmart Business Email Compromise Scammers](https://www.darkreading.com/microsoft/6-steps-to-outsmarting-business-email-compromise-scammers)
 - [Startup Spotlight: Gomboc.ai Balances Cloud Infrastructure Security](https://www.darkreading.com/dr-tech/startup-spotlight-gomboc-ai-balances-cloud-infrastructure-security)
 - [3 Critical RCE Bugs Threaten Industrial Solar Panels, Endangering Grid Systems](https://www.darkreading.com/ics-ot/3-critical-rce-bugs-threaten-industrial-solar-panels)
 - [Mitigating Risk With Threat Intelligence](https://www.darkreading.com/edge/mitigating-risk-with-threat-intelligence)
 - [83% of Brits Demand Messaging Apps Remain Private, Ahead of Threat From Online Safety Bill](https://www.darkreading.com/iot/83-of-brits-demand-messaging-apps-remain-private-ahead-of-threat-from-online-safety-bill)
 - [Microsoft Teams Exploit Tool Auto-Delivers Malware](https://www.darkreading.com/perimeter/microsoft-teams-exploit-toll-autodeliver-malware)
-- [OPERA1ER Cybercrime Group&#39;s Leader Arrested by Interpol](https://www.darkreading.com/dr-global/opera1er-cybercrime-leader-arrested-interpol)
-- [Ransomware Halts Operations at Japan&#39;s Port of Nagoya](https://www.darkreading.com/attacks-breaches/ransomware-halts-operations-at-japan-port-of-nagoya)
-- [A Golden Age of AI … or Security Threats?](https://www.darkreading.com/vulnerabilities-threats/a-golden-age-of-ai-or-security-threats-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
