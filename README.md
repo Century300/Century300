@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Spyware Gamed 1.5M Users of Google Play Store](https://www.darkreading.com/threat-intelligence/spyware-gamed-1-5m-users-of-google-play-store-)
+- [MOVEit Transfer Faces Another Critical Data-Theft Bug](https://www.darkreading.com/endpoint/moveit-transfer-another-critical-data-theft-bug)
 - [Can Generative AI Be Trusted to Fix Your Code?](https://www.darkreading.com/application-security/can-generative-ai-be-trusted-to-fix-your-code-)
 - [Startup Spotlight: Endor Labs Focuses on Reachability](https://www.darkreading.com/dr-tech/startup-spotlight-endor-labs-focuses-on-reachability)
 - [Black Hat Announces Maria Markstedter, Jen Easterly, Viktor Zhora, and Kemba Walden As Keynote Speakers for Black Hat USA 2023](https://www.darkreading.com/endpoint/black-hat-announces-maria-markstedter-jen-easterly-viktor-zhora-and-kemba-walden-as-keynote-speakers-for-black-hat-usa-2023)
 - [StackRot Linux Kernel Bug Has Exploit Code on the Way](https://www.darkreading.com/vulnerabilities-threats/stackrot-linux-kernel-bug-exploit-code)
 - [Patchless Cisco Flaw Breaks Cloud Encryption for ACI Traffic](https://www.darkreading.com/perimeter/patchless-cisco-flaw-cloud-encryption-aci-traffic)
 - [Shell Becomes Latest Cl0p MOVEit Victim](https://www.darkreading.com/attacks-breaches/shell-latest-cl0p-moveit-victim)
-- [Privacy Woes Hold Up Global Instagram Threads Launch](https://www.darkreading.com/endpoint/privacy-woes-hold-up-global-instagram-threads-launch)
-- [Cybersecurity&#39;s Future Hinges on Stronger Public-Private Partnerships](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-future-hinges-stronger-public-private-partnerships)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
