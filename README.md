@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amazon Prime Day Draws out Cyber Scammers](https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers)
 - [10 Features an API Security Service Needs to Offer](https://www.darkreading.com/edge/10-features-an-api-security-service-needs-to-offer)
 - [APT35 Develops Mac Bespoke Malware](https://www.darkreading.com/dr-global/apt35-mac-bespoke-malware)
 - [Deepfake Quantum AI Investment Scam Pops Up on Facebook](https://www.darkreading.com/endpoint/deepfake-quantum-ai-investment-facebook)
 - [Banking Firms Under Attack by Sophisticated &#39;Toitoin&#39; Campaign](https://www.darkreading.com/remote-workforce/banking-firms-attack-toitoin-cyber-campaign)
 - [Zero Trust Keeps Digital Attacks From Entering the Real World](https://www.darkreading.com/ics-ot/zero-trust-keeps-digital-attacks-from-entering-the-real-world)
 - [How to Use Log Management to Retrace Your Digital Footsteps](https://www.darkreading.com/cloud/use-log-management-retrace-your-digital-footsteps)
-- [Exposure Management Looks to Attack Paths, Identity to Better Measure Risk](https://www.darkreading.com/dr-tech/exposure-management-looks-to-attack-paths-identity-to-better-measure-risk)
-- [How to Safely Architect AI in Your Cybersecurity Programs](https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs)
+- [Why Hybrid Work Has Made Secure Access So Complicated](https://www.darkreading.com/cloud/why-hybrid-work-has-made-secure-access-so-complicated)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
