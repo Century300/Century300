@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero Trust Keeps Digital Attacks From Entering the Real World](https://www.darkreading.com/ics-ot/zero-trust-keeps-digital-attacks-from-entering-the-real-world)
 - [How to Use Log Management to Retrace Your Digital Footsteps](https://www.darkreading.com/cloud/use-log-management-retrace-your-digital-footsteps)
 - [Exposure Management Looks to Attack Paths, Identity to Better Measure Risk](https://www.darkreading.com/dr-tech/exposure-management-looks-to-attack-paths-identity-to-better-measure-risk)
 - [How to Safely Architect AI in Your Cybersecurity Programs](https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs)
@@ -83,7 +84,6 @@
 - [Meta&#39;s Rush to Topple Twitter Sets Up Looming Privacy Debate](https://www.darkreading.com/endpoint/meta-rush-to-topple-twitter-sets-up-looming-privacy-debate)
 - [Truebot Malware Variants Abound, According to CISA Advisory](https://www.darkreading.com/threat-intelligence/truebot-malware-variants-abound-according-to-cisa-advisory)
 - [Spyware Gamed 1.5M Users of Google Play Store](https://www.darkreading.com/threat-intelligence/spyware-gamed-1-5m-users-of-google-play-store-)
-- [MOVEit Transfer Faces Another Critical Data-Theft Bug](https://www.darkreading.com/endpoint/moveit-transfer-another-critical-data-theft-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
