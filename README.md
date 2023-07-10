@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Features an API Security Service Needs to Offer](https://www.darkreading.com/edge/10-features-an-api-security-service-needs-to-offer)
+- [APT35 Develops Mac Bespoke Malware](https://www.darkreading.com/dr-global/apt35-mac-bespoke-malware)
+- [Deepfake Quantum AI Investment Scam Pops Up on Facebook](https://www.darkreading.com/endpoint/deepfake-quantum-ai-investment-facebook)
 - [Banking Firms Under Attack by Sophisticated &#39;Toitoin&#39; Campaign](https://www.darkreading.com/remote-workforce/banking-firms-attack-toitoin-cyber-campaign)
 - [Zero Trust Keeps Digital Attacks From Entering the Real World](https://www.darkreading.com/ics-ot/zero-trust-keeps-digital-attacks-from-entering-the-real-world)
 - [How to Use Log Management to Retrace Your Digital Footsteps](https://www.darkreading.com/cloud/use-log-management-retrace-your-digital-footsteps)
 - [Exposure Management Looks to Attack Paths, Identity to Better Measure Risk](https://www.darkreading.com/dr-tech/exposure-management-looks-to-attack-paths-identity-to-better-measure-risk)
 - [How to Safely Architect AI in Your Cybersecurity Programs](https://www.darkreading.com/edge/how-to-safely-architect-ai-in-your-cybersecurity-programs)
-- [Global Hacking Competition Addresses Critical Increase in Cybersecurity Threats for Businesses](https://www.darkreading.com/attacks-breaches/global-hacking-competition-addresses-critical-increase-in-cybersecurity-threats-for-businesses)
-- [Meta&#39;s Rush to Topple Twitter Sets Up Looming Privacy Debate](https://www.darkreading.com/endpoint/meta-rush-to-topple-twitter-sets-up-looming-privacy-debate)
-- [CISA: Truebot Malware Variants Turn to Netwirx Auditor RCE Bug](https://www.darkreading.com/threat-intelligence/truebot-malware-variants-abound-according-to-cisa-advisory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
