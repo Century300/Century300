@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NIST Launches Generative AI Working Group](https://www.darkreading.com/dr-tech/nist-launches-generative-ai-working-group)
 - [Honeywell to Acquire SCADAfence, Strengthening its Cybersecurity Software Portfolio](https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio)
 - [Guardz Identifies New &#39;ShadowVault&#39; macOS Stealer Malware](https://www.darkreading.com/endpoint/guardz-identifies-new-shadowvault-macos-stealer-malware)
-- [Amazon Prime Day Draws out Cyber Scammers](https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers)
+- [Amazon Prime Day Draws Out Cyber Scammers](https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers)
 - [10 Features an API Security Service Needs to Offer](https://www.darkreading.com/edge/10-features-an-api-security-service-needs-to-offer)
 - [APT35 Develops Mac Bespoke Malware](https://www.darkreading.com/dr-global/apt35-mac-bespoke-malware)
 - [Deepfake Quantum AI Investment Scam Pops Up on Facebook](https://www.darkreading.com/endpoint/deepfake-quantum-ai-investment-facebook)
 - [Banking Firms Under Attack by Sophisticated &#39;Toitoin&#39; Campaign](https://www.darkreading.com/remote-workforce/banking-firms-attack-toitoin-cyber-campaign)
-- [Zero Trust Keeps Digital Attacks From Entering the Real World](https://www.darkreading.com/ics-ot/zero-trust-keeps-digital-attacks-from-entering-the-real-world)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
