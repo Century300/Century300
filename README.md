@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Discloses 5 Zero-Days in Voluminous July Security Update](https://www.darkreading.com/application-security/microsoft-discloses--zero-days-in-voluminous-july-security-update)
 - [Mastodon Patches 4 Bugs, but Is the Twitter Killer Safe to Use?](https://www.darkreading.com/vulnerabilities-threats/mastodon-patches-4-bugs-but-is-the-twitter-killer-safe-to-use-)
 - [Hubble Announces Aurora™, the Category Defining Cybersecurity Asset Intelligence™ Platform](https://www.darkreading.com/operations/hubble-announces-aurora-the-category-defining-cybersecurity-asset-intelligence-platform)
 - [SpecterOps Closes Series A Extension From Ballistic Ventures, Bringing Funding Round Total to $33.5M](https://www.darkreading.com/threat-intelligence/specterops-closes-series-a-extension-from-ballistic-ventures-bringing-funding-round-total-to-33-5m)
@@ -83,7 +84,6 @@
 - [11M HCA Healthcare Patients Impacted by Data Breach](https://www.darkreading.com/attacks-breaches/11m-hca-healthcare-patients-impacted-data-breach)
 - [Microsoft Expands Entra Into Secure Service Edge](https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge)
 - [Bangladesh Government Website Leaks Personal Data](https://www.darkreading.com/dr-global/bangladesh-government-website-leaks-personal-data)
-- [Cyberattacks Are a War We&#39;ll Never Win, but We Can Defend Ourselves](https://www.darkreading.com/attacks-breaches/cyberattacks-are-a-war-we-ll-never-win-but-we-can-defend-ourselves)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
