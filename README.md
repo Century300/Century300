@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;ScarletEel&#39; Hackers Worm Into AWS Cloud](https://www.darkreading.com/vulnerabilities-threats/scarleteel-hackers-worm-into-aws-cloud)
 - [Analysts: Cybersecurity Funding Set for Rebound](https://www.darkreading.com/operations/analysts-cybersecurity-funding-uptick-2h-2023)
 - [NIST Launches Generative AI Working Group](https://www.darkreading.com/dr-tech/nist-launches-generative-ai-working-group)
 - [Honeywell to Acquire SCADAfence, Strengthening its Cybersecurity Software Portfolio](https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio)
@@ -83,7 +84,6 @@
 - [Amazon Prime Day Draws Out Cyber Scammers](https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers)
 - [10 Features an API Security Service Needs to Offer](https://www.darkreading.com/edge/10-features-an-api-security-service-needs-to-offer)
 - [APT35 Develops Mac Bespoke Malware](https://www.darkreading.com/dr-global/apt35-mac-bespoke-malware)
-- [Deepfake Quantum AI Investment Scam Pops Up on Facebook](https://www.darkreading.com/endpoint/deepfake-quantum-ai-investment-facebook)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
