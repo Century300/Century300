@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattacks Are a War We&#39;ll Never Win, but We Can Defend Ourselves](https://www.darkreading.com/attacks-breaches/cyberattacks-are-a-war-we-ll-never-win-but-we-can-defend-ourselves)
+- [Apple&#39;s Rapid Zero-Day Patch Causes Safari Issues, Users Say](https://www.darkreading.com/endpoint/apple-rapid-zero-day-patch-causes-safari-issues)
+- [Critical VMware Bug Exploit Code Released Into the Wild](https://www.darkreading.com/cloud/critical-vmware-bug-exploit-code-released)
 - [RomCom Spies Target NATO Summit Ahead of Zelensky’s Arrival](https://www.darkreading.com/endpoint/romcom-spies-nato-summit-zelensky-arrival)
 - [Top Takeaways From Table Talks With Fortune 100 CISOs](https://www.darkreading.com/attacks-breaches/top-takeaways-from-table-talks-fortune-100-cisos)
 - [&#39;ScarletEel&#39; Hackers Worm Into AWS Cloud](https://www.darkreading.com/vulnerabilities-threats/scarleteel-hackers-worm-into-aws-cloud)
 - [Analysts: Cybersecurity Funding Set for Rebound](https://www.darkreading.com/operations/analysts-cybersecurity-funding-uptick-2h-2023)
 - [NIST Launches Generative AI Working Group](https://www.darkreading.com/dr-tech/nist-launches-generative-ai-working-group)
-- [Honeywell to Acquire SCADAfence, Strengthening its Cybersecurity Software Portfolio](https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio)
-- [Guardz Identifies New &#39;ShadowVault&#39; macOS Stealer Malware](https://www.darkreading.com/endpoint/guardz-identifies-new-shadowvault-macos-stealer-malware)
-- [Amazon Prime Day Draws Out Cyber Scammers](https://www.darkreading.com/endpoint/amazon-prime-day-cyber-scammers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
