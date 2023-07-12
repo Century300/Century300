@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Say Generative AI Unlikely to Replace Human Cybersecurity Skills According to Bugcrowd Survey](https://www.darkreading.com/threat-intelligence/hackers-say-generative-ai-unlikely-to-replace-human-cybersecurity-skills-according-to-bugcrowd-survey)
+- [Firedome Integrates With Microsoft Defender for IoT to Enhance IoT Device Security, Using Microsoft Sentinel](https://www.darkreading.com/iot/firedome-integrates-with-microsoft-defender-for-iot-to-enhance-iot-device-security-using-microsoft-sentinel)
+- [Console &amp; Associates, P.C. Investigates HCA Healthcare After Report of Data Breach Affecting an Estimated 11M Patients](https://www.darkreading.com/attacks-breaches/console-associates-p-c-investigates-hca-healthcare-after-report-of-data-breach-affecting-an-estimated-11m-patients)
+- [&lpar;ISC&rpar;² Strengthens DEI Initiatives through Global Partnerships](https://www.darkreading.com/dr-global/-isc-strengthens-dei-initiatives-through-global-partnerships)
+- [Less Than Half of SMBs Deploy Privileged Access Management](https://www.darkreading.com/remote-workforce/less-than-half-of-smbs-deploy-privileged-access-management)
 - [QuickBlox API Vulnerabilities Open Video, Chat Users to Data Theft](https://www.darkreading.com/application-security/team82-check-point-research-uncover-quickblox-api-vulnerabilities)
 - [How to Put Generative AI to Work in Your Security Operations Center](https://www.darkreading.com/vulnerabilities-threats/how-to-put-generative-ai-to-work-in-your-security-operations-center)
 - [White House Urged to Quickly Nominate National Cyber Director](https://www.darkreading.com/ics-ot/white-house-urged-quickly-nominate-national-cyber-director)
-- [Hackers Exploit Policy Loophole in Windows Kernel Drivers](https://www.darkreading.com/endpoint/hackers-exploit-policy-loophole-windows-kernel-drivers)
-- [Ransomware, From a Different Perspective](https://www.darkreading.com/omdia/ransomware-from-a-different-perspective)
-- [Microsoft Discloses 5 Zero-Days in Voluminous July Security Update](https://www.darkreading.com/application-security/microsoft-discloses--zero-days-in-voluminous-july-security-update)
-- [Mastodon Patches 4 Bugs, but Is the Twitter Killer Safe to Use?](https://www.darkreading.com/vulnerabilities-threats/mastodon-patches-4-bugs-but-is-the-twitter-killer-safe-to-use-)
-- [Hubble Announces Aurora™, the Category Defining Cybersecurity Asset Intelligence™ Platform](https://www.darkreading.com/operations/hubble-announces-aurora-the-category-defining-cybersecurity-asset-intelligence-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
