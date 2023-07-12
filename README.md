@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Put Generative AI to Work in Your Security Operations Center](https://www.darkreading.com/vulnerabilities-threats/how-to-put-generative-ai-to-work-in-your-security-operations-center)
+- [White House Urged to Quickly Nominate National Cyber Director](https://www.darkreading.com/ics-ot/white-house-urged-quickly-nominate-national-cyber-director)
 - [Hackers Exploit Policy Loophole in Windows Kernel Drivers](https://www.darkreading.com/endpoint/hackers-exploit-policy-loophole-windows-kernel-drivers)
 - [Ransomware, From a Different Perspective](https://www.darkreading.com/omdia/ransomware-from-a-different-perspective)
 - [Microsoft Discloses 5 Zero-Days in Voluminous July Security Update](https://www.darkreading.com/application-security/microsoft-discloses--zero-days-in-voluminous-july-security-update)
 - [Mastodon Patches 4 Bugs, but Is the Twitter Killer Safe to Use?](https://www.darkreading.com/vulnerabilities-threats/mastodon-patches-4-bugs-but-is-the-twitter-killer-safe-to-use-)
 - [Hubble Announces Aurora™, the Category Defining Cybersecurity Asset Intelligence™ Platform](https://www.darkreading.com/operations/hubble-announces-aurora-the-category-defining-cybersecurity-asset-intelligence-platform)
 - [SpecterOps Closes Series A Extension From Ballistic Ventures, Bringing Funding Round Total to $33.5M](https://www.darkreading.com/threat-intelligence/specterops-closes-series-a-extension-from-ballistic-ventures-bringing-funding-round-total-to-33-5m)
-- [Tracy Resident Charged With Computer Attack On Discovery Bay Water Treatment Facility](https://www.darkreading.com/careers-and-people/tracy-resident-charged-with-computer-attack-on-discovery-bay-water-treatment-facility)
-- [11M HCA Healthcare Patients Impacted by Data Breach](https://www.darkreading.com/attacks-breaches/11m-hca-healthcare-patients-impacted-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
