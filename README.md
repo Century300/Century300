@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Exploit Policy Loophole in Windows Kernel Drivers](https://www.darkreading.com/endpoint/hackers-exploit-policy-loophole-windows-kernel-drivers)
 - [Ransomware, From a Different Perspective](https://www.darkreading.com/omdia/ransomware-from-a-different-perspective)
 - [Microsoft Discloses 5 Zero-Days in Voluminous July Security Update](https://www.darkreading.com/application-security/microsoft-discloses--zero-days-in-voluminous-july-security-update)
 - [Mastodon Patches 4 Bugs, but Is the Twitter Killer Safe to Use?](https://www.darkreading.com/vulnerabilities-threats/mastodon-patches-4-bugs-but-is-the-twitter-killer-safe-to-use-)
@@ -83,7 +84,6 @@
 - [SpecterOps Closes Series A Extension From Ballistic Ventures, Bringing Funding Round Total to $33.5M](https://www.darkreading.com/threat-intelligence/specterops-closes-series-a-extension-from-ballistic-ventures-bringing-funding-round-total-to-33-5m)
 - [Tracy Resident Charged With Computer Attack On Discovery Bay Water Treatment Facility](https://www.darkreading.com/careers-and-people/tracy-resident-charged-with-computer-attack-on-discovery-bay-water-treatment-facility)
 - [11M HCA Healthcare Patients Impacted by Data Breach](https://www.darkreading.com/attacks-breaches/11m-hca-healthcare-patients-impacted-data-breach)
-- [Microsoft Expands Entra Into Secure Service Edge](https://www.darkreading.com/dr-tech/microsoft-expands-entra-into-secure-service-edge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
