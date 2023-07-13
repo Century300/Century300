@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks](https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks)
+- [Safe Security Acquires RiskLens](https://www.darkreading.com/risk/safe-security-acquires-risklens-)
+- [Linux Hacker Exploits Researchers With Fake PoCs Posted to GitHub](https://www.darkreading.com/attacks-breaches/linux-hacker-exploits-researchers-with-fake-pocs-posted-to-github)
+- [Cybersecurity Leaders Report Reduction in Disruptive Cyber Incidents With MSS/MDR Solutions](https://www.darkreading.com/operations/cybersecurity-leaders-report-reduction-in-disruptive-cyber-incidents-with-mss-mdr-solutions)
 - [Orca Sues Wiz for &#39;Copying&#39; Its Cloud Security Tech](https://www.darkreading.com/cloud/orca-sues-wiz-patent-infringement-cloud-security)
 - [How the EU AI Act Will Affect Businesses, Cybersecurity](https://www.darkreading.com/edge/how-the-eu-ai-act-will-affect-businesses-cybersecurity)
-- [WormGPT Cybercrime Tool Heralds An Era of AI Malware v AI Defenses](https://www.darkreading.com/attacks-breaches/wormgpt-heralds-an-era-of-using-ai-defenses-to-battle-ai-malware)
+- [WormGPT Cybercrime Tool Heralds an Era of AI Malware vs. AI Defenses](https://www.darkreading.com/attacks-breaches/wormgpt-heralds-an-era-of-using-ai-defenses-to-battle-ai-malware)
 - [Critical RCE Bug in Rockwell Automation PLCs Zaps Industrial Sites](https://www.darkreading.com/ics-ot/critical-rce-vulnerability-rockwell-automation-plc-industrial)
-- [Okta, Ping Identity, CyberArk &amp; Oracle Lead the IDaaS Omdia Universe](https://www.darkreading.com/omdia/okta-ping-identity-cyberark-oracle-lead-the-idaas-omdia-universe)
-- [SolarWinds Attackers Dangle BMWs to Spy on Diplomats](https://www.darkreading.com/endpoint/solarwinds-attackers-bmws-spy-diplomats)
-- [Killnet Tries Building Russian Hacktivist Clout With Media Stunts](https://www.darkreading.com/attacks-breaches/killnet-wants-to-consolidate-russian-hacktivist-groups)
-- [Creating a Patch Management Playbook: 6 Key Questions](https://www.darkreading.com/operations/creating-a-patch-management-playbook-6-key-questions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
