@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WormGPT Heralds An Era of Using AI Defenses to Battle AI Malware](https://www.darkreading.com/attacks-breaches/wormgpt-heralds-an-era-of-using-ai-defenses-to-battle-ai-malware)
+- [Critical RCE Bug in Rockwell Automation PLCs Zaps Industrial Sites](https://www.darkreading.com/ics-ot/critical-rce-vulnerability-rockwell-automation-plc-industrial)
 - [Okta, Ping Identity, CyberArk &amp; Oracle Lead the IDaaS Omdia Universe](https://www.darkreading.com/omdia/okta-ping-identity-cyberark-oracle-lead-the-idaas-omdia-universe)
 - [SolarWinds Attackers Dangle BMWs to Spy on Diplomats](https://www.darkreading.com/endpoint/solarwinds-attackers-bmws-spy-diplomats)
-- [Creating a Patch Management Playbook: 6 Key Questions](https://www.darkreading.com/operations/creating-a-patch-management-playbook-6-key-questions)
 - [Killnet Tries Building Russian Hacktivist Clout With Media Stunts](https://www.darkreading.com/attacks-breaches/killnet-wants-to-consolidate-russian-hacktivist-groups)
+- [Creating a Patch Management Playbook: 6 Key Questions](https://www.darkreading.com/operations/creating-a-patch-management-playbook-6-key-questions)
 - [Hackers Target Gamers With Microsoft-Signed Rootkit](https://www.darkreading.com/attacks-breaches/researchers-discover-microsoft-signed-rootkit-for-loading-2nd-stage-kernel-module)
 - [Startup Spotlight: Mobb Aims to Be the Fixer](https://www.darkreading.com/dr-tech/startup-spotlight-mobb-aims-to-be-the-fixer)
-- [Chinese APT Cracks Microsoft Outlook Emails at 25 Government Agencies](https://www.darkreading.com/endpoint/chinese-apt-cracks-microsoft-outlook-emails-government-agencies)
-- [Hackers Say Generative AI Unlikely to Replace Human Cybersecurity Skills According to Bugcrowd Survey](https://www.darkreading.com/threat-intelligence/hackers-say-generative-ai-unlikely-to-replace-human-cybersecurity-skills-according-to-bugcrowd-survey)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
