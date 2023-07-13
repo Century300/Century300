@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Fills in Details Of National Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/white-house-releases-implementation-plan-for-cybersecurity-strategy)
+- [Secure Code Warrior Raises $50M to Accelerate Product Innovation](https://www.darkreading.com/operations/secure-code-warrior-raises-50m-to-accelerate-product-innovation)
+- [Black Hat Announces Sustainability Pledge](https://www.darkreading.com/threat-intelligence/-black-hat-announces-sustainability-pledge)
+- [Secure Code Warrior Ushers in Next Era in Developer Driven Security With $50M Series C Funding Round](https://www.darkreading.com/application-security/secure-code-warrior-ushers-in-next-era-in-developer-driven-security-with-50m-series-c-funding-round)
+- [Introducing EncryptionSafe: A Free and Easy-to-Use Encryption App for Windows PC](https://www.darkreading.com/remote-workforce/introducing-encryptionsafe-a-free-and-easy-to-use-encryption-app-for-windows-pc)
 - [Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks](https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks)
 - [Safe Security Acquires RiskLens](https://www.darkreading.com/risk/safe-security-acquires-risklens-)
 - [Linux Hacker Exploits Researchers With Fake PoCs Posted to GitHub](https://www.darkreading.com/attacks-breaches/linux-hacker-exploits-researchers-with-fake-pocs-posted-to-github)
-- [Cybersecurity Leaders Report Reduction in Disruptive Cyber Incidents With MSS/MDR Solutions](https://www.darkreading.com/operations/cybersecurity-leaders-report-reduction-in-disruptive-cyber-incidents-with-mss-mdr-solutions)
-- [Orca Sues Wiz for &#39;Copying&#39; Its Cloud Security Tech](https://www.darkreading.com/cloud/orca-sues-wiz-patent-infringement-cloud-security)
-- [How the EU AI Act Will Affect Businesses, Cybersecurity](https://www.darkreading.com/edge/how-the-eu-ai-act-will-affect-businesses-cybersecurity)
-- [WormGPT Cybercrime Tool Heralds an Era of AI Malware vs. AI Defenses](https://www.darkreading.com/attacks-breaches/wormgpt-heralds-an-era-of-using-ai-defenses-to-battle-ai-malware)
-- [Critical RCE Bug in Rockwell Automation PLCs Zaps Industrial Sites](https://www.darkreading.com/ics-ot/critical-rce-vulnerability-rockwell-automation-plc-industrial)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
