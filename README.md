@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Okta, Ping Identity, CyberArk &amp; Oracle Lead the IDaaS Omdia Universe](https://www.darkreading.com/omdia/okta-ping-identity-cyberark-oracle-lead-the-idaas-omdia-universe)
 - [SolarWinds Attackers Dangle BMWs to Spy on Diplomats](https://www.darkreading.com/endpoint/solarwinds-attackers-bmws-spy-diplomats)
 - [Creating a Patch Management Playbook: 6 Key Questions](https://www.darkreading.com/operations/creating-a-patch-management-playbook-6-key-questions)
 - [Killnet Tries Building Russian Hacktivist Clout With Media Stunts](https://www.darkreading.com/attacks-breaches/killnet-wants-to-consolidate-russian-hacktivist-groups)
-- [Hackers Target Chinese Gamers With Microsoft-Signed Rootkit](https://www.darkreading.com/attacks-breaches/researchers-discover-microsoft-signed-rootkit-for-loading-2nd-stage-kernel-module)
+- [Hackers Target Gamers With Microsoft-Signed Rootkit](https://www.darkreading.com/attacks-breaches/researchers-discover-microsoft-signed-rootkit-for-loading-2nd-stage-kernel-module)
 - [Startup Spotlight: Mobb Aims to Be the Fixer](https://www.darkreading.com/dr-tech/startup-spotlight-mobb-aims-to-be-the-fixer)
 - [Chinese APT Cracks Microsoft Outlook Emails at 25 Government Agencies](https://www.darkreading.com/endpoint/chinese-apt-cracks-microsoft-outlook-emails-government-agencies)
 - [Hackers Say Generative AI Unlikely to Replace Human Cybersecurity Skills According to Bugcrowd Survey](https://www.darkreading.com/threat-intelligence/hackers-say-generative-ai-unlikely-to-replace-human-cybersecurity-skills-according-to-bugcrowd-survey)
-- [Firedome Integrates With Microsoft Defender for IoT to Enhance IoT Device Security, Using Microsoft Sentinel](https://www.darkreading.com/iot/firedome-integrates-with-microsoft-defender-for-iot-to-enhance-iot-device-security-using-microsoft-sentinel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
