@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Target Chinese Gamers With Microsoft-Signed Rootkit](https://www.darkreading.com/attacks-breaches/researchers-discover-microsoft-signed-rootkit-for-loading-2nd-stage-kernel-module)
 - [Startup Spotlight: Mobb Aims to Be the Fixer](https://www.darkreading.com/dr-tech/startup-spotlight-mobb-aims-to-be-the-fixer)
 - [Chinese APT Cracks Microsoft Outlook Emails at 25 Government Agencies](https://www.darkreading.com/endpoint/chinese-apt-cracks-microsoft-outlook-emails-government-agencies)
 - [Hackers Say Generative AI Unlikely to Replace Human Cybersecurity Skills According to Bugcrowd Survey](https://www.darkreading.com/threat-intelligence/hackers-say-generative-ai-unlikely-to-replace-human-cybersecurity-skills-according-to-bugcrowd-survey)
@@ -83,7 +84,6 @@
 - [Console &amp; Associates, P.C. Investigates HCA Healthcare After Report of Data Breach Affecting an Estimated 11M Patients](https://www.darkreading.com/attacks-breaches/console-associates-p-c-investigates-hca-healthcare-after-report-of-data-breach-affecting-an-estimated-11m-patients)
 - [&lpar;ISC&rpar;² Strengthens DEI Initiatives through Global Partnerships](https://www.darkreading.com/dr-global/-isc-strengthens-dei-initiatives-through-global-partnerships)
 - [Less Than Half of SMBs Deploy Privileged Access Management](https://www.darkreading.com/remote-workforce/less-than-half-of-smbs-deploy-privileged-access-management)
-- [QuickBlox API Vulnerabilities Open Video, Chat Users to Data Theft](https://www.darkreading.com/application-security/team82-check-point-research-uncover-quickblox-api-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
