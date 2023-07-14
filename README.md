@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Electrical Grid Stability Relies on Balancing Digital Substation Security](https://www.darkreading.com/attacks-breaches/electrical-grid-stability-relies-on-balancing-digital-substation-security)
+- [Brand Impersonation Scams in Middle East &amp; Africa See Massive Growth](https://www.darkreading.com/dr-global/brand-impersonation-middle-east-africa-growth)
 - [White House Fills in Details Of National Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/white-house-releases-implementation-plan-for-cybersecurity-strategy)
 - [Secure Code Warrior Raises $50M to Accelerate Product Innovation](https://www.darkreading.com/operations/secure-code-warrior-raises-50m-to-accelerate-product-innovation)
 - [Black Hat Announces Sustainability Pledge](https://www.darkreading.com/threat-intelligence/-black-hat-announces-sustainability-pledge)
 - [Secure Code Warrior Ushers in Next Era in Developer Driven Security With $50M Series C Funding Round](https://www.darkreading.com/application-security/secure-code-warrior-ushers-in-next-era-in-developer-driven-security-with-50m-series-c-funding-round)
 - [Introducing EncryptionSafe: A Free and Easy-to-Use Encryption App for Windows PC](https://www.darkreading.com/remote-workforce/introducing-encryptionsafe-a-free-and-easy-to-use-encryption-app-for-windows-pc)
 - [Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks](https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks)
-- [Safe Security Acquires RiskLens](https://www.darkreading.com/risk/safe-security-acquires-risklens-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
