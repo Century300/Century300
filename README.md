@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Electrical Grid Stability Relies on Balancing Digital Substation Security](https://www.darkreading.com/attacks-breaches/electrical-grid-stability-relies-on-balancing-digital-substation-security)
 - [White House Fills in Details Of National Cybersecurity Strategy](https://www.darkreading.com/vulnerabilities-threats/white-house-releases-implementation-plan-for-cybersecurity-strategy)
 - [Secure Code Warrior Raises $50M to Accelerate Product Innovation](https://www.darkreading.com/operations/secure-code-warrior-raises-50m-to-accelerate-product-innovation)
 - [Black Hat Announces Sustainability Pledge](https://www.darkreading.com/threat-intelligence/-black-hat-announces-sustainability-pledge)
@@ -83,7 +84,6 @@
 - [Introducing EncryptionSafe: A Free and Easy-to-Use Encryption App for Windows PC](https://www.darkreading.com/remote-workforce/introducing-encryptionsafe-a-free-and-easy-to-use-encryption-app-for-windows-pc)
 - [Facebook and Microsoft are the Most Impersonated Brands in Phishing Attacks](https://www.darkreading.com/endpoint/facebook-and-microsoft-are-the-most-impersonated-brands-in-phishing-attacks)
 - [Safe Security Acquires RiskLens](https://www.darkreading.com/risk/safe-security-acquires-risklens-)
-- [Linux Hacker Exploits Researchers With Fake PoCs Posted to GitHub](https://www.darkreading.com/attacks-breaches/linux-hacker-exploits-researchers-with-fake-pocs-posted-to-github)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
