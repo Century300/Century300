@@ -76,7 +76,6 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Healthcare Innovation: A Safe and Secure Approach](https://www.darkreading.com/operations/healthcare-innovation-a-safe-and-secure-approach)
 - [How Hackers Can Hijack a Satellite](https://www.darkreading.com/edge/how-researchers-hijacked-a-satellite)
 - [SBOMs Still More Mandate Than Security](https://www.darkreading.com/dr-tech/sboms-still-more-mandate-than-security)
 - [Cisco Flags Critical SD-WAN Vulnerability](https://www.darkreading.com/remote-workforce/cisco-flags-critical-sd-wan-vulnerability)
@@ -84,6 +83,7 @@
 - [Zimbra Zero-Day Demands Urgent Manual Update](https://www.darkreading.com/endpoint/zimbra-zero-day-demands-urgent-manual-update)
 - [Training&#39;s New Understanding](https://www.darkreading.com/omdia/trainings-new-understanding)
 - [Electrical Grid Stability Relies on Balancing Digital Substation Security](https://www.darkreading.com/attacks-breaches/electrical-grid-stability-relies-on-balancing-digital-substation-security)
+- [Brand Impersonation Scams in Middle East &amp; Africa See Massive Growth](https://www.darkreading.com/dr-global/brand-impersonation-middle-east-africa-growth)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
