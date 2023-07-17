@@ -77,8 +77,8 @@
 
 <!-- DARKREADING:START -->
 - [What C-Suite Leaders Need to Know About XDR](https://www.darkreading.com/endpoint/what-c-suite-leaders-need-to-know-about-xdr)
-- [Why CFOs &amp; CISOs Must Collaborate to Strengthen and Protect Organizations in a Recession](https://www.darkreading.com/operations/why-cfos-cisos-must-collaborate-to-strengthen-and-protect-organizations-in-a-recession)
 - [Insider Risk Management Starts With SaaS Security](https://www.darkreading.com/risk/insider-risk-management-starts-with-saas-security)
+- [Why CFOs &amp; CISOs Must Collaborate to Strengthen and Protect Organizations in a Recession](https://www.darkreading.com/operations/why-cfos-cisos-must-collaborate-to-strengthen-and-protect-organizations-in-a-recession)
 - [How Hackers Can Hijack a Satellite](https://www.darkreading.com/edge/how-researchers-hijacked-a-satellite)
 - [SBOMs Still More Mandate Than Security](https://www.darkreading.com/dr-tech/sboms-still-more-mandate-than-security)
 - [Cisco Flags Critical SD-WAN Vulnerability](https://www.darkreading.com/remote-workforce/cisco-flags-critical-sd-wan-vulnerability)
