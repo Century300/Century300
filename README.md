@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What C-Suite Leaders Need to Know About XDR](https://www.darkreading.com/endpoint/what-c-suite-leaders-need-to-know-about-xdr)
+- [Why CFOs &amp; CISOs Must Collaborate to Strengthen and Protect Organizations in a Recession](https://www.darkreading.com/operations/why-cfos-cisos-must-collaborate-to-strengthen-and-protect-organizations-in-a-recession)
+- [Insider Risk Management Starts With SaaS Security](https://www.darkreading.com/risk/insider-risk-management-starts-with-saas-security)
 - [How Hackers Can Hijack a Satellite](https://www.darkreading.com/edge/how-researchers-hijacked-a-satellite)
 - [SBOMs Still More Mandate Than Security](https://www.darkreading.com/dr-tech/sboms-still-more-mandate-than-security)
 - [Cisco Flags Critical SD-WAN Vulnerability](https://www.darkreading.com/remote-workforce/cisco-flags-critical-sd-wan-vulnerability)
 - [Rogue Azure AD Guests Can Steal Data via Power Apps](https://www.darkreading.com/black-hat/azure-ad-guests-steal-data-microsoft-power-apps)
 - [Zimbra Zero-Day Demands Urgent Manual Update](https://www.darkreading.com/endpoint/zimbra-zero-day-demands-urgent-manual-update)
-- [Training&#39;s New Understanding](https://www.darkreading.com/omdia/trainings-new-understanding)
-- [Electrical Grid Stability Relies on Balancing Digital Substation Security](https://www.darkreading.com/attacks-breaches/electrical-grid-stability-relies-on-balancing-digital-substation-security)
-- [Brand Impersonation Scams in Middle East &amp; Africa See Massive Growth](https://www.darkreading.com/dr-global/brand-impersonation-middle-east-africa-growth)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
