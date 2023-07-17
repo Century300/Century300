@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AWS Cloud Credential Stealing Campaign Spreads to Azure, Google Cloud](https://www.darkreading.com/cloud/aws-cloud-credential-stealing-campaign-spreads-azure-google)
+- [UAE and South African Hospitals Fail on DMARC Implementation](https://www.darkreading.com/dr-global/uae-and-south-african-hospitals-fail-on-dmarc-implementation)
 - [If George Washington Had a TikTok, What Would His Password Be?](https://www.darkreading.com/vulnerabilities-threats/if-george-washington-had-tiktok-what-would-his-password-be)
 - [Insider Risk Management Starts With SaaS Security](https://www.darkreading.com/risk/insider-risk-management-starts-with-saas-security)
 - [Why CFOs &amp; CISOs Must Collaborate to Strengthen and Protect Organizations in a Recession](https://www.darkreading.com/operations/why-cfos-cisos-must-collaborate-to-strengthen-and-protect-organizations-in-a-recession)
 - [How Hackers Can Hijack a Satellite](https://www.darkreading.com/edge/how-researchers-hijacked-a-satellite)
 - [SBOMs Still More Mandate Than Security](https://www.darkreading.com/dr-tech/sboms-still-more-mandate-than-security)
 - [Cisco Flags Critical SD-WAN Vulnerability](https://www.darkreading.com/remote-workforce/cisco-flags-critical-sd-wan-vulnerability)
-- [Rogue Azure AD Guests Can Steal Data via Power Apps](https://www.darkreading.com/black-hat/azure-ad-guests-steal-data-microsoft-power-apps)
-- [Zimbra Zero-Day Demands Urgent Manual Update](https://www.darkreading.com/endpoint/zimbra-zero-day-demands-urgent-manual-update)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
