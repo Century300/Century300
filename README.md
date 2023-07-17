@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft &#39;Logging Tax&#39; Hinders Incident Response, Experts Warn](https://www.darkreading.com/remote-workforce/microsoft-logging-tax-hinders-incident-response)
 - [5 Major Takeaways From Microsoft&#39;s July Patch Tuesday](https://www.darkreading.com/remote-workforce/5-major-takeaways-july-patch-tuesday)
 - [AWS Cloud Credential Stealing Campaign Spreads to Azure, Google Cloud](https://www.darkreading.com/cloud/aws-cloud-credential-stealing-campaign-spreads-azure-google)
 - [UAE and South African Hospitals Fail on DMARC Implementation](https://www.darkreading.com/dr-global/uae-and-south-african-hospitals-fail-on-dmarc-implementation)
@@ -83,7 +84,6 @@
 - [Insider Risk Management Starts With SaaS Security](https://www.darkreading.com/risk/insider-risk-management-starts-with-saas-security)
 - [Why CFOs &amp; CISOs Must Collaborate to Strengthen and Protect Organizations in a Recession](https://www.darkreading.com/operations/why-cfos-cisos-must-collaborate-to-strengthen-and-protect-organizations-in-a-recession)
 - [How Hackers Can Hijack a Satellite](https://www.darkreading.com/edge/how-researchers-hijacked-a-satellite)
-- [SBOMs Still More Mandate Than Security](https://www.darkreading.com/dr-tech/sboms-still-more-mandate-than-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
