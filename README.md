@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VirusTotal Data Leak Affects 5K+ Users](https://www.darkreading.com/attacks-breaches/virustotal-data-leak-affects-5k-users)
+- [Hacker Infected &amp; Foiled by Own Infostealer](https://www.darkreading.com/remote-workforce/hacker-infected-foiled-by-own-infostealer)
 - [Name That Toon: Shark Sighting](https://www.darkreading.com/remote-workforce/name-that-toon-shark-sighting)
 - [FIN8 Modifies &#39;Sardonic&#39; Backdoor to Deliver BlackCat Ransomware](https://www.darkreading.com/threat-intelligence/fin8-modifies-sardonic-backdoor-blackcat-ransomware)
 - [Attackers Pummel Millions of Websites via Critical WooCommerce Payments Flaw](https://www.darkreading.com/attacks-breaches/attackers-pummel-websites-critical-woocommerce-payments-flaw)
+- [Microsoft Takes Security Copilot AI Assistant to the Next Level](https://www.darkreading.com/dr-tech/microsoft-security-copilot-ai-assistant-next-level)
 - [Sogu, SnowyDrive Malware Spreads, USB-Based Cyberattacks Surge](https://www.darkreading.com/attacks-breaches/sogu-snowydrive-malware-usb-based-cyberattacks-surge)
 - [Linux Ransomware Poses Significant Threat to Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/linux-ransomware-poses-significant-threat-to-critical-infrastructure)
-- [Startup Spotlight: Binarly Hardens Firmware Security](https://www.darkreading.com/dr-tech/startup-spotlight-binarly-hardens-firmware-security)
-- [How AI-Augmented Threat Intelligence Solves Security Shortfalls](https://www.darkreading.com/black-hat/ai-augmented-threat-intelligence-solves-security-shortfalls)
-- [Microsoft &#39;Logging Tax&#39; Hinders Incident Response, Experts Warn](https://www.darkreading.com/remote-workforce/microsoft-logging-tax-hinders-incident-response)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
