@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Microsoft Relents, Offers Free Key Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
-- [Study: Africa Cybersecurity Improves But Lacks Cross-Border Frameworks](https://www.darkreading.com/dr-global/study-africa-cybersecurity-improves-but-lacks-cross-border-frameworks)
-- [P2P Self-Replicating Cloud Worm Targets Redis](https://www.darkreading.com/application-security/new-cloud-worm-targets-redis-open-source-database-app-)
-- [SophosEncrypt Ransomware Fools Security Researchers](https://www.darkreading.com/threat-intelligence/sophosencrypt-ransomware-fools-security-researchers)
-- [China&#39;s APT41 Linked to WyrmSpy, DragonEgg Mobile Spyware](https://www.darkreading.com/threat-intelligence/china-s-apt41-linked-wyrmspy-dragonegg-mobile-spyware)
-- [Seed Group Brings Resecurity Options to UAE Region](https://www.darkreading.com/operations/seed-group-resecurity-options-uae)
-- [3 Ways AI Could Improve Authentication](https://www.darkreading.com/endpoint/3-ways-ai-could-improve-authentication)
-- [Reducing Security Debt in the Cloud](https://www.darkreading.com/cloud/reducing-security-debt-in-the-cloud)
+- [Microsoft Relents, Offers Free Critical Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
+- [Graylog Acquires Resurface.io&#39;s API Security Solution](https://www.darkreading.com/application-security/graylog-acquires-resurface-io-s-api-security-solution)
+- [Cloud Range Appoints Cybersecurity Leader Galina Antova to Board of Directors](https://www.darkreading.com/ics-ot/cloud-range-appoints-cybersecurity-leader-galina-antova-to-board-of-directors)
+- [Checkmarx Announces CheckAI Plugin for ChatGPT to Detect and Prevent Attacks Against ChatGPT-Generated Code](https://www.darkreading.com/attacks-breaches/checkmarx-announces-checkai-plugin-for-chatgpt-to-detect-and-prevent-attacks-against-chatgpt-generated-code)
+- [Netskope Launches Managed Service Provider Program](https://www.darkreading.com/operations/netskope-launches-managed-service-provider-program)
+- [KnowBe4 Partners With Egress to Enhance Organizations&#39; Inbound and Outbound Email Security Defenses](https://www.darkreading.com/risk/knowbe4-partners-with-egress-to-enhance-organizations-inbound-and-outbound-email-security-defenses)
+- [Netcraft Secures First Funding With Over $100M From Spectrum Equity](https://www.darkreading.com/operations/netcraft-secures-first-funding-with-over-100m-from-spectrum-equity)
+- [HyperSense Fraud Management Now Available on Google Cloud](https://www.darkreading.com/vulnerabilities-threats/hypersense-fraud-management-now-available-on-google-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
