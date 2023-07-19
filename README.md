@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways AI Could Improve Authentication](https://www.darkreading.com/endpoint/3-ways-ai-could-improve-authentication)
 - [Reducing Security Debt in the Cloud](https://www.darkreading.com/cloud/reducing-security-debt-in-the-cloud)
 - [Leverage Threat Intelligence, AI, and Data at Scale to Boost Cyber Defenses](https://www.darkreading.com/microsoft/leverage-threat-intelligence-ai-and-data-at-scale-to-boost-cyber-defenses)
 - [Google Cloud Build Flaw Enables Privilege Escalation, Code Tampering](https://www.darkreading.com/application-security/design-flaw-in-google-cloud-build-enables-privilege-escalation-code-tampering)
@@ -83,7 +84,6 @@
 - [VirusTotal Data Leak Affects 5K+ Users](https://www.darkreading.com/attacks-breaches/virustotal-data-leak-affects-5k-users)
 - [Hacker Infected &amp; Foiled by Own Infostealer](https://www.darkreading.com/remote-workforce/hacker-infected-foiled-by-own-infostealer)
 - [Name That Toon: Shark Sighting](https://www.darkreading.com/remote-workforce/name-that-toon-shark-sighting)
-- [FIN8 Modifies &#39;Sardonic&#39; Backdoor to Deliver BlackCat Ransomware](https://www.darkreading.com/threat-intelligence/fin8-modifies-sardonic-backdoor-blackcat-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
