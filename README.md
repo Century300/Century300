@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Microsoft Relents, Offers Free Key Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
+- [Study: Africa Cybersecurity Improves But Lacks Cross-Border Frameworks](https://www.darkreading.com/dr-global/study-africa-cybersecurity-improves-but-lacks-cross-border-frameworks)
+- [P2P Self-Replicating Cloud Worm Targets Redis](https://www.darkreading.com/application-security/new-cloud-worm-targets-redis-open-source-database-app-)
+- [SophosEncrypt Ransomware Fools Security Researchers](https://www.darkreading.com/threat-intelligence/sophosencrypt-ransomware-fools-security-researchers)
 - [China&#39;s APT41 Linked to WyrmSpy, DragonEgg Mobile Spyware](https://www.darkreading.com/threat-intelligence/china-s-apt41-linked-wyrmspy-dragonegg-mobile-spyware)
 - [Seed Group Brings Resecurity Options to UAE Region](https://www.darkreading.com/operations/seed-group-resecurity-options-uae)
 - [3 Ways AI Could Improve Authentication](https://www.darkreading.com/endpoint/3-ways-ai-could-improve-authentication)
 - [Reducing Security Debt in the Cloud](https://www.darkreading.com/cloud/reducing-security-debt-in-the-cloud)
-- [Leverage Threat Intelligence, AI, and Data at Scale to Boost Cyber Defenses](https://www.darkreading.com/microsoft/leverage-threat-intelligence-ai-and-data-at-scale-to-boost-cyber-defenses)
-- [Google Cloud Build Flaw Enables Privilege Escalation, Code Tampering](https://www.darkreading.com/application-security/design-flaw-in-google-cloud-build-enables-privilege-escalation-code-tampering)
-- [Pernicious Rootkits Pose Growing Blight On Threat Landscape](https://www.darkreading.com/endpoint/researchers-battle-pernicious-rootkits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
