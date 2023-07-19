@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Relents, Offers Free Key Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
+- [Seed Group Brings Resecurity Options to UAE Region](https://www.darkreading.com/operations/seed-group-resecurity-options-uae)
 - [3 Ways AI Could Improve Authentication](https://www.darkreading.com/endpoint/3-ways-ai-could-improve-authentication)
 - [Reducing Security Debt in the Cloud](https://www.darkreading.com/cloud/reducing-security-debt-in-the-cloud)
 - [Leverage Threat Intelligence, AI, and Data at Scale to Boost Cyber Defenses](https://www.darkreading.com/microsoft/leverage-threat-intelligence-ai-and-data-at-scale-to-boost-cyber-defenses)
 - [Google Cloud Build Flaw Enables Privilege Escalation, Code Tampering](https://www.darkreading.com/application-security/design-flaw-in-google-cloud-build-enables-privilege-escalation-code-tampering)
 - [Pernicious Rootkits Pose Growing Blight On Threat Landscape](https://www.darkreading.com/endpoint/researchers-battle-pernicious-rootkits)
 - [VirusTotal Data Leak Affects 5K+ Users](https://www.darkreading.com/attacks-breaches/virustotal-data-leak-affects-5k-users)
-- [Hacker Infected &amp; Foiled by Own Infostealer](https://www.darkreading.com/remote-workforce/hacker-infected-foiled-by-own-infostealer)
-- [Name That Toon: Shark Sighting](https://www.darkreading.com/remote-workforce/name-that-toon-shark-sighting)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
