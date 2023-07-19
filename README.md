@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Leverage Threat Intelligence, AI, and Data at Scale to Boost Cyber Defenses](https://www.darkreading.com/microsoft/leverage-threat-intelligence-ai-and-data-at-scale-to-boost-cyber-defenses)
 - [Google Cloud Build Flaw Enables Privilege Escalation, Code Tampering](https://www.darkreading.com/application-security/design-flaw-in-google-cloud-build-enables-privilege-escalation-code-tampering)
 - [Pernicious Rootkits Pose Growing Blight On Threat Landscape](https://www.darkreading.com/endpoint/researchers-battle-pernicious-rootkits)
 - [VirusTotal Data Leak Affects 5K+ Users](https://www.darkreading.com/attacks-breaches/virustotal-data-leak-affects-5k-users)
@@ -83,7 +84,6 @@
 - [Name That Toon: Shark Sighting](https://www.darkreading.com/remote-workforce/name-that-toon-shark-sighting)
 - [FIN8 Modifies &#39;Sardonic&#39; Backdoor to Deliver BlackCat Ransomware](https://www.darkreading.com/threat-intelligence/fin8-modifies-sardonic-backdoor-blackcat-ransomware)
 - [Attackers Pummel Millions of Websites via Critical WooCommerce Payments Flaw](https://www.darkreading.com/attacks-breaches/attackers-pummel-websites-critical-woocommerce-payments-flaw)
-- [Microsoft Takes Security Copilot AI Assistant to the Next Level](https://www.darkreading.com/dr-tech/microsoft-security-copilot-ai-assistant-next-level)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
