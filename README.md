@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mallox Ransomware Group Activity Shifts Into High Gear](https://www.darkreading.com/attacks-breaches/mallox-ransomware-group-shifts-into-high-gear)
+- [Critical Infrastructure Workers Better At Spotting Phishing](https://www.darkreading.com/ics-ot/critical-infrastructure-workers-spotting-phishes)
+- [Kevin Mandia Brings the HammerCon](https://www.darkreading.com/edge/kevin-mandia-brings-the-hammercon)
+- [Estée Lauder Breached in Twin MOVEit Hacks, by Different Ransom Groups](https://www.darkreading.com/attacks-breaches/estee-lauder-moveit-hacks-different-ransom-groups)
 - [Apache OpenMeetings Wide Open to Account Takeover, Code Execution](https://www.darkreading.com/remote-workforce/apache-openmeetings-account-takeover-code-execution)
+- [Docker Leaks API Secrets &amp; Private Keys, as Cybercriminals Pounce](https://www.darkreading.com/cloud/docker-leaks-api-secrets-private-keys-cybercriminals)
 - [Should You Be Using a Cybersecurity Careers Framework?](https://www.darkreading.com/operations/should-you-be-using-cybersecurity-careers-framework)
 - [Plurilock Announces Generative AI &#39;Guardrails&#39; Product, PromptGuard](https://www.darkreading.com/operations/plurilock-announces-generative-ai-guardrails-product-promptguard)
-- [Google Categorizes 6 Real-World AI Attacks to Prepare for Now](https://www.darkreading.com/attacks-breaches/google-red-team-provides-insight-on-real-world-ai-attacks)
-- [Hacker-Turned-Security-Researcher Kevin Mitnick Dies Aged 59](https://www.darkreading.com/operations/hacker-security-researcher-kevin-mitnick-dies-aged-59)
-- [Enterprise Choices in Measuring Risk](https://www.darkreading.com/omdia/enterprise-choices-in-measuring-risk)
-- [Attackers Exploit Citrix Zero-Day Bug to Pwn NetScaler ADC, Gateway](https://www.darkreading.com/remote-workforce/attackers-exploit-zero-day-bug-in-netscaler-adc-and-gateway-products)
-- [Microsoft Relents, Offers Free Critical Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
