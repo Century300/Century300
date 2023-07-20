@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deloitte Global Expands MXDR Cybersecurity SaaS Solution With Operational Technology and Identity Modules](https://www.darkreading.com/ics-ot/deloitte-global-expands-mxdr-cybersecurity-saas-solution-with-operational-technology-and-identity-modules)
 - [Mallox Ransomware Group Activity Shifts Into High Gear](https://www.darkreading.com/attacks-breaches/mallox-ransomware-group-shifts-into-high-gear)
 - [Critical Infrastructure Workers Better At Spotting Phishing](https://www.darkreading.com/ics-ot/critical-infrastructure-workers-spotting-phishes)
 - [Kevin Mandia Brings the HammerCon](https://www.darkreading.com/edge/kevin-mandia-brings-the-hammercon)
@@ -83,7 +84,6 @@
 - [Apache OpenMeetings Wide Open to Account Takeover, Code Execution](https://www.darkreading.com/remote-workforce/apache-openmeetings-account-takeover-code-execution)
 - [Docker Leaks API Secrets &amp; Private Keys, as Cybercriminals Pounce](https://www.darkreading.com/cloud/docker-leaks-api-secrets-private-keys-cybercriminals)
 - [Should You Be Using a Cybersecurity Careers Framework?](https://www.darkreading.com/operations/should-you-be-using-cybersecurity-careers-framework)
-- [Plurilock Announces Generative AI &#39;Guardrails&#39; Product, PromptGuard](https://www.darkreading.com/operations/plurilock-announces-generative-ai-guardrails-product-promptguard)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
