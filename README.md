@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprise Choices in Measuring Risk](https://www.darkreading.com/omdia/enterprise-choices-in-measuring-risk)
+- [Attackers Exploit Citrix Zero-Day Bug to Pwn NetScaler ADC, Gateway](https://www.darkreading.com/remote-workforce/attackers-exploit-zero-day-bug-in-netscaler-adc-and-gateway-products)
 - [Microsoft Relents, Offers Free Critical Logging to All 365 Customers](https://www.darkreading.com/application-security/microsoft-relents-offers-free-key-logging-365-customers)
 - [Infosec Doesn&#39;t Know What AI Tools Orgs Are Using](https://www.darkreading.com/tech-trends/infosec-doesnt-know-what-ai-tools-orgs-are-using)
 - [Black Hat Offers Pen-Testing Certification Exam](https://www.darkreading.com/dr-tech/black-hat-offers-certification-exams-for-penetration-testers)
 - [Graylog Acquires Resurface.io&#39;s API Security Solution](https://www.darkreading.com/application-security/graylog-acquires-resurface-io-s-api-security-solution)
 - [Cloud Range Appoints Cybersecurity Leader Galina Antova to Board of Directors](https://www.darkreading.com/ics-ot/cloud-range-appoints-cybersecurity-leader-galina-antova-to-board-of-directors)
 - [Checkmarx Announces CheckAI Plugin for ChatGPT to Detect and Prevent Attacks Against ChatGPT-Generated Code](https://www.darkreading.com/attacks-breaches/checkmarx-announces-checkai-plugin-for-chatgpt-to-detect-and-prevent-attacks-against-chatgpt-generated-code)
-- [Netskope Launches Managed Service Provider Program](https://www.darkreading.com/operations/netskope-launches-managed-service-provider-program)
-- [KnowBe4 Partners With Egress to Enhance Organizations&#39; Inbound and Outbound Email Security Defenses](https://www.darkreading.com/risk/knowbe4-partners-with-egress-to-enhance-organizations-inbound-and-outbound-email-security-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
