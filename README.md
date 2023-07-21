@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BGP Software Vulnerabilities Under the Microscope in Black Hat Session](https://www.darkreading.com/vulnerabilities-threats/bgp-software-vulnerabilities-under-the-microscope-in-black-hat-session)
 - [Banks In Attackers&#39; Crosshairs, Via Open Source Software Supply Chain](https://www.darkreading.com/attacks-breaches/banks-in-attackers-crosshairs-via-open-source-software-supply-chain)
 - [Rootkit Attack Detections Increase at UAE Businesses](https://www.darkreading.com/dr-global/rootkit-attack-detections-increase-uae-businesses)
 - [CVSS 4.0 Is Here, But Prioritizing Patches Still a Hard Problem](https://www.darkreading.com/vulnerabilities-threats/cvss-4-prioritizing-patches-hard-problem)
@@ -83,7 +84,6 @@
 - [Microsoft 365 Breach Risk Widens to Millions of Azure AD Apps](https://www.darkreading.com/cloud/microsoft-365-breach-risk-widens-millions-of-azure-ad-apps)
 - [White House, Big Tech Ink Commitments to Secure AI](https://www.darkreading.com/operations/white-house-big-tech-commitments-secure-ai)
 - [Meet the Finalists for the 2023 Pwnie Awards](https://www.darkreading.com/edge/meet-the-finalists-for-the-2023-pwnie-awards)
-- [The Dark Side of AI](https://www.darkreading.com/vulnerabilities-threats/the-dark-side-of-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
