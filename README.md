@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rootkit Attack Detections Increase at UAE Businesses](https://www.darkreading.com/dr-global/rootkit-attack-detections-increase-uae-businesses)
+- [CVSS 4.0 Is Here, But Prioritizing Patches Still a Hard Problem](https://www.darkreading.com/vulnerabilities-threats/cvss-4-prioritizing-patches-hard-problem)
 - [Saudi Arabia&#39;s Tuwaiq Academy Opens Cybersecurity Bootcamp](https://www.darkreading.com/dr-global/saudi-arabia-tuwaiq-academy-registration-cybersecurity-academy)
 - [Microsoft 365 Breach Risk Widens to Millions of Azure AD Apps](https://www.darkreading.com/cloud/microsoft-365-breach-risk-widens-millions-of-azure-ad-apps)
 - [White House, Big Tech Ink Commitments to Secure AI](https://www.darkreading.com/operations/white-house-big-tech-commitments-secure-ai)
 - [Meet the Finalists for the 2023 Pwnie Awards](https://www.darkreading.com/edge/meet-the-finalists-for-the-2023-pwnie-awards)
 - [The Dark Side of AI](https://www.darkreading.com/vulnerabilities-threats/the-dark-side-of-ai)
 - [North Korean Attackers Targeted Crypto Companies in JumpCloud Breach](https://www.darkreading.com/attacks-breaches/north-korean-attackers-targeted-crypto-companies-in-jumpcloud-breach)
-- [TrustArc Announces TRUSTe EU-US Data Privacy Framework Verification](https://www.darkreading.com/operations/trustarc-announces-new-truste-eu-us-data-privacy-framework-verification)
-- [Deloitte Global Expands MXDR Cybersecurity SaaS Solution With Operational Technology and Identity Modules](https://www.darkreading.com/ics-ot/deloitte-global-expands-mxdr-cybersecurity-saas-solution-with-operational-technology-and-identity-modules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
