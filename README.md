@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Meet the Finalists for the 2023 Pwnie Awards](https://www.darkreading.com/edge/meet-the-finalists-for-the-2023-pwnie-awards)
 - [The Dark Side of AI](https://www.darkreading.com/vulnerabilities-threats/the-dark-side-of-ai)
 - [North Korean Attackers Targeted Crypto Companies in JumpCloud Breach](https://www.darkreading.com/attacks-breaches/north-korean-attackers-targeted-crypto-companies-in-jumpcloud-breach)
 - [TrustArc Announces TRUSTe EU-US Data Privacy Framework Verification](https://www.darkreading.com/operations/trustarc-announces-new-truste-eu-us-data-privacy-framework-verification)
@@ -83,7 +84,6 @@
 - [Mallox Ransomware Group Activity Shifts Into High Gear](https://www.darkreading.com/attacks-breaches/mallox-ransomware-group-shifts-into-high-gear)
 - [Critical Infrastructure Workers Better At Spotting Phishing](https://www.darkreading.com/ics-ot/critical-infrastructure-workers-spotting-phishes)
 - [Kevin Mandia Brings the HammerCon](https://www.darkreading.com/edge/kevin-mandia-brings-the-hammercon)
-- [Estée Lauder Breached in Twin MOVEit Hacks, by Different Ransom Groups](https://www.darkreading.com/attacks-breaches/estee-lauder-moveit-hacks-different-ransom-groups)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
