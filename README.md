@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What C-Suite Leaders Need to Know About XDR](https://www.darkreading.com/endpoint/what-c-suite-leaders-need-to-know-about-xdr)
+- [How to Put the Sec in DevSecOps](https://www.darkreading.com/operations/how-to-put-the-sec-in-devsecops)
 - [BGP Software Vulnerabilities Under the Microscope in Black Hat Session](https://www.darkreading.com/vulnerabilities-threats/bgp-software-vulnerabilities-under-the-microscope-in-black-hat-session)
 - [Banks In Attackers&#39; Crosshairs, Via Open Source Software Supply Chain](https://www.darkreading.com/attacks-breaches/banks-in-attackers-crosshairs-via-open-source-software-supply-chain)
 - [Rootkit Attack Detections Increase at UAE Businesses](https://www.darkreading.com/dr-global/rootkit-attack-detections-increase-uae-businesses)
 - [CVSS 4.0 Is Here, but Prioritizing Patches Still a Hard Problem](https://www.darkreading.com/vulnerabilities-threats/cvss-4-prioritizing-patches-hard-problem)
 - [Saudi Arabia&#39;s Tuwaiq Academy Opens Cybersecurity Bootcamp](https://www.darkreading.com/dr-global/saudi-arabia-tuwaiq-academy-registration-cybersecurity-academy)
 - [Microsoft 365 Breach Risk Widens to Millions of Azure AD Apps](https://www.darkreading.com/cloud/microsoft-365-breach-risk-widens-millions-of-azure-ad-apps)
-- [White House, Big Tech Ink Commitments to Secure AI](https://www.darkreading.com/operations/white-house-big-tech-commitments-secure-ai)
-- [Meet the Finalists for the 2023 Pwnie Awards](https://www.darkreading.com/edge/meet-the-finalists-for-the-2023-pwnie-awards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
