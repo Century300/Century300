@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Orgs Face Record $4.5M Per Data Breach Incident](https://www.darkreading.com/attacks-breaches/orgs-record-4.5m-data-breach-incident)
+- [Are AI-Engineered Threats FUD or Reality?](https://www.darkreading.com/dr-tech/are-ai-engineered-threats-fud-or-reality-)
 - [Atlassian RCE Bugs Plague Confluence, Bamboo](https://www.darkreading.com/cloud/atlassian-rce-bugs-plague-confluence-bamboo)
 - [KillNet&#39;s Kremlin Connection Unclear as the Cybercrime Collective Grows](https://www.darkreading.com/threat-intelligence/killnet-kremlin-connection-unclear-cybercrime-collective-grows)
 - [North Korean Cyberspies Target GitHub Developers](https://www.darkreading.com/attacks-breaches/north-korean-cyber-spies-target-github-developers)
 - [Designing a Security Strategy for Defending Multicloud Architectures](https://www.darkreading.com/cloud/designing-a-security-strategy-for-defending-multicloud-architectures)
 - [What C-Suite Leaders Need to Know About XDR](https://www.darkreading.com/endpoint/what-c-suite-leaders-need-to-know-about-xdr)
 - [How to Put the Sec in DevSecOps](https://www.darkreading.com/operations/how-to-put-the-sec-in-devsecops)
-- [BGP Software Vulnerabilities Overlooked in Networking Infrastructure](https://www.darkreading.com/vulnerabilities-threats/bgp-software-vulnerabilities-under-the-microscope-in-black-hat-session)
-- [Banks in Attackers&#39; Crosshairs, via Open Source Software Supply Chain](https://www.darkreading.com/attacks-breaches/banks-in-attackers-crosshairs-via-open-source-software-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
