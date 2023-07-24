@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korean Cyberspies Target GitHub Developers](https://www.darkreading.com/attacks-breaches/north-korean-cyber-spies-target-github-developers)
 - [Designing a Security Strategy for Defending Multicloud Architectures](https://www.darkreading.com/cloud/designing-a-security-strategy-for-defending-multicloud-architectures)
 - [How to Put the Sec in DevSecOps](https://www.darkreading.com/operations/how-to-put-the-sec-in-devsecops)
 - [What C-Suite Leaders Need to Know About XDR](https://www.darkreading.com/endpoint/what-c-suite-leaders-need-to-know-about-xdr)
@@ -83,7 +84,6 @@
 - [Banks in Attackers&#39; Crosshairs, via Open Source Software Supply Chain](https://www.darkreading.com/attacks-breaches/banks-in-attackers-crosshairs-via-open-source-software-supply-chain)
 - [Rootkit Attack Detections Increase at UAE Businesses](https://www.darkreading.com/dr-global/rootkit-attack-detections-increase-uae-businesses)
 - [CVSS 4.0 Is Here, but Prioritizing Patches Still a Hard Problem](https://www.darkreading.com/vulnerabilities-threats/cvss-4-prioritizing-patches-hard-problem)
-- [Saudi Arabia&#39;s Tuwaiq Academy Opens Cybersecurity Bootcamp](https://www.darkreading.com/dr-global/saudi-arabia-tuwaiq-academy-registration-cybersecurity-academy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
