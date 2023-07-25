@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI](https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai)
 - [Managing Human Risk: Discoveries From SANS 2023 Security Awareness Report](https://www.darkreading.com/endpoint/managing-human-risk-discoveries-from-sans-2023-security-awareness-report)
 - [Global Security Assurance Market to Reach $13B by 2030](https://www.darkreading.com/operations/global-security-assurance-market-to-reach-13b-by-2030)
 - [CISOs Connect Launches the 2023 CISO Choice Awards](https://www.darkreading.com/careers-and-people/cisos-connect-launches-the-2023-ciso-choice-awards)
@@ -83,7 +84,6 @@
 - [TARA Partners With Plante Moran to Deliver Risk-Based Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/tara-partners-with-plante-moran-to-deliver-risk-based-vulnerability-management)
 - [China Propaganda Spreads via US News Sites, Freelancers, Times Square](https://www.darkreading.com/threat-intelligence/china-propaganda-spreads-via-us-news-sites-freelancers-times-square)
 - [Orgs Face Record $4.5M Per Data Breach Incident](https://www.darkreading.com/attacks-breaches/orgs-record-4.5m-data-breach-incident)
-- [Are AI-Engineered Threats FUD or Reality?](https://www.darkreading.com/dr-tech/are-ai-engineered-threats-fud-or-reality-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
