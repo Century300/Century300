@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercrime as a Public Health Crisis](https://www.darkreading.com/vulnerabilities-threats/cybercrime-as-a-public-health-crisis)
+- [Patch Now: Up to 900K MikroTik Routers Vulnerable to Total Takeover](https://www.darkreading.com/vulnerabilities-threats/up-to-900k-mikrotik-routers-vulnerable-total-takeover)
+- [&#39;FraudGPT&#39; Malicious Chatbot Now for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/fraudgpt-malicious-chatbot-for-sale-dark-web)
+- [Actively Exploited Apple Zero-Day Affects iPhone Kernel](https://www.darkreading.com/vulnerabilities-threats/actively-exploited-apple-zero-day-iphone-kernel)
 - [Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI](https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai)
 - [Managing Human Risk: Discoveries From SANS 2023 Security Awareness Report](https://www.darkreading.com/endpoint/managing-human-risk-discoveries-from-sans-2023-security-awareness-report)
 - [Global Security Assurance Market to Reach $13B by 2030](https://www.darkreading.com/operations/global-security-assurance-market-to-reach-13b-by-2030)
 - [CISOs Connect Launches the 2023 CISO Choice Awards](https://www.darkreading.com/careers-and-people/cisos-connect-launches-the-2023-ciso-choice-awards)
-- [OneTrust Secures $150M Investment Led by Generation Investment Management](https://www.darkreading.com/endpoint/onetrust-secures-150m-investment-led-by-generation-investment-management)
-- [TARA Partners With Plante Moran to Deliver Risk-Based Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/tara-partners-with-plante-moran-to-deliver-risk-based-vulnerability-management)
-- [China Propaganda Spreads via US News Sites, Freelancers, Times Square](https://www.darkreading.com/threat-intelligence/china-propaganda-spreads-via-us-news-sites-freelancers-times-square)
-- [Orgs Face Record $4.5M Per Data Breach Incident](https://www.darkreading.com/attacks-breaches/orgs-record-4.5m-data-breach-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
