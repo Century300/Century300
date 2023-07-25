@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Day Vulnerabilities Discovered in Global Emergency Services Communications Protocol](https://www.darkreading.com/dr-global/zero-day-vulnerabilities-disclosed-in-global-emergency-services-communications-protocol)
+- [ChatGPT, Other Generative AI Apps Prone to Compromise, Manipulation](https://www.darkreading.com/application-security/chatgpt-other-generative-ai-apps-prone-to-compromise-manipulation)
 - [Ivanti Zero-Day Exploit Disrupts Norway&#39;s Government Services](https://www.darkreading.com/dr-global/ivanti-zero-day-exploit-disrupts-norway-government-services)
 - [Cybercrime as a Public Health Crisis](https://www.darkreading.com/vulnerabilities-threats/cybercrime-as-a-public-health-crisis)
 - [Patch Now: Up to 900K MikroTik Routers Vulnerable to Total Takeover](https://www.darkreading.com/vulnerabilities-threats/up-to-900k-mikrotik-routers-vulnerable-total-takeover)
 - [&#39;FraudGPT&#39; Malicious Chatbot Now for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/fraudgpt-malicious-chatbot-for-sale-dark-web)
 - [10 Free Purple Team Security Tools to Check Out](https://www.darkreading.com/dr-tech/10-free-purple-team-security-tools-2023)
 - [Actively Exploited Apple Zero-Day Affects iPhone Kernel](https://www.darkreading.com/vulnerabilities-threats/actively-exploited-apple-zero-day-iphone-kernel)
-- [Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI](https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai)
-- [Managing Human Risk: Discoveries From SANS 2023 Security Awareness Report](https://www.darkreading.com/endpoint/managing-human-risk-discoveries-from-sans-2023-security-awareness-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
