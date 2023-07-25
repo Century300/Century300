@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ivanti Zero-Day Exploit Disrupts Norway&#39;s Government Services](https://www.darkreading.com/dr-global/ivanti-zero-day-exploit-disrupts-norway-government-services)
 - [Cybercrime as a Public Health Crisis](https://www.darkreading.com/vulnerabilities-threats/cybercrime-as-a-public-health-crisis)
 - [Patch Now: Up to 900K MikroTik Routers Vulnerable to Total Takeover](https://www.darkreading.com/vulnerabilities-threats/up-to-900k-mikrotik-routers-vulnerable-total-takeover)
 - [&#39;FraudGPT&#39; Malicious Chatbot Now for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/fraudgpt-malicious-chatbot-for-sale-dark-web)
@@ -83,7 +84,6 @@
 - [Beyond ChatGPT: Organizations Must Protect Themselves Against the Power of AI](https://www.darkreading.com/vulnerabilities-threats/beyond-chatgpt-organizations-must-protect-themselves-against-the-power-of-ai)
 - [Managing Human Risk: Discoveries From SANS 2023 Security Awareness Report](https://www.darkreading.com/endpoint/managing-human-risk-discoveries-from-sans-2023-security-awareness-report)
 - [Global Security Assurance Market to Reach $13B by 2030](https://www.darkreading.com/operations/global-security-assurance-market-to-reach-13b-by-2030)
-- [CISOs Connect Launches the 2023 CISO Choice Awards](https://www.darkreading.com/careers-and-people/cisos-connect-launches-the-2023-ciso-choice-awards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
