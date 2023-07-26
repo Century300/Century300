@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thales Agrees to Buy App Security Vendor Imperva in $3.6B Deal](https://www.darkreading.com/application-security/thales-agrees-to-buy-app-security-vendor-imperva-$3.6b-deal)
 - [Why Computer Security Advice Is More Confusing Than It Should Be](https://www.darkreading.com/operations/why-computer-security-advice-is-more-confusing-than-it-should-be)
 - [50% of Zero Trust Programs Risk Failure According to PlainID Survey](https://www.darkreading.com/application-security/50-of-zero-trust-programs-risk-failure-according-to-plainid-survey)
 - [KnowBe4 Phishing Test Results Reveal Half of Top Malicious Email Subjects Are HR Related](https://www.darkreading.com/threat-intelligence/knowbe4-phishing-test-results-reveal-half-of-top-malicious-email-subjects-are-hr-related)
@@ -83,7 +84,6 @@
 - [Zero-Day Vulnerabilities Discovered in Global Emergency Services Communications Protocol](https://www.darkreading.com/dr-global/zero-day-vulnerabilities-disclosed-in-global-emergency-services-communications-protocol)
 - [ChatGPT, Other Generative AI Apps Prone to Compromise, Manipulation](https://www.darkreading.com/application-security/chatgpt-other-generative-ai-apps-prone-to-compromise-manipulation)
 - [Ivanti Zero-Day Exploit Disrupts Norway&#39;s Government Services](https://www.darkreading.com/dr-global/ivanti-zero-day-exploit-disrupts-norway-government-services)
-- [Cybercrime as a Public Health Crisis](https://www.darkreading.com/vulnerabilities-threats/cybercrime-as-a-public-health-crisis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
