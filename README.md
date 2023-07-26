@@ -76,13 +76,13 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Peloton Bugs Expose Enterprise Networks to IoT Attacks](https://www.darkreading.com/remote-workforce/flaws-in-peloton-tread-expose-enterprise-network-to-iot-attack-vectors)
 - [Kubernetes and the Software Supply Chain](https://www.darkreading.com/cloud/kubernetes-software-supply-chain)
 - [Threat Intelligence Is Growing — Here&#39;s How SOCs Can Keep Up](https://www.darkreading.com/microsoft/threat-intelligence-is-growing-here-s-how-socs-can-keep-up)
 - [Thales Agrees to Buy App Security Vendor Imperva in $3.6B Deal](https://www.darkreading.com/application-security/thales-agrees-to-buy-app-security-vendor-imperva-$3.6b-deal)
 - [Why Computer Security Advice Is More Confusing Than It Should Be](https://www.darkreading.com/operations/why-computer-security-advice-is-more-confusing-than-it-should-be)
 - [50% of Zero Trust Programs Risk Failure According to PlainID Survey](https://www.darkreading.com/application-security/50-of-zero-trust-programs-risk-failure-according-to-plainid-survey)
 - [KnowBe4 Phishing Test Results Reveal Half of Top Malicious Email Subjects Are HR Related](https://www.darkreading.com/threat-intelligence/knowbe4-phishing-test-results-reveal-half-of-top-malicious-email-subjects-are-hr-related)
-- [Zero-Day Vulnerabilities Discovered in Global Emergency Services Communications Protocol](https://www.darkreading.com/dr-global/zero-day-vulnerabilities-disclosed-in-global-emergency-services-communications-protocol)
 - [Decoy Dog Gets an Upgrade With New Persistence Features](https://www.darkreading.com/vulnerabilities-threats/-pupy-rat-upgraded-to-decoy-dog-with-new-persistence-features-)
 <!-- DARKREADING:END -->
 
