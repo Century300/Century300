@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SE Labs Unveils Latest Comparative Analysis of Endpoint Detection and Response Products](https://www.darkreading.com/endpoint/se-labs-unveils-latest-comparative-analysis-of-endpoint-detection-and-response-products)
+- [&#39;Nitrogen&#39; Ransomware Effort Lures IT Pros via Google, Bing Ads](https://www.darkreading.com/vulnerabilities-threats/-nitrogen-ransomware-effort-lures-it-pros-via-google-bing-ads)
+- [Massive macOS Campaign Targets Crypto Wallets, Data](https://www.darkreading.com/attacks-breaches/massive-campaign-targets-macos-users-crypto-wallet-data-theft)
+- [SEC Adopts New Rule on Cybersecurity Incident Disclosure Requirements](https://www.darkreading.com/edge/sec-adopts-new-rule-on-cybersecurity-incident-disclosure-requirements)
 - [ETSI Dismisses Claims of &#39;Backdoor&#39; Vulnerabilities in TETRA Standard](https://www.darkreading.com/dr-global/tetra-owner-dismiss-backdoor-claims-in-vulnerability-research)
 - [Former NSA-er Harry Coker Nominated National Cyber Director](https://www.darkreading.com/operations/harry-coker-former-nsa-nominated-for-national-cyber-director)
 - [Peloton Bugs Expose Enterprise Networks to IoT Attacks](https://www.darkreading.com/remote-workforce/flaws-in-peloton-tread-expose-enterprise-network-to-iot-attack-vectors)
 - [Kubernetes and the Software Supply Chain](https://www.darkreading.com/cloud/kubernetes-software-supply-chain)
-- [Threat Intelligence Is Growing — Here&#39;s How SOCs Can Keep Up](https://www.darkreading.com/microsoft/threat-intelligence-is-growing-here-s-how-socs-can-keep-up)
-- [Thales Agrees to Buy App Security Vendor Imperva in $3.6B Deal](https://www.darkreading.com/application-security/thales-agrees-to-buy-app-security-vendor-imperva-$3.6b-deal)
-- [Why Computer Security Advice Is More Confusing Than It Should Be](https://www.darkreading.com/operations/why-computer-security-advice-is-more-confusing-than-it-should-be)
-- [50% of Zero Trust Programs Risk Failure According to PlainID Survey](https://www.darkreading.com/application-security/50-of-zero-trust-programs-risk-failure-according-to-plainid-survey)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
