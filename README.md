@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Today&#39;s CISOs Must Embrace Change](https://www.darkreading.com/operations/why-cisos-must-embrace-change)
 - [Companies Must Have Corporate Cybersecurity Experts, SEC Says](https://www.darkreading.com/edge-articles/companies-must-have-corporate-cybersecurity-experts-sec-says)
 - [Kyndryl Expands Managed Security Services With More SOC Options](https://www.darkreading.com/dr-tech/kyndryl-managed-security-services-soc)
 - [Coro Acquires Network Security Startup Privatise](https://www.darkreading.com/dr-global/coro-acquires-network-security-startup-privatise)
@@ -83,7 +84,6 @@
 - [SE Labs Unveils Latest Comparative Analysis of Endpoint Detection and Response Products](https://www.darkreading.com/endpoint/se-labs-unveils-latest-comparative-analysis-of-endpoint-detection-and-response-products)
 - [&#39;Nitrogen&#39; Ransomware Effort Lures IT Pros via Google, Bing Ads](https://www.darkreading.com/vulnerabilities-threats/-nitrogen-ransomware-effort-lures-it-pros-via-google-bing-ads)
 - [Massive macOS Campaign Targets Crypto Wallets, Data](https://www.darkreading.com/attacks-breaches/massive-campaign-targets-macos-users-crypto-wallet-data-theft)
-- [SEC Adopts New Rule on Cybersecurity Incident Disclosure Requirements](https://www.darkreading.com/edge/sec-adopts-new-rule-on-cybersecurity-incident-disclosure-requirements)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
