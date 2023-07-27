@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Group-IB Co-Founder Sentenced to 14 Years in Russian Penal Colony](https://www.darkreading.com/perimeter/group-ib-co-founder-sentenced-14-years-russian-penal-colony)
 - [Israeli-Trained Azerbaijan Cyber Students Mark Inaugural Graduation](https://www.darkreading.com/dr-global/israeli-trained-azerbaijan-cyber-students-inaugural-graduation)
 - [What Will CISA&#39;s Secure Software Development Attestation Form Mean?](https://www.darkreading.com/vulnerabilities-threats/what-will-cisa-secure-software-development-attestation-form-mean)
 - [Ubuntu Linux Cloud Workloads Face Rampant Root Take Takeovers](https://www.darkreading.com/cloud/ubuntu-linux-cloud-workloads-face-rampant-root-takeovers)
@@ -83,7 +84,6 @@
 - [Companies Must Have Corporate Cybersecurity Experts, SEC Says](https://www.darkreading.com/edge-articles/companies-must-have-corporate-cybersecurity-experts-sec-says)
 - [Kyndryl Expands Managed Security Services With More SOC Options](https://www.darkreading.com/dr-tech/kyndryl-managed-security-services-soc)
 - [Coro Acquires Network Security Startup Privatise](https://www.darkreading.com/dr-global/coro-acquires-network-security-startup-privatise)
-- [Rezilion Uncovers High-Risk Vulnerabilities Missing From CISA KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/rezilion-uncovers-high-risk-vulnerabilities-missing-from-cisa-kev-catalog)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
