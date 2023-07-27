@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Israeli-Trained Azerbaijan Cyber Students Mark Inaugural Graduation](https://www.darkreading.com/dr-global/israeli-trained-azerbaijan-cyber-students-inaugural-graduation)
 - [What Will CISA&#39;s Secure Software Development Attestation Form Mean?](https://www.darkreading.com/vulnerabilities-threats/what-will-cisa-secure-software-development-attestation-form-mean)
 - [Ubuntu Linux Cloud Workloads Face Rampant Root Take Takeovers](https://www.darkreading.com/cloud/ubuntu-linux-cloud-workloads-face-rampant-root-takeovers)
 - [Why Today&#39;s CISOs Must Embrace Change](https://www.darkreading.com/operations/why-cisos-must-embrace-change)
@@ -83,7 +84,6 @@
 - [Kyndryl Expands Managed Security Services With More SOC Options](https://www.darkreading.com/dr-tech/kyndryl-managed-security-services-soc)
 - [Coro Acquires Network Security Startup Privatise](https://www.darkreading.com/dr-global/coro-acquires-network-security-startup-privatise)
 - [Rezilion Uncovers High-Risk Vulnerabilities Missing From CISA KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/rezilion-uncovers-high-risk-vulnerabilities-missing-from-cisa-kev-catalog)
-- [SE Labs Unveils Latest Comparative Analysis of Endpoint Detection and Response Products](https://www.darkreading.com/endpoint/se-labs-unveils-latest-comparative-analysis-of-endpoint-detection-and-response-products)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
