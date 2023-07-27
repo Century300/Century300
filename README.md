@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Companies Must Have Corporate Cybersecurity Experts, SEC Says](https://www.darkreading.com/edge-articles/companies-must-have-corporate-cybersecurity-experts-sec-says)
+- [Kyndryl Expands Managed Security Services With More SOC Options](https://www.darkreading.com/dr-tech/kyndryl-managed-security-services-soc)
 - [Coro Acquires Network Security Startup Privatise](https://www.darkreading.com/dr-global/coro-acquires-network-security-startup-privatise)
 - [Rezilion Uncovers High-Risk Vulnerabilities Missing From CISA KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/rezilion-uncovers-high-risk-vulnerabilities-missing-from-cisa-kev-catalog)
 - [SE Labs Unveils Latest Comparative Analysis of Endpoint Detection and Response Products](https://www.darkreading.com/endpoint/se-labs-unveils-latest-comparative-analysis-of-endpoint-detection-and-response-products)
 - [&#39;Nitrogen&#39; Ransomware Effort Lures IT Pros via Google, Bing Ads](https://www.darkreading.com/vulnerabilities-threats/-nitrogen-ransomware-effort-lures-it-pros-via-google-bing-ads)
 - [Massive macOS Campaign Targets Crypto Wallets, Data](https://www.darkreading.com/attacks-breaches/massive-campaign-targets-macos-users-crypto-wallet-data-theft)
 - [SEC Adopts New Rule on Cybersecurity Incident Disclosure Requirements](https://www.darkreading.com/edge/sec-adopts-new-rule-on-cybersecurity-incident-disclosure-requirements)
-- [ETSI Dismisses Claims of &#39;Backdoor&#39; Vulnerabilities in TETRA Standard](https://www.darkreading.com/dr-global/tetra-owner-dismiss-backdoor-claims-in-vulnerability-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
