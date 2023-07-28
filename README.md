@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why CISOs Should Get Involved With Cyber Insurance Negotiation](https://www.darkreading.com/edge-articles/why-cisos-should-get-involved-with-cyber-insurance-negotiation)
 - [Despite Post-Log4J Security Gains, Developers Can Still Improve](https://www.darkreading.com/application-security/despite-post-log4j-security-gains-developers-can-still-improve)
 - [7 in 10 MSPs Name Data Security and Network Security As Their Top IT Priorities for 2023](https://www.darkreading.com/application-security/7-in-10-msps-name-data-security-and-network-security-as-their-top-it-priorities-for-2023)
 - [CompTIA ChannelCon Technology Vendor Fair Highlights Tech Solutions](https://www.darkreading.com/careers-and-people/comptia-channelcon-technology-vendor-fair-highlights-tech-solutions)
@@ -83,7 +84,6 @@
 - [Millions of People Affected in MOVEit Attack on US Gov&#39;t Vendor](https://www.darkreading.com/perimeter/millions-people-moveit-attack-us-government-vendor)
 - [TSA Updates Pipeline Cybersecurity Requirements](https://www.darkreading.com/ics-ot/tsa-updates-pipeline-cybersecurity-requirements)
 - [Group-IB Co-Founder Sentenced to 14 Years in Russian Penal Colony](https://www.darkreading.com/perimeter/group-ib-co-founder-sentenced-14-years-russian-penal-colony)
-- [Israeli-Trained Azerbaijan Cyber Students Mark Inaugural Graduation](https://www.darkreading.com/dr-global/israeli-trained-azerbaijan-cyber-students-inaugural-graduation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
