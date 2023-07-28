@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Stark#Mule Malware Campaign Targets Koreans, Uses US Army Documents](https://www.darkreading.com/attacks-breaches/stark-mule-malware-campaign-targets-koreans-uses-us-army-documents)
 - [Senator Blasts Microsoft for Negligence in 365 Email Breach](https://www.darkreading.com/perimeter/senator-microsoft-negligence-365-email-breach)
+- [Choose the Best Biometrics Authentication for Your Use Case](https://www.darkreading.com/dr-tech/choose-the-best-biometrics-authentication-for-your-use-case)
 - [Another AI Pitfall: Digital Mirroring Opens New Cyberattack Vector](https://www.darkreading.com/attacks-breaches/ai-pitfall-digital-mirroring-opens-new-cyberattack-vector)
 - [IT Ops and Security Teams Need Automation, Not Couples Therapy](https://www.darkreading.com/operations/it-ops-and-security-teams-need-automation)
 - [Cyclops Launches From Stealth With Generative AI-Based Search Tool](https://www.darkreading.com/dr-tech/cyclops-launches-from-stealth-with-generative-ai-based-search-tool)
 - [Why CISOs Should Get Involved With Cyber Insurance Negotiation](https://www.darkreading.com/edge-articles/why-cisos-should-get-involved-with-cyber-insurance-negotiation)
 - [Despite Post-Log4j Security Gains, Developers Can Still Improve](https://www.darkreading.com/application-security/despite-post-log4j-security-gains-developers-can-still-improve)
-- [7 in 10 MSPs Name Data Security and Network Security As Their Top IT Priorities for 2023](https://www.darkreading.com/application-security/7-in-10-msps-name-data-security-and-network-security-as-their-top-it-priorities-for-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
