@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IT Ops and Security Teams Need Automation, Not Couples Therapy](https://www.darkreading.com/operations/it-ops-and-security-teams-need-automation)
 - [Cyclops Launches From Stealth With Generative AI-Based Search Tool](https://www.darkreading.com/dr-tech/cyclops-launches-from-stealth-with-generative-ai-based-search-tool)
 - [Why CISOs Should Get Involved With Cyber Insurance Negotiation](https://www.darkreading.com/edge-articles/why-cisos-should-get-involved-with-cyber-insurance-negotiation)
 - [Despite Post-Log4j Security Gains, Developers Can Still Improve](https://www.darkreading.com/application-security/despite-post-log4j-security-gains-developers-can-still-improve)
@@ -83,7 +84,6 @@
 - [CompTIA ChannelCon Technology Vendor Fair Highlights Tech Solutions](https://www.darkreading.com/careers-and-people/comptia-channelcon-technology-vendor-fair-highlights-tech-solutions)
 - [Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology](https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology)
 - [Millions of People Affected in MOVEit Attack on US Gov&#39;t Vendor](https://www.darkreading.com/perimeter/millions-people-moveit-attack-us-government-vendor)
-- [TSA Updates Pipeline Cybersecurity Requirements](https://www.darkreading.com/ics-ot/tsa-updates-pipeline-cybersecurity-requirements)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
