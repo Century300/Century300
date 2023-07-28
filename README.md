@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyclops Launches From Stealth With Generative AI-Based Search Tool](https://www.darkreading.com/dr-tech/cyclops-launches-from-stealth-with-generative-ai-based-search-tool)
 - [Why CISOs Should Get Involved With Cyber Insurance Negotiation](https://www.darkreading.com/edge-articles/why-cisos-should-get-involved-with-cyber-insurance-negotiation)
-- [Despite Post-Log4J Security Gains, Developers Can Still Improve](https://www.darkreading.com/application-security/despite-post-log4j-security-gains-developers-can-still-improve)
+- [Despite Post-Log4j Security Gains, Developers Can Still Improve](https://www.darkreading.com/application-security/despite-post-log4j-security-gains-developers-can-still-improve)
 - [7 in 10 MSPs Name Data Security and Network Security As Their Top IT Priorities for 2023](https://www.darkreading.com/application-security/7-in-10-msps-name-data-security-and-network-security-as-their-top-it-priorities-for-2023)
 - [CompTIA ChannelCon Technology Vendor Fair Highlights Tech Solutions](https://www.darkreading.com/careers-and-people/comptia-channelcon-technology-vendor-fair-highlights-tech-solutions)
 - [Ryanair Hit With Lawsuit Over Use of Facial Recognition Technology](https://www.darkreading.com/application-security/ryanair-hit-with-lawsuit-over-use-of-facial-recognition-technology)
 - [Millions of People Affected in MOVEit Attack on US Gov&#39;t Vendor](https://www.darkreading.com/perimeter/millions-people-moveit-attack-us-government-vendor)
 - [TSA Updates Pipeline Cybersecurity Requirements](https://www.darkreading.com/ics-ot/tsa-updates-pipeline-cybersecurity-requirements)
-- [Group-IB Co-Founder Sentenced to 14 Years in Russian Penal Colony](https://www.darkreading.com/perimeter/group-ib-co-founder-sentenced-14-years-russian-penal-colony)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
