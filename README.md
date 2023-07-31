@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Summer Documentary Watch Party: 8 Sizzling Cybersecurity Tales](https://www.darkreading.com/operations/summer-documentary-watch-party-cybersecurity-tales)
 - [Healthcare Innovation: A Safe and Secure Approach](https://www.darkreading.com/operations/healthcare-innovation-a-safe-and-secure-approach)
-- [Hack Crew Responsible for Stolen Data, NATO Investigates Claims](https://www.darkreading.com/attacks-breaches/hack-crew-responsible-for-stolen-data-nato-investigates-claims)
 - [CherryBlos Malware Uses OCR to Pluck Android Users&#39; Cryptocurrency](https://www.darkreading.com/attacks-breaches/cherrybios-malware-ocr-android-users-cryptocurrency)
 - [Stark#Mule Malware Campaign Targets Koreans, Uses US Army Documents](https://www.darkreading.com/attacks-breaches/stark-mule-malware-campaign-targets-koreans-uses-us-army-documents)
+- [NATO Hacked? Yes, Claims Hacktivist Crew](https://www.darkreading.com/attacks-breaches/hack-crew-responsible-for-stolen-data-nato-investigates-claims)
 - [Senator Blasts Microsoft for Negligence in 365 Email Breach](https://www.darkreading.com/perimeter/senator-microsoft-negligence-365-email-breach)
 - [Choose the Best Biometrics Authentication for Your Use Case](https://www.darkreading.com/dr-tech/choose-the-best-biometrics-authentication-for-your-use-case)
 - [Another AI Pitfall: Digital Mirroring Opens New Cyberattack Vector](https://www.darkreading.com/attacks-breaches/ai-pitfall-digital-mirroring-opens-new-cyberattack-vector)
-- [IT Ops and Security Teams Need Automation, Not Couples Therapy](https://www.darkreading.com/operations/it-ops-and-security-teams-need-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
