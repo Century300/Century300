@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Best Practices for Enterprise Private 5G Security](https://www.darkreading.com/omdia/best-practices-for-enterprise-private-5g-security)
 - [Summer Documentary Watch Party: 8 Sizzling Cybersecurity Tales](https://www.darkreading.com/operations/summer-documentary-watch-party-cybersecurity-tales)
 - [Healthcare Innovation: A Safe and Secure Approach](https://www.darkreading.com/operations/healthcare-innovation-a-safe-and-secure-approach)
 - [CherryBlos Malware Uses OCR to Pluck Android Users&#39; Cryptocurrency](https://www.darkreading.com/attacks-breaches/cherrybios-malware-ocr-android-users-cryptocurrency)
@@ -83,7 +84,6 @@
 - [NATO Hacked? Yes, Claims Hacktivist Crew](https://www.darkreading.com/attacks-breaches/hack-crew-responsible-for-stolen-data-nato-investigates-claims)
 - [Senator Blasts Microsoft for Negligence in 365 Email Breach](https://www.darkreading.com/perimeter/senator-microsoft-negligence-365-email-breach)
 - [Choose the Best Biometrics Authentication for Your Use Case](https://www.darkreading.com/dr-tech/choose-the-best-biometrics-authentication-for-your-use-case)
-- [Another AI Pitfall: Digital Mirroring Opens New Cyberattack Vector](https://www.darkreading.com/attacks-breaches/ai-pitfall-digital-mirroring-opens-new-cyberattack-vector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
