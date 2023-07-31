@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Healthcare Innovation: A Safe and Secure Approach](https://www.darkreading.com/operations/healthcare-innovation-a-safe-and-secure-approach)
 - [Hack Crew Responsible for Stolen Data, NATO Investigates Claims](https://www.darkreading.com/attacks-breaches/hack-crew-responsible-for-stolen-data-nato-investigates-claims)
 - [CherryBlos Malware Uses OCR to Pluck Android Users&#39; Cryptocurrency](https://www.darkreading.com/attacks-breaches/cherrybios-malware-ocr-android-users-cryptocurrency)
 - [Stark#Mule Malware Campaign Targets Koreans, Uses US Army Documents](https://www.darkreading.com/attacks-breaches/stark-mule-malware-campaign-targets-koreans-uses-us-army-documents)
@@ -83,7 +84,6 @@
 - [Choose the Best Biometrics Authentication for Your Use Case](https://www.darkreading.com/dr-tech/choose-the-best-biometrics-authentication-for-your-use-case)
 - [Another AI Pitfall: Digital Mirroring Opens New Cyberattack Vector](https://www.darkreading.com/attacks-breaches/ai-pitfall-digital-mirroring-opens-new-cyberattack-vector)
 - [IT Ops and Security Teams Need Automation, Not Couples Therapy](https://www.darkreading.com/operations/it-ops-and-security-teams-need-automation)
-- [Cyclops Launches From Stealth With Generative AI-Based Search Tool](https://www.darkreading.com/dr-tech/cyclops-launches-from-stealth-with-generative-ai-based-search-tool)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
