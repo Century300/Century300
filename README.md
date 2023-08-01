@@ -82,7 +82,7 @@
 - [Air-Gapped ICS Systems Targeted by Sophisticated Malware](https://www.darkreading.com/ics-ot/air-gapped-ics-systems-targeted-sophisticated-malware)
 - [Abyss Locker Ransomware Looks to Drown VMware&#39;s ESXi Servers](https://www.darkreading.com/ics-ot/abyss-locker-ransomware-vmware-esxi-servers)
 - [Call of Duty Self-Spreading Worm Takes Aim at Player Lobbies](https://www.darkreading.com/application-security/call-of-duty-self-spreading-worm-player-lobbies)
-- [Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers](https://www.darkreading.com/dr-global/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
+- [Website of Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers](https://www.darkreading.com/dr-global/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
 - [Best Practices for Enterprise Private 5G Security](https://www.darkreading.com/omdia/best-practices-for-enterprise-private-5g-security)
 <!-- DARKREADING:END -->
 
