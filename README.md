@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Cyber Workforce Strategy: No Quick Fix for Skills Shortage](https://www.darkreading.com/careers-and-people/white-house-cyber-workforce-strategy-no-quick-fix-for-skills-shortage)
+- [Devo and Cybermindz Partner to Address the Mental Health of Front-Line Cybersecurity Workers in the US](https://www.darkreading.com/operations/devo-and-cybermindz-partner-to-address-the-mental-health-of-front-line-cybersecurity-workers-in-the-us)
+- [MEF and CyberRatings.org Partner on SASE Certification Program](https://www.darkreading.com/cloud/mef-and-cyberratings-org-partner-on-sase-certification-program)
+- [Forescout&#39;s Risk and Exposure Management Solution Delivers Streamlined, Quantitative Approach to Cyber Asset Risk Management](https://www.darkreading.com/risk/forescout-s-risk-and-exposure-management-solution-delivers-streamlined-quantitative-approach-to-cyber-asset-risk-management)
+- [Nile Raises $175M Series C Funding to Redefine Enterprise Networks](https://www.darkreading.com/operations/nile-raises-175m-series-c-funding-to-redefine-enterprise-networks)
 - [Canon Inkjet Printers at Risk for Third-Party Compromise via Wi-Fi](https://www.darkreading.com/endpoint/canon-inkjet-printers-at-risk-for-third-party-compromise-via-wi-fi)
-- [Space Pirates Train Cyber Sabers on Russian, Serbian Organizations](https://www.darkreading.com/threat-intelligence/space-pirates-train-cyber-sabers-on-russian-serbian-organizations)
+- [Space Pirates Turn Cyber Sabers on Russian, Serbian Organizations](https://www.darkreading.com/threat-intelligence/space-pirates-train-cyber-sabers-on-russian-serbian-organizations)
 - [Apple Users Open to Remote Control via Tricky macOS Malware](https://www.darkreading.com/application-security/apple-users-remote-control-tricky-macos-malware)
-- [&#39;DarkBERT&#39; GPT-Based Malware Trains Up on the Entire Dark Web](https://www.darkreading.com/application-security/gpt-based-malware-trains-dark-web)
-- [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
-- [CISA: &#39;Submarine&#39; Backdoor Torpedoes Barracuda Email Security](https://www.darkreading.com/attacks-breaches/cisa-submarine-backdoor-barracuda-email-security)
-- [Why the California Delete Act Matters](https://www.darkreading.com/endpoint/why-the-california-delete-act-matters)
-- [What Implementing Biometrics for Authentication Looks Like](https://www.darkreading.com/dr-tech/implementing-biometrics-for-authentication)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
