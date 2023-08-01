@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Implementing Biometrics for Authentication Looks Like](https://www.darkreading.com/dr-tech/implementing-biometrics-for-authentication)
 - [Protecting Intellectual Property When It Needs to Be Shared](https://www.darkreading.com/edge-articles/protecting-intellectual-property-when-it-needs-to-be-shared)
 - [China&#39;s Volt Typhoon APT Burrows Deeper Into US Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/china-s-volt-typhoon-apt-burrows-us-critical-infrastructure)
 - [Air-Gapped ICS Systems Targeted by Sophisticated Malware](https://www.darkreading.com/ics-ot/air-gapped-ics-systems-targeted-sophisticated-malware)
@@ -83,7 +84,6 @@
 - [Call of Duty Self-Spreading Worm Takes Aim at Player Lobbies](https://www.darkreading.com/application-security/call-of-duty-self-spreading-worm-player-lobbies)
 - [Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers](https://www.darkreading.com/dr-global/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
 - [Best Practices for Enterprise Private 5G Security](https://www.darkreading.com/omdia/best-practices-for-enterprise-private-5g-security)
-- [Summer Documentary Watch Party: 8 Sizzling Cybersecurity Tales](https://www.darkreading.com/operations/summer-documentary-watch-party-cybersecurity-tales)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
