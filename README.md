@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons Not Learned From Software Supply Chain Attacks](https://www.darkreading.com/attacks-breaches/lessons-not-learned-from-software-supply-chain-attacks)
+- [CISA: &#39;Submarine&#39; Backdoor Torpedoes Barracuda Email Security](https://www.darkreading.com/attacks-breaches/cisa-submarine-backdoor-barracuda-email-security)
 - [Why the California Delete Act Matters](https://www.darkreading.com/endpoint/why-the-california-delete-act-matters)
 - [What Implementing Biometrics for Authentication Looks Like](https://www.darkreading.com/dr-tech/implementing-biometrics-for-authentication)
 - [Protecting Intellectual Property When It Needs to Be Shared](https://www.darkreading.com/edge-articles/protecting-intellectual-property-when-it-needs-to-be-shared)
 - [China&#39;s Volt Typhoon APT Burrows Deeper Into US Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/china-s-volt-typhoon-apt-burrows-us-critical-infrastructure)
 - [Air-Gapped ICS Systems Targeted by Sophisticated Malware](https://www.darkreading.com/ics-ot/air-gapped-ics-systems-targeted-sophisticated-malware)
 - [Abyss Locker Ransomware Looks to Drown VMware&#39;s ESXi Servers](https://www.darkreading.com/ics-ot/abyss-locker-ransomware-vmware-esxi-servers)
-- [Call of Duty Self-Spreading Worm Takes Aim at Player Lobbies](https://www.darkreading.com/application-security/call-of-duty-self-spreading-worm-player-lobbies)
-- [Website of Israeli Oil Refinery Taken Offline by Pro-Iranian Attackers](https://www.darkreading.com/dr-global/israeli-oil-refinery-taken-offline-pro-iranian-attackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
