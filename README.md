@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Menlo Security Establishes Browser Security With AI-Powered Phishing and Ransomware Protection](https://www.darkreading.com/attacks-breaches/menlo-security-establishes-browser-security-with-ai-powered-phishing-and-ransomware-protection)
+- [BeyondTrust&#39;s Identity Security Insights Provides Unprecedented Visibility into Identity Threats](https://www.darkreading.com/endpoint/beyondtrust-s-identity-security-insights-provides-unprecedented-visibility-into-identity-threats)
+- [Guardio Uncovers Zero-Day Vulnerability in Salesforce&#39;s Email Services](https://www.darkreading.com/attacks-breaches/guardio-uncovers-zero-day-vulnerability-in-salesforce-s-email-services)
+- [Tanium Selected by DHS CISA to Join the Joint Cyber Defense Collaborative](https://www.darkreading.com/attacks-breaches/tanium-selected-by-dhs-cisa-to-join-the-joint-cyber-defense-collaborative)
 - [Solvo Unveils SecurityGenie: A Revolutionary ChatGPT-Like Solution for Cloud Security Teams](https://www.darkreading.com/cloud/solvo-unveils-securitygenie-a-revolutionary-chatgpt-like-solution-for-cloud-security-teams)
 - [SynSaber and ICS Advisory Project Identify Vulnerability Trends Within The Critical Infrastructure Sector](https://www.darkreading.com/ics-ot/synsaber-and-ics-advisory-project-identify-vulnerability-trends-within-the-critical-infrastructure-sector)
 - [Global Optical Sensor Market to Reach $45.56B by 2030, Rising Demand in Consumer Electronics and IoT Applications](https://www.darkreading.com/operations/global-optical-sensor-market-to-reach-45-56b-by-2030)
 - [VALIC Retirement Services Company Experiences PBI Data Breach Exposing Approximately 798,000 Social Security Numbers](https://www.darkreading.com/attacks-breaches/valic-retirement-services-company-experiences-pbi-data-breach-exposing-approximately-798-000-social-security-numbers)
-- [Instagram Flags AI-Generated Content](https://www.darkreading.com/application-security/instagram-flags-ai-generated-content)
-- [Iranian Company Plays Host to Reams of Ransomware, APT Groups](https://www.darkreading.com/dr-global/iranian-company--host-ransomware-apt-groups)
-- [Iran&#39;s APT34 Hits UAE With Supply Chain Attack](https://www.darkreading.com/dr-global/iran-apt34-uae-supply-chain-attack)
-- [Hot Topic Apparel Brand Faces Credential-Stuffing Attack](https://www.darkreading.com/application-security/hot-topic-apparel-brand-faces-credential-stuffing-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
