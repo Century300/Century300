@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tesla Jailbreak Unlocks Theft of In-Car Paid Features](https://www.darkreading.com/application-security/tesla-jailbreak-unlocks-theft-in-car-paid-features)
 - [Utilities Face Security Challenges as They Embrace Data in New Ways](https://www.darkreading.com/attacks-breaches/utilities-face-security-challenges-as-they-embrace-data-in-new-ways)
 - [Unified XDR and SIEM Alleviate Security Alert Fatigue](https://www.darkreading.com/microsoft/unified-xdr-and-siem-alleviate-security-alert-fatigue)
 - [White House Cyber Workforce Strategy: No Quick Fix for Skills Shortage](https://www.darkreading.com/careers-and-people/white-house-cyber-workforce-strategy-no-quick-fix-for-skills-shortage)
@@ -83,7 +84,6 @@
 - [MEF and CyberRatings.org Partner on SASE Certification Program](https://www.darkreading.com/cloud/mef-and-cyberratings-org-partner-on-sase-certification-program)
 - [Forescout&#39;s Risk and Exposure Management Solution Delivers Streamlined, Quantitative Approach to Cyber Asset Risk Management](https://www.darkreading.com/risk/forescout-s-risk-and-exposure-management-solution-delivers-streamlined-quantitative-approach-to-cyber-asset-risk-management)
 - [Nile Raises $175M Series C Funding to Redefine Enterprise Networks](https://www.darkreading.com/operations/nile-raises-175m-series-c-funding-to-redefine-enterprise-networks)
-- [Canon Inkjet Printers at Risk for Third-Party Compromise via Wi-Fi](https://www.darkreading.com/endpoint/canon-inkjet-printers-at-risk-for-third-party-compromise-via-wi-fi)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
