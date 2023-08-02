@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iranian Company Plays Host to Reams of Ransomware, APT Groups](https://www.darkreading.com/dr-global/iranian-company--host-ransomware-apt-groups)
+- [Iran&#39;s APT34 Hits UAE With Supply Chain Attack](https://www.darkreading.com/dr-global/iran-apt34-uae-supply-chain-attack)
+- [Hot Topic Apparel Brand Faces Credential-Stuffing Attack](https://www.darkreading.com/application-security/hot-topic-apparel-brand-faces-credential-stuffing-attack)
 - [Cyber-Insurance Underwriting Is Still Stuck in the Dark Ages](https://www.darkreading.com/risk/cyber-insurance-underwriting-is-still-stuck-in-the-dark-ages)
-- [Tesla Jailbreak Unlocks Theft of In-Car Paid Features](https://www.darkreading.com/application-security/tesla-jailbreak-unlocks-theft-in-car-paid-features)
 - [Utilities Face Security Challenges as They Embrace Data in New Ways](https://www.darkreading.com/attacks-breaches/utilities-face-security-challenges-as-they-embrace-data-in-new-ways)
+- [Tesla Jailbreak Unlocks Theft of In-Car Paid Features](https://www.darkreading.com/application-security/tesla-jailbreak-unlocks-theft-in-car-paid-features)
 - [Unified XDR and SIEM Alleviate Security Alert Fatigue](https://www.darkreading.com/microsoft/unified-xdr-and-siem-alleviate-security-alert-fatigue)
 - [White House Cyber Workforce Strategy: No Quick Fix for Skills Shortage](https://www.darkreading.com/careers-and-people/white-house-cyber-workforce-strategy-no-quick-fix-for-skills-shortage)
-- [Devo and Cybermindz Partner to Address the Mental Health of Front-Line Cybersecurity Workers in the US](https://www.darkreading.com/operations/devo-and-cybermindz-partner-to-address-the-mental-health-of-front-line-cybersecurity-workers-in-the-us)
-- [MEF and CyberRatings.org Partner on SASE Certification Program](https://www.darkreading.com/cloud/mef-and-cyberratings-org-partner-on-sase-certification-program)
-- [Forescout&#39;s Risk and Exposure Management Solution Delivers Streamlined, Quantitative Approach to Cyber Asset Risk Management](https://www.darkreading.com/risk/forescout-s-risk-and-exposure-management-solution-delivers-streamlined-quantitative-approach-to-cyber-asset-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
