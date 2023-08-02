@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Solvo Unveils SecurityGenie: A Revolutionary ChatGPT-Like Solution for Cloud Security Teams](https://www.darkreading.com/cloud/solvo-unveils-securitygenie-a-revolutionary-chatgpt-like-solution-for-cloud-security-teams)
+- [SynSaber and ICS Advisory Project Identify Vulnerability Trends Within The Critical Infrastructure Sector](https://www.darkreading.com/ics-ot/synsaber-and-ics-advisory-project-identify-vulnerability-trends-within-the-critical-infrastructure-sector)
+- [Global Optical Sensor Market to Reach $45.56B by 2030, Rising Demand in Consumer Electronics and IoT Applications](https://www.darkreading.com/operations/global-optical-sensor-market-to-reach-45-56b-by-2030)
+- [VALIC Retirement Services Company Experiences PBI Data Breach Exposing Approximately 798,000 Social Security Numbers](https://www.darkreading.com/attacks-breaches/valic-retirement-services-company-experiences-pbi-data-breach-exposing-approximately-798-000-social-security-numbers)
+- [Instagram Flags AI-Generated Content](https://www.darkreading.com/application-security/instagram-flags-ai-generated-content)
 - [Iranian Company Plays Host to Reams of Ransomware, APT Groups](https://www.darkreading.com/dr-global/iranian-company--host-ransomware-apt-groups)
 - [Iran&#39;s APT34 Hits UAE With Supply Chain Attack](https://www.darkreading.com/dr-global/iran-apt34-uae-supply-chain-attack)
 - [Hot Topic Apparel Brand Faces Credential-Stuffing Attack](https://www.darkreading.com/application-security/hot-topic-apparel-brand-faces-credential-stuffing-attack)
-- [Cyber-Insurance Underwriting Is Still Stuck in the Dark Ages](https://www.darkreading.com/risk/cyber-insurance-underwriting-is-still-stuck-in-the-dark-ages)
-- [Utilities Face Security Challenges as They Embrace Data in New Ways](https://www.darkreading.com/attacks-breaches/utilities-face-security-challenges-as-they-embrace-data-in-new-ways)
-- [Tesla Jailbreak Unlocks Theft of In-Car Paid Features](https://www.darkreading.com/application-security/tesla-jailbreak-unlocks-theft-in-car-paid-features)
-- [Unified XDR and SIEM Alleviate Security Alert Fatigue](https://www.darkreading.com/microsoft/unified-xdr-and-siem-alleviate-security-alert-fatigue)
-- [White House Cyber Workforce Strategy: No Quick Fix for Skills Shortage](https://www.darkreading.com/careers-and-people/white-house-cyber-workforce-strategy-no-quick-fix-for-skills-shortage)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
