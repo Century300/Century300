@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Utilities Face Security Challenges as They Embrace Data in New Ways](https://www.darkreading.com/attacks-breaches/utilities-face-security-challenges-as-they-embrace-data-in-new-ways)
 - [Unified XDR and SIEM Alleviate Security Alert Fatigue](https://www.darkreading.com/microsoft/unified-xdr-and-siem-alleviate-security-alert-fatigue)
 - [White House Cyber Workforce Strategy: No Quick Fix for Skills Shortage](https://www.darkreading.com/careers-and-people/white-house-cyber-workforce-strategy-no-quick-fix-for-skills-shortage)
 - [Devo and Cybermindz Partner to Address the Mental Health of Front-Line Cybersecurity Workers in the US](https://www.darkreading.com/operations/devo-and-cybermindz-partner-to-address-the-mental-health-of-front-line-cybersecurity-workers-in-the-us)
@@ -83,7 +84,6 @@
 - [Forescout&#39;s Risk and Exposure Management Solution Delivers Streamlined, Quantitative Approach to Cyber Asset Risk Management](https://www.darkreading.com/risk/forescout-s-risk-and-exposure-management-solution-delivers-streamlined-quantitative-approach-to-cyber-asset-risk-management)
 - [Nile Raises $175M Series C Funding to Redefine Enterprise Networks](https://www.darkreading.com/operations/nile-raises-175m-series-c-funding-to-redefine-enterprise-networks)
 - [Canon Inkjet Printers at Risk for Third-Party Compromise via Wi-Fi](https://www.darkreading.com/endpoint/canon-inkjet-printers-at-risk-for-third-party-compromise-via-wi-fi)
-- [Space Pirates Turn Cyber Sabers on Russian, Serbian Organizations](https://www.darkreading.com/threat-intelligence/space-pirates-train-cyber-sabers-on-russian-serbian-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
