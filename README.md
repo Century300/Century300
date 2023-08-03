@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Need Backing to Take Charge of Security](https://www.darkreading.com/edge-articles/cisos-need-backing-to-take-charge-of-security)
 - [Russian APT &#39;BlueCharlie&#39; Swaps Infrastructure to Evade Detection](https://www.darkreading.com/attacks-breaches/russian-apt-bluecharlie-swaps-infrastructure-to-evade-detection)
 - [Menlo Security Establishes Browser Security With AI-Powered Phishing and Ransomware Protection](https://www.darkreading.com/attacks-breaches/menlo-security-establishes-browser-security-with-ai-powered-phishing-and-ransomware-protection)
 - [BeyondTrust&#39;s Identity Security Insights Provides Unprecedented Visibility into Identity Threats](https://www.darkreading.com/endpoint/beyondtrust-s-identity-security-insights-provides-unprecedented-visibility-into-identity-threats)
@@ -83,7 +84,6 @@
 - [Tanium Selected by DHS CISA to Join the Joint Cyber Defense Collaborative](https://www.darkreading.com/attacks-breaches/tanium-selected-by-dhs-cisa-to-join-the-joint-cyber-defense-collaborative)
 - [Solvo Unveils SecurityGenie: A Revolutionary ChatGPT-Like Solution for Cloud Security Teams](https://www.darkreading.com/cloud/solvo-unveils-securitygenie-a-revolutionary-chatgpt-like-solution-for-cloud-security-teams)
 - [SynSaber and ICS Advisory Project Identify Vulnerability Trends Within The Critical Infrastructure Sector](https://www.darkreading.com/ics-ot/synsaber-and-ics-advisory-project-identify-vulnerability-trends-within-the-critical-infrastructure-sector)
-- [Global Optical Sensor Market to Reach $45.56B by 2030, Rising Demand in Consumer Electronics and IoT Applications](https://www.darkreading.com/operations/global-optical-sensor-market-to-reach-45-56b-by-2030)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
