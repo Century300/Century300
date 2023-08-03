@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacktivist Group &#39;Mysterious Team Bangladesh&#39; Goes on DDoS Rampage](https://www.darkreading.com/dr-global/hactivist-group-mysterious-team-bangladesh-goes-on-ddos-rampage)
+- [Cult of the Dead Cow Hacktivists Give Life to &#39;Privacy-First&#39; App Framework](https://www.darkreading.com/application-security/cult-of-the-dead-cow-privacy-first-app-framework)
+- [World Cup Glory Looms, and So Do Cyber Threats, Microsoft Warns](https://www.darkreading.com/ics-ot/world-cup-glory-looms-cyber-threats-microsoft-warns)
 - [As Artificial Intelligence Accelerates, Cybercrime Innovates](https://www.darkreading.com/risk/as-artificial-intelligence-accelerates-cybercrime-innovates)
 - [Exclusive: CISA Sounds the Alarm on UEFI Security](https://www.darkreading.com/application-security/cisa-sounds-alarm-uefi-security)
 - [Russia&#39;s &#39;Midnight Blizzard&#39; Hackers Launch Flurry of Microsoft Teams Attacks](https://www.darkreading.com/ics-ot/russia-midnight-blizzard-hackers-microsoft-teams-attacks)
 - [Piles of Unpatched IoT, OT Devices Attract ICS Cyberattacks](https://www.darkreading.com/ics-ot/unpatched-iot-ot-devices-pile-up-ics-cyberattacks)
 - [How to Create an Effective GRC Program: 3 Phases](https://www.darkreading.com/risk/how-to-create-an-effective-grc-program-3-phases)
-- [CISOs Need Backing to Take Charge of Security](https://www.darkreading.com/edge-articles/cisos-need-backing-to-take-charge-of-security)
-- [Russian APT &#39;BlueCharlie&#39; Swaps Infrastructure to Evade Detection](https://www.darkreading.com/attacks-breaches/russian-apt-bluecharlie-swaps-infrastructure-to-evade-detection)
-- [Menlo Security Establishes Browser Security With AI-Powered Phishing and Ransomware Protection](https://www.darkreading.com/attacks-breaches/menlo-security-establishes-browser-security-with-ai-powered-phishing-and-ransomware-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
