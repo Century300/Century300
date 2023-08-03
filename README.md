@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Artificial Intelligence Accelerates, Cybercrime Innovates](https://www.darkreading.com/risk/as-artificial-intelligence-accelerates-cybercrime-innovates)
+- [Exclusive: CISA Sounds the Alarm on UEFI Security](https://www.darkreading.com/application-security/cisa-sounds-alarm-uefi-security)
 - [Russia&#39;s &#39;Midnight Blizzard&#39; Hackers Launch Flurry of Microsoft Teams Attacks](https://www.darkreading.com/ics-ot/russia-midnight-blizzard-hackers-microsoft-teams-attacks)
 - [Piles of Unpatched IoT, OT Devices Attract ICS Cyberattacks](https://www.darkreading.com/ics-ot/unpatched-iot-ot-devices-pile-up-ics-cyberattacks)
 - [How to Create an Effective GRC Program: 3 Phases](https://www.darkreading.com/risk/how-to-create-an-effective-grc-program-3-phases)
 - [CISOs Need Backing to Take Charge of Security](https://www.darkreading.com/edge-articles/cisos-need-backing-to-take-charge-of-security)
 - [Russian APT &#39;BlueCharlie&#39; Swaps Infrastructure to Evade Detection](https://www.darkreading.com/attacks-breaches/russian-apt-bluecharlie-swaps-infrastructure-to-evade-detection)
 - [Menlo Security Establishes Browser Security With AI-Powered Phishing and Ransomware Protection](https://www.darkreading.com/attacks-breaches/menlo-security-establishes-browser-security-with-ai-powered-phishing-and-ransomware-protection)
-- [BeyondTrust&#39;s Identity Security Insights Provides Unprecedented Visibility into Identity Threats](https://www.darkreading.com/endpoint/beyondtrust-s-identity-security-insights-provides-unprecedented-visibility-into-identity-threats)
-- [Guardio Uncovers Zero-Day Vulnerability in Salesforce&#39;s Email Services](https://www.darkreading.com/attacks-breaches/guardio-uncovers-zero-day-vulnerability-in-salesforce-s-email-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
