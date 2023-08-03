@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Piles of Unpatched IoT, OT Devices Attract ICS Cyberattacks](https://www.darkreading.com/ics-ot/unpatched-iot-ot-devices-pile-up-ics-cyberattacks)
 - [How to Create an Effective GRC Program: 3 Phases](https://www.darkreading.com/risk/how-to-create-an-effective-grc-program-3-phases)
 - [CISOs Need Backing to Take Charge of Security](https://www.darkreading.com/edge-articles/cisos-need-backing-to-take-charge-of-security)
 - [Russian APT &#39;BlueCharlie&#39; Swaps Infrastructure to Evade Detection](https://www.darkreading.com/attacks-breaches/russian-apt-bluecharlie-swaps-infrastructure-to-evade-detection)
@@ -83,7 +84,6 @@
 - [BeyondTrust&#39;s Identity Security Insights Provides Unprecedented Visibility into Identity Threats](https://www.darkreading.com/endpoint/beyondtrust-s-identity-security-insights-provides-unprecedented-visibility-into-identity-threats)
 - [Guardio Uncovers Zero-Day Vulnerability in Salesforce&#39;s Email Services](https://www.darkreading.com/attacks-breaches/guardio-uncovers-zero-day-vulnerability-in-salesforce-s-email-services)
 - [Tanium Selected by DHS CISA to Join the Joint Cyber Defense Collaborative](https://www.darkreading.com/attacks-breaches/tanium-selected-by-dhs-cisa-to-join-the-joint-cyber-defense-collaborative)
-- [Solvo Unveils SecurityGenie: A Revolutionary ChatGPT-Like Solution for Cloud Security Teams](https://www.darkreading.com/cloud/solvo-unveils-securitygenie-a-revolutionary-chatgpt-like-solution-for-cloud-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
