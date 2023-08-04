@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google, Microsoft Take Refuge in Rust Language&#39;s Better Security](https://www.darkreading.com/application-security/google-microsoft-take-refuge-in-rust-languages-better-security)
 - [Qualys Announces First-Party Software Risk Management Solution](https://www.darkreading.com/risk/qualys-announces-first-party-software-risk-management-solution)
 - [Mission Secure, Idaho National Laboratory Announce Partnership to Protect Critical Infrastructure](https://www.darkreading.com/ics-ot/mission-secure-idaho-national-laboratory-announce-partnership-to-protect-critical-infrastructure)
 - [Vulcan Cyber Attack Path Graph Targets Cloud-Scale Risk Prioritization and Mitigation](https://www.darkreading.com/vulnerabilities-threats/vulcan-cyber-attack-path-graph-targets-cloud-scale-risk-prioritization-and-mitigation)
@@ -83,7 +84,6 @@
 - [Hacktivist Group &#39;Mysterious Team Bangladesh&#39; Goes on DDoS Rampage](https://www.darkreading.com/dr-global/hactivist-group-mysterious-team-bangladesh-goes-on-ddos-rampage)
 - [Cult of the Dead Cow Hacktivists Give Life to &#39;Privacy-First&#39; App Framework](https://www.darkreading.com/application-security/cult-of-the-dead-cow-privacy-first-app-framework)
 - [World Cup Glory Looms, and So Do Cyber Threats, Microsoft Warns](https://www.darkreading.com/ics-ot/world-cup-glory-looms-cyber-threats-microsoft-warns)
-- [As Artificial Intelligence Accelerates, Cybercrime Innovates](https://www.darkreading.com/risk/as-artificial-intelligence-accelerates-cybercrime-innovates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
