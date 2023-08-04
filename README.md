@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Security Market Worth $62.9B by 2028](https://www.darkreading.com/cloud/cloud-security-market-worth-62-9b-by-2028)
+- [Endor Labs Raises $70M to Reform Application Security and Eliminate Developer Productivity Tax](https://www.darkreading.com/application-security/endor-labs-raises-70m-to-reform-application-security-and-eliminate-developer-productivity-tax)
+- [Salesforce Zero-Day Exploited to Phish Facebook Credentials](https://www.darkreading.com/application-security/salesforce-zero-day-exploited-phish-facebook-credentials)
 - [Burger King Serves Up Sensitive Data, No Mayo](https://www.darkreading.com/application-security/burger-king-serves-up-sensitive-data-cyberattackers-no-mayo)
 - [Hawaii&#39;s Gemini North Observatory Suspended After Cyberattack](https://www.darkreading.com/ics-ot/gemini-north-observatory-suspended-after-cyberattack)
 - [How to Talk So Your CISO Will Listen](https://www.darkreading.com/vulnerabilities-threats/how-to-talk-so-your-ciso-will-listen)
 - [How To Deal With the Vagueness in New Cyber Regulations](https://www.darkreading.com/black-hat/how-to-deal-with-the-vagueness-in-new-cyber-regulations)
 - [Google, Microsoft Take Refuge in Rust Language&#39;s Better Security](https://www.darkreading.com/application-security/google-microsoft-take-refuge-in-rust-languages-better-security)
-- [Qualys Announces First-Party Software Risk Management Solution](https://www.darkreading.com/risk/qualys-announces-first-party-software-risk-management-solution)
-- [Mission Secure, Idaho National Laboratory Announce Partnership to Protect Critical Infrastructure](https://www.darkreading.com/ics-ot/mission-secure-idaho-national-laboratory-announce-partnership-to-protect-critical-infrastructure)
-- [Vulcan Cyber Attack Path Graph Targets Cloud-Scale Risk Prioritization and Mitigation](https://www.darkreading.com/vulnerabilities-threats/vulcan-cyber-attack-path-graph-targets-cloud-scale-risk-prioritization-and-mitigation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
