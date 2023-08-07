@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SecurityScorecard Launches Managed Cyber Risk Services to Mitigate Zero-Day and Critical Supply Chain Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/securityscorecard-launches-managed-cyber-risk-services-to-mitigate-zero-day-and-critical-supply-chain-vulnerabilities)
 - [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
 - [SANS Teaches Cybersecurity Leadership in Saudi Arabia](https://www.darkreading.com/dr-global/sans-teaches-cybersecurity-leadership-saudi-arabia)
 - [Mallox Ransomware Group Revamps Malware Variants, Evasion Tactics](https://www.darkreading.com/ics-ot/mallox-ransomware-group-steams-ahead-with-new-variant-evasion-tactics)
@@ -83,7 +84,6 @@
 - [Selling Software to the US Government? Know Security Attestation First](https://www.darkreading.com/application-security/selling-software-government-know-security-attestation-first)
 - [Name That Edge Toon: How Now?](https://www.darkreading.com/edge-articles/name-that-edge-toon-how-now-)
 - [The Dark Web Is Expanding &lpar;As Is the Value of Monitoring It&rpar;](https://www.darkreading.com/threat-intelligence/the-dark-web-is-expanding-as-is-the-value-of-monitoring-it)
-- [Cloud Security Market Worth $62.9B by 2028](https://www.darkreading.com/cloud/cloud-security-market-worth-62-9b-by-2028)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
