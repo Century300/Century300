@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
 - [SANS Teaches Cybersecurity Leadership in Saudi Arabia](https://www.darkreading.com/dr-global/sans-teaches-cybersecurity-leadership-saudi-arabia)
 - [Mallox Ransomware Group Revamps Malware Variants, Evasion Tactics](https://www.darkreading.com/ics-ot/mallox-ransomware-group-steams-ahead-with-new-variant-evasion-tactics)
 - [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: How Now?](https://www.darkreading.com/edge-articles/name-that-edge-toon-how-now-)
 - [The Dark Web Is Expanding &lpar;As Is the Value of Monitoring It&rpar;](https://www.darkreading.com/threat-intelligence/the-dark-web-is-expanding-as-is-the-value-of-monitoring-it)
 - [Cloud Security Market Worth $62.9B by 2028](https://www.darkreading.com/cloud/cloud-security-market-worth-62-9b-by-2028)
-- [Endor Labs Raises $70M to Reform Application Security and Eliminate Developer Productivity Tax](https://www.darkreading.com/application-security/endor-labs-raises-70m-to-reform-application-security-and-eliminate-developer-productivity-tax)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
