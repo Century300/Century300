@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
 - [Selling Software to the US Government? Know Security Attestation First](https://www.darkreading.com/application-security/selling-software-government-know-security-attestation-first)
 - [Name That Edge Toon: How Now?](https://www.darkreading.com/edge-articles/name-that-edge-toon-how-now-)
 - [The Dark Web Is Expanding &lpar;As Is the Value of Monitoring It&rpar;](https://www.darkreading.com/threat-intelligence/the-dark-web-is-expanding-as-is-the-value-of-monitoring-it)
@@ -83,7 +84,6 @@
 - [Endor Labs Raises $70M to Reform Application Security and Eliminate Developer Productivity Tax](https://www.darkreading.com/application-security/endor-labs-raises-70m-to-reform-application-security-and-eliminate-developer-productivity-tax)
 - [Salesforce Zero-Day Exploited to Phish Facebook Credentials](https://www.darkreading.com/application-security/salesforce-zero-day-exploited-phish-facebook-credentials)
 - [Burger King Serves Up Sensitive Data, No Mayo](https://www.darkreading.com/application-security/burger-king-serves-up-sensitive-data-cyberattackers-no-mayo)
-- [Hawaii&#39;s Gemini North Observatory Suspended After Cyberattack](https://www.darkreading.com/ics-ot/gemini-north-observatory-suspended-after-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
