@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Key Controls to Show Your Organization Is Worthy of Cyber Insurance](https://www.darkreading.com/risk/10-key-controls-to-show-your-organization-is-worthy-of-cyber-insurance)
 - [Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
 - [Ransomware Victims Surge as Threat Actors Pivot to Zero-Day Exploits](https://www.darkreading.com/threat-intelligence/ransomware-victims-surge-as-threat-actors-pivot-to-zero-day-exploits)
 - [Apple Users See Big Mac Attack, Says Accenture](https://www.darkreading.com/attacks-breaches/accenture-sees-big-mac-attacks)
@@ -83,7 +84,6 @@
 - [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
 - [SANS Teaches Cybersecurity Leadership in Saudi Arabia](https://www.darkreading.com/dr-global/sans-teaches-cybersecurity-leadership-saudi-arabia)
 - [Mallox Ransomware Group Revamps Malware Variants, Evasion Tactics](https://www.darkreading.com/ics-ot/mallox-ransomware-group-steams-ahead-with-new-variant-evasion-tactics)
-- [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
