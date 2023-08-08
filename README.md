@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Users See Big Mac Attack, Says Accenture](https://www.darkreading.com/attacks-breaches/accenture-sees-big-mac-attacks)
 - [SecurityScorecard Launches Managed Cyber Risk Services to Mitigate Zero-Day and Critical Supply Chain Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/securityscorecard-launches-managed-cyber-risk-services-to-mitigate-zero-day-and-critical-supply-chain-vulnerabilities)
 - [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
 - [SANS Teaches Cybersecurity Leadership in Saudi Arabia](https://www.darkreading.com/dr-global/sans-teaches-cybersecurity-leadership-saudi-arabia)
@@ -83,7 +84,6 @@
 - [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
 - [Selling Software to the US Government? Know Security Attestation First](https://www.darkreading.com/application-security/selling-software-government-know-security-attestation-first)
 - [Name That Edge Toon: How Now?](https://www.darkreading.com/edge-articles/name-that-edge-toon-how-now-)
-- [The Dark Web Is Expanding &lpar;As Is the Value of Monitoring It&rpar;](https://www.darkreading.com/threat-intelligence/the-dark-web-is-expanding-as-is-the-value-of-monitoring-it)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
