@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
 - [Ransomware Victims Surge as Threat Actors Pivot to Zero-Day Exploits](https://www.darkreading.com/threat-intelligence/ransomware-victims-surge-as-threat-actors-pivot-to-zero-day-exploits)
 - [Apple Users See Big Mac Attack, Says Accenture](https://www.darkreading.com/attacks-breaches/accenture-sees-big-mac-attacks)
 - [SecurityScorecard Launches Managed Cyber Risk Services to Mitigate Zero-Day and Critical Supply Chain Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/securityscorecard-launches-managed-cyber-risk-services-to-mitigate-zero-day-and-critical-supply-chain-vulnerabilities)
@@ -83,7 +84,6 @@
 - [SANS Teaches Cybersecurity Leadership in Saudi Arabia](https://www.darkreading.com/dr-global/sans-teaches-cybersecurity-leadership-saudi-arabia)
 - [Mallox Ransomware Group Revamps Malware Variants, Evasion Tactics](https://www.darkreading.com/ics-ot/mallox-ransomware-group-steams-ahead-with-new-variant-evasion-tactics)
 - [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
-- [Selling Software to the US Government? Know Security Attestation First](https://www.darkreading.com/application-security/selling-software-government-know-security-attestation-first)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
