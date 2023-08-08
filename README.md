@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Victims Surge as Threat Actors Pivot to Zero-Day Exploits](https://www.darkreading.com/threat-intelligence/ransomware-victims-surge-as-threat-actors-pivot-to-zero-day-exploits)
 - [Apple Users See Big Mac Attack, Says Accenture](https://www.darkreading.com/attacks-breaches/accenture-sees-big-mac-attacks)
 - [SecurityScorecard Launches Managed Cyber Risk Services to Mitigate Zero-Day and Critical Supply Chain Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/securityscorecard-launches-managed-cyber-risk-services-to-mitigate-zero-day-and-critical-supply-chain-vulnerabilities)
 - [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
@@ -83,7 +84,6 @@
 - [Mallox Ransomware Group Revamps Malware Variants, Evasion Tactics](https://www.darkreading.com/ics-ot/mallox-ransomware-group-steams-ahead-with-new-variant-evasion-tactics)
 - [Colorado Dept. of Higher Education Hit With Massive Data Breach](https://www.darkreading.com/attacks-breaches/colorado-dept-higher-education-data-breach)
 - [Selling Software to the US Government? Know Security Attestation First](https://www.darkreading.com/application-security/selling-software-government-know-security-attestation-first)
-- [Name That Edge Toon: How Now?](https://www.darkreading.com/edge-articles/name-that-edge-toon-how-now-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
