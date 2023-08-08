@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Data Protection Bill Approved, Despite Privacy Concerns](https://www.darkreading.com/dr-global/india-data-protection-bill-passed-despite-privacy-concerns)
+- [Raft of TETRA Zero-Day Vulnerabilities Endanger Industrial Communications](https://www.darkreading.com/dr-global/tetra-zero-day-vulnerabilities-endanger-industrial-communications)
+- [Custom Yashma Ransomware Crashes Into the Scene](https://www.darkreading.com/threat-intelligence/custom-yashma-ransomware-crashes-into-the-scene)
 - [Citrix Zero-Day: 7K Instances Remain Exposed, 460 Compromised](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-update-7000-instances-exposed-460-compromised)
 - [The Problem With Cybersecurity &lpar;and AI Security&rpar; Regulation](https://www.darkreading.com/risk/the-problem-with-cybersecurity-and-ai-security-regulation)
 - [10 Key Controls to Show Your Organization Is Worthy of Cyber Insurance](https://www.darkreading.com/risk/10-key-controls-to-show-your-organization-is-worthy-of-cyber-insurance)
 - [Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
 - [Ransomware Victims Surge as Threat Actors Pivot to Zero-Day Exploits](https://www.darkreading.com/threat-intelligence/ransomware-victims-surge-as-threat-actors-pivot-to-zero-day-exploits)
-- [Apple Users See Big Mac Attack, Says Accenture](https://www.darkreading.com/attacks-breaches/accenture-sees-big-mac-attacks)
-- [SecurityScorecard Launches Managed Cyber Risk Services to Mitigate Zero-Day and Critical Supply Chain Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/securityscorecard-launches-managed-cyber-risk-services-to-mitigate-zero-day-and-critical-supply-chain-vulnerabilities)
-- [Akamai Research: Rampant Abuse of Zero-Day and One-Day Vulnerabilities Leads to 143% Increase in Victims of Ransomware](https://www.darkreading.com/attacks-breaches/akamai-research-rampant-abuse-of-zero-day-and-one-day-vulnerabilities-leads-to-143-increase-in-victims-of-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
