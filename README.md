@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Fixes 74 CVEs in August Update](https://www.darkreading.com/application-security/microsoft-fixes-74-cves-in-august-update)
 - [Russian Rocket Bureau Faces Cyber-Espionage Breach, North Korea Responsible](https://www.darkreading.com/attacks-breaches/russian-rocket-bureau-faces-cyber-espionage-breach-north-korea-responsible)
 - [zkPass Secures $2.5M in Seed Funding to Safeguard User Privacy and Data](https://www.darkreading.com/operations/zkpass-secures-2-5m-in-seed-funding-to-safeguard-user-privacy-and-data)
 - [Brillio Partners With Google Cloud to Build Generative AI Solutions for the Financial Services and Healthcare Industries](https://www.darkreading.com/operations/brillio-partners-with-google-cloud-to-build-generative-ai-solutions-for-the-financial-services-and-healthcare-industries)
@@ -83,7 +84,6 @@
 - [India Data Protection Bill Approved, Despite Privacy Concerns](https://www.darkreading.com/dr-global/india-data-protection-bill-passed-despite-privacy-concerns)
 - [Raft of TETRA Zero-Day Vulnerabilities Endanger Industrial Communications](https://www.darkreading.com/dr-global/tetra-zero-day-vulnerabilities-endanger-industrial-communications)
 - [Custom Yashma Ransomware Crashes Into the Scene](https://www.darkreading.com/threat-intelligence/custom-yashma-ransomware-crashes-into-the-scene)
-- [Citrix Zero-Day: 7K Instances Remain Exposed, 460 Compromised](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-update-7000-instances-exposed-460-compromised)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
