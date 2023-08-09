@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attacker Breakout Time Shrinks Again, Underscoring Need for Automation](https://www.darkreading.com/threat-intelligence/attacker-breakout-time-shrinks-again-underscoring-need-for-automation)
+- [Analyzing Network Chaos Leads to Better DDoS Detection](https://www.darkreading.com/dr-tech/analyzing-network-chaos-leads-to-better-ddos-detection)
 - [Microsoft Fixes 74 CVEs in August Update](https://www.darkreading.com/application-security/microsoft-fixes-74-cves-in-august-update)
 - [Russian Rocket Bureau Faces Cyber-Espionage Breach, North Korea Responsible](https://www.darkreading.com/attacks-breaches/russian-rocket-bureau-faces-cyber-espionage-breach-north-korea-responsible)
 - [zkPass Secures $2.5M in Seed Funding to Safeguard User Privacy and Data](https://www.darkreading.com/operations/zkpass-secures-2-5m-in-seed-funding-to-safeguard-user-privacy-and-data)
 - [Brillio Partners With Google Cloud to Build Generative AI Solutions for the Financial Services and Healthcare Industries](https://www.darkreading.com/operations/brillio-partners-with-google-cloud-to-build-generative-ai-solutions-for-the-financial-services-and-healthcare-industries)
 - [75% of Organizations Worldwide Set to Ban ChatGPT and Generative AI Apps on Work Devices](https://www.darkreading.com/endpoint/75-of-organizations-worldwide-set-to-ban-chatgpt-and-generative-ai-apps-on-work-devices)
 - [India Data Protection Bill Approved, Despite Privacy Concerns](https://www.darkreading.com/dr-global/india-data-protection-bill-passed-despite-privacy-concerns)
-- [Raft of TETRA Zero-Day Vulnerabilities Endanger Industrial Communications](https://www.darkreading.com/dr-global/tetra-zero-day-vulnerabilities-endanger-industrial-communications)
-- [Custom Yashma Ransomware Crashes Into the Scene](https://www.darkreading.com/threat-intelligence/custom-yashma-ransomware-crashes-into-the-scene)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
