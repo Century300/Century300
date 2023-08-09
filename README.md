@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Risk Database Tackles AI Supply Chain Risks](https://www.darkreading.com/emerging-tech/ai-risk-database-tackles-ai-supply-chain-risks)
 - [Why Shellshock Remains a Cybersecurity Threat After 9 Years](https://www.darkreading.com/attacks-breaches/why-shellshock-remains-cybersecurity-threat-after-9-years)
 - [Closing Coverage Gaps Where Customer Resources Meet Cloud Environments](https://www.darkreading.com/microsoft/closing-coverage-gaps-where-customer-resources-meet-cloud-environments)
 - [TUNE IN Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
@@ -83,7 +84,6 @@
 - [Analyzing Network Chaos Leads to Better DDoS Detection](https://www.darkreading.com/dr-tech/analyzing-network-chaos-leads-to-better-ddos-detection)
 - [Microsoft Patches Zero-Day Bug Under Active Exploit in August Update](https://www.darkreading.com/application-security/microsoft-fixes-74-cves-in-august-update)
 - [Russian Rocket Bureau Faces Cyber-Espionage Breach, North Korea Responsible](https://www.darkreading.com/attacks-breaches/russian-rocket-bureau-faces-cyber-espionage-breach-north-korea-responsible)
-- [zkPass Secures $2.5M in Seed Funding to Safeguard User Privacy and Data](https://www.darkreading.com/operations/zkpass-secures-2-5m-in-seed-funding-to-safeguard-user-privacy-and-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
