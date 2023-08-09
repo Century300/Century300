@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DARPA Launches Two-Year Contest to Build AI Tools to Fix Vulnerabilities](https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities)
+- [LastPass Announces Availability of FIDO2 Authenticators for Passwordless Login](https://www.darkreading.com/endpoint/lastpass-announces-availability-of-fido2-authenticators-for-passwordless-login)
+- [Sweet Security Lands $12M in Seed Funding to Shift Cloud Security Right](https://www.darkreading.com/cloud/sweet-security-lands-12m-in-seed-funding-to-shift-cloud-security-right)
+- [Symmetry Systems Closes $17.7M To Scale its AI-Powered Data Security Platform](https://www.darkreading.com/application-security/symmetry-systems-closes-17-7m-to-scale-its-ai-powered-data-security-platform)
+- [Checkmarx CISO Study Finds 96% of CISOs Say Their Business Prospects Consider Their Organizations&#39; AppSec Maturity When Making Deal Decisions](https://www.darkreading.com/application-security/checkmarx-ciso-study-finds-96-of-cisos-say-their-business-prospects-consider-their-organizations-appsec-maturity-when-making-deal-decisions)
+- [Blockchain Signing Bug Cracks Open Crypto Investors&#39; Wallets Worldwide](https://www.darkreading.com/vulnerabilities-threats/private-key-leaks-attackers-empty-crypto-investors-wallets)
+- [Black Hat Opens With Call to Steer AI from Predictions to Policy](https://www.darkreading.com/black-hat/black-hat-opens-with-call-to-steer-ai-from-predictions-to-policy)
 - [Windows Defender-Pretender Attack Dismantles Flagship Microsoft EDR](https://www.darkreading.com/attacks-breaches/-researchers-detail-vuln-that-allowed-for-windows-defender-update-process-hijack)
-- [Disposed-of Gadgets Can Lead to Wi-Fi Network Hacks, Kaspersky Says](https://www.darkreading.com/vulnerabilities-threats/disposed-of-gadgets-can-lead-to-wi-fi-network-hacks-kaspersky-says)
-- [New LLM Tool Seeks and Remediates Vulnerabilities](https://www.darkreading.com/dr-tech/new-vuln_gpt-llm-seeks-and-remediates-vulnerabilities)
-- [It&#39;s Time for Cybersecurity to Talk About Climate Change](https://www.darkreading.com/risk/cybersecurity-talk-about-climate-change)
-- [&#39;Downfall&#39; Bug in Billions of Intel CPUs Reveals Major Design Flaw](https://www.darkreading.com/threat-intelligence/downfall-bug-billions-intel-cpus-design-flaw)
-- [Major Police Breach Endangers Safety of Officers &amp; Civilians](https://www.darkreading.com/attacks-breaches/safety-of-officers-civilians-psni-compromised-major-data-breach)
-- [Top 3 Insights I Learned at Recent Cybersecurity Events](https://www.darkreading.com/vulnerabilities-threats/top-3-insights-i-learned-at-recent-cybersecurity-events)
-- [C-Suite Cybersecurity Sign-off Hinges on Customer Trust, Digital Opps](https://www.darkreading.com/threat-intelligence/c-suite-cybersecurity-sign-off-customer-trust-digital-opps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
