@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [C-Suite Cybersecurity Sign-off Hinges on Customer Trust, Digital Opps](https://www.darkreading.com/threat-intelligence/c-suite-cybersecurity-sign-off-customer-trust-digital-opps)
+- [OWASP Lead Flags Gaping Hole in Software Supply Chain Security](https://www.darkreading.com/application-security/owasp-lead-gaping-hole-software-supply-chain-security)
+- [Sweet Security Debuts Runtime Management for Cloud](https://www.darkreading.com/cloud/sweet-security-debuts-runtime-management-for-cloud)
 - [Interpol Shuts Down African Cybercrime Group, Seizes $2 Million](https://www.darkreading.com/dr-global/interpol-shuts-down-african-cybercrime-group-seizes-$2-million)
-- [RedHotel Checks in As Dominant China-Backed Cyberspy Group](https://www.darkreading.com/threat-intelligence/redhotel-dominant-china-backed-cyber-spy-group)
+- [RedHotel Checks in as Dominant China-Backed Cyberspy Group](https://www.darkreading.com/threat-intelligence/redhotel-dominant-china-backed-cyber-spy-group)
 - [AI Risk Database Tackles AI Supply Chain Risks](https://www.darkreading.com/emerging-tech/ai-risk-database-tackles-ai-supply-chain-risks)
 - [Why Shellshock Remains a Cybersecurity Threat After 9 Years](https://www.darkreading.com/attacks-breaches/why-shellshock-remains-cybersecurity-threat-after-9-years)
 - [Closing Coverage Gaps Where Customer Resources Meet Cloud Environments](https://www.darkreading.com/microsoft/closing-coverage-gaps-where-customer-resources-meet-cloud-environments)
-- [TUNE IN Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
-- [Attacker Breakout Time Shrinks Again, Underscoring Need for Automation](https://www.darkreading.com/threat-intelligence/attacker-breakout-time-shrinks-again-underscoring-need-for-automation)
-- [Analyzing Network Chaos Leads to Better DDoS Detection](https://www.darkreading.com/dr-tech/analyzing-network-chaos-leads-to-better-ddos-detection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
