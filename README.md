@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DAY 2! Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
 - [&#39;MoustachedBouncer&#39; APT Spies on Embassies, Likely via ISPs](https://www.darkreading.com/attacks-breaches/moustached-bouncer-apt-spied-embassies-belarus)
 - [DARPA Launches 2-Year Contest to Build AI Tools to Fix Vulnerabilities](https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities)
 - [LastPass Announces Availability of FIDO2 Authenticators for Passwordless Login](https://www.darkreading.com/endpoint/lastpass-announces-availability-of-fido2-authenticators-for-passwordless-login)
@@ -83,7 +84,6 @@
 - [Symmetry Systems Closes $17.7M To Scale its AI-Powered Data Security Platform](https://www.darkreading.com/application-security/symmetry-systems-closes-17-7m-to-scale-its-ai-powered-data-security-platform)
 - [Checkmarx CISO Study Finds 96% of CISOs Say Their Business Prospects Consider Their Organizations&#39; AppSec Maturity When Making Deal Decisions](https://www.darkreading.com/application-security/checkmarx-ciso-study-finds-96-of-cisos-say-their-business-prospects-consider-their-organizations-appsec-maturity-when-making-deal-decisions)
 - [Blockchain Signing Bug Cracks Open Crypto Investors&#39; Wallets Worldwide](https://www.darkreading.com/vulnerabilities-threats/private-key-leaks-attackers-empty-crypto-investors-wallets)
-- [Black Hat Opens With Call to Steer AI From Predictions to Policy](https://www.darkreading.com/black-hat/black-hat-opens-with-call-to-steer-ai-from-predictions-to-policy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
