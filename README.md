@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dell Credentials Bug Opens VMWare Environments to Takeover](https://www.darkreading.com/threat-intelligence/dell-credentials-bug-vmware-environments-takeover)
+- [Cyber Insurance Experts Make a Case for Coverage, Protection](https://www.darkreading.com/black-hat/cyber-insurance-experts-make-a-case-for-coverage-protection)
 - [EvilProxy Cyberattack Flood Targets Execs via Microsoft 365](https://www.darkreading.com/cloud/evilproxy-cyberattack-flood-execs-microsoft-365)
 - [The Hard Realities of Setting AI Risk Policy](https://www.darkreading.com/edge/the-hard-realities-of-setting-ai-risk-policy)
 - [SecurityGen Study Highlights Hidden Threat to 5G Mobile Networks From GTP-Based Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/securitygen-study-highlights-hidden-threat-to-5g-mobile-networks-from-gtp-based-cyberattacks)
 - [Rootly Raises $12M to Help Enterprise IT Teams Resolve Incidents 80 Percent Faster](https://www.darkreading.com/operations/rootly-raises-12m-to-help-enterprise-it-teams-resolve-incidents-80-percent-faster)
 - [Osano Secures $25M Series B to Advance Data Privacy Platform](https://www.darkreading.com/operations/osano-secures-25m-series-b-to-advance-data-privacy-platform)
 - [Cybersecurity: It&#39;s Time to Trust the Machines](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-time-to-trust-machines)
-- [Navigating Cybersecurity&#39;s Seas: Environmental Regulations, OT &amp; the Maritime Industry&#39;s New Challenges](https://www.darkreading.com/ics-ot/environmental-regulations-ot-maritime-industry-challenges)
-- [DAY 2! Dark Reading News Desk: Live at Black Hat USA 2023](https://www.darkreading.com/edge/dark-reading-news-desk-live-at-black-hat-usa-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
