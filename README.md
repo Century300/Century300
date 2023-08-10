@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [DARPA Launches Two-Year Contest to Build AI Tools to Fix Vulnerabilities](https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities)
+- [DARPA Launches 2-Year Contest to Build AI Tools to Fix Vulnerabilities](https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities)
 - [LastPass Announces Availability of FIDO2 Authenticators for Passwordless Login](https://www.darkreading.com/endpoint/lastpass-announces-availability-of-fido2-authenticators-for-passwordless-login)
 - [Sweet Security Lands $12M in Seed Funding to Shift Cloud Security Right](https://www.darkreading.com/cloud/sweet-security-lands-12m-in-seed-funding-to-shift-cloud-security-right)
 - [Symmetry Systems Closes $17.7M To Scale its AI-Powered Data Security Platform](https://www.darkreading.com/application-security/symmetry-systems-closes-17-7m-to-scale-its-ai-powered-data-security-platform)
