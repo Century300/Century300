@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;MoustachedBouncer&#39; APT Spies on Embassies, Likely via ISPs](https://www.darkreading.com/attacks-breaches/moustached-bouncer-apt-spied-embassies-belarus)
 - [DARPA Launches 2-Year Contest to Build AI Tools to Fix Vulnerabilities](https://www.darkreading.com/threat-intelligence/darpa-launches-contest-tools-vulnerabilities)
 - [LastPass Announces Availability of FIDO2 Authenticators for Passwordless Login](https://www.darkreading.com/endpoint/lastpass-announces-availability-of-fido2-authenticators-for-passwordless-login)
 - [Sweet Security Lands $12M in Seed Funding to Shift Cloud Security Right](https://www.darkreading.com/cloud/sweet-security-lands-12m-in-seed-funding-to-shift-cloud-security-right)
@@ -83,7 +84,6 @@
 - [Checkmarx CISO Study Finds 96% of CISOs Say Their Business Prospects Consider Their Organizations&#39; AppSec Maturity When Making Deal Decisions](https://www.darkreading.com/application-security/checkmarx-ciso-study-finds-96-of-cisos-say-their-business-prospects-consider-their-organizations-appsec-maturity-when-making-deal-decisions)
 - [Blockchain Signing Bug Cracks Open Crypto Investors&#39; Wallets Worldwide](https://www.darkreading.com/vulnerabilities-threats/private-key-leaks-attackers-empty-crypto-investors-wallets)
 - [Black Hat Opens With Call to Steer AI from Predictions to Policy](https://www.darkreading.com/black-hat/black-hat-opens-with-call-to-steer-ai-from-predictions-to-policy)
-- [Windows Defender-Pretender Attack Dismantles Flagship Microsoft EDR](https://www.darkreading.com/attacks-breaches/-researchers-detail-vuln-that-allowed-for-windows-defender-update-process-hijack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
