@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Pressures Mount Around AI&#39;s Promises &amp; Peril](https://www.darkreading.com/threat-intelligence/security-pressure-mounts-ai-promises-peril)
 - [DARPA Taps RTX to Attune AI Decisions to Human Values](https://www.darkreading.com/operations/darpa-taps-rtx-to-attune-ai-decisions-to-human-values)
 - [Fortinet Announces Free Security Awareness Curriculum for K-12 Students Tied to White House&#39;s Cyber Initiatives](https://www.darkreading.com/careers-and-people/fortinet-announces-free-security-awareness-curriculum-for-k-12-students-tied-to-white-house-s-cyber-education-and-workforce-initiatives)
 - [As Phishing Gets Even Sneakier, Browser Security Needs to Step Up](https://www.darkreading.com/attacks-breaches/as-phishing-gets-sneakier-browser-security-needs-to-step-up)
@@ -83,7 +84,6 @@
 - [XWorm, Remcos RAT Evade EDRs to Infect Critical Infrastructure](https://www.darkreading.com/ics-ot/xworm-remcos-rat-evade-edrs-infect-critical-infrastructure)
 - [What CISA and NSA Guidance Means for Critical Infrastructure Security](https://www.darkreading.com/ics-ot/what-cisa-and-nsa-esf-guidance-means-for-critical-infrastructure-security)
 - [Mobb Wins Black Hat Startup Spotlight Competition](https://www.darkreading.com/dr-tech/mobb-wins-black-hat-startup-spotlight-competition)
-- [Microsoft Expands Cloud Security Posture Management to Google Cloud](https://www.darkreading.com/dr-tech/microsoft-expands-cloud-security-posture-management-to-google-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
