@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mobb Wins Black Hat Startup Spotlight Competition](https://www.darkreading.com/dr-tech/mobb-wins-black-hat-startup-spotlight-competition)
 - [Microsoft Expands Cloud Security Posture Management to Google Cloud](https://www.darkreading.com/dr-tech/microsoft-expands-cloud-security-posture-management-to-google-cloud)
-- [What&#39;s in New York&#39;s &#39;First Ever&#39; Cyber Strategy?](https://www.darkreading.com/edge-articles/whats-in-new-york-first-ever-cyber-strategy)
+- [What&#39;s in New York&#39;s &#39;First-Ever&#39; Cyber Strategy?](https://www.darkreading.com/edge-articles/whats-in-new-york-first-ever-cyber-strategy)
 - [NSA: Codebreaker Challenge Helps Drive Cybersecurity Education](https://www.darkreading.com/attacks-breaches/nsa-talks-codebreaker-challenge-success-influence-on-education)
 - [Rhysida Ransomware Trains Its Sights on Healthcare Operations](https://www.darkreading.com/vulnerabilities-threats/rhysida-ransomware-trains-its-sights-on-healthcare-operations)
 - [CISA: &#39;Whirlpool&#39; Backdoor Sends Barracuda ESG Security Down the Drain](https://www.darkreading.com/threat-intelligence/cisa-whirlpool-backdoor-barracuda-esg-security)
-- [Dell Credentials Bug Opens VMWare Environments to Takeover](https://www.darkreading.com/threat-intelligence/dell-credentials-bug-vmware-environments-takeover)
+- [Dell Credentials Bug Opens VMware Environments to Takeover](https://www.darkreading.com/threat-intelligence/dell-credentials-bug-vmware-environments-takeover)
 - [Cyber Insurance Experts Make a Case for Coverage, Protection](https://www.darkreading.com/black-hat/cyber-insurance-experts-make-a-case-for-coverage-protection)
-- [EvilProxy Cyberattack Flood Targets Execs via Microsoft 365](https://www.darkreading.com/cloud/evilproxy-cyberattack-flood-execs-microsoft-365)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
