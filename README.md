@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Following Pushback, Zoom Says It Won&#39;t Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 - [5 Ways CISA Can Help Cyber-Poor Small Businesses &amp; Local Governments](https://www.darkreading.com/vulnerabilities-threats/5-ways-cisa-can-help-cyber-poor-small-businesses-local-governments-)
 - [How to Choose a Managed Detection and Response &lpar;MDR&rpar; Solution](https://www.darkreading.com/threat-intelligence/how-to-choose-a-managed-detections-and-response-mdr-solution)
 - [3 Mobile or Client-Side Security Myths Debunked](https://www.darkreading.com/application-security/3-mobile-or-client-side-security-myths-debunked)
@@ -83,7 +84,6 @@
 - [DARPA Taps RTX to Attune AI Decisions to Human Values](https://www.darkreading.com/operations/darpa-taps-rtx-to-attune-ai-decisions-to-human-values)
 - [Fortinet Announces Free Security Awareness Curriculum for K-12 Students Tied to White House&#39;s Cyber Initiatives](https://www.darkreading.com/careers-and-people/fortinet-announces-free-security-awareness-curriculum-for-k-12-students-tied-to-white-house-s-cyber-education-and-workforce-initiatives)
 - [As Phishing Gets Even Sneakier, Browser Security Needs to Step Up](https://www.darkreading.com/attacks-breaches/as-phishing-gets-sneakier-browser-security-needs-to-step-up)
-- [Threat Intelligence Efforts, Investment Lagging, Says Opswat](https://www.darkreading.com/threat-intelligence/oswap-releases-threat-intelligence-survey-reveals-need-for-enhancement)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
