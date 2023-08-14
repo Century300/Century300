@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What&#39;s New in the NIST Cybersecurity Framework 2.0](https://www.darkreading.com/operations/whats-new-in-nist-cybersecurity-framework-2-0)
 - [Russian-African Security Gathering Exposes Kremlin&#39;s Reduced Influence](https://www.darkreading.com/dr-global/russian-african-security-gathering-exposes-kremlins-reduced-influence)
 - [Health Data of 4M Stolen in Cl0p MOVEit Breach of Colorado Department](https://www.darkreading.com/attacks-breaches/clop-gang-steals-personal-health-data-of-4-million-in-colorado-breach)
 - [Following Pushback, Zoom Says It Won&#39;t Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
@@ -83,7 +84,6 @@
 - [5 Ways CISA Can Help Cyber-Poor Small Businesses &amp; Local Governments](https://www.darkreading.com/vulnerabilities-threats/5-ways-cisa-can-help-cyber-poor-small-businesses-local-governments-)
 - [How to Choose a Managed Detection and Response &lpar;MDR&rpar; Solution](https://www.darkreading.com/threat-intelligence/how-to-choose-a-managed-detections-and-response-mdr-solution)
 - [3 Mobile or Client-Side Security Myths Debunked](https://www.darkreading.com/application-security/3-mobile-or-client-side-security-myths-debunked)
-- [Security Pressures Mount Around AI&#39;s Promises &amp; Peril](https://www.darkreading.com/threat-intelligence/security-pressure-mounts-ai-promises-peril)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
