@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bolstering Africa’s Cybersecurity](https://www.darkreading.com/dr-global/bolstering-africa-cybersecurity)
 - [Microsoft Cloud Security Woes Inspire DHS Security Review](https://www.darkreading.com/cloud/microsoft-cloud-woes-inspire-dhs-security-review)
 - [How &amp; Why Cybercriminals Fabricate Data Leaks](https://www.darkreading.com/vulnerabilities-threats/how-why-cybercriminals-fabricate-data-leaks)
 - [Women in CyberSecurity &lpar;WiCyS&rpar; Hosting Fifth Annual Virtual Career Fair](https://www.darkreading.com/operations/women-in-cybersecurity-wicys-hosting-fifth-annual-virtual-career-fair)
@@ -83,7 +84,6 @@
 - [What&#39;s New in the NIST Cybersecurity Framework 2.0](https://www.darkreading.com/operations/whats-new-in-nist-cybersecurity-framework-2-0)
 - [Russian-African Security Gathering Exposes Kremlin&#39;s Reduced Influence](https://www.darkreading.com/dr-global/russian-african-security-gathering-exposes-kremlins-reduced-influence)
 - [Health Data of 4M Stolen in Cl0p MOVEit Breach of Colorado Department](https://www.darkreading.com/attacks-breaches/clop-gang-steals-personal-health-data-of-4-million-in-colorado-breach)
-- [Following Pushback, Zoom Says It Won&#39;t Use Customer Data to Train AI Models](https://www.darkreading.com/analytics/following-pushback-zoom-says-it-won-t-use-customer-data-to-train-ai-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
