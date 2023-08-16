@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran and the Rise of Cyber-Enabled Influence Operations](https://www.darkreading.com/microsoft/iran-and-the-rise-of-cyber-enabled-influence-operations-)
+- [QR Code Phishing Campaign Targets Top US Energy Company](https://www.darkreading.com/attacks-breaches/qr-code-phishing-campaign-targets-top-u-s-energy-company)
+- [Mandiant Releases Scanner to Identify Compromised NetScaler ADC, Gateway](https://www.darkreading.com/dr-tech/mandiant-releases-scanner-to-identify-compromised-netscaler-adc-gateways)
 - [edX and Drake State Technical and Community College Launch Free Training Program](https://www.darkreading.com/careers-and-people/edx-and-drake-state-technical-and-community-college-launch-free-training-program-)
 - [3 Major Email Security Standards Prove Too Porous for the Task](https://www.darkreading.com/vulnerabilities-threats/3-major-email-security-standards-falling-down-on-the-job)
 - [Kaspersky Password Manager Adds 2FA One-Time Password Storage and New Browser Support](https://www.darkreading.com/endpoint/kaspersky-password-manager-adds-2fa-one-time-password-storage-and-new-browser-support)
 - [OX Security Receives Strategic Investment From IBM Ventures](https://www.darkreading.com/application-security/ox-security-receives-strategic-investment-from-ibm-ventures)
 - [Patch Now: OpenNMS Bug Steals Data, Triggers Denial of Service](https://www.darkreading.com/application-security/patch-now-opennms-bug-steals-data-triggers-denial-of-service)
-- [Discord.io Temporarily Shuts Down Amid Breach Investigation](https://www.darkreading.com/cloud/discord-io-shuts-down-temporarily-databreach-investigation-underway)
-- [AI Steals Passwords by Listening to Keystrokes With Scary Accuracy](https://www.darkreading.com/attacks-breaches/ai-model-can-replicate-password-listening-to-keystrokes)
-- [Bolstering Africa’s Cybersecurity](https://www.darkreading.com/dr-global/bolstering-africa-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
