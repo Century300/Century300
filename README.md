@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Israel-US Binational Industrial R&amp;D Foundation to Invest $3.85M in Critical Infrastructure Cybersecurity Projects](https://www.darkreading.com/operations/israel-us-binational-industrial-r-d-foundation-to-invest-3-85m-in-critical-infrastructure-cybersecurity-projects)
+- [ISC2 Announces Milestone As Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
+- [Foretrace Announces Launch of &quot;Tim,&quot; Generative AI Analyst for Assessing and Responding to Data Leaks](https://www.darkreading.com/operations/foretrace-announces-launch-of-tim-generative-ai-analyst-for-assessing-and-responding-to-data-leaks)
+- [TXOne: How to Improve Your Operational Technology Security Posture](https://www.darkreading.com/ics-ot/txone-how-to-improve-your-operational-technology-security-posture)
+- [Normalyze: How Focusing On Data Can Improve Cloud Security](https://www.darkreading.com/cloud/normalyze-how-focusing-on-data-can-improve-cloud-security)
 - [White House Orders Federal Agencies to Bolster Cyber Safeguards](https://www.darkreading.com/attacks-breaches/white-house-orders-federal-agencies-to-bolster-cyber-safeguards)
 - [Researchers Trick an iPhone Into Faking Airplane Mode](https://www.darkreading.com/endpoint/researchers-trick-iphone-faking-airplane-mode)
 - [An Overview of Dubai&#39;s First and Second Cybersecurity Strategy](https://www.darkreading.com/dr-global/overview-dubais-first-and-second-cybersecurity-strategy)
-- [LinkedIn Suffers &#39;Significant&#39; Wave of Account Hacks](https://www.darkreading.com/attacks-breaches/linkedin-suffers-significant-wave-of-account-hacks)
-- [&#39;Play&#39; Ransomware Group Targeting MSPs Worldwide in New Campaign](https://www.darkreading.com/cloud/-play-ransomware-group-targeting-msps-worldwide-in-new-campaign)
-- [How Innovation Accelerators Are at Work on the Dark Side](https://www.darkreading.com/vulnerabilities-threats/how-innovation-accelerators-are-at-work-on-the-dark-side)
-- [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-ai-arms)
-- [PowerShell Gallery Prone to Typosquatting, Other Supply Chain Attacks](https://www.darkreading.com/application-security/powershell-gallery-prone-to-typosquatting-other-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
