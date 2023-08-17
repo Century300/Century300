@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-AI-arms-race-for-now)
+- [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-ai-arms)
 - [PowerShell Gallery Prone to Typosquatting, Other Supply Chain Attacks](https://www.darkreading.com/application-security/powershell-gallery-prone-to-typosquatting-other-supply-chain-attacks)
 - [8 AI Risk and Resilience Firms CISOs Should Track](https://www.darkreading.com/edge-slideshows/8-ai-risk-and-resilience-firms-cisos-should-track)
+- [Citrix ADC, Gateways Still Backdoored, Even After Being Patched](https://www.darkreading.com/edge-threat-monitor/citrix-adc-gateways-still-backdoored-even-after-being-patched)
 - [Researchers Harvest, Analyze 100K Cybercrime Forum Credentials](https://www.darkreading.com/threat-intelligence/dark-web-forums-leak-100k-hacker-ids)
 - [Dig Security State of Cloud Data Security 2023 Report Finds Exposed Sensitive Data in More Than 30% of Cloud Assets](https://www.darkreading.com/cloud/dig-security-state-of-cloud-data-security-2023-report-finds-exposed-sensitive-data-in-more-than-30-of-cloud-assets-)
 - [67% of Federal Government Agencies Are Confident in Meeting Zero Trust Executive Order Deadline](https://www.darkreading.com/attacks-breaches/67-of-federal-government-agencies-are-confident-in-meeting-zero-trust-executive-order-deadline)
 - [Call for Applications Open for DataTribe&#39;s Sixth Annual Cybersecurity Startup Challenge](https://www.darkreading.com/careers-and-people/call-for-applications-open-for-datatribe-s-sixth-annual-cybersecurity-startup-challenge)
-- [Insurance Data Breach Victims File Class-Action Suit Against Law Firm](https://www.darkreading.com/attacks-breaches/class-action-lawsuit-follows-major-law-firm-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
