@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Orders Federal Agencies to Bolster Cyber Safeguards](https://www.darkreading.com/attacks-breaches/white-house-orders-federal-agencies-to-bolster-cyber-safeguards)
 - [Researchers Trick an iPhone Into Faking Airplane Mode](https://www.darkreading.com/endpoint/researchers-trick-iphone-faking-airplane-mode)
 - [An Overview of Dubai&#39;s First and Second Cybersecurity Strategy](https://www.darkreading.com/dr-global/overview-dubais-first-and-second-cybersecurity-strategy)
 - [LinkedIn Suffers &#39;Significant&#39; Wave of Account Hacks](https://www.darkreading.com/attacks-breaches/linkedin-suffers-significant-wave-of-account-hacks)
@@ -83,7 +84,6 @@
 - [How Innovation Accelerators Are at Work on the Dark Side](https://www.darkreading.com/vulnerabilities-threats/how-innovation-accelerators-are-at-work-on-the-dark-side)
 - [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-ai-arms)
 - [PowerShell Gallery Prone to Typosquatting, Other Supply Chain Attacks](https://www.darkreading.com/application-security/powershell-gallery-prone-to-typosquatting-other-supply-chain-attacks)
-- [8 AI Risk and Resilience Firms CISOs Should Track](https://www.darkreading.com/edge-slideshows/8-ai-risk-and-resilience-firms-cisos-should-track)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
