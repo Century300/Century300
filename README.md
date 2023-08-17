@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophos: ‘Royal’ Is Trying to Make Itself the King of Ransomware](https://www.darkreading.com/attacks-breaches/sophos-royal-is-trying-to-make-itself-the-king-of-ransomware)
 - [Israel-US Binational Industrial R&amp;D Foundation to Invest $3.85M in Critical Infrastructure Cybersecurity Projects](https://www.darkreading.com/operations/israel-us-binational-industrial-r-d-foundation-to-invest-3-85m-in-critical-infrastructure-cybersecurity-projects)
-- [ISC2 Announces Milestone As Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
+- [Cisco: Bringing More Intelligence to Bear on the Threat Landscape](https://www.darkreading.com/threat-intelligence/cisco-bringing-more-intelligence-to-bear-on-the-threat-landscape)
+- [ISC2 Announces Milestone as Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
 - [Foretrace Announces Launch of &quot;Tim,&quot; Generative AI Analyst for Assessing and Responding to Data Leaks](https://www.darkreading.com/operations/foretrace-announces-launch-of-tim-generative-ai-analyst-for-assessing-and-responding-to-data-leaks)
-- [TXOne: How to Improve Your Operational Technology Security Posture](https://www.darkreading.com/ics-ot/txone-how-to-improve-your-operational-technology-security-posture)
-- [Normalyze: How Focusing On Data Can Improve Cloud Security](https://www.darkreading.com/cloud/normalyze-how-focusing-on-data-can-improve-cloud-security)
-- [White House Orders Federal Agencies to Bolster Cyber Safeguards](https://www.darkreading.com/attacks-breaches/white-house-orders-federal-agencies-to-bolster-cyber-safeguards)
-- [Researchers Trick an iPhone Into Faking Airplane Mode](https://www.darkreading.com/endpoint/researchers-trick-iphone-faking-airplane-mode)
-- [An Overview of Dubai&#39;s First and Second Cybersecurity Strategy](https://www.darkreading.com/dr-global/overview-dubais-first-and-second-cybersecurity-strategy)
+- [How to Protect Against Nation-State APT Attackers Leveraging Mobile Users](https://www.darkreading.com/mobile/how-to-protect-against-nation-state-apt-attackers-leveraging-mobile-users)
+- [Bitsight Leverages SPM to Bolster External Attack Surface Security](https://www.darkreading.com/attacks-breaches/bitsight-leverages-spm-to-bolster-external-attack-surface-security)
+- [CrowdSec: What the &#39;Network Effect&#39; Brings to the Cybersecurity Table](https://www.darkreading.com/threat-intelligence/crowdsec-what-network-effect-brings-to-cybersecurity-table)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
