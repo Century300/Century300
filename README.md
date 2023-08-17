@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Trick an iPhone Into Faking Airplane Mode](https://www.darkreading.com/endpoint/researchers-trick-iphone-faking-airplane-mode)
 - [An Overview of Dubai&#39;s First and Second Cybersecurity Strategy](https://www.darkreading.com/dr-global/overview-dubais-first-and-second-cybersecurity-strategy)
 - [LinkedIn Suffers &#39;Significant&#39; Wave of Account Hacks](https://www.darkreading.com/attacks-breaches/linkedin-suffers-significant-wave-of-account-hacks)
 - [&#39;Play&#39; Ransomware Group Targeting MSPs Worldwide in New Campaign](https://www.darkreading.com/cloud/-play-ransomware-group-targeting-msps-worldwide-in-new-campaign)
@@ -83,7 +84,6 @@
 - [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-ai-arms)
 - [PowerShell Gallery Prone to Typosquatting, Other Supply Chain Attacks](https://www.darkreading.com/application-security/powershell-gallery-prone-to-typosquatting-other-supply-chain-attacks)
 - [8 AI Risk and Resilience Firms CISOs Should Track](https://www.darkreading.com/edge-slideshows/8-ai-risk-and-resilience-firms-cisos-should-track)
-- [Citrix ADC, Gateways Still Backdoored, Even After Being Patched](https://www.darkreading.com/edge-threat-monitor/citrix-adc-gateways-still-backdoored-even-after-being-patched)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
