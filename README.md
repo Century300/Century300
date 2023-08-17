@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [An Overview of Dubai&#39;s First and Second Cybersecurity Strategy](https://www.darkreading.com/dr-global/overview-dubais-first-and-second-cybersecurity-strategy)
+- [LinkedIn Suffers &#39;Significant&#39; Wave of Account Hacks](https://www.darkreading.com/attacks-breaches/linkedin-suffers-significant-wave-of-account-hacks)
 - [&#39;Play&#39; Ransomware Group Targeting MSPs Worldwide in New Campaign](https://www.darkreading.com/cloud/-play-ransomware-group-targeting-msps-worldwide-in-new-campaign)
 - [How Innovation Accelerators Are at Work on the Dark Side](https://www.darkreading.com/vulnerabilities-threats/how-innovation-accelerators-are-at-work-on-the-dark-side)
 - [Cyber Defenders Lead the AI Arms Race for Now](https://www.darkreading.com/vulnerabilities-threats/cyber-defenders-lead-the-ai-arms)
 - [PowerShell Gallery Prone to Typosquatting, Other Supply Chain Attacks](https://www.darkreading.com/application-security/powershell-gallery-prone-to-typosquatting-other-supply-chain-attacks)
 - [8 AI Risk and Resilience Firms CISOs Should Track](https://www.darkreading.com/edge-slideshows/8-ai-risk-and-resilience-firms-cisos-should-track)
 - [Citrix ADC, Gateways Still Backdoored, Even After Being Patched](https://www.darkreading.com/edge-threat-monitor/citrix-adc-gateways-still-backdoored-even-after-being-patched)
-- [Researchers Harvest, Analyze 100K Cybercrime Forum Credentials](https://www.darkreading.com/threat-intelligence/dark-web-forums-leak-100k-hacker-ids)
-- [Dig Security State of Cloud Data Security 2023 Report Finds Exposed Sensitive Data in More Than 30% of Cloud Assets](https://www.darkreading.com/cloud/dig-security-state-of-cloud-data-security-2023-report-finds-exposed-sensitive-data-in-more-than-30-of-cloud-assets-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
