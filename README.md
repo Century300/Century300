@@ -79,11 +79,11 @@
 - [CyCognito Finds Large Volume of Personal Identifiable Information in Vulnerable Cloud and Web Applications](https://www.darkreading.com/cloud/cycognito-finds-large-volume-of-personal-identifiable-information-in-vulnerable-cloud-and-web-applications)
 - [ProjectDiscovery Announces $25M Series A Financing and Launch of Cloud Platform](https://www.darkreading.com/cloud/projectdiscovery-announces-25m-series-a-financing-and-launch-of-cloud-platform)
 - [CISA Committee Tackles Remote Monitoring and Management Protections](https://www.darkreading.com/vulnerabilities-threats/cisa-committee-tackles-remote-monitoring-and-management-protections)
-- [Phishing Attack Targets Hundreds of Zimbra Customers in Four Continents](https://www.darkreading.com/attacks-breaches/phishing-attack-targets-hundreds-zimbra-customers-four-continents)
-- [App Security Posture Management Improves Software Security, Synopsys Says](https://www.darkreading.com/application-security/app-security-posture-management-improves-software-security-synopsys-says)
-- [Securonix: Making Sense of AI’s Rapid Acceleration in Cybersecurity](https://www.darkreading.com/analytics/securonix-making-sense-of-ai-rapid-acceleration-in-cybersecurity)
-- [Comcast: How to Wrap Enterprise Cybersecurity In the Data Fabric](https://www.darkreading.com/analytics/comcast-how-wrap-enterprise-cybersecurity-data-fabric)
+- [Phishing Attack Targets Hundreds of Zimbra Customers in 4 Continents](https://www.darkreading.com/attacks-breaches/phishing-attack-targets-hundreds-zimbra-customers-four-continents)
 - [Cyderes Dives In On Working Safely With AI and Upping Your IAM Game](https://www.darkreading.com/cloud/cyderes-dives-in-on-working-safely-with-ai-and-upping-your-iam-game)
+- [App Security Posture Management Improves Software Security, Synopsys Says](https://www.darkreading.com/application-security/app-security-posture-management-improves-software-security-synopsys-says)
+- [Fortra Joins With Microsoft, Health-ISAC to Combat Cobalt Blue Fraud](https://www.darkreading.com/analytics/fortra-joins-with-microsoft-health-isac-to-combat-cobalt-blue-fraud)
+- [AT&amp;T: How Secure Edge Computing Is Poised to Reshape Healthcare](https://www.darkreading.com/cloud/att-how-secure-edge-computing-is-poised-to-reshape-healthcare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
