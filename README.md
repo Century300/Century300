@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unveiling the Hidden Risks of Routing Protocols](https://www.darkreading.com/vulnerabilities-threats/unveiling-the-hidden-risks-of-routing-protocols)
 - [Fastly Launches Certainly CA](https://www.darkreading.com/dr-tech/fastly-launches-certainly-ca)
 - [Confusion Surrounds SEC&#39;s New Cybersecurity Material Rule](https://www.darkreading.com/edge/confusion-surrounds-sec-new-cybersecurity-material-rule)
 - [Sophos: ‘Royal’ Is Trying to Make Itself the King of Ransomware](https://www.darkreading.com/attacks-breaches/sophos-royal-is-trying-to-make-itself-the-king-of-ransomware)
@@ -83,7 +84,6 @@
 - [Intelligent Vigilance: Empowering Security with Threat Intel&#39;s CoPilot AI](https://www.darkreading.com/threat-intelligence/intelligent-vigilance-empowering-security-with-threat-intel-copilot-ai)
 - [Cisco: Bringing More Intelligence to Bear on the Threat Landscape](https://www.darkreading.com/threat-intelligence/cisco-bringing-more-intelligence-to-bear-on-the-threat-landscape)
 - [ISC2 Announces Milestone as Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
-- [Foretrace Announces Launch of &quot;Tim,&quot; Generative AI Analyst for Assessing and Responding to Data Leaks](https://www.darkreading.com/operations/foretrace-announces-launch-of-tim-generative-ai-analyst-for-assessing-and-responding-to-data-leaks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
