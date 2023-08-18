@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Confusion Surrounds SEC&#39;s New Cybersecurity Material Rule](https://www.darkreading.com/edge/confusion-surrounds-sec-new-cybersecurity-material-rule)
 - [Sophos: ‘Royal’ Is Trying to Make Itself the King of Ransomware](https://www.darkreading.com/attacks-breaches/sophos-royal-is-trying-to-make-itself-the-king-of-ransomware)
 - [Israel-US Binational Industrial R&amp;D Foundation to Invest $3.85M in Critical Infrastructure Cybersecurity Projects](https://www.darkreading.com/operations/israel-us-binational-industrial-r-d-foundation-to-invest-3-85m-in-critical-infrastructure-cybersecurity-projects)
 - [Intelligent Vigilance: Empowering Security with Threat Intel&#39;s CoPilot AI](https://www.darkreading.com/threat-intelligence/intelligent-vigilance-empowering-security-with-threat-intel-copilot-ai)
@@ -83,7 +84,6 @@
 - [ISC2 Announces Milestone as Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
 - [Foretrace Announces Launch of &quot;Tim,&quot; Generative AI Analyst for Assessing and Responding to Data Leaks](https://www.darkreading.com/operations/foretrace-announces-launch-of-tim-generative-ai-analyst-for-assessing-and-responding-to-data-leaks)
 - [How to Protect Against Nation-State APT Attackers Leveraging Mobile Users](https://www.darkreading.com/mobile/how-to-protect-against-nation-state-apt-attackers-leveraging-mobile-users)
-- [Bitsight Leverages SPM to Bolster External Attack Surface Security](https://www.darkreading.com/attacks-breaches/bitsight-leverages-spm-to-bolster-external-attack-surface-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
