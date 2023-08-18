@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Phishing Attack Targets Hundreds of Zimbra Customers in Four Continents](https://www.darkreading.com/attacks-breaches/phishing-attack-targets-hundreds-zimbra-customers-four-continents)
+- [CISA Committee Tackles Remote Monitoring and Management Protections](https://www.darkreading.com/vulnerabilities-threats/cisa-committee-tackles-remote-monitoring-and-management-protections)
+- [Comcast: How to Wrap Enterprise Cybersecurity In the Data Fabric](https://www.darkreading.com/analytics/comcast-how-wrap-enterprise-cybersecurity-data-fabric)
+- [Hubble Urges Customers, Security Pros to Return to Infosec Basics](https://www.darkreading.com/cloud/hubble-urges-customers-security-pros-to-return-to-infosec-basics)
 - [Tel Aviv Stock Exchange CISO: Making Better Use Of Your SIEM](https://www.darkreading.com/dr-global/tel-aviv-stock-exchange-ciso-making-better-use-of-your-siem)
 - [Expand Your Definition of ‘Endpoint,’ Get a Better Handle On Cloud Threats](https://www.darkreading.com/cloud/expand-your-definition-of-endpoint-get-a-better-handle-on-cloud-threats)
-- [African Cybercrime Operations Shut Down in Law Enforcement Operation](https://www.darkreading.com/dr-global/african-cybercrime-operations-taken-down-in-joint-interpol-afripol-effort)
-- [Unveiling the Hidden Risks of Routing Protocols](https://www.darkreading.com/vulnerabilities-threats/unveiling-the-hidden-risks-of-routing-protocols)
-- [Fastly Launches Certainly CA](https://www.darkreading.com/dr-tech/fastly-launches-certainly-ca)
-- [Confusion Surrounds SEC&#39;s New Cybersecurity Material Rule](https://www.darkreading.com/edge/confusion-surrounds-sec-new-cybersecurity-material-rule)
-- [Sophos: ‘Royal’ Is Trying to Make Itself the King of Ransomware](https://www.darkreading.com/attacks-breaches/sophos-royal-is-trying-to-make-itself-the-king-of-ransomware)
+- [Time To Address What’s Undermining SaaS Security, AppOmni Says](https://www.darkreading.com/application-security/time-to-address-what-s-undermining-saas-security-appomni-says)
+- [PKI Maturity Model Aims to Improve Crypto Infrastructure](https://www.darkreading.com/dr-tech/pki-maturity-model-aims-to-improve-crypto-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
