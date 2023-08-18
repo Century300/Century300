@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [African Cybercrime Operations Shut Down in Law Enforcement Operation](https://www.darkreading.com/dr-global/african-cybercrime-operations-taken-down-in-joint-interpol-afripol-effort)
 - [Unveiling the Hidden Risks of Routing Protocols](https://www.darkreading.com/vulnerabilities-threats/unveiling-the-hidden-risks-of-routing-protocols)
 - [Fastly Launches Certainly CA](https://www.darkreading.com/dr-tech/fastly-launches-certainly-ca)
 - [Confusion Surrounds SEC&#39;s New Cybersecurity Material Rule](https://www.darkreading.com/edge/confusion-surrounds-sec-new-cybersecurity-material-rule)
@@ -83,7 +84,6 @@
 - [Israel-US Binational Industrial R&amp;D Foundation to Invest $3.85M in Critical Infrastructure Cybersecurity Projects](https://www.darkreading.com/operations/israel-us-binational-industrial-r-d-foundation-to-invest-3-85m-in-critical-infrastructure-cybersecurity-projects)
 - [Intelligent Vigilance: Empowering Security with Threat Intel&#39;s CoPilot AI](https://www.darkreading.com/threat-intelligence/intelligent-vigilance-empowering-security-with-threat-intel-copilot-ai)
 - [Cisco: Bringing More Intelligence to Bear on the Threat Landscape](https://www.darkreading.com/threat-intelligence/cisco-bringing-more-intelligence-to-bear-on-the-threat-landscape)
-- [ISC2 Announces Milestone as Community Grows to Half a Million](https://www.darkreading.com/operations/isc2-announces-major-milestone-as-community-grows-to-half-a-million-strong)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
