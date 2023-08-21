@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DEF CON&#39;s AI Village Pits Hackers Against LLMs to Find Flaws](https://www.darkreading.com/application-security/def-cons-ai-village-pits-hackers-against-llms-to-find-flaws)
 - [Visibility Is Just Not Enough to Secure Operational Technology Systems](https://www.darkreading.com/ics-ot/visibility-is-just-not-enough-to-secure-operational-technology-systems)
 - [CyCognito Finds Large Volume of Personal Identifiable Information in Vulnerable Cloud and Web Applications](https://www.darkreading.com/cloud/cycognito-finds-large-volume-of-personal-identifiable-information-in-vulnerable-cloud-and-web-applications)
 - [ProjectDiscovery Announces $25M Series A Financing and Launch of Cloud Platform](https://www.darkreading.com/cloud/projectdiscovery-announces-25m-series-a-financing-and-launch-of-cloud-platform)
-- [CISA Committee Tackles Remote Monitoring and Management Protections](https://www.darkreading.com/vulnerabilities-threats/cisa-committee-tackles-remote-monitoring-and-management-protections)
 - [Phishing Attack Targets Hundreds of Zimbra Customers in 4 Continents](https://www.darkreading.com/attacks-breaches/phishing-attack-targets-hundreds-zimbra-customers-four-continents)
+- [CISA Committee Tackles Remote Monitoring and Management Protections](https://www.darkreading.com/vulnerabilities-threats/cisa-committee-tackles-remote-monitoring-and-management-protections)
 - [Cyderes Dives In On Working Safely With AI and Upping Your IAM Game](https://www.darkreading.com/cloud/cyderes-dives-in-on-working-safely-with-ai-and-upping-your-iam-game)
 - [App Security Posture Management Improves Software Security, Synopsys Says](https://www.darkreading.com/application-security/app-security-posture-management-improves-software-security-synopsys-says)
-- [Fortra Joins With Microsoft, Health-ISAC to Combat Cobalt Blue Fraud](https://www.darkreading.com/analytics/fortra-joins-with-microsoft-health-isac-to-combat-cobalt-blue-fraud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
