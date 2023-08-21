@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
+- [Fed Warning: US Space Industry Subject To Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
 - [Energy One Investigates Cyberattack](https://www.darkreading.com/dr-global/energy-one-investigates-cyberattack)
 - [Generative AI Is Scraping Your Data. So, Now What?](https://www.darkreading.com/vulnerabilities-threats/generative-ai-is-scraping-your-data-so-now-what)
 - [DEF CON&#39;s AI Village Pits Hackers Against LLMs to Find Flaws](https://www.darkreading.com/application-security/def-cons-ai-village-pits-hackers-against-llms-to-find-flaws)
 - [Visibility Is Just Not Enough to Secure Operational Technology Systems](https://www.darkreading.com/ics-ot/visibility-is-just-not-enough-to-secure-operational-technology-systems)
 - [CyCognito Finds Large Volume of Personal Identifiable Information in Vulnerable Cloud and Web Applications](https://www.darkreading.com/cloud/cycognito-finds-large-volume-of-personal-identifiable-information-in-vulnerable-cloud-and-web-applications)
 - [ProjectDiscovery Announces $25M Series A Financing and Launch of Cloud Platform](https://www.darkreading.com/cloud/projectdiscovery-announces-25m-series-a-financing-and-launch-of-cloud-platform)
-- [Phishing Attack Targets Hundreds of Zimbra Customers in 4 Continents](https://www.darkreading.com/attacks-breaches/phishing-attack-targets-hundreds-zimbra-customers-four-continents)
-- [CISA Committee Tackles Remote Monitoring and Management Protections](https://www.darkreading.com/vulnerabilities-threats/cisa-committee-tackles-remote-monitoring-and-management-protections)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
