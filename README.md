@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ivanti Issues Fix for Critical Vuln In Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
 - [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
 - [Fed Warning: US Space Industry Subject To Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
 - [Energy One Investigates Cyberattack](https://www.darkreading.com/dr-global/energy-one-investigates-cyberattack)
@@ -83,7 +84,6 @@
 - [DEF CON&#39;s AI Village Pits Hackers Against LLMs to Find Flaws](https://www.darkreading.com/application-security/def-cons-ai-village-pits-hackers-against-llms-to-find-flaws)
 - [Visibility Is Just Not Enough to Secure Operational Technology Systems](https://www.darkreading.com/ics-ot/visibility-is-just-not-enough-to-secure-operational-technology-systems)
 - [CyCognito Finds Large Volume of Personal Identifiable Information in Vulnerable Cloud and Web Applications](https://www.darkreading.com/cloud/cycognito-finds-large-volume-of-personal-identifiable-information-in-vulnerable-cloud-and-web-applications)
-- [ProjectDiscovery Announces $25M Series A Financing and Launch of Cloud Platform](https://www.darkreading.com/cloud/projectdiscovery-announces-25m-series-a-financing-and-launch-of-cloud-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
