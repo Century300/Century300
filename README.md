@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Cuba&#39; Ransomware Group Uses Every Trick in the Book](https://www.darkreading.com/edge/cuba-ransomware-group-uses-every-trick-in-the-book)
 - [Chinese APT Targets Hong Kong in Supply Chain Attack](https://www.darkreading.com/attacks-breaches/chinese-apt-targets-hong-kong-in-supply-chain-attack)
 - [Ivanti Issues Fix for Critical Vuln In Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
 - [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
@@ -83,7 +84,6 @@
 - [Energy One Investigates Cyberattack](https://www.darkreading.com/dr-global/energy-one-investigates-cyberattack)
 - [Generative AI Is Scraping Your Data. So, Now What?](https://www.darkreading.com/vulnerabilities-threats/generative-ai-is-scraping-your-data-so-now-what)
 - [DEF CON&#39;s AI Village Pits Hackers Against LLMs to Find Flaws](https://www.darkreading.com/application-security/def-cons-ai-village-pits-hackers-against-llms-to-find-flaws)
-- [Visibility Is Just Not Enough to Secure Operational Technology Systems](https://www.darkreading.com/ics-ot/visibility-is-just-not-enough-to-secure-operational-technology-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
