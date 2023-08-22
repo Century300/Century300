@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Controversial Cybercrime Law Passes in Jordan](https://www.darkreading.com/dr-global/controversial-cybercrime-law-passes-in-jordan)
 - [Newer, Better XLoader Signals a Dangerous Shift in macOS Malware](https://www.darkreading.com/vulnerabilities-threats/newer-better-xloader-signals-dangerous-shift-macos-malware)
 - [Software Makers May Face Greater Liability in Wake of MOVEit Lawsuit](https://www.darkreading.com/attacks-breaches/software-vendors-may-face-greater-liability-in-wake-of-moveit-lawsuit)
 - [When Leadership Style Is a Security Risk](https://www.darkreading.com/risk/when-leadership-style-is-a-security-risk)
@@ -83,7 +84,6 @@
 - [&#39;Cuba&#39; Ransomware Group Uses Every Trick in the Book](https://www.darkreading.com/edge/cuba-ransomware-group-uses-every-trick-in-the-book)
 - [Chinese APT Targets Hong Kong in Supply Chain Attack](https://www.darkreading.com/attacks-breaches/chinese-apt-targets-hong-kong-in-supply-chain-attack)
 - [Ivanti Issues Fix for Critical Vuln in Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
-- [New NCUA Rule Requires Credit Unions to Report Cyberattacks Within 3 Days](https://www.darkreading.com/edge/new-ncua-rule-requires-credit-unions-to-report-cyberattacks-within-3-days)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
