@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Study: More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
+- [More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
 - [Grip Security Raising $41M Series B Led by Third Point Ventures](https://www.darkreading.com/operations/grip-security-raising-41m-series-b-led-by-third-point-ventures)
 - [Forescout Joins MISA and Announces Integration With Microsoft Sentinel](https://www.darkreading.com/vulnerabilities-threats/forescout-joins-misa-and-announces-integration-with-microsoft-sentinel)
 - [Absolute Dental Services Notifies Patients of Data Security Incident](https://www.darkreading.com/attacks-breaches/absolute-dental-services-notifies-patients-of-data-security-incident)
