@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Physical Impact of Cyberattacks on Cities](https://www.darkreading.com/attacks-breaches/physical-impact-of-cyberattacks-on-cities)
 - [&#39;Cuba&#39; Ransomware Group Uses Every Trick in the Book](https://www.darkreading.com/edge/cuba-ransomware-group-uses-every-trick-in-the-book)
 - [Chinese APT Targets Hong Kong in Supply Chain Attack](https://www.darkreading.com/attacks-breaches/chinese-apt-targets-hong-kong-in-supply-chain-attack)
 - [Ivanti Issues Fix for Critical Vuln in Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
@@ -83,7 +84,6 @@
 - [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
 - [Fed Warning: US Space Industry Subject to Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
 - [Energy One Investigates Cyberattack](https://www.darkreading.com/dr-global/energy-one-investigates-cyberattack)
-- [Generative AI Is Scraping Your Data. So, Now What?](https://www.darkreading.com/vulnerabilities-threats/generative-ai-is-scraping-your-data-so-now-what)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
