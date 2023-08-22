@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [&#39;Cuba&#39; Ransomware Group Uses Every Trick in the Book](https://www.darkreading.com/edge/cuba-ransomware-group-uses-every-trick-in-the-book)
 - [Chinese APT Targets Hong Kong in Supply Chain Attack](https://www.darkreading.com/attacks-breaches/chinese-apt-targets-hong-kong-in-supply-chain-attack)
-- [Ivanti Issues Fix for Critical Vuln In Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
+- [Ivanti Issues Fix for Critical Vuln in Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
+- [New NCUA Rule Requires Credit Unions to Report Cyberattacks Within 3 Days](https://www.darkreading.com/edge/new-ncua-rule-requires-credit-unions-to-report-cyberattacks-within-3-days)
 - [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
-- [Fed Warning: US Space Industry Subject To Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
+- [Fed Warning: US Space Industry Subject to Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
 - [Energy One Investigates Cyberattack](https://www.darkreading.com/dr-global/energy-one-investigates-cyberattack)
 - [Generative AI Is Scraping Your Data. So, Now What?](https://www.darkreading.com/vulnerabilities-threats/generative-ai-is-scraping-your-data-so-now-what)
-- [DEF CON&#39;s AI Village Pits Hackers Against LLMs to Find Flaws](https://www.darkreading.com/application-security/def-cons-ai-village-pits-hackers-against-llms-to-find-flaws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
