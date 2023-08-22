@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Software Makers May Face Greater Liability in Wake of MOVEit Lawsuit](https://www.darkreading.com/attacks-breaches/software-vendors-may-face-greater-liability-in-wake-of-moveit-lawsuit)
 - [When Leadership Style Is a Security Risk](https://www.darkreading.com/risk/when-leadership-style-is-a-security-risk)
 - [The Physical Impact of Cyberattacks on Cities](https://www.darkreading.com/attacks-breaches/physical-impact-of-cyberattacks-on-cities)
 - [&#39;Cuba&#39; Ransomware Group Uses Every Trick in the Book](https://www.darkreading.com/edge/cuba-ransomware-group-uses-every-trick-in-the-book)
@@ -83,7 +84,6 @@
 - [Ivanti Issues Fix for Critical Vuln in Its Sentry Gateway Technology](https://www.darkreading.com/attacks-breaches/ivanti-issues-fix-for-critical-vuln-in-its-sentry-gateway-technology)
 - [New NCUA Rule Requires Credit Unions to Report Cyberattacks Within 3 Days](https://www.darkreading.com/edge/new-ncua-rule-requires-credit-unions-to-report-cyberattacks-within-3-days)
 - [Tesla Data Breach Investigation Reveals Inside Job](https://www.darkreading.com/attacks-breaches/tesla-data-breach-investigation-reveals-inside-job)
-- [Fed Warning: US Space Industry Subject to Foreign Spying, Disruptions](https://www.darkreading.com/vulnerabilities-threats/fed-warning-us-space-industry-subject-to-foreign-spying-disruptions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
