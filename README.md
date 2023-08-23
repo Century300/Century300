@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Dangle AI-Based Facebook Ad Lures to Hijack Business Accounts](https://www.darkreading.com/attacks-breaches/attackers-dangle-ai-based-facebook-ad-lures-to-take-over-business-accounts)
 - [5 Early Warning Indicators That Are Key to Protecting National Secrets](https://www.darkreading.com/vulnerabilities-threats/5-early-warning-indicators-that-are-key-to-protecting-national-secrets)
 - [More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
 - [Grip Security Raising $41M Series B Led by Third Point Ventures](https://www.darkreading.com/operations/grip-security-raising-41m-series-b-led-by-third-point-ventures)
@@ -83,7 +84,6 @@
 - [Absolute Dental Services Notifies Patients of Data Security Incident](https://www.darkreading.com/attacks-breaches/absolute-dental-services-notifies-patients-of-data-security-incident)
 - [Adobe Patches Critical Deserialization Vulnerability, but Exploits Persist](https://www.darkreading.com/vulnerabilities-threats/adobe-patches-critical-deserialization-vulnerability-but-exploits-persist)
 - [Controversial Cybercrime Law Passes in Jordan](https://www.darkreading.com/dr-global/controversial-cybercrime-law-passes-in-jordan)
-- [Newer, Better XLoader Signals a Dangerous Shift in macOS Malware](https://www.darkreading.com/vulnerabilities-threats/newer-better-xloader-signals-dangerous-shift-macos-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
