@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Early Warning Indicators That Are Key to Protecting National Secrets](https://www.darkreading.com/vulnerabilities-threats/5-early-warning-indicators-that-are-key-to-protecting-national-secrets)
 - [More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
 - [Grip Security Raising $41M Series B Led by Third Point Ventures](https://www.darkreading.com/operations/grip-security-raising-41m-series-b-led-by-third-point-ventures)
 - [Forescout Joins MISA and Announces Integration With Microsoft Sentinel](https://www.darkreading.com/vulnerabilities-threats/forescout-joins-misa-and-announces-integration-with-microsoft-sentinel)
@@ -83,7 +84,6 @@
 - [Adobe Patches Critical Deserialization Vulnerability, but Exploits Persist](https://www.darkreading.com/vulnerabilities-threats/adobe-patches-critical-deserialization-vulnerability-but-exploits-persist)
 - [Controversial Cybercrime Law Passes in Jordan](https://www.darkreading.com/dr-global/controversial-cybercrime-law-passes-in-jordan)
 - [Newer, Better XLoader Signals a Dangerous Shift in macOS Malware](https://www.darkreading.com/vulnerabilities-threats/newer-better-xloader-signals-dangerous-shift-macos-malware)
-- [Software Makers May Face Greater Liability in Wake of MOVEit Lawsuit](https://www.darkreading.com/attacks-breaches/software-vendors-may-face-greater-liability-in-wake-of-moveit-lawsuit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
