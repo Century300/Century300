@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Reaches New Heights](https://www.darkreading.com/threat-intelligence/ransomware-reaches-new-heights)
+- [Threat Actor Exploits Zero-Day in WinRAR to Target Crypto Accounts](https://www.darkreading.com/attacks-breaches/threat-actor-exploits-zero-day-in-winrar-to-target-crypto-accounts)
 - [FBI Warns of Cryptocurrency Heists by North Korea&#39;s Lazarus Group](https://www.darkreading.com/threat-intelligence/fbi-warns-of-cryptocurrency-heists-by-north-koreas-lazarus-group)
 - [Name That Toon: Swift as an Arrow](https://www.darkreading.com/attacks-breaches/name-that-toon-swift-as-an-arrow)
 - [Attackers Dangle AI-Based Facebook Ad Lures to Hijack Business Accounts](https://www.darkreading.com/attacks-breaches/attackers-dangle-ai-based-facebook-ad-lures-to-take-over-business-accounts)
 - [5 Early Warning Indicators That Are Key to Protecting National Secrets](https://www.darkreading.com/vulnerabilities-threats/5-early-warning-indicators-that-are-key-to-protecting-national-secrets)
 - [More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
 - [Grip Security Raising $41M Series B Led by Third Point Ventures](https://www.darkreading.com/operations/grip-security-raising-41m-series-b-led-by-third-point-ventures)
-- [Forescout Joins MISA and Announces Integration With Microsoft Sentinel](https://www.darkreading.com/vulnerabilities-threats/forescout-joins-misa-and-announces-integration-with-microsoft-sentinel)
-- [Absolute Dental Services Notifies Patients of Data Security Incident](https://www.darkreading.com/attacks-breaches/absolute-dental-services-notifies-patients-of-data-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
