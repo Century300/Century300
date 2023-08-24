@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware With an Identity Crisis Targets Small Businesses, Individuals](https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals)
 - [eBay Users Beware Russian &#39;Telekopye&#39; Telegram Phishing Bot](https://www.darkreading.com/threat-intelligence/ebay-users-russian-telekopye-telegram-phishing-bot)
 - [What the Hive Ransomware Case Says About RaaS and Cryptocurrency](https://www.darkreading.com/attacks-breaches/what-the-hive-ransomware-case-says-about-raas-and-cryptocurrency)
 - [5 Best Practices for Implementing Risk-First Cybersecurity](https://www.darkreading.com/risk/5-best-practices-for-implementing-risk-first-cybersecurity)
@@ -83,7 +84,6 @@
 - [eSentire Labs Open Sources Project to Monitor LLMs](https://www.darkreading.com/dr-tech/esentire-labs-open-sources-project-to-monitor-llms)
 - [Prelude Security Tackles Continuous Security Testing in Containers](https://www.darkreading.com/dr-tech/prelude-security-tackles-continuous-security-testing-in-containers)
 - [Ransomware Reaches New Heights](https://www.darkreading.com/threat-intelligence/ransomware-reaches-new-heights)
-- [Threat Actor Exploits Zero-Day in WinRAR to Target Crypto Accounts](https://www.darkreading.com/attacks-breaches/threat-actor-exploits-zero-day-in-winrar-to-target-crypto-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
