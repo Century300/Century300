@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Black Hat USA 2023 Closes on Record-Breaking Event in Las Vega](https://www.darkreading.com/edge/black-hat-usa-2023-closes-on-record-breaking-event-in-las-vega)
+- [Malwarebytes Announces Acquisition of Online Privacy Company Cyrus](https://www.darkreading.com/endpoint/malwarebytes-announces-acquisition-of-online-privacy-company-cyrus)
 - [Cypago Raises $13M and Unveils its Cyber GRC Automation &lpar;CGA&rpar; Platform to Simplify GRC Processes](https://www.darkreading.com/risk/cypago-raises-13m-and-unveils-its-cyber-grc-automation-cga-platform-to-simplify-grc-processes)
 - [Kyndryl and Cisco Expand Partnership Focusing on Cyber Resilience](https://www.darkreading.com/attacks-breaches/kyndryl-and-cisco-expand-partnership-focusing-on-cyber-resilience)
 - [US Space Industry More Prone to Foreign Espionage, US Agencies Warn](https://www.darkreading.com/vulnerabilities-threats/us-space-industry-more-prone-to-foreign-espionage-us-agencies-warn)
 - [Ransomware With an Identity Crisis Targets Small Businesses, Individuals](https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals)
 - [eBay Users Beware Russian &#39;Telekopye&#39; Telegram Phishing Bot](https://www.darkreading.com/threat-intelligence/ebay-users-russian-telekopye-telegram-phishing-bot)
 - [What the Hive Ransomware Case Says About RaaS and Cryptocurrency](https://www.darkreading.com/attacks-breaches/what-the-hive-ransomware-case-says-about-raas-and-cryptocurrency)
-- [5 Best Practices for Implementing Risk-First Cybersecurity](https://www.darkreading.com/risk/5-best-practices-for-implementing-risk-first-cybersecurity)
-- [North Korea&#39;s Lazarus APT Uses GUI Framework to Build Stealthy RAT](https://www.darkreading.com/attacks-breaches/north-koreas-lazarus-group-used-gui-framework-to-build-stealthy-rat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
