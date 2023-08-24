@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [5 Best Practices for Implementing Risk-First Cybersecurity](https://www.darkreading.com/risk/5-best-practices-for-implementing-risk-first-cybersecurity)
-- [North Korea&#39;s Lazarus Group Used GUI Framework to Build Stealthy RAT](https://www.darkreading.com/attacks-breaches/north-koreas-lazarus-group-used-gui-framework-to-build-stealthy-rat)
+- [North Korea&#39;s Lazarus APT Uses GUI Framework to Build Stealthy RAT](https://www.darkreading.com/attacks-breaches/north-koreas-lazarus-group-used-gui-framework-to-build-stealthy-rat)
 - [eSentire Labs Open Sources Project to Monitor LLMs](https://www.darkreading.com/dr-tech/esentire-labs-open-sources-project-to-monitor-llms)
 - [Prelude Security Tackles Continuous Security Testing in Containers](https://www.darkreading.com/dr-tech/prelude-security-tackles-continuous-security-testing-in-containers)
 - [Ransomware Reaches New Heights](https://www.darkreading.com/threat-intelligence/ransomware-reaches-new-heights)
