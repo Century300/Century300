@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea&#39;s Lazarus Group Used GUI Framework to Build Stealthy RAT](https://www.darkreading.com/attacks-breaches/north-koreas-lazarus-group-used-gui-framework-to-build-stealthy-rat)
+- [eSentire Labs Open Sources Project to Monitor LLMs](https://www.darkreading.com/dr-tech/esentire-labs-open-sources-project-to-monitor-llms)
 - [Prelude Security Tackles Continuous Security Testing in Containers](https://www.darkreading.com/dr-tech/prelude-security-tackles-continuous-security-testing-in-containers)
 - [Ransomware Reaches New Heights](https://www.darkreading.com/threat-intelligence/ransomware-reaches-new-heights)
 - [Threat Actor Exploits Zero-Day in WinRAR to Target Crypto Accounts](https://www.darkreading.com/attacks-breaches/threat-actor-exploits-zero-day-in-winrar-to-target-crypto-accounts)
 - [FBI Warns of Cryptocurrency Heists by North Korea&#39;s Lazarus Group](https://www.darkreading.com/threat-intelligence/fbi-warns-of-cryptocurrency-heists-by-north-koreas-lazarus-group)
 - [Name That Toon: Swift as an Arrow](https://www.darkreading.com/attacks-breaches/name-that-toon-swift-as-an-arrow)
 - [Attackers Dangle AI-Based Facebook Ad Lures to Hijack Business Accounts](https://www.darkreading.com/attacks-breaches/attackers-dangle-ai-based-facebook-ad-lures-to-take-over-business-accounts)
-- [5 Early Warning Indicators That Are Key to Protecting National Secrets](https://www.darkreading.com/vulnerabilities-threats/5-early-warning-indicators-that-are-key-to-protecting-national-secrets)
-- [More Than Half of Browser Extensions Pose Security Risks](https://www.darkreading.com/cloud/study-more-than-half-of-browser-extensions-pose-security-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
