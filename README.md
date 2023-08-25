@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Whiffy Recon&#39; Malware Transmits Device Location Every 60 Seconds](https://www.darkreading.com/attacks-breaches/whiffy-recon-malware-transmits-device-location-every-60-seconds)
 - [Is Bias in AI Algorithms a Threat to Cloud Security?](https://www.darkreading.com/cloud/is-bias-in-ai-algorithms-a-threat-to-cloud-security)
 - [NIST Publishes First Draft Standards for Post-Quantum Cryptography](https://www.darkreading.com/dr-tech/nist-publishes-first-draft-standards-for-post-quantum-cryptography)
 - [Cerby Announces $17M in Series A Funding to Secure Nonstandard Applications](https://www.darkreading.com/operations/cerby-announces-17m-in-series-a-funding-to-secure-nonstandard-applications)
@@ -83,7 +84,6 @@
 - [Black Hat USA 2023 Closes on Record-Breaking Event in Las Vega](https://www.darkreading.com/edge/black-hat-usa-2023-closes-on-record-breaking-event-in-las-vega)
 - [Malwarebytes Announces Acquisition of Online Privacy Company Cyrus](https://www.darkreading.com/endpoint/malwarebytes-announces-acquisition-of-online-privacy-company-cyrus)
 - [Cypago Raises $13M and Unveils its Cyber GRC Automation &lpar;CGA&rpar; Platform to Simplify GRC Processes](https://www.darkreading.com/risk/cypago-raises-13m-and-unveils-its-cyber-grc-automation-cga-platform-to-simplify-grc-processes)
-- [Kyndryl and Cisco Expand Partnership Focusing on Cyber Resilience](https://www.darkreading.com/attacks-breaches/kyndryl-and-cisco-expand-partnership-focusing-on-cyber-resilience)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
