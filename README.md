@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is Bias in AI Algorithms a Threat to Cloud Security?](https://www.darkreading.com/cloud/is-bias-in-ai-algorithms-a-threat-to-cloud-security)
 - [Cerby Announces $17M in Series A Funding to Secure Nonstandard Applications](https://www.darkreading.com/operations/cerby-announces-17m-in-series-a-funding-to-secure-nonstandard-applications)
 - [Critical Insight Releases H1 2023 Report](https://www.darkreading.com/operations/critical-insight-releases-h1-2023-report)
 - [Black Hat USA 2023 Closes on Record-Breaking Event in Las Vega](https://www.darkreading.com/edge/black-hat-usa-2023-closes-on-record-breaking-event-in-las-vega)
@@ -83,7 +84,6 @@
 - [Cypago Raises $13M and Unveils its Cyber GRC Automation &lpar;CGA&rpar; Platform to Simplify GRC Processes](https://www.darkreading.com/risk/cypago-raises-13m-and-unveils-its-cyber-grc-automation-cga-platform-to-simplify-grc-processes)
 - [Kyndryl and Cisco Expand Partnership Focusing on Cyber Resilience](https://www.darkreading.com/attacks-breaches/kyndryl-and-cisco-expand-partnership-focusing-on-cyber-resilience)
 - [US Space Industry More Prone to Foreign Espionage, US Agencies Warn](https://www.darkreading.com/vulnerabilities-threats/us-space-industry-more-prone-to-foreign-espionage-us-agencies-warn)
-- [Ransomware With an Identity Crisis Targets Small Businesses, Individuals](https://www.darkreading.com/threat-intelligence/ransomware-with-an-identity-crisis-targets-small-businesses-individuals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
