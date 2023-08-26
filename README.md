@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vendors Training AI With Customer Data is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
 - [Genworth Financial Under Investigation for Data Breach](https://www.darkreading.com/attacks-breaches/-genworth-financial-under-investigation-for-data-breach)
 - [China Unleashes Flax Typhoon APT to Live Off the Land, Microsoft Warns](https://www.darkreading.com/threat-intelligence/china-unleashes-flax-typhoon-apt-live-off-land-microsoft-warns)
 - [Luna Grabber Malware Targets Roblox Gaming Devs](https://www.darkreading.com/vulnerabilities-threats/luna-grabber-malware-targets-roblox-gaming-devs)
@@ -83,7 +84,6 @@
 - [Is Bias in AI Algorithms a Threat to Cloud Security?](https://www.darkreading.com/cloud/is-bias-in-ai-algorithms-a-threat-to-cloud-security)
 - [NIST Publishes First Draft Standards for Post-Quantum Cryptography](https://www.darkreading.com/dr-tech/nist-publishes-first-draft-standards-for-post-quantum-cryptography)
 - [Cerby Announces $17M in Series A Funding to Secure Nonstandard Applications](https://www.darkreading.com/operations/cerby-announces-17m-in-series-a-funding-to-secure-nonstandard-applications)
-- [Critical Insight Releases H1 2023 Report](https://www.darkreading.com/operations/critical-insight-releases-h1-2023-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
