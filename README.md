@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Legal Liability for Insecure Software Might Work, but It&#39;s Dangerous](https://www.darkreading.com/vulnerabilities-threats/legal-liability-for-insecure-software-might-work-but-it-s-dangerous)
 - [Better SaaS Security Goes Beyond Procurement](https://www.darkreading.com/risk/better-saas-security-goes-beyond-procurement)
 - [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Research](https://www.darkreading.com/threat-intelligence/malware-unleashed-public-sector-hit-in-sudden-surge-reveals-new-research)
 - [Vendors Training AI With Customer Data Is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
@@ -83,7 +84,6 @@
 - [China Unleashes Flax Typhoon APT to Live Off the Land, Microsoft Warns](https://www.darkreading.com/threat-intelligence/china-unleashes-flax-typhoon-apt-live-off-land-microsoft-warns)
 - [Luna Grabber Malware Targets Roblox Gaming Devs](https://www.darkreading.com/vulnerabilities-threats/luna-grabber-malware-targets-roblox-gaming-devs)
 - [&#39;Whiffy Recon&#39; Malware Transmits Device Location Every 60 Seconds](https://www.darkreading.com/attacks-breaches/whiffy-recon-malware-transmits-device-location-every-60-seconds)
-- [Is Bias in AI Algorithms a Threat to Cloud Security?](https://www.darkreading.com/cloud/is-bias-in-ai-algorithms-a-threat-to-cloud-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
