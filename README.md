@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Ways to Prepare for Google&#39;s 90-Day TLS Certificate Expiration](https://www.darkreading.com/attacks-breaches/5-ways-to-prepare-google-90-day-tls-certificate-expiration)
 - [Authentication Outage Underscores Why &#39;Fail Safe&#39; Is Key](https://www.darkreading.com/dr-tech/authentication-outage-highlights-why-fail-safe-is-key)
 - [Legal Liability for Insecure Software Might Work, but It&#39;s Dangerous](https://www.darkreading.com/vulnerabilities-threats/legal-liability-for-insecure-software-might-work-but-it-s-dangerous)
 - [Better SaaS Security Goes Beyond Procurement](https://www.darkreading.com/risk/better-saas-security-goes-beyond-procurement)
@@ -83,7 +84,6 @@
 - [Vendors Training AI With Customer Data Is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
 - [Genworth Financial Under Investigation for Data Breach](https://www.darkreading.com/attacks-breaches/-genworth-financial-under-investigation-for-data-breach)
 - [China Unleashes Flax Typhoon APT to Live Off the Land, Microsoft Warns](https://www.darkreading.com/threat-intelligence/china-unleashes-flax-typhoon-apt-live-off-land-microsoft-warns)
-- [Luna Grabber Malware Targets Roblox Gaming Devs](https://www.darkreading.com/vulnerabilities-threats/luna-grabber-malware-targets-roblox-gaming-devs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
