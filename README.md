@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Better SaaS Security Goes Beyond Procurement](https://www.darkreading.com/risk/better-saas-security-goes-beyond-procurement)
 - [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Research](https://www.darkreading.com/threat-intelligence/malware-unleashed-public-sector-hit-in-sudden-surge-reveals-new-research)
-- [Vendors Training AI With Customer Data is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
+- [Vendors Training AI With Customer Data Is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
 - [Genworth Financial Under Investigation for Data Breach](https://www.darkreading.com/attacks-breaches/-genworth-financial-under-investigation-for-data-breach)
 - [China Unleashes Flax Typhoon APT to Live Off the Land, Microsoft Warns](https://www.darkreading.com/threat-intelligence/china-unleashes-flax-typhoon-apt-live-off-land-microsoft-warns)
 - [Luna Grabber Malware Targets Roblox Gaming Devs](https://www.darkreading.com/vulnerabilities-threats/luna-grabber-malware-targets-roblox-gaming-devs)
