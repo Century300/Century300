@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals Harness Leaked LockBit Builder in Wave of New Attacks](https://www.darkreading.com/remote-workforce/cybercriminals-harness-leaked-lockbit-builder-new-attacks)
 - [Financial Firms Breached in MOVEit Cyberattacks Now Face Lawsuits](https://www.darkreading.com/attacks-breaches/financial-firms-breached-in-moveit-cyberattacks-now-face-lawsuits)
 - [London Police Warned to Stay Vigilant Amid Major Data Breach](https://www.darkreading.com/attacks-breaches/london-police-warned-to-stay-vigilant-amid-major-data-breach)
 - [5 Ways to Prepare for Google&#39;s 90-Day TLS Certificate Expiration](https://www.darkreading.com/attacks-breaches/5-ways-to-prepare-google-90-day-tls-certificate-expiration)
 - [Authentication Outage Underscores Why &#39;Fail Safe&#39; Is Key](https://www.darkreading.com/dr-tech/authentication-outage-highlights-why-fail-safe-is-key)
 - [Legal Liability for Insecure Software Might Work, but It&#39;s Dangerous](https://www.darkreading.com/vulnerabilities-threats/legal-liability-for-insecure-software-might-work-but-it-s-dangerous)
-- [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Research](https://www.darkreading.com/threat-intelligence/malware-unleashed-public-sector-hit-in-sudden-surge-reveals-new-research)
 - [Better SaaS Security Goes Beyond Procurement](https://www.darkreading.com/risk/better-saas-security-goes-beyond-procurement)
-- [Vendors Training AI With Customer Data Is an Enterprise Risk](https://www.darkreading.com/edge/vendors-training-ai-customer-data-enterprise-risk)
+- [Malware Unleashed: Public Sector Hit in Sudden Surge, Reveals New Research](https://www.darkreading.com/threat-intelligence/malware-unleashed-public-sector-hit-in-sudden-surge-reveals-new-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
