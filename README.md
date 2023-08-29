@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [South African Department of Defence Denies Stolen Data Claims](https://www.darkreading.com/dr-global/south-african-department-of-defence-denies-stolen-data-claims)
+- [Somalia Orders ISPs to Block Telegram and TikTok](https://www.darkreading.com/dr-global/somalia-orders-isps-to-block-access-to-telegram-and-tiktok)
+- [Rackspace Faces Massive Cleanup Costs After Ransomware Attack](https://www.darkreading.com/remote-workforce/rackspace-massive-cleanup-costs-ransomware-attack)
 - [Addressing Cybersecurity&#39;s Talent Shortage &amp; Its Impact on CISOs](https://www.darkreading.com/endpoint/addressing-cybersecurity-talent-shortage-its-impact-on-cisos)
 - [Kroll&#39;s Crypto Breach Highlights SIM-Swapping Risk](https://www.darkreading.com/remote-workforce/kroll-cryoto-breach-sim-swapping-risk)
 - [Here&#39;s What Your Breach Response Plan Might Be Missing](https://www.darkreading.com/attacks-breaches/what-your-breach-response-plan-might-be-missing)
 - [Motherboard Mishaps Undermine Trust, Security](https://www.darkreading.com/vulnerabilities-threats/motherboard-mishaps-undermine-trust-security)
 - [Honeywell to Acquire SCADAfence, Strengthening Its Cybersecurity Software Portfolio](https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio)
-- [BreachLock Intelligence Report Reveals Critical Insights From Thousands of Penetration Tests](https://www.darkreading.com/threat-intelligence/breachlock-penetration-testing-intelligence-report-2023-reveals-critical-insights-from-thousands-of-penetration-tests)
-- [Cybercriminals Harness Leaked LockBit Builder in Wave of New Attacks](https://www.darkreading.com/remote-workforce/cybercriminals-harness-leaked-lockbit-builder-new-attacks)
-- [Considerations for Reducing Risk When Migrating to the Cloud](https://www.darkreading.com/google-cloud-security/considerations-for-reducing-risk-when-migrating-to-the-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
