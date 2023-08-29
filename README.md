@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Here&#39;s What Your Breach Response Plan Might Be Missing](https://www.darkreading.com/attacks-breaches/what-your-breach-response-plan-might-be-missing)
 - [Motherboard Mishaps Undermine Trust, Security](https://www.darkreading.com/vulnerabilities-threats/motherboard-mishaps-undermine-trust-security)
 - [Honeywell to Acquire SCADAfence, Strengthening Its Cybersecurity Software Portfolio](https://www.darkreading.com/ics-ot/honeywell-to-acquire-scadafence-strengthening-its-cybersecurity-software-portfolio)
 - [BreachLock Intelligence Report Reveals Critical Insights From Thousands of Penetration Tests](https://www.darkreading.com/threat-intelligence/breachlock-penetration-testing-intelligence-report-2023-reveals-critical-insights-from-thousands-of-penetration-tests)
@@ -83,7 +84,6 @@
 - [Considerations for Reducing Risk When Migrating to the Cloud](https://www.darkreading.com/google-cloud-security/considerations-for-reducing-risk-when-migrating-to-the-cloud)
 - [Financial Firms Breached in MOVEit Cyberattacks Now Face Lawsuits](https://www.darkreading.com/attacks-breaches/financial-firms-breached-in-moveit-cyberattacks-now-face-lawsuits)
 - [London Police Warned to Stay Vigilant Amid Major Data Breach](https://www.darkreading.com/attacks-breaches/london-police-warned-to-stay-vigilant-amid-major-data-breach)
-- [5 Ways to Prepare for Google&#39;s 90-Day TLS Certificate Expiration](https://www.darkreading.com/attacks-breaches/5-ways-to-prepare-google-90-day-tls-certificate-expiration)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
