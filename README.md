@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Everest Group Research: C-Suite Must Recognize Critical Difference Between Cybersecurity and Cyber Resilience](https://www.darkreading.com/operations/everest-group-research-c-suite-must-recognize-critical-difference-between-cybersecurity-and-cyber-resilience)
+- [SPHERE Appoints Former Johnson &amp; Johnson CISO Marene Allison to Board of Directors](https://www.darkreading.com/careers-and-people/sphere-appoints-former-johnson-johnson-ciso-marene-allison-to-board-of-directors)
+- [Unpatched Citrix NetScaler Devices Targeted by Ransomware Group FIN8](https://www.darkreading.com/attacks-breaches/unpatched-citrix-devices-targeted-by-ransomware-group-fin8)
+- [Delinea Research Reveals a Cyber Insurance Gap](https://www.darkreading.com/operations/delinea-research-reveals-a-cyber-insurance-gap)
+- [PurFoods Mom&#39;s Meals Reports Data Breach Exposing Social Security Numbers of Over 1.2 Million Consumers](https://www.darkreading.com/attacks-breaches/purfoods-mom-s-meals-reports-data-breach-exposing-social-security-numbers-of-over-1-2-million-consumers)
 - [Sprawling Qakbot Malware Takedown Spans 700,000 Infected Machines](https://www.darkreading.com/threat-intelligence/sprawling-qakbot-malware-takedown-spans-700-000-infected-machines)
 - [MOVEit Was a SQL Injection Accident Waiting to Happen](https://www.darkreading.com/edge-articles/moveit-was-a-sql-injection-accident-waiting-to-happen)
-- [Meta Cripples China&#39;s Massive &#39;Spamouflage&#39; Influence Op](https://www.darkreading.com/application-security/meta-vs-china-social-giant-cripples-chinese-disinformation-apt)
-- [South African Department of Defence Denies Stolen Data Claims](https://www.darkreading.com/dr-global/south-african-department-of-defence-denies-stolen-data-claims)
-- [Somalia Orders ISPs to Block Telegram and TikTok](https://www.darkreading.com/dr-global/somalia-orders-isps-to-block-access-to-telegram-and-tiktok)
-- [Rackspace Faces Massive Cleanup Costs After Ransomware Attack](https://www.darkreading.com/remote-workforce/rackspace-massive-cleanup-costs-ransomware-attack)
-- [Addressing Cybersecurity&#39;s Talent Shortage &amp; Its Impact on CISOs](https://www.darkreading.com/endpoint/addressing-cybersecurity-talent-shortage-its-impact-on-cisos)
-- [Kroll&#39;s Crypto Breach Highlights SIM-Swapping Risk](https://www.darkreading.com/remote-workforce/kroll-cryoto-breach-sim-swapping-risk)
+- [Meta Cripples China&#39;s Signature &#39;Spamouflage&#39; Influence Op](https://www.darkreading.com/application-security/meta-vs-china-social-giant-cripples-chinese-disinformation-apt)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
