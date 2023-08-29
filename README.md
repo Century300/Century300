@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Addressing Cybersecurity&#39;s Talent Shortage &amp; Its Impact on CISOs](https://www.darkreading.com/endpoint/addressing-cybersecurity-talent-shortage-its-impact-on-cisos)
 - [Kroll&#39;s Crypto Breach Highlights SIM-Swapping Risk](https://www.darkreading.com/remote-workforce/kroll-cryoto-breach-sim-swapping-risk)
 - [Here&#39;s What Your Breach Response Plan Might Be Missing](https://www.darkreading.com/attacks-breaches/what-your-breach-response-plan-might-be-missing)
 - [Motherboard Mishaps Undermine Trust, Security](https://www.darkreading.com/vulnerabilities-threats/motherboard-mishaps-undermine-trust-security)
@@ -83,7 +84,6 @@
 - [BreachLock Intelligence Report Reveals Critical Insights From Thousands of Penetration Tests](https://www.darkreading.com/threat-intelligence/breachlock-penetration-testing-intelligence-report-2023-reveals-critical-insights-from-thousands-of-penetration-tests)
 - [Cybercriminals Harness Leaked LockBit Builder in Wave of New Attacks](https://www.darkreading.com/remote-workforce/cybercriminals-harness-leaked-lockbit-builder-new-attacks)
 - [Considerations for Reducing Risk When Migrating to the Cloud](https://www.darkreading.com/google-cloud-security/considerations-for-reducing-risk-when-migrating-to-the-cloud)
-- [Financial Firms Breached in MOVEit Cyberattacks Now Face Lawsuits](https://www.darkreading.com/attacks-breaches/financial-firms-breached-in-moveit-cyberattacks-now-face-lawsuits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
