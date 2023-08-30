@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New York Times Spoofed to Hide Russian Disinformation Campaign](https://www.darkreading.com/threat-intelligence/new-york-times-spoofed-russian-disinformation-campaign)
 - [4 Strategies to Safeguard the Finance Industry Against Deepfake Onslaught](https://www.darkreading.com/vulnerabilities-threats/4-strategies-to-safeguard-the-finance-industry-against-deepfake-onslaught)
 - [Performance-Enhanced Android MMRat Scurries onto Devices Via Fake App Stores](https://www.darkreading.com/endpoint/performance-enhanced-android-mmrat-scurries-onto-devices-via-fake-app-stores)
 - [Should Senior IT Professionals Be Accountable for Professional Decisions?](https://www.darkreading.com/attacks-breaches/should-senior-it-professionals-be-accountable-for-professional-decisions-)
@@ -83,7 +84,6 @@
 - [6 Ways AI Can Revolutionize Digital Forensics](https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics)
 - [Everest Group Research: C-Suite Must Recognize Critical Difference Between Cybersecurity and Cyber Resilience](https://www.darkreading.com/operations/everest-group-research-c-suite-must-recognize-critical-difference-between-cybersecurity-and-cyber-resilience)
 - [SPHERE Appoints Former Johnson &amp; Johnson CISO Marene Allison to Board of Directors](https://www.darkreading.com/careers-and-people/sphere-appoints-former-johnson-johnson-ciso-marene-allison-to-board-of-directors)
-- [Unpatched Citrix NetScaler Devices Targeted by Ransomware Group FIN8](https://www.darkreading.com/attacks-breaches/unpatched-citrix-devices-targeted-by-ransomware-group-fin8)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
