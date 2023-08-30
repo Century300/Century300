@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Should Senior IT Professionals Be Accountable for Professional Decisions?](https://www.darkreading.com/attacks-breaches/should-senior-it-professionals-be-accountable-for-professional-decisions-)
 - [In Airbnb, Cybercriminals Find a Comfortable Home for Fraud](https://www.darkreading.com/threat-intelligence/airbnb-cybercriminals-comfortable-home-fraud)
 - [6 Ways AI Can Revolutionize Digital Forensics](https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics)
 - [Everest Group Research: C-Suite Must Recognize Critical Difference Between Cybersecurity and Cyber Resilience](https://www.darkreading.com/operations/everest-group-research-c-suite-must-recognize-critical-difference-between-cybersecurity-and-cyber-resilience)
@@ -83,7 +84,6 @@
 - [Unpatched Citrix NetScaler Devices Targeted by Ransomware Group FIN8](https://www.darkreading.com/attacks-breaches/unpatched-citrix-devices-targeted-by-ransomware-group-fin8)
 - [Delinea Research Reveals a Cyber Insurance Gap](https://www.darkreading.com/operations/delinea-research-reveals-a-cyber-insurance-gap)
 - [PurFoods Mom&#39;s Meals Reports Data Breach Exposing Social Security Numbers of Over 1.2 Million Consumers](https://www.darkreading.com/attacks-breaches/purfoods-mom-s-meals-reports-data-breach-exposing-social-security-numbers-of-over-1-2-million-consumers)
-- [Sprawling Qakbot Malware Takedown Spans 700,000 Infected Machines](https://www.darkreading.com/threat-intelligence/sprawling-qakbot-malware-takedown-spans-700-000-infected-machines)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
