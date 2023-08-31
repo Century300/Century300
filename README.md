@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Swarm OpenFire Cloud Servers With Takeover Barrage](https://www.darkreading.com/remote-workforce/cyberattackers-openfire-cloud-servers-takeover-barrage)
 - [A Brief History of ICS-Tailored Attacks](https://www.darkreading.com/attacks-breaches/brief-history-of-ics-tailored-attacks)
 - [Adversaries Ride RocketMQ Bug to DreamBus Bot Resurgence](https://www.darkreading.com/attacks-breaches/threat-actors-riding-rocketmq-bug-to-dreambus-bot-resurgence)
 - [Chinese Group Spreads Android Spyware via Trojan Signal, Telegram Apps](https://www.darkreading.com/attacks-breaches/china-group-spreads-android-spyware-via-trojan-signal-telegram-apps)
@@ -83,7 +84,6 @@
 - [New York Times Spoofed to Hide Russian Disinformation Campaign](https://www.darkreading.com/threat-intelligence/new-york-times-spoofed-russian-disinformation-campaign)
 - [4 Strategies to Safeguard the Finance Industry Against Deepfake Onslaught](https://www.darkreading.com/vulnerabilities-threats/4-strategies-to-safeguard-the-finance-industry-against-deepfake-onslaught)
 - [Performance-Enhanced Android MMRat Scurries Onto Devices via Fake App Stores](https://www.darkreading.com/endpoint/performance-enhanced-android-mmrat-scurries-onto-devices-via-fake-app-stores)
-- [Should Senior IT Professionals Be Accountable for Professional Decisions?](https://www.darkreading.com/attacks-breaches/should-senior-it-professionals-be-accountable-for-professional-decisions-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
