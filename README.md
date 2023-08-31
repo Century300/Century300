@@ -76,11 +76,11 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Chinese Group Spreads Android Spyware Via Trojan Signal, Telegram Apps](https://www.darkreading.com/attacks-breaches/china-group-spreads-android-spyware-via-trojan-signal-telegram-apps)
+- [Chinese Group Spreads Android Spyware via Trojan Signal, Telegram Apps](https://www.darkreading.com/attacks-breaches/china-group-spreads-android-spyware-via-trojan-signal-telegram-apps)
 - [APT Attacks From &#39;Earth Estries&#39; Hit Gov&#39;t, Tech With Custom Malware](https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware)
 - [New York Times Spoofed to Hide Russian Disinformation Campaign](https://www.darkreading.com/threat-intelligence/new-york-times-spoofed-russian-disinformation-campaign)
 - [4 Strategies to Safeguard the Finance Industry Against Deepfake Onslaught](https://www.darkreading.com/vulnerabilities-threats/4-strategies-to-safeguard-the-finance-industry-against-deepfake-onslaught)
-- [Performance-Enhanced Android MMRat Scurries onto Devices Via Fake App Stores](https://www.darkreading.com/endpoint/performance-enhanced-android-mmrat-scurries-onto-devices-via-fake-app-stores)
+- [Performance-Enhanced Android MMRat Scurries Onto Devices via Fake App Stores](https://www.darkreading.com/endpoint/performance-enhanced-android-mmrat-scurries-onto-devices-via-fake-app-stores)
 - [Should Senior IT Professionals Be Accountable for Professional Decisions?](https://www.darkreading.com/attacks-breaches/should-senior-it-professionals-be-accountable-for-professional-decisions-)
 - [In Airbnb, Cybercriminals Find a Comfortable Home for Fraud](https://www.darkreading.com/threat-intelligence/airbnb-cybercriminals-comfortable-home-fraud)
 - [6 Ways AI Can Revolutionize Digital Forensics](https://www.darkreading.com/dr-tech/6-ways-ai-can-revolutionize-digital-forensics)
