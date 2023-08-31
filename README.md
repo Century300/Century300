@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UK Agrees to Support Kuwait&#39;s Cybersecurity Center](https://www.darkreading.com/dr-global/uk-agrees-support-kuwait-cybersecurity-center)
+- [Paramount, Forever 21 Data Breaches Set Stage for Follow-On Attacks](https://www.darkreading.com/attacks-breaches/paramount-forever-21-data-breaches-follow-on-attacks)
+- [Apple iPhone 14 Pro Offered Up to the Hacking Masses](https://www.darkreading.com/endpoint/apple-iphone-14-pro-hacking)
 - [Cyberattackers Swarm OpenFire Cloud Servers With Takeover Barrage](https://www.darkreading.com/remote-workforce/cyberattackers-openfire-cloud-servers-takeover-barrage)
 - [A Brief History of ICS-Tailored Attacks](https://www.darkreading.com/attacks-breaches/brief-history-of-ics-tailored-attacks)
 - [Adversaries Ride RocketMQ Bug to DreamBus Bot Resurgence](https://www.darkreading.com/attacks-breaches/threat-actors-riding-rocketmq-bug-to-dreambus-bot-resurgence)
 - [Chinese Group Spreads Android Spyware via Trojan Signal, Telegram Apps](https://www.darkreading.com/attacks-breaches/china-group-spreads-android-spyware-via-trojan-signal-telegram-apps)
 - [APT Attacks From &#39;Earth Estries&#39; Hit Gov&#39;t, Tech With Custom Malware](https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware)
-- [New York Times Spoofed to Hide Russian Disinformation Campaign](https://www.darkreading.com/threat-intelligence/new-york-times-spoofed-russian-disinformation-campaign)
-- [4 Strategies to Safeguard the Finance Industry Against Deepfake Onslaught](https://www.darkreading.com/vulnerabilities-threats/4-strategies-to-safeguard-the-finance-industry-against-deepfake-onslaught)
-- [Performance-Enhanced Android MMRat Scurries Onto Devices via Fake App Stores](https://www.darkreading.com/endpoint/performance-enhanced-android-mmrat-scurries-onto-devices-via-fake-app-stores)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
