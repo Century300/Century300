@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals Team Up to Upgrade &#39;SapphireStealer&#39; Malware](https://www.darkreading.com/threat-intelligence/cybercriminals-team-up-upgrade-sapphirestealer-malware)
 - [UK Agrees to Support Kuwait&#39;s Cybersecurity Center](https://www.darkreading.com/dr-global/uk-agrees-support-kuwait-cybersecurity-center)
 - [Paramount, Forever 21 Data Breaches Set Stage for Follow-On Attacks](https://www.darkreading.com/attacks-breaches/paramount-forever-21-data-breaches-follow-on-attacks)
 - [Apple iPhone 14 Pro Offered Up to the Hacking Masses](https://www.darkreading.com/endpoint/apple-iphone-14-pro-hacking)
@@ -83,7 +84,6 @@
 - [A Brief History of ICS-Tailored Attacks](https://www.darkreading.com/attacks-breaches/brief-history-of-ics-tailored-attacks)
 - [Adversaries Ride RocketMQ Bug to DreamBus Bot Resurgence](https://www.darkreading.com/attacks-breaches/threat-actors-riding-rocketmq-bug-to-dreambus-bot-resurgence)
 - [Chinese Group Spreads Android Spyware via Trojan Signal, Telegram Apps](https://www.darkreading.com/attacks-breaches/china-group-spreads-android-spyware-via-trojan-signal-telegram-apps)
-- [APT Attacks From &#39;Earth Estries&#39; Hit Gov&#39;t, Tech With Custom Malware](https://www.darkreading.com/attacks-breaches/-apt-attacks-from-earth-estries-hit-govt-tech-with-custom-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
