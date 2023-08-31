@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Insurance Costs Rise, Coverage Shrinks, But Policies Remain Essential](https://www.darkreading.com/risk/insurance-costs-rise-coverage-shrinks-but-policies-remain-essential)
+- [National Cybersecurity Alliance Receives 200K Grant From Craig Newmark Philanthropies for HBCU Cybersecurity Program](https://www.darkreading.com/operations/national-cybersecurity-alliance-receives-200k-grant-from-craig-newmark-philanthropies-for-hbcu-cybersecurity-program)
+- [Cygna Labs Corp. Announces Expansion of its DNS Firewall Service](https://www.darkreading.com/perimeter/cygna-labs-corp-announces-expansion-of-its-dns-firewall-service)
+- [Introducing SafeUTM: The Free Version of NGFW](https://www.darkreading.com/perimeter/introducing-safeutm-the-free-version-of-ngfw)
+- [3 out of 4 Cyberattacks in the Education Sector Are Associated With a Compromised On‑Premises User or Admin Account](https://www.darkreading.com/attacks-breaches/3-out-of-4-cyberattacks-in-the-education-sector-are-associated-with-a-compromised-on-premises-user-or-admin-account)
+- [UN: Southeast Asia Gangs Are Trafficking Cybercrime Workers](https://www.darkreading.com/dr-global/un-southeast-asia-gangs-trafficking-cybercrime-workers)
+- [Insurance Costs Rise, Coverage Shrinks, but Policies Remain Essential](https://www.darkreading.com/risk/insurance-costs-rise-coverage-shrinks-but-policies-remain-essential)
 - [Cybercriminals Team Up to Upgrade &#39;SapphireStealer&#39; Malware](https://www.darkreading.com/threat-intelligence/cybercriminals-team-up-upgrade-sapphirestealer-malware)
 - [UK Agrees to Support Kuwait&#39;s Cybersecurity Center](https://www.darkreading.com/dr-global/uk-agrees-support-kuwait-cybersecurity-center)
-- [Paramount, Forever 21 Data Breaches Set Stage for Follow-On Attacks](https://www.darkreading.com/attacks-breaches/paramount-forever-21-data-breaches-follow-on-attacks)
-- [Apple iPhone 14 Pro Offered Up to the Hacking Masses](https://www.darkreading.com/endpoint/apple-iphone-14-pro-hacking)
-- [Cyberattackers Swarm OpenFire Cloud Servers With Takeover Barrage](https://www.darkreading.com/remote-workforce/cyberattackers-openfire-cloud-servers-takeover-barrage)
-- [A Brief History of ICS-Tailored Attacks](https://www.darkreading.com/attacks-breaches/brief-history-of-ics-tailored-attacks)
-- [Adversaries Ride RocketMQ Bug to DreamBus Bot Resurgence](https://www.darkreading.com/attacks-breaches/threat-actors-riding-rocketmq-bug-to-dreambus-bot-resurgence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
