@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Inaugural Pwn2Own Automotive Contest Dangles $1M for Car Hackers](https://www.darkreading.com/endpoint/inaugural-pwn2own-automotive-contest-1m-car-hackers)
 - [US Government Denies Blocking Sales of AI Chips to Middle East](https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east)
 - [MSSQL Databases Under Fire From FreeWorld Ransomware](https://www.darkreading.com/attacks-breaches/mssql-databases-under-fire-from-freeworld-ransomware)
 - [Will the AI Arms Race Lead to the Pollution of the Internet?](https://www.darkreading.com/dr-tech/will-the-ai-arms-race-lead-to-the-pollution-of-the-internet-)
@@ -83,7 +84,6 @@
 - [NYC Subway Disables Trip-History Feature Over Tap-and-Go Privacy Concerns](https://www.darkreading.com/risk/new-york-subway-disables-trip-history-feature-tap-and-go-privacy-concerns)
 - [Proposed SEC Cybersecurity Rule Will Put Unnecessary Strain on CISOs](https://www.darkreading.com/risk/proposed-sec-cybersecurity-rule-will-put-unnecessary-strain-on-cisos)
 - [National Cybersecurity Alliance Receives 200K Grant From Craig Newmark Philanthropies for HBCU Cybersecurity Program](https://www.darkreading.com/operations/national-cybersecurity-alliance-receives-200k-grant-from-craig-newmark-philanthropies-for-hbcu-cybersecurity-program)
-- [Cygna Labs Corp. Announces Expansion of its DNS Firewall Service](https://www.darkreading.com/perimeter/cygna-labs-corp-announces-expansion-of-its-dns-firewall-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
