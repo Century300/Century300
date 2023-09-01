@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proposed SEC Cybersecurity Rule Will Put Unnecessary Strain on CISOs](https://www.darkreading.com/risk/proposed-sec-cybersecurity-rule-will-put-unnecessary-strain-on-cisos)
 - [National Cybersecurity Alliance Receives 200K Grant From Craig Newmark Philanthropies for HBCU Cybersecurity Program](https://www.darkreading.com/operations/national-cybersecurity-alliance-receives-200k-grant-from-craig-newmark-philanthropies-for-hbcu-cybersecurity-program)
 - [Cygna Labs Corp. Announces Expansion of its DNS Firewall Service](https://www.darkreading.com/perimeter/cygna-labs-corp-announces-expansion-of-its-dns-firewall-service)
 - [Introducing SafeUTM: The Free Version of NGFW](https://www.darkreading.com/perimeter/introducing-safeutm-the-free-version-of-ngfw)
@@ -83,7 +84,6 @@
 - [UN: Southeast Asia Gangs Are Trafficking Cybercrime Workers](https://www.darkreading.com/dr-global/un-southeast-asia-gangs-trafficking-cybercrime-workers)
 - [Insurance Costs Rise, Coverage Shrinks, but Policies Remain Essential](https://www.darkreading.com/risk/insurance-costs-rise-coverage-shrinks-but-policies-remain-essential)
 - [Cybercriminals Team Up to Upgrade &#39;SapphireStealer&#39; Malware](https://www.darkreading.com/threat-intelligence/cybercriminals-team-up-upgrade-sapphirestealer-malware)
-- [UK Agrees to Support Kuwait&#39;s Cybersecurity Center](https://www.darkreading.com/dr-global/uk-agrees-support-kuwait-cybersecurity-center)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
