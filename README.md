@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Facing Third-Party Threats With Non-Employee Risk Management](https://www.darkreading.com/risk/facing-third-party-threats-with-non-employee-risk-management)
 - [Lacework Expands Partnership With Google Cloud to Deliver Enterprise Flexibility in the Cloud](https://www.darkreading.com/cloud/lacework-expands-partnership-with-google-cloud-to-deliver-enterprise-flexibility-in-the-cloud)
 - [ReasonLabs Summer 2023 Trends Report Reveals Top Consumer Security Threats](https://www.darkreading.com/threat-intelligence/reasonlabs-summer-2023-trends-report-reveals-top-consumer-security-threats)
 - [AI for Good: Voxel AI Tech Increases Funding to $30M With Strategic Funding Round](https://www.darkreading.com/operations/ai-for-good-voxel-ai-tech-increases-funding-to-30m-with-strategic-funding-round)
@@ -83,7 +84,6 @@
 - [US Government Denies Blocking Sales of AI Chips to Middle East](https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east)
 - [MSSQL Databases Under Fire From FreeWorld Ransomware](https://www.darkreading.com/attacks-breaches/mssql-databases-under-fire-from-freeworld-ransomware)
 - [Will the AI Arms Race Lead to the Pollution of the Internet?](https://www.darkreading.com/dr-tech/will-the-ai-arms-race-lead-to-the-pollution-of-the-internet-)
-- [Key Group Ransomware Foiled by New Decryptor](https://www.darkreading.com/threat-intelligence/key-group-ransomware-decryptor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
