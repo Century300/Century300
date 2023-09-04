@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Realism Reigns on AI at Black Hat and DEF CON](https://www.darkreading.com/omdia/realism-reigns-on-ai-at-black-hat-and-def-con)
 - [Facing Third-Party Threats With Non-Employee Risk Management](https://www.darkreading.com/risk/facing-third-party-threats-with-non-employee-risk-management)
 - [Lacework Expands Partnership With Google Cloud to Deliver Enterprise Flexibility in the Cloud](https://www.darkreading.com/cloud/lacework-expands-partnership-with-google-cloud-to-deliver-enterprise-flexibility-in-the-cloud)
 - [ReasonLabs Summer 2023 Trends Report Reveals Top Consumer Security Threats](https://www.darkreading.com/threat-intelligence/reasonlabs-summer-2023-trends-report-reveals-top-consumer-security-threats)
@@ -83,7 +84,6 @@
 - [Inaugural Pwn2Own Automotive Contest Dangles $1M for Car Hackers](https://www.darkreading.com/endpoint/inaugural-pwn2own-automotive-contest-1m-car-hackers)
 - [US Government Denies Blocking Sales of AI Chips to Middle East](https://www.darkreading.com/dr-global/us-government-denies-blocking-chip-sales-middle-east)
 - [MSSQL Databases Under Fire From FreeWorld Ransomware](https://www.darkreading.com/attacks-breaches/mssql-databases-under-fire-from-freeworld-ransomware)
-- [Will the AI Arms Race Lead to the Pollution of the Internet?](https://www.darkreading.com/dr-tech/will-the-ai-arms-race-lead-to-the-pollution-of-the-internet-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
