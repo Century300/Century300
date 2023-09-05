@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Discover Critical Vulnerability in PHPFusion CMS](https://www.darkreading.com/application-security/researchers-discover-critical-vulnerability-in-phpfusion-cms)
+- [LockBit Leaks Documents Filched From UK Defense Contractor](https://www.darkreading.com/attacks-breaches/lockbit-leaks-documents-filched-from-uk-defence-contractor)
 - [Tuya Smart and Amazon Web Services Collaborate to Establish an IoT Security Lab](https://www.darkreading.com/ics-ot/tuya-smart-and-amazon-web-services-collaborate-to-establish-an-iot-security-lab)
 - [Global Cloud Security Market to Reach $62.9B by 2028](https://www.darkreading.com/cloud/global-cloud-security-market-to-reach-62-9b-by-2028)
 - [Hornetsecurity Releases 365 Total Protection Plan 4 for Microsoft 365](https://www.darkreading.com/application-security/hornetsecurity-releases-365-total-protection-plan-4-for-microsoft-365)
 - [GhostSec Leaks Source Code of Alleged Iranian Surveillance Tool](https://www.darkreading.com/dr-global/ghostsec-source-code-alleged-iranian-surveillance-tool)
 - [Peiter &#39;Mudge&#39; Zatko Lands Role as CISA Senior Technical Adviser](https://www.darkreading.com/careers-and-people/peiter-mudge-zatko-lands-role-as-cisa-senior-technical-)
 - [Hackers Target High-Privileged Okta Accounts via Help Desk](https://www.darkreading.com/cloud/hackers-target-high-privileged-okta-accounts-via-help-desk)
-- [Data Initiatives Force Closer Partnership Between CISOs, CDOs](https://www.darkreading.com/risk/data-initiatives-force-closer-partnership-ciso-cdo)
-- [Russia Undertakes Disinformation Campaign Across Africa](https://www.darkreading.com/dr-global/russia-undertakes-disinformation-campaign-across-africa-follwnfg-coups)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
