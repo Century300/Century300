@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Peiter &#39;Mudge&#39; Zatko Lands Role as CISA Senior Technical Adviser](https://www.darkreading.com/careers-and-people/peiter-mudge-zatko-lands-role-as-cisa-senior-technical-)
+- [Hackers Target High-Privileged Okta Accounts via Help Desk](https://www.darkreading.com/cloud/hackers-target-high-privileged-okta-accounts-via-help-desk)
+- [Data Initiatives Force Closer Partnership Between CISOs, CDOs](https://www.darkreading.com/risk/data-initiatives-force-closer-partnership-ciso-cdo)
 - [Russia Undertakes Disinformation Campaign Across Africa](https://www.darkreading.com/dr-global/russia-undertakes-disinformation-campaign-across-africa-follwnfg-coups)
 - [How Companies Can Cope With the Risks of Generative AI Tools](https://www.darkreading.com/vulnerabilities-threats/how-companies-can-cope-risk-generative-ai-tools)
 - [As LotL Attacks Evolve, So Must Defenses](https://www.darkreading.com/vulnerabilities-threats/as-lotl-attacks-evolve-so-must-defenses)
 - [Name That Edge Toon: Prized Possessions](https://www.darkreading.com/edge-articles/name-that-edge-toon-prized-collection)
 - [Realism Reigns on AI at Black Hat and DEF CON](https://www.darkreading.com/omdia/realism-reigns-on-ai-at-black-hat-and-def-con)
-- [Facing Third-Party Threats With Non-Employee Risk Management](https://www.darkreading.com/risk/facing-third-party-threats-with-non-employee-risk-management)
-- [Lacework Expands Partnership With Google Cloud to Deliver Enterprise Flexibility in the Cloud](https://www.darkreading.com/cloud/lacework-expands-partnership-with-google-cloud-to-deliver-enterprise-flexibility-in-the-cloud)
-- [ReasonLabs Summer 2023 Trends Report Reveals Top Consumer Security Threats](https://www.darkreading.com/threat-intelligence/reasonlabs-summer-2023-trends-report-reveals-top-consumer-security-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
