@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [GhostSec Leaks Source Code of Alleged Iranian Surveillance Tool](https://www.darkreading.com/dr-global/ghostsec-source-code-alleged-iranian-surveillance-tool)
 - [Peiter &#39;Mudge&#39; Zatko Lands Role as CISA Senior Technical Adviser](https://www.darkreading.com/careers-and-people/peiter-mudge-zatko-lands-role-as-cisa-senior-technical-)
 - [Hackers Target High-Privileged Okta Accounts via Help Desk](https://www.darkreading.com/cloud/hackers-target-high-privileged-okta-accounts-via-help-desk)
 - [Data Initiatives Force Closer Partnership Between CISOs, CDOs](https://www.darkreading.com/risk/data-initiatives-force-closer-partnership-ciso-cdo)
@@ -83,7 +84,6 @@
 - [How Companies Can Cope With the Risks of Generative AI Tools](https://www.darkreading.com/vulnerabilities-threats/how-companies-can-cope-risk-generative-ai-tools)
 - [As LotL Attacks Evolve, So Must Defenses](https://www.darkreading.com/vulnerabilities-threats/as-lotl-attacks-evolve-so-must-defenses)
 - [Name That Edge Toon: Prized Possessions](https://www.darkreading.com/edge-articles/name-that-edge-toon-prized-collection)
-- [Realism Reigns on AI at Black Hat and DEF CON](https://www.darkreading.com/omdia/realism-reigns-on-ai-at-black-hat-and-def-con)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
