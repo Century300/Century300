@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Undertakes Disinformation Campaign Across Africa](https://www.darkreading.com/dr-global/russia-undertakes-disinformation-campaign-across-africa-follwnfg-coups)
 - [How Companies Can Cope With the Risks of Generative AI Tools](https://www.darkreading.com/vulnerabilities-threats/how-companies-can-cope-risk-generative-ai-tools)
 - [As LotL Attacks Evolve, So Must Defenses](https://www.darkreading.com/vulnerabilities-threats/as-lotl-attacks-evolve-so-must-defenses)
 - [Name That Edge Toon: Prized Possessions](https://www.darkreading.com/edge-articles/name-that-edge-toon-prized-collection)
@@ -83,7 +84,6 @@
 - [Facing Third-Party Threats With Non-Employee Risk Management](https://www.darkreading.com/risk/facing-third-party-threats-with-non-employee-risk-management)
 - [Lacework Expands Partnership With Google Cloud to Deliver Enterprise Flexibility in the Cloud](https://www.darkreading.com/cloud/lacework-expands-partnership-with-google-cloud-to-deliver-enterprise-flexibility-in-the-cloud)
 - [ReasonLabs Summer 2023 Trends Report Reveals Top Consumer Security Threats](https://www.darkreading.com/threat-intelligence/reasonlabs-summer-2023-trends-report-reveals-top-consumer-security-threats)
-- [AI for Good: Voxel AI Tech Increases Funding to $30M With Strategic Funding Round](https://www.darkreading.com/operations/ai-for-good-voxel-ai-tech-increases-funding-to-30m-with-strategic-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
