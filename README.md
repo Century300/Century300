@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [MinIO Attack Showcases Fresh Corporate Cloud Attack Vector](https://www.darkreading.com/cloud/minio-attack-corporate-cloud-attack-vector)
+- [AtlasVPN Linux Zero-Day Disconnects Users, Reveals IP Addresses](https://www.darkreading.com/application-security/atlasvpn-linux-zero-day-disconnects-users-reveals-ip-addresses)
+- [MinIO Cyberattack Showcases Fresh Corporate Cloud Vector](https://www.darkreading.com/cloud/minio-attack-corporate-cloud-attack-vector)
 - [Russia&#39;s &#39;Fancy Bear&#39; APT Targets Ukrainian Energy Facility](https://www.darkreading.com/attacks-breaches/russia-fancy-bear-apt-ukrainian-energy-facility)
 - [Google&#39;s Souped-up Chrome Store Review Process Foiled by Data-Stealer](https://www.darkreading.com/application-security/google-chrome-store-review-process-data-stealer)
 - [Securing Your Legacy: Identities, Data, and Processes](https://www.darkreading.com/vulnerabilities-threats/securing-your-legacy-identities-data-and-processes)
 - [Overcoming Open Source Vulnerabilities in the Software Supply Chain](https://www.darkreading.com/microsoft/overcoming-open-source-vulnerabilities-in-the-software-supply-chain-)
 - [Researchers Discover Critical Vulnerability in PHPFusion CMS](https://www.darkreading.com/application-security/researchers-discover-critical-vulnerability-in-phpfusion-cms)
 - [LockBit Leaks Documents Filched From UK Defense Contractor](https://www.darkreading.com/attacks-breaches/lockbit-leaks-documents-filched-from-uk-defence-contractor)
-- [Tuya Smart and Amazon Web Services Collaborate to Establish an IoT Security Lab](https://www.darkreading.com/ics-ot/tuya-smart-and-amazon-web-services-collaborate-to-establish-an-iot-security-lab)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
