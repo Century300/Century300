@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google&#39;s Souped-up Chrome Store Review Process Foiled by Data-Stealer](https://www.darkreading.com/application-security/google-chrome-store-review-process-data-stealer)
 - [Securing Your Legacy: Identities, Data, and Processes](https://www.darkreading.com/vulnerabilities-threats/securing-your-legacy-identities-data-and-processes)
 - [Overcoming Open Source Vulnerabilities in the Software Supply Chain](https://www.darkreading.com/microsoft/overcoming-open-source-vulnerabilities-in-the-software-supply-chain-)
 - [Researchers Discover Critical Vulnerability in PHPFusion CMS](https://www.darkreading.com/application-security/researchers-discover-critical-vulnerability-in-phpfusion-cms)
@@ -83,7 +84,6 @@
 - [Tuya Smart and Amazon Web Services Collaborate to Establish an IoT Security Lab](https://www.darkreading.com/ics-ot/tuya-smart-and-amazon-web-services-collaborate-to-establish-an-iot-security-lab)
 - [Global Cloud Security Market to Reach $62.9B by 2028](https://www.darkreading.com/cloud/global-cloud-security-market-to-reach-62-9b-by-2028)
 - [Hornetsecurity Releases 365 Total Protection Plan 4 for Microsoft 365](https://www.darkreading.com/application-security/hornetsecurity-releases-365-total-protection-plan-4-for-microsoft-365)
-- [GhostSec Leaks Source Code of Alleged Iranian Surveillance Tool](https://www.darkreading.com/dr-global/ghostsec-source-code-alleged-iranian-surveillance-tool)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
