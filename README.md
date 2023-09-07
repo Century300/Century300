@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CybeReady Provides Cybersecurity Awareness Month Kits As CISOs Defend Against AI Driven Attacks](https://www.darkreading.com/operations/cybeready-provides-cybersecurity-awareness-month-kits-as-cisos-defend-against-ai-driven-attacks)
 - [Coding Tips to Sidestep JavaScript Vulnerabilities](https://www.darkreading.com/dr-tech/coding-tips-to-sidestep-javascript-vulnerabilities)
 - [Cybersecurity Builds Trust in Critical Infrastructure](https://www.darkreading.com/edge-articles/cybersecurity-builds-trust-in-critical-infrastructure)
 - [IBM Addresses Data Incident for Janssen CarePath Database](https://www.darkreading.com/attacks-breaches/ibm-addresses-data-incident-for-janssen-carepath-database)
@@ -83,7 +84,6 @@
 - [W3LL Gang Compromises Thousands of Microsoft 365 Accounts](https://www.darkreading.com/endpoint/w3ll-gang-compromises-thousands-of-microsoft-365-accounts)
 - [AtlasVPN Linux Zero-Day Disconnects Users, Reveals IP Addresses](https://www.darkreading.com/application-security/atlasvpn-linux-zero-day-disconnects-users-reveals-ip-addresses)
 - [MinIO Cyberattack Showcases Fresh Corporate Cloud Vector](https://www.darkreading.com/cloud/minio-attack-corporate-cloud-attack-vector)
-- [Russia&#39;s &#39;Fancy Bear&#39; APT Targets Ukrainian Energy Facility](https://www.darkreading.com/attacks-breaches/russia-fancy-bear-apt-ukrainian-energy-facility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
