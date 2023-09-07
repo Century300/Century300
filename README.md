@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Coding Tips to Sidestep JavaScript Vulnerabilities](https://www.darkreading.com/dr-tech/coding-tips-to-sidestep-javascript-vulnerabilities)
+- [Cybersecurity Builds Trust in Critical Infrastructure](https://www.darkreading.com/edge-articles/cybersecurity-builds-trust-in-critical-infrastructure)
 - [IBM Addresses Data Incident for Janssen CarePath Database](https://www.darkreading.com/attacks-breaches/ibm-addresses-data-incident-for-janssen-carepath-database)
 - [IBM Expands Cloud Security and Compliance Center](https://www.darkreading.com/cloud/ibm-expands-cloud-security-and-compliance-center)
 - [W3LL Gang Compromises Thousands of Microsoft 365 Accounts](https://www.darkreading.com/endpoint/w3ll-gang-compromises-thousands-of-microsoft-365-accounts)
 - [AtlasVPN Linux Zero-Day Disconnects Users, Reveals IP Addresses](https://www.darkreading.com/application-security/atlasvpn-linux-zero-day-disconnects-users-reveals-ip-addresses)
 - [MinIO Cyberattack Showcases Fresh Corporate Cloud Vector](https://www.darkreading.com/cloud/minio-attack-corporate-cloud-attack-vector)
 - [Russia&#39;s &#39;Fancy Bear&#39; APT Targets Ukrainian Energy Facility](https://www.darkreading.com/attacks-breaches/russia-fancy-bear-apt-ukrainian-energy-facility)
-- [Google&#39;s Souped-up Chrome Store Review Process Foiled by Data-Stealer](https://www.darkreading.com/application-security/google-chrome-store-review-process-data-stealer)
-- [Securing Your Legacy: Identities, Data, and Processes](https://www.darkreading.com/vulnerabilities-threats/securing-your-legacy-identities-data-and-processes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
