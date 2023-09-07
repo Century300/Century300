@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft ID Security Gaps That Let Threat Actor Steal Signing Key](https://www.darkreading.com/attacks-breaches/microsoft-ids-security-gaps-that-let-threat-actor-steal-signing-key)
 - [North Korean Hackers Target Security Researchers — Again](https://www.darkreading.com/threat-intelligence/north-korean-hackers-target-security-researchers-again)
 - [Apple Hit By 2 No-Click Zero-Days in Blastpass Exploit Chain](https://www.darkreading.com/vulnerabilities-threats/apple-hit-by-two-no-click-zero-days-in-blastpass-exploit-chain)
 - [Rwanda Launches Smart-City Investment Program](https://www.darkreading.com/dr-global/rwanda-launches-smart-city-investment-program)
+- [Security for Multicloud and Hybrid Cloud Environments](https://www.darkreading.com/google-cloud-security/security-for-multicloud-and-hybrid-cloud-environments)
 - [NFL Security Chief: Generative AI Threats a Concern as New Season Kicks Off](https://www.darkreading.com/attacks-breaches/generative-ai-threats-a-concern-for-nfl-security-chief-as-new-season-kicks-off)
 - [Weaponized Windows Installers Target Graphic Designers in Crypto Heist](https://www.darkreading.com/attacks-breaches/weaponized-windows-installers-target-graphic-designers-in-crypto-heist)
 - [How New SEC Rules Can Benefit Cybersecurity Teams](https://www.darkreading.com/risk/how-new-sec-rules-can-benefit-cybersecurity-teams)
-- [Peril vs. Promise: Companies, Developers Worry Over Generative AI Risk](https://www.darkreading.com/application-security/peril-vs-promise-companies-developers-worry-over-generative-ai-risks)
-- [Does Generative AI Comply With Asimov&#39;s 3 Laws of Robotics?](https://www.darkreading.com/vulnerabilities-threats/does-generative-ai-comply-asimov-3-laws-of-robotics-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
