@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How New SEC Rules Can Benefit Cybersecurity Teams](https://www.darkreading.com/risk/how-new-sec-rules-can-benefit-cybersecurity-teams)
 - [Peril vs. Promise: Companies, Developers Worry Over Generative AI Risk](https://www.darkreading.com/application-security/peril-vs-promise-companies-developers-worry-over-generative-ai-risks)
 - [Does Generative AI Comply With Asimov&#39;s 3 Laws of Robotics?](https://www.darkreading.com/vulnerabilities-threats/does-generative-ai-comply-asimov-3-laws-of-robotics-)
 - [CybeReady Provides Cybersecurity Awareness Month Kits As CISOs Defend Against AI Driven Attacks](https://www.darkreading.com/operations/cybeready-provides-cybersecurity-awareness-month-kits-as-cisos-defend-against-ai-driven-attacks)
@@ -83,7 +84,6 @@
 - [Cybersecurity Builds Trust in Critical Infrastructure](https://www.darkreading.com/edge-articles/cybersecurity-builds-trust-in-critical-infrastructure)
 - [IBM Addresses Data Incident for Janssen CarePath Database](https://www.darkreading.com/attacks-breaches/ibm-addresses-data-incident-for-janssen-carepath-database)
 - [IBM Expands Cloud Security and Compliance Center](https://www.darkreading.com/cloud/ibm-expands-cloud-security-and-compliance-center)
-- [W3LL Gang Compromises Thousands of Microsoft 365 Accounts](https://www.darkreading.com/endpoint/w3ll-gang-compromises-thousands-of-microsoft-365-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
