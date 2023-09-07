@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Peril vs. Promise: Companies, Developers Worry Over Generative AI Risk](https://www.darkreading.com/application-security/peril-vs-promise-companies-developers-worry-over-generative-ai-risks)
 - [Does Generative AI Comply With Asimov&#39;s 3 Laws of Robotics?](https://www.darkreading.com/vulnerabilities-threats/does-generative-ai-comply-asimov-3-laws-of-robotics-)
 - [CybeReady Provides Cybersecurity Awareness Month Kits As CISOs Defend Against AI Driven Attacks](https://www.darkreading.com/operations/cybeready-provides-cybersecurity-awareness-month-kits-as-cisos-defend-against-ai-driven-attacks)
 - [Coding Tips to Sidestep JavaScript Vulnerabilities](https://www.darkreading.com/dr-tech/coding-tips-to-sidestep-javascript-vulnerabilities)
@@ -83,7 +84,6 @@
 - [IBM Addresses Data Incident for Janssen CarePath Database](https://www.darkreading.com/attacks-breaches/ibm-addresses-data-incident-for-janssen-carepath-database)
 - [IBM Expands Cloud Security and Compliance Center](https://www.darkreading.com/cloud/ibm-expands-cloud-security-and-compliance-center)
 - [W3LL Gang Compromises Thousands of Microsoft 365 Accounts](https://www.darkreading.com/endpoint/w3ll-gang-compromises-thousands-of-microsoft-365-accounts)
-- [AtlasVPN Linux Zero-Day Disconnects Users, Reveals IP Addresses](https://www.darkreading.com/application-security/atlasvpn-linux-zero-day-disconnects-users-reveals-ip-addresses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
