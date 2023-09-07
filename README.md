@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NFL Security Chief: Generative AI Threats a Concern as New Season Kicks Off](https://www.darkreading.com/attacks-breaches/generative-ai-threats-a-concern-for-nfl-security-chief-as-new-season-kicks-off)
 - [Weaponized Windows Installers Target Graphic Designers in Crypto Heist](https://www.darkreading.com/attacks-breaches/weaponized-windows-installers-target-graphic-designers-in-crypto-heist)
 - [How New SEC Rules Can Benefit Cybersecurity Teams](https://www.darkreading.com/risk/how-new-sec-rules-can-benefit-cybersecurity-teams)
 - [Peril vs. Promise: Companies, Developers Worry Over Generative AI Risk](https://www.darkreading.com/application-security/peril-vs-promise-companies-developers-worry-over-generative-ai-risks)
@@ -83,7 +84,6 @@
 - [CybeReady Provides Cybersecurity Awareness Month Kits As CISOs Defend Against AI Driven Attacks](https://www.darkreading.com/operations/cybeready-provides-cybersecurity-awareness-month-kits-as-cisos-defend-against-ai-driven-attacks)
 - [Coding Tips to Sidestep JavaScript Vulnerabilities](https://www.darkreading.com/dr-tech/coding-tips-to-sidestep-javascript-vulnerabilities)
 - [Cybersecurity Builds Trust in Critical Infrastructure](https://www.darkreading.com/edge-articles/cybersecurity-builds-trust-in-critical-infrastructure)
-- [IBM Addresses Data Incident for Janssen CarePath Database](https://www.darkreading.com/attacks-breaches/ibm-addresses-data-incident-for-janssen-carepath-database)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
