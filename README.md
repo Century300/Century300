@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kenya Initiates Public Sector Digital Skills Training, No Mention of Cybersecurity](https://www.darkreading.com/dr-global/kenya-initiates-public-sector-digital-skills-training-no-mention-of-cyber)
 - [Trickbot, Conti Sanctions Affect Top Cybercrime Brass](https://www.darkreading.com/threat-intelligence/trickbot-conti-sanctions-affect-top-cybercrime-brass)
 - [3 Strategies to Defend Against Resurging Infostealers](https://www.darkreading.com/vulnerabilities-threats/3-strategies-to-defend-against-resurging-infostealers)
 - [Software Supply Chain Strategies to Parry Dependency Confusion Attacks](https://www.darkreading.com/edge-articles/software-supply-chain-strategies-to-parry-dependency-confusion-attacks)
@@ -83,7 +84,6 @@
 - [Microsoft IDs Security Gaps that Let Threat Actors Steal Signing Key](https://www.darkreading.com/attacks-breaches/microsoft-ids-security-gaps-that-let-threat-actor-steal-signing-key)
 - [North Korean Hackers Target Security Researchers — Again](https://www.darkreading.com/threat-intelligence/north-korean-hackers-target-security-researchers-again)
 - [Apple Hit By 2 No-Click Zero-Days in Blastpass Exploit Chain](https://www.darkreading.com/vulnerabilities-threats/apple-hit-by-two-no-click-zero-days-in-blastpass-exploit-chain)
-- [Rwanda Launches Smart-City Investment Program](https://www.darkreading.com/dr-global/rwanda-launches-smart-city-investment-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
