@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Software Supply Chain Strategies to Parry Dependency Confusion Attacks](https://www.darkreading.com/edge-articles/software-supply-chain-strategies-to-parry-dependency-confusion-attacks)
-- [Thoma Bravo&#39;s &#39;Practical&#39; Decision to Merge ForgeRock into Ping Identity](https://www.darkreading.com/dr-tech/thoma-bravo-practical-decision-merge-forgerock-into-ping-identity)
+- [Thoma Bravo&#39;s &#39;Practical&#39; Decision to Merge ForgeRock Into Ping Identity](https://www.darkreading.com/dr-tech/thoma-bravo-practical-decision-merge-forgerock-into-ping-identity)
 - [Microsoft ID Security Gaps That Let Threat Actor Steal Signing Key](https://www.darkreading.com/attacks-breaches/microsoft-ids-security-gaps-that-let-threat-actor-steal-signing-key)
 - [North Korean Hackers Target Security Researchers — Again](https://www.darkreading.com/threat-intelligence/north-korean-hackers-target-security-researchers-again)
 - [Apple Hit By 2 No-Click Zero-Days in Blastpass Exploit Chain](https://www.darkreading.com/vulnerabilities-threats/apple-hit-by-two-no-click-zero-days-in-blastpass-exploit-chain)
