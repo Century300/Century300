@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trickbot, Conti Sanctions Affect Top Cybercrime Brass](https://www.darkreading.com/threat-intelligence/trickbot-conti-sanctions-affect-top-cybercrime-brass)
 - [3 Strategies to Defend Against Resurging Infostealers](https://www.darkreading.com/vulnerabilities-threats/3-strategies-to-defend-against-resurging-infostealers)
 - [Software Supply Chain Strategies to Parry Dependency Confusion Attacks](https://www.darkreading.com/edge-articles/software-supply-chain-strategies-to-parry-dependency-confusion-attacks)
 - [Thoma Bravo Makes &#39;Practical&#39; Decision to Merge ForgeRock Into Ping Identity](https://www.darkreading.com/dr-tech/thoma-bravo-practical-decision-merge-forgerock-into-ping-identity)
@@ -83,7 +84,6 @@
 - [North Korean Hackers Target Security Researchers — Again](https://www.darkreading.com/threat-intelligence/north-korean-hackers-target-security-researchers-again)
 - [Apple Hit By 2 No-Click Zero-Days in Blastpass Exploit Chain](https://www.darkreading.com/vulnerabilities-threats/apple-hit-by-two-no-click-zero-days-in-blastpass-exploit-chain)
 - [Rwanda Launches Smart-City Investment Program](https://www.darkreading.com/dr-global/rwanda-launches-smart-city-investment-program)
-- [Security for Multicloud and Hybrid Cloud Environments](https://www.darkreading.com/google-cloud-security/security-for-multicloud-and-hybrid-cloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
