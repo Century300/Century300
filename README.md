@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Software Supply Chain Strategies to Parry Dependency Confusion Attacks](https://www.darkreading.com/edge-articles/software-supply-chain-strategies-to-parry-dependency-confusion-attacks)
+- [Thoma Bravo&#39;s &#39;Practical&#39; Decision to Merge ForgeRock into Ping Identity](https://www.darkreading.com/dr-tech/thoma-bravo-practical-decision-merge-forgerock-into-ping-identity)
 - [Microsoft ID Security Gaps That Let Threat Actor Steal Signing Key](https://www.darkreading.com/attacks-breaches/microsoft-ids-security-gaps-that-let-threat-actor-steal-signing-key)
 - [North Korean Hackers Target Security Researchers — Again](https://www.darkreading.com/threat-intelligence/north-korean-hackers-target-security-researchers-again)
 - [Apple Hit By 2 No-Click Zero-Days in Blastpass Exploit Chain](https://www.darkreading.com/vulnerabilities-threats/apple-hit-by-two-no-click-zero-days-in-blastpass-exploit-chain)
 - [Rwanda Launches Smart-City Investment Program](https://www.darkreading.com/dr-global/rwanda-launches-smart-city-investment-program)
 - [Security for Multicloud and Hybrid Cloud Environments](https://www.darkreading.com/google-cloud-security/security-for-multicloud-and-hybrid-cloud-environments)
 - [NFL Security Chief: Generative AI Threats a Concern as New Season Kicks Off](https://www.darkreading.com/attacks-breaches/generative-ai-threats-a-concern-for-nfl-security-chief-as-new-season-kicks-off)
-- [Weaponized Windows Installers Target Graphic Designers in Crypto Heist](https://www.darkreading.com/attacks-breaches/weaponized-windows-installers-target-graphic-designers-in-crypto-heist)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
