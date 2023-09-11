@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [World Security Report Finds Physical Security Incidents Cost Companies USD $1T in 2022](https://www.darkreading.com/physical-security/world-security-report-finds-physical-security-incidents-cost-companies-usd-1t-in-2022)
+- [Google and Acalvio Partner to Deliver Active Defense to Protect Customers From Advanced Threats](https://www.darkreading.com/cloud/google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats)
+- [Cloudflare Announces Unified Data Protection Suite to Address Risks of Modern Coding and Increased AI Use](https://www.darkreading.com/cloud/cloudflare-announces-unified-data-protection-suite-to-address-risks-of-modern-coding-and-increased-ai-use)
 - [Iran&#39;s Charming Kitten Pounces on Israeli Exchange Servers](https://www.darkreading.com/dr-global/irans-charming-kitten-israeli-exchange-servers)
 - [Being Flexible Can Improve Your Security Posture](https://www.darkreading.com/edge-articles/being-flexible-can-improve-your-security-posture)
 - [&#39;Steal-It&#39; Campaign Uses OnlyFans Models as Lures](https://www.darkreading.com/application-security/steal-it-campaign-onlyfans-models-lures)
 - [Iranian APT Hits US Aviation Org via ManageEngine, Fortinet Bugs](https://www.darkreading.com/dr-global/iranian-apt-hits-us-aviation-org-via-manageengine-fortinet-bugs)
 - [Navigating Rwanda&#39;s New Data Protection Law](https://www.darkreading.com/dr-global/navigating-rwanda-new-data-protection-law)
-- [Attackers Abuse Google Looker Studio to Evade DMARC, Email Security](https://www.darkreading.com/endpoint/phishers-abuse-google-looker-studio-dmarc-email-security)
-- [Overcoming the Rising Threat of Session Hijacking](https://www.darkreading.com/vulnerabilities-threats/overcoming-rising-threat-session-hijacking)
-- [3 Ways to Expand the Cyber Talent Pool From Splash Pad to Watering Hole](https://www.darkreading.com/edge/3-ways-to-expand-cyber-talent-pool-from-splash-pad-to-watering-hole)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
