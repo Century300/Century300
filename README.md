@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Being Flexible Can Improve Your Security Posture](https://www.darkreading.com/edge-articles/being-flexible-can-improve-your-security-posture)
+- [&#39;Steal-It&#39; Campaign Uses OnlyFans Models As Lures](https://www.darkreading.com/application-security/steal-it-campaign-onlyfans-models-lures)
 - [Iranian APT Hits US Aviation Org via ManageEngine, Fortinet Bugs](https://www.darkreading.com/dr-global/iranian-apt-hits-us-aviation-org-via-manageengine-fortinet-bugs)
 - [Navigating Rwanda&#39;s New Data Protection Law](https://www.darkreading.com/dr-global/navigating-rwanda-new-data-protection-law)
 - [Attackers Abuse Google Looker Studio to Evade DMARC, Email Security](https://www.darkreading.com/endpoint/phishers-abuse-google-looker-studio-dmarc-email-security)
 - [Overcoming the Rising Threat of Session Hijacking](https://www.darkreading.com/vulnerabilities-threats/overcoming-rising-threat-session-hijacking)
 - [3 Ways to Expand the Cyber Talent Pool From Splash Pad to Watering Hole](https://www.darkreading.com/edge/3-ways-to-expand-cyber-talent-pool-from-splash-pad-to-watering-hole)
 - [Critical Security Bug Opens Cisco BroadWorks to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-security-bug-cisco-broadworks-complete-takeover)
-- [&#39;Evil Telegram&#39; Spyware Campaign Infects 60K+ Mobile Users](https://www.darkreading.com/attacks-breaches/evil-telegram-spyware-campaign-infects-60k-mobile-users)
-- [Microsoft, Google Take on Obsolete TLS Protocols](https://www.darkreading.com/dr-tech/microsoft-google-take-on-obsolete-tls-protocols)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
