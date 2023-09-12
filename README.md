@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Israeli Hospital Hit By Ransomware Attack, 1TB Data Stolen](https://www.darkreading.com/dr-global/israeli-hospital-hit-by-attackers-1tb-data-stolen)
+- [IBM Adds Data Security Broker to Encrypt Data in Multiclouds](https://www.darkreading.com/dr-tech/ibm-adds-data-security-broker-to-encrypt-data-in-multiclouds)
+- [MGM Resorts Cyberattack Hobbles Las Vegas Strip Operations](https://www.darkreading.com/attacks-breaches/mgm-resorts-cyberattack-hobbles-las-vegas-strip-operations)
 - [ChatGPT Jailbreaking Forums Proliferate in Dark Web Communities](https://www.darkreading.com/application-security/chatgpt-jailbreaking-forums-dark-web-communities)
 - [Millions of Facebook Business Accounts Bitten by Python Malware](https://www.darkreading.com/endpoint/millions-facebook-business-accounts-python-malware)
 - [The Double-Edged Sword of Cyber Espionage](https://www.darkreading.com/attacks-breaches/double-edged-sword-cyber-espionage)
 - [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
 - [World Security Report Finds Physical Security Incidents Cost Companies USD $1T in 2022](https://www.darkreading.com/physical-security/world-security-report-finds-physical-security-incidents-cost-companies-usd-1t-in-2022)
-- [Google and Acalvio Partner to Deliver Active Defense to Protect Customers From Advanced Threats](https://www.darkreading.com/cloud/google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats)
-- [Cloudflare Announces Unified Data Protection Suite to Address Risks of Modern Coding and Increased AI Use](https://www.darkreading.com/cloud/cloudflare-announces-unified-data-protection-suite-to-address-risks-of-modern-coding-and-increased-ai-use)
-- [Iran&#39;s Charming Kitten Pounces on Israeli Exchange Servers](https://www.darkreading.com/dr-global/irans-charming-kitten-israeli-exchange-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
