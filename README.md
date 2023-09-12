@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Google Chrome Zero-Day Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/critical-google-chrome-zero-day-bug-exploited)
 - [Israeli Hospital Hit By Ransomware Attack, 1TB Data Stolen](https://www.darkreading.com/dr-global/israeli-hospital-hit-by-attackers-1tb-data-stolen)
 - [IBM Adds Data Security Broker to Encrypt Data in Multiclouds](https://www.darkreading.com/dr-tech/ibm-adds-data-security-broker-to-encrypt-data-in-multiclouds)
 - [MGM Resorts Cyberattack Hobbles Las Vegas Strip Operations](https://www.darkreading.com/attacks-breaches/mgm-resorts-cyberattack-hobbles-las-vegas-strip-operations)
@@ -83,7 +84,6 @@
 - [Millions of Facebook Business Accounts Bitten by Python Malware](https://www.darkreading.com/endpoint/millions-facebook-business-accounts-python-malware)
 - [The Double-Edged Sword of Cyber Espionage](https://www.darkreading.com/attacks-breaches/double-edged-sword-cyber-espionage)
 - [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
-- [World Security Report Finds Physical Security Incidents Cost Companies USD $1T in 2022](https://www.darkreading.com/physical-security/world-security-report-finds-physical-security-incidents-cost-companies-usd-1t-in-2022)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
