@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Jailbreaking Forums Proliferate in Dark Web Communities](https://www.darkreading.com/application-security/chatgpt-jailbreaking-forums-dark-web-communities)
 - [Millions of Facebook Business Accounts Bitten by Python Malware](https://www.darkreading.com/endpoint/millions-facebook-business-accounts-python-malware)
 - [The Double-Edged Sword of Cyber Espionage](https://www.darkreading.com/attacks-breaches/double-edged-sword-cyber-espionage)
 - [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
@@ -83,7 +84,6 @@
 - [Google and Acalvio Partner to Deliver Active Defense to Protect Customers From Advanced Threats](https://www.darkreading.com/cloud/google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats)
 - [Cloudflare Announces Unified Data Protection Suite to Address Risks of Modern Coding and Increased AI Use](https://www.darkreading.com/cloud/cloudflare-announces-unified-data-protection-suite-to-address-risks-of-modern-coding-and-increased-ai-use)
 - [Iran&#39;s Charming Kitten Pounces on Israeli Exchange Servers](https://www.darkreading.com/dr-global/irans-charming-kitten-israeli-exchange-servers)
-- [Being Flexible Can Improve Your Security Posture](https://www.darkreading.com/edge-articles/being-flexible-can-improve-your-security-posture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
