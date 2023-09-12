@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Double-Edged Sword of Cyber Espionage](https://www.darkreading.com/attacks-breaches/double-edged-sword-cyber-espionage)
 - [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
 - [World Security Report Finds Physical Security Incidents Cost Companies USD $1T in 2022](https://www.darkreading.com/physical-security/world-security-report-finds-physical-security-incidents-cost-companies-usd-1t-in-2022)
 - [Google and Acalvio Partner to Deliver Active Defense to Protect Customers From Advanced Threats](https://www.darkreading.com/cloud/google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats)
@@ -83,7 +84,6 @@
 - [Iran&#39;s Charming Kitten Pounces on Israeli Exchange Servers](https://www.darkreading.com/dr-global/irans-charming-kitten-israeli-exchange-servers)
 - [Being Flexible Can Improve Your Security Posture](https://www.darkreading.com/edge-articles/being-flexible-can-improve-your-security-posture)
 - [&#39;Steal-It&#39; Campaign Uses OnlyFans Models as Lures](https://www.darkreading.com/application-security/steal-it-campaign-onlyfans-models-lures)
-- [Iranian APT Hits US Aviation Org via ManageEngine, Fortinet Bugs](https://www.darkreading.com/dr-global/iranian-apt-hits-us-aviation-org-via-manageengine-fortinet-bugs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
