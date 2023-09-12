@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s Winnti APT Compromises National Grid in Asia for 6 Months](https://www.darkreading.com/ics-ot/chinas-winnti-apt-compromises-national-grid-in-asia-for-6-months)
 - [Critical Google Chrome Zero-Day Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/critical-google-chrome-zero-day-bug-exploited)
 - [Israeli Hospital Hit By Ransomware Attack, 1TB Data Stolen](https://www.darkreading.com/dr-global/israeli-hospital-hit-by-attackers-1tb-data-stolen)
 - [IBM Adds Data Security Broker to Encrypt Data in Multiclouds](https://www.darkreading.com/dr-tech/ibm-adds-data-security-broker-to-encrypt-data-in-multiclouds)
@@ -83,7 +84,6 @@
 - [ChatGPT Jailbreaking Forums Proliferate in Dark Web Communities](https://www.darkreading.com/application-security/chatgpt-jailbreaking-forums-dark-web-communities)
 - [Millions of Facebook Business Accounts Bitten by Python Malware](https://www.darkreading.com/endpoint/millions-facebook-business-accounts-python-malware)
 - [The Double-Edged Sword of Cyber Espionage](https://www.darkreading.com/attacks-breaches/double-edged-sword-cyber-espionage)
-- [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
