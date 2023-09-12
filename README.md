@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Anonymous Sudan&#39; Sets Its Sights on Telegram in DDoS Attack](https://www.darkreading.com/attacks-breaches/anonymous-sudan-sets-sights-telegram-ddos-attack)
 - [World Security Report Finds Physical Security Incidents Cost Companies USD $1T in 2022](https://www.darkreading.com/physical-security/world-security-report-finds-physical-security-incidents-cost-companies-usd-1t-in-2022)
 - [Google and Acalvio Partner to Deliver Active Defense to Protect Customers From Advanced Threats](https://www.darkreading.com/cloud/google-and-acalvio-partner-to-deliver-active-defense-to-protect-customers-from-advanced-threats)
 - [Cloudflare Announces Unified Data Protection Suite to Address Risks of Modern Coding and Increased AI Use](https://www.darkreading.com/cloud/cloudflare-announces-unified-data-protection-suite-to-address-risks-of-modern-coding-and-increased-ai-use)
@@ -83,7 +84,6 @@
 - [Being Flexible Can Improve Your Security Posture](https://www.darkreading.com/edge-articles/being-flexible-can-improve-your-security-posture)
 - [&#39;Steal-It&#39; Campaign Uses OnlyFans Models as Lures](https://www.darkreading.com/application-security/steal-it-campaign-onlyfans-models-lures)
 - [Iranian APT Hits US Aviation Org via ManageEngine, Fortinet Bugs](https://www.darkreading.com/dr-global/iranian-apt-hits-us-aviation-org-via-manageengine-fortinet-bugs)
-- [Navigating Rwanda&#39;s New Data Protection Law](https://www.darkreading.com/dr-global/navigating-rwanda-new-data-protection-law)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
