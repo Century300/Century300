@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Skills Gap: Roadies &amp; Gamers Are Untapped Talent](https://www.darkreading.com/operations/cybersecurity-skills-gap-roadies-gamers-are-untapped-talent)
 - [Recent Rhysida Attacks Show Focus on Healthcare By Ransomware Actors](https://www.darkreading.com/attacks-breaches/recent-rhysida-attacks-show-focus-on-healthcare-sector-by-ransomware-actors)
 - [Microsoft Patches a Pair of Actively Exploited Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-pair-of-actively-exploited-zero-days)
 - [China&#39;s Winnti APT Compromises National Grid in Asia for 6 Months](https://www.darkreading.com/ics-ot/chinas-winnti-apt-compromises-national-grid-in-asia-for-6-months)
@@ -83,7 +84,6 @@
 - [Israeli Hospital Hit By Ransomware Attack, 1TB Data Stolen](https://www.darkreading.com/dr-global/israeli-hospital-hit-by-attackers-1tb-data-stolen)
 - [IBM Adds Data Security Broker to Encrypt Data in Multiclouds](https://www.darkreading.com/dr-tech/ibm-adds-data-security-broker-to-encrypt-data-in-multiclouds)
 - [MGM Resorts Cyberattack Hobbles Las Vegas Strip Operations](https://www.darkreading.com/attacks-breaches/mgm-resorts-cyberattack-hobbles-las-vegas-strip-operations)
-- [ChatGPT Jailbreaking Forums Proliferate in Dark Web Communities](https://www.darkreading.com/application-security/chatgpt-jailbreaking-forums-dark-web-communities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
