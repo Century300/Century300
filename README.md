@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When LockBit Ransomware Fails, Attackers Deploy Brand-New &#39;3AM&#39;](https://www.darkreading.com/attacks-breaches/when-lockbit-ransomware-fails-attackers-deploy-brand-new-3am)
 - [A 2-Week Prescription for Eliminating Supply Chain Threats](https://www.darkreading.com/attacks-breaches/2-week-supply-chain-threat)
 - [Cybersecurity Skills Gap: Roadies &amp; Gamers Are Untapped Talent](https://www.darkreading.com/operations/cybersecurity-skills-gap-roadies-gamers-are-untapped-talent)
 - [Recent Rhysida Attacks Show Focus on Healthcare By Ransomware Actors](https://www.darkreading.com/attacks-breaches/recent-rhysida-attacks-show-focus-on-healthcare-sector-by-ransomware-actors)
@@ -83,7 +84,6 @@
 - [China&#39;s Winnti APT Compromises National Grid in Asia for 6 Months](https://www.darkreading.com/ics-ot/chinas-winnti-apt-compromises-national-grid-in-asia-for-6-months)
 - [Critical Google Chrome Zero-Day Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/critical-google-chrome-zero-day-bug-exploited)
 - [Israeli Hospital Hit By Ransomware Attack, 1TB Data Stolen](https://www.darkreading.com/dr-global/israeli-hospital-hit-by-attackers-1tb-data-stolen)
-- [IBM Adds Data Security Broker to Encrypt Data in Multiclouds](https://www.darkreading.com/dr-tech/ibm-adds-data-security-broker-to-encrypt-data-in-multiclouds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
