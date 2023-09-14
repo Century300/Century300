@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mideast Retailers Dogged by Scam Facebook Pages Offering &#39;Investment&#39; Opportunities](https://www.darkreading.com/dr-global/mideast-retailers-scam-facebook-pages-investment-opportunities)
 - [Cybersecurity and Compliance in the Age of AI](https://www.darkreading.com/risk/cybersecurity-and-compliance-in-the-age-of-ai)
 - [Professional Sports: The Next Frontier of Cybersecurity?](https://www.darkreading.com/microsoft/are-professional-sports-the-next-frontier-of-cybersecurity-)
 - [&#39;Scattered Spider&#39; Behind MGM Cyberattack, Targets Casinos](https://www.darkreading.com/attacks-breaches/-scattered-spider-mgm-cyberattack-casinos)
@@ -83,7 +84,6 @@
 - [NordVPN Launches Sonar to Prevent Phishing Attacks](https://www.darkreading.com/endpoint/nordvpn-launches-sonar-to-prevent-phishing-attacks)
 - [Rail Cybersecurity Is a Complex Environment](https://www.darkreading.com/edge-articles/rail-cybersecurity-is-a-complex-environment)
 - [Kubernetes Admins Warned to Patch Clusters Against New RCE Vulns](https://www.darkreading.com/vulnerabilities-threats/kubernetes-admins-warned-to-patch-clusters-against-new-rce-vulns)
-- [Federal Mandates on Medical-Device Cybersecurity Get Serious](https://www.darkreading.com/iot/federal-mandates-on-medical-device-cybersecurity-mandate-get-serious)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
