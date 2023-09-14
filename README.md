@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MGM, Caesars File SEC Disclosures on Cybersecurity Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-sec-disclosures-cybersecurity-incidents)
+- [Cybercriminals Use Webex Brand to Target Corporate Users](https://www.darkreading.com/endpoint/cybercriminals-webex-brand-corporate-users)
 - [Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor](https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor)
 - [Stealer Thugs Behind RedLine &amp; Vidar Pivot to Ransomware](https://www.darkreading.com/endpoint/stealer-thugs-behind-redline-vidar-pivot-ransomware)
 - [How to Transform Security Awareness Into Security Culture](https://www.darkreading.com/vulnerabilities-threats/how-to-transform-security-awareness-into-security-culture)
 - [Mideast Retailers Dogged by Scam Facebook Pages Offering &#39;Investment&#39; Opportunities](https://www.darkreading.com/dr-global/mideast-retailers-scam-facebook-pages-investment-opportunities)
 - [Cybersecurity and Compliance in the Age of AI](https://www.darkreading.com/risk/cybersecurity-and-compliance-in-the-age-of-ai)
 - [Professional Sports: The Next Frontier of Cybersecurity?](https://www.darkreading.com/microsoft/are-professional-sports-the-next-frontier-of-cybersecurity-)
-- [&#39;Scattered Spider&#39; Behind MGM Cyberattack, Targets Casinos](https://www.darkreading.com/attacks-breaches/-scattered-spider-mgm-cyberattack-casinos)
-- [Claroty Unveils Vulnerability &amp; Risk Management Capabilities to Elevate Risk Reduction for Cyber-Physical Systems](https://www.darkreading.com/ics-ot/claroty-unveils-vulnerability-risk-management-capabilities-to-elevate-risk-reduction-for-cyber-physical-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
