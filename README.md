@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoD: China&#39;s ICS Cyber Onslaught Aimed at Gaining Kinetic Warfare Advantage](https://www.darkreading.com/threat-intelligence/dod-china-ics-cyber-onslaught-kinetic-warfare-advantage)
+- [Microsoft Flushes Out &#39;Ncurses&#39; Gremlins](https://www.darkreading.com/application-security/microsoft-flushes-out-ncurses-gremlins)
 - [Enea Qosmos Threat Detection SDK Launched to Boost the Performance of Network-Based Cybersecurity](https://www.darkreading.com/perimeter/enea-qosmos-threat-detection-sdk-launched-to-boost-the-performance-of-network-based-cybersecurity)
 - [CISO Global Deepens Capabilities With Integrated Threat Intelligence Feed](https://www.darkreading.com/threat-intelligence/ciso-global-deepens-capabilities-with-integrated-threat-intelligence-feed)
 - [Armis Launches Armis Centrix™, the AI-powered Cyber Exposure Management Platform](https://www.darkreading.com/operations/armis-launches-armis-centrix-the-ai-powered-cyber-exposure-management-platform)
 - [Why Shared Fate is a Better Way to Manage Cloud Risk](https://www.darkreading.com/google-cloud-security/why-shared-fate-is-a-better-way-to-manage-cloud-risk)
-- [Okta Flaw Involved in MGM Resorts Breach, Attackers Claim](https://www.darkreading.com/application-security/okta-flaw-involved-mgm-resorts-breach-attackers-claim)
+- [Okta Agent Involved in MGM Resorts Breach, Attackers Claim](https://www.darkreading.com/application-security/okta-flaw-involved-mgm-resorts-breach-attackers-claim)
 - [Greater Manchester Police Hack Follows Third-Party Supplier Fumble](https://www.darkreading.com/endpoint/greater-manchester-police-hack-third-party-supplier-fumble)
-- [Microsoft: &#39;Peach Sandstorm&#39; Cyberattacks Target Defense, Pharmaceutical Orgs](https://www.darkreading.com/application-security/microsoft-peach-sandstorm-cyberattacks-target-defense-pharmaceutical-orgs)
-- [NCSC: Why Cyber Extortion Attacks No Longer Require Ransomware](https://www.darkreading.com/dr-global/ncsc-why-cyber-extortion-attacks-no-longer-require-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
