@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NCSC: Why Cyber Extortion Attacks No Longer Require Ransomware](https://www.darkreading.com/dr-global/ncsc-why-cyber-extortion-attacks-no-longer-require-ransomware)
 - [How to Mitigate Cybersecurity Risks From Misguided Trust](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-cybersecurity-risks-from-misguided-trust)
 - [Why Identity Management Is the Key to Stopping APT Cyberattacks](https://www.darkreading.com/edge/why-identity-management-key-stopping-apt-cyberattacks)
 - [Microsoft Teams Hacks Are Back, as Storm-0324 Embraces TeamsPhisher](https://www.darkreading.com/application-security/microsoft-teams-hacks-storm-0324-teamsphisher)
@@ -83,7 +84,6 @@
 - [MGM, Caesars File SEC Disclosures on Cybersecurity Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-sec-disclosures-cybersecurity-incidents)
 - [Cybercriminals Use Webex Brand to Target Corporate Users](https://www.darkreading.com/endpoint/cybercriminals-webex-brand-corporate-users)
 - [Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor](https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor)
-- [Stealer Thugs Behind RedLine &amp; Vidar Pivot to Ransomware](https://www.darkreading.com/endpoint/stealer-thugs-behind-redline-vidar-pivot-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
