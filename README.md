@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: &#39;Peach Sandstorm&#39; Cyberattacks Target Defense, Pharmaceutical Orgs](https://www.darkreading.com/application-security/microsoft-peach-sandstorm-cyberattacks-target-defense-pharmaceutical-orgs)
 - [NCSC: Why Cyber Extortion Attacks No Longer Require Ransomware](https://www.darkreading.com/dr-global/ncsc-why-cyber-extortion-attacks-no-longer-require-ransomware)
 - [How to Mitigate Cybersecurity Risks From Misguided Trust](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-cybersecurity-risks-from-misguided-trust)
 - [Why Identity Management Is the Key to Stopping APT Cyberattacks](https://www.darkreading.com/edge/why-identity-management-key-stopping-apt-cyberattacks)
@@ -83,7 +84,6 @@
 - [Zero-Click iPhone Exploit Drops Pegasus Spyware on Exiled Russian Journalist](https://www.darkreading.com/mobile/nation-state-actor-used-0-click-exploit-to-drop-pegasus-spyware-on-russian-journalist-s-iphone)
 - [MGM, Caesars File SEC Disclosures on Cybersecurity Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-sec-disclosures-cybersecurity-incidents)
 - [Cybercriminals Use Webex Brand to Target Corporate Users](https://www.darkreading.com/endpoint/cybercriminals-webex-brand-corporate-users)
-- [Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor](https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
