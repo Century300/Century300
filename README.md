@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Mitigate Cybersecurity Risks From Misguided Trust](https://www.darkreading.com/vulnerabilities-threats/how-to-mitigate-cybersecurity-risks-from-misguided-trust)
 - [Why Identity Management Is the Key to Stopping APT Cyberattacks](https://www.darkreading.com/edge/why-identity-management-key-stopping-apt-cyberattacks)
 - [Microsoft Teams Hacks Are Back, as Storm-0324 Embraces TeamsPhisher](https://www.darkreading.com/application-security/microsoft-teams-hacks-storm-0324-teamsphisher)
 - [Zero-Click iPhone Exploit Drops Pegasus Spyware on Exiled Russian Journalist](https://www.darkreading.com/mobile/nation-state-actor-used-0-click-exploit-to-drop-pegasus-spyware-on-russian-journalist-s-iphone)
@@ -83,7 +84,6 @@
 - [Cybercriminals Use Webex Brand to Target Corporate Users](https://www.darkreading.com/endpoint/cybercriminals-webex-brand-corporate-users)
 - [Cuba Ransomware Gang Continues to Evolve With Dangerous Backdoor](https://www.darkreading.com/endpoint/cuba-ransomware-gang-evolve-backdoor)
 - [Stealer Thugs Behind RedLine &amp; Vidar Pivot to Ransomware](https://www.darkreading.com/endpoint/stealer-thugs-behind-redline-vidar-pivot-ransomware)
-- [How to Transform Security Awareness Into Security Culture](https://www.darkreading.com/vulnerabilities-threats/how-to-transform-security-awareness-into-security-culture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
