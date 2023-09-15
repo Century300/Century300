@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Why Identity Management Is the Key to Stopping APT Cyberattacks](https://www.darkreading.com/edge/why-identity-management-key-stopping-apt-cyberattacks)
-- [Microsoft Teams Hacks Are Back, As Storm-0324 Embraces TeamsPhisher](https://www.darkreading.com/application-security/microsoft-teams-hacks-storm-0324-teamsphisher)
+- [Microsoft Teams Hacks Are Back, as Storm-0324 Embraces TeamsPhisher](https://www.darkreading.com/application-security/microsoft-teams-hacks-storm-0324-teamsphisher)
 - [Zero-Click iPhone Exploit Drops Pegasus Spyware on Exiled Russian Journalist](https://www.darkreading.com/mobile/nation-state-actor-used-0-click-exploit-to-drop-pegasus-spyware-on-russian-journalist-s-iphone)
 - [MGM, Caesars File SEC Disclosures on Cybersecurity Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-sec-disclosures-cybersecurity-incidents)
 - [Cybercriminals Use Webex Brand to Target Corporate Users](https://www.darkreading.com/endpoint/cybercriminals-webex-brand-corporate-users)
