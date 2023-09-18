@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Supporting Africa&#39;s Cybersecurity Talent Makes the World Safer](https://www.darkreading.com/dr-global/supporting-africa-cybersecurity-talent-makes-world-safer)
-- [AI in Software Development: The Good, the Bad, and the Dangerous](https://www.darkreading.com/application-security/ai-in-software-development-the-good-the-bad-and-the-dangerous)
 - [Evaluating New Partners and Vendors From an Identity Security Perspective](https://www.darkreading.com/risk/evaluating-new-partners-and-vendors-from-an-identity-security-perspective)
+- [AI in Software Development: The Good, the Bad, and the Dangerous](https://www.darkreading.com/application-security/ai-in-software-development-the-good-the-bad-and-the-dangerous)
 - [DoD: China&#39;s ICS Cyber Onslaught Aimed at Gaining Kinetic Warfare Advantage](https://www.darkreading.com/threat-intelligence/dod-china-ics-cyber-onslaught-kinetic-warfare-advantage)
 - [Microsoft Flushes Out &#39;Ncurses&#39; Gremlins](https://www.darkreading.com/application-security/microsoft-flushes-out-ncurses-gremlins)
 - [Enea Qosmos Threat Detection SDK Launched to Boost the Performance of Network-Based Cybersecurity](https://www.darkreading.com/perimeter/enea-qosmos-threat-detection-sdk-launched-to-boost-the-performance-of-network-based-cybersecurity)
 - [CISO Global Deepens Capabilities With Integrated Threat Intelligence Feed](https://www.darkreading.com/threat-intelligence/ciso-global-deepens-capabilities-with-integrated-threat-intelligence-feed)
-- [Why Shared Fate is a Better Way to Manage Cloud Risk](https://www.darkreading.com/google-cloud-security/why-shared-fate-is-a-better-way-to-manage-cloud-risk)
+- [Armis Launches Armis Centrix™, the AI-powered Cyber Exposure Management Platform](https://www.darkreading.com/operations/armis-launches-armis-centrix-the-ai-powered-cyber-exposure-management-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
