@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Omdia Research Finds Risk-based Vulnerability Management Set to Encompass the Vulnerability Management Market by 2027](https://www.darkreading.com/vulnerabilities-threats/omdia-research-finds-risk-based-vulnerability-management-set-to-encompass-the-vulnerability-management-market-by-2027)
+- [Niagara Networks and Scope Middle East Announce Strategic VAD Partnership](https://www.darkreading.com/dr-global/niagara-networks-and-scope-middle-east-announce-strategic-vad-partnership)
+- [Omdia Research Finds Risk-Based Vulnerability Management Set to Encompass the Vulnerability Management Market by 2027](https://www.darkreading.com/vulnerabilities-threats/omdia-research-finds-risk-based-vulnerability-management-set-to-encompass-the-vulnerability-management-market-by-2027)
 - [Payment Card-Skimming Campaign Now Targeting Websites in North America](https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america)
 - [Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links](https://www.darkreading.com/cloud/microsoft-azure-data-leak-exposes-dangers-of-file-sharing-links)
 - [Security Conferences Keep Us Honest](https://www.darkreading.com/edge-articles/security-conferences-keep-us-honest)
 - [LockBit Is Using RMMs to Spread Its Ransomware](https://www.darkreading.com/threat-intelligence/lockbit-using-rmms-spread-ransomware)
 - [Companies Explore Ways to Safeguard Data in the Age of LLMs](https://www.darkreading.com/dr-tech/companies-explore-ways-to-safeguard-data-in-the-age-of-llms)
 - [How to Get Your Board on Board With Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/how-to-get-your-board-on-board-with-cybersecurity)
-- [Dragos Raises $74M in Latest Funding Round](https://www.darkreading.com/ics-ot/dragos-raises-74m-in-latest-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
