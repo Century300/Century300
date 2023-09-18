@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Companies Explore Ways to Safeguard Data in the Age of LLMs](https://www.darkreading.com/dr-tech/companies-explore-ways-to-safeguard-data-in-the-age-of-llms)
 - [How to Get Your Board on Board With Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/how-to-get-your-board-on-board-with-cybersecurity)
 - [Dragos Raises $74M in Latest Funding Round](https://www.darkreading.com/ics-ot/dragos-raises-74m-in-latest-funding-round)
 - [A Playbook for Bridging Africa&#39;s Cybersecurity Skills Shortage](https://www.darkreading.com/dr-global/playbook-for-bridging-africas-cybersecurity-skills-shortage)
 - [Supporting Africa&#39;s Cybersecurity Talent Makes the World Safer](https://www.darkreading.com/dr-global/supporting-africa-cybersecurity-talent-makes-world-safer)
-- [Evaluating New Partners and Vendors From an Identity Security Perspective](https://www.darkreading.com/risk/evaluating-new-partners-and-vendors-from-an-identity-security-perspective)
 - [AI in Software Development: The Good, the Bad, and the Dangerous](https://www.darkreading.com/application-security/ai-in-software-development-the-good-the-bad-and-the-dangerous)
+- [Evaluating New Partners and Vendors From an Identity Security Perspective](https://www.darkreading.com/risk/evaluating-new-partners-and-vendors-from-an-identity-security-perspective)
 - [DoD: China&#39;s ICS Cyber Onslaught Aimed at Gaining Kinetic Warfare Advantage](https://www.darkreading.com/threat-intelligence/dod-china-ics-cyber-onslaught-kinetic-warfare-advantage)
-- [Microsoft Flushes Out &#39;Ncurses&#39; Gremlins](https://www.darkreading.com/application-security/microsoft-flushes-out-ncurses-gremlins)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
