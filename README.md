@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CapraRAT Impersonates YouTube to Hijack Android Devices](https://www.darkreading.com/endpoint/caprarat-impersonates-youtube-hijack-android-devices)
 - [Engineering-Grade OT Protection](https://www.darkreading.com/ics-ot/engineering-grade-ot-protection)
 - [&#39;ShroudedSnooper&#39; Backdoors Use Ultra-Stealth in Mideast Telecom Attacks](https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks)
 - [Niagara Networks and Scope Middle East Announce Strategic VAD Partnership](https://www.darkreading.com/dr-global/niagara-networks-and-scope-middle-east-announce-strategic-vad-partnership)
@@ -83,7 +84,6 @@
 - [Payment Card-Skimming Campaign Now Targeting Websites in North America](https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america)
 - [Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links](https://www.darkreading.com/cloud/microsoft-azure-data-leak-exposes-dangers-of-file-sharing-links)
 - [Security Conferences Keep Us Honest](https://www.darkreading.com/edge-articles/security-conferences-keep-us-honest)
-- [LockBit Is Using RMMs to Spread Its Ransomware](https://www.darkreading.com/threat-intelligence/lockbit-using-rmms-spread-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
