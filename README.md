@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MGM, Caesars Face Regulatory, Legal Maze After Cyber Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-regulatory-legal-maze-cyber-incidents)
 - [Qatar Cyber Chiefs Warn on Mozilla RCE Bugs](https://www.darkreading.com/dr-global/qatar-cyber-chiefs-warn-mozilla-rce-bugs)
 - [Name That Toon: Somewhere in Sleepy Hollow](https://www.darkreading.com/application-security/name-that-toon-somewhere-in-sleepy-hollow)
 - [Clorox Sees Product Shortages Amid Cyberattack Cleanup](https://www.darkreading.com/ics-ot/clorox-sees-product-shortages-amid-cyberattack-cleanup)
@@ -83,7 +84,6 @@
 - [Engineering-Grade OT Protection](https://www.darkreading.com/ics-ot/engineering-grade-ot-protection)
 - [&#39;ShroudedSnooper&#39; Backdoors Use Ultra-Stealth in Mideast Telecom Attacks](https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks)
 - [Niagara Networks and Scope Middle East Announce Strategic VAD Partnership](https://www.darkreading.com/dr-global/niagara-networks-and-scope-middle-east-announce-strategic-vad-partnership)
-- [Omdia Research Finds Risk-Based Vulnerability Management Set to Encompass the Vulnerability Management Market by 2027](https://www.darkreading.com/vulnerabilities-threats/omdia-research-finds-risk-based-vulnerability-management-set-to-encompass-the-vulnerability-management-market-by-2027)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
