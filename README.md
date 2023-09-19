@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Linked Actor Taps Linux Backdoor in Forceful Espionage Campaign](https://www.darkreading.com/attacks-breaches/china-linked-actor-taps-linux-backdoor-in-forceful-espionage-campaign)
 - [Trend Micro Patches Zero-Day Endpoint Vulnerability](https://www.darkreading.com/endpoint/trend-micro-patches-zero-day-endpoint-vulnerability)
 - [MGM, Caesars Face Regulatory, Legal Maze After Cyber Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-regulatory-legal-maze-cyber-incidents)
 - [Qatar Cyber Chiefs Warn on Mozilla RCE Bugs](https://www.darkreading.com/dr-global/qatar-cyber-chiefs-warn-mozilla-rce-bugs)
@@ -83,7 +84,6 @@
 - [Clorox Sees Product Shortages Amid Cyberattack Cleanup](https://www.darkreading.com/ics-ot/clorox-sees-product-shortages-amid-cyberattack-cleanup)
 - [CapraRAT Impersonates YouTube to Hijack Android Devices](https://www.darkreading.com/endpoint/caprarat-impersonates-youtube-hijack-android-devices)
 - [Engineering-Grade OT Protection](https://www.darkreading.com/ics-ot/engineering-grade-ot-protection)
-- [&#39;ShroudedSnooper&#39; Backdoors Use Ultra-Stealth in Mideast Telecom Attacks](https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
