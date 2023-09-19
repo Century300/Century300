@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Somewhere in Sleepy Hollow](https://www.darkreading.com/application-security/name-that-toon-somewhere-in-sleepy-hollow)
+- [Clorox Sees Product Shortages Amid Cyberattack Cleanup](https://www.darkreading.com/ics-ot/clorox-sees-product-shortages-amid-cyberattack-cleanup)
 - [CapraRAT Impersonates YouTube to Hijack Android Devices](https://www.darkreading.com/endpoint/caprarat-impersonates-youtube-hijack-android-devices)
 - [Engineering-Grade OT Protection](https://www.darkreading.com/ics-ot/engineering-grade-ot-protection)
 - [&#39;ShroudedSnooper&#39; Backdoors Use Ultra-Stealth in Mideast Telecom Attacks](https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks)
 - [Niagara Networks and Scope Middle East Announce Strategic VAD Partnership](https://www.darkreading.com/dr-global/niagara-networks-and-scope-middle-east-announce-strategic-vad-partnership)
 - [Omdia Research Finds Risk-Based Vulnerability Management Set to Encompass the Vulnerability Management Market by 2027](https://www.darkreading.com/vulnerabilities-threats/omdia-research-finds-risk-based-vulnerability-management-set-to-encompass-the-vulnerability-management-market-by-2027)
 - [Payment Card-Skimming Campaign Now Targeting Websites in North America](https://www.darkreading.com/attacks-breaches/payment-card-skimming-campaign-now-targeting-websites-in-north-america)
-- [Microsoft Azure Data Leak Exposes Dangers of File-Sharing Links](https://www.darkreading.com/cloud/microsoft-azure-data-leak-exposes-dangers-of-file-sharing-links)
-- [Security Conferences Keep Us Honest](https://www.darkreading.com/edge-articles/security-conferences-keep-us-honest)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
