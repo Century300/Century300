@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trend Micro Patches Zero-Day Endpoint Vulnerability](https://www.darkreading.com/endpoint/trend-micro-patches-zero-day-endpoint-vulnerability)
 - [MGM, Caesars Face Regulatory, Legal Maze After Cyber Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-regulatory-legal-maze-cyber-incidents)
 - [Qatar Cyber Chiefs Warn on Mozilla RCE Bugs](https://www.darkreading.com/dr-global/qatar-cyber-chiefs-warn-mozilla-rce-bugs)
 - [Name That Toon: Somewhere in Sleepy Hollow](https://www.darkreading.com/application-security/name-that-toon-somewhere-in-sleepy-hollow)
@@ -83,7 +84,6 @@
 - [CapraRAT Impersonates YouTube to Hijack Android Devices](https://www.darkreading.com/endpoint/caprarat-impersonates-youtube-hijack-android-devices)
 - [Engineering-Grade OT Protection](https://www.darkreading.com/ics-ot/engineering-grade-ot-protection)
 - [&#39;ShroudedSnooper&#39; Backdoors Use Ultra-Stealth in Mideast Telecom Attacks](https://www.darkreading.com/dr-global/shroudedsnooper-backdoors-ultra-stealth-mideast-telecom-attacks)
-- [Niagara Networks and Scope Middle East Announce Strategic VAD Partnership](https://www.darkreading.com/dr-global/niagara-networks-and-scope-middle-east-announce-strategic-vad-partnership)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
