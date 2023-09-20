@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake WinRAR PoC Exploit Conceals VenomRAT Malware](https://www.darkreading.com/application-security/fake-winrar-poc-exploit-conceals-venomrat-malware)
+- [FBI, CISA Issue Joint Warning on &#39;Snatch&#39; Ransomware-as-a-Service](https://www.darkreading.com/attacks-breaches/fbi-cisa-issue-joint-warning-on-snatch-ransomware-as-a-service)
 - [Dig Security Enhances DSPM Platform to Secure Enterprise Data in On-Prem, File-Share Environments](https://www.darkreading.com/cloud/dig-security-enhances-dspm-platform-to-secure-enterprise-data-in-on-prem-file-share-environments)
 - [OneLayer Expands Its Private Cellular Network Security Solutions to Operations and Asset Management](https://www.darkreading.com/endpoint/onelayer-expands-its-private-cellular-network-security-solutions-to-operations-and-asset-management)
-- [Bishop Fox Expands Leadership With First CISO and CTO](https://www.darkreading.com/careers-and-people/bishop-fox-expands-leadership-with-first-ciso-and-cto)
 - [83% of IT Security Professionals Say Burnout Causes Data Breaches](https://www.darkreading.com/attacks-breaches/83-of-it-security-professionals-say-burnout-causes-data-breaches-)
+- [Bishop Fox Expands Leadership With First CISO and CTO](https://www.darkreading.com/careers-and-people/bishop-fox-expands-leadership-with-first-ciso-and-cto)
 - [International Criminal Court Suffers Cyberattack](https://www.darkreading.com/attacks-breaches/international-criminal-court-faces-cyber-intrusion-launches-investigation)
 - [How Choosing Authentication Is a Business-Critical Decision](https://www.darkreading.com/endpoint/how-choosing-authentication-is-a-business-critical-decision)
-- [&#39;Culturestreak&#39; Malware Lurks Inside GitLab Python Package](https://www.darkreading.com/attacks-breaches/culturestreak-malware-lurks-gitlab-python-package)
-- [Changing Role of the CISO: A Holistic Approach Drives the Future](https://www.darkreading.com/risk/changing-role-ciso-holistic-approach-drives-the-future)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
