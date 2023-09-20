@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dig Security Enhances DSPM Platform to Secure Enterprise Data in On-Prem, File-Share Environments](https://www.darkreading.com/cloud/dig-security-enhances-dspm-platform-to-secure-enterprise-data-in-on-prem-file-share-environments)
+- [OneLayer Expands Its Private Cellular Network Security Solutions to Operations and Asset Management](https://www.darkreading.com/endpoint/onelayer-expands-its-private-cellular-network-security-solutions-to-operations-and-asset-management)
+- [Bishop Fox Expands Leadership With First CISO and CTO](https://www.darkreading.com/careers-and-people/bishop-fox-expands-leadership-with-first-ciso-and-cto)
+- [83% of IT Security Professionals Say Burnout Causes Data Breaches](https://www.darkreading.com/attacks-breaches/83-of-it-security-professionals-say-burnout-causes-data-breaches-)
 - [International Criminal Court Suffers Cyberattack](https://www.darkreading.com/attacks-breaches/international-criminal-court-faces-cyber-intrusion-launches-investigation)
 - [How Choosing Authentication Is a Business-Critical Decision](https://www.darkreading.com/endpoint/how-choosing-authentication-is-a-business-critical-decision)
 - [&#39;Culturestreak&#39; Malware Lurks Inside GitLab Python Package](https://www.darkreading.com/attacks-breaches/culturestreak-malware-lurks-gitlab-python-package)
 - [Changing Role of the CISO: A Holistic Approach Drives the Future](https://www.darkreading.com/risk/changing-role-ciso-holistic-approach-drives-the-future)
-- [Pro-Iranian Attackers Target Israeli Railroad Network](https://www.darkreading.com/dr-global/pro-iranian-attackers-target-israeli-railroad-network)
-- [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://www.darkreading.com/endpoint/how-to-interpret-the-2023-mitre-att-ck-evaluation-results)
-- [Companies Rely on Multiple Methods to Secure Generative AI Tools](https://www.darkreading.com/tech-talks/companies-rely-multiple-methods-secure-generative-ai)
-- [China-Linked Actor Taps Linux Backdoor in Forceful Espionage Campaign](https://www.darkreading.com/attacks-breaches/china-linked-actor-taps-linux-backdoor-in-forceful-espionage-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
