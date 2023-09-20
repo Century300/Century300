@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Choosing Authentication Is a Business-Critical Decision](https://www.darkreading.com/endpoint/how-choosing-authentication-is-a-business-critical-decision)
 - [&#39;Culturestreak&#39; Malware Lurks Inside GitLab Python Package](https://www.darkreading.com/attacks-breaches/culturestreak-malware-lurks-gitlab-python-package)
 - [Changing Role of the CISO: A Holistic Approach Drives the Future](https://www.darkreading.com/risk/changing-role-ciso-holistic-approach-drives-the-future)
 - [Pro-Iranian Attackers Target Israeli Railroad Network](https://www.darkreading.com/dr-global/pro-iranian-attackers-target-israeli-railroad-network)
@@ -83,7 +84,6 @@
 - [Companies Rely on Multiple Methods to Secure Generative AI Tools](https://www.darkreading.com/tech-talks/companies-rely-multiple-methods-secure-generative-ai)
 - [China-Linked Actor Taps Linux Backdoor in Forceful Espionage Campaign](https://www.darkreading.com/attacks-breaches/china-linked-actor-taps-linux-backdoor-in-forceful-espionage-campaign)
 - [Trend Micro Patches Zero-Day Endpoint Vulnerability](https://www.darkreading.com/endpoint/trend-micro-patches-zero-day-endpoint-vulnerability)
-- [MGM, Caesars Face Regulatory, Legal Maze After Cyber Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-regulatory-legal-maze-cyber-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
