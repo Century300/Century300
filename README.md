@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Culturestreak&#39; Malware Lurks Inside GitLab Python Package](https://www.darkreading.com/attacks-breaches/culturestreak-malware-lurks-gitlab-python-package)
 - [Changing Role of the CISO: A Holistic Approach Drives the Future](https://www.darkreading.com/risk/changing-role-ciso-holistic-approach-drives-the-future)
 - [Pro-Iranian Attackers Target Israeli Railroad Network](https://www.darkreading.com/dr-global/pro-iranian-attackers-target-israeli-railroad-network)
+- [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://www.darkreading.com/endpoint/how-to-interpret-the-2023-mitre-att-ck-evaluation-results)
 - [Companies Rely on Multiple Methods to Secure Generative AI Tools](https://www.darkreading.com/tech-talks/companies-rely-multiple-methods-secure-generative-ai)
 - [China-Linked Actor Taps Linux Backdoor in Forceful Espionage Campaign](https://www.darkreading.com/attacks-breaches/china-linked-actor-taps-linux-backdoor-in-forceful-espionage-campaign)
 - [Trend Micro Patches Zero-Day Endpoint Vulnerability](https://www.darkreading.com/endpoint/trend-micro-patches-zero-day-endpoint-vulnerability)
 - [MGM, Caesars Face Regulatory, Legal Maze After Cyber Incidents](https://www.darkreading.com/attacks-breaches/mgm-caesars-regulatory-legal-maze-cyber-incidents)
-- [Qatar Cyber Chiefs Warn on Mozilla RCE Bugs](https://www.darkreading.com/dr-global/qatar-cyber-chiefs-warn-mozilla-rce-bugs)
-- [Name That Toon: Somewhere in Sleepy Hollow](https://www.darkreading.com/application-security/name-that-toon-somewhere-in-sleepy-hollow)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
