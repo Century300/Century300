@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [International Criminal Court Suffers Cyberattack](https://www.darkreading.com/attacks-breaches/international-criminal-court-faces-cyber-intrusion-launches-investigation)
 - [How Choosing Authentication Is a Business-Critical Decision](https://www.darkreading.com/endpoint/how-choosing-authentication-is-a-business-critical-decision)
 - [&#39;Culturestreak&#39; Malware Lurks Inside GitLab Python Package](https://www.darkreading.com/attacks-breaches/culturestreak-malware-lurks-gitlab-python-package)
 - [Changing Role of the CISO: A Holistic Approach Drives the Future](https://www.darkreading.com/risk/changing-role-ciso-holistic-approach-drives-the-future)
@@ -83,7 +84,6 @@
 - [How to Interpret the 2023 MITRE ATT&amp;CK Evaluation Results](https://www.darkreading.com/endpoint/how-to-interpret-the-2023-mitre-att-ck-evaluation-results)
 - [Companies Rely on Multiple Methods to Secure Generative AI Tools](https://www.darkreading.com/tech-talks/companies-rely-multiple-methods-secure-generative-ai)
 - [China-Linked Actor Taps Linux Backdoor in Forceful Espionage Campaign](https://www.darkreading.com/attacks-breaches/china-linked-actor-taps-linux-backdoor-in-forceful-espionage-campaign)
-- [Trend Micro Patches Zero-Day Endpoint Vulnerability](https://www.darkreading.com/endpoint/trend-micro-patches-zero-day-endpoint-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
