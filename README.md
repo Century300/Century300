@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [T-Mobile Racks Up Third Consumer Data Exposure of 2023](https://www.darkreading.com/application-security/t-mobile-third-consumer-data-exposure-2023)
 - [MGM Restores Casino Operations 10 Days After Cyberattack](https://www.darkreading.com/endpoint/mgm-restores-casino-operations-10-days-after-cyberattack)
 - [Mastering Defense-In-Depth and Data Security in the Cloud Era](https://www.darkreading.com/cloud/mastering-defense-in-depth-and-data-security-in-the-cloud-era)
 - [Growing Chinese Tech Influence in Africa Spurs &#39;Soft Power&#39; Concerns](https://www.darkreading.com/dr-global/chinese-tech-influence-africa-soft-power-concerns)
@@ -83,7 +84,6 @@
 - [Hikvision Intercoms Allow Snooping on Neighbors](https://www.darkreading.com/iot/hikvision-intercoms-snooping-neighbors)
 - [Understanding the Differences Between On-Premises and Cloud Cybersecurity](https://www.darkreading.com/cloud/understanding-the-differences-between-on-premises-and-cloud-cybersecurity)
 - [Will Generative AI Kill the Nigerian Prince Scam?](https://www.darkreading.com/edge/will-generative-ai-kill-nigerian-prince-scam)
-- [GitLab Users Advised to Update Against Critical Flaw Immediately](https://www.darkreading.com/application-security/gitlab-users-advised-to-patch-critical-flaw-immediately)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
