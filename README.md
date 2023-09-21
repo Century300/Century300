@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Does Socrates Have to Do With CPM?](https://www.darkreading.com/edge-ask-the-experts/what-does-socrates-have-to-do-with-cpm-)
+- [Salvador Technologies Wins Funding for $2.2M Cybersecurity Project From BIRD Foundation](https://www.darkreading.com/ics-ot/salvador-technologies-wins-funding-for-2-2m-cybersecurity-project-from-bird-foundation)
 - [&#39;Gold Melody&#39; Access Broker Plays on Unpatched Servers&#39; Strings](https://www.darkreading.com/threat-intelligence/-gold-melody-access-broker-unpatched-servers)
 - [OPSWAT-Sponsored SANS 2023 ICS/OT Cybersecurity Report Reveals Vital Priorities to Mitigate Ongoing Threats](https://www.darkreading.com/ics-ot/-opswat-sponsored-sans-2023-ics-ot-cybersecurity-report-reveals-vital-priorities-to-mitigate-ongoing-threats)
 - [T-Mobile Racks Up Third Consumer Data Exposure of 2023](https://www.darkreading.com/application-security/t-mobile-third-consumer-data-exposure-2023)
 - [MGM Restores Casino Operations 10 Days After Cyberattack](https://www.darkreading.com/endpoint/mgm-restores-casino-operations-10-days-after-cyberattack)
-- [Growing Chinese Tech Influence in Africa Spurs &#39;Soft Power&#39; Concerns](https://www.darkreading.com/dr-global/chinese-tech-influence-africa-soft-power-concerns)
 - [Mastering Defense-In-Depth and Data Security in the Cloud Era](https://www.darkreading.com/cloud/mastering-defense-in-depth-and-data-security-in-the-cloud-era)
-- [BBTok Banking Trojan Impersonates 40+ Banks to Hijack Victim Accounts](https://www.darkreading.com/endpoint/bbtok-banking-trojan-impersonates-40-banks-to-hijack-victim-accounts)
-- [Hikvision Intercoms Allow Snooping on Neighbors](https://www.darkreading.com/iot/hikvision-intercoms-snooping-neighbors)
+- [Growing Chinese Tech Influence in Africa Spurs &#39;Soft Power&#39; Concerns](https://www.darkreading.com/dr-global/chinese-tech-influence-africa-soft-power-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
