@@ -78,11 +78,11 @@
 <!-- DARKREADING:START -->
 - [Will Generative AI Kill the Nigerian Prince Scam?](https://www.darkreading.com/edge/will-generative-ai-kill-nigerian-prince-scam)
 - [GitLab Users Advised to Update Against Critical Flaw Immediately](https://www.darkreading.com/application-security/gitlab-users-advised-to-patch-critical-flaw-immediately)
+- [Yubico Goes Public](https://www.darkreading.com/dr-tech/yubico-goes-public)
 - [Fake WinRAR PoC Exploit Conceals VenomRAT Malware](https://www.darkreading.com/application-security/fake-winrar-poc-exploit-conceals-venomrat-malware)
 - [FBI, CISA Issue Joint Warning on &#39;Snatch&#39; Ransomware-as-a-Service](https://www.darkreading.com/attacks-breaches/fbi-cisa-issue-joint-warning-on-snatch-ransomware-as-a-service)
 - [Dig Security Enhances DSPM Platform to Secure Enterprise Data in On-Prem, File-Share Environments](https://www.darkreading.com/cloud/dig-security-enhances-dspm-platform-to-secure-enterprise-data-in-on-prem-file-share-environments)
 - [OneLayer Expands Its Private Cellular Network Security Solutions to Operations and Asset Management](https://www.darkreading.com/endpoint/onelayer-expands-its-private-cellular-network-security-solutions-to-operations-and-asset-management)
-- [83% of IT Security Professionals Say Burnout Causes Data Breaches](https://www.darkreading.com/attacks-breaches/83-of-it-security-professionals-say-burnout-causes-data-breaches-)
 - [Bishop Fox Expands Leadership With First CISO and CTO](https://www.darkreading.com/careers-and-people/bishop-fox-expands-leadership-with-first-ciso-and-cto)
 <!-- DARKREADING:END -->
 
