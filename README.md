@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mastering Defense-In-Depth and Data Security in the Cloud Era](https://www.darkreading.com/cloud/mastering-defense-in-depth-and-data-security-in-the-cloud-era)
+- [BBTok Banking Trojan Impersonates 40+ Banks to Hijack Victim Accounts](https://www.darkreading.com/endpoint/bbtok-banking-trojan-impersonates-40-banks-to-hijack-victim-accounts)
+- [Hikvision Intercoms Allow Snooping on Neighbors](https://www.darkreading.com/iot/hikvision-intercoms-snooping-neighbors)
 - [Understanding the Differences Between On-Premises and Cloud Cybersecurity](https://www.darkreading.com/cloud/understanding-the-differences-between-on-premises-and-cloud-cybersecurity)
 - [Will Generative AI Kill the Nigerian Prince Scam?](https://www.darkreading.com/edge/will-generative-ai-kill-nigerian-prince-scam)
 - [GitLab Users Advised to Update Against Critical Flaw Immediately](https://www.darkreading.com/application-security/gitlab-users-advised-to-patch-critical-flaw-immediately)
 - [Yubico Goes Public](https://www.darkreading.com/dr-tech/yubico-goes-public)
 - [Fake WinRAR PoC Exploit Conceals VenomRAT Malware](https://www.darkreading.com/application-security/fake-winrar-poc-exploit-conceals-venomrat-malware)
-- [FBI, CISA Issue Joint Warning on &#39;Snatch&#39; Ransomware-as-a-Service](https://www.darkreading.com/attacks-breaches/fbi-cisa-issue-joint-warning-on-snatch-ransomware-as-a-service)
-- [Dig Security Enhances DSPM Platform to Secure Enterprise Data in On-Prem, File-Share Environments](https://www.darkreading.com/cloud/dig-security-enhances-dspm-platform-to-secure-enterprise-data-in-on-prem-file-share-environments)
-- [OneLayer Expands Its Private Cellular Network Security Solutions to Operations and Asset Management](https://www.darkreading.com/endpoint/onelayer-expands-its-private-cellular-network-security-solutions-to-operations-and-asset-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
