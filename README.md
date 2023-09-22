@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cisco Moves into SIEM with $28B Deal to Acquire Splunk](https://www.darkreading.com/operations/cisco-moves-into-siem-with-28b-deal-to-acquire-splunk)
+- [Cisco Moves Into SIEM With $28B Deal to Acquire Splunk](https://www.darkreading.com/operations/cisco-moves-into-siem-with-28b-deal-to-acquire-splunk)
 - [Mysterious &#39;Sandman&#39; APT Targets Telecom Sector With Novel Backdoor](https://www.darkreading.com/attacks-breaches/mysterious-sandman-apt-targets-telecom-sector-with-novel-backdoor)
 - [What Does Socrates Have to Do With CPM?](https://www.darkreading.com/edge-ask-the-experts/what-does-socrates-have-to-do-with-cpm-)
 - [Salvador Technologies Wins Funding for $2.2M Cybersecurity Project From BIRD Foundation](https://www.darkreading.com/ics-ot/salvador-technologies-wins-funding-for-2-2m-cybersecurity-project-from-bird-foundation)
