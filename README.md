@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Guardians of the Cyberverse: Building a Resilient Security Culture](https://www.darkreading.com/vulnerabilities-threats/guardians-of-the-cyberverse-building-a-resilient-security-culture)
 - [Cisco Moves Into SIEM With $28B Deal to Acquire Splunk](https://www.darkreading.com/operations/cisco-moves-into-siem-with-28b-deal-to-acquire-splunk)
 - [Mysterious &#39;Sandman&#39; APT Targets Telecom Sector With Novel Backdoor](https://www.darkreading.com/attacks-breaches/mysterious-sandman-apt-targets-telecom-sector-with-novel-backdoor)
 - [What Does Socrates Have to Do With CPM?](https://www.darkreading.com/edge-ask-the-experts/what-does-socrates-have-to-do-with-cpm-)
@@ -83,7 +84,6 @@
 - [&#39;Gold Melody&#39; Access Broker Plays on Unpatched Servers&#39; Strings](https://www.darkreading.com/threat-intelligence/-gold-melody-access-broker-unpatched-servers)
 - [OPSWAT-Sponsored SANS 2023 ICS/OT Cybersecurity Report Reveals Vital Priorities to Mitigate Ongoing Threats](https://www.darkreading.com/ics-ot/-opswat-sponsored-sans-2023-ics-ot-cybersecurity-report-reveals-vital-priorities-to-mitigate-ongoing-threats)
 - [T-Mobile Racks Up Third Consumer Data Exposure of 2023](https://www.darkreading.com/application-security/t-mobile-third-consumer-data-exposure-2023)
-- [Secure Browser Tech Is Having a Moment](https://www.darkreading.com/dr-tech/secure-browser-tech-is-having-a-moment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
