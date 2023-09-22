@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [ASPM Is Good, But It&#39;s Not a Cure-All for App Security](https://www.darkreading.com/dr-tech/aspm-is-good-but-not-complete)
+- [TikTok API Rules Stymie Analysis of US User Data, Academics Say](https://www.darkreading.com/application-security/tiktok-api-rules-stymie-analysis-of-us-user-data-academics-warn)
 - [Hackers Let Loose on Voting Gear Ahead of US Election Season](https://www.darkreading.com/ics-ot/hackers-let-loose-voting-gear-us-election-season)
 - [Akira Ransomware Mutates to Target Linux Systems, Adds TTPs](https://www.darkreading.com/attacks-breaches/akira-ransomware-mutates-to-target-linux-systems-adds-ttps)
 - [NFL, CISA Look to Intercept Cyber Threats to Super Bowl LVIII](https://www.darkreading.com/ics-ot/nfl-cisa-intercept-cyber-threats-super-bowl-lviii)
 - [Apple Fixes 3 More Zero-Day Vulnerabilities](https://www.darkreading.com/application-security/apple-fixes-3-more-zero-day-vulnerabilities)
 - [MGM, Caesars Cyberattack Responses Required Brutal Choices](https://www.darkreading.com/application-security/mgm-caesars-incident-responses-required-brutal-choices)
 - [Bot Swarm: Attacks From Middle East &amp; Africa Are Notably Up](https://www.darkreading.com/dr-global/bot-attacks-from-middle-east-and-africa-increased-last-year)
-- [Guardians of the Cyberverse: Building a Resilient Security Culture](https://www.darkreading.com/vulnerabilities-threats/guardians-of-the-cyberverse-building-a-resilient-security-culture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
