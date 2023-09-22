@@ -82,8 +82,8 @@
 - [&#39;Gold Melody&#39; Access Broker Plays on Unpatched Servers&#39; Strings](https://www.darkreading.com/threat-intelligence/-gold-melody-access-broker-unpatched-servers)
 - [OPSWAT-Sponsored SANS 2023 ICS/OT Cybersecurity Report Reveals Vital Priorities to Mitigate Ongoing Threats](https://www.darkreading.com/ics-ot/-opswat-sponsored-sans-2023-ics-ot-cybersecurity-report-reveals-vital-priorities-to-mitigate-ongoing-threats)
 - [T-Mobile Racks Up Third Consumer Data Exposure of 2023](https://www.darkreading.com/application-security/t-mobile-third-consumer-data-exposure-2023)
+- [Secure Browser Tech Is Having a Moment](https://www.darkreading.com/dr-tech/secure-browser-tech-is-having-a-moment)
 - [MGM Restores Casino Operations 10 Days After Cyberattack](https://www.darkreading.com/endpoint/mgm-restores-casino-operations-10-days-after-cyberattack)
-- [Mastering Defense-In-Depth and Data Security in the Cloud Era](https://www.darkreading.com/cloud/mastering-defense-in-depth-and-data-security-in-the-cloud-era)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
