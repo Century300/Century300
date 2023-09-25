@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Don&#39;t Get Burned by CAPTCHAs: A Recipe for Accurate Bot Protection](https://www.darkreading.com/attacks-breaches/don-t-get-burned-by-captchas-a-recipe-for-accurate-bot-protection)
 - [ASPM Is Good, But It&#39;s Not a Cure-All for App Security](https://www.darkreading.com/dr-tech/aspm-is-good-but-not-complete)
 - [Recast Software Acquires Liquit, Consolidating the Endpoint and Application Management Markets](https://www.darkreading.com/endpoint/recast-software-acquires-liquit-consolidating-the-endpoint-and-application-management-markets)
 - [ClassLink Provides Cybersecurity Training Course to Help Schools Protect Public Directory Data](https://www.darkreading.com/operations/classlink-provides-new-cybersecurity-training-course-to-help-schools-protect-public-directory-data)
@@ -83,7 +84,6 @@
 - [Latest Acquisition Powers AI-based Network Detection and Response and Open XDR Capabilities for WatchGuard](https://www.darkreading.com/perimeter/latest-acquisition-powers-ai-based-network-detection-and-response-and-open-xdr-capabilities-for-watchguard)
 - [TikTok API Rules Stymie Analysis of US User Data, Academics Say](https://www.darkreading.com/application-security/tiktok-api-rules-stymie-analysis-of-us-user-data-academics-warn)
 - [Hackers Let Loose on Voting Gear Ahead of US Election Season](https://www.darkreading.com/ics-ot/hackers-let-loose-voting-gear-us-election-season)
-- [Akira Ransomware Mutates to Target Linux Systems, Adds TTPs](https://www.darkreading.com/attacks-breaches/akira-ransomware-mutates-to-target-linux-systems-adds-ttps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
