@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MOVEit Flaw Leads to 900 University Data Breaches](https://www.darkreading.com/application-security/moveit-flaw-900-university-data-breaches)
+- [UAE-Linked &#39;Stealth Falcon&#39; APT Mimics Microsoft in Homoglyph Attack](https://www.darkreading.com/dr-global/stealth-falcon-apt-microsoft-homoglyph-attack)
 - [The Hot Seat: CISO Accountability in a New Era of SEC Regulation](https://www.darkreading.com/risk/hot-seat-ciso-accountability-in-new-era-of-sec-regulation)
 - [Cyber Hygiene: A First Line of Defense Against Evolving Cyberattacks](https://www.darkreading.com/microsoft/cyber-hygiene-a-first-line-of-defense-against-evolving-cyber-attacks)
 - [Don&#39;t Get Burned by CAPTCHAs: A Recipe for Accurate Bot Protection](https://www.darkreading.com/attacks-breaches/don-t-get-burned-by-captchas-a-recipe-for-accurate-bot-protection)
 - [ASPM Is Good, but It&#39;s Not a Cure-All for App Security](https://www.darkreading.com/dr-tech/aspm-is-good-but-not-complete)
 - [Recast Software Acquires Liquit, Consolidating the Endpoint and Application Management Markets](https://www.darkreading.com/endpoint/recast-software-acquires-liquit-consolidating-the-endpoint-and-application-management-markets)
 - [ClassLink Provides Cybersecurity Training Course to Help Schools Protect Public Directory Data](https://www.darkreading.com/operations/classlink-provides-new-cybersecurity-training-course-to-help-schools-protect-public-directory-data)
-- [Wing Security Launches Compliance-Grade SaaS Security Solution for Just $1.5K](https://www.darkreading.com/application-security/-wing-security-launches-compliance-grade-saas-security-solution-for-just-1-5k)
-- [Latest Acquisition Powers AI-based Network Detection and Response and Open XDR Capabilities for WatchGuard](https://www.darkreading.com/perimeter/latest-acquisition-powers-ai-based-network-detection-and-response-and-open-xdr-capabilities-for-watchguard)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
