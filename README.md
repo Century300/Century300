@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chad Taps Huawei for Digital Modernization Project](https://www.darkreading.com/dr-global/chad-huawei-digital-modernization-project)
+- [Amidst MGM, Caesar&#39;s Incidents, Attackers Focus on Luxury Hotels](https://www.darkreading.com/cloud/mgm-caesars-incidents-attackers-luxury-hotels)
 - [Proactive Security: What It Means for Enterprise Security Strategy](https://www.darkreading.com/omdia/proactive-security-what-it-means-for-enterprise-security-strategy)
 - [When It Comes to Email Security, the Cloud You Pick Matters](https://www.darkreading.com/dr-tech/when-it-comes-to-email-security-the-cloud-you-pick-matters)
 - [Xenomorph Android Malware Targets Customers of 30 US Banks](https://www.darkreading.com/remote-workforce/xenomorph-android-malware-targets-customers-of-30-us-banks)
 - [MOVEit Flaw Leads to 900 University Data Breaches](https://www.darkreading.com/application-security/moveit-flaw-900-university-data-breaches)
 - [UAE-Linked &#39;Stealth Falcon&#39; APT Mimics Microsoft in Homoglyph Attack](https://www.darkreading.com/dr-global/stealth-falcon-apt-microsoft-homoglyph-attack)
 - [The Hot Seat: CISO Accountability in a New Era of SEC Regulation](https://www.darkreading.com/risk/hot-seat-ciso-accountability-in-new-era-of-sec-regulation)
-- [Cyber Hygiene: A First Line of Defense Against Evolving Cyberattacks](https://www.darkreading.com/microsoft/cyber-hygiene-a-first-line-of-defense-against-evolving-cyber-attacks)
-- [Don&#39;t Get Burned by CAPTCHAs: A Recipe for Accurate Bot Protection](https://www.darkreading.com/attacks-breaches/don-t-get-burned-by-captchas-a-recipe-for-accurate-bot-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
