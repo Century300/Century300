@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyemptive Technologies Expands Operations in the Middle East and the Americas](https://www.darkreading.com/dr-global/cyemptive-technologies-expands-operations-in-the-middle-east-and-the-americas)
+- [Catalyte Leverages Google Career Certificates to Expand Cybersecurity Apprenticeship Opportunities](https://www.darkreading.com/careers-and-people/catalyte-leverages-google-career-certificates-to-expand-cybersecurity-apprenticeship-opportunities)
+- [Suspicious New Ransomware Group Claims Sony Hack](https://www.darkreading.com/attacks-breaches/suspicious-new-ransomware-group-claims-sony-hack)
+- [Researchers Uncover RaaS Affiliate Distributing Multiple Ransomware Strains](https://www.darkreading.com/attacks-breaches/researchers-uncover-raas-affiliate-distributing-multiple-ransomware-strains)
 - [Delinea Secret Server Introduces MFA Enforcement at Depth to Meet Cyber Insurance Requirements](https://www.darkreading.com/cloud/delinea-secret-server-introduces-mfa-enforcement-at-depth-to-meet-cyber-insurance-requirements)
 - [Maine Department of Labor to Announce the Launch of University of Maine at Augusta Cybersecurity and IT Registered Apprenticeship Program](https://www.darkreading.com/operations/maine-department-of-labor-to-announce-the-launch-of-university-of-maine-at-augusta-cybersecurity-and-it-registered-apprenticeship-program)
 - [HD Moore&#39;s Discovery Journey](https://www.darkreading.com/dr-tech/hd-moore-discovery-journey)
 - [4 Pillars for Building a Responsible Cybersecurity Disclosure Program](https://www.darkreading.com/risk/4-pillars-for-building-a-responsible-cybersecurity-disclosure-program)
-- [Chad Taps Huawei for Digital Modernization Project](https://www.darkreading.com/dr-global/chad-huawei-digital-modernization-project)
-- [Amidst MGM, Caesar&#39;s Incidents, Attackers Focus on Luxury Hotels](https://www.darkreading.com/cloud/mgm-caesars-incidents-attackers-luxury-hotels)
-- [Proactive Security: What It Means for Enterprise Security Strategy](https://www.darkreading.com/omdia/proactive-security-what-it-means-for-enterprise-security-strategy)
-- [When It Comes to Email Security, the Cloud You Pick Matters](https://www.darkreading.com/dr-tech/when-it-comes-to-email-security-the-cloud-you-pick-matters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
