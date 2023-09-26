@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Delinea Secret Server Introduces MFA Enforcement at Depth to Meet Cyber Insurance Requirements](https://www.darkreading.com/cloud/delinea-secret-server-introduces-mfa-enforcement-at-depth-to-meet-cyber-insurance-requirements)
+- [Maine Department of Labor to Announce the Launch of University of Maine at Augusta Cybersecurity and IT Registered Apprenticeship Program](https://www.darkreading.com/operations/maine-department-of-labor-to-announce-the-launch-of-university-of-maine-at-augusta-cybersecurity-and-it-registered-apprenticeship-program)
 - [4 Pillars for Building a Responsible Cybersecurity Disclosure Program](https://www.darkreading.com/risk/4-pillars-for-building-a-responsible-cybersecurity-disclosure-program)
 - [Chad Taps Huawei for Digital Modernization Project](https://www.darkreading.com/dr-global/chad-huawei-digital-modernization-project)
 - [Amidst MGM, Caesar&#39;s Incidents, Attackers Focus on Luxury Hotels](https://www.darkreading.com/cloud/mgm-caesars-incidents-attackers-luxury-hotels)
 - [Proactive Security: What It Means for Enterprise Security Strategy](https://www.darkreading.com/omdia/proactive-security-what-it-means-for-enterprise-security-strategy)
 - [When It Comes to Email Security, the Cloud You Pick Matters](https://www.darkreading.com/dr-tech/when-it-comes-to-email-security-the-cloud-you-pick-matters)
 - [Xenomorph Android Malware Targets Customers of 30 US Banks](https://www.darkreading.com/remote-workforce/xenomorph-android-malware-targets-customers-of-30-us-banks)
-- [MOVEit Flaw Leads to 900 University Data Breaches](https://www.darkreading.com/application-security/moveit-flaw-900-university-data-breaches)
-- [UAE-Linked &#39;Stealth Falcon&#39; APT Mimics Microsoft in Homoglyph Attack](https://www.darkreading.com/dr-global/stealth-falcon-apt-microsoft-homoglyph-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
