@@ -79,7 +79,7 @@
 - [Will Government Secure Open Source or Muck It Up?](https://www.darkreading.com/edge/will-government-secure-open-source-or-muck-it-up)
 - [Microsoft Adds Passkeys to Windows 11](https://www.darkreading.com/application-security/microsoft-adds-passkeys-to-windows-11)
 - [Threat Data Feeds and Threat Intelligence Are Not the Same Thing](https://www.darkreading.com/threat-intelligence/threat-data-feeds-and-threat-intelligence-are-not-same-thing)
-- [Hackers Trick Outlook into Showing Fake AV Scans](https://www.darkreading.com/endpoint/hackers-abuse-zerofont-phishing-tactic-to-trick-outlook-into-showing-fake-av-scans)
+- [Hackers Trick Outlook Into Showing Fake AV Scans](https://www.darkreading.com/endpoint/hackers-abuse-zerofont-phishing-tactic-to-trick-outlook-into-showing-fake-av-scans)
 - [Kenyan Financial Firm Fined for Mishandling Data](https://www.darkreading.com/dr-global/kenyan-financial-firm-fined-for-mishandling-data)
 - [How the Okta Cross-Tenant Impersonation Attacks Succeeded](https://www.darkreading.com/attacks-breaches/how-the-okta-cross-tenant-impersonation-attacks-succeeded)
 - [Research From IANS and Artico Search Reveals Cybersecurity Budgets Increased Just 6% for 2022-2023 Cycle](https://www.darkreading.com/operations/research-from-ians-and-artico-search-reveals-cybersecurity-budgets-increased-just-6-for-2022-2023-cycle)
