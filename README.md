@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Will Government Secure Open Source or Muck It Up?](https://www.darkreading.com/edge/will-government-secure-open-source-or-muck-it-up)
+- [How the Okta Cross-Tenant Impersonation Attacks Succeeded](https://www.darkreading.com/attacks-breaches/how-the-okta-cross-tenant-impersonation-attacks-succeeded)
 - [Research From IANS and Artico Search Reveals Cybersecurity Budgets Increased Just 6% for 2022-2023 Cycle](https://www.darkreading.com/operations/research-from-ians-and-artico-search-reveals-cybersecurity-budgets-increased-just-6-for-2022-2023-cycle)
 - [Cyemptive Technologies Expands Operations in the Middle East and the Americas](https://www.darkreading.com/dr-global/cyemptive-technologies-expands-operations-in-the-middle-east-and-the-americas)
 - [Catalyte Leverages Google Career Certificates to Expand Cybersecurity Apprenticeship Opportunities](https://www.darkreading.com/careers-and-people/catalyte-leverages-google-career-certificates-to-expand-cybersecurity-apprenticeship-opportunities)
 - [Suspicious New Ransomware Group Claims Sony Hack](https://www.darkreading.com/attacks-breaches/suspicious-new-ransomware-group-claims-sony-hack)
 - [Researchers Uncover RaaS Affiliate Distributing Multiple Ransomware Strains](https://www.darkreading.com/attacks-breaches/researchers-uncover-raas-affiliate-distributing-multiple-ransomware-strains)
 - [Delinea Secret Server Introduces MFA Enforcement at Depth to Meet Cyber Insurance Requirements](https://www.darkreading.com/cloud/delinea-secret-server-introduces-mfa-enforcement-at-depth-to-meet-cyber-insurance-requirements)
-- [Maine Department of Labor to Announce the Launch of University of Maine at Augusta Cybersecurity and IT Registered Apprenticeship Program](https://www.darkreading.com/operations/maine-department-of-labor-to-announce-the-launch-of-university-of-maine-at-augusta-cybersecurity-and-it-registered-apprenticeship-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
