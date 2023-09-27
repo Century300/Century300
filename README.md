@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Radiant Logic Announces Expanded Identity Analytics and Data Management Platform Capabilities](https://www.darkreading.com/remote-workforce/radiant-logic-announces-expanded-identity-analytics-and-data-management-platform-capabilities-)
+- [Fortinet Announces Formation of Veterans Program Advisory Council to Narrow the Cybersecurity Skills Gap With Military Veteran Talent](https://www.darkreading.com/operations/fortinet-announces-formation-of-veterans-program-advisory-council-to-narrow-the-cybersecurity-skills-gap-with-military-veteran-talent)
+- [Netscout Identified Nearly 7.9M DDOS Attacks in the First Half of 2023](https://www.darkreading.com/attacks-breaches/netscout-identified-nearly-7-9m-ddos-attacks-in-the-first-half-of-2023)
 - [Researchers Release Details of New RCE Exploit Chain for SharePoint](https://www.darkreading.com/vulnerabilities-threats/reseachers-release-details-of-new-rce-exploit-chain-for-sharepoint)
 - [China APT Cracks Cisco Firmware in Attacks Against the US and Japan](https://www.darkreading.com/threat-intelligence/china-apt-cracks-cisco-firmware-attacks-against-us-japan)
 - [Will Government Secure Open Source or Muck It Up?](https://www.darkreading.com/edge/will-government-secure-open-source-or-muck-it-up)
 - [Microsoft Adds Passkeys to Windows 11](https://www.darkreading.com/application-security/microsoft-adds-passkeys-to-windows-11)
 - [Threat Data Feeds and Threat Intelligence Are Not the Same Thing](https://www.darkreading.com/threat-intelligence/threat-data-feeds-and-threat-intelligence-are-not-same-thing)
-- [Hackers Trick Outlook Into Showing Fake AV Scans](https://www.darkreading.com/endpoint/hackers-abuse-zerofont-phishing-tactic-to-trick-outlook-into-showing-fake-av-scans)
-- [Kenyan Financial Firm Fined for Mishandling Data](https://www.darkreading.com/dr-global/kenyan-financial-firm-fined-for-mishandling-data)
-- [How the Okta Cross-Tenant Impersonation Attacks Succeeded](https://www.darkreading.com/attacks-breaches/how-the-okta-cross-tenant-impersonation-attacks-succeeded)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
