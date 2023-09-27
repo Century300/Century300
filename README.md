@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Will Government Secure Open Source or Muck It Up?](https://www.darkreading.com/edge/will-government-secure-open-source-or-muck-it-up)
+- [Threat Data Feeds and Threat Intelligence Are Not the Same Thing](https://www.darkreading.com/threat-intelligence/threat-data-feeds-and-threat-intelligence-are-not-same-thing)
 - [Hackers Trick Outlook into Showing Fake AV Scans](https://www.darkreading.com/endpoint/hackers-abuse-zerofont-phishing-tactic-to-trick-outlook-into-showing-fake-av-scans)
 - [Kenyan Financial Firm Fined for Mishandling Data](https://www.darkreading.com/dr-global/kenyan-financial-firm-fined-for-mishandling-data)
 - [How the Okta Cross-Tenant Impersonation Attacks Succeeded](https://www.darkreading.com/attacks-breaches/how-the-okta-cross-tenant-impersonation-attacks-succeeded)
 - [Research From IANS and Artico Search Reveals Cybersecurity Budgets Increased Just 6% for 2022-2023 Cycle](https://www.darkreading.com/operations/research-from-ians-and-artico-search-reveals-cybersecurity-budgets-increased-just-6-for-2022-2023-cycle)
 - [Cyemptive Technologies Expands Operations in the Middle East and the Americas](https://www.darkreading.com/dr-global/cyemptive-technologies-expands-operations-in-the-middle-east-and-the-americas)
 - [Catalyte Leverages Google Career Certificates to Expand Cybersecurity Apprenticeship Opportunities](https://www.darkreading.com/careers-and-people/catalyte-leverages-google-career-certificates-to-expand-cybersecurity-apprenticeship-opportunities)
-- [Suspicious New Ransomware Group Claims Sony Hack](https://www.darkreading.com/attacks-breaches/suspicious-new-ransomware-group-claims-sony-hack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
