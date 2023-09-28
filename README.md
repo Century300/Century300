@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Q&amp;A: UK Ambassador on Creating New Cybersecurity Agencies Around the World](https://www.darkreading.com/dr-global/q-a-uk-ambassador-on-creating-new-cybersecurity-agencies-around-the-world)
 - [Novel ZenRAT Scurries Onto Systems via Fake Password Manager Tool](https://www.darkreading.com/endpoint/novel-zenrat-scurries-onto-systems-via-fake-password-manager-tool)
 - [Looking Beyond the Hype Cycle of AI/ML in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/looking-beyond-hype-cycle-ai-ml-cybersecurity)
 - [4 Legal Surprises You May Encounter After a Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/4-legal-surprises-you-may-encounter-after-cybersecurity-incident)
@@ -83,7 +84,6 @@
 - [CAPTCHAs Easy for Humans, Hard for Bots](https://www.darkreading.com/dr-tech/captchas-easy-for-humans-hard-for-bots)
 - [A Preview of Windows 11&#39;s Passkeys Support](https://www.darkreading.com/dr-tech/a-preview-of-windows-11-passkeys-support)
 - [Radiant Logic Announces Expanded Identity Analytics and Data Management Platform Capabilities](https://www.darkreading.com/remote-workforce/radiant-logic-announces-expanded-identity-analytics-and-data-management-platform-capabilities-)
-- [Fortinet Announces Formation of Veterans Program Advisory Council to Narrow the Cybersecurity Skills Gap With Military Veteran Talent](https://www.darkreading.com/operations/fortinet-announces-formation-of-veterans-program-advisory-council-to-narrow-the-cybersecurity-skills-gap-with-military-veteran-talent)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
