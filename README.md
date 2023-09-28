@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Johnson Controls International Disrupted by Major Cyberattack](https://www.darkreading.com/ics-ot/johnson-controls-international-hit-with-massive-ransomware-attack)
 - [Q&amp;A: UK Ambassador on Creating New Cybersecurity Agencies Around the World](https://www.darkreading.com/dr-global/q-a-uk-ambassador-on-creating-new-cybersecurity-agencies-around-the-world)
 - [Novel ZenRAT Scurries Onto Systems via Fake Password Manager Tool](https://www.darkreading.com/endpoint/novel-zenrat-scurries-onto-systems-via-fake-password-manager-tool)
 - [Looking Beyond the Hype Cycle of AI/ML in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/looking-beyond-hype-cycle-ai-ml-cybersecurity)
@@ -83,7 +84,6 @@
 - [Supply Chain Attackers Escalate With GitHub Dependabot Impersonation](https://www.darkreading.com/application-security/supply-chain-attackers-escalate-with-github-dependabot-impersonation)
 - [CAPTCHAs Easy for Humans, Hard for Bots](https://www.darkreading.com/dr-tech/captchas-easy-for-humans-hard-for-bots)
 - [A Preview of Windows 11&#39;s Passkeys Support](https://www.darkreading.com/dr-tech/a-preview-of-windows-11-passkeys-support)
-- [Radiant Logic Announces Expanded Identity Analytics and Data Management Platform Capabilities](https://www.darkreading.com/remote-workforce/radiant-logic-announces-expanded-identity-analytics-and-data-management-platform-capabilities-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
