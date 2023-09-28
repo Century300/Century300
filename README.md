@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Government Shutdown Poised to Stress Nation&#39;s Cybersecurity Supply Chain](https://www.darkreading.com/cloud/government-shutdown-poised-to-stress-nation-s-cybersecurity-supply-chain)
 - [Chrome Flags Third Zero-Day This Month That&#39;s Tied to Spying Exploits](https://www.darkreading.com/vulnerabilities-threats/chrome-flags-third-zero-day-this-month-tied-to-spying-exploits)
 - [New Cisco IOS Zero-Day Delivers a Double Punch](https://www.darkreading.com/vulnerabilities-threats/new-cisco-ios-zero-day-delivers-a-double-punch)
 - [Johnson Controls International Disrupted by Major Cyberattack](https://www.darkreading.com/ics-ot/johnson-controls-international-hit-with-massive-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Novel ZenRAT Scurries Onto Systems via Fake Password Manager Tool](https://www.darkreading.com/endpoint/novel-zenrat-scurries-onto-systems-via-fake-password-manager-tool)
 - [Looking Beyond the Hype Cycle of AI/ML in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/looking-beyond-hype-cycle-ai-ml-cybersecurity)
 - [4 Legal Surprises You May Encounter After a Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/4-legal-surprises-you-may-encounter-after-cybersecurity-incident)
-- [Supply Chain Attackers Escalate With GitHub Dependabot Impersonation](https://www.darkreading.com/application-security/supply-chain-attackers-escalate-with-github-dependabot-impersonation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
