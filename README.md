@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chrome Flags Third Zero-Day This Month That&#39;s Tied to Spying Exploits](https://www.darkreading.com/vulnerabilities-threats/chrome-flags-third-zero-day-this-month-tied-to-spying-exploits)
+- [New Cisco IOS Zero-Day Delivers a Double Punch](https://www.darkreading.com/vulnerabilities-threats/new-cisco-ios-zero-day-delivers-a-double-punch)
 - [Johnson Controls International Disrupted by Major Cyberattack](https://www.darkreading.com/ics-ot/johnson-controls-international-hit-with-massive-ransomware-attack)
 - [Q&amp;A: UK Ambassador on Creating New Cybersecurity Agencies Around the World](https://www.darkreading.com/dr-global/q-a-uk-ambassador-on-creating-new-cybersecurity-agencies-around-the-world)
 - [Novel ZenRAT Scurries Onto Systems via Fake Password Manager Tool](https://www.darkreading.com/endpoint/novel-zenrat-scurries-onto-systems-via-fake-password-manager-tool)
 - [Looking Beyond the Hype Cycle of AI/ML in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/looking-beyond-hype-cycle-ai-ml-cybersecurity)
 - [4 Legal Surprises You May Encounter After a Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/4-legal-surprises-you-may-encounter-after-cybersecurity-incident)
 - [Supply Chain Attackers Escalate With GitHub Dependabot Impersonation](https://www.darkreading.com/application-security/supply-chain-attackers-escalate-with-github-dependabot-impersonation)
-- [CAPTCHAs Easy for Humans, Hard for Bots](https://www.darkreading.com/dr-tech/captchas-easy-for-humans-hard-for-bots)
-- [A Preview of Windows 11&#39;s Passkeys Support](https://www.darkreading.com/dr-tech/a-preview-of-windows-11-passkeys-support)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
