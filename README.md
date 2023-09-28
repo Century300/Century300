@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CAPTCHAs Easy for Humans, Hard for Bots](https://www.darkreading.com/dr-tech/captchas-easy-for-humans-hard-for-bots)
 - [A Preview of Windows 11’s Passkeys Support](https://www.darkreading.com/dr-tech/a-preview-of-windows-11-passkeys-support)
 - [Radiant Logic Announces Expanded Identity Analytics and Data Management Platform Capabilities](https://www.darkreading.com/remote-workforce/radiant-logic-announces-expanded-identity-analytics-and-data-management-platform-capabilities-)
 - [Fortinet Announces Formation of Veterans Program Advisory Council to Narrow the Cybersecurity Skills Gap With Military Veteran Talent](https://www.darkreading.com/operations/fortinet-announces-formation-of-veterans-program-advisory-council-to-narrow-the-cybersecurity-skills-gap-with-military-veteran-talent)
@@ -83,7 +84,6 @@
 - [Researchers Release Details of New RCE Exploit Chain for SharePoint](https://www.darkreading.com/vulnerabilities-threats/reseachers-release-details-of-new-rce-exploit-chain-for-sharepoint)
 - [China APT Cracks Cisco Firmware in Attacks Against the US and Japan](https://www.darkreading.com/threat-intelligence/china-apt-cracks-cisco-firmware-attacks-against-us-japan)
 - [Will Government Secure Open Source or Muck It Up?](https://www.darkreading.com/edge/will-government-secure-open-source-or-muck-it-up)
-- [Microsoft Adds Passkeys to Windows 11](https://www.darkreading.com/application-security/microsoft-adds-passkeys-to-windows-11)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
