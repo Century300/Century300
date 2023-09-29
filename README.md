@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Cybersecurity Gaps Plague US State Department, GAO Report Warns](https://www.darkreading.com/cloud/cybersecurity-gaps-plague-state-department-gao-report)
+- [Move Over, MOVEit: Critical Progress Bug Infests WS_FTP Software](https://www.darkreading.com/cloud/moveit-progress-critical-bug-ws_ftp-software)
 - [People Still Matter in Cybersecurity Management](https://www.darkreading.com/omdia/people-still-matter-in-cybersecurity-management)
 - [Attacks on Azerbaijan Businesses Drop Malware via Fake Image Files](https://www.darkreading.com/dr-global/targeted-attacks-on-azerbaijan-businesses-drop-malware-via-fake-image-files)
 - [QR Code 101: What the Threats Look Like](https://www.darkreading.com/edge/qr-code-101-what-threats)
 - [Government Shutdown Poised to Stress Nation&#39;s Cybersecurity Supply Chain](https://www.darkreading.com/cloud/government-shutdown-poised-to-stress-nation-s-cybersecurity-supply-chain)
 - [Chrome Flags Third Zero-Day This Month That&#39;s Tied to Spying Exploits](https://www.darkreading.com/vulnerabilities-threats/chrome-flags-third-zero-day-this-month-tied-to-spying-exploits)
 - [New Cisco IOS Zero-Day Delivers a Double Punch](https://www.darkreading.com/vulnerabilities-threats/new-cisco-ios-zero-day-delivers-a-double-punch)
-- [Johnson Controls International Disrupted by Major Cyberattack](https://www.darkreading.com/ics-ot/johnson-controls-international-hit-with-massive-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
