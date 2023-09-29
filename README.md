@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Can Your Security Team Help Developers Shift Left?](https://www.darkreading.com/edge-ask-the-experts/how-can-your-security-team-help-developers-shift-left)
 - [Spyware Vendor Targets Egyptian Orgs With Rare iOS Exploit Chain](https://www.darkreading.com/dr-global/spyware-vendor-egyptian-orgs-ios-exploit-chain)
-- [DHS Calls Into Question Physical Security in Johnson Controls Cyberattack](https://www.darkreading.com/ics-ot/dhs-calls-into-question-physical-security-in-johnson-controls-cyberattack)
+- [DHS: Physical Security a Concern in Johnson Controls Cyberattack](https://www.darkreading.com/ics-ot/dhs-physical-security-concern-johnson-controls-cyberattack)
 - [Cybersecurity Gaps Plague US State Department, GAO Report Warns](https://www.darkreading.com/cloud/cybersecurity-gaps-plague-state-department-gao-report)
 - [Move Over, MOVEit: Critical Progress Bug Infests WS_FTP Software](https://www.darkreading.com/cloud/moveit-progress-critical-bug-ws_ftp-software)
 - [People Still Matter in Cybersecurity Management](https://www.darkreading.com/omdia/people-still-matter-in-cybersecurity-management)
 - [Attacks on Azerbaijan Businesses Drop Malware via Fake Image Files](https://www.darkreading.com/dr-global/targeted-attacks-on-azerbaijan-businesses-drop-malware-via-fake-image-files)
 - [QR Code 101: What the Threats Look Like](https://www.darkreading.com/edge/qr-code-101-what-threats)
-- [Government Shutdown Poised to Stress Nation&#39;s Cybersecurity Supply Chain](https://www.darkreading.com/cloud/government-shutdown-poised-to-stress-nation-s-cybersecurity-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
