@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [QR Code 101: What the Threats Look Like](https://www.darkreading.com/edge/qr-code-101-what-threats)
 - [Government Shutdown Poised to Stress Nation&#39;s Cybersecurity Supply Chain](https://www.darkreading.com/cloud/government-shutdown-poised-to-stress-nation-s-cybersecurity-supply-chain)
 - [Chrome Flags Third Zero-Day This Month That&#39;s Tied to Spying Exploits](https://www.darkreading.com/vulnerabilities-threats/chrome-flags-third-zero-day-this-month-tied-to-spying-exploits)
 - [New Cisco IOS Zero-Day Delivers a Double Punch](https://www.darkreading.com/vulnerabilities-threats/new-cisco-ios-zero-day-delivers-a-double-punch)
 - [Johnson Controls International Disrupted by Major Cyberattack](https://www.darkreading.com/ics-ot/johnson-controls-international-hit-with-massive-ransomware-attack)
 - [Q&amp;A: UK Ambassador on Creating New Cybersecurity Agencies Around the World](https://www.darkreading.com/dr-global/q-a-uk-ambassador-on-creating-new-cybersecurity-agencies-around-the-world)
 - [Novel ZenRAT Scurries Onto Systems via Fake Password Manager Tool](https://www.darkreading.com/endpoint/novel-zenrat-scurries-onto-systems-via-fake-password-manager-tool)
-- [Looking Beyond the Hype Cycle of AI/ML in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/looking-beyond-hype-cycle-ai-ml-cybersecurity)
-- [4 Legal Surprises You May Encounter After a Cybersecurity Incident](https://www.darkreading.com/attacks-breaches/4-legal-surprises-you-may-encounter-after-cybersecurity-incident)
+- [7 Ways SMBs Can Secure Their WordPress Sites](https://www.darkreading.com/dr-tech/7-ways-smbs-can-secure-their-wordpress-sites)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
