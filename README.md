@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
 - [North Korea Poses as Meta to Deploy Complex Backdoor at Aerospace Org](https://www.darkreading.com/cloud/north-korea-meta-complex-backdoor-aerospace)
 - [KillNet Claims DDoS Attack Against Royal Family Website](https://www.darkreading.com/cloud/killnet-ddos-attack-royal-family-website)
 - [FBI: Crippling &#39;Dual Ransomware Attacks&#39; on the Rise](https://www.darkreading.com/threat-intelligence/fbi-highlights-dual-ransomware-attack-in-rising-cybertrends)
@@ -83,7 +84,6 @@
 - [Addressing AI and Security Challenges With Red Teams: A Google Perspective](https://www.darkreading.com/risk/addressing-ai-and-security-challenges-with-red-teams-a-google-perspective)
 - [Iran-Linked APT34 Spy Campaign Targets Saudis](https://www.darkreading.com/dr-global/iran-linked-apt34-spy-campaign-targets-saudis)
 - [Which DFIR Challenges Does the Middle East Face?](https://www.darkreading.com/dr-global/which-dfir-challenges-does-middle-east-face)
-- [Making Sense of Today&#39;s Payment Cybersecurity Landscape](https://www.darkreading.com/vulnerabilities-threats/making-sense-of-todays-payment-cybersecurity-landscape)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
