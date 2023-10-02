@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Silent Threat of APIs: What the New Data Reveals About Unknown Risk](https://www.darkreading.com/attacks-breaches/silent-threat-of-apis-what-new-data-reveals-about-unknown-risk)
 - [Securing AI: What You Should Know](https://www.darkreading.com/google-cloud-security/securing-ai-what-you-should-know)
 - [How Can Your Security Team Help Developers Shift Left?](https://www.darkreading.com/edge-ask-the-experts/how-can-your-security-team-help-developers-shift-left)
 - [Spyware Vendor Targets Egyptian Orgs With Rare iOS Exploit Chain](https://www.darkreading.com/dr-global/spyware-vendor-egyptian-orgs-ios-exploit-chain)
@@ -83,7 +84,6 @@
 - [Cybersecurity Gaps Plague US State Department, GAO Report Warns](https://www.darkreading.com/cloud/cybersecurity-gaps-plague-state-department-gao-report)
 - [Move Over, MOVEit: Critical Progress Bug Infests WS_FTP Software](https://www.darkreading.com/cloud/moveit-progress-critical-bug-ws_ftp-software)
 - [People Still Matter in Cybersecurity Management](https://www.darkreading.com/omdia/people-still-matter-in-cybersecurity-management)
-- [Attacks on Azerbaijan Businesses Drop Malware via Fake Image Files](https://www.darkreading.com/dr-global/targeted-attacks-on-azerbaijan-businesses-drop-malware-via-fake-image-files)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
