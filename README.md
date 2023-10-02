@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
 - [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
 - [North Korea Poses as Meta to Deploy Complex Backdoor at Aerospace Org](https://www.darkreading.com/cloud/north-korea-meta-complex-backdoor-aerospace)
 - [KillNet Claims DDoS Attack Against Royal Family Website](https://www.darkreading.com/cloud/killnet-ddos-attack-royal-family-website)
@@ -83,7 +84,6 @@
 - [Norway Urges Europe-Wide Ban on Meta&#39;s Targeted Ad Data Collection](https://www.darkreading.com/application-security/norway-urges-europe-wide-ban-meta-targeted-ad-data)
 - [Addressing AI and Security Challenges With Red Teams: A Google Perspective](https://www.darkreading.com/risk/addressing-ai-and-security-challenges-with-red-teams-a-google-perspective)
 - [Iran-Linked APT34 Spy Campaign Targets Saudis](https://www.darkreading.com/dr-global/iran-linked-apt34-spy-campaign-targets-saudis)
-- [Which DFIR Challenges Does the Middle East Face?](https://www.darkreading.com/dr-global/which-dfir-challenges-does-middle-east-face)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
