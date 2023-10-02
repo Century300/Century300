@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Making Sense of Today&#39;s Payment Cybersecurity Landscape](https://www.darkreading.com/vulnerabilities-threats/making-sense-of-todays-payment-cybersecurity-landscape)
 - [The Silent Threat of APIs: What the New Data Reveals About Unknown Risk](https://www.darkreading.com/attacks-breaches/silent-threat-of-apis-what-new-data-reveals-about-unknown-risk)
 - [Securing AI: What You Should Know](https://www.darkreading.com/google-cloud-security/securing-ai-what-you-should-know)
 - [How Can Your Security Team Help Developers Shift Left?](https://www.darkreading.com/edge-ask-the-experts/how-can-your-security-team-help-developers-shift-left)
@@ -83,7 +84,6 @@
 - [DHS: Physical Security a Concern in Johnson Controls Cyberattack](https://www.darkreading.com/ics-ot/dhs-physical-security-concern-johnson-controls-cyberattack)
 - [Cybersecurity Gaps Plague US State Department, GAO Report Warns](https://www.darkreading.com/cloud/cybersecurity-gaps-plague-state-department-gao-report)
 - [Move Over, MOVEit: Critical Progress Bug Infests WS_FTP Software](https://www.darkreading.com/cloud/moveit-progress-critical-bug-ws_ftp-software)
-- [People Still Matter in Cybersecurity Management](https://www.darkreading.com/omdia/people-still-matter-in-cybersecurity-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
