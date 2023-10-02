@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Addressing AI and Security Challenges With Red Teams: A Google Perspective](https://www.darkreading.com/risk/addressing-ai-and-security-challenges-with-red-teams-a-google-perspective)
 - [Iran-Linked APT34 Spy Campaign Targets Saudis](https://www.darkreading.com/dr-global/iran-linked-apt34-spy-campaign-targets-saudis)
 - [Which DFIR Challenges Does the Middle East Face?](https://www.darkreading.com/dr-global/which-dfir-challenges-does-middle-east-face)
 - [Making Sense of Today&#39;s Payment Cybersecurity Landscape](https://www.darkreading.com/vulnerabilities-threats/making-sense-of-todays-payment-cybersecurity-landscape)
@@ -83,7 +84,6 @@
 - [Securing AI: What You Should Know](https://www.darkreading.com/google-cloud-security/securing-ai-what-you-should-know)
 - [How Can Your Security Team Help Developers Shift Left?](https://www.darkreading.com/edge-ask-the-experts/how-can-your-security-team-help-developers-shift-left)
 - [Spyware Vendor Targets Egyptian Orgs With Rare iOS Exploit Chain](https://www.darkreading.com/dr-global/spyware-vendor-egyptian-orgs-ios-exploit-chain)
-- [DHS: Physical Security a Concern in Johnson Controls Cyberattack](https://www.darkreading.com/ics-ot/dhs-physical-security-concern-johnson-controls-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
