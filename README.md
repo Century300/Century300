@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran-Linked APT34 Spy Campaign Targets Saudis](https://www.darkreading.com/dr-global/iran-linked-apt34-spy-campaign-targets-saudis)
 - [Which DFIR Challenges Does the Middle East Face?](https://www.darkreading.com/dr-global/which-dfir-challenges-does-middle-east-face)
 - [Making Sense of Today&#39;s Payment Cybersecurity Landscape](https://www.darkreading.com/vulnerabilities-threats/making-sense-of-todays-payment-cybersecurity-landscape)
 - [The Silent Threat of APIs: What the New Data Reveals About Unknown Risk](https://www.darkreading.com/attacks-breaches/silent-threat-of-apis-what-new-data-reveals-about-unknown-risk)
@@ -83,7 +84,6 @@
 - [How Can Your Security Team Help Developers Shift Left?](https://www.darkreading.com/edge-ask-the-experts/how-can-your-security-team-help-developers-shift-left)
 - [Spyware Vendor Targets Egyptian Orgs With Rare iOS Exploit Chain](https://www.darkreading.com/dr-global/spyware-vendor-egyptian-orgs-ios-exploit-chain)
 - [DHS: Physical Security a Concern in Johnson Controls Cyberattack](https://www.darkreading.com/ics-ot/dhs-physical-security-concern-johnson-controls-cyberattack)
-- [Cybersecurity Gaps Plague US State Department, GAO Report Warns](https://www.darkreading.com/cloud/cybersecurity-gaps-plague-state-department-gao-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
