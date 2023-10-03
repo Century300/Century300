@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Nexusflow Launches to Help Automate the SOC](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
+- [Nexusflow Slots AI into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
 - [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
 - [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
+- [In Search of Rust Developers, Companies Turn to In-House Training](https://www.darkreading.com/edge/seeking-rust-developers-in-house-training)
 - [North Korea Poses as Meta to Deploy Complex Backdoor at Aerospace Org](https://www.darkreading.com/cloud/north-korea-meta-complex-backdoor-aerospace)
 - [KillNet Claims DDoS Attack Against Royal Family Website](https://www.darkreading.com/cloud/killnet-ddos-attack-royal-family-website)
 - [FBI: Crippling &#39;Dual Ransomware Attacks&#39; on the Rise](https://www.darkreading.com/threat-intelligence/fbi-highlights-dual-ransomware-attack-in-rising-cybertrends)
 - [Norway Urges Europe-Wide Ban on Meta&#39;s Targeted Ad Data Collection](https://www.darkreading.com/application-security/norway-urges-europe-wide-ban-meta-targeted-ad-data)
-- [Addressing AI and Security Challenges With Red Teams: A Google Perspective](https://www.darkreading.com/risk/addressing-ai-and-security-challenges-with-red-teams-a-google-perspective)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
