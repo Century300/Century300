@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Nexusflow Slots AI into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
+- [Nexusflow Slots AI Into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
 - [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
 - [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
 - [In Search of Rust Developers, Companies Turn to In-House Training](https://www.darkreading.com/edge/seeking-rust-developers-in-house-training)
