@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Name That Edge Toon: Office Artifacts](https://www.darkreading.com/edge-articles/name-that-edge-toon-office-artifacts)
+- [Fast-Growing Dropbox Campaign Steals Microsoft SharePoint Credentials](https://www.darkreading.com/cloud/fast-growing-dropbox-campaign-microsoft-sharepoint-credentials)
 - [Ransomware Crisis, Recession Fears Leave CISOs in Tough Spot](https://www.darkreading.com/vulnerabilities-threats/ransomware-crisis-recession-fears-leave-cisos-in-tough-spot)
 - [Nexusflow Slots AI Into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
 - [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
 - [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
 - [In Search of Rust Developers, Companies Turn to In-House Training](https://www.darkreading.com/edge/seeking-rust-developers-in-house-training)
 - [North Korea Poses as Meta to Deploy Complex Backdoor at Aerospace Org](https://www.darkreading.com/cloud/north-korea-meta-complex-backdoor-aerospace)
-- [KillNet Claims DDoS Attack Against Royal Family Website](https://www.darkreading.com/cloud/killnet-ddos-attack-royal-family-website)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
