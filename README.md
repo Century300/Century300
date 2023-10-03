@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gartner Forecasts Global Security and Risk Management Spending to Grow 14% in 2024](https://www.darkreading.com/cloud/gartner-forecasts-global-security-and-risk-management-spending-to-grow-14-in-2024)
 - [Attacks on Maximum Severity WS_FTP Bug Have Been Limited — So Far](https://www.darkreading.com/attacks-breaches/attacks-on-maximum-severity-ws_ftp-bug-have-been-limited-so-far)
 - [USPS Anchors Snowballing Smishing Campaigns](https://www.darkreading.com/threat-intelligence/usps-smishing-campaigns)
 - [Name That Edge Toon: Office Artifacts](https://www.darkreading.com/edge-articles/name-that-edge-toon-office-artifacts)
@@ -83,7 +84,6 @@
 - [Ransomware Crisis, Recession Fears Leave CISOs in Tough Spot](https://www.darkreading.com/vulnerabilities-threats/ransomware-crisis-recession-fears-leave-cisos-in-tough-spot)
 - [Nexusflow Slots AI Into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
 - [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
-- [Visa Program Combats Friendly Fraud Losses For Small Businesses Globally](https://www.darkreading.com/attacks-breaches/visa-program-combats-friendly-fraud-losses-for-small-businesses-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
