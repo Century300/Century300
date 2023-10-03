@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Office Artifacts](https://www.darkreading.com/edge-articles/name-that-edge-toon-office-artifacts)
 - [Ransomware Crisis, Recession Fears Leave CISOs in Tough Spot](https://www.darkreading.com/vulnerabilities-threats/ransomware-crisis-recession-fears-leave-cisos-in-tough-spot)
 - [Nexusflow Slots AI Into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
 - [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
@@ -83,7 +84,6 @@
 - [In Search of Rust Developers, Companies Turn to In-House Training](https://www.darkreading.com/edge/seeking-rust-developers-in-house-training)
 - [North Korea Poses as Meta to Deploy Complex Backdoor at Aerospace Org](https://www.darkreading.com/cloud/north-korea-meta-complex-backdoor-aerospace)
 - [KillNet Claims DDoS Attack Against Royal Family Website](https://www.darkreading.com/cloud/killnet-ddos-attack-royal-family-website)
-- [FBI: Crippling &#39;Dual Ransomware Attacks&#39; on the Rise](https://www.darkreading.com/threat-intelligence/fbi-highlights-dual-ransomware-attack-in-rising-cybertrends)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
