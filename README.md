@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mitiga Secures Strategic Investment From Cisco](https://www.darkreading.com/cloud/mitiga-secures-strategic-investment-from-cisco-)
+- [37% Intimidated, 39% Frustrated With Online Security Highlighting Digital Anxiety](https://www.darkreading.com/vulnerabilities-threats/37-intimidated-39-frustrated-with-online-security-highlighting-digital-anxiety)
+- [BeyondID Introduces Identity-First Model for Zero-Trust Maturity](https://www.darkreading.com/endpoint/beyondid-introduces-identity-first-model-for-zero-trust-maturity)
 - [Bing Chat LLM Tricked into Circumventing CAPTCHA Filter](https://www.darkreading.com/application-security/bing-chat-llm-tricked-into-circumventing-captcha-filter)
 - [AWS Plans Multifactor Authentication Mandates for 2024](https://www.darkreading.com/cloud/aws-plans-multifactor-authentication-mandates-for-2024)
 - [On the Dark Web, Prices Are Down for Middle Eastern Network Access](https://www.darkreading.com/dr-global/on-the-dark-web-prices-are-down-for-middle-eastern-network-access)
 - [&#39;Looney Tunables&#39; Bug Opens Millions of Linux Systems to Root Takeover](https://www.darkreading.com/vulnerabilities-threats/millions-linux-systems-looney-tunables-bug-root-takeover)
 - [Breaches Are the Cost of Doing Business, but NIST Is Here to Help](https://www.darkreading.com/vulnerabilities-threats/breaches-are-the-cost-of-doing-business-but-nist-is-here-to-help)
-- [Turnkey Rootkit for Amateur Hackers Makes Supply Chain Attacks Easy](https://www.darkreading.com/application-security/turnkey-rootkit-amateur-hackers-supply-chain-attacks)
-- [How to Measure Patching and Remediation Performance](https://www.darkreading.com/risk/how-to-measure-patching-and-remediation-performance)
-- [Patch Confusion for Critical Exim Bug Puts Email Servers at Risk — Again](https://www.darkreading.com/cloud/patch-confusion-critical-exim-bug-email-servers-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
