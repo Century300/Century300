@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Hacktivism Takes a Toll on Organizations in Ukraine, EU, US](https://www.darkreading.com/threat-intelligence/russian-hacktivism-takes-toll-organizations-ukraine-eu-us)
 - [Gartner Forecasts Global Security and Risk Management Spending to Grow 14% in 2024](https://www.darkreading.com/cloud/gartner-forecasts-global-security-and-risk-management-spending-to-grow-14-in-2024)
 - [Attacks on Maximum Severity WS_FTP Bug Have Been Limited — So Far](https://www.darkreading.com/attacks-breaches/attacks-on-maximum-severity-ws_ftp-bug-have-been-limited-so-far)
 - [USPS Anchors Snowballing Smishing Campaigns](https://www.darkreading.com/threat-intelligence/usps-smishing-campaigns)
@@ -83,7 +84,6 @@
 - [Fast-Growing Dropbox Campaign Steals Microsoft SharePoint Credentials](https://www.darkreading.com/cloud/fast-growing-dropbox-campaign-microsoft-sharepoint-credentials)
 - [Ransomware Crisis, Recession Fears Leave CISOs in Tough Spot](https://www.darkreading.com/vulnerabilities-threats/ransomware-crisis-recession-fears-leave-cisos-in-tough-spot)
 - [Nexusflow Slots AI Into SOC Automation](https://www.darkreading.com/dr-tech/nexusflow-launches-to-help-automate-the-soc)
-- [Secure Yeti Appoints Jayson E. Street as Chief Adversarial Officer to Spearhead Cybersecurity Empowerment](https://www.darkreading.com/operations/secure-yeti-appoints-jayson-e-street-as-chief-adversarial-officer-to-spearhead-cybersecurity-empowerment-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
