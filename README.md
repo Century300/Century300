@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Looney Tunables&#39; Bug Opens Millions of Linux Systems to Root Takeover](https://www.darkreading.com/vulnerabilities-threats/millions-linux-systems-looney-tunables-bug-root-takeover)
 - [Breaches Are the Cost of Doing Business, but NIST Is Here to Help](https://www.darkreading.com/vulnerabilities-threats/breaches-are-the-cost-of-doing-business-but-nist-is-here-to-help)
 - [Turnkey Rootkit for Amateur Hackers Makes Supply Chain Attacks Easy](https://www.darkreading.com/application-security/turnkey-rootkit-amateur-hackers-supply-chain-attacks)
 - [How to Measure Patching and Remediation Performance](https://www.darkreading.com/risk/how-to-measure-patching-and-remediation-performance)
-- [Patch Confusion for Critical Exim Bug Puts Email Servers at Risk--Again](https://www.darkreading.com/cloud/patch-confusion-critical-exim-bug-email-servers-risk)
+- [Patch Confusion for Critical Exim Bug Puts Email Servers at Risk — Again](https://www.darkreading.com/cloud/patch-confusion-critical-exim-bug-email-servers-risk)
 - [Russian Hacktivism: Flashy Non-Events or Serious Threat?](https://www.darkreading.com/threat-intelligence/russian-hacktivism-takes-toll-organizations-ukraine-eu-us)
 - [Gartner Forecasts Global Security and Risk Management Spending to Grow 14% in 2024](https://www.darkreading.com/cloud/gartner-forecasts-global-security-and-risk-management-spending-to-grow-14-in-2024)
 - [Attacks on Maximum Severity WS_FTP Bug Have Been Limited — So Far](https://www.darkreading.com/attacks-breaches/attacks-on-maximum-severity-ws_ftp-bug-have-been-limited-so-far)
-- [USPS Anchors Snowballing Smishing Campaigns](https://www.darkreading.com/threat-intelligence/usps-smishing-campaigns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
