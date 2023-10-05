@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Madagascar Drops Predator Spyware on Citizens in Watering Hole Attack](https://www.darkreading.com/dr-global/madagascar-predator-spyware-citizens-watering-hole-attack)
+- [Group-IB: &#39;GoldDigger&#39; Banking Trojan Targets Vietnamese Organizations](https://www.darkreading.com/threat-intelligence/group-ib-golddigger-banking-trojan-targeting-vietnamese-organizations)
+- [Stealthy, Thieving Python Packages Slither Onto Windows Systems](https://www.darkreading.com/threat-intelligence/hundreds-of-data--crypto-stealing-python-packages-slither-onto-windows-systems)
+- [Critical &#39;ShellTorch&#39; Flaws Light Up Open Source AI Users, Like Google](https://www.darkreading.com/application-security/critical-shelltorch-flaws-open-source-ai-google)
 - [Unkillable? Qakbot Infections Fly On Even After Its High-Profile Raid](https://www.darkreading.com/attacks-breaches/qakbot-infections-continue-even-after-high-profile-raid)
 - [Critical Zero-Day Bug in Atlassian Confluence Under Active Exploit](https://www.darkreading.com/application-security/critical-zero-day-atlassian-confluence-active-exploit)
 - [Could Cybersecurity Breaches Become Harmless in the Future?](https://www.darkreading.com/vulnerabilities-threats/could-cybersecurity-breaches-become-harmless-in-the-future-)
 - [Insurance Companies Have a Lot to Lose in Cyberattacks](https://www.darkreading.com/edge/insurance-companies-have-a-lot-to-lose-in-cyberattacks)
-- [Nokia Selected by Brazil&#39;s K2 Telecom As Partner to Strengthen its Security and Create Revenue Streams](https://www.darkreading.com/operations/nokia-selected-by-brazil-s-k2-telecom-as-partner-to-strengthen-its-security-and-create-revenue-streams)
-- [Trend Micro Drives Latest Phase of Channel Prosperity and Engagement](https://www.darkreading.com/careers-and-people/trend-micro-drives-latest-phase-of-channel-prosperity-and-engagement)
-- [New Malwarebytes Survey: Consumers Lack Trust in New Tech](https://www.darkreading.com/application-security/new-malwarebytes-survey-consumers-lack-trust-in-new-tech)
-- [ForAllSecure Announces First Dynamic Software Bill of Materials for Application Security](https://www.darkreading.com/application-security/forallsecure-announces-first-dynamic-software-bill-of-materials-for-application-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
