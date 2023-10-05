@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Zero-Day Bug in Atlassian Confluence Under Active Exploit](https://www.darkreading.com/application-security/critical-zero-day-atlassian-confluence-active-exploit)
 - [Could Cybersecurity Breaches Become Harmless in the Future?](https://www.darkreading.com/vulnerabilities-threats/could-cybersecurity-breaches-become-harmless-in-the-future-)
 - [Insurance Companies Have a Lot to Lose in Cyberattacks](https://www.darkreading.com/edge/insurance-companies-have-a-lot-to-lose-in-cyberattacks)
 - [Nokia Selected by Brazil&#39;s K2 Telecom As Partner to Strengthen its Security and Create Revenue Streams](https://www.darkreading.com/operations/nokia-selected-by-brazil-s-k2-telecom-as-partner-to-strengthen-its-security-and-create-revenue-streams)
@@ -83,7 +84,6 @@
 - [New Malwarebytes Survey: Consumers Lack Trust in New Tech](https://www.darkreading.com/application-security/new-malwarebytes-survey-consumers-lack-trust-in-new-tech)
 - [ForAllSecure Announces First Dynamic Software Bill of Materials for Application Security](https://www.darkreading.com/application-security/forallsecure-announces-first-dynamic-software-bill-of-materials-for-application-security)
 - [Okta Launches Cybersecurity Workforce Development Initiative to Help Close the Tech and Cybersecurity Skills Gap](https://www.darkreading.com/careers-and-people/okta-launches-cybersecurity-workforce-development-initiative-to-help-close-the-tech-and-cybersecurity-skills-gap)
-- [Mitiga Secures Strategic Investment From Cisco](https://www.darkreading.com/cloud/mitiga-secures-strategic-investment-from-cisco-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
