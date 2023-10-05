@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Could Cybersecurity Breaches Become Harmless in the Future?](https://www.darkreading.com/vulnerabilities-threats/could-cybersecurity-breaches-become-harmless-in-the-future-)
 - [Insurance Companies Have a Lot to Lose in Cyberattacks](https://www.darkreading.com/edge/insurance-companies-have-a-lot-to-lose-in-cyberattacks)
 - [Nokia Selected by Brazil&#39;s K2 Telecom As Partner to Strengthen its Security and Create Revenue Streams](https://www.darkreading.com/operations/nokia-selected-by-brazil-s-k2-telecom-as-partner-to-strengthen-its-security-and-create-revenue-streams)
 - [Trend Micro Drives Latest Phase of Channel Prosperity and Engagement](https://www.darkreading.com/careers-and-people/trend-micro-drives-latest-phase-of-channel-prosperity-and-engagement)
@@ -83,7 +84,6 @@
 - [ForAllSecure Announces First Dynamic Software Bill of Materials for Application Security](https://www.darkreading.com/application-security/forallsecure-announces-first-dynamic-software-bill-of-materials-for-application-security)
 - [Okta Launches Cybersecurity Workforce Development Initiative to Help Close the Tech and Cybersecurity Skills Gap](https://www.darkreading.com/careers-and-people/okta-launches-cybersecurity-workforce-development-initiative-to-help-close-the-tech-and-cybersecurity-skills-gap)
 - [Mitiga Secures Strategic Investment From Cisco](https://www.darkreading.com/cloud/mitiga-secures-strategic-investment-from-cisco-)
-- [37% Intimidated, 39% Frustrated With Online Security Highlighting Digital Anxiety](https://www.darkreading.com/vulnerabilities-threats/37-intimidated-39-frustrated-with-online-security-highlighting-digital-anxiety)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
