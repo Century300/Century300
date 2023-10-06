@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WatchGuard Threat Lab Report Finds Endpoint Malware Volumes Decreasing Despite Campaigns Growing More Expansive](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-endpoint-malware-volumes-decreasing-despite-campaigns-growing-more-expansive)
 - [RIT Is the First University to Receive Support From the Google Cybersecurity Clinics Fund](https://www.darkreading.com/operations/rit-is-the-first-university-to-receive-support-from-the-google-cybersecurity-clinics-fund)
 - [Predictive Analysis Can Reduce Risks Associated With Data Breaches](https://www.darkreading.com/attacks-breaches/predictive-analysis-can-reduce-risks-associated-with-data-breaches)
 - [SecTor 2023: Full Schedule Programming for Toronto Event](https://www.darkreading.com/attacks-breaches/sector-2023-full-schedule-programming-for-toronto-event)
@@ -83,7 +84,6 @@
 - [23andMe Cyberbreach Exposes DNA Data, Potential Family Ties](https://www.darkreading.com/attacks-breaches/23andme-cyberbreach-exposed-dna-data-family-ties)
 - [Suspected Crime Gang Hacks Israeli President&#39;s Telegram Account](https://www.darkreading.com/dr-global/suspected-crime-gang-hacks-israeli-president-telegram-account)
 - [Preparing for the Unexpected: A Proactive Approach to Operational Resilience](https://www.darkreading.com/operations/preparing-for-the-unexpected-a-proactive-approach-to-operational-resilience)
-- [&#39;Operation Jacana&#39; Reveals DinodasRAT Custom Backdoor](https://www.darkreading.com/threat-intelligence/operation-jacana-dinodasrat-custom-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
