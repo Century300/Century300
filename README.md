@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Preparing for the Unexpected: A Proactive Approach to Operational Resilience](https://www.darkreading.com/operations/preparing-for-the-unexpected-a-proactive-approach-to-operational-resilience)
 - [&#39;Operation Jacana&#39; Reveals DinodasRAT Custom Backdoor](https://www.darkreading.com/threat-intelligence/operation-jacana-dinodasrat-custom-backdoor)
 - [Quash EDR/XDR Exploits With These Countermeasures](https://www.darkreading.com/dr-tech/quash-edr-xdr-exploits-with-these-countermeasures)
 - [Legions of Critical Infrastructure Devices Subject to Cyber Targeting](https://www.darkreading.com/ics-ot/legions-critical-infrastructure-devices-open-cyber-targeting)
@@ -83,7 +84,6 @@
 - [Madagascar Drops Predator Spyware on Citizens in Watering Hole Attack](https://www.darkreading.com/dr-global/madagascar-predator-spyware-citizens-watering-hole-attack)
 - [Stealthy, Thieving Python Packages Slither Onto Windows Systems](https://www.darkreading.com/threat-intelligence/hundreds-of-data--crypto-stealing-python-packages-slither-onto-windows-systems)
 - [Group-IB: &#39;GoldDigger&#39; Banking Trojan Targets Vietnamese Organizations](https://www.darkreading.com/threat-intelligence/group-ib-golddigger-banking-trojan-targeting-vietnamese-organizations)
-- [Critical &#39;ShellTorch&#39; Flaws Light Up Open Source AI Users, Like Google](https://www.darkreading.com/application-security/critical-shelltorch-flaws-open-source-ai-google)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
