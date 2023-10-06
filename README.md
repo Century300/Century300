@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [23andMe Cyberbreach Exposes DNA Data, Potential Family Ties](https://www.darkreading.com/attacks-breaches/23andme-cyberbreach-exposed-dna-data-family-ties)
+- [Suspected Crime Gang Hacks Israeli President&#39;s Telegram Account](https://www.darkreading.com/dr-global/suspected-crime-gang-hacks-israeli-president-telegram-account)
 - [Preparing for the Unexpected: A Proactive Approach to Operational Resilience](https://www.darkreading.com/operations/preparing-for-the-unexpected-a-proactive-approach-to-operational-resilience)
 - [&#39;Operation Jacana&#39; Reveals DinodasRAT Custom Backdoor](https://www.darkreading.com/threat-intelligence/operation-jacana-dinodasrat-custom-backdoor)
 - [Quash EDR/XDR Exploits With These Countermeasures](https://www.darkreading.com/dr-tech/quash-edr-xdr-exploits-with-these-countermeasures)
 - [Legions of Critical Infrastructure Devices Subject to Cyber Targeting](https://www.darkreading.com/ics-ot/legions-critical-infrastructure-devices-open-cyber-targeting)
 - [10 Routine Security Gaffes the Feds Are Begging You to Fix](https://www.darkreading.com/vulnerabilities-threats/10-routine-security-gaffes-the-feds-are-begging-you-to-fix)
 - [Madagascar Drops Predator Spyware on Citizens in Watering Hole Attack](https://www.darkreading.com/dr-global/madagascar-predator-spyware-citizens-watering-hole-attack)
-- [Stealthy, Thieving Python Packages Slither Onto Windows Systems](https://www.darkreading.com/threat-intelligence/hundreds-of-data--crypto-stealing-python-packages-slither-onto-windows-systems)
-- [Group-IB: &#39;GoldDigger&#39; Banking Trojan Targets Vietnamese Organizations](https://www.darkreading.com/threat-intelligence/group-ib-golddigger-banking-trojan-targeting-vietnamese-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
