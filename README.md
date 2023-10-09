@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [The Need for Speed: When Cloud Attacks Take Only 10 Minutes](https://www.darkreading.com/cloud/the-need-for-speed-when-cloud-attacks-take-only-10-minutes)
-- [Too Rich To Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
+- [Too Rich to Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
 - [WatchGuard Threat Lab Report Finds Endpoint Malware Volumes Decreasing Despite Campaigns Growing More Expansive](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-endpoint-malware-volumes-decreasing-despite-campaigns-growing-more-expansive)
 - [RIT Is the First University to Receive Support From the Google Cybersecurity Clinics Fund](https://www.darkreading.com/operations/rit-is-the-first-university-to-receive-support-from-the-google-cybersecurity-clinics-fund)
 - [Predictive Analysis Can Reduce Risks Associated With Data Breaches](https://www.darkreading.com/attacks-breaches/predictive-analysis-can-reduce-risks-associated-with-data-breaches)
