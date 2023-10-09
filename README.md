@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Need for Speed: When Cloud Attacks Take Only 10 Minutes](https://www.darkreading.com/cloud/the-need-for-speed-when-cloud-attacks-take-only-10-minutes)
 - [Too Rich To Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
 - [WatchGuard Threat Lab Report Finds Endpoint Malware Volumes Decreasing Despite Campaigns Growing More Expansive](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-endpoint-malware-volumes-decreasing-despite-campaigns-growing-more-expansive)
 - [RIT Is the First University to Receive Support From the Google Cybersecurity Clinics Fund](https://www.darkreading.com/operations/rit-is-the-first-university-to-receive-support-from-the-google-cybersecurity-clinics-fund)
@@ -83,7 +84,6 @@
 - [SecTor 2023: Full Schedule Programming for Toronto Event](https://www.darkreading.com/attacks-breaches/sector-2023-full-schedule-programming-for-toronto-event)
 - [Cybersecurity Funding Rises by 21% in Q3 2023, Pinpoint Search Group&#39;s Report Indicates](https://www.darkreading.com/cloud/cybersecurity-funding-rises-by-21-in-q3-2023-pinpoint-search-group-s-report-indicates)
 - [23andMe Cyberbreach Exposes DNA Data, Potential Family Ties](https://www.darkreading.com/attacks-breaches/23andme-cyberbreach-exposed-dna-data-family-ties)
-- [Suspected Crime Gang Hacks Israeli President&#39;s Telegram Account](https://www.darkreading.com/dr-global/suspected-crime-gang-hacks-israeli-president-telegram-account)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
