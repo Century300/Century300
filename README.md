@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Looney Tunables&#39; Linux Flaw Sees Snowballing Proof-of-Concept Exploits](https://www.darkreading.com/vulnerabilities-threats/looney-tunables-linux-flaw-sees-snowballing-proof-of-concept-exploits)
+- [Operation Behind Predator Mobile Spyware Is &#39;Industrial Scale&#39;](https://www.darkreading.com/endpoint/operation-behind-predator-mobile-spyware-industrial-scale)
+- [Patch Now: Massive RCE Campaign Wrangles Routers Into Botnet](https://www.darkreading.com/cloud/patch-now-massive-rce-campaign-d-link-zyxel-botnet)
 - [Cybersecurity Talent in America: Bridging the Gap](https://www.darkreading.com/operations/cybersecurity-talent-in-america-bridging-the-gap)
 - [The Need for Speed: When Cloud Attacks Take Only 10 Minutes](https://www.darkreading.com/cloud/the-need-for-speed-when-cloud-attacks-take-only-10-minutes)
 - [Too Rich to Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
 - [WatchGuard Threat Lab Report Finds Endpoint Malware Volumes Decreasing Despite Campaigns Growing More Expansive](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-endpoint-malware-volumes-decreasing-despite-campaigns-growing-more-expansive)
 - [RIT Is the First University to Receive Support From the Google Cybersecurity Clinics Fund](https://www.darkreading.com/operations/rit-is-the-first-university-to-receive-support-from-the-google-cybersecurity-clinics-fund)
-- [Predictive Analysis Can Reduce Risks Associated With Data Breaches](https://www.darkreading.com/attacks-breaches/predictive-analysis-can-reduce-risks-associated-with-data-breaches)
-- [SecTor 2023: Full Schedule Programming for Toronto Event](https://www.darkreading.com/attacks-breaches/sector-2023-full-schedule-programming-for-toronto-event)
-- [Cybersecurity Funding Rises by 21% in Q3 2023, Pinpoint Search Group&#39;s Report Indicates](https://www.darkreading.com/cloud/cybersecurity-funding-rises-by-21-in-q3-2023-pinpoint-search-group-s-report-indicates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
