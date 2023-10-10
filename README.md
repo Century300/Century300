@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Internet-Wide Zero-Day Bug Fuels Largest-Ever DDoS Event](https://www.darkreading.com/cloud/internet-wide-zero-day-bug-fuels-largest-ever-ddos-event)
 - [Hackers For Hire Hit Both Sides in Israel-Hamas Conflict](https://www.darkreading.com/dr-global/hackers-for-hire-hit-both-sides-in-israel-hamas-conflict)
 - [How Keyloggers Have Evolved From the Cold War to Today](https://www.darkreading.com/vulnerabilities-threats/how-keyloggers-have-evolved-from-the-cold-war-to-today)
 - [North Korea&#39;s State-Sponsored APTs Organize &amp; Align](https://www.darkreading.com/threat-intelligence/north-korea-state-sponsored-apt-organize-align)
@@ -83,7 +84,6 @@
 - [Hacktivists Enter Fray Following Hamas Strikes Against Israel](https://www.darkreading.com/dr-global/hacktivists-enter-fray-following-hamas-strikes-against-israel)
 - [&#39;Looney Tunables&#39; Linux Flaw Sees Snowballing Proof-of-Concept Exploits](https://www.darkreading.com/vulnerabilities-threats/looney-tunables-linux-flaw-sees-snowballing-proof-of-concept-exploits)
 - [Operation Behind Predator Mobile Spyware Is &#39;Industrial Scale&#39;](https://www.darkreading.com/endpoint/operation-behind-predator-mobile-spyware-industrial-scale)
-- [Patch Now: Massive RCE Campaign Wrangles Routers Into Botnet](https://www.darkreading.com/cloud/patch-now-massive-rce-campaign-d-link-zyxel-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
