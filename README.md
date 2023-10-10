@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Keyloggers Have Evolved From the Cold War to Today](https://www.darkreading.com/vulnerabilities-threats/how-keyloggers-have-evolved-from-the-cold-war-to-today)
+- [North Korea&#39;s State-Sponsored APTs Organize &amp; Align](https://www.darkreading.com/threat-intelligence/north-korea-state-sponsored-apt-organize-align)
 - [Old-School Attacks Are Still a Danger, Despite Newer Techniques](https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques)
 - [Hacktivists Enter Fray Following Hamas Strikes Against Israel](https://www.darkreading.com/dr-global/hacktivists-enter-fray-following-hamas-strikes-against-israel)
 - [&#39;Looney Tunables&#39; Linux Flaw Sees Snowballing Proof-of-Concept Exploits](https://www.darkreading.com/vulnerabilities-threats/looney-tunables-linux-flaw-sees-snowballing-proof-of-concept-exploits)
 - [Operation Behind Predator Mobile Spyware Is &#39;Industrial Scale&#39;](https://www.darkreading.com/endpoint/operation-behind-predator-mobile-spyware-industrial-scale)
 - [Patch Now: Massive RCE Campaign Wrangles Routers Into Botnet](https://www.darkreading.com/cloud/patch-now-massive-rce-campaign-d-link-zyxel-botnet)
 - [Cybersecurity Talent in America: Bridging the Gap](https://www.darkreading.com/operations/cybersecurity-talent-in-america-bridging-the-gap)
-- [The Need for Speed: When Cloud Attacks Take Only 10 Minutes](https://www.darkreading.com/cloud/the-need-for-speed-when-cloud-attacks-take-only-10-minutes)
-- [Too Rich to Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
