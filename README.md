@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Old-School Attacks Are Still a Danger, Despite Newer Techniques](https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques)
 - [Hacktivists Enter Fray Following Hamas Strikes Against Israel](https://www.darkreading.com/dr-global/hacktivists-enter-fray-following-hamas-strikes-against-israel)
 - [&#39;Looney Tunables&#39; Linux Flaw Sees Snowballing Proof-of-Concept Exploits](https://www.darkreading.com/vulnerabilities-threats/looney-tunables-linux-flaw-sees-snowballing-proof-of-concept-exploits)
 - [Operation Behind Predator Mobile Spyware Is &#39;Industrial Scale&#39;](https://www.darkreading.com/endpoint/operation-behind-predator-mobile-spyware-industrial-scale)
@@ -83,7 +84,6 @@
 - [Cybersecurity Talent in America: Bridging the Gap](https://www.darkreading.com/operations/cybersecurity-talent-in-america-bridging-the-gap)
 - [The Need for Speed: When Cloud Attacks Take Only 10 Minutes](https://www.darkreading.com/cloud/the-need-for-speed-when-cloud-attacks-take-only-10-minutes)
 - [Too Rich to Ransomware? MGM Brushes Off $100M in Losses](https://www.darkreading.com/attacks-breaches/too-rich-to-ransomware-mgm-brushes-off-100m-in-losses-)
-- [WatchGuard Threat Lab Report Finds Endpoint Malware Volumes Decreasing Despite Campaigns Growing More Expansive](https://www.darkreading.com/attacks-breaches/watchguard-threat-lab-report-finds-endpoint-malware-volumes-decreasing-despite-campaigns-growing-more-expansive)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
