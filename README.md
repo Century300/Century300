@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gaza Conflict: How Israeli Cybersecurity Will Respond](https://www.darkreading.com/dr-global/gaza-conflict-how-israeli-cybersecurity-will-respond)
 - [Addressing a Breach Starts With Getting Everyone on the Same Page](https://www.darkreading.com/attacks-breaches/addressing-breach-getting-everyone-on-the-same-page)
 - [Magecart Campaign Hijacks 404 Pages to Steal Data](https://www.darkreading.com/cloud/magecart-campaign-hijacks-404-pages-steal-data)
 - [Data Thieves Test-Drive Unique Certificate Abuse Tactic](https://www.darkreading.com/endpoint/data-thieves-unique-certificate-abuse)
@@ -83,7 +84,6 @@
 - [A Frontline Report of Chinese Threat Actor Tactics and Techniques](https://www.darkreading.com/microsoft/a-frontline-report-of-chinese-threat-actor-tactics-and-techniques)
 - [Protect AI Releases 3 AI/ML Security Tools as Open Source](https://www.darkreading.com/dr-tech/protect-ai-releases-3-ai-ml-security-tools-as-open-source)
 - [Securely Moving Financial Services to the Cloud](https://www.darkreading.com/google-cloud-security/securely-moving-financial-services-to-the-cloud)
-- [Microsoft Patch Tuesday Haunted by Zero-Days, Wormable Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-haunted-zero-days-wormable-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
