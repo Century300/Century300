@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese &#39;Stayin&#39; Alive&#39; Attacks Dance Onto Targets With Dumb Malware](https://www.darkreading.com/threat-intelligence/chinese-stayin-alive-attacks-basic-loaders-asian-telcos)
 - [Curl Bug Hype Fizzles After Patching Reveal](https://www.darkreading.com/vulnerabilities-threats/curl-bug-hype-fizzles-after-patching-reveal)
 - [Microsoft: Chinese APT Behind Atlassian Confluence Attacks; PoCs Appear](https://www.darkreading.com/threat-intelligence/microsoft-chinese-apt-behind-atlassian-confluence-attacks-pocs-appear)
 - [Cloud Security Demand Drives Better Cyber-Firm Valuations — and Deals](https://www.darkreading.com/cloud/cloud-security-demand-cyber-firm-valuations-and-deals)
@@ -83,7 +84,6 @@
 - [Gaza Conflict: How Israeli Cybersecurity Will Respond](https://www.darkreading.com/dr-global/gaza-conflict-how-israeli-cybersecurity-will-respond)
 - [Addressing a Breach Starts With Getting Everyone on the Same Page](https://www.darkreading.com/attacks-breaches/addressing-breach-getting-everyone-on-the-same-page)
 - [Magecart Campaign Hijacks 404 Pages to Steal Data](https://www.darkreading.com/cloud/magecart-campaign-hijacks-404-pages-steal-data)
-- [Data Thieves Test-Drive Unique Certificate Abuse Tactic](https://www.darkreading.com/endpoint/data-thieves-unique-certificate-abuse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
