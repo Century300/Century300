@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: Chinese APT Behind Atlassian Confluence Attacks; PoCs Appear](https://www.darkreading.com/threat-intelligence/microsoft-chinese-apt-behind-atlassian-confluence-attacks-pocs-appear)
 - [Cloud Security Demand Drives Better Cyber-Firm Valuations — and Deals](https://www.darkreading.com/cloud/cloud-security-demand-cyber-firm-valuations-and-deals)
 - [Adobe Acrobat Reader Vuln Now Under Attack](https://www.darkreading.com/vulnerabilities-threats/adobe-acrobat-reader-vuln-under-attack)
 - [Gaza Conflict: How Israeli Cybersecurity Will Respond](https://www.darkreading.com/dr-global/gaza-conflict-how-israeli-cybersecurity-will-respond)
@@ -83,7 +84,6 @@
 - [Magecart Campaign Hijacks 404 Pages to Steal Data](https://www.darkreading.com/cloud/magecart-campaign-hijacks-404-pages-steal-data)
 - [Data Thieves Test-Drive Unique Certificate Abuse Tactic](https://www.darkreading.com/endpoint/data-thieves-unique-certificate-abuse)
 - [Reassessing the Impacts of Risk Management With NIST Framework 2.0](https://www.darkreading.com/risk/reassessing-the-impacts-of-risk-management-in-2024-with-nist-2-0)
-- [A Frontline Report of Chinese Threat Actor Tactics and Techniques](https://www.darkreading.com/microsoft/a-frontline-report-of-chinese-threat-actor-tactics-and-techniques)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
