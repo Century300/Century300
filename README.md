@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Reassessing the Impacts of Risk Management With NIST Framework 2.0](https://www.darkreading.com/risk/reassessing-the-impacts-of-risk-management-in-2024-with-nist-2-0)
 - [A Frontline Report of Chinese Threat Actor Tactics and Techniques](https://www.darkreading.com/microsoft/a-frontline-report-of-chinese-threat-actor-tactics-and-techniques)
 - [Protect AI Releases 3 AI/ML Security Tools as Open Source](https://www.darkreading.com/dr-tech/protect-ai-releases-3-ai-ml-security-tools-as-open-source)
 - [Microsoft Patch Tuesday Haunted by Zero-Days, Wormable Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-haunted-zero-days-wormable-bug)
 - [Badbox Operation Targets Android Devices in Fraud Schemes](https://www.darkreading.com/vulnerabilities-threats/badbox-operation-targets-android-devices-in-fraud-schemes)
-- [New One-Click Exploit Is a Supply Chain Risk for Linux OSes](https://www.darkreading.com/vulnerabilities-threats/new-one-click-exploit-supply-chain-risk-linux-oses)
+- [One-Click &#39;Gnome&#39; Exploit Is a Supply Chain Risk for Linux OSes](https://www.darkreading.com/vulnerabilities-threats/new-one-click-exploit-supply-chain-risk-linux-oses)
 - [Internet-Wide Zero-Day Bug Fuels Largest-Ever DDoS Event](https://www.darkreading.com/cloud/internet-wide-zero-day-bug-fuels-largest-ever-ddos-event)
 - [Hackers for Hire Hit Both Sides in Israel-Hamas Conflict](https://www.darkreading.com/dr-global/hackers-for-hire-hit-both-sides-in-israel-hamas-conflict)
-- [How Keyloggers Have Evolved From the Cold War to Today](https://www.darkreading.com/vulnerabilities-threats/how-keyloggers-have-evolved-from-the-cold-war-to-today)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
