@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Frontline Report of Chinese Threat Actor Tactics and Techniques](https://www.darkreading.com/microsoft/a-frontline-report-of-chinese-threat-actor-tactics-and-techniques)
 - [Microsoft Patch Tuesday Haunted by Zero-Days, Wormable Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-haunted-zero-days-wormable-bug)
 - [Badbox Operation Targets Android Devices in Fraud Schemes](https://www.darkreading.com/vulnerabilities-threats/badbox-operation-targets-android-devices-in-fraud-schemes)
 - [New One-Click Exploit Is a Supply Chain Risk for Linux OSes](https://www.darkreading.com/vulnerabilities-threats/new-one-click-exploit-supply-chain-risk-linux-oses)
@@ -83,7 +84,6 @@
 - [Hackers For Hire Hit Both Sides in Israel-Hamas Conflict](https://www.darkreading.com/dr-global/hackers-for-hire-hit-both-sides-in-israel-hamas-conflict)
 - [How Keyloggers Have Evolved From the Cold War to Today](https://www.darkreading.com/vulnerabilities-threats/how-keyloggers-have-evolved-from-the-cold-war-to-today)
 - [North Korea&#39;s State-Sponsored APTs Organize &amp; Align](https://www.darkreading.com/threat-intelligence/north-korea-state-sponsored-apt-organize-align)
-- [Old-School Attacks Are Still a Danger, Despite Newer Techniques](https://www.darkreading.com/vulnerabilities-threats/old-school-attacks-are-still-a-danger-despite-newer-techniques)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
