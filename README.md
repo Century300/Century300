@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How to Scan Your Environment for Vulnerable Versions of Curl](https://www.darkreading.com/dr-tech/how-to-scan-environment-vulnerable-curl)
-- [New California Delete Act Tightens Rules for Data Brokers](https://www.darkreading.com/edge/new-california-delete-act-tightens-rules-data-brokers)
+- [Protect Critical Infrastructure With Same Rigor as Classified Networks](https://www.darkreading.com/risk/protect-critical-infrastructure-with-same-rigor-as-classified-networks)
 - [Uber&#39;s Ex-CISO Appeals Conviction Over 2016 Data Breach](https://www.darkreading.com/attacks-breaches/former-uber-ciso-appeals-conviction-over-2016-data-breach)
 - [Pan-African Financial Apps Leak Encryption, Authentication Keys](https://www.darkreading.com/dr-global/pan-african-financial-apps-leak-encryption-authentication-keys)
+- [New California Delete Act Tightens Rules for Data Brokers](https://www.darkreading.com/edge/new-california-delete-act-tightens-rules-data-brokers)
 - [Chinese &#39;Stayin&#39; Alive&#39; Attacks Dance Onto Targets With Dumb Malware](https://www.darkreading.com/threat-intelligence/chinese-stayin-alive-attacks-basic-loaders-asian-telcos)
 - [Curl Bug Hype Fizzles After Patching Reveal](https://www.darkreading.com/vulnerabilities-threats/curl-bug-hype-fizzles-after-patching-reveal)
 - [Microsoft: Chinese APT Behind Atlassian Confluence Attacks; PoCs Appear](https://www.darkreading.com/threat-intelligence/microsoft-chinese-apt-behind-atlassian-confluence-attacks-pocs-appear)
-- [Cloud Security Demand Drives Better Cyber-Firm Valuations — and Deals](https://www.darkreading.com/cloud/cloud-security-demand-cyber-firm-valuations-and-deals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
