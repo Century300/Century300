@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pan-African Financial Apps Leak Encryption, Authentication Keys](https://www.darkreading.com/dr-global/pan-african-financial-apps-leak-encryption-authentication-keys)
 - [Chinese &#39;Stayin&#39; Alive&#39; Attacks Dance Onto Targets With Dumb Malware](https://www.darkreading.com/threat-intelligence/chinese-stayin-alive-attacks-basic-loaders-asian-telcos)
 - [Curl Bug Hype Fizzles After Patching Reveal](https://www.darkreading.com/vulnerabilities-threats/curl-bug-hype-fizzles-after-patching-reveal)
 - [Microsoft: Chinese APT Behind Atlassian Confluence Attacks; PoCs Appear](https://www.darkreading.com/threat-intelligence/microsoft-chinese-apt-behind-atlassian-confluence-attacks-pocs-appear)
@@ -83,7 +84,6 @@
 - [Adobe Acrobat Reader Vuln Now Under Attack](https://www.darkreading.com/vulnerabilities-threats/adobe-acrobat-reader-vuln-under-attack)
 - [Gaza Conflict: How Israeli Cybersecurity Will Respond](https://www.darkreading.com/dr-global/gaza-conflict-how-israeli-cybersecurity-will-respond)
 - [Addressing a Breach Starts With Getting Everyone on the Same Page](https://www.darkreading.com/attacks-breaches/addressing-breach-getting-everyone-on-the-same-page)
-- [Magecart Campaign Hijacks 404 Pages to Steal Data](https://www.darkreading.com/cloud/magecart-campaign-hijacks-404-pages-steal-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
