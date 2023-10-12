@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How to Scan Your Environment for Vulnerable Versions of Curl](https://www.darkreading.com/dr-tech/how-to-scan-environment-vulnerable-curl)
+- [DarkGate Operator Uses Skype, Teams Messages to Distribute Malware](https://www.darkreading.com/attacks-breaches/darkgate-operator-skype-teams-messages-distribute-malware)
+- [Brands Beware: X&#39;s New Badge System Is a Ripe Cyber-Target](https://www.darkreading.com/application-security/x-twitter-new-badge-system-cyber-target)
+- [Microsoft Set to Retire Grunge-Era VBScript, to Cybercrime&#39;s Chagrin](https://www.darkreading.com/cloud/microsoft-retire-vbscript-cybercrime-chagrin)
+- [BlackBerry Unveils Next-Generation UEM Redefining the Endpoint Management Market](https://www.darkreading.com/endpoint/blackberry-unveils-next-generation-uem-redefining-the-endpoint-management-market)
 - [Simpson Manufacturing Launches Investigation After Cyberattack](https://www.darkreading.com/attacks-breaches/simpson-manufacturing-launches-investigation-after-cyberattack)
 - [The Cyberwar Between the East and the West Goes Through Africa](https://www.darkreading.com/dr-global/the-cyberwar-between-the-east-and-the-west-goes-through-africa)
-- [Backdoor Lurks Behind WordPress Caching Plugin to Hijack Websites](https://www.darkreading.com/endpoint/backdoor-lurks-behind-wordpress-caching-plugin-to-hijack-websites)
-- [Protect Critical Infrastructure With Same Rigor as Classified Networks](https://www.darkreading.com/risk/protect-critical-infrastructure-with-same-rigor-as-classified-networks)
-- [Uber&#39;s Ex-CISO Appeals Conviction Over 2016 Data Breach](https://www.darkreading.com/attacks-breaches/former-uber-ciso-appeals-conviction-over-2016-data-breach)
-- [Pan-African Financial Apps Leak Encryption, Authentication Keys](https://www.darkreading.com/dr-global/pan-african-financial-apps-leak-encryption-authentication-keys)
-- [New California Delete Act Tightens Rules for Data Brokers](https://www.darkreading.com/edge/new-california-delete-act-tightens-rules-data-brokers)
+- [Backdoor Lurks Behind WordPress Caching Plug-in to Hijack Websites](https://www.darkreading.com/endpoint/backdoor-lurks-behind-wordpress-caching-plugin-to-hijack-websites)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
