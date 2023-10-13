@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ShellBot Cracks Linux SSH Servers, Debuts New Evasion Tactic](https://www.darkreading.com/cloud/shellbot-cracks-linux-ssh-servers-debuts-new-evasion-tactic)
+- [Microsoft Debuts AI Bug-Bounty Program, Offers $15K](https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k)
 - [Gaza Conflict Paves Way for Pro-Hamas Information Operations](https://www.darkreading.com/dr-global/gaza-conflict-paves-way-information-operations-campaigns)
 - [What the Hollywood Writers Strike Resolution Means for Cybersecurity](https://www.darkreading.com/operations/what-the-hollywood-writers-strike-resolution-means-for-cybersecurity)
 - [Making the Case for Cryptographic Agility and Orchestration](https://www.darkreading.com/dr-tech/making-the-case-for-cryptographic-agility-and-orchestration)
 - [How to Scan Your Environment for Vulnerable Versions of Curl](https://www.darkreading.com/dr-tech/how-to-scan-environment-vulnerable-curl)
 - [DigiCert Announces Comprehensive Discovery of Cryptographic Assets](https://www.darkreading.com/operations/digicert-announces-comprehensive-discovery-of-cryptographic-assets)
 - [Appdome Announces Attack Evaluation Tools in Digital Economy&#39;s Mobile XDR](https://www.darkreading.com/endpoint/appdome-announces-attack-evaluation-tools-in-digital-economy-s-mobile-xdr)
-- [DarkGate Operator Uses Skype, Teams Messages to Distribute Malware](https://www.darkreading.com/attacks-breaches/darkgate-operator-skype-teams-messages-distribute-malware)
-- [Brands Beware: X&#39;s New Badge System Is a Ripe Cyber-Target](https://www.darkreading.com/application-security/x-twitter-new-badge-system-cyber-target)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
