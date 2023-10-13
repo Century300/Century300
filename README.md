@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Security Pros Warn that EU&#39;s Vulnerability Disclosure Rule is Risky](https://www.darkreading.com/edge/security-pros-warn-that-eu-vulnerability-disclosure-rule-is-risky)
+- [How MOVEit Is Likely to Shift Cyber Insurance Calculus](https://www.darkreading.com/risk/moveit-shift-cyber-insurance-calculus)
+- [Feds: Beware AvosLocker Ransomware Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/feds-beware-avoslocker-ransomware-attacks-critical-infrastructure)
+- [Security Pros Warn That EU&#39;s Vulnerability Disclosure Rule Is Risky](https://www.darkreading.com/edge/security-pros-warn-that-eu-vulnerability-disclosure-rule-is-risky)
 - [ShellBot Cracks Linux SSH Servers, Debuts New Evasion Tactic](https://www.darkreading.com/cloud/shellbot-cracks-linux-ssh-servers-debuts-new-evasion-tactic)
 - [Microsoft Debuts AI Bug-Bounty Program, Offers $15K](https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k)
 - [Gaza Conflict Paves Way for Pro-Hamas Information Operations](https://www.darkreading.com/dr-global/gaza-conflict-paves-way-information-operations-campaigns)
+- [Passkeys Are Cool, But They Aren&#39;t Enterprise-Ready](https://www.darkreading.com/dr-tech/passkeys-cool-but-not-ready-for-enterprises)
 - [What the Hollywood Writers Strike Resolution Means for Cybersecurity](https://www.darkreading.com/operations/what-the-hollywood-writers-strike-resolution-means-for-cybersecurity)
-- [Making the Case for Cryptographic Agility and Orchestration](https://www.darkreading.com/dr-tech/making-the-case-for-cryptographic-agility-and-orchestration)
-- [How to Scan Your Environment for Vulnerable Versions of Curl](https://www.darkreading.com/dr-tech/how-to-scan-environment-vulnerable-curl)
-- [DigiCert Announces Comprehensive Discovery of Cryptographic Assets](https://www.darkreading.com/operations/digicert-announces-comprehensive-discovery-of-cryptographic-assets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
