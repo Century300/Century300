@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Pros Warn that EU&#39;s Vulnerability Disclosure Rule is Risky](https://www.darkreading.com/edge/security-pros-warn-that-eu-vulnerability-disclosure-rule-is-risky)
 - [ShellBot Cracks Linux SSH Servers, Debuts New Evasion Tactic](https://www.darkreading.com/cloud/shellbot-cracks-linux-ssh-servers-debuts-new-evasion-tactic)
 - [Microsoft Debuts AI Bug-Bounty Program, Offers $15K](https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k)
 - [Gaza Conflict Paves Way for Pro-Hamas Information Operations](https://www.darkreading.com/dr-global/gaza-conflict-paves-way-information-operations-campaigns)
@@ -83,7 +84,6 @@
 - [Making the Case for Cryptographic Agility and Orchestration](https://www.darkreading.com/dr-tech/making-the-case-for-cryptographic-agility-and-orchestration)
 - [How to Scan Your Environment for Vulnerable Versions of Curl](https://www.darkreading.com/dr-tech/how-to-scan-environment-vulnerable-curl)
 - [DigiCert Announces Comprehensive Discovery of Cryptographic Assets](https://www.darkreading.com/operations/digicert-announces-comprehensive-discovery-of-cryptographic-assets)
-- [Appdome Announces Attack Evaluation Tools in Digital Economy&#39;s Mobile XDR](https://www.darkreading.com/endpoint/appdome-announces-attack-evaluation-tools-in-digital-economy-s-mobile-xdr)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
