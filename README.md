@@ -82,7 +82,7 @@
 - [ShellBot Cracks Linux SSH Servers, Debuts New Evasion Tactic](https://www.darkreading.com/cloud/shellbot-cracks-linux-ssh-servers-debuts-new-evasion-tactic)
 - [Microsoft Debuts AI Bug-Bounty Program, Offers $15K](https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k)
 - [Gaza Conflict Paves Way for Pro-Hamas Information Operations](https://www.darkreading.com/dr-global/gaza-conflict-paves-way-information-operations-campaigns)
-- [Passkeys Are Cool, But They Aren&#39;t Enterprise-Ready](https://www.darkreading.com/dr-tech/passkeys-cool-but-not-ready-for-enterprises)
+- [Passkeys Are Cool, but They Aren&#39;t Enterprise-Ready](https://www.darkreading.com/dr-tech/passkeys-cool-but-not-ready-for-enterprises)
 - [What the Hollywood Writers Strike Resolution Means for Cybersecurity](https://www.darkreading.com/operations/what-the-hollywood-writers-strike-resolution-means-for-cybersecurity)
 <!-- DARKREADING:END -->
 
