@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Modern Monarchy](https://www.darkreading.com/cloud/name-that-toon-modern-monarchy)
+- [Pro-Israeli Hacktivist Group Predatory Sparrow Reappears](https://www.darkreading.com/dr-global/pro-israeli-hacktivist-group-predatory-sparrow-reappears)
 - [How Data Changes the Cyber-Insurance Market Outlook](https://www.darkreading.com/risk/how-data-changes-the-cyber-insurance-market-outlook)
 - [3 Essential Steps to Strengthen SaaS Security](https://www.darkreading.com/risk/3-essential-steps-to-strengthen-saas-security)
 - [Why Zero Trust Is the Cloud Security Imperative](https://www.darkreading.com/cloud/why-zero-trust-is-the-cloud-security-imperative)
 - [How MOVEit Is Likely to Shift Cyber Insurance Calculus](https://www.darkreading.com/risk/moveit-shift-cyber-insurance-calculus)
 - [Feds: Beware AvosLocker Ransomware Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/feds-beware-avoslocker-ransomware-attacks-critical-infrastructure)
 - [Security Pros Warn That EU&#39;s Vulnerability Disclosure Rule Is Risky](https://www.darkreading.com/edge/security-pros-warn-that-eu-vulnerability-disclosure-rule-is-risky)
-- [ShellBot Cracks Linux SSH Servers, Debuts New Evasion Tactic](https://www.darkreading.com/cloud/shellbot-cracks-linux-ssh-servers-debuts-new-evasion-tactic)
-- [Microsoft Debuts AI Bug-Bounty Program, Offers $15K](https://www.darkreading.com/vulnerabilities-threats/microsoft-debuts-ai-bug-bounty-program-offers-15k)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
