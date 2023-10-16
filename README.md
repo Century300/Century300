@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malicious &#39;Airstrike Alert&#39; App Targets Israelis](https://www.darkreading.com/application-security/fake-airstrike-alert-app-targets-israelis)
+- [Critical, Unpatched Cisco Zero-Day Bug Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/critical-unpatched-cisco-zero-day-bug-active-exploit)
 - [&#39;RomCom&#39; Cyber Campaign Targets Women Political Leaders](https://www.darkreading.com/attacks-breaches/romcom-cybercampaign-targets-women-political-leaders)
 - [Name That Toon: Modern Monarchy](https://www.darkreading.com/cloud/name-that-toon-modern-monarchy)
 - [Pro-Israeli Hacktivist Group &#39;Predatory Sparrow&#39; Reappears](https://www.darkreading.com/dr-global/pro-israeli-hacktivist-group-predatory-sparrow-reappears)
 - [How Data Changes the Cyber-Insurance Market Outlook](https://www.darkreading.com/risk/how-data-changes-the-cyber-insurance-market-outlook)
 - [3 Essential Steps to Strengthen SaaS Security](https://www.darkreading.com/risk/3-essential-steps-to-strengthen-saas-security)
 - [Why Zero Trust Is the Cloud Security Imperative](https://www.darkreading.com/cloud/why-zero-trust-is-the-cloud-security-imperative)
-- [How MOVEit Is Likely to Shift Cyber Insurance Calculus](https://www.darkreading.com/risk/moveit-shift-cyber-insurance-calculus)
-- [Feds: Beware AvosLocker Ransomware Attacks on Critical Infrastructure](https://www.darkreading.com/ics-ot/feds-beware-avoslocker-ransomware-attacks-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
