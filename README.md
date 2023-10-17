@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Watch Out: Attackers Are Hiding Malware in &#39;Browser Updates&#39;](https://www.darkreading.com/threat-intelligence/watch-out-attackers-hiding-malware-browser-updates)
+- [‘Etherhiding’ Blockchain Technique Hides Malicious Code in WordPress Sites](https://www.darkreading.com/attacks-breaches/etherhiding-blockchain-technique-hides-malicious-code-wordpress-sites)
 - [Top 6 Mistakes in Incident Response Tabletop Exercises](https://www.darkreading.com/operations/top-6-mistakes-in-incident-response-tabletop-exercises)
 - [5 Ways Hospitals Can Help Improve Their IoT Security](https://www.darkreading.com/dr-tech/5-ways-hospitals-can-help-improve-their-iot-security)
 - [Security Must Empower AI Developers Now](https://www.darkreading.com/edge/security-must-empower-ai-developers-now)
 - [Malicious &#39;Airstrike Alert&#39; App Targets Israelis](https://www.darkreading.com/application-security/fake-airstrike-alert-app-targets-israelis)
 - [Kaspersky Launches Specialized Security Solution for Containerized Environments](https://www.darkreading.com/cloud/kaspersky-launches-specialized-security-solution-for-containerized-environments)
 - [Critical, Unpatched Cisco Zero-Day Bug Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/critical-unpatched-cisco-zero-day-bug-active-exploit)
-- [&#39;RomCom&#39; Cyber Campaign Targets Women Political Leaders](https://www.darkreading.com/attacks-breaches/romcom-cybercampaign-targets-women-political-leaders)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
