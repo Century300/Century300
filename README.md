@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top 6 Mistakes in Incident Response Tabletop Exercises](https://www.darkreading.com/operations/top-6-mistakes-in-incident-response-tabletop-exercises)
 - [5 Ways Hospitals Can Help Improve Their IoT Security](https://www.darkreading.com/dr-tech/5-ways-hospitals-can-help-improve-their-iot-security)
 - [Security Must Empower AI Developers Now](https://www.darkreading.com/edge/security-must-empower-ai-developers-now)
 - [Malicious &#39;Airstrike Alert&#39; App Targets Israelis](https://www.darkreading.com/application-security/fake-airstrike-alert-app-targets-israelis)
@@ -83,7 +84,6 @@
 - [Critical, Unpatched Cisco Zero-Day Bug Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/critical-unpatched-cisco-zero-day-bug-active-exploit)
 - [&#39;RomCom&#39; Cyber Campaign Targets Women Political Leaders](https://www.darkreading.com/attacks-breaches/romcom-cybercampaign-targets-women-political-leaders)
 - [Name That Toon: Modern Monarchy](https://www.darkreading.com/cloud/name-that-toon-modern-monarchy)
-- [Pro-Israeli Hacktivist Group &#39;Predatory Sparrow&#39; Reappears](https://www.darkreading.com/dr-global/pro-israeli-hacktivist-group-predatory-sparrow-reappears)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
