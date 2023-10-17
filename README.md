@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Watch Out: Attackers Are Hiding Malware in &#39;Browser Updates&#39;](https://www.darkreading.com/threat-intelligence/watch-out-attackers-hiding-malware-browser-updates)
 - [Top 6 Mistakes in Incident Response Tabletop Exercises](https://www.darkreading.com/operations/top-6-mistakes-in-incident-response-tabletop-exercises)
 - [5 Ways Hospitals Can Help Improve Their IoT Security](https://www.darkreading.com/dr-tech/5-ways-hospitals-can-help-improve-their-iot-security)
 - [Security Must Empower AI Developers Now](https://www.darkreading.com/edge/security-must-empower-ai-developers-now)
@@ -83,7 +84,6 @@
 - [Kaspersky Launches Specialized Security Solution for Containerized Environments](https://www.darkreading.com/cloud/kaspersky-launches-specialized-security-solution-for-containerized-environments)
 - [Critical, Unpatched Cisco Zero-Day Bug Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/critical-unpatched-cisco-zero-day-bug-active-exploit)
 - [&#39;RomCom&#39; Cyber Campaign Targets Women Political Leaders](https://www.darkreading.com/attacks-breaches/romcom-cybercampaign-targets-women-political-leaders)
-- [Name That Toon: Modern Monarchy](https://www.darkreading.com/cloud/name-that-toon-modern-monarchy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
