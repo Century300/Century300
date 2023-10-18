@@ -76,13 +76,13 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EPA Turns Off Taps on Water Utility Cyber Regulations](https://www.darkreading.com/ics-ot/epa-water-utility-cyber-regulations)
 - [North Korea&#39;s Kimsuky Doubles Down on Remote Desktop Control](https://www.darkreading.com/attacks-breaches/north-korea-s-kimsuky-doubles-down-on-remote-desktop-control)
 - [The Need for a Cybersecurity-Centric Business Culture](https://www.darkreading.com/operations/the-need-for-a-cybersecurity-centric-business-culture)
 - [Pro-Iranian Hacktivists Set Sights on Israeli Industrial Control Systems](https://www.darkreading.com/dr-global/pro-iranian-hacktivists-sights-israeli-industrial-control-systems)
 - [Israeli Cybersecurity Startups: Impact of a Growing Conflict](https://www.darkreading.com/dr-global/israeli-cybersecurity-startups-impact-of-a-growing-conflict-)
 - [Jupyter Notebook Ripe for Cloud Credential Theft, Researchers Warn](https://www.darkreading.com/cloud/jupyter-notebook-cloud-credential-theft)
 - [Data Security and Collaboration in the Modern Enterprise](https://www.darkreading.com/tech-trends/data-security-collaboration-in-modern-enterprise)
-- [Chatbot Offers Roadmap for How to Conduct a Bio Weapons Attack](https://www.darkreading.com/threat-intelligence/chatbot-roadmap-how-to-conduct-a-bio-weapons-attack)
 - [Amazon Quietly Wades Into the Passkey Waters](https://www.darkreading.com/cloud/amazon-quietly-wades-into-passkey-waters)
 <!-- DARKREADING:END -->
 
