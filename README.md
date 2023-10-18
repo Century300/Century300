@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What CISOs Should Exclude From SEC Cybersecurity Filings](https://www.darkreading.com/edge/what-cisos-should-exclude-from-sec-cybersecurity-filings)
+- [D-Link Confirms Breach, Rebuts Hacker&#39;s Claims About Scope](https://www.darkreading.com/attacks-breaches/d-link-confirms-breach-rebuts-hackers-claims-scope)
 - [FBI: Hackers Are Extorting Plastic Surgery Providers, Patients](https://www.darkreading.com/threat-intelligence/fbi-hackers-extorting-plastic-surgery-providers-patients)
 - [The Most Popular IT Admin Password Is Totally Depressing](https://www.darkreading.com/application-security/the-most-popular-it-admin-password-is-totally-depressing)
 - [OCP Launches SAFE to Standardize Firmware Audits](https://www.darkreading.com/edge/ocp-launches-safe-to-standardize-firmware-audits)
 - [Critical Citrix Bug Exploited as a Zero-Day, &#39;Patching Is Not Enough&#39;](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bug-exploited-zero-day-patching-not-enough)
 - [EPA Turns Off Taps on Water Utility Cyber Regulations](https://www.darkreading.com/ics-ot/epa-water-utility-cyber-regulations)
 - [North Korea&#39;s Kimsuky Doubles Down on Remote Desktop Control](https://www.darkreading.com/attacks-breaches/north-korea-s-kimsuky-doubles-down-on-remote-desktop-control)
-- [The Need for a Cybersecurity-Centric Business Culture](https://www.darkreading.com/operations/the-need-for-a-cybersecurity-centric-business-culture)
-- [Pro-Iranian Hacktivists Set Sights on Israeli Industrial Control Systems](https://www.darkreading.com/dr-global/pro-iranian-hacktivists-sights-israeli-industrial-control-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
