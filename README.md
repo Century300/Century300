@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Need for a Cybersecurity-Centric Business Culture](https://www.darkreading.com/operations/the-need-for-a-cybersecurity-centric-business-culture)
+- [Pro-Iranian Hacktivists Set Sights on Israeli Industrial Control Systems](https://www.darkreading.com/dr-global/pro-iranian-hacktivists-sights-israeli-industrial-control-systems)
+- [Israeli Cybersecurity Startups: Impact of a Growing Conflict](https://www.darkreading.com/dr-global/israeli-cybersecurity-startups-impact-of-a-growing-conflict-)
 - [Data Security and Collaboration in the Modern Enterprise](https://www.darkreading.com/tech-trends/data-security-collaboration-in-modern-enterprise)
 - [Jupyter Notebook Ripe for Cloud Credential Theft, Researchers Warn](https://www.darkreading.com/cloud/jupyter-notebook-cloud-credential-theft)
-- [Chatbot Offers Roadmap for How to Conduct a Bio Weapons Attack](https://www.darkreading.com/threat-intelligence/chatbot-roadmap-how-to-conduct-a-bio-weapons-attack)
 - [Amazon Quietly Wades Into the Passkey Waters](https://www.darkreading.com/cloud/amazon-quietly-wades-into-passkey-waters)
+- [Chatbot Offers Roadmap for How to Conduct a Bio Weapons Attack](https://www.darkreading.com/threat-intelligence/chatbot-roadmap-how-to-conduct-a-bio-weapons-attack)
 - [UAE, US Partner to Bolster Financial Services Cybersecurity](https://www.darkreading.com/dr-global/uae-and-us-partner-to-bolster-financial-services-security)
-- [Zero-Day Alert: Thousands of Cisco IOS XE Systems Now Compromised](https://www.darkreading.com/attacks-breaches/ten-thousand-cisco-ios-xe-systems-compromised-zero-day-bug)
-- [&#39;Etherhiding&#39; Blockchain Technique Masks Malicious Code in WordPress Sites](https://www.darkreading.com/attacks-breaches/etherhiding-blockchain-technique-hides-malicious-code-wordpress-sites)
-- [Watch Out: Attackers Are Hiding Malware in &#39;Browser Updates&#39;](https://www.darkreading.com/threat-intelligence/watch-out-attackers-hiding-malware-browser-updates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
