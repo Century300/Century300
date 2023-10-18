@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Jupyter Notebook Ripe for Cloud Credential Theft, Researchers Warn](https://www.darkreading.com/cloud/jupyter-notebook-cloud-credential-theft)
 - [Chatbot Offers Roadmap for How to Conduct a Bio Weapons Attack](https://www.darkreading.com/threat-intelligence/chatbot-roadmap-how-to-conduct-a-bio-weapons-attack)
 - [Amazon Quietly Wades Into the Passkey Waters](https://www.darkreading.com/cloud/amazon-quietly-wades-into-passkey-waters)
 - [UAE, US Partner to Bolster Financial Services Cybersecurity](https://www.darkreading.com/dr-global/uae-and-us-partner-to-bolster-financial-services-security)
@@ -83,7 +84,6 @@
 - [&#39;Etherhiding&#39; Blockchain Technique Masks Malicious Code in WordPress Sites](https://www.darkreading.com/attacks-breaches/etherhiding-blockchain-technique-hides-malicious-code-wordpress-sites)
 - [Watch Out: Attackers Are Hiding Malware in &#39;Browser Updates&#39;](https://www.darkreading.com/threat-intelligence/watch-out-attackers-hiding-malware-browser-updates)
 - [Top 6 Mistakes in Incident Response Tabletop Exercises](https://www.darkreading.com/operations/top-6-mistakes-in-incident-response-tabletop-exercises)
-- [5 Ways Hospitals Can Help Improve Their IoT Security](https://www.darkreading.com/dr-tech/5-ways-hospitals-can-help-improve-their-iot-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
