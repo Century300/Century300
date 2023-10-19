@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran-Linked &#39;MuddyWater&#39; Spies on Mideast Gov&#39;t for 8 Months](https://www.darkreading.com/dr-global/iran-linked-muddywater-spies-middle-east-govt-eight-months)
 - [The Trifecta of Consumer Data Privacy: Education, Advocacy &amp; Accountability](https://www.darkreading.com/endpoint/the-trifecta-of-consumer-data-privacy-education-advocacy-accountability)
+- [Patch Now: APTs Continue to Pummel WinRAR Bug](https://www.darkreading.com/attacks-breaches/patch-now-apts-pummel-winrar-bug)
 - [What CISOs Should Exclude From SEC Cybersecurity Filings](https://www.darkreading.com/edge/what-cisos-should-exclude-from-sec-cybersecurity-filings)
 - [D-Link Confirms Breach, Rebuts Hacker&#39;s Claims About Scope](https://www.darkreading.com/attacks-breaches/d-link-confirms-breach-rebuts-hackers-claims-scope)
 - [FBI: Hackers Are Extorting Plastic Surgery Providers, Patients](https://www.darkreading.com/threat-intelligence/fbi-hackers-extorting-plastic-surgery-providers-patients)
 - [The Most Popular IT Admin Password Is Totally Depressing](https://www.darkreading.com/application-security/the-most-popular-it-admin-password-is-totally-depressing)
 - [OCP Launches SAFE to Standardize Firmware Audits](https://www.darkreading.com/edge/ocp-launches-safe-to-standardize-firmware-audits)
-- [Critical Citrix Bug Exploited as a Zero-Day, &#39;Patching Is Not Enough&#39;](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bug-exploited-zero-day-patching-not-enough)
-- [Open Source Security Agents Promise Greater Simplicity, Flexibility](https://www.darkreading.com/dr-tech/open-source-security-agents-promise-greater-simplicity-flexibility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
