@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI &#39;Will Have a Significant Impact on Energy Industry,&#39; EPRI Tells Congress](https://www.darkreading.com/operations/ai-will-have-a-significant-impact-on-energy-industry-epri-tells-congress)
+- [Norton Boosts Security and Privacy With Enhanced Password Manager and AntiTrack](https://www.darkreading.com/application-security/norton-boosts-security-and-privacy-with-enhanced-password-manager-and-antitrack)
+- [Spec Secures $15M Series A Funding, Accelerating Innovation in Fraud Defense](https://www.darkreading.com/threat-intelligence/spec-secures-15m-series-a-funding-accelerating-innovation-in-fraud-defense)
+- [Fingerprint Raises $33M in Series C Funding to Accelerate Enterprise Device Intelligence and Fraud Prevention Adoption](https://www.darkreading.com/operations/fingerprint-raises-33m-in-series-c-funding-to-accelerate-enterprise-device-intelligence-and-fraud-prevention-adoption)
 - [SailPoint Unveils Annual &#39;Horizons of Identity Security&#39; Report](https://www.darkreading.com/endpoint/sailpoint-unveils-annual-horizons-of-identity-security-report)
 - [23AndMe Hacker Leaks New Tranche of Stolen Data](https://www.darkreading.com/attacks-breaches/23andme-hacker-leaks-new-tranche-of-stolen-data-)
 - [North Korean State Actors Attack Critical Bug in TeamCity Server](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-attack-critical-bug-in-teamcity-server)
 - [Europol Strike Wounds Ragnar Locker Ransomware Group](https://www.darkreading.com/threat-intelligence/europol-strike-ragnar-locker-ransomware)
-- [Tips for a Successful SecOps Game Plan](https://www.darkreading.com/edge/tips-for-a-successful-secops-gameplan)
-- [AI-Powered Israeli &#39;Cyber Dome&#39; Defense Operation Comes to Life](https://www.darkreading.com/dr-global/ai-powered-israeli-cyber-dome-defense-operation-comes-to-life)
-- [Q&amp;A: The Outlook for Israeli Cyber Startups, As War Clouds Gather](https://www.darkreading.com/dr-global/outlook-israeli-cyber-startups-war-clouds-gather)
-- [Patch Now: APTs Continue to Pummel WinRAR Bug](https://www.darkreading.com/attacks-breaches/patch-now-apts-pummel-winrar-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
