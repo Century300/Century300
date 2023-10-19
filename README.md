@@ -83,7 +83,7 @@
 - [The Most Popular IT Admin Password Is Totally Depressing](https://www.darkreading.com/application-security/the-most-popular-it-admin-password-is-totally-depressing)
 - [OCP Launches SAFE to Standardize Firmware Audits](https://www.darkreading.com/edge/ocp-launches-safe-to-standardize-firmware-audits)
 - [Critical Citrix Bug Exploited as a Zero-Day, &#39;Patching Is Not Enough&#39;](https://www.darkreading.com/vulnerabilities-threats/critical-citrix-bug-exploited-zero-day-patching-not-enough)
-- [Open-Source Security Agents Promise Greater Simplicity, Flexibility](https://www.darkreading.com/dr-tech/open-source-security-agents-promise-greater-simplicity-flexibility)
+- [Open Source Security Agents Promise Greater Simplicity, Flexibility](https://www.darkreading.com/dr-tech/open-source-security-agents-promise-greater-simplicity-flexibility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
