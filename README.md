@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tips for a Successful SecOps Game Plan](https://www.darkreading.com/edge/tips-for-a-successful-secops-gameplan)
+- [AI-Powered Israeli &#39;Cyber Dome&#39; Defense Operation Comes to Life](https://www.darkreading.com/dr-global/ai-powered-israeli-cyber-dome-defense-operation-comes-to-life)
 - [Q&amp;A: The Outlook for Israeli Cyber Startups, As War Clouds Gather](https://www.darkreading.com/dr-global/outlook-israeli-cyber-startups-war-clouds-gather)
 - [Patch Now: APTs Continue to Pummel WinRAR Bug](https://www.darkreading.com/attacks-breaches/patch-now-apts-pummel-winrar-bug)
 - [Iran-Linked &#39;MuddyWater&#39; Spies on Mideast Gov&#39;t for 8 Months](https://www.darkreading.com/dr-global/iran-linked-muddywater-spies-middle-east-govt-eight-months)
 - [The Trifecta of Consumer Data Privacy: Education, Advocacy &amp; Accountability](https://www.darkreading.com/endpoint/the-trifecta-of-consumer-data-privacy-education-advocacy-accountability)
 - [What CISOs Should Exclude From SEC Cybersecurity Filings](https://www.darkreading.com/edge/what-cisos-should-exclude-from-sec-cybersecurity-filings)
 - [D-Link Confirms Breach, Rebuts Hacker&#39;s Claims About Scope](https://www.darkreading.com/attacks-breaches/d-link-confirms-breach-rebuts-hackers-claims-scope)
-- [FBI: Hackers Are Extorting Plastic Surgery Providers, Patients](https://www.darkreading.com/threat-intelligence/fbi-hackers-extorting-plastic-surgery-providers-patients)
-- [The Most Popular IT Admin Password Is Totally Depressing](https://www.darkreading.com/application-security/the-most-popular-it-admin-password-is-totally-depressing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
