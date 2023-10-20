@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SIM Card Ownership Slashed in Burkina Faso](https://www.darkreading.com/dr-global/sim-card-ownership-slashed-in-burkina-faso)
 - [Change From Within: 3 Cybersecurity Transformation Traps for CISOs to Avoid](https://www.darkreading.com/vulnerabilities-threats/change-from-within-3-cybersecurity-transformation-traps-for-cisos-to-avoid)
 - [What are Your Exception Expectations?](https://www.darkreading.com/google-cloud-security/what-are-your-exception-expectations)
 - [AI &#39;Will Have a Significant Impact on Energy Industry,&#39; EPRI Tells Congress](https://www.darkreading.com/operations/ai-will-have-a-significant-impact-on-energy-industry-epri-tells-congress)
@@ -83,7 +84,6 @@
 - [Spec Secures $15M Series A Funding, Accelerating Innovation in Fraud Defense](https://www.darkreading.com/threat-intelligence/spec-secures-15m-series-a-funding-accelerating-innovation-in-fraud-defense)
 - [Fingerprint Raises $33M in Series C Funding to Accelerate Enterprise Device Intelligence and Fraud Prevention Adoption](https://www.darkreading.com/operations/fingerprint-raises-33m-in-series-c-funding-to-accelerate-enterprise-device-intelligence-and-fraud-prevention-adoption)
 - [SailPoint Unveils Annual &#39;Horizons of Identity Security&#39; Report](https://www.darkreading.com/endpoint/sailpoint-unveils-annual-horizons-of-identity-security-report)
-- [23AndMe Hacker Leaks New Tranche of Stolen Data](https://www.darkreading.com/attacks-breaches/23andme-hacker-leaks-new-tranche-of-stolen-data-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
