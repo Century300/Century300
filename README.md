@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Change From Within: 3 Cybersecurity Transformation Traps for CISOs to Avoid](https://www.darkreading.com/vulnerabilities-threats/change-from-within-3-cybersecurity-transformation-traps-for-cisos-to-avoid)
 - [AI &#39;Will Have a Significant Impact on Energy Industry,&#39; EPRI Tells Congress](https://www.darkreading.com/operations/ai-will-have-a-significant-impact-on-energy-industry-epri-tells-congress)
 - [Norton Boosts Security and Privacy With Enhanced Password Manager and AntiTrack](https://www.darkreading.com/application-security/norton-boosts-security-and-privacy-with-enhanced-password-manager-and-antitrack)
 - [Spec Secures $15M Series A Funding, Accelerating Innovation in Fraud Defense](https://www.darkreading.com/threat-intelligence/spec-secures-15m-series-a-funding-accelerating-innovation-in-fraud-defense)
@@ -83,7 +84,6 @@
 - [SailPoint Unveils Annual &#39;Horizons of Identity Security&#39; Report](https://www.darkreading.com/endpoint/sailpoint-unveils-annual-horizons-of-identity-security-report)
 - [23AndMe Hacker Leaks New Tranche of Stolen Data](https://www.darkreading.com/attacks-breaches/23andme-hacker-leaks-new-tranche-of-stolen-data-)
 - [North Korean State Actors Attack Critical Bug in TeamCity Server](https://www.darkreading.com/attacks-breaches/north-korean-state-actors-attack-critical-bug-in-teamcity-server)
-- [Europol Strike Wounds Ragnar Locker Ransomware Group](https://www.darkreading.com/threat-intelligence/europol-strike-ragnar-locker-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
