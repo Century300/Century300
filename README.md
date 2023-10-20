@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
+- [Cisco Finds New Zero Day Bug, Pledges Patches in Days](https://www.darkreading.com/application-security/cisco-zero-day-bug-patches-in-days)
 - [DoD Gets Closer to Nominating Cyber Policy Chief](https://www.darkreading.com/operations/dod-closer-nominating-cyber-policy-chief)
 - [Ducktail Infostealer, DarkGate RAT Linked to Same Threat Actors](https://www.darkreading.com/vulnerabilities-threats/ducktail-infostealer-darkgate-rat-linked-to-same-threat-actors)
 - [SIM Card Ownership Slashed in Burkina Faso](https://www.darkreading.com/dr-global/sim-card-ownership-slashed-in-burkina-faso)
 - [Change From Within: 3 Cybersecurity Transformation Traps for CISOs to Avoid](https://www.darkreading.com/vulnerabilities-threats/change-from-within-3-cybersecurity-transformation-traps-for-cisos-to-avoid)
 - [What are Your Exception Expectations?](https://www.darkreading.com/google-cloud-security/what-are-your-exception-expectations)
 - [AI &#39;Will Have a Significant Impact on Energy Industry,&#39; EPRI Tells Congress](https://www.darkreading.com/operations/ai-will-have-a-significant-impact-on-energy-industry-epri-tells-congress)
-- [Norton Boosts Security and Privacy With Enhanced Password Manager and AntiTrack](https://www.darkreading.com/application-security/norton-boosts-security-and-privacy-with-enhanced-password-manager-and-antitrack)
-- [Spec Secures $15M Series A Funding, Accelerating Innovation in Fraud Defense](https://www.darkreading.com/threat-intelligence/spec-secures-15m-series-a-funding-accelerating-innovation-in-fraud-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
