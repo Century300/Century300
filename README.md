@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [9 Innovative Ways to Boost Security Hygiene for Cyber Awareness Month](https://www.darkreading.com/edge/9-innovative-ways-boost-security-hygiene-cybersecurity-awareness-month)
 - [More Okta Customers Hacked](https://www.darkreading.com/application-security/more-okta-customers-hacked-through-support-service)
 - [From Snooze to Enthuse: Making Security Awareness Training &#39;Sticky&#39;](https://www.darkreading.com/edge/from-snooze-to-enthuse-security-awareness-training-that-sticks)
 - [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
@@ -83,7 +84,6 @@
 - [DoD Gets Closer to Nominating Cyber Policy Chief](https://www.darkreading.com/operations/dod-closer-nominating-cyber-policy-chief)
 - [Ducktail Infostealer, DarkGate RAT Linked to Same Threat Actors](https://www.darkreading.com/vulnerabilities-threats/ducktail-infostealer-darkgate-rat-linked-to-same-threat-actors)
 - [SIM Card Ownership Slashed in Burkina Faso](https://www.darkreading.com/dr-global/sim-card-ownership-slashed-in-burkina-faso)
-- [Change From Within: 3 Cybersecurity Transformation Traps for CISOs to Avoid](https://www.darkreading.com/vulnerabilities-threats/change-from-within-3-cybersecurity-transformation-traps-for-cisos-to-avoid)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
