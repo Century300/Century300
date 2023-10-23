@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [City of Philadelphia Releases Cyber-Breach Notice](https://www.darkreading.com/attacks-breaches/city-of-philadelphia-releases-cyber-breach-notice)
+- [How State and Local Governments Can Serve Citizens More Securely](https://www.darkreading.com/edge/how-state-and-local-governments-can-serve-citizens-more-securely)
+- [Ragnar Locker Ransomware Boss Arrested in Paris](https://www.darkreading.com/threat-intelligence/ragnar-locker-ransomware-boss-arrested-paris)
 - [Malicious Apps Spoof Israeli Attack Detectors: Conflict Goes Mobile](https://www.darkreading.com/dr-global/malicious-apps-impersonate-israeli-attack-detectors-conflict-mobile)
-- [Freelance Market Flooded With North Korean IT Actors](https://www.darkreading.com/remote-workforce/freelance-market-flooded-with-north-korean-it-actors)
+- [Freelance IT Market Flooded With North Korean Actors](https://www.darkreading.com/remote-workforce/freelance-market-flooded-with-north-korean-it-actors)
 - [Telling Small Businesses to Buy Cyber Insurance Isn&#39;t Enough](https://www.darkreading.com/risk/telling-small-businesses-to-buy-cyber-insurance-isnt-enough)
 - [FedRAMP Rev. 5: How Cloud Service Providers Can Prepare](https://www.darkreading.com/risk/fedramp-rev-5-how-cloud-service-providers-can-prepare)
 - [9 Innovative Ways to Boost Security Hygiene for Cyber Awareness Month](https://www.darkreading.com/edge/9-innovative-ways-boost-security-hygiene-cybersecurity-awareness-month)
-- [More Okta Customers Hacked](https://www.darkreading.com/application-security/more-okta-customers-hacked-through-support-service)
-- [From Snooze to Enthuse: Making Security Awareness Training &#39;Sticky&#39;](https://www.darkreading.com/edge/from-snooze-to-enthuse-security-awareness-training-that-sticks)
-- [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
