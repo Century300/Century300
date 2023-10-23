@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Telling Small Businesses to Buy Cyber Insurance Isn&#39;t Enough](https://www.darkreading.com/risk/telling-small-businesses-to-buy-cyber-insurance-isnt-enough)
 - [FedRAMP Rev. 5: How Cloud Service Providers Can Prepare](https://www.darkreading.com/risk/fedramp-rev-5-how-cloud-service-providers-can-prepare)
 - [9 Innovative Ways to Boost Security Hygiene for Cyber Awareness Month](https://www.darkreading.com/edge/9-innovative-ways-boost-security-hygiene-cybersecurity-awareness-month)
 - [More Okta Customers Hacked](https://www.darkreading.com/application-security/more-okta-customers-hacked-through-support-service)
@@ -83,7 +84,6 @@
 - [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
 - [Cisco Finds New Zero-Day Bug, Pledges Patches in Days](https://www.darkreading.com/application-security/cisco-zero-day-bug-patches-in-days)
 - [DoD Gets Closer to Nominating Cyber Policy Chief](https://www.darkreading.com/operations/dod-closer-nominating-cyber-policy-chief)
-- [Ducktail Infostealer, DarkGate RAT Linked to Same Threat Actors](https://www.darkreading.com/vulnerabilities-threats/ducktail-infostealer-darkgate-rat-linked-to-same-threat-actors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
