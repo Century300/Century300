@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
+- [Valve&#39;s 2FA Mandate for Game Developers Shows SMS Stickiness](https://www.darkreading.com/application-security/valve-2fa-mandate-game-developers-sms-stickiness)
+- [Hola Espana: &#39;Grandoreiro&#39; Trojan Targets Global Banking Customers](https://www.darkreading.com/threat-intelligence/grandoreiro-trojan-targets-global-banking-customers)
 - [City of Philadelphia Releases Cyber-Breach Notice](https://www.darkreading.com/attacks-breaches/city-of-philadelphia-releases-cyber-breach-notice)
 - [How State and Local Governments Can Serve Citizens More Securely](https://www.darkreading.com/edge/how-state-and-local-governments-can-serve-citizens-more-securely)
 - [Ragnar Locker Ransomware Boss Arrested in Paris](https://www.darkreading.com/threat-intelligence/ragnar-locker-ransomware-boss-arrested-paris)
 - [Malicious Apps Spoof Israeli Attack Detectors: Conflict Goes Mobile](https://www.darkreading.com/dr-global/malicious-apps-impersonate-israeli-attack-detectors-conflict-mobile)
 - [Freelance IT Market Flooded With North Korean Actors](https://www.darkreading.com/remote-workforce/freelance-market-flooded-with-north-korean-it-actors)
-- [Telling Small Businesses to Buy Cyber Insurance Isn&#39;t Enough](https://www.darkreading.com/risk/telling-small-businesses-to-buy-cyber-insurance-isnt-enough)
-- [FedRAMP Rev. 5: How Cloud Service Providers Can Prepare](https://www.darkreading.com/risk/fedramp-rev-5-how-cloud-service-providers-can-prepare)
-- [9 Innovative Ways to Boost Security Hygiene for Cyber Awareness Month](https://www.darkreading.com/edge/9-innovative-ways-boost-security-hygiene-cybersecurity-awareness-month)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
