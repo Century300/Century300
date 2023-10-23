@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malicious Apps Spoof Israeli Attack Detectors: Conflict Goes Mobile](https://www.darkreading.com/dr-global/malicious-apps-impersonate-israeli-attack-detectors-conflict-mobile)
 - [Freelance Market Flooded With North Korean IT Actors](https://www.darkreading.com/remote-workforce/freelance-market-flooded-with-north-korean-it-actors)
 - [Telling Small Businesses to Buy Cyber Insurance Isn&#39;t Enough](https://www.darkreading.com/risk/telling-small-businesses-to-buy-cyber-insurance-isnt-enough)
 - [FedRAMP Rev. 5: How Cloud Service Providers Can Prepare](https://www.darkreading.com/risk/fedramp-rev-5-how-cloud-service-providers-can-prepare)
@@ -83,7 +84,6 @@
 - [More Okta Customers Hacked](https://www.darkreading.com/application-security/more-okta-customers-hacked-through-support-service)
 - [From Snooze to Enthuse: Making Security Awareness Training &#39;Sticky&#39;](https://www.darkreading.com/edge/from-snooze-to-enthuse-security-awareness-training-that-sticks)
 - [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
-- [Cisco Finds New Zero-Day Bug, Pledges Patches in Days](https://www.darkreading.com/application-security/cisco-zero-day-bug-patches-in-days)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
