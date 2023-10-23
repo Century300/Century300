@@ -81,7 +81,7 @@
 - [More Okta Customers Hacked](https://www.darkreading.com/application-security/more-okta-customers-hacked-through-support-service)
 - [From Snooze to Enthuse: Making Security Awareness Training &#39;Sticky&#39;](https://www.darkreading.com/edge/from-snooze-to-enthuse-security-awareness-training-that-sticks)
 - [Critical SolarWinds RCE Bugs Enable Unauthorized Network Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-solarwinds-rce-bugs-enable-unauthorized-network-takeover)
-- [Cisco Finds New Zero Day Bug, Pledges Patches in Days](https://www.darkreading.com/application-security/cisco-zero-day-bug-patches-in-days)
+- [Cisco Finds New Zero-Day Bug, Pledges Patches in Days](https://www.darkreading.com/application-security/cisco-zero-day-bug-patches-in-days)
 - [DoD Gets Closer to Nominating Cyber Policy Chief](https://www.darkreading.com/operations/dod-closer-nominating-cyber-policy-chief)
 - [Ducktail Infostealer, DarkGate RAT Linked to Same Threat Actors](https://www.darkreading.com/vulnerabilities-threats/ducktail-infostealer-darkgate-rat-linked-to-same-threat-actors)
 <!-- DARKREADING:END -->
