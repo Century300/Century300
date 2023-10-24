@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Strengthening Oman&#39;s Economic Backbone](https://www.darkreading.com/dr-global/strengthening-omans-economic-backbone)
+- [Cyberattacks on Kenya Drop in Third Quarter](https://www.darkreading.com/attacks-breaches/cyber-attacks-on-kenya-drop-in-third-quarter)
+- [Israeli-Hamas Conflict Spells Opportunity for Online Scammers](https://www.darkreading.com/dr-global/israeli-hamas-conflict-spells-opportunity-for-online-scammers)
 - [It&#39;s Time to Establish the NATO of Cybersecurity](https://www.darkreading.com/attacks-breaches/its-time-to-establish-the-nato-of-cybersecurity)
 - [&#39;Log in with...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
 - [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
 - [Valve&#39;s 2FA Mandate for Game Developers Shows SMS Stickiness](https://www.darkreading.com/application-security/valve-2fa-mandate-game-developers-sms-stickiness)
 - [Hola Espana: &#39;Grandoreiro&#39; Trojan Targets Global Banking Customers](https://www.darkreading.com/threat-intelligence/grandoreiro-trojan-targets-global-banking-customers)
-- [City of Philadelphia Releases Cyber-Breach Notice](https://www.darkreading.com/attacks-breaches/city-of-philadelphia-releases-cyber-breach-notice)
-- [How State and Local Governments Can Serve Citizens More Securely](https://www.darkreading.com/edge/how-state-and-local-governments-can-serve-citizens-more-securely)
-- [Ragnar Locker Ransomware Boss Arrested in Paris](https://www.darkreading.com/threat-intelligence/ragnar-locker-ransomware-boss-arrested-paris)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
