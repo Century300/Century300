@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Former NSA Employee Faces Life in Prison After Espionage Attempt](https://www.darkreading.com/risk/former-nsa-employee-faces-life-in-prison-after-espionage-attempt)
 - [Do Small Companies Need Fractional AppSec Teams Akin to vCISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
 - [Strengthening Oman&#39;s Economic Backbone](https://www.darkreading.com/dr-global/strengthening-omans-economic-backbone)
 - [Cyberattacks on Kenya Drop in Third Quarter](https://www.darkreading.com/attacks-breaches/cyber-attacks-on-kenya-drop-in-third-quarter)
@@ -83,7 +84,6 @@
 - [It&#39;s Time to Establish the NATO of Cybersecurity](https://www.darkreading.com/attacks-breaches/its-time-to-establish-the-nato-of-cybersecurity)
 - [&#39;Log in with...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
 - [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
-- [Valve&#39;s 2FA Mandate for Game Developers Shows SMS Stickiness](https://www.darkreading.com/application-security/valve-2fa-mandate-game-developers-sms-stickiness)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
