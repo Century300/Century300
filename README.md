@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2023 Ransomware Attacks Up More Than 95% Over 2022, According to Corvus Insurance Q3 Report](https://www.darkreading.com/attacks-breaches/2023-ransomware-attacks-up-more-than-95-over-2022-according-to-corvus-insurance-q3-report)
+- [Accenture Expands Cybersecurity Services Capabilities in Latin America With Acquisition of MNEMO Mexico](https://www.darkreading.com/operations/accenture-expands-cybersecurity-services-capabilities-in-latin-america-with-acquisition-of-mnemo-mexico)
+- [1Password Becomes Latest Victim of Okta Customer Service Breach](https://www.darkreading.com/remote-workforce/1password-latest-victim-okta-customer-service-breach)
+- [Meet Rhysida, a New Ransomware Strain That Deletes Itself](https://www.darkreading.com/attacks-breaches/meet-rhysida-a-new-ransomware-strain-that-deletes-itself)
 - [Former NSA Employee Faces Life in Prison After Espionage Attempt](https://www.darkreading.com/risk/former-nsa-employee-faces-life-in-prison-after-espionage-attempt)
 - [Do Small Companies Need Fractional AppSec Teams Akin to vCISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
 - [Strengthening Oman&#39;s Economic Backbone](https://www.darkreading.com/dr-global/strengthening-omans-economic-backbone)
 - [Cyberattacks on Kenya Drop in Third Quarter](https://www.darkreading.com/attacks-breaches/cyber-attacks-on-kenya-drop-in-third-quarter)
-- [Israeli-Hamas Conflict Spells Opportunity for Online Scammers](https://www.darkreading.com/dr-global/israeli-hamas-conflict-spells-opportunity-for-online-scammers)
-- [It&#39;s Time to Establish the NATO of Cybersecurity](https://www.darkreading.com/attacks-breaches/its-time-to-establish-the-nato-of-cybersecurity)
-- [&#39;Log in with...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
-- [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
