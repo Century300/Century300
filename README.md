@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [This Cybersecurity Awareness Month, Don&#39;t Lose Sight of Human Risk](https://www.darkreading.com/microsoft/this-cybersecurity-awareness-month-don-t-lose-sight-of-human-risk)
+- [Tines Report Finds More than Half of Security Professionals Likely To Switch Jobs Next Year](https://www.darkreading.com/operations/tines-report-finds-more-than-half-of-security-professionals-likely-to-switch-jobs-next-year)
 - [2023 Ransomware Attacks Up More Than 95% Over 2022, According to Corvus Insurance Q3 Report](https://www.darkreading.com/attacks-breaches/2023-ransomware-attacks-up-more-than-95-over-2022-according-to-corvus-insurance-q3-report)
 - [Accenture Expands Cybersecurity Services Capabilities in Latin America With Acquisition of MNEMO Mexico](https://www.darkreading.com/operations/accenture-expands-cybersecurity-services-capabilities-in-latin-america-with-acquisition-of-mnemo-mexico)
 - [1Password Becomes Latest Victim of Okta Customer Service Breach](https://www.darkreading.com/remote-workforce/1password-latest-victim-okta-customer-service-breach)
 - [Meet Rhysida, a New Ransomware Strain That Deletes Itself](https://www.darkreading.com/attacks-breaches/meet-rhysida-a-new-ransomware-strain-that-deletes-itself)
 - [Former NSA Employee Faces Life in Prison After Espionage Attempt](https://www.darkreading.com/risk/former-nsa-employee-faces-life-in-prison-after-espionage-attempt)
 - [Do Small Companies Need Fractional AppSec Teams Akin to vCISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
-- [Strengthening Oman&#39;s Economic Backbone](https://www.darkreading.com/dr-global/strengthening-omans-economic-backbone)
-- [Cyberattacks on Kenya Drop in Third Quarter](https://www.darkreading.com/attacks-breaches/cyber-attacks-on-kenya-drop-in-third-quarter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
