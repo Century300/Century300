@@ -83,7 +83,7 @@
 - [1Password Becomes Latest Victim of Okta Customer Service Breach](https://www.darkreading.com/remote-workforce/1password-latest-victim-okta-customer-service-breach)
 - [Meet Rhysida, a New Ransomware Strain That Deletes Itself](https://www.darkreading.com/attacks-breaches/meet-rhysida-a-new-ransomware-strain-that-deletes-itself)
 - [Former NSA Employee Faces Life in Prison After Espionage Attempt](https://www.darkreading.com/risk/former-nsa-employee-faces-life-in-prison-after-espionage-attempt)
-- [Do Small Companies Need Fractional AppSec Teams Akin to vCISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
+- [Do Small Companies Need Fractional AppSec Teams Akin to Virtual CISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
