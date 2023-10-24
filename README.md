@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Log in with...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
 - [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
 - [Valve&#39;s 2FA Mandate for Game Developers Shows SMS Stickiness](https://www.darkreading.com/application-security/valve-2fa-mandate-game-developers-sms-stickiness)
 - [Hola Espana: &#39;Grandoreiro&#39; Trojan Targets Global Banking Customers](https://www.darkreading.com/threat-intelligence/grandoreiro-trojan-targets-global-banking-customers)
@@ -83,7 +84,6 @@
 - [How State and Local Governments Can Serve Citizens More Securely](https://www.darkreading.com/edge/how-state-and-local-governments-can-serve-citizens-more-securely)
 - [Ragnar Locker Ransomware Boss Arrested in Paris](https://www.darkreading.com/threat-intelligence/ragnar-locker-ransomware-boss-arrested-paris)
 - [Malicious Apps Spoof Israeli Attack Detectors: Conflict Goes Mobile](https://www.darkreading.com/dr-global/malicious-apps-impersonate-israeli-attack-detectors-conflict-mobile)
-- [Freelance IT Market Flooded With North Korean Actors](https://www.darkreading.com/remote-workforce/freelance-market-flooded-with-north-korean-it-actors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
