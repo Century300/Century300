@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [It&#39;s Time to Establish the NATO of Cybersecurity](https://www.darkreading.com/attacks-breaches/its-time-to-establish-the-nato-of-cybersecurity)
-- [&#39;Log in with...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
+- [&#39;Log in With...&#39; Feature Allows Full Online Account Takeover for Millions](https://www.darkreading.com/remote-workforce/oauth-log-in-full-account-takeover-millions)
 - [Cyberattackers Alter Implant on 30K Compromised Cisco IOS XE Devices](https://www.darkreading.com/remote-workforce/cyberattackers-alter-implant-30k-compromised-cisco-ios-xe-devices)
 - [Valve&#39;s 2FA Mandate for Game Developers Shows SMS Stickiness](https://www.darkreading.com/application-security/valve-2fa-mandate-game-developers-sms-stickiness)
 - [Hola Espana: &#39;Grandoreiro&#39; Trojan Targets Global Banking Customers](https://www.darkreading.com/threat-intelligence/grandoreiro-trojan-targets-global-banking-customers)
