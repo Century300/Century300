@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Cybersecurity Framework for Mitigating Risks to Satellite Systems](https://www.darkreading.com/risk/cybersecurity-framework-mitigating-risks-satellite-systems)
 - [This Cybersecurity Awareness Month, Don&#39;t Lose Sight of Human Risk](https://www.darkreading.com/microsoft/this-cybersecurity-awareness-month-don-t-lose-sight-of-human-risk)
 - [Tines Report Finds More than Half of Security Professionals Likely To Switch Jobs Next Year](https://www.darkreading.com/operations/tines-report-finds-more-than-half-of-security-professionals-likely-to-switch-jobs-next-year)
 - [2023 Ransomware Attacks Up More Than 95% Over 2022, According to Corvus Insurance Q3 Report](https://www.darkreading.com/attacks-breaches/2023-ransomware-attacks-up-more-than-95-over-2022-according-to-corvus-insurance-q3-report)
@@ -83,7 +84,6 @@
 - [1Password Becomes Latest Victim of Okta Customer Service Breach](https://www.darkreading.com/remote-workforce/1password-latest-victim-okta-customer-service-breach)
 - [Meet Rhysida, a New Ransomware Strain That Deletes Itself](https://www.darkreading.com/attacks-breaches/meet-rhysida-a-new-ransomware-strain-that-deletes-itself)
 - [Former NSA Employee Faces Life in Prison After Espionage Attempt](https://www.darkreading.com/risk/former-nsa-employee-faces-life-in-prison-after-espionage-attempt)
-- [Do Small Companies Need Fractional AppSec Teams Akin to Virtual CISOs?](https://www.darkreading.com/edge-articles/do-small-companies-need-fractional-appsec-teams-much-like-vcisos-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
