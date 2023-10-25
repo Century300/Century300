@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Awareness Doesn&#39;t Cut It; It&#39;s Time to Focus on Behavior](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-awareness-doesnt-cut-it-focus-on-behavior)
 - [Winter Vivern APT Blasts Webmail Zero-Day Bug With One-Click Exploit](https://www.darkreading.com/endpoint/winter-vivern-blasts-webmail-0day-one-click-exploit)
 - [A Cybersecurity Framework for Mitigating Risks to Satellite Systems](https://www.darkreading.com/risk/cybersecurity-framework-mitigating-risks-satellite-systems)
 - [Tines Report Finds More than Half of Security Professionals Likely To Switch Jobs Next Year](https://www.darkreading.com/operations/tines-report-finds-more-than-half-of-security-professionals-likely-to-switch-jobs-next-year)
@@ -83,7 +84,6 @@
 - [2023 Ransomware Attacks Up More Than 95% Over 2022, According to Corvus Insurance Q3 Report](https://www.darkreading.com/attacks-breaches/2023-ransomware-attacks-up-more-than-95-over-2022-according-to-corvus-insurance-q3-report)
 - [Accenture Expands Cybersecurity Services Capabilities in Latin America With Acquisition of MNEMO Mexico](https://www.darkreading.com/operations/accenture-expands-cybersecurity-services-capabilities-in-latin-america-with-acquisition-of-mnemo-mexico)
 - [1Password Becomes Latest Victim of Okta Customer Service Breach](https://www.darkreading.com/remote-workforce/1password-latest-victim-okta-customer-service-breach)
-- [Meet Rhysida, a New Ransomware Strain That Deletes Itself](https://www.darkreading.com/attacks-breaches/meet-rhysida-a-new-ransomware-strain-that-deletes-itself)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
