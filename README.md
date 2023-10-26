@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rockwell&#39;s Verve Buy Enlivens Critical Infrastructure Security](https://www.darkreading.com/ics-ot/rockwell-verve-buy-critical-infrastructure-security)
+- [Iran APT Targets the Mediterranean With Watering-Hole Attacks](https://www.darkreading.com/dr-global/iran-apt-targets-mediterranean-watering-hole-attacks)
 - [Microsoft: 0ktapus Cyberattackers Evolve to &#39;Most Dangerous&#39; Status](https://www.darkreading.com/remote-workforce/microsoft-0ktapus-cyberattackers-evolve-most-dangerous-status)
 - [Longer Support Periods Raise the Bar for Mobile Security](https://www.darkreading.com/omdia/longer-support-periods-raise-bar-mobile-security)
 - [Nigerian Cybercrime Hub Shut Down With 6 Arrests](https://www.darkreading.com/dr-global/nigerian-cybercrime-hub-shut-down-with-6-arrests)
 - [What Would a Government Shutdown Mean for Cybersecurity?](https://www.darkreading.com/vulnerabilities-threats/what-would-government-shutdown-mean-for-cybersecurity)
 - [Complex Spy Platform StripedFly Bites 1M Victims](https://www.darkreading.com/threat-intelligence/complex-spy-platform-stripedfly-bites-1m-victims-disguised-as-a-cryptominer)
 - [BHI Energy Releases Details of Akira Ransomware Attack](https://www.darkreading.com/attacks-breaches/bhi-energy-releases-details-of-akira-ransomware-attack)
-- [As Citrix Urges Its Clients to Patch, Researchers Release an Exploit](https://www.darkreading.com/vulnerabilities-threats/citrix-urges-clients-patch-researchers-release-exploit)
-- [Virtual Alarm: VMware Issues Major Security Advisory](https://www.darkreading.com/vulnerabilities-threats/vmware-issues-alarming-security-advisory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
