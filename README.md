@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: 0ktapus Cyberattackers Evolve to &#39;Most Dangerous&#39; Status](https://www.darkreading.com/remote-workforce/microsoft-0ktapus-cyberattackers-evolve-most-dangerous-status)
 - [Longer Support Periods Raise the Bar for Mobile Security](https://www.darkreading.com/omdia/longer-support-periods-raise-bar-mobile-security)
 - [Nigerian Cybercrime Hub Shut Down With 6 Arrests](https://www.darkreading.com/dr-global/nigerian-cybercrime-hub-shut-down-with-6-arrests)
 - [What Would a Government Shutdown Mean for Cybersecurity?](https://www.darkreading.com/vulnerabilities-threats/what-would-government-shutdown-mean-for-cybersecurity)
@@ -83,7 +84,6 @@
 - [BHI Energy Releases Details of Akira Ransomware Attack](https://www.darkreading.com/attacks-breaches/bhi-energy-releases-details-of-akira-ransomware-attack)
 - [As Citrix Urges Its Clients to Patch, Researchers Release an Exploit](https://www.darkreading.com/vulnerabilities-threats/citrix-urges-clients-patch-researchers-release-exploit)
 - [Virtual Alarm: VMware Issues Major Security Advisory](https://www.darkreading.com/vulnerabilities-threats/vmware-issues-alarming-security-advisory)
-- [Kazakh Attackers, Disguised as Azerbaijanis, Hit Former Soviet States](https://www.darkreading.com/dr-global/kazakh-attackers-disguised-as-azerbaijanis-hit-former-soviet-states)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
