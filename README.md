@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Would a Government Shutdown Mean for Cybersecurity?](https://www.darkreading.com/vulnerabilities-threats/what-would-government-shutdown-mean-for-cybersecurity)
+- [Complex Spy Platform StripedFly Bites 1M Victims](https://www.darkreading.com/threat-intelligence/complex-spy-platform-stripedfly-bites-1m-victims-disguised-as-a-cryptominer)
 - [BHI Energy Releases Details of Akira Ransomware Attack](https://www.darkreading.com/attacks-breaches/bhi-energy-releases-details-of-akira-ransomware-attack)
 - [As Citrix Urges Its Clients to Patch, Researchers Release an Exploit](https://www.darkreading.com/vulnerabilities-threats/citrix-urges-clients-patch-researchers-release-exploit)
 - [Virtual Alarm: VMware Issues Major Security Advisory](https://www.darkreading.com/vulnerabilities-threats/vmware-issues-alarming-security-advisory)
 - [Kazakh Attackers, Disguised as Azerbaijanis, Hit Former Soviet States](https://www.darkreading.com/dr-global/kazakh-attackers-disguised-as-azerbaijanis-hit-former-soviet-states)
 - [Cybersecurity Awareness Doesn&#39;t Cut It; It&#39;s Time to Focus on Behavior](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-awareness-doesnt-cut-it-focus-on-behavior)
 - [Winter Vivern APT Blasts Webmail Zero-Day Bug With One-Click Exploit](https://www.darkreading.com/endpoint/winter-vivern-blasts-webmail-0day-one-click-exploit)
-- [A Cybersecurity Framework for Mitigating Risks to Satellite Systems](https://www.darkreading.com/risk/cybersecurity-framework-mitigating-risks-satellite-systems)
-- [This Cybersecurity Awareness Month, Don&#39;t Lose Sight of Human Risk](https://www.darkreading.com/microsoft/this-cybersecurity-awareness-month-don-t-lose-sight-of-human-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
