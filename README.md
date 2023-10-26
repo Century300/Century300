@@ -76,13 +76,13 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BHI Energy Releases Details of Akira Ransomware Attack](https://www.darkreading.com/attacks-breaches/bhi-energy-releases-details-of-akira-ransomware-attack)
 - [As Citrix Urges Its Clients to Patch, Researchers Release an Exploit](https://www.darkreading.com/vulnerabilities-threats/citrix-urges-clients-patch-researchers-release-exploit)
 - [Virtual Alarm: VMware Issues Major Security Advisory](https://www.darkreading.com/vulnerabilities-threats/vmware-issues-alarming-security-advisory)
 - [Kazakh Attackers, Disguised as Azerbaijanis, Hit Former Soviet States](https://www.darkreading.com/dr-global/kazakh-attackers-disguised-as-azerbaijanis-hit-former-soviet-states)
 - [Cybersecurity Awareness Doesn&#39;t Cut It; It&#39;s Time to Focus on Behavior](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-awareness-doesnt-cut-it-focus-on-behavior)
 - [Winter Vivern APT Blasts Webmail Zero-Day Bug With One-Click Exploit](https://www.darkreading.com/endpoint/winter-vivern-blasts-webmail-0day-one-click-exploit)
 - [A Cybersecurity Framework for Mitigating Risks to Satellite Systems](https://www.darkreading.com/risk/cybersecurity-framework-mitigating-risks-satellite-systems)
-- [Tines Report Finds More than Half of Security Professionals Likely To Switch Jobs Next Year](https://www.darkreading.com/operations/tines-report-finds-more-than-half-of-security-professionals-likely-to-switch-jobs-next-year)
 - [This Cybersecurity Awareness Month, Don&#39;t Lose Sight of Human Risk](https://www.darkreading.com/microsoft/this-cybersecurity-awareness-month-don-t-lose-sight-of-human-risk)
 <!-- DARKREADING:END -->
 
