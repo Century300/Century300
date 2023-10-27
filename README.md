@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Safari Side-Channel Attack Enables Browser Theft](https://www.darkreading.com/vulnerabilities-threats/safari-side-channel-attack-enables-browser-theft)
 - [Octo Tempest Group Threatens Physical Violence as Social Engineering Tactic](https://www.darkreading.com/threat-intelligence/octo-tempest-group-threatens-physical-violence-social-engineering-tactic)
+- [Securing Cloud Identities to Protect Assets and Minimize Risk](https://www.darkreading.com/edge/securing-cloud-identities-to-protect-assets-and-minimize-risk)
 - [Understand the True Cost of a UEM Before Making the Switch](https://www.darkreading.com/dr-tech/understand-the-true-cost-of-a-uem-before-making-the-switch)
 - [Hacktivist Activity Related to Gaza Conflict Dwindles](https://www.darkreading.com/dr-global/hacktivist-activity-related-to-gaza-conflict-dwindles)
 - [Healey-Driscoll Awards $2.3M to CyberTrust Massachusetts to Strengthen Municipal Cybersecurity Efforts](https://www.darkreading.com/operations/healey-driscoll-administration-awards-2-3-million-to-cybertrust-massachusetts-to-strengthen-municipal-cybersecurity-efforts-statewide)
 - [What Lurks in the Dark: Taking Aim at Shadow AI](https://www.darkreading.com/vulnerabilities-threats/what-lurks-in-the-dark-taking-aim-at-shadow-ai)
 - [SMBs Need to Balance Cybersecurity Needs and Resources](https://www.darkreading.com/edge/how-smbs-can-balance-cybersecurity-needs-and-resources)
-- [IriusRisk Brings Threat Modeling to Machine Learning Systems](https://www.darkreading.com/dr-tech/iriusrisk-brings-threat-modeling-to-machine-learning)
-- [Cranium Announces $25 Million in Series A Funding to Secure AI](https://www.darkreading.com/operations/cranium-announces-25-million-in-series-a-funding-to-secure-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
