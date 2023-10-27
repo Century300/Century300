@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacktivist Activity Related to Gaza Conflict Dwindles](https://www.darkreading.com/dr-global/hacktivist-activity-related-to-gaza-conflict-dwindles)
+- [Healey-Driscoll Awards $2.3M to CyberTrust Massachusetts to Strengthen Municipal Cybersecurity Efforts](https://www.darkreading.com/operations/healey-driscoll-administration-awards-2-3-million-to-cybertrust-massachusetts-to-strengthen-municipal-cybersecurity-efforts-statewide)
 - [What Lurks in the Dark: Taking Aim at Shadow AI](https://www.darkreading.com/vulnerabilities-threats/what-lurks-in-the-dark-taking-aim-at-shadow-ai)
 - [SMBs Need to Balance Cybersecurity Needs and Resources](https://www.darkreading.com/edge/how-smbs-can-balance-cybersecurity-needs-and-resources)
+- [IriusRisk Brings Threat Modeling to Machine Learning Systems](https://www.darkreading.com/dr-tech/iriusrisk-brings-threat-modeling-to-machine-learning)
 - [SonicWall Data Confirms That Ransomware Is Still the Enterprise&#39;s Biggest Fear](https://www.darkreading.com/threat-intelligence/sonicwall-data-confirms-that-ransomware-is-still-the-enterprise-s-biggest-fear)
 - [Cranium Announces $25 Million in Series A Funding to Secure AI](https://www.darkreading.com/operations/cranium-announces-25-million-in-series-a-funding-to-secure-ai)
-- [IriusRisk Brings Threat Modeling to Machine Learning Systems](https://www.darkreading.com/dr-tech/iriusrisk-brings-threat-modeling-to-machine-learning)
 - [Lumen Q3 DDoS Report: Banking Was the Most Targeted Industry for the First Time](https://www.darkreading.com/attacks-breaches/lumen-q3-ddos-report-banking-was-the-most-targeted-industry-for-the-first-time)
-- [WatchGuard Launches MDR Service, Helps MSPs Accelerate Cybersecurity Service Delivery](https://www.darkreading.com/operations/watchguard-launches-mdr-service-helps-msps-accelerate-cybersecurity-service-delivery)
-- [Malwarebytes Announces Consumer Identity Theft Protection Solution](https://www.darkreading.com/remote-workforce/malwarebytes-announces-consumer-identity-theft-protection-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
