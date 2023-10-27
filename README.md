@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [SMBs Need to Balance Cybersecurity Needs and Resources](https://www.darkreading.com/edge/how-smbs-can-balance-cybersecurity-needs-and-resources)
 - [IriusRisk Brings Threat Modeling to Machine Learning Systems](https://www.darkreading.com/dr-tech/iriusrisk-brings-threat-modeling-to-machine-learning)
+- [SonicWall Data Confirms That Ransomware Is Still the Enterprise&#39;s Biggest Fear](https://www.darkreading.com/threat-intelligence/sonicwall-data-confirms-that-ransomware-is-still-the-enterprise-s-biggest-fear)
+- [Cranium Announces $25 Million in Series A Funding to Secure AI](https://www.darkreading.com/operations/cranium-announces-25-million-in-series-a-funding-to-secure-ai)
 - [Lumen Q3 DDoS Report: Banking Was the Most Targeted Industry for the First Time](https://www.darkreading.com/attacks-breaches/lumen-q3-ddos-report-banking-was-the-most-targeted-industry-for-the-first-time)
 - [WatchGuard Launches MDR Service, Helps MSPs Accelerate Cybersecurity Service Delivery](https://www.darkreading.com/operations/watchguard-launches-mdr-service-helps-msps-accelerate-cybersecurity-service-delivery)
 - [Malwarebytes Announces Consumer Identity Theft Protection Solution](https://www.darkreading.com/remote-workforce/malwarebytes-announces-consumer-identity-theft-protection-solution)
-- [Rockwell&#39;s Verve Buy Enlivens Critical Infrastructure Security](https://www.darkreading.com/ics-ot/rockwell-verve-buy-critical-infrastructure-security)
-- [Iran APT Targets the Mediterranean With Watering-Hole Attacks](https://www.darkreading.com/dr-global/iran-apt-targets-mediterranean-watering-hole-attacks)
-- [Microsoft: 0ktapus Cyberattackers Evolve to &#39;Most Dangerous&#39; Status](https://www.darkreading.com/remote-workforce/microsoft-0ktapus-cyberattackers-evolve-most-dangerous-status)
+- [Darktrace Unveils Cloud-Native Security Solution Using AI](https://www.darkreading.com/cloud/darktrace-unveils-cloud-native-security-solution-using-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
