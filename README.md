@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Tips for Security Awareness Training That Hits the Target](https://www.darkreading.com/edge/10-tips-for-security-awareness-training-that-hits-the-target)
 - [Safari Side-Channel Attack Enables Browser Theft](https://www.darkreading.com/vulnerabilities-threats/safari-side-channel-attack-enables-browser-theft)
 - [Octo Tempest Group Threatens Physical Violence as Social Engineering Tactic](https://www.darkreading.com/threat-intelligence/octo-tempest-group-threatens-physical-violence-social-engineering-tactic)
 - [Securing Cloud Identities to Protect Assets and Minimize Risk](https://www.darkreading.com/edge/securing-cloud-identities-to-protect-assets-and-minimize-risk)
@@ -83,7 +84,6 @@
 - [Hacktivist Activity Related to Gaza Conflict Dwindles](https://www.darkreading.com/dr-global/hacktivist-activity-related-to-gaza-conflict-dwindles)
 - [Healey-Driscoll Awards $2.3M to CyberTrust Massachusetts to Strengthen Municipal Cybersecurity Efforts](https://www.darkreading.com/operations/healey-driscoll-administration-awards-2-3-million-to-cybertrust-massachusetts-to-strengthen-municipal-cybersecurity-efforts-statewide)
 - [What Lurks in the Dark: Taking Aim at Shadow AI](https://www.darkreading.com/vulnerabilities-threats/what-lurks-in-the-dark-taking-aim-at-shadow-ai)
-- [SMBs Need to Balance Cybersecurity Needs and Resources](https://www.darkreading.com/edge/how-smbs-can-balance-cybersecurity-needs-and-resources)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
