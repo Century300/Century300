@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Dynamic Search Ads Abused to Unleash Malware &#39;Deluge&#39;](https://www.darkreading.com/endpoint/google-dynamic-search-ads-malware-deluge)
 - [Budget Cuts at CISA Could Affect Enterprise Cybersecurity](https://www.darkreading.com/edge/budget-cuts-at-cisa-could-affect-enterprise-cybersecurity)
 - [Biden&#39;s Artificial Intelligence Executive Order Covers Broad Concerns](https://www.darkreading.com/endpoint/biden-artificial-intelligence-executive-order-broad-concerns)
 - [Boeing Breached by Ransomware, LockBit Gang Claims](https://www.darkreading.com/endpoint/boeing-breached-ransomware-lockbit-gang-claims)
 - [UAE Cyber Council Warns of Google Chrome Vulnerability](https://www.darkreading.com/dr-global/uae-cyber-council-warns-google-chrome-vulnerability)
 - [UAE Bolsters Cyber Future With US Treasury Partnership, Collaborations](https://www.darkreading.com/dr-global/uae-cyber-future-us-treasury-partnership-collaborations)
 - [What the Boardroom Is Missing: CISOs](https://www.darkreading.com/operations/what-the-boardroom-is-missing-cisos)
-- [Getting Smart With Cybersecurity: AI Can Help the Good Guys, Too](https://www.darkreading.com/application-security/getting-smart-with-cybersecurity-ai-can-help-the-good-guys-too)
-- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
+- [Securing Modern Enterprises in a Borderless Landscape](https://www.darkreading.com/vulnerabilities-threats/securing-modern-enterprises-in-a-borderless-landscape)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
