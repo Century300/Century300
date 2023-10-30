@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the Boardroom Is Missing: CISOs](https://www.darkreading.com/operations/what-the-boardroom-is-missing-cisos)
+- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
 - [Securing Modern Enterprises in a Borderless Landscape](https://www.darkreading.com/vulnerabilities-threats/securing-modern-enterprises-in-a-borderless-landscape)
 - [Getting Smart With Cybersecurity: AI Can Help the Good Guys, Too](https://www.darkreading.com/application-security/getting-smart-with-cybersecurity-ai-can-help-the-good-guys-too)
-- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
 - [10 Tips for Security Awareness Training That Hits the Target](https://www.darkreading.com/edge/10-tips-for-security-awareness-training-that-hits-the-target)
 - [What the Bionic Acquisition Can Bring to CrowdStrike](https://www.darkreading.com/dr-tech/what-bionic-acquisition-can-bring-crowdstrike)
 - [Safari Side-Channel Attack Enables Browser Theft](https://www.darkreading.com/vulnerabilities-threats/safari-side-channel-attack-enables-browser-theft)
 - [Octo Tempest Group Threatens Physical Violence as Social Engineering Tactic](https://www.darkreading.com/threat-intelligence/octo-tempest-group-threatens-physical-violence-social-engineering-tactic)
-- [Securing Cloud Identities to Protect Assets and Minimize Risk](https://www.darkreading.com/edge/securing-cloud-identities-to-protect-assets-and-minimize-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
