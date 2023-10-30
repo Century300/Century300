@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Budget Cuts at CISA Could Affect Enterprise Cybersecurity](https://www.darkreading.com/edge/untitled)
+- [Biden&#39;s Artificial Intelligence Executive Order Covers Broad Concerns](https://www.darkreading.com/endpoint/biden-artificial-intelligence-executive-order-broad-concerns)
 - [Boeing Breached by Ransomware, LockBit Gang Claims](https://www.darkreading.com/endpoint/boeing-breached-ransomware-lockbit-gang-claims)
 - [UAE Cyber Council Warns of Google Chrome Vulnerability](https://www.darkreading.com/dr-global/uae-cyber-council-warns-google-chrome-vulnerability)
 - [UAE Bolsters Cyber Future With US Treasury Partnership, Collaborations](https://www.darkreading.com/dr-global/uae-cyber-future-us-treasury-partnership-collaborations)
 - [What the Boardroom Is Missing: CISOs](https://www.darkreading.com/operations/what-the-boardroom-is-missing-cisos)
-- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
 - [Getting Smart With Cybersecurity: AI Can Help the Good Guys, Too](https://www.darkreading.com/application-security/getting-smart-with-cybersecurity-ai-can-help-the-good-guys-too)
-- [Securing Modern Enterprises in a Borderless Landscape](https://www.darkreading.com/vulnerabilities-threats/securing-modern-enterprises-in-a-borderless-landscape)
-- [10 Tips for Security Awareness Training That Hits the Target](https://www.darkreading.com/edge/10-tips-for-security-awareness-training-that-hits-the-target)
+- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
