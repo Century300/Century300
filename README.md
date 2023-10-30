@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Securing Modern Enterprises in a Borderless Landscape](https://www.darkreading.com/vulnerabilities-threats/securing-modern-enterprises-in-a-borderless-landscape)
+- [CISO Skills in a Changing Security Market: Are You Prepared?](https://www.darkreading.com/threat-intelligence/ciso-skills-in-a-changing-security-market-are-you-prepared)
+- [Getting Smart With Cybersecurity: AI Can Help the Good Guys, Too](https://www.darkreading.com/application-security/getting-smart-with-cybersecurity-ai-can-help-the-good-guys-too)
 - [10 Tips for Security Awareness Training That Hits the Target](https://www.darkreading.com/edge/10-tips-for-security-awareness-training-that-hits-the-target)
 - [Safari Side-Channel Attack Enables Browser Theft](https://www.darkreading.com/vulnerabilities-threats/safari-side-channel-attack-enables-browser-theft)
 - [Octo Tempest Group Threatens Physical Violence as Social Engineering Tactic](https://www.darkreading.com/threat-intelligence/octo-tempest-group-threatens-physical-violence-social-engineering-tactic)
 - [Securing Cloud Identities to Protect Assets and Minimize Risk](https://www.darkreading.com/edge/securing-cloud-identities-to-protect-assets-and-minimize-risk)
 - [Understand the True Cost of a UEM Before Making the Switch](https://www.darkreading.com/dr-tech/understand-the-true-cost-of-a-uem-before-making-the-switch)
-- [Hacktivist Activity Related to Gaza Conflict Dwindles](https://www.darkreading.com/dr-global/hacktivist-activity-related-to-gaza-conflict-dwindles)
-- [Healey-Driscoll Awards $2.3M to CyberTrust Massachusetts to Strengthen Municipal Cybersecurity Efforts](https://www.darkreading.com/operations/healey-driscoll-administration-awards-2-3-million-to-cybertrust-massachusetts-to-strengthen-municipal-cybersecurity-efforts-statewide)
-- [What Lurks in the Dark: Taking Aim at Shadow AI](https://www.darkreading.com/vulnerabilities-threats/what-lurks-in-the-dark-taking-aim-at-shadow-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
