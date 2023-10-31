@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SEC Charges Against SolarWinds CISO Send Shockwaves Through Security Ranks](https://www.darkreading.com/attacks-breaches/sec-charges-against-solarwinds-ciso-send-shockwaves-through-security-ranks)
 - [Malware &#39;Meal Kits&#39; Serve Up No-Fuss RAT Attacks](https://www.darkreading.com/endpoint/malware-meal-kits-serve-up-no-fuss-rat-attacks)
 - [US Leads 40-Country Alliance to Cut Off Ransomware Payments](https://www.darkreading.com/endpoint/us-leads-alliance-cut-off-ransomware-attack-payments)
 - [&#39;Prolific Puma&#39; Hacker Gives Cybercriminals Access to .us Domains](https://www.darkreading.com/threat-intelligence/prolific-puma-hacker-gives-cybercriminals-access-to-us-domains)
@@ -83,7 +84,6 @@
 - [Survey: AppSec Maturity Hindered by Staffing, Budgets, Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/survey-appsec-maturity-hindered-by-staffing-budgets-vulnerabilities)
 - [&#39;Elektra-Leak&#39; Attackers Harvest AWS Cloud Keys in GitHub Campaign](https://www.darkreading.com/cloud/elektra-leak-attackers-harvest-aws-cloud-keys-github-campaign)
 - [20 Years Later, Is Patch Tuesday Enough?](https://www.darkreading.com/vulnerabilities-threats/20-years-later-is-patch-tuesday-enough)
-- [New Index Finds AI Models Are Murky, Not Transparent At All](https://www.darkreading.com/tech-trends/new-index-finds-ai-models-are-murky-not-transparent-at-all)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
