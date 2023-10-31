@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [20 Years Later, Is Patch Tuesday Enough?](https://www.darkreading.com/vulnerabilities-threats/20-years-later-is-patch-tuesday-enough)
+- [New Index Finds AI Models Are Murky, Not Transparent At All](https://www.darkreading.com/tech-trends/new-index-finds-ai-models-are-murky-not-transparent-at-all)
 - [Google Dynamic Search Ads Abused to Unleash Malware &#39;Deluge&#39;](https://www.darkreading.com/endpoint/google-dynamic-search-ads-malware-deluge)
+- [What the Bionic Acquisition Can Bring to CrowdStrike](https://www.darkreading.com/dr-tech/what-bionic-acquisition-can-bring-crowdstrike)
 - [Budget Cuts at CISA Could Affect Enterprise Cybersecurity](https://www.darkreading.com/edge/budget-cuts-at-cisa-could-affect-enterprise-cybersecurity)
 - [Biden&#39;s Artificial Intelligence Executive Order Covers Broad Concerns](https://www.darkreading.com/endpoint/biden-artificial-intelligence-executive-order-broad-concerns)
 - [Boeing Breached by Ransomware, LockBit Gang Claims](https://www.darkreading.com/endpoint/boeing-breached-ransomware-lockbit-gang-claims)
 - [UAE Cyber Council Warns of Google Chrome Vulnerability](https://www.darkreading.com/dr-global/uae-cyber-council-warns-google-chrome-vulnerability)
-- [UAE Bolsters Cyber Future With US Treasury Partnership, Collaborations](https://www.darkreading.com/dr-global/uae-cyber-future-us-treasury-partnership-collaborations)
-- [What the Boardroom Is Missing: CISOs](https://www.darkreading.com/operations/what-the-boardroom-is-missing-cisos)
-- [Securing Modern Enterprises in a Borderless Landscape](https://www.darkreading.com/vulnerabilities-threats/securing-modern-enterprises-in-a-borderless-landscape)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
