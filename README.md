@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Prolific Puma&#39; Hacker Gives Cybercriminals Access to .us Domains](https://www.darkreading.com/threat-intelligence/prolific-puma-hacker-gives-cybercriminals-access-to-us-domains)
+- [Arid Viper Camouflages Malware in Knockoff Dating App](https://www.darkreading.com/dr-global/arid-viper-camouflages-malware-in-knockoff-dating-app)
 - [Survey: AppSec Maturity Hindered by Staffing, Budgets, Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/survey-appsec-maturity-hindered-by-staffing-budgets-vulnerabilities)
 - [&#39;Elektra-Leak&#39; Attackers Harvest AWS Cloud Keys in GitHub Campaign](https://www.darkreading.com/cloud/elektra-leak-attackers-harvest-aws-cloud-keys-github-campaign)
 - [20 Years Later, Is Patch Tuesday Enough?](https://www.darkreading.com/vulnerabilities-threats/20-years-later-is-patch-tuesday-enough)
 - [New Index Finds AI Models Are Murky, Not Transparent At All](https://www.darkreading.com/tech-trends/new-index-finds-ai-models-are-murky-not-transparent-at-all)
 - [Google Dynamic Search Ads Abused to Unleash Malware &#39;Deluge&#39;](https://www.darkreading.com/endpoint/google-dynamic-search-ads-malware-deluge)
 - [What the Bionic Acquisition Can Bring to CrowdStrike](https://www.darkreading.com/dr-tech/what-bionic-acquisition-can-bring-crowdstrike)
-- [Budget Cuts at CISA Could Affect Enterprise Cybersecurity](https://www.darkreading.com/edge/budget-cuts-at-cisa-could-affect-enterprise-cybersecurity)
-- [Biden&#39;s Artificial Intelligence Executive Order Covers Broad Concerns](https://www.darkreading.com/endpoint/biden-artificial-intelligence-executive-order-broad-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
