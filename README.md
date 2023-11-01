@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ReasonLabs Unveils RAV VPN for Apple iOS](https://www.darkreading.com/endpoint/reasonlabs-unveils-rav-vpn-for-apple-ios)
+- [Proofpoint Signs Definitive Agreement to Acquire Tessian](https://www.darkreading.com/application-security/proofpoint-signs-definitive-agreement-to-acquire-tessian)
+- [Graylog Secures $39 Million Investment to Accelerate Growth and Security Product Line Expansion](https://www.darkreading.com/operations/graylog-secures-39-million-investment-to-accelerate-growth-and-security-product-line-expansion)
+- [One Ukraine Company Shares Lessons in Prepping for Wartime Cyber Resilience](https://www.darkreading.com/operations/lessons-learned-from-one-ukraine-company-in-prepping-for-wartime-cyber-resilience)
 - [3 Ways to Close the Cybersecurity Skills Gap — Now](https://www.darkreading.com/operations/3-ways-close-cybersecurity-skills-gap-now)
 - [Atlassian Customers Should Patch Latest Critical Vuln Immediately](https://www.darkreading.com/vulnerabilities-threats/atlassian-customers-should-patch-latest-critical-vuln-immediately)
 - [FBI Director Warns of Increased Iranian Attacks](https://www.darkreading.com/dr-global/fbi-director-warns-of-increased-iranian-attacks)
 - [It&#39;s Cheap to Exploit Software — and That&#39;s a Major Security Problem](https://www.darkreading.com/vulnerabilities-threats/its-cheap-to-exploit-software-major-security-problem)
-- [Unsolved Cyber Mysteries: Signal Hacking](https://www.darkreading.com/edge/unsolved-cyber-mysteries-signal-hacking)
-- [SEC Charges Against SolarWinds CISO Send Shockwaves Through Security Ranks](https://www.darkreading.com/attacks-breaches/sec-charges-against-solarwinds-ciso-send-shockwaves-through-security-ranks)
-- [Malware &#39;Meal Kits&#39; Serve Up No-Fuss RAT Attacks](https://www.darkreading.com/endpoint/malware-meal-kits-serve-up-no-fuss-rat-attacks)
-- [US Leads 40-Country Alliance to Cut Off Ransomware Payments](https://www.darkreading.com/endpoint/us-leads-alliance-cut-off-ransomware-attack-payments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
