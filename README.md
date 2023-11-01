@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [More Than 100 Vulns in Microsoft 365 Tied to SketchUp 3D Library](https://www.darkreading.com/vulnerabilities-threats/more-than-100-vulnerabilities-in-microsoft-office-tied-to-sketchup-3d-library)
 - [ISC2 Study: Economic Conditions Continue to Sandbag Cyber Hiring](https://www.darkreading.com/careers-and-people/cybersecurity-s-continued-shortfall-not-proof-against-layoffs)
 - [British, Toronto Libraries Struggle After Cyber Incidents](https://www.darkreading.com/attacks-breaches/british-toronto-libraries-struggle-after-cyber-incidents)
 - [Global AI Cybersecurity Agreement Signed At Turing&#39;s Bletchley Park](https://www.darkreading.com/vulnerabilities-threats/global-ai-cybersecurity-agreement-signed-at-turing-s-bletchley-park-)
 - [ReasonLabs Unveils RAV VPN for Apple iOS](https://www.darkreading.com/endpoint/reasonlabs-unveils-rav-vpn-for-apple-ios)
 - [Proofpoint Signs Definitive Agreement to Acquire Tessian](https://www.darkreading.com/application-security/proofpoint-signs-definitive-agreement-to-acquire-tessian)
 - [Graylog Secures $39 Million Investment to Accelerate Growth and Security Product Line Expansion](https://www.darkreading.com/operations/graylog-secures-39-million-investment-to-accelerate-growth-and-security-product-line-expansion)
-- [One Ukraine Company Shares Lessons in Prepping for Wartime Cyber Resilience](https://www.darkreading.com/operations/lessons-learned-from-one-ukraine-company-in-prepping-for-wartime-cyber-resilience)
-- [Atlassian Customers Should Patch Latest Critical Vuln Immediately](https://www.darkreading.com/vulnerabilities-threats/atlassian-customers-should-patch-latest-critical-vuln-immediately)
+- [Doing It Together: Detection and Incident Response with Your Cloud Provider](https://www.darkreading.com/google-cloud-security/doing-it-together-detection-and-incident-response-with-your-cloud-provider)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
