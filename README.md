@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Scarred Manticore&#39; Unleashes the Most Advanced Iranian Cyber Espionage Yet](https://www.darkreading.com/dr-global/-scarred-manticore-unleashes-most-advanced-iranian-espionage)
 - [Threat Prevention Begins With IT &amp; Security Team Collaboration](https://www.darkreading.com/vulnerabilities-threats/threat-prevention-begins-with-it-security-team-collaboration)
 - [Boeing Confirms Cyberattack, System Compromise](https://www.darkreading.com/endpoint/boeing-confirms-system-compromise-alerting-customers)
 - [More Than 100 Vulns in Microsoft 365 Tied to SketchUp 3D Library](https://www.darkreading.com/vulnerabilities-threats/more-than-100-vulnerabilities-in-microsoft-office-tied-to-sketchup-3d-library)
@@ -83,7 +84,6 @@
 - [British, Toronto Libraries Struggle After Cyber Incidents](https://www.darkreading.com/attacks-breaches/british-toronto-libraries-struggle-after-cyber-incidents)
 - [Global AI Cybersecurity Agreement Signed At Turing&#39;s Bletchley Park](https://www.darkreading.com/vulnerabilities-threats/global-ai-cybersecurity-agreement-signed-at-turing-s-bletchley-park-)
 - [ReasonLabs Unveils RAV VPN for Apple iOS](https://www.darkreading.com/endpoint/reasonlabs-unveils-rav-vpn-for-apple-ios)
-- [Proofpoint Signs Definitive Agreement to Acquire Tessian](https://www.darkreading.com/application-security/proofpoint-signs-definitive-agreement-to-acquire-tessian)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
