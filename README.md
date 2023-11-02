@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Upgraded Kazuar Backdoor Offers Stealthy Power](https://www.darkreading.com/endpoint/upgraded-kazuar-backdoor-offers-stealthy-power)
 - [Saudi Aramco CEO Warns of New Threat of Generative AI](https://www.darkreading.com/dr-global/saudi-aramco-ceo-warns-of-new-threat-of-generative-ai)
 - [&#39;Scarred Manticore&#39; Unleashes the Most Advanced Iranian Cyber Espionage Yet](https://www.darkreading.com/dr-global/-scarred-manticore-unleashes-most-advanced-iranian-espionage)
 - [Threat Prevention Begins With IT &amp; Security Team Collaboration](https://www.darkreading.com/vulnerabilities-threats/threat-prevention-begins-with-it-security-team-collaboration)
@@ -83,7 +84,6 @@
 - [Boeing Confirms Cyberattack, System Compromise](https://www.darkreading.com/endpoint/boeing-confirms-system-compromise-alerting-customers)
 - [More Than 100 Vulns in Microsoft 365 Tied to SketchUp 3D Library](https://www.darkreading.com/vulnerabilities-threats/more-than-100-vulnerabilities-in-microsoft-office-tied-to-sketchup-3d-library)
 - [ISC2 Study: Economic Conditions Continue to Sandbag Cyber Hiring](https://www.darkreading.com/careers-and-people/cybersecurity-s-continued-shortfall-not-proof-against-layoffs)
-- [British, Toronto Libraries Struggle After Cyber Incidents](https://www.darkreading.com/attacks-breaches/british-toronto-libraries-struggle-after-cyber-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
