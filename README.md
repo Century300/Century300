@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Okta Customer Support Breach Exposed Data on 134 Companies](https://www.darkreading.com/attacks-breaches/okta-customer-support-breach-exposed-data-134-customers-)
 - [&#39;KandyKorn&#39; macOS Malware Lures Crypto Engineers](https://www.darkreading.com/endpoint/kandykorn-macos-malware-lures-crypto-engineers)
 - [Somebody Just Killed the Mozi Botnet](https://www.darkreading.com/ics-ot/somebody-just-killed-mozi-botnet)
 - [Spyware Designed for Telegram Mods Also Targets WhatsApp Add-Ons](https://www.darkreading.com/dr-global/spyware-designed-for-telegram-mods-also-targets-whatsapp-add-ons)
@@ -83,7 +84,6 @@
 - [Considerations for Managing Digital Sovereignty: The Executive Perspective](https://www.darkreading.com/google-cloud-security/considerations-for-managing-digital-sovereignty-the-executive-perspective)
 - [Oracle Enables MFA by Default on Oracle Cloud](https://www.darkreading.com/dr-tech/oracle-enables-mfa-by-default-on-oracle-cloud)
 - [Okta Data Compromised Through Third-Party Vendor](https://www.darkreading.com/remote-workforce/okta-employee-data-exposed-third-party-vendor)
-- [Attackers Target Max-Severity Apache ActiveMQ Bug to Drop Ransomware](https://www.darkreading.com/attacks-breaches/attackers-target-max-severity-apache-activemq-bug-to-drop-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
