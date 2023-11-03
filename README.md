@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ace Hardware Still Reeling From Weeklong Cyberattack](https://www.darkreading.com/attacks-breaches/ace-hardware-still-reeling-from-weeklong-cyberattack)
 - [Okta Customer Support Breach Exposed Data on 134 Companies](https://www.darkreading.com/attacks-breaches/okta-customer-support-breach-exposed-data-134-customers-)
 - [&#39;KandyKorn&#39; macOS Malware Lures Crypto Engineers](https://www.darkreading.com/endpoint/kandykorn-macos-malware-lures-crypto-engineers)
 - [Somebody Just Killed the Mozi Botnet](https://www.darkreading.com/ics-ot/somebody-just-killed-mozi-botnet)
@@ -83,7 +84,6 @@
 - [Ransomware Readiness Assessments: One Size Doesn&#39;t Fit All](https://www.darkreading.com/operations/ransomware-readiness-assessments-one-size-doesnt-fit-all)
 - [Considerations for Managing Digital Sovereignty: The Executive Perspective](https://www.darkreading.com/google-cloud-security/considerations-for-managing-digital-sovereignty-the-executive-perspective)
 - [Oracle Enables MFA by Default on Oracle Cloud](https://www.darkreading.com/dr-tech/oracle-enables-mfa-by-default-on-oracle-cloud)
-- [Okta Data Compromised Through Third-Party Vendor](https://www.darkreading.com/remote-workforce/okta-employee-data-exposed-third-party-vendor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
