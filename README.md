@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Considerations for Managing Digital Sovereignty: The Executive Perspective](https://www.darkreading.com/google-cloud-security/considerations-for-managing-digital-sovereignty-the-executive-perspective)
+- [Oracle Enables MFA by Default on Oracle Cloud](https://www.darkreading.com/dr-tech/oracle-enables-mfa-by-default-on-oracle-cloud)
 - [Okta Data Compromised Through Third-Party Vendor](https://www.darkreading.com/remote-workforce/okta-employee-data-exposed-third-party-vendor)
 - [Attackers Target Max-Severity Apache ActiveMQ Bug to Drop Ransomware](https://www.darkreading.com/attacks-breaches/attackers-target-max-severity-apache-activemq-bug-to-drop-ransomware)
 - [How Do We Truly Make Security &#39;Everyone&#39;s Responsibility&#39;?](https://www.darkreading.com/edge-ask-the-experts/how-do-we-truly-make-security-everyone-s-responsibility)
 - [Upgraded Kazuar Backdoor Offers Stealthy Power](https://www.darkreading.com/endpoint/upgraded-kazuar-backdoor-offers-stealthy-power)
 - [Saudi Aramco CEO Warns of New Threat of Generative AI](https://www.darkreading.com/dr-global/saudi-aramco-ceo-warns-of-new-threat-of-generative-ai)
 - [&#39;Scarred Manticore&#39; Unleashes the Most Advanced Iranian Cyber Espionage Yet](https://www.darkreading.com/dr-global/-scarred-manticore-unleashes-most-advanced-iranian-espionage)
-- [Threat Prevention Begins With IT &amp; Security Team Collaboration](https://www.darkreading.com/vulnerabilities-threats/threat-prevention-begins-with-it-security-team-collaboration)
-- [Middle East Advances in Generative AI Hold Promise](https://www.darkreading.com/dr-global/middle-east-advances-in-generative-ai-hold-promise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
