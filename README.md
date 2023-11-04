@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [To Improve Cyber Defenses, Practice for Disaster](https://www.darkreading.com/edge/to-improve-cyber-defenses-practice-for-disaster)
 - [Critical Atlassian Bug Exploit Now Available; Immediate Patching Needed](https://www.darkreading.com/attacks-breaches/critical-atlassian-bug-exploit-immediate-patching)
 - [Ace Hardware Still Reeling From Weeklong Cyberattack](https://www.darkreading.com/attacks-breaches/ace-hardware-still-reeling-from-weeklong-cyberattack)
 - [Okta Customer Support Breach Exposed Data on 134 Companies](https://www.darkreading.com/attacks-breaches/okta-customer-support-breach-exposed-data-134-customers-)
@@ -83,7 +84,6 @@
 - [Somebody Just Killed the Mozi Botnet](https://www.darkreading.com/ics-ot/somebody-just-killed-mozi-botnet)
 - [Spyware Designed for Telegram Mods Also Targets WhatsApp Add-Ons](https://www.darkreading.com/dr-global/spyware-designed-for-telegram-mods-also-targets-whatsapp-add-ons)
 - [Ransomware Readiness Assessments: One Size Doesn&#39;t Fit All](https://www.darkreading.com/operations/ransomware-readiness-assessments-one-size-doesnt-fit-all)
-- [Considerations for Managing Digital Sovereignty: The Executive Perspective](https://www.darkreading.com/google-cloud-security/considerations-for-managing-digital-sovereignty-the-executive-perspective)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
