@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Keep Your Organization&#39;s APIs Protected This Holiday Season](https://www.darkreading.com/vulnerabilities-threats/keep-your-organizations-apis-protected-this-holiday-season)
+- [Meet Your New Cybersecurity Auditor: Your Insurer](https://www.darkreading.com/risk/meet-your-new-cybersecurity-auditor-your-insurer)
 - [Sky&#39;s the Limit, but What About API Security? Challenges in the Cloud-First Era](https://www.darkreading.com/attacks-breaches/sky-s-the-limit-but-what-about-api-security-challenges-in-the-cloud-first-era)
+- [Keep Your Organization&#39;s APIs Protected This Holiday Season](https://www.darkreading.com/vulnerabilities-threats/keep-your-organizations-apis-protected-this-holiday-season)
 - [To Improve Cyber Defenses, Practice for Disaster](https://www.darkreading.com/edge/to-improve-cyber-defenses-practice-for-disaster)
 - [Critical Atlassian Bug Exploit Now Available; Immediate Patching Needed](https://www.darkreading.com/attacks-breaches/critical-atlassian-bug-exploit-immediate-patching)
 - [Ace Hardware Still Reeling From Weeklong Cyberattack](https://www.darkreading.com/attacks-breaches/ace-hardware-still-reeling-from-weeklong-cyberattack)
 - [Okta Customer Support Breach Exposed Data on 134 Companies](https://www.darkreading.com/attacks-breaches/okta-customer-support-breach-exposed-data-134-customers-)
 - [&#39;KandyKorn&#39; macOS Malware Lures Crypto Engineers](https://www.darkreading.com/endpoint/kandykorn-macos-malware-lures-crypto-engineers)
-- [Somebody Just Killed the Mozi Botnet](https://www.darkreading.com/ics-ot/somebody-just-killed-mozi-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
