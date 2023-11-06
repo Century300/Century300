@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kinsing Cyberattackers Debut &#39;Looney Tunables&#39; Cloud Exploits](https://www.darkreading.com/cloud/kinsing-cyberattackers-debut-looney-tunables-cloud-exploits)
 - [Gootloader Aims Malicious, Custom Bot Army at Enterprise Networks](https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks)
 - [Virtual Kidnapping: AI Tools Are Enabling IRL Extortion Scams](https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams)
 - [Novel Google Cloud RAT Uses Calendar Events for C2](https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control)
@@ -83,7 +84,6 @@
 - [Excelsior University Contends for National Cyber League Competition Title](https://www.darkreading.com/careers-and-people/excelsior-university-contends-for-national-cyber-league-competition-title)
 - [US Sanctions Ryuk Ransomware’s Russian Money Launderer](https://www.darkreading.com/attacks-breaches/russian-national-sanctioned-for-aiding-russian-elites-ransomware-groups)
 - [Name That Edge Toon: Out for the Count](https://www.darkreading.com/edge-articles/name-that-edge-out-for-the-count)
-- [Middle East&#39;s 5G Acceleration May Pose Serious Security Issues](https://www.darkreading.com/dr-global/middle-easts-5g-acceleration-may-pose-serious-security-issues)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
