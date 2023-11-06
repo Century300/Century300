@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Middle East&#39;s 5G Acceleration May Pose Serious Security Issues](https://www.darkreading.com/dr-global/middle-easts-5g-acceleration-may-pose-serious-security-issues)
 - [Meet Your New Cybersecurity Auditor: Your Insurer](https://www.darkreading.com/risk/meet-your-new-cybersecurity-auditor-your-insurer)
 - [Sky&#39;s the Limit, but What About API Security? Challenges in the Cloud-First Era](https://www.darkreading.com/attacks-breaches/sky-s-the-limit-but-what-about-api-security-challenges-in-the-cloud-first-era)
 - [Keep Your Organization&#39;s APIs Protected This Holiday Season](https://www.darkreading.com/vulnerabilities-threats/keep-your-organizations-apis-protected-this-holiday-season)
@@ -83,7 +84,6 @@
 - [Critical Atlassian Bug Exploit Now Available; Immediate Patching Needed](https://www.darkreading.com/attacks-breaches/critical-atlassian-bug-exploit-immediate-patching)
 - [Ace Hardware Still Reeling From Weeklong Cyberattack](https://www.darkreading.com/attacks-breaches/ace-hardware-still-reeling-from-weeklong-cyberattack)
 - [Okta Customer Support Breach Exposed Data on 134 Companies](https://www.darkreading.com/attacks-breaches/okta-customer-support-breach-exposed-data-134-customers-)
-- [&#39;KandyKorn&#39; macOS Malware Lures Crypto Engineers](https://www.darkreading.com/endpoint/kandykorn-macos-malware-lures-crypto-engineers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
