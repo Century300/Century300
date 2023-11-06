@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gootloader Aims Malicious, Custom Bot Army at Enterprise Networks](https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks)
+- [Virtual Kidnapping: AI Tools Are Enabling IRL Extortion Scams](https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams)
+- [Novel Google Cloud RAT Uses Calendar Events for C2](https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control)
 - [Aqua Security Introduces Industry-First Kubernetes Vulnerability Scanning With Trivy KBOM](https://www.darkreading.com/cloud/aqua-security-introduces-industry-first-kubernetes-vulnerability-scanning-with-trivy-kbom)
 - [Excelsior University Contends for National Cyber League Competition Title](https://www.darkreading.com/careers-and-people/excelsior-university-contends-for-national-cyber-league-competition-title)
 - [US Sanctions Ryuk Ransomware’s Russian Money Launderer](https://www.darkreading.com/attacks-breaches/russian-national-sanctioned-for-aiding-russian-elites-ransomware-groups)
 - [Name That Edge Toon: Out for the Count](https://www.darkreading.com/edge-articles/name-that-edge-out-for-the-count)
 - [Middle East&#39;s 5G Acceleration May Pose Serious Security Issues](https://www.darkreading.com/dr-global/middle-easts-5g-acceleration-may-pose-serious-security-issues)
-- [Meet Your New Cybersecurity Auditor: Your Insurer](https://www.darkreading.com/risk/meet-your-new-cybersecurity-auditor-your-insurer)
-- [Sky&#39;s the Limit, but What About API Security? Challenges in the Cloud-First Era](https://www.darkreading.com/attacks-breaches/sky-s-the-limit-but-what-about-api-security-challenges-in-the-cloud-first-era)
-- [Keep Your Organization&#39;s APIs Protected This Holiday Season](https://www.darkreading.com/vulnerabilities-threats/keep-your-organizations-apis-protected-this-holiday-season)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
