@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Crafting an AI Policy That Safeguards Data Without Stifling Productivity](https://www.darkreading.com/vulnerabilities-threats/crafting-ai-policy-that-safeguards-data-without-stifling-productivity)
+- [Iran-Linked Agrius APT Group Targets Israeli Education, Tech Sectors](https://www.darkreading.com/dr-global/iran-linked-agrius-apt-group-israeli-education-tech-sectors)
 - [Identity Alone Won&#39;t Save Us: The TSA Paradigm and MGM&#39;s Hack](https://www.darkreading.com/operations/identity-alone-wont-save-us-tsa-paradigm-mgm-hack)
 - [Steps to Follow to Comply With the SEC Cybersecurity Disclosure Rule](https://www.darkreading.com/edge/steps-to-follow-to-comply-with-the-sec-cybersecurity-disclosure-rule)
 - [Kinsing Cyberattackers Debut &#39;Looney Tunables&#39; Cloud Exploits](https://www.darkreading.com/cloud/kinsing-cyberattackers-debut-looney-tunables-cloud-exploits)
 - [Gootloader Aims Malicious, Custom Bot Army at Enterprise Networks](https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks)
 - [Virtual Kidnapping: AI Tools Are Enabling IRL Extortion Scams](https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams)
 - [Novel Google Cloud RAT Uses Calendar Events for C2](https://www.darkreading.com/cloud/google-cloud-rat-calendar-events-command-and-control)
-- [Aqua Security Introduces Industry-First Kubernetes Vulnerability Scanning With Trivy KBOM](https://www.darkreading.com/cloud/aqua-security-introduces-industry-first-kubernetes-vulnerability-scanning-with-trivy-kbom)
-- [Excelsior University Contends for National Cyber League Competition Title](https://www.darkreading.com/careers-and-people/excelsior-university-contends-for-national-cyber-league-competition-title)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
