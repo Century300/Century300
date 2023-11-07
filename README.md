@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
+- [Myrror Security Emerges From Stealth With $6M Seed Round to Prevent Attacks on the Software Development Process](https://www.darkreading.com/application-security/myrror-security-emerges-from-stealth-with-6m-seed-round-to-prevent-attacks-on-the-software-development-process)
 - [Malwarebytes Launches ThreatDown to Empower Resource Constrained IT Organizations](https://www.darkreading.com/threat-intelligence/malwarebytes-launches-threatdown-to-empower-resource-constrained-it-organizations)
 - [Marina Bay Sands Becomes Latest Hospitality Cyber Victim](https://www.darkreading.com/attacks-breaches/marina-bay-sands-hospitality-cyber-victim)
 - [CVSS 4.0 Offers Significantly More Patching Context](https://www.darkreading.com/operations/mileage-orgs-will-get-from-cvss-4-0-will-vary)
 - [North Korea&#39;s BlueNoroff APT Debuts &#39;Dumbed Down&#39; macOS Malware](https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-apt-dumbed-down-macos-malware)
 - [Atlassian Bug Escalated to 10, All Unpatched Instances Vulnerable](https://www.darkreading.com/vulnerabilities-threats/atlassian-bug-escalated-10-unpatched-instances-vulnerable)
 - [Crafting an AI Policy That Safeguards Data Without Stifling Productivity](https://www.darkreading.com/vulnerabilities-threats/crafting-ai-policy-that-safeguards-data-without-stifling-productivity)
-- [Iran-Linked Agrius APT Group Targets Israeli Education, Tech Sectors](https://www.darkreading.com/dr-global/iran-linked-agrius-apt-group-israeli-education-tech-sectors)
-- [Identity Alone Won&#39;t Save Us: The TSA Paradigm and MGM&#39;s Hack](https://www.darkreading.com/operations/identity-alone-wont-save-us-tsa-paradigm-mgm-hack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
