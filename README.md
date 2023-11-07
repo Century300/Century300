@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Steps to Follow to Comply With the SEC Cybersecurity Disclosure Rule](https://www.darkreading.com/edge/steps-to-follow-to-comply-with-the-sec-cybersecurity-disclosure-rule)
 - [Kinsing Cyberattackers Debut &#39;Looney Tunables&#39; Cloud Exploits](https://www.darkreading.com/cloud/kinsing-cyberattackers-debut-looney-tunables-cloud-exploits)
 - [Gootloader Aims Malicious, Custom Bot Army at Enterprise Networks](https://www.darkreading.com/attacks-breaches/gootloader-malicious-custom-bot-army-enterprise-networks)
 - [Virtual Kidnapping: AI Tools Are Enabling IRL Extortion Scams](https://www.darkreading.com/black-hat/virtual-kidnapping-ai-tools-enabling-irl-extortion-scams)
@@ -83,7 +84,6 @@
 - [Aqua Security Introduces Industry-First Kubernetes Vulnerability Scanning With Trivy KBOM](https://www.darkreading.com/cloud/aqua-security-introduces-industry-first-kubernetes-vulnerability-scanning-with-trivy-kbom)
 - [Excelsior University Contends for National Cyber League Competition Title](https://www.darkreading.com/careers-and-people/excelsior-university-contends-for-national-cyber-league-competition-title)
 - [US Sanctions Ryuk Ransomware’s Russian Money Launderer](https://www.darkreading.com/attacks-breaches/russian-national-sanctioned-for-aiding-russian-elites-ransomware-groups)
-- [Name That Edge Toon: Out for the Count](https://www.darkreading.com/edge-articles/name-that-edge-out-for-the-count)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
