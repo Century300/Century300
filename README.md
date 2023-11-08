@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MGM and Caesars Attacks Highlight Social Engineering Risks](https://www.darkreading.com/endpoint/mgm-and-caesars-attacks-highlight-social-engineering-risks)
 - [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
 - [Software Complexity Bedevils Mainframe Security](https://www.darkreading.com/dr-tech/software-complexity-bedevils-mainframe-security)
 - [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
@@ -83,7 +84,6 @@
 - [Securing Remote Workers Through Zero Trust](https://www.darkreading.com/edge-articles/securing-remote-workers-through-zero-trust)
 - [Malwarebytes Launches ThreatDown to Empower Resource Constrained IT Organizations](https://www.darkreading.com/threat-intelligence/malwarebytes-launches-threatdown-to-empower-resource-constrained-it-organizations)
 - [Marina Bay Sands Becomes Latest Hospitality Cyber Victim](https://www.darkreading.com/attacks-breaches/marina-bay-sands-hospitality-cyber-victim)
-- [CVSS 4.0 Offers Significantly More Patching Context](https://www.darkreading.com/operations/mileage-orgs-will-get-from-cvss-4-0-will-vary)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
