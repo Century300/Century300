@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
 - [Ransomware Mastermind Uncovered After Oversharing on Dark Web](https://www.darkreading.com/threat-intelligence/ransomware-mastermind-uncovered-oversharing-dark-web)
 - [MGM and Caesars Attacks Highlight Social Engineering Risks](https://www.darkreading.com/endpoint/mgm-and-caesars-attacks-highlight-social-engineering-risks)
 - [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
@@ -83,7 +84,6 @@
 - [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
 - [Myrror Security Emerges From Stealth With $6M Seed Round to Prevent Attacks on the Software Development Process](https://www.darkreading.com/application-security/myrror-security-emerges-from-stealth-with-6m-seed-round-to-prevent-attacks-on-the-software-development-process)
 - [Securing Remote Workers Through Zero Trust](https://www.darkreading.com/edge-articles/securing-remote-workers-through-zero-trust)
-- [Malwarebytes Launches ThreatDown to Empower Resource Constrained IT Organizations](https://www.darkreading.com/threat-intelligence/malwarebytes-launches-threatdown-to-empower-resource-constrained-it-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
