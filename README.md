@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
 - [Software Complexity Bedevils Mainframe Security](https://www.darkreading.com/dr-tech/software-complexity-bedevils-mainframe-security)
 - [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
 - [Myrror Security Emerges From Stealth With $6M Seed Round to Prevent Attacks on the Software Development Process](https://www.darkreading.com/application-security/myrror-security-emerges-from-stealth-with-6m-seed-round-to-prevent-attacks-on-the-software-development-process)
@@ -83,7 +84,6 @@
 - [Malwarebytes Launches ThreatDown to Empower Resource Constrained IT Organizations](https://www.darkreading.com/threat-intelligence/malwarebytes-launches-threatdown-to-empower-resource-constrained-it-organizations)
 - [Marina Bay Sands Becomes Latest Hospitality Cyber Victim](https://www.darkreading.com/attacks-breaches/marina-bay-sands-hospitality-cyber-victim)
 - [CVSS 4.0 Offers Significantly More Patching Context](https://www.darkreading.com/operations/mileage-orgs-will-get-from-cvss-4-0-will-vary)
-- [North Korea&#39;s BlueNoroff APT Debuts &#39;Dumbed Down&#39; macOS Malware](https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-apt-dumbed-down-macos-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
