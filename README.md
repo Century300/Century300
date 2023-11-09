@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [There&#39;s Only One Way to Solve the Cybersecurity Skills Gap](https://www.darkreading.com/operations/there-s-only-one-way-to-solve-the-cybersecurity-skills-gap)
 - [Sandworm Cyberattackers Down Ukrainian Power Grid During Missile Strikes](https://www.darkreading.com/ics-ot/sandworm-cyberattackers-ukrainian-power-grid-missile-strikes)
 - [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
 - [Ransomware Mastermind Uncovered After Oversharing on Dark Web](https://www.darkreading.com/threat-intelligence/ransomware-mastermind-uncovered-oversharing-dark-web)
@@ -83,7 +84,6 @@
 - [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
 - [Software Complexity Bedevils Mainframe Security](https://www.darkreading.com/dr-tech/software-complexity-bedevils-mainframe-security)
 - [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
-- [Myrror Security Emerges From Stealth With $6M Seed Round to Prevent Attacks on the Software Development Process](https://www.darkreading.com/application-security/myrror-security-emerges-from-stealth-with-6m-seed-round-to-prevent-attacks-on-the-software-development-process)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
