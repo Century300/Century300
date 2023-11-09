@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Good Security Awareness Programs Go Wrong](https://www.darkreading.com/edge-articles/when-good-security-awareness-programs-go-wrong)
 - [How to Outsmart Malware Attacks That Can Fool Antivirus Protection](https://www.darkreading.com/endpoint/how-to-outsmart-malware-attacks-that-can-fool-antivirus-protection)
 - [Imperial Kitten APT Claws at Israeli Industry with Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
 - [Worldwide Hacktivists Take Sides Over Gaza, With Little to Show for It](https://www.darkreading.com/dr-global/worldwide-hacktivists-take-sides-over-gaza-with-little-show)
@@ -83,7 +84,6 @@
 - [Sandworm Cyberattackers Down Ukrainian Power Grid During Missile Strikes](https://www.darkreading.com/ics-ot/sandworm-cyberattackers-ukrainian-power-grid-missile-strikes)
 - [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
 - [Ransomware Mastermind Uncovered After Oversharing on Dark Web](https://www.darkreading.com/threat-intelligence/ransomware-mastermind-uncovered-oversharing-dark-web)
-- [MGM and Caesars Attacks Highlight Social Engineering Risks](https://www.darkreading.com/endpoint/mgm-and-caesars-attacks-highlight-social-engineering-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
