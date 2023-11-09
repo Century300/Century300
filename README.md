@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Imperial Kitten APT Claws at Israeli Industry With Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
+- [How to Outsmart Malware Attacks That Can Fool Antivirus Protection](https://www.darkreading.com/endpoint/how-to-outsmart-malware-attacks-that-can-fool-antivirus-protection)
+- [Imperial Kitten APT Claws at Israeli Industry with Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
 - [Worldwide Hacktivists Take Sides Over Gaza, With Little to Show for It](https://www.darkreading.com/dr-global/worldwide-hacktivists-take-sides-over-gaza-with-little-show)
 - [There&#39;s Only One Way to Solve the Cybersecurity Skills Gap](https://www.darkreading.com/operations/there-s-only-one-way-to-solve-the-cybersecurity-skills-gap)
 - [Sandworm Cyberattackers Down Ukrainian Power Grid During Missile Strikes](https://www.darkreading.com/ics-ot/sandworm-cyberattackers-ukrainian-power-grid-missile-strikes)
 - [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
 - [Ransomware Mastermind Uncovered After Oversharing on Dark Web](https://www.darkreading.com/threat-intelligence/ransomware-mastermind-uncovered-oversharing-dark-web)
 - [MGM and Caesars Attacks Highlight Social Engineering Risks](https://www.darkreading.com/endpoint/mgm-and-caesars-attacks-highlight-social-engineering-risks)
-- [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
