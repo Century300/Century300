@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MOVEit Hackers Pivot to SysAid Zero-Day in Ransomware Attacks](https://www.darkreading.com/attacks-breaches/moveit-hackers-sysaid-zero-day-ransomware)
+- [Treasury Markets Disrupted by ICBC Ransomware Attack](https://www.darkreading.com/attacks-breaches/treasury-markets-disrupted-from-icbc-ransomware-attack)
+- [What We Can Learn from Major Cloud Cyberattacks](https://www.darkreading.com/dr-global/what-we-can-learn-from-major-cloud-cyberattacks)
 - [When Good Security Awareness Programs Go Wrong](https://www.darkreading.com/edge-articles/when-good-security-awareness-programs-go-wrong)
 - [How to Outsmart Malware Attacks That Can Fool Antivirus Protection](https://www.darkreading.com/endpoint/how-to-outsmart-malware-attacks-that-can-fool-antivirus-protection)
 - [Imperial Kitten APT Claws at Israeli Industry with Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
 - [Worldwide Hacktivists Take Sides Over Gaza, With Little to Show for It](https://www.darkreading.com/dr-global/worldwide-hacktivists-take-sides-over-gaza-with-little-show)
 - [There&#39;s Only One Way to Solve the Cybersecurity Skills Gap](https://www.darkreading.com/operations/there-s-only-one-way-to-solve-the-cybersecurity-skills-gap)
-- [Sandworm Cyberattackers Down Ukrainian Power Grid During Missile Strikes](https://www.darkreading.com/ics-ot/sandworm-cyberattackers-ukrainian-power-grid-missile-strikes)
-- [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
-- [Ransomware Mastermind Uncovered After Oversharing on Dark Web](https://www.darkreading.com/threat-intelligence/ransomware-mastermind-uncovered-oversharing-dark-web)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
