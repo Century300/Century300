@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Worldwide Hacktivists Take Sides Over Gaza, With Little to Show for It](https://www.darkreading.com/dr-global/worldwide-hacktivists-take-sides-over-gaza-with-little-show)
 - [There&#39;s Only One Way to Solve the Cybersecurity Skills Gap](https://www.darkreading.com/operations/there-s-only-one-way-to-solve-the-cybersecurity-skills-gap)
 - [Sandworm Cyberattackers Down Ukrainian Power Grid During Missile Strikes](https://www.darkreading.com/ics-ot/sandworm-cyberattackers-ukrainian-power-grid-missile-strikes)
 - [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/attacks-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
@@ -83,7 +84,6 @@
 - [MGM and Caesars Attacks Highlight Social Engineering Risks](https://www.darkreading.com/endpoint/mgm-and-caesars-attacks-highlight-social-engineering-risks)
 - [CISOs Beware: SEC&#39;s SolarWinds Action Shows They&#39;re Scapegoating Us](https://www.darkreading.com/operations/cisos-beware-secs-solarwinds-action-shows-theyre-scapegoating-us)
 - [Software Complexity Bedevils Mainframe Security](https://www.darkreading.com/dr-tech/software-complexity-bedevils-mainframe-security)
-- [Risk Ledger Secures £6.25M to Prevent Cyberattacks on the Supply Chains of Nation&#39;s Largest Enterprises](https://www.darkreading.com/dr-global/risk-ledger-secures-6-25m-to-prevent-cyberattacks-on-the-supply-chains-of-nation-s-largest-enterprises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
