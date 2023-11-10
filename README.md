@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;BlazeStealer&#39; Python Malware Allows Complete Takeover of Developer Machines](https://www.darkreading.com/application-security/-blazestealer-python-malware-complete-takeover-developer)
 - [MOVEit Hackers Pivot to SysAid Zero-Day in Ransomware Attacks](https://www.darkreading.com/attacks-breaches/moveit-hackers-sysaid-zero-day-ransomware)
 - [Treasury Markets Disrupted by ICBC Ransomware Attack](https://www.darkreading.com/attacks-breaches/treasury-markets-disrupted-from-icbc-ransomware-attack)
 - [What We Can Learn from Major Cloud Cyberattacks](https://www.darkreading.com/dr-global/what-we-can-learn-from-major-cloud-cyberattacks)
@@ -83,7 +84,6 @@
 - [How to Outsmart Malware Attacks That Can Fool Antivirus Protection](https://www.darkreading.com/endpoint/how-to-outsmart-malware-attacks-that-can-fool-antivirus-protection)
 - [Imperial Kitten APT Claws at Israeli Industry with Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
 - [Worldwide Hacktivists Take Sides Over Gaza, With Little to Show for It](https://www.darkreading.com/dr-global/worldwide-hacktivists-take-sides-over-gaza-with-little-show)
-- [There&#39;s Only One Way to Solve the Cybersecurity Skills Gap](https://www.darkreading.com/operations/there-s-only-one-way-to-solve-the-cybersecurity-skills-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
