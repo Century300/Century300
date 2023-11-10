@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Navigating Tech Risks in Modern M&amp;A Waters](https://www.darkreading.com/risk/navigating-tech-risks-modern-m-a-waters)
 - [&#39;BlazeStealer&#39; Python Malware Allows Complete Takeover of Developer Machines](https://www.darkreading.com/application-security/-blazestealer-python-malware-complete-takeover-developer)
 - [MOVEit Hackers Pivot to SysAid Zero-Day in Ransomware Attacks](https://www.darkreading.com/attacks-breaches/moveit-hackers-sysaid-zero-day-ransomware)
 - [Treasury Markets Disrupted by ICBC Ransomware Attack](https://www.darkreading.com/attacks-breaches/treasury-markets-disrupted-from-icbc-ransomware-attack)
-- [What We Can Learn from Major Cloud Cyberattacks](https://www.darkreading.com/dr-global/what-we-can-learn-from-major-cloud-cyberattacks)
+- [What We Can Learn From Major Cloud Cyberattacks](https://www.darkreading.com/dr-global/what-we-can-learn-from-major-cloud-cyberattacks)
 - [When Good Security Awareness Programs Go Wrong](https://www.darkreading.com/edge-articles/when-good-security-awareness-programs-go-wrong)
 - [How to Outsmart Malware Attacks That Can Fool Antivirus Protection](https://www.darkreading.com/endpoint/how-to-outsmart-malware-attacks-that-can-fool-antivirus-protection)
 - [First Wave of Vulnerability-Fixing AIs Available for Developers](https://www.darkreading.com/emerging-tech/first-wave-vulnerability-fixing-ai-available-developers)
-- [Imperial Kitten APT Claws at Israeli Industry with Multiyear Spy Effort](https://www.darkreading.com/dr-global/imperial-kitten-israeli-industry-multiyear-spy-effort)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
