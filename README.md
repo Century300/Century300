@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intel Faces &#39;Downfall&#39; Bug Lawsuit, Seeking $10K per Plaintiff](https://www.darkreading.com/vulnerabilities-threats/intel-downfall-lawsuit-10k-plaintiff-ignoring-chip-bug)
 - [State of Maine Becomes Latest MOVEit Victim to Surface](https://www.darkreading.com/attacks-breaches/state-maine-latest-moveit-victim)
 - [&#39;CitrixBleed&#39; Linked to Ransomware Hit on China&#39;s State-Owned Bank](https://www.darkreading.com/vulnerabilities-threats/ransomware-hit-china-owned-bank-citrixbleed-flaw)
 - [&#39;Shields Ready&#39; Critical Infrastructure Initiative Addresses Inevitable Cyberattacks](https://www.darkreading.com/ics-ot/shields-ready-initiative-inevitable-cyberattacks)
@@ -83,7 +84,6 @@
 - [Leaky DICOM Medical Standard Exposes Millions of Patient Records](https://www.darkreading.com/risk/leaky-dicom-medical-protocol-exposes-millions-patient-records)
 - [Microsoft: Iran&#39;s Cyberattacks on Israel Exaggerated &amp; Fabricated](https://www.darkreading.com/dr-global/microsoft-iran-cyberattacks-israel-exaggerated-fabricated)
 - [Navigating Tech Risks in Modern M&amp;A Waters](https://www.darkreading.com/risk/navigating-tech-risks-modern-m-a-waters)
-- [&#39;BlazeStealer&#39; Python Malware Allows Complete Takeover of Developer Machines](https://www.darkreading.com/application-security/-blazestealer-python-malware-complete-takeover-developer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
