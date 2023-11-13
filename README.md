@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Closer Look at State and Local Government Cybersecurity Priorities](https://www.darkreading.com/edge/a-closer-look-at-state-and-local-government-cybersecurity-priorities)
+- [Azerbaijan Agencies Sign Cyber-Partner Deals](https://www.darkreading.com/dr-global/azerbaijan-agencies-cyber-partner-deals)
 - [SEC Suit Ushers in New Era of Cyber Enforcement](https://www.darkreading.com/risk/sec-suit-ushers-in-new-era-of-cyber-enforcement)
 - [SaaS Vendor Risk Assessment in 3 Steps](https://www.darkreading.com/risk/saas-vendor-risk-assessment-in-3-steps)
 - [Security Is a Process, Not a Tool](https://www.darkreading.com/risk/security-is-a-process-not-a-tool)
 - [Intel Faces &#39;Downfall&#39; Bug Lawsuit](https://www.darkreading.com/vulnerabilities-threats/intel-downfall-lawsuit-10k-plaintiff-ignoring-chip-bug)
 - [State of Maine Becomes Latest MOVEit Victim to Surface](https://www.darkreading.com/attacks-breaches/state-maine-latest-moveit-victim)
 - [&#39;CitrixBleed&#39; Linked to Ransomware Hit on China&#39;s State-Owned Bank](https://www.darkreading.com/vulnerabilities-threats/ransomware-hit-china-owned-bank-citrixbleed-flaw)
-- [&#39;Shields Ready&#39; Critical Infrastructure Initiative Addresses Inevitable Cyberattacks](https://www.darkreading.com/ics-ot/shields-ready-initiative-inevitable-cyberattacks)
-- [ChatGPT: OpenAI Attributes Regular Outages to DDoS Attacks](https://www.darkreading.com/attacks-breaches/chatgpt-openai-attributes-regular-outages-ddos-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
