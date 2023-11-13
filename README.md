@@ -79,7 +79,7 @@
 - [SEC Suit Ushers in New Era of Cyber Enforcement](https://www.darkreading.com/risk/sec-suit-ushers-in-new-era-of-cyber-enforcement)
 - [SaaS Vendor Risk Assessment in 3 Steps](https://www.darkreading.com/risk/saas-vendor-risk-assessment-in-3-steps)
 - [Security Is a Process, Not a Tool](https://www.darkreading.com/risk/security-is-a-process-not-a-tool)
-- [Intel Faces &#39;Downfall&#39; Bug Lawsuit, Seeking $10K per Plaintiff](https://www.darkreading.com/vulnerabilities-threats/intel-downfall-lawsuit-10k-plaintiff-ignoring-chip-bug)
+- [Intel Faces &#39;Downfall&#39; Bug Lawsuit](https://www.darkreading.com/vulnerabilities-threats/intel-downfall-lawsuit-10k-plaintiff-ignoring-chip-bug)
 - [State of Maine Becomes Latest MOVEit Victim to Surface](https://www.darkreading.com/attacks-breaches/state-maine-latest-moveit-victim)
 - [&#39;CitrixBleed&#39; Linked to Ransomware Hit on China&#39;s State-Owned Bank](https://www.darkreading.com/vulnerabilities-threats/ransomware-hit-china-owned-bank-citrixbleed-flaw)
 - [&#39;Shields Ready&#39; Critical Infrastructure Initiative Addresses Inevitable Cyberattacks](https://www.darkreading.com/ics-ot/shields-ready-initiative-inevitable-cyberattacks)
