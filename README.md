@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Goes After Scammers Abusing Its Bard AI Chatbot](https://www.darkreading.com/attacks-breaches/google-scammers-abusing-bard-ai-chatbot)
 - [Zero-Days in Edge Devices Become China&#39;s Cyber Warfare Tactic of Choice](https://www.darkreading.com/vulnerabilities-threats/zero-days-in-edge-devices-china-cyber-warfare-tactic)
 - [21 Vulnerabilities Discovered in Crucial IT-OT Connective Routers](https://www.darkreading.com/vulnerabilities-threats/21-vulnerabilities-discovered-crucial-it-ot-connective-routers)
+- [HARmor Cleans, Sanitizes, Encrypts HAR Files](https://www.darkreading.com/dr-tech/harmor-cleans-sanitizes-encrypts-har-files)
 - [Royal Ransom Demands Exceed $275M, Rebrand in Offing](https://www.darkreading.com/threat-intelligence/royal-ransom-demands-exceed-275m-rebrand)
 - [Steps CISOs Should Take Before, During &amp; After a Cyberattack](https://www.darkreading.com/attacks-breaches/steps-cisos-should-take-before-during-after-cyberattack)
 - [Molerats Group Wields Custom Cybertool to Steal Secrets in the Middle East](https://www.darkreading.com/dr-global/molerats-group-wields-custom-cyber-tool-to-steal-secrets-in-middle-east)
 - [Make Changes to be Ready for the New SEC Cybersecurity Disclosure Rule](https://www.darkreading.com/edge/make-changes-ready-sec-cybersecurity-disclosure-rule)
-- [&#39;Hunters International&#39; Cyberattackers Take Over Hive Ransomware](https://www.darkreading.com/attacks-breaches/hunters-international-cyberattackers-hive-ransomware)
-- [Australian Ports Resume Operation After Crippling Cyber Disruption](https://www.darkreading.com/ics-ot/australian-ports-resume-operation-after-crippling-cyber-disruption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
