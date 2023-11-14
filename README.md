@@ -79,11 +79,11 @@
 - [Royal Ransom Demands Exceed $275M, Rebrand in Offing](https://www.darkreading.com/threat-intelligence/royal-ransom-demands-exceed-275m-rebrand)
 - [Steps CISOs Should Take Before, During &amp; After a Cyberattack](https://www.darkreading.com/attacks-breaches/steps-cisos-should-take-before-during-after-cyberattack)
 - [Molerats Group Wields Custom Cybertool to Steal Secrets in the Middle East](https://www.darkreading.com/dr-global/molerats-group-wields-custom-cyber-tool-to-steal-secrets-in-middle-east)
+- [Make Changes to be Ready for the New SEC Cybersecurity Disclosure Rule](https://www.darkreading.com/edge/make-changes-ready-sec-cybersecurity-disclosure-rule)
 - [&#39;Hunters International&#39; Cyberattackers Take Over Hive Ransomware](https://www.darkreading.com/attacks-breaches/hunters-international-cyberattackers-hive-ransomware)
 - [Australian Ports Resume Operation After Crippling Cyber Disruption](https://www.darkreading.com/ics-ot/australian-ports-resume-operation-after-crippling-cyber-disruption)
 - [Q&amp;A: Generative AI Comes to the Middle East, Driving Security Changes](https://www.darkreading.com/dr-global/q-a-generative-ai-middle-east-security)
 - [Ducktail Malware Targets the Fashion Industry](https://www.darkreading.com/threat-intelligence/ducktail-malware-targets-fashion-industry)
-- [A Closer Look at State and Local Government Cybersecurity Priorities](https://www.darkreading.com/edge/a-closer-look-at-state-and-local-government-cybersecurity-priorities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
