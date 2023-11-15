@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rackspace Ransomware Costs Soar to Nearly $12M](https://www.darkreading.com/operations/rackspace-ransomware-costs-soar-12-million)
+- [&#39;AlphaLock&#39; Hacker Organization Launches Pen-Testing Training Group](https://www.darkreading.com/vulnerabilities-threats/alphalock-hacker-organization-launches-pen-testing-training-group)
 - [EU Tightens Cybersecurity Requirements for Critical Infrastructure and Services](https://www.darkreading.com/edge/eu-tightens-cybersecurity-requirements-for-critical-infrastructure-and-services)
 - [Cyber Resilience Requires Maturity, Persistence &amp; Board Engagement](https://www.darkreading.com/dr-global/cyber-resilience-maturity-persistence-board-engagement)
 - [Qatar &amp; Rwanda Partner to Boost Cybersecurity in Africa](https://www.darkreading.com/dr-global/qatar-rwanda-partner-cybersecurity-africa)
 - [After Critical Bug Disclosures, TETRA Emergency Comms Code Goes Public](https://www.darkreading.com/ics-ot/critical-bug-tetra-emergency-comms-code-public)
 - [Oil Giant Aramco Drills Down on Saudi ICS Security](https://www.darkreading.com/dr-global/oil-giant-aramco-drills-down-on-saudi-ics-security)
 - [Defending Against Attacks on Vulnerable IoT Devices](https://www.darkreading.com/vulnerabilities-threats/defending-against-attacks-on-vulnerable-iot-devices)
-- [Combining Agentless and Agent-Based Cloud Security in CNAPPs](https://www.darkreading.com/microsoft/combining-agentless-and-agent-based-cloud-security-in-cnapps)
-- [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
