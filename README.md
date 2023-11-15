@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Resilience Requires Maturity, Persistence &amp; Board Engagement](https://www.darkreading.com/dr-global/cyber-resilience-maturity-persistence-board-engagement)
+- [Qatar &amp; Rwanda Partner to Boost Cybersecurity in Africa](https://www.darkreading.com/dr-global/qatar-rwanda-partner-cybersecurity-africa)
 - [After Critical Bug Disclosures, TETRA Emergency Comms Code Goes Public](https://www.darkreading.com/ics-ot/critical-bug-tetra-emergency-comms-code-public)
 - [Oil Giant Aramco Drills Down on Saudi ICS Security](https://www.darkreading.com/dr-global/oil-giant-aramco-drills-down-on-saudi-ics-security)
 - [Defending Against Attacks on Vulnerable IoT Devices](https://www.darkreading.com/vulnerabilities-threats/defending-against-attacks-on-vulnerable-iot-devices)
 - [Combining Agentless and Agent-Based Cloud Security in CNAPPs](https://www.darkreading.com/microsoft/combining-agentless-and-agent-based-cloud-security-in-cnapps)
 - [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
 - [Microsoft Zero-Days Allow Defender Bypass, Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-allow-defender-bypass-privilege-escalation)
-- [LastPass Launches Enhanced User Interface for Mobile Vault](https://www.darkreading.com/remote-workforce/lastpass-launches-enhanced-user-interface-for-mobile-vault)
-- [Software Vulnerabilities Are on the Decline, According to New Synopsys Research](https://www.darkreading.com/vulnerabilities-threats/software-vulnerabilities-are-on-the-decline-according-to-new-synopsys-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
