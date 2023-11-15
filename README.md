@@ -79,11 +79,11 @@
 - [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
 - [Microsoft Zero-Days Allow Defender Bypass, Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-allow-defender-bypass-privilege-escalation)
 - [LastPass Launches Enhanced User Interface for Mobile Vault](https://www.darkreading.com/remote-workforce/lastpass-launches-enhanced-user-interface-for-mobile-vault)
-- [Software Vulnerabilities Are on the Decline, According to New Synopsys Research](https://www.darkreading.com/vulnerabilities-threats/software-vulnerabilities-are-on-the-decline-according-to-new-synopsys-research)
-- [Netskope Delivers the Next Gen SASE Branch, Powered by Borderless SD-WAN](https://www.darkreading.com/perimeter/netskope-delivers-the-next-gen-sase-branch-powered-by-borderless-sd-wan)
+- [Stream Security Expands into CloudSecOps Market With Launch of Real-Time Cloud Security Solution](https://www.darkreading.com/cloud/stream-security-expands-into-cloudsecops-market-with-launch-of-real-time-cloud-security-solution)
+- [Beyond Identity Releases New Assessment to Guide Companies Toward Zero Trust](https://www.darkreading.com/remote-workforce/beyond-identity-releases-new-assessment-to-guide-companies-toward-zero-trust-)
 - [Cycode Introduces Complete Approach to Application Security Posture Management &lpar;ASPM&rpar;](https://www.darkreading.com/application-security/cycode-introduces-complete-approach-to-application-security-posture-management-aspm-)
-- [Google Goes After Scammers Abusing Its Bard AI Chatbot](https://www.darkreading.com/attacks-breaches/google-scammers-abusing-bard-ai-chatbot)
-- [Zero-Days in Edge Devices Become China&#39;s Cyber Warfare Tactic of Choice](https://www.darkreading.com/vulnerabilities-threats/zero-days-in-edge-devices-china-cyber-warfare-tactic)
+- [DirectDefense Launches ThreatAdvisor 3.0 to Streamline Security Operations With SOAR Technology](https://www.darkreading.com/operations/directdefense-launches-threatadvisor-3-0-to-streamline-security-operations-with-soar-technology)
+- [Software Vulnerabilities Are on the Decline, According to New Synopsys Research](https://www.darkreading.com/vulnerabilities-threats/software-vulnerabilities-are-on-the-decline-according-to-new-synopsys-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
