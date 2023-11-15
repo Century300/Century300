@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [After Critical Bug Disclosures, TETRA Emergency Comms Code Goes Public](https://www.darkreading.com/ics-ot/critical-bug-tetra-emergency-comms-code-public)
+- [Oil Giant Aramco Drills Down on Saudi ICS Security](https://www.darkreading.com/dr-global/oil-giant-aramco-drills-down-on-saudi-ics-security)
 - [Defending Against Attacks on Vulnerable IoT Devices](https://www.darkreading.com/vulnerabilities-threats/defending-against-attacks-on-vulnerable-iot-devices)
 - [Combining Agentless and Agent-Based Cloud Security in CNAPPs](https://www.darkreading.com/microsoft/combining-agentless-and-agent-based-cloud-security-in-cnapps)
 - [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
 - [Microsoft Zero-Days Allow Defender Bypass, Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-allow-defender-bypass-privilege-escalation)
-- [Beyond Identity Releases New Assessment to Guide Companies Toward Zero Trust](https://www.darkreading.com/remote-workforce/beyond-identity-releases-new-assessment-to-guide-companies-toward-zero-trust-)
-- [DirectDefense Launches ThreatAdvisor 3.0 to Streamline Security Operations With SOAR Technology](https://www.darkreading.com/operations/directdefense-launches-threatadvisor-3-0-to-streamline-security-operations-with-soar-technology)
-- [Stream Security Expands into CloudSecOps Market With Launch of Real-Time Cloud Security Solution](https://www.darkreading.com/cloud/stream-security-expands-into-cloudsecops-market-with-launch-of-real-time-cloud-security-solution)
-- [Illumio Delivers the Most Complete Zero-Trust Segmentation Platform With the Addition of CloudSecure](https://www.darkreading.com/cloud/illumio-delivers-the-most-complete-zero-trust-segmentation-platform-with-the-addition-of-cloudsecure)
+- [LastPass Launches Enhanced User Interface for Mobile Vault](https://www.darkreading.com/remote-workforce/lastpass-launches-enhanced-user-interface-for-mobile-vault)
+- [Software Vulnerabilities Are on the Decline, According to New Synopsys Research](https://www.darkreading.com/vulnerabilities-threats/software-vulnerabilities-are-on-the-decline-according-to-new-synopsys-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
