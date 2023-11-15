@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Combining Agentless and Agent-Based Cloud Security in CNAPPs](https://www.darkreading.com/microsoft/combining-agentless-and-agent-based-cloud-security-in-cnapps)
 - [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
 - [Microsoft Zero-Days Allow Defender Bypass, Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-allow-defender-bypass-privilege-escalation)
 - [Cycode Introduces Complete Approach to Application Security Posture Management &lpar;ASPM&rpar;](https://www.darkreading.com/application-security/cycode-introduces-complete-approach-to-application-security-posture-management-aspm-)
-- [Netskope Delivers the Next Gen SASE Branch, Powered by Borderless SD-WAN](https://www.darkreading.com/perimeter/netskope-delivers-the-next-gen-sase-branch-powered-by-borderless-sd-wan)
 - [Malwarebytes Labs Reveals 50% Uptick in Credit Card Skimming in Advance of the Holiday Shopping Season](https://www.darkreading.com/vulnerabilities-threats/malwarebytes-labs-reveals-50-uptick-in-credit-card-skimming-in-advance-of-the-holiday-shopping-season)
-- [Software Vulnerabilities Are on the Decline, According to New Synopsys Research](https://www.darkreading.com/vulnerabilities-threats/software-vulnerabilities-are-on-the-decline-according-to-new-synopsys-research)
 - [Illumio Delivers the Most Complete Zero-Trust Segmentation Platform With the Addition of CloudSecure](https://www.darkreading.com/cloud/illumio-delivers-the-most-complete-zero-trust-segmentation-platform-with-the-addition-of-cloudsecure)
-- [Beyond Identity Releases New Assessment to Guide Companies Toward Zero Trust](https://www.darkreading.com/remote-workforce/beyond-identity-releases-new-assessment-to-guide-companies-toward-zero-trust-)
+- [DirectDefense Launches ThreatAdvisor 3.0 to Streamline Security Operations With SOAR Technology](https://www.darkreading.com/operations/directdefense-launches-threatadvisor-3-0-to-streamline-security-operations-with-soar-technology)
+- [Stream Security Expands into CloudSecOps Market With Launch of Real-Time Cloud Security Solution](https://www.darkreading.com/cloud/stream-security-expands-into-cloudsecops-market-with-launch-of-real-time-cloud-security-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
