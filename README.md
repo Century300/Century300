@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EU Tightens Cybersecurity Requirements for Critical Infrastructure and Services](https://www.darkreading.com/edge/eu-tightens-cybersecurity-requirements-for-critical-infrastructure-and-services)
 - [Cyber Resilience Requires Maturity, Persistence &amp; Board Engagement](https://www.darkreading.com/dr-global/cyber-resilience-maturity-persistence-board-engagement)
 - [Qatar &amp; Rwanda Partner to Boost Cybersecurity in Africa](https://www.darkreading.com/dr-global/qatar-rwanda-partner-cybersecurity-africa)
 - [After Critical Bug Disclosures, TETRA Emergency Comms Code Goes Public](https://www.darkreading.com/ics-ot/critical-bug-tetra-emergency-comms-code-public)
@@ -83,7 +84,6 @@
 - [Defending Against Attacks on Vulnerable IoT Devices](https://www.darkreading.com/vulnerabilities-threats/defending-against-attacks-on-vulnerable-iot-devices)
 - [Combining Agentless and Agent-Based Cloud Security in CNAPPs](https://www.darkreading.com/microsoft/combining-agentless-and-agent-based-cloud-security-in-cnapps)
 - [Danish Energy Attacks Portend Targeting More Critical Infrastructure](https://www.darkreading.com/ics-ot/danish-energy-attacks-portend-targeting-more-critical-infrastructure)
-- [Microsoft Zero-Days Allow Defender Bypass, Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-days-allow-defender-bypass-privilege-escalation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
