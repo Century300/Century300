@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 - [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
 - [&#39;Randstorm&#39; Bug: Millions of Crypto Wallets Open to Theft](https://www.darkreading.com/application-security/randstorm-bug-crypto-wallets-theft)
@@ -83,7 +84,6 @@
 - [Despite Hype, the Password-Free Workplace Is Still a Long Way Off](https://www.darkreading.com/endpoint/password-free-workplace-long-way-off)
 - [FBI Warns: Five Weeks In, Gaza Email Scams Still Thriving](https://www.darkreading.com/dr-global/fbi-warns-five-weeks-in-gaza-email-scams-still-thriving)
 - [3 Ways Behavioral Economics Obstructs Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-behavioral-economics-obstructs-cybersecurity)
-- [Egress and KnowBe4 Extend Partnership to Offer AI-based Adaptive Email Security and Training](https://www.darkreading.com/perimeter/egress-and-knowbe4-extend-partnership-to-offer-ai-based-adaptive-email-security-and-training)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
