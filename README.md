@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dangerous Apache ActiveMQ Exploit Allows Stealthy EDR Bypass](https://www.darkreading.com/application-security/dangerous-apache-activemq-exploit-edr-bypass)
 - [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 - [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
@@ -83,7 +84,6 @@
 - [APTs Swarm Zimbra Zero-Day to Steal Government Info Worldwide](https://www.darkreading.com/attacks-breaches/apts-swarm-zimbra-zero-day-to-steal-government-info-worldwide)
 - [Despite Hype, the Password-Free Workplace Is Still a Long Way Off](https://www.darkreading.com/endpoint/password-free-workplace-long-way-off)
 - [FBI Warns: Five Weeks In, Gaza Email Scams Still Thriving](https://www.darkreading.com/dr-global/fbi-warns-five-weeks-in-gaza-email-scams-still-thriving)
-- [3 Ways Behavioral Economics Obstructs Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-behavioral-economics-obstructs-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
