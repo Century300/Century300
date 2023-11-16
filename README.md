@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI Warns: Five Weeks In, Gaza Email Scams Still Thriving](https://www.darkreading.com/dr-global/fbi-warns-five-weeks-in-gaza-email-scams-still-thriving)
 - [3 Ways Behavioral Economics Obstructs Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/3-ways-behavioral-economics-obstructs-cybersecurity)
 - [ALTR Closes $25M Series C Financing](https://www.darkreading.com/application-security/altr-closes-25m-series-c-financing)
 - [Egress and KnowBe4 Extend Partnership to Offer AI-based Adaptive Email Security and Training](https://www.darkreading.com/perimeter/egress-and-knowbe4-extend-partnership-to-offer-ai-based-adaptive-email-security-and-training)
@@ -83,7 +84,6 @@
 - [&#39;AlphaLock&#39; Hackers Launch &#39;Pen-Testing Training&#39; Group](https://www.darkreading.com/vulnerabilities-threats/alphalock-hacker-organization-launches-pen-testing-training-group)
 - [EU Tightens Cybersecurity Requirements for Critical Infrastructure and Services](https://www.darkreading.com/edge/eu-tightens-cybersecurity-requirements-for-critical-infrastructure-and-services)
 - [Cyber Resilience Requires Maturity, Persistence &amp; Board Engagement](https://www.darkreading.com/dr-global/cyber-resilience-maturity-persistence-board-engagement)
-- [Qatar &amp; Rwanda Partner to Boost Cybersecurity in Africa](https://www.darkreading.com/dr-global/qatar-rwanda-partner-cybersecurity-africa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
