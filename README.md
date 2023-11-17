@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Weaponize SEC Disclosure Rules Against Corporate Targets](https://www.darkreading.com/risk/alphv-ransomware-group-files-sec-complaint-against-own-victim)
 - [VicOne and Block Harbor Deliver Integrated Workflow-Based Cybersecurity System](https://www.darkreading.com/iot/vicone-and-block-harbor-deliver-integrated-workflow-based-cybersecurity-system-for-automotive-oems-and-tier-1-suppliers)
 - [CompTIA Advises Retailers to Check their Cybersecurity Preparedness Ahead of the Holiday Shopping Season](https://www.darkreading.com/attacks-breaches/comptia-advises-retailers-to-check-their-cybersecurity-preparedness-ahead-of-the-holiday-shopping-season)
 - [British Library Confirms Ransomware Attack Caused Outages](https://www.darkreading.com/attacks-breaches/british-library-confirms-ransomware-attack-caused-outages)
@@ -83,7 +84,6 @@
 - [Shadowy Hack-for-Hire Group Behind Sprawling Web of Global Cyberattacks](https://www.darkreading.com/attacks-breaches/hack-for-hire-group-sprawling-web-global-cyberattacks)
 - [Actions to Take to Defeat Initial Access Brokers](https://www.darkreading.com/dr-tech/actions-to-take-to-defeat-initial-access-brokers)
 - [Hands Off the Security Budget! Find Efficiencies to Reduce Risk](https://www.darkreading.com/risk/hands-off-the-security-budget-find-efficiencies-reduce-risk)
-- [Detection &amp; Response That Scales: A 4-Pronged Approach](https://www.darkreading.com/endpoint/detection-response-that-scales-4-pronged-approach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
