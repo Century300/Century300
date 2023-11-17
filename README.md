@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Detection &amp; Response That Scales: A 4-Pronged Approach](https://www.darkreading.com/endpoint/detection-response-that-scales-4-pronged-approach)
+- [IT Pros Worry Generative AI Will Be a Major Driver of Cybersecurity Threats](https://www.darkreading.com/edge-threat-monitor/it-pros-worry-generative-ai-will-be-a-major-driver-of-cybersecurity-threats)
 - [Dangerous Apache ActiveMQ Exploit Allows Stealthy EDR Bypass](https://www.darkreading.com/application-security/dangerous-apache-activemq-exploit-edr-bypass)
 - [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 - [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
 - [&#39;Randstorm&#39; Bug: Millions of Crypto Wallets Open to Theft](https://www.darkreading.com/application-security/randstorm-bug-crypto-wallets-theft)
 - [Cybersecurity Investment Involves More Than Just Technology](https://www.darkreading.com/tech-trends/cybersecurity-investment-more-than-technology)
-- [APTs Swarm Zimbra Zero-Day to Steal Government Info Worldwide](https://www.darkreading.com/attacks-breaches/apts-swarm-zimbra-zero-day-to-steal-government-info-worldwide)
-- [Despite Hype, the Password-Free Workplace Is Still a Long Way Off](https://www.darkreading.com/endpoint/password-free-workplace-long-way-off)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
