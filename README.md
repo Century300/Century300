@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider Casino Hackers Evade Arrest in Plain Sight](https://www.darkreading.com/threat-intelligence/scattered-spider-casino-hackers-evade-arrest-plain-sight)
 - [Shadowy Hack-for-Hire Group Behind Sprawling Web of Global Cyberattacks](https://www.darkreading.com/attacks-breaches/hack-for-hire-group-sprawling-web-global-cyberattacks)
 - [Actions to Take to Defeat Initial Access Brokers](https://www.darkreading.com/dr-tech/actions-to-take-to-defeat-initial-access-brokers)
 - [Hands Off the Security Budget! Find Efficiencies to Reduce Risk](https://www.darkreading.com/risk/hands-off-the-security-budget-find-efficiencies-reduce-risk)
@@ -83,7 +84,6 @@
 - [IT Pros Worry Generative AI Will Be a Major Driver of Cybersecurity Threats](https://www.darkreading.com/edge-threat-monitor/it-pros-worry-generative-ai-will-be-a-major-driver-of-cybersecurity-threats)
 - [Dangerous Apache ActiveMQ Exploit Allows Stealthy EDR Bypass](https://www.darkreading.com/application-security/dangerous-apache-activemq-exploit-edr-bypass)
 - [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
-- [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
