@@ -81,9 +81,9 @@
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 - [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
 - [&#39;Randstorm&#39; Bug: Millions of Crypto Wallets Open to Theft](https://www.darkreading.com/application-security/randstorm-bug-crypto-wallets-theft)
+- [Cybersecurity Investment Involves More Than Just Technology](https://www.darkreading.com/tech-trends/cybersecurity-investment-more-than-technology)
 - [APTs Swarm Zimbra Zero-Day to Steal Government Info Worldwide](https://www.darkreading.com/attacks-breaches/apts-swarm-zimbra-zero-day-to-steal-government-info-worldwide)
 - [Despite Hype, the Password-Free Workplace Is Still a Long Way Off](https://www.darkreading.com/endpoint/password-free-workplace-long-way-off)
-- [FBI Warns: Five Weeks In, Gaza Email Scams Still Thriving](https://www.darkreading.com/dr-global/fbi-warns-five-weeks-in-gaza-email-scams-still-thriving)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
