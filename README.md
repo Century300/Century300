@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Actions to Take to Defeat Initial Access Brokers](https://www.darkreading.com/dr-tech/actions-to-take-to-defeat-initial-access-brokers)
 - [Hands Off the Security Budget! Find Efficiencies to Reduce Risk](https://www.darkreading.com/risk/hands-off-the-security-budget-find-efficiencies-reduce-risk)
 - [Detection &amp; Response That Scales: A 4-Pronged Approach](https://www.darkreading.com/endpoint/detection-response-that-scales-4-pronged-approach)
 - [IT Pros Worry Generative AI Will Be a Major Driver of Cybersecurity Threats](https://www.darkreading.com/edge-threat-monitor/it-pros-worry-generative-ai-will-be-a-major-driver-of-cybersecurity-threats)
@@ -83,7 +84,6 @@
 - [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
 - [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
-- [&#39;Randstorm&#39; Bug: Millions of Crypto Wallets Open to Theft](https://www.darkreading.com/application-security/randstorm-bug-crypto-wallets-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
