@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shadowy Hack-for-Hire Group Behind Sprawling Web of Global Cyberattacks](https://www.darkreading.com/attacks-breaches/hack-for-hire-group-sprawling-web-global-cyberattacks)
 - [Actions to Take to Defeat Initial Access Brokers](https://www.darkreading.com/dr-tech/actions-to-take-to-defeat-initial-access-brokers)
 - [Hands Off the Security Budget! Find Efficiencies to Reduce Risk](https://www.darkreading.com/risk/hands-off-the-security-budget-find-efficiencies-reduce-risk)
 - [Detection &amp; Response That Scales: A 4-Pronged Approach](https://www.darkreading.com/endpoint/detection-response-that-scales-4-pronged-approach)
@@ -83,7 +84,6 @@
 - [Dangerous Apache ActiveMQ Exploit Allows Stealthy EDR Bypass](https://www.darkreading.com/application-security/dangerous-apache-activemq-exploit-edr-bypass)
 - [&#39;CacheWarp&#39; AMD VM Bug Opens the Door to Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/cachewarp-amd-vm-bug-opens-door-to-privilege-escalation)
 - [Consumer Software Security Assessment: Should We Follow NHTSA&#39;s Lead?](https://www.darkreading.com/vulnerabilities-threats/consumer-software-security-assessment-should-we-follow-nhtsas-lead)
-- [Unpatched Critical Vulnerabilities Open AI Models to Takeover](https://www.darkreading.com/vulnerabilities-threats/unpatched-critical-vulnerabilities-ai-models-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
