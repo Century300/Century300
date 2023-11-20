@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enterprise Generative AI Enters Its Citizen Development Era](https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era)
 - [Saudi Arabia Arms Public Sector With Google Cloud Services](https://www.darkreading.com/dr-global/saudi-arabia-arms-public-sector-with-google-cloud-services)
 - [How the Evolving Role of the CISO Impacts Cybersecurity Startups](https://www.darkreading.com/operations/how-evolving-role-of-ciso-impacts-cybersecurity-startups)
 - [A Detection and Response Benchmark Designed for the Cloud](https://www.darkreading.com/cloud/5-5-5-benchmark-cloud-detection-and-response)
@@ -83,7 +84,6 @@
 - [Hackers Weaponize SEC Disclosure Rules Against Corporate Targets](https://www.darkreading.com/risk/alphv-ransomware-group-files-sec-complaint-against-own-victim)
 - [VicOne and Block Harbor Deliver Integrated Workflow-Based Cybersecurity System](https://www.darkreading.com/iot/vicone-and-block-harbor-deliver-integrated-workflow-based-cybersecurity-system-for-automotive-oems-and-tier-1-suppliers)
 - [CompTIA Advises Retailers to Check their Cybersecurity Preparedness Ahead of the Holiday Shopping Season](https://www.darkreading.com/attacks-breaches/comptia-advises-retailers-to-check-their-cybersecurity-preparedness-ahead-of-the-holiday-shopping-season)
-- [British Library Confirms Ransomware Attack Caused Outages](https://www.darkreading.com/attacks-breaches/british-library-confirms-ransomware-attack-caused-outages)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
