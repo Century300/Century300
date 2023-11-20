@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How the Evolving Role of the CISO Impacts Cybersecurity Startups](https://www.darkreading.com/operations/how-evolving-role-of-ciso-impacts-cybersecurity-startups)
 - [Leveraging Sandbox and Threat Intelligence Feeds to Combat Cyber Threats](https://www.darkreading.com/threat-intelligence/leveraging-sandbox-and-threat-intelligence-feeds-to-combat-cyber-threats)
 - [A Detection and Response Benchmark Designed for the Cloud](https://www.darkreading.com/cloud/5-5-5-benchmark-cloud-detection-and-response)
 - [Hackers Weaponize SEC Disclosure Rules Against Corporate Targets](https://www.darkreading.com/risk/alphv-ransomware-group-files-sec-complaint-against-own-victim)
@@ -83,7 +84,6 @@
 - [CompTIA Advises Retailers to Check their Cybersecurity Preparedness Ahead of the Holiday Shopping Season](https://www.darkreading.com/attacks-breaches/comptia-advises-retailers-to-check-their-cybersecurity-preparedness-ahead-of-the-holiday-shopping-season)
 - [British Library Confirms Ransomware Attack Caused Outages](https://www.darkreading.com/attacks-breaches/british-library-confirms-ransomware-attack-caused-outages)
 - [Scattered Spider Casino Hackers Evade Arrest in Plain Sight](https://www.darkreading.com/threat-intelligence/scattered-spider-casino-hackers-evade-arrest-plain-sight)
-- [Shadowy Hack-for-Hire Group Behind Sprawling Web of Global Cyberattacks](https://www.darkreading.com/attacks-breaches/hack-for-hire-group-sprawling-web-global-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
