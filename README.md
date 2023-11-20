@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malware Uses Trigonometry to Track Mouse Strokes](https://www.darkreading.com/application-security/malware-trigonometry-track-mouse-strokes)
+- [Amid Military Buildup, China Deploys Mustang Panda in the Philippines](https://www.darkreading.com/attacks-breaches/military-buildup-china-deploys-mustang-panda-philippines)
 - [CISA Launches Pilot Program to Address Critical Infrastructure Threats](https://www.darkreading.com/ics-ot/cisa-launches-pilot-program-critical-infrastructure-threats)
 - [Enterprise Generative AI Enters Its Citizen Development Era](https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era)
 - [Saudi Arabia Arms Public Sector With Google Cloud Services](https://www.darkreading.com/dr-global/saudi-arabia-arms-public-sector-with-google-cloud-services)
 - [How the Evolving Role of the CISO Impacts Cybersecurity Startups](https://www.darkreading.com/operations/how-evolving-role-of-ciso-impacts-cybersecurity-startups)
-- [A Detection and Response Benchmark Designed for the Cloud](https://www.darkreading.com/cloud/5-5-5-benchmark-cloud-detection-and-response)
 - [Leveraging Sandbox and Threat Intelligence Feeds to Combat Cyber Threats](https://www.darkreading.com/threat-intelligence/leveraging-sandbox-and-threat-intelligence-feeds-to-combat-cyber-threats)
-- [Hackers Weaponize SEC Disclosure Rules Against Corporate Targets](https://www.darkreading.com/risk/alphv-ransomware-group-files-sec-complaint-against-own-victim)
-- [VicOne and Block Harbor Deliver Integrated Workflow-Based Cybersecurity System](https://www.darkreading.com/iot/vicone-and-block-harbor-deliver-integrated-workflow-based-cybersecurity-system-for-automotive-oems-and-tier-1-suppliers)
+- [A Detection and Response Benchmark Designed for the Cloud](https://www.darkreading.com/cloud/5-5-5-benchmark-cloud-detection-and-response)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
