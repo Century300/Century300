@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Major Saudi University to Offer AI, Cybersecurity Studies](https://www.darkreading.com/dr-global/major-saudi-university-to-offer-ai-cybersecurity-studies)
+- [Kinsing Cyberattackers Target Apache ActiveMQ Flaw to Mine Crypto](https://www.darkreading.com/attacks-breaches/kinsing-cyberattackers-target-apache-activemq-flaw-to-mine-crypto)
 - [Maximize Cybersecurity Returns: 5 Key Steps to Enhancing ROI](https://www.darkreading.com/risk/maximize-cybersecurity-returns-5-key-steps-to-enhancing-roi)
 - [AI Helps Uncover Russian State-Sponsored Disinformation in Hungary](https://www.darkreading.com/edge/ai-helps-uncover-russian-state-sponsored-disinformation-in-hungary)
 - [What Healthcare Cybersecurity Leaders Should Know About the FDA&#39;s Section 524B Guidelines](https://www.darkreading.com/google-cloud-security/what-healthcare-cybersecurity-leaders-should-know-fda-section-524b-guidelines)
 - [Lasso Security Emerges From Stealth With $6M Seed Funding for Gen AI and Advanced LLM Cybersecurity](https://www.darkreading.com/application-security/lasso-security-emerges-from-stealth-with-6m-seed-funding-to-pioneer-gen-ai-and-advanced-llm-cybersecurity)
 - [Malware Uses Trigonometry to Track Mouse Strokes](https://www.darkreading.com/application-security/malware-trigonometry-track-mouse-strokes)
 - [GenAI Requires New, Intelligent Defenses](https://www.darkreading.com/dr-tech/genai-requires-new-intelligent-defenses)
-- [Amid Military Buildup, China Deploys Mustang Panda in the Philippines](https://www.darkreading.com/attacks-breaches/military-buildup-china-deploys-mustang-panda-philippines)
-- [CISA Launches Pilot Program to Address Critical Infrastructure Threats](https://www.darkreading.com/ics-ot/cisa-launches-pilot-program-critical-infrastructure-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
