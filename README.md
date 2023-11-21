@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AutoZone Files MOVEit Data Breach Notice With State of Maine](https://www.darkreading.com/attacks-breaches/autozone-moveit-data-breach-state-of-maine)
+- [Exploit for Critical Windows Defender Bypass Goes Public](https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public)
+- [DPRK Hackers Masquerade as Tech Recruiters, Job Seekers](https://www.darkreading.com/threat-intelligence/dprk-hackers-masquerading-tech-recruiters--job-seekers)
 - [The Role of the CISO in Digital Transformation](https://www.darkreading.com/google-cloud-security/the-role-of-the-ciso-in-digital-transformation)
 - [Inside Job: Cyber Exec Admits to Hospital Hacks](https://www.darkreading.com/attacks-breaches/inside-job-cyber-exec-admits-to-hospital-hacks)
 - [Major Saudi University to Offer AI, Cybersecurity Studies](https://www.darkreading.com/dr-global/major-saudi-university-to-offer-ai-cybersecurity-studies)
 - [Kinsing Cyberattackers Target Apache ActiveMQ Flaw to Mine Crypto](https://www.darkreading.com/attacks-breaches/kinsing-cyberattackers-target-apache-activemq-flaw-to-mine-crypto)
 - [Maximize Cybersecurity Returns: 5 Key Steps to Enhancing ROI](https://www.darkreading.com/risk/maximize-cybersecurity-returns-5-key-steps-to-enhancing-roi)
-- [AI Helps Uncover Russian State-Sponsored Disinformation in Hungary](https://www.darkreading.com/edge/ai-helps-uncover-russian-state-sponsored-disinformation-in-hungary)
-- [What Healthcare Cybersecurity Leaders Should Know About the FDA&#39;s Section 524B Guidelines](https://www.darkreading.com/google-cloud-security/what-healthcare-cybersecurity-leaders-should-know-fda-section-524b-guidelines)
-- [Lasso Security Emerges From Stealth With $6M Seed Funding for Gen AI and Advanced LLM Cybersecurity](https://www.darkreading.com/application-security/lasso-security-emerges-from-stealth-with-6m-seed-funding-to-pioneer-gen-ai-and-advanced-llm-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
