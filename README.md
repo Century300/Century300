@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Healthcare Cybersecurity Leaders Should Know About the FDA&#39;s Section 524B Guidelines](https://www.darkreading.com/google-cloud-security/what-healthcare-cybersecurity-leaders-should-know-fda-section-524b-guidelines)
 - [Lasso Security Emerges From Stealth With $6M Seed Funding for Gen AI and Advanced LLM Cybersecurity](https://www.darkreading.com/application-security/lasso-security-emerges-from-stealth-with-6m-seed-funding-to-pioneer-gen-ai-and-advanced-llm-cybersecurity)
 - [Malware Uses Trigonometry to Track Mouse Strokes](https://www.darkreading.com/application-security/malware-trigonometry-track-mouse-strokes)
 - [Amid Military Buildup, China Deploys Mustang Panda in the Philippines](https://www.darkreading.com/attacks-breaches/military-buildup-china-deploys-mustang-panda-philippines)
 - [CISA Launches Pilot Program to Address Critical Infrastructure Threats](https://www.darkreading.com/ics-ot/cisa-launches-pilot-program-critical-infrastructure-threats)
+- [Exploited Vulnerabilities Can Take Months to Make KEV List](https://www.darkreading.com/edge/exploited-vulnerabilities-take-months-to-make-kev-list)
 - [Enterprise Generative AI Enters Its Citizen Development Era](https://www.darkreading.com/edge/enterprise-generative-ai-enters-its-citizen-development-era)
 - [Saudi Arabia Arms Public Sector With Google Cloud Services](https://www.darkreading.com/dr-global/saudi-arabia-arms-public-sector-with-google-cloud-services)
-- [How the Evolving Role of the CISO Impacts Cybersecurity Startups](https://www.darkreading.com/operations/how-evolving-role-of-ciso-impacts-cybersecurity-startups)
-- [Leveraging Sandbox and Threat Intelligence Feeds to Combat Cyber Threats](https://www.darkreading.com/threat-intelligence/leveraging-sandbox-and-threat-intelligence-feeds-to-combat-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
