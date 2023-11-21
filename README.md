@@ -76,10 +76,10 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Citrix Bleed Bug Inflicts Mounting Wounds, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/citrix-bleed-bug-inflicts-mounting-wounds-cisa-warns)
 - [AutoZone Files MOVEit Data Breach Notice With State of Maine](https://www.darkreading.com/attacks-breaches/autozone-moveit-data-breach-state-of-maine)
 - [Exploit for Critical Windows Defender Bypass Goes Public](https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public)
 - [DPRK Hackers Masquerade as Tech Recruiters, Job Seekers](https://www.darkreading.com/threat-intelligence/dprk-hackers-masquerading-tech-recruiters--job-seekers)
-- [The Role of the CISO in Digital Transformation](https://www.darkreading.com/google-cloud-security/the-role-of-the-ciso-in-digital-transformation)
 - [Inside Job: Cyber Exec Admits to Hospital Hacks](https://www.darkreading.com/attacks-breaches/inside-job-cyber-exec-admits-to-hospital-hacks)
 - [Major Saudi University to Offer AI, Cybersecurity Studies](https://www.darkreading.com/dr-global/major-saudi-university-to-offer-ai-cybersecurity-studies)
 - [Kinsing Cyberattackers Target Apache ActiveMQ Flaw to Mine Crypto](https://www.darkreading.com/attacks-breaches/kinsing-cyberattackers-target-apache-activemq-flaw-to-mine-crypto)
