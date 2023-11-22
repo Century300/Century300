@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways to Stop Unauthorized Code From Running in Your Network](https://www.darkreading.com/risk/3-ways-to-stop-unauthorized-code-from-running-in-your-network)
+- [Scattered Spider Hops Nimbly From Cloud to On-Prem in Complex Attack](https://www.darkreading.com/cloud/scattered-spider-hops-nimbly-cloud-on-prem-complex-attack)
+- [Rootkit Turns Kubernetes From Orchestration to Subversion](https://www.darkreading.com/black-hat/rootkit-turns-kubernetes-from-orchestration-to-subversion)
 - [The Persian Gulf&#39;s March to the Cloud Presents Global Opportunities](https://www.darkreading.com/dr-global/persian-gulfs-march-to-cloud-presents-global-opportunities)
 - [The 7 Deadly Sins of Security Awareness Training](https://www.darkreading.com/edge/the-7-deadly-sins-of-security-awareness-training)
 - [Citrix Bleed Bug Inflicts Mounting Wounds, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/citrix-bleed-bug-inflicts-mounting-wounds-cisa-warns)
 - [AutoZone Files MOVEit Data Breach Notice With State of Maine](https://www.darkreading.com/attacks-breaches/autozone-moveit-data-breach-state-of-maine)
 - [Exploit for Critical Windows Defender Bypass Goes Public](https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public)
-- [DPRK Hackers Masquerade as Tech Recruiters, Job Seekers](https://www.darkreading.com/threat-intelligence/dprk-hackers-masquerading-tech-recruiters--job-seekers)
-- [Inside Job: Cyber Exec Admits to Hospital Hacks](https://www.darkreading.com/attacks-breaches/inside-job-cyber-exec-admits-to-hospital-hacks)
-- [Major Saudi University to Offer AI, Cybersecurity Studies](https://www.darkreading.com/dr-global/major-saudi-university-to-offer-ai-cybersecurity-studies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
