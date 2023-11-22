@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [3 Ways to Stop Unauthorized Code From Running in Your Network](https://www.darkreading.com/risk/3-ways-to-stop-unauthorized-code-from-running-in-your-network)
+- [Idaho National Nuclear Lab Targeted in Major Data Breach](https://www.darkreading.com/ics-ot/idaho-national-nuclear-lab-targeted-in-major-data-breach)
 - [Scattered Spider Hops Nimbly From Cloud to On-Prem in Complex Attack](https://www.darkreading.com/cloud/scattered-spider-hops-nimbly-cloud-on-prem-complex-attack)
 - [Rootkit Turns Kubernetes From Orchestration to Subversion](https://www.darkreading.com/black-hat/rootkit-turns-kubernetes-from-orchestration-to-subversion)
 - [The Persian Gulf&#39;s March to the Cloud Presents Global Opportunities](https://www.darkreading.com/dr-global/persian-gulfs-march-to-cloud-presents-global-opportunities)
 - [The 7 Deadly Sins of Security Awareness Training](https://www.darkreading.com/edge/the-7-deadly-sins-of-security-awareness-training)
 - [Citrix Bleed Bug Inflicts Mounting Wounds, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/citrix-bleed-bug-inflicts-mounting-wounds-cisa-warns)
 - [AutoZone Files MOVEit Data Breach Notice With State of Maine](https://www.darkreading.com/attacks-breaches/autozone-moveit-data-breach-state-of-maine)
-- [Exploit for Critical Windows Defender Bypass Goes Public](https://www.darkreading.com/vulnerabilities-threats/exploit-critical-windows-defender-bypass-public)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
