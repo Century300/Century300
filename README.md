@@ -79,11 +79,11 @@
 - [Hack The Box Launches 5th Annual University CTF Competition](https://www.darkreading.com/careers-and-people/hack-the-box-launches-5th-annual-university-ctf-competition)
 - [Fake Browser Updates Targeting Mac Systems With Infostealer](https://www.darkreading.com/attacks-breaches/threat-actor-using-fake-browser-updates-to-distribute-mac-infostealer)
 - [Kiteworks&#39; Maytech Acquisition Reaffirms Commitment to UK Market](https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market)
+- [Generative AI Takes on SIEM](https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem)
 - [Web Shells Gain Sophistication for Stealth, Persistence](https://www.darkreading.com/cloud/web-shells-sophistication-stealth-persistence)
 - [Qatar Cyber Agency Runs National Cyber Drills](https://www.darkreading.com/dr-global/qatar-cyber-agency-runs-national-cyber-drills)
 - [Researchers Undermine &#39;Windows Hello&#39; on Lenovo, Dell, Surface Pro PCs](https://www.darkreading.com/vulnerabilities-threats/researchers-undermine-windows-hello-lenovo-dell-surface-pro-pcs)
 - [Mideast Oil &amp; Gas Facilities Could Face Cyber-Related Energy Disruptions](https://www.darkreading.com/dr-global/mideast-oil-gas-facilities-could-face-cyber-energy-disruptions)
-- [3 Ways to Stop Unauthorized Code From Running in Your Network](https://www.darkreading.com/risk/3-ways-to-stop-unauthorized-code-from-running-in-your-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
