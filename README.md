@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ardent Health Hospitals Disrupted After Ransomware Attack](https://www.darkreading.com/attacks-breaches/ardent-health-hospitals-disrupted-after-ransomware-attack)
 - [General Electric, DARPA Hack Claims Raise National Security Concerns](https://www.darkreading.com/attacks-breaches/general-electric-darpa-hack-claims-raise-national-security-concerns)
 - [Hamas-Linked APT Wields New SysJoker Backdoor Against Israel](https://www.darkreading.com/attacks-breaches/hamas-linked-apt-wields-new-sysjoker-backdoor-against-israel)
 - [Data De-Identification: Balancing Privacy, Efficacy &amp; Cybersecurity](https://www.darkreading.com/risk/data-de-identification-balancing-privacy-efficacy-cybersecurity-)
@@ -83,7 +84,6 @@
 - [Hack The Box Launches 5th Annual University CTF Competition](https://www.darkreading.com/careers-and-people/hack-the-box-launches-5th-annual-university-ctf-competition)
 - [Fake Browser Updates Targeting Mac Systems With Infostealer](https://www.darkreading.com/attacks-breaches/threat-actor-using-fake-browser-updates-to-distribute-mac-infostealer)
 - [Kiteworks&#39; Maytech Acquisition Reaffirms Commitment to UK Market](https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market)
-- [Generative AI Takes On SIEM](https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
