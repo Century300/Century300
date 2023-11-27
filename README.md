@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [General Electric, DARPA Hack Claims Raise National Security Concerns](https://www.darkreading.com/attacks-breaches/general-electric-darpa-hack-claims-raise-national-security-concerns)
 - [Hamas-Linked APT Wields New SysJoker Backdoor Against Israel](https://www.darkreading.com/attacks-breaches/hamas-linked-apt-wields-new-sysjoker-backdoor-against-israel)
 - [Data De-Identification: Balancing Privacy, Efficacy &amp; Cybersecurity](https://www.darkreading.com/risk/data-de-identification-balancing-privacy-efficacy-cybersecurity-)
 - [Balancing Simplicity and Security in the Digital Experience](https://www.darkreading.com/cloud/balancing-simplicity-and-security-in-the-digital-experience)
@@ -83,7 +84,6 @@
 - [Fake Browser Updates Targeting Mac Systems With Infostealer](https://www.darkreading.com/attacks-breaches/threat-actor-using-fake-browser-updates-to-distribute-mac-infostealer)
 - [Kiteworks&#39; Maytech Acquisition Reaffirms Commitment to UK Market](https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market)
 - [Generative AI Takes On SIEM](https://www.darkreading.com/emerging-tech/generative-ai-takes-on-siem)
-- [Web Shells Gain Sophistication for Stealth, Persistence](https://www.darkreading.com/cloud/web-shells-sophistication-stealth-persistence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
