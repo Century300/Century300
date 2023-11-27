@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA, NCSC Offer a Road Map, Not Rules, in New Secure AI Guidelines](https://www.darkreading.com/risk/cisa-ncsc-offer-roadmap-not-rules-new-secure-ai-guidelines)
 - [Ardent Health Hospitals Disrupted After Ransomware Attack](https://www.darkreading.com/attacks-breaches/ardent-health-hospitals-disrupted-after-ransomware-attack)
 - [General Electric, DARPA Hack Claims Raise National Security Concerns](https://www.darkreading.com/attacks-breaches/general-electric-darpa-hack-claims-raise-national-security-concerns)
 - [Hamas-Linked APT Wields New SysJoker Backdoor Against Israel](https://www.darkreading.com/attacks-breaches/hamas-linked-apt-wields-new-sysjoker-backdoor-against-israel)
@@ -83,7 +84,6 @@
 - [Balancing Simplicity and Security in the Digital Experience](https://www.darkreading.com/cloud/balancing-simplicity-and-security-in-the-digital-experience)
 - [Hack The Box Launches 5th Annual University CTF Competition](https://www.darkreading.com/careers-and-people/hack-the-box-launches-5th-annual-university-ctf-competition)
 - [Fake Browser Updates Targeting Mac Systems With Infostealer](https://www.darkreading.com/attacks-breaches/threat-actor-using-fake-browser-updates-to-distribute-mac-infostealer)
-- [Kiteworks&#39; Maytech Acquisition Reaffirms Commitment to UK Market](https://www.darkreading.com/application-security/kiteworks-maytech-acquisition-reaffirms-commitment-to-uk-market)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
