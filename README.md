@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Claim Design Flaw in Google Workspace Puts Organizations at Risk](https://www.darkreading.com/cloud-security/vendor-claims-design-flaw-in-google-workspace-is-putting-organizations-at-risk)
 - [The Role of the CISO in Digital Transformation](https://www.darkreading.com/cloud-security/the-role-of-the-ciso-in-digital-transformation)
 - [Cyber Threats to Watch Out for in 2024](https://www.darkreading.com/cyber-risk/cyber-threats-to-watch-out-for-in-2024)
 - [CISA, NCSC Offer a Road Map, Not Rules, in New Secure AI Guidelines](https://www.darkreading.com/cyber-risk/cisa-ncsc-offer-a-road-map-not-rules-in-new-secure-ai-guidelines)
@@ -83,7 +84,6 @@
 - [Data De-Identification: Balancing Privacy, Efficacy &amp; Cybersecurity](https://www.darkreading.com/cyber-risk/data-de-identification-balancing-privacy-efficacy-cybersecurity)
 - [Hamas-Linked APT Wields New SysJoker Backdoor Against Israel](https://www.darkreading.com/cyberattacks-data-breaches/hamas-linked-apt-wields-new-sysjoker-backdoor-against-israel)
 - [Ardent Health Hospitals Disrupted After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/ardent-health-hospitals-disrupted-after-ransomware-attack)
-- [Hack The Box Launches 5th Annual University CTF Competition](https://www.darkreading.com/cybersecurity-operations/hack-the-box-launches-5th-annual-university-ctf-competition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
