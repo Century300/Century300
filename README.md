@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fight or Flight: How to Keep Cyberattacks From Taking Off](https://www.darkreading.com/cyberattacks-data-breaches/fight-or-flight-how-to-keep-cyberattacks-from-taking-off)
+- [Cyber Monday Kicks Off Holiday Shopping Season With E-Commerce Security Risks](https://www.darkreading.com/application-security/cyber-monday-kicks-off-holiday-shopping-season-with-e-commerce-security-risks)
 - [Name That Toon: Slam Dunk](https://www.darkreading.com/application-security/name-that-toon-slam-dunk)
 - [Attacks Against South African ICS and IoT Systems Steadily Decrease](https://www.darkreading.com/cyberattacks-data-breaches/attacks-against-south-african-ics-and-iot-systems-steadily-decrease)
 - [macOS Malware Mix &amp; Match: North Korean APTs Stir Up Fresh Attacks](https://www.darkreading.com/threat-intelligence/north-korean-apts-mix-and-match-malware-components-to-evade-detection)
 - [Egyptian E-Payment Vendor Recovering From LockBit Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/fawry-recovering-from-lockbit-ransomware-attack-)
 - [Researchers Claim Design Flaw in Google Workspace Puts Organizations at Risk](https://www.darkreading.com/cloud-security/vendor-claims-design-flaw-in-google-workspace-is-putting-organizations-at-risk)
 - [The Role of the CISO in Digital Transformation](https://www.darkreading.com/cloud-security/the-role-of-the-ciso-in-digital-transformation)
-- [Cyber Threats to Watch Out for in 2024](https://www.darkreading.com/cyber-risk/cyber-threats-to-watch-out-for-in-2024)
-- [CISA, NCSC Offer a Road Map, Not Rules, in New Secure AI Guidelines](https://www.darkreading.com/cyber-risk/cisa-ncsc-offer-a-road-map-not-rules-in-new-secure-ai-guidelines)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
