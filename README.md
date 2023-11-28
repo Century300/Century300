@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Former Uber CISO Speaks Out, After 6 Years, on Data Breach, SolarWinds](https://www.darkreading.com/cyberattacks-data-breaches/6-years-of-silence-former-uber-ciso-speaks-out-on-data-breach-solarwinds)
 - [Fight or Flight: How to Keep Cyberattacks From Taking Off](https://www.darkreading.com/cyberattacks-data-breaches/fight-or-flight-how-to-keep-cyberattacks-from-taking-off)
 - [Cyber Monday Kicks Off Holiday Shopping Season With E-Commerce Security Risks](https://www.darkreading.com/application-security/cyber-monday-kicks-off-holiday-shopping-season-with-e-commerce-security-risks)
 - [Name That Toon: Slam Dunk](https://www.darkreading.com/application-security/name-that-toon-slam-dunk)
@@ -83,7 +84,6 @@
 - [macOS Malware Mix &amp; Match: North Korean APTs Stir Up Fresh Attacks](https://www.darkreading.com/threat-intelligence/north-korean-apts-mix-and-match-malware-components-to-evade-detection)
 - [Egyptian E-Payment Vendor Recovering From LockBit Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/fawry-recovering-from-lockbit-ransomware-attack-)
 - [Researchers Claim Design Flaw in Google Workspace Puts Organizations at Risk](https://www.darkreading.com/cloud-security/vendor-claims-design-flaw-in-google-workspace-is-putting-organizations-at-risk)
-- [The Role of the CISO in Digital Transformation](https://www.darkreading.com/cloud-security/the-role-of-the-ciso-in-digital-transformation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
