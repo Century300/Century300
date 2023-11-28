@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA to Congress: US Under Threat of Chemical Attacks](https://www.darkreading.com/cyber-risk/cisa-to-congress-us-under-threat-of-chemical-attacks)
 - [Critical Vulns Found in Ray Open Source Framework for AI/ML Workloads](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-trio-of-critical-vulns-in-ray-open-source-framework-for-scaling-ai-ml-workloads)
 - [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
 - [Slovenian Electrical Utility HSE Suffers Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/slovenia-power-provider-hse-suffers-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Fight or Flight: How to Keep Cyberattacks From Taking Off](https://www.darkreading.com/cyberattacks-data-breaches/fight-or-flight-how-to-keep-cyberattacks-from-taking-off)
 - [Cyber Monday Kicks Off Holiday Shopping Season With E-Commerce Security Risks](https://www.darkreading.com/application-security/cyber-monday-kicks-off-holiday-shopping-season-with-e-commerce-security-risks)
 - [Name That Toon: Slam Dunk](https://www.darkreading.com/application-security/name-that-toon-slam-dunk)
-- [Attacks Against South African ICS and IoT Systems Steadily Decrease](https://www.darkreading.com/cyberattacks-data-breaches/attacks-against-south-african-ics-and-iot-systems-steadily-decrease)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
