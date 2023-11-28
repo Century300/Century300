@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Role of the CISO in Digital Transformation](https://www.darkreading.com/google-cloud-security/the-role-of-the-ciso-in-digital-transformation)
 - [Cyber Threats to Watch Out for in 2024](https://www.darkreading.com/edge/cyber-threats-to-watch-out-for-in-2024)
 - [CISA, NCSC Offer a Road Map, Not Rules, in New Secure AI Guidelines](https://www.darkreading.com/risk/cisa-ncsc-offer-roadmap-not-rules-new-secure-ai-guidelines)
 - [Ardent Health Hospitals Disrupted After Ransomware Attack](https://www.darkreading.com/attacks-breaches/ardent-health-hospitals-disrupted-after-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Hamas-Linked APT Wields New SysJoker Backdoor Against Israel](https://www.darkreading.com/attacks-breaches/hamas-linked-apt-wields-new-sysjoker-backdoor-against-israel)
 - [Data De-Identification: Balancing Privacy, Efficacy &amp; Cybersecurity](https://www.darkreading.com/risk/data-de-identification-balancing-privacy-efficacy-cybersecurity-)
 - [Balancing Simplicity and Security in the Digital Experience](https://www.darkreading.com/cloud/balancing-simplicity-and-security-in-the-digital-experience)
-- [Hack The Box Launches 5th Annual University CTF Competition](https://www.darkreading.com/careers-and-people/hack-the-box-launches-5th-annual-university-ctf-competition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
