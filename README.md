@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thought GDPR Compliance Was Hard? Buckle Up](https://www.darkreading.com/cyber-risk/thought-gdpr-compliance-was-hard-buckle-up)
 - [Why Ransomware Could Surge in the Middle East &amp; Africa](https://www.darkreading.com/vulnerabilities-threats/ransomware-attacks-strike-south-africa-decline-in-uae)
 - [Ringleader of Prolific Ransomware Gang Arrested in Ukraine](https://www.darkreading.com/cybersecurity-operations/ringleader-of-prolific-ransomware-gang-arrested-in-ukraine)
 - [CISA to Congress: US Under Threat of Chemical Attacks](https://www.darkreading.com/cyber-risk/cisa-to-congress-us-under-threat-of-chemical-attacks)
@@ -83,7 +84,6 @@
 - [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
 - [Slovenian Electrical Utility HSE Suffers Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/slovenia-power-provider-hse-suffers-ransomware-attack)
 - [Former Uber CISO Speaks Out, After 6 Years, on Data Breach, SolarWinds](https://www.darkreading.com/cyberattacks-data-breaches/6-years-of-silence-former-uber-ciso-speaks-out-on-data-breach-solarwinds)
-- [Fight or Flight: How to Keep Cyberattacks From Taking Off](https://www.darkreading.com/cyberattacks-data-breaches/fight-or-flight-how-to-keep-cyberattacks-from-taking-off)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
