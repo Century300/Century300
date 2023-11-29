@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Ransomware Could Surge in the Middle East &amp; Africa](https://www.darkreading.com/vulnerabilities-threats/ransomware-attacks-strike-south-africa-decline-in-uae)
+- [Ringleader of Prolific Ransomware Gang Arrested in Ukraine](https://www.darkreading.com/cybersecurity-operations/ringleader-of-prolific-ransomware-gang-arrested-in-ukraine)
 - [CISA to Congress: US Under Threat of Chemical Attacks](https://www.darkreading.com/cyber-risk/cisa-to-congress-us-under-threat-of-chemical-attacks)
 - [Critical Vulns Found in Ray Open Source Framework for AI/ML Workloads](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-trio-of-critical-vulns-in-ray-open-source-framework-for-scaling-ai-ml-workloads)
 - [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
 - [Slovenian Electrical Utility HSE Suffers Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/slovenia-power-provider-hse-suffers-ransomware-attack)
 - [Former Uber CISO Speaks Out, After 6 Years, on Data Breach, SolarWinds](https://www.darkreading.com/cyberattacks-data-breaches/6-years-of-silence-former-uber-ciso-speaks-out-on-data-breach-solarwinds)
 - [Fight or Flight: How to Keep Cyberattacks From Taking Off](https://www.darkreading.com/cyberattacks-data-breaches/fight-or-flight-how-to-keep-cyberattacks-from-taking-off)
-- [Cyber Monday Kicks Off Holiday Shopping Season With E-Commerce Security Risks](https://www.darkreading.com/application-security/cyber-monday-kicks-off-holiday-shopping-season-with-e-commerce-security-risks)
-- [Name That Toon: Slam Dunk](https://www.darkreading.com/application-security/name-that-toon-slam-dunk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
