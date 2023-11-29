@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [1Kosmos Unifies Identity Verification User Journeys Across Web and Mobile Platforms](https://www.darkreading.com/application-security/1kosmos-unifies-identity-verification-user-journeys-across-web-and-mobile-platforms)
+- [How a Teenage Saudi Hacker Went From Lockpicking to Ransomware](https://www.darkreading.com/cybersecurity-careers/Q&A-saudi-teenage-hacker-talks-about-getting-into-cybersecurity)
+- [Announcing Fortanix Key Insight — A Solution to Discover and Remediate Data Security Risks in Hybrid Multicloud Environments](https://www.darkreading.com/cloud-security/announcing-fortanix-key-insight-a-solution-to-discover-and-remediate-data-security-risks-in-hybrid-multicloud-environments)
+- [Cyberattack on Pennsylvania Water Authority Disrupts OT Gear](https://www.darkreading.com/cyberattacks-data-breaches/iranian-linked-cyber-group-targets-pennsylvania-water-authority)
 - [Google Patches Another Chrome Zero-Day as Browser Attacks Mount](https://www.darkreading.com/vulnerabilities-threats/google-patches-another-chrome-zero-day-as-browser-attacks-mount)
 - [Patch Now: Attackers Pummel Critical, Easy-to-Exploit OwnCloud Flaw](https://www.darkreading.com/cloud-security/patch-now-attackers-pummel-critical-easy-to-exploit-owncloud-flaw)
 - [Thought GDPR Compliance Was Hard? Buckle Up](https://www.darkreading.com/cyber-risk/thought-gdpr-compliance-was-hard-buckle-up)
 - [Why Ransomware Could Surge in the Middle East &amp; Africa](https://www.darkreading.com/vulnerabilities-threats/ransomware-attacks-strike-south-africa-decline-in-uae)
-- [Ringleader of Prolific Ransomware Gang Arrested in Ukraine](https://www.darkreading.com/cybersecurity-operations/ringleader-of-prolific-ransomware-gang-arrested-in-ukraine)
-- [CISA to Congress: US Under Threat of Chemical Attacks](https://www.darkreading.com/cyber-risk/cisa-to-congress-us-under-threat-of-chemical-attacks)
-- [Critical Vulns Found in Ray Open Source Framework for AI/ML Workloads](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-trio-of-critical-vulns-in-ray-open-source-framework-for-scaling-ai-ml-workloads)
-- [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
