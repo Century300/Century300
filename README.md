@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: Attackers Pummel Critical, Easy-to-Exploit OwnCloud Flaw](https://www.darkreading.com/cloud-security/patch-now-attackers-pummel-critical-easy-to-exploit-owncloud-flaw)
 - [Thought GDPR Compliance Was Hard? Buckle Up](https://www.darkreading.com/cyber-risk/thought-gdpr-compliance-was-hard-buckle-up)
 - [Why Ransomware Could Surge in the Middle East &amp; Africa](https://www.darkreading.com/vulnerabilities-threats/ransomware-attacks-strike-south-africa-decline-in-uae)
 - [Ringleader of Prolific Ransomware Gang Arrested in Ukraine](https://www.darkreading.com/cybersecurity-operations/ringleader-of-prolific-ransomware-gang-arrested-in-ukraine)
@@ -83,7 +84,6 @@
 - [Critical Vulns Found in Ray Open Source Framework for AI/ML Workloads](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-trio-of-critical-vulns-in-ray-open-source-framework-for-scaling-ai-ml-workloads)
 - [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
 - [Slovenian Electrical Utility HSE Suffers Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/slovenia-power-provider-hse-suffers-ransomware-attack)
-- [Former Uber CISO Speaks Out, After 6 Years, on Data Breach, SolarWinds](https://www.darkreading.com/cyberattacks-data-breaches/6-years-of-silence-former-uber-ciso-speaks-out-on-data-breach-solarwinds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
