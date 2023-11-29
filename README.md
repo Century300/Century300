@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Patches Another Chrome Zero-Day as Browser Attacks Mount](https://www.darkreading.com/vulnerabilities-threats/google-patches-another-chrome-zero-day-as-browser-attacks-mount)
 - [Patch Now: Attackers Pummel Critical, Easy-to-Exploit OwnCloud Flaw](https://www.darkreading.com/cloud-security/patch-now-attackers-pummel-critical-easy-to-exploit-owncloud-flaw)
 - [Thought GDPR Compliance Was Hard? Buckle Up](https://www.darkreading.com/cyber-risk/thought-gdpr-compliance-was-hard-buckle-up)
 - [Why Ransomware Could Surge in the Middle East &amp; Africa](https://www.darkreading.com/vulnerabilities-threats/ransomware-attacks-strike-south-africa-decline-in-uae)
@@ -83,7 +84,6 @@
 - [CISA to Congress: US Under Threat of Chemical Attacks](https://www.darkreading.com/cyber-risk/cisa-to-congress-us-under-threat-of-chemical-attacks)
 - [Critical Vulns Found in Ray Open Source Framework for AI/ML Workloads](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-trio-of-critical-vulns-in-ray-open-source-framework-for-scaling-ai-ml-workloads)
 - [Dark Reading Debuts Fresh New Site Design](https://www.darkreading.com/cybersecurity-operations/dark-reading-debuts-fresh-new-site-design)
-- [Slovenian Electrical Utility HSE Suffers Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/slovenia-power-provider-hse-suffers-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
