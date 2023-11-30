@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Holiday Gifts For Stressed-Out Security Pros](https://www.darkreading.com/endpoint-security/10-holiday-gifts-for-stressed-out-security-pros)
 - [Ex-Cybersecurity Adviser to Bush, Obama Weighs in On Current Admin](https://www.darkreading.com/cyber-risk/ex-cybersecurity-adviser-to-bush-obama-weighs-in-on-current-admin)
 - [Code Scanner by Piiano Helps Enterprises Prevent Data Leaks Proactively](https://www.darkreading.com/cybersecurity-operations/novel-code-scanner-by-piiano-helps-enterprises-prevent-data-leaks-proactively)
 - [XM Cyber Launches Kubernetes Exposure Management to Intelligently Protect Critical Container Environments](https://www.darkreading.com/cloud-security/xm-cyber-launches-kubernetes-exposure-management-to-intelligently-protect-critical-container-environments)
@@ -83,7 +84,6 @@
 - [How a Teenage Saudi Hacker Went From Lockpicking to Ransomware](https://www.darkreading.com/cybersecurity-careers/Q&A-saudi-teenage-hacker-talks-about-getting-into-cybersecurity)
 - [Announcing Fortanix Key Insight — A Solution to Discover and Remediate Data Security Risks in Hybrid Multicloud Environments](https://www.darkreading.com/cloud-security/announcing-fortanix-key-insight-a-solution-to-discover-and-remediate-data-security-risks-in-hybrid-multicloud-environments)
 - [Cyberattack on Pennsylvania Water Authority Disrupts OT Gear](https://www.darkreading.com/cyberattacks-data-breaches/iranian-linked-cyber-group-targets-pennsylvania-water-authority)
-- [Google Patches Another Chrome Zero-Day as Browser Attacks Mount](https://www.darkreading.com/vulnerabilities-threats/google-patches-another-chrome-zero-day-as-browser-attacks-mount)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
