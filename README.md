@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A New, Spookier Gh0st RAT Malware Haunts Global Cyber Targets](https://www.darkreading.com/threat-intelligence/new-spookier-gh0st-rat-uzbekistan-south-korea)
 - [Siemens PLCs Still Vulnerable to Stuxnet-like Cyberattacks](https://www.darkreading.com/ics-ot-security/siemens-plcs-still-vulnerable-stuxnet-like-cyberattacks)
 - [Feds Seize &#39;Sinbad&#39; Crypto Mixer Used by North Korea&#39;s Lazarus](https://www.darkreading.com/cyberattacks-data-breaches/feds-seize-sinbad-crypto-mixer-used-by-north-korea-s-lazarus)
 - [Deluge of Nearly 300 Fake Apps Floods Iranian Banking Sector](https://www.darkreading.com/endpoint-security/deluge-of-nearly-300-fake-apps-floods-iranian-banking-sector)
@@ -83,7 +84,6 @@
 - [10 Holiday Gifts For Stressed-Out Security Pros](https://www.darkreading.com/endpoint-security/10-holiday-gifts-for-stressed-out-security-pros)
 - [Wiz-Securonix Partnership Promises Unified Threat Detection](https://www.darkreading.com/cloud-security/wiz-securonix-partnership-promises-unified-threat-detection)
 - [Rundown of Security News from AWS re:Invent 2023](https://www.darkreading.com/cloud-security/rundown-of-security-news-from-aws-re-invent-2023)
-- [Ex-Cybersecurity Adviser to Bush, Obama Weighs in On Current Admin](https://www.darkreading.com/cyber-risk/ex-cybersecurity-adviser-to-bush-obama-weighs-in-on-current-admin)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
