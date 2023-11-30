@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Siemens PLCs Still Vulnerable to Stuxnet-like Cyberattacks](https://www.darkreading.com/ics-ot-security/siemens-plcs-still-vulnerable-stuxnet-like-cyberattacks)
 - [Feds Seize &#39;Sinbad&#39; Crypto Mixer Used by North Korea&#39;s Lazarus](https://www.darkreading.com/cyberattacks-data-breaches/feds-seize-sinbad-crypto-mixer-used-by-north-korea-s-lazarus)
 - [Deluge of Nearly 300 Fake Apps Floods Iranian Banking Sector](https://www.darkreading.com/endpoint-security/deluge-of-nearly-300-fake-apps-floods-iranian-banking-sector)
 - [8 Tips on Leveraging AI Tools Without Compromising Security](https://www.darkreading.com/vulnerabilities-threats/8-tips-on-leveraging-ai-tools-without-compromising-security)
@@ -83,7 +84,6 @@
 - [Wiz-Securonix Partnership Promises Unified Threat Detection](https://www.darkreading.com/cloud-security/wiz-securonix-partnership-promises-unified-threat-detection)
 - [Rundown of Security News from AWS re:Invent 2023](https://www.darkreading.com/cloud-security/rundown-of-security-news-from-aws-re-invent-2023)
 - [Ex-Cybersecurity Adviser to Bush, Obama Weighs in On Current Admin](https://www.darkreading.com/cyber-risk/ex-cybersecurity-adviser-to-bush-obama-weighs-in-on-current-admin)
-- [Code Scanner by Piiano Helps Enterprises Prevent Data Leaks Proactively](https://www.darkreading.com/cybersecurity-operations/novel-code-scanner-by-piiano-helps-enterprises-prevent-data-leaks-proactively)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
