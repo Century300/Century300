@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Emirates CISOs Flag Rampant Cybersecurity Gaps](https://www.darkreading.com/cybersecurity-operations/emirates-cisos-rampant-cybersecurity-gaps)
 - [Saudi Companies Outsource Cybersecurity Amid &#39;Serious&#39; Incidents](https://www.darkreading.com/cybersecurity-operations/saudi-companies-outsource-cybersecurity-amid-serious-incidents)
 - [The US Needs To Follow Germany&#39;s Attack-Detection Mandate](https://www.darkreading.com/cyberattacks-data-breaches/the-us-needs-to-follow-germany-s-attack-detection-mandate)
 - [Simple Hacking Technique Can Extract ChatGPT Training Data](https://www.darkreading.com/cyber-risk/researchers-simple-technique-extract-chatgpt-training-data)
@@ -83,7 +84,6 @@
 - [Law Firms &amp; Legal Departments Singled Out for Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/law-firms-face-a-more-dangerous-threat-landscape)
 - [A New, Spookier Gh0st RAT Malware Haunts Global Cyber Targets](https://www.darkreading.com/threat-intelligence/new-spookier-gh0st-rat-uzbekistan-south-korea)
 - [Siemens PLCs Still Vulnerable to Stuxnet-like Cyberattacks](https://www.darkreading.com/ics-ot-security/siemens-plcs-still-vulnerable-stuxnet-like-cyberattacks)
-- [Feds Seize &#39;Sinbad&#39; Crypto Mixer Used by North Korea&#39;s Lazarus](https://www.darkreading.com/cyberattacks-data-breaches/feds-seize-sinbad-crypto-mixer-used-by-north-korea-s-lazarus)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
