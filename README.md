@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical &#39;LogoFAIL&#39; Bugs Offer Secure Boot Bypass for Millions of PCs](https://www.darkreading.com/endpoint-security/critical-logofail-bugs-secure-boot-bypass-millions-pcs)
 - [Japan&#39;s Space Program at Risk After Microsoft Active Directory Breach](https://www.darkreading.com/cyberattacks-data-breaches/japan-space-program-risk-microsoft-active-directory-breach)
 - [Emirates CISOs Flag Rampant Cybersecurity Gaps](https://www.darkreading.com/cybersecurity-operations/emirates-cisos-rampant-cybersecurity-gaps)
 - [Saudi Companies Outsource Cybersecurity Amid &#39;Serious&#39; Incidents](https://www.darkreading.com/cybersecurity-operations/saudi-companies-outsource-cybersecurity-amid-serious-incidents)
@@ -83,7 +84,6 @@
 - [Simple Hacking Technique Can Extract ChatGPT Training Data](https://www.darkreading.com/cyber-risk/researchers-simple-technique-extract-chatgpt-training-data)
 - [Okta Breach Widens to Affect 100% of Customer Base](https://www.darkreading.com/application-security/otka-breach-widens-entire-customer-base)
 - [Law Firms &amp; Legal Departments Singled Out for Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/law-firms-face-a-more-dangerous-threat-landscape)
-- [A New, Spookier Gh0st RAT Malware Haunts Global Cyber Targets](https://www.darkreading.com/threat-intelligence/new-spookier-gh0st-rat-uzbekistan-south-korea)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
