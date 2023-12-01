@@ -76,9 +76,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Saudi Companies Outsource Cybersecurity Amid &#39;Serious&#39; Incidents](https://www.darkreading.com/cybersecurity-operations/saudi-companies-outsource-cybersecurity-amid-serious-incidents)
 - [The US Needs To Follow Germany&#39;s Attack-Detection Mandate](https://www.darkreading.com/cyberattacks-data-breaches/the-us-needs-to-follow-germany-s-attack-detection-mandate)
 - [Simple Hacking Technique Can Extract ChatGPT Training Data](https://www.darkreading.com/cyber-risk/researchers-simple-technique-extract-chatgpt-training-data)
-- [[Test] Tony](https://www.darkreading.com/data-privacy/-test-tony3)
 - [Okta Breach Widens to Affect 100% of Customer Base](https://www.darkreading.com/application-security/otka-breach-widens-entire-customer-base)
 - [Law Firms &amp; Legal Departments Singled Out for Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/law-firms-face-a-more-dangerous-threat-landscape)
 - [A New, Spookier Gh0st RAT Malware Haunts Global Cyber Targets](https://www.darkreading.com/threat-intelligence/new-spookier-gh0st-rat-uzbekistan-south-korea)
