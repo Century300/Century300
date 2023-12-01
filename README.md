@@ -76,7 +76,6 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [[Test] Tony Article x](https://www.darkreading.com/data-privacy/-test-tony2)
 - [Okta Breach Widens to Affect 100% of Customer Base](https://www.darkreading.com/application-security/otka-breach-widens-entire-customer-base)
 - [Law Firms &amp; Legal Departments Singled Out for Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/law-firms-face-a-more-dangerous-threat-landscape)
 - [A New, Spookier Gh0st RAT Malware Haunts Global Cyber Targets](https://www.darkreading.com/threat-intelligence/new-spookier-gh0st-rat-uzbekistan-south-korea)
@@ -84,6 +83,7 @@
 - [Feds Seize &#39;Sinbad&#39; Crypto Mixer Used by North Korea&#39;s Lazarus](https://www.darkreading.com/cyberattacks-data-breaches/feds-seize-sinbad-crypto-mixer-used-by-north-korea-s-lazarus)
 - [Deluge of Nearly 300 Fake Apps Floods Iranian Banking Sector](https://www.darkreading.com/endpoint-security/deluge-of-nearly-300-fake-apps-floods-iranian-banking-sector)
 - [8 Tips on Leveraging AI Tools Without Compromising Security](https://www.darkreading.com/vulnerabilities-threats/8-tips-on-leveraging-ai-tools-without-compromising-security)
+- [10 Holiday Gifts For Stressed-Out Security Pros](https://www.darkreading.com/endpoint-security/10-holiday-gifts-for-stressed-out-security-pros)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
