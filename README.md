@@ -81,9 +81,9 @@
 - [Flow Security Launches GenAI DLP](https://www.darkreading.com/cloud-security/flow-security-launches-genai-dlp)
 - [The Latest Delinea Secret Server Release Boosts Usability With New Features](https://www.darkreading.com/endpoint-security/the-latest-delinea-secret-server-release-boosts-usability-with-new-features)
 - [North Korea APT Slapped With Cyber Sanctions After Satellite Launch](https://www.darkreading.com/vulnerabilities-threats/north-korea-apt-cyber-sanctions-satellite-launch)
-- [Cybersecurity is a Team Sport](https://www.darkreading.com/cybersecurity-operations/cybersecurity-team-sport)
 - [Critical &#39;LogoFAIL&#39; Bugs Offer Secure Boot Bypass for Millions of PCs](https://www.darkreading.com/endpoint-security/critical-logofail-bugs-secure-boot-bypass-millions-pcs)
 - [Japan&#39;s Space Program at Risk After Microsoft Active Directory Breach](https://www.darkreading.com/cyberattacks-data-breaches/japan-space-program-risk-microsoft-active-directory-breach)
+- [Emirates CISOs Flag Rampant Cybersecurity Gaps](https://www.darkreading.com/cybersecurity-operations/emirates-cisos-rampant-cybersecurity-gaps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
