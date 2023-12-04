@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Meta AI Models Cracked Open With Exposed API Tokens](https://www.darkreading.com/vulnerabilities-threats/meta-ai-models-cracked-open-exposed-api-tokens)
+- [&#39;AeroBlade&#39; Group Hacks US Aerospace Company](https://www.darkreading.com/cyberattacks-data-breaches/aeroblade-cyberthreat-hacks-us-aerospace-company)
+- [23andMe: Data Breach Was a Credential-Stuffing Attack](https://www.darkreading.com/cyberattacks-data-breaches/23andme-files-credential-stuffing-attack-with-sec)
 - [Pro-Iran Attackers Access Multiple Water Facility Controllers](https://www.darkreading.com/ics-ot-security/Pro-Iran-Attackers-Access-Multiple-Water-Facility-Controllers)
 - [Name That Edge Toon: On Your Mark...](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-on-your-mark-)
 - [Establishing New Rules for Cyber Warfare](https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare)
 - [Interpol Arrests Smuggler With New Biometric Screening Database](https://www.darkreading.com/cyber-risk/interpol-arrests-smuggler-biometric-screening-database)
 - [The European Space Agency Explores Cybersecurity for Space Industry](https://www.darkreading.com/ics-ot-security/european-space-agency-explores-cybersecurity-space-industry)
-- [Flow Security Launches GenAI DLP](https://www.darkreading.com/cloud-security/flow-security-launches-genai-dlp)
-- [The Latest Delinea Secret Server Release Boosts Usability With New Features](https://www.darkreading.com/endpoint-security/the-latest-delinea-secret-server-release-boosts-usability-with-new-features)
-- [North Korea APT Slapped With Cyber Sanctions After Satellite Launch](https://www.darkreading.com/vulnerabilities-threats/north-korea-apt-cyber-sanctions-satellite-launch)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
