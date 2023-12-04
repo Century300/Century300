@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: On Your Mark...](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-on-your-mark-)
 - [Establishing New Rules for Cyber Warfare](https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare)
 - [Interpol Arrests Smuggler With New Biometric Screening Database](https://www.darkreading.com/cyber-risk/interpol-arrests-smuggler-biometric-screening-database)
 - [The European Space Agency Explores Cybersecurity for Space Industry](https://www.darkreading.com/ics-ot-security/european-space-agency-explores-cybersecurity-space-industry)
 - [Flow Security Launches GenAI DLP](https://www.darkreading.com/cloud-security/flow-security-launches-genai-dlp)
 - [The Latest Delinea Secret Server Release Boosts Usability With New Features](https://www.darkreading.com/endpoint-security/the-latest-delinea-secret-server-release-boosts-usability-with-new-features)
 - [North Korea APT Slapped With Cyber Sanctions After Satellite Launch](https://www.darkreading.com/vulnerabilities-threats/north-korea-apt-cyber-sanctions-satellite-launch)
-- [Critical &#39;LogoFAIL&#39; Bugs Offer Secure Boot Bypass for Millions of PCs](https://www.darkreading.com/endpoint-security/critical-logofail-bugs-secure-boot-bypass-millions-pcs)
-- [Japan&#39;s Space Program at Risk After Microsoft Active Directory Breach](https://www.darkreading.com/cyberattacks-data-breaches/japan-space-program-risk-microsoft-active-directory-breach)
+- [Cybersecurity is a Team Sport](https://www.darkreading.com/cybersecurity-operations/cybersecurity-team-sport)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
