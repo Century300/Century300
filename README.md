@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pro-Iran Attackers Access Multiple Water Facility Controllers](https://www.darkreading.com/ics-ot-security/Pro-Iran-Attackers-Access-Multiple-Water-Facility-Controllers)
 - [Name That Edge Toon: On Your Mark...](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-on-your-mark-)
 - [Establishing New Rules for Cyber Warfare](https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare)
 - [Interpol Arrests Smuggler With New Biometric Screening Database](https://www.darkreading.com/cyber-risk/interpol-arrests-smuggler-biometric-screening-database)
@@ -83,7 +84,6 @@
 - [Flow Security Launches GenAI DLP](https://www.darkreading.com/cloud-security/flow-security-launches-genai-dlp)
 - [The Latest Delinea Secret Server Release Boosts Usability With New Features](https://www.darkreading.com/endpoint-security/the-latest-delinea-secret-server-release-boosts-usability-with-new-features)
 - [North Korea APT Slapped With Cyber Sanctions After Satellite Launch](https://www.darkreading.com/vulnerabilities-threats/north-korea-apt-cyber-sanctions-satellite-launch)
-- [Cybersecurity is a Team Sport](https://www.darkreading.com/cybersecurity-operations/cybersecurity-team-sport)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
