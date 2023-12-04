@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zatik Security Gains Momentum, Announces Co-Founder, CTO, Partner Network](https://www.darkreading.com/cybersecurity-operations/zatik-security-gains-momentum-announces-co-founder-cto-partner-network)
 - [Meta AI Models Cracked Open With Exposed API Tokens](https://www.darkreading.com/vulnerabilities-threats/meta-ai-models-cracked-open-exposed-api-tokens)
 - [&#39;AeroBlade&#39; Group Hacks US Aerospace Company](https://www.darkreading.com/cyberattacks-data-breaches/aeroblade-cyberthreat-hacks-us-aerospace-company)
 - [23andMe: Data Breach Was a Credential-Stuffing Attack](https://www.darkreading.com/cyberattacks-data-breaches/23andme-files-credential-stuffing-attack-with-sec)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: On Your Mark...](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-on-your-mark-)
 - [Establishing New Rules for Cyber Warfare](https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare)
 - [Interpol Arrests Smuggler With New Biometric Screening Database](https://www.darkreading.com/cyber-risk/interpol-arrests-smuggler-biometric-screening-database)
-- [The European Space Agency Explores Cybersecurity for Space Industry](https://www.darkreading.com/ics-ot-security/european-space-agency-explores-cybersecurity-space-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
