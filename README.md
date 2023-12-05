@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple &#39;Lockdown Mode&#39; Bypass Subverts Key iPhone Security Feature](https://www.darkreading.com/endpoint-security/apple-lockdown-mode-bypass-subverts-iphone-strongest-security-feature)
+- [LLMs Open to Manipulation Using Doctored Images, Audio](https://www.darkreading.com/vulnerabilities-threats/llms-open-manipulation-using-doctored-images-audio)
 - [Payments Giant Tipalti: No Ransomware Breach, No Threat to Roblox](https://www.darkreading.com/application-security/payments-giant-tipalti-no-ransomware-breach-roblox)
 - [SpyLoan Malicious App Downloaded 12M+ Times in Google Play](https://www.darkreading.com/cyber-risk/spyloan-malicious-app-downloaded-over-12m-times-in-googleplay)
 - [Hackers Claim to Breach Israeli Defense Force Medical Data](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defence-force-medical-data-hacked)
 - [Q&amp;A: Lessons Learned From the Middle East&#39;s National Cyber Drills](https://www.darkreading.com/ics-ot-security/lessons-learned-middle-east-national-cyber-drills)
 - [WordPress Bug &#39;Patch&#39; Installs Backdoor for Full Site Takeover](https://www.darkreading.com/application-security/wordpress-bug-patch-installs-backdoor-full-site-takeover)
 - [Embrace Generative AI for Security, but Heed Caution](https://www.darkreading.com/vulnerabilities-threats/embrace-generative-ai-for-security-but-heed-caution)
-- [Enhancing Incident Response Playbooks With Machine Learning](https://www.darkreading.com/cybersecurity-operations/automation-via-machine-learning-makes-cybersecurity-playbooks-better)
-- [Zatik Security Gains Momentum, Announces Co-Founder, CTO, Partner Network](https://www.darkreading.com/cybersecurity-operations/zatik-security-gains-momentum-announces-co-founder-cto-partner-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
