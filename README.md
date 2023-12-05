@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Claim to Breach Israeli Defense Force Medical Data](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defence-force-medical-data-hacked)
+- [Q&amp;A: Lessons Learned From the Middle East&#39;s National Cyber Drills](https://www.darkreading.com/ics-ot-security/lessons-learned-middle-east-national-cyber-drills)
 - [WordPress Bug &#39;Patch&#39; Installs Backdoor for Full Site Takeover](https://www.darkreading.com/application-security/wordpress-bug-patch-installs-backdoor-full-site-takeover)
 - [Embrace Generative AI for Security, but Heed Caution](https://www.darkreading.com/vulnerabilities-threats/embrace-generative-ai-for-security-but-heed-caution)
 - [Enhancing Incident Response Playbooks With Machine Learning](https://www.darkreading.com/cybersecurity-operations/automation-via-machine-learning-makes-cybersecurity-playbooks-better)
 - [Zatik Security Gains Momentum, Announces Co-Founder, CTO, Partner Network](https://www.darkreading.com/cybersecurity-operations/zatik-security-gains-momentum-announces-co-founder-cto-partner-network)
 - [Meta AI Models Cracked Open With Exposed API Tokens](https://www.darkreading.com/vulnerabilities-threats/meta-ai-models-cracked-open-exposed-api-tokens)
 - [&#39;AeroBlade&#39; Group Hacks US Aerospace Company](https://www.darkreading.com/cyberattacks-data-breaches/aeroblade-cyberthreat-hacks-us-aerospace-company)
-- [23andMe: Data Breach Was a Credential-Stuffing Attack](https://www.darkreading.com/cyberattacks-data-breaches/23andme-files-credential-stuffing-attack-with-sec)
-- [Pro-Iran Attackers Access Multiple Water Facility Controllers](https://www.darkreading.com/ics-ot-security/Pro-Iran-Attackers-Access-Multiple-Water-Facility-Controllers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
