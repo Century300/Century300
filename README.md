@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Enhancing Incident Response Playbooks With Machine Learning](https://www.darkreading.com/cybersecurity-operations/automation-via-machine-learning-makes-cybersecurity-playbooks-better)
 - [Zatik Security Gains Momentum, Announces Co-Founder, CTO, Partner Network](https://www.darkreading.com/cybersecurity-operations/zatik-security-gains-momentum-announces-co-founder-cto-partner-network)
 - [Meta AI Models Cracked Open With Exposed API Tokens](https://www.darkreading.com/vulnerabilities-threats/meta-ai-models-cracked-open-exposed-api-tokens)
 - [&#39;AeroBlade&#39; Group Hacks US Aerospace Company](https://www.darkreading.com/cyberattacks-data-breaches/aeroblade-cyberthreat-hacks-us-aerospace-company)
@@ -83,7 +84,6 @@
 - [Pro-Iran Attackers Access Multiple Water Facility Controllers](https://www.darkreading.com/ics-ot-security/Pro-Iran-Attackers-Access-Multiple-Water-Facility-Controllers)
 - [Name That Edge Toon: On Your Mark...](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-on-your-mark-)
 - [Establishing New Rules for Cyber Warfare](https://www.darkreading.com/cyberattacks-data-breaches/establishing-new-rules-cyber-warfare)
-- [Interpol Arrests Smuggler With New Biometric Screening Database](https://www.darkreading.com/cyber-risk/interpol-arrests-smuggler-biometric-screening-database)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
