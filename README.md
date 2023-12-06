@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: Critical Atlassian Bugs Endanger Enterprise Apps](https://www.darkreading.com/application-security/patch-now-critical-atlassian-bugs-endanger-enterprise-apps)
+- [Microsoft Is Getting a New &#39;Outsider&#39; CISO](https://www.darkreading.com/cybersecurity-operations/microsoft-is-getting-new-ciso-in-new-year)
+- [CISA: Threat Actor Breached Federal Systems via Adobe ColdFusion Flaw](https://www.darkreading.com/cyberattacks-data-breaches/hreat-actor-breached-federal-agency-systems-via-adobe-coldfusion-flaw-cisa-says)
 - [US Navy Ship Builder Says No Classified Info Leaked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/austal-usa-investigates-cyberattack-claimed-by-ransomware-group)
 - [Vulns in Android WebView, Password Managers Can Leak User Credentials](https://www.darkreading.com/cyberattacks-data-breaches/android-vulnerability-leaks-credentials-from-password-managers-)
 - [Critical Bluetooth Flaw Exposes Android, Apple &amp; Linux Devices to Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-bluetooth-flaw-exposes-android-apple-and-linux-devices-to-keystroke-injection-attack)
 - [Cracking Weak Cryptography Before Quantum Computing Does](https://www.darkreading.com/application-security/cracking-weak-cryptography-quantum-computing)
 - [Strategy, Harmony &amp; Research: Triaging Priorities for OT Cybersecurity](https://www.darkreading.com/ics-ot-security/strategy-harmony-research-triaging-priorities-for-ot-cybersecurity)
-- [UK Cyber CTO: Vendors&#39; Security Failings Are Rampant](https://www.darkreading.com/cyber-risk/uk-cyber-cto-vendors-security-failings-rampant)
-- [Internationalizing Efforts to Counter Tech Support Scams](https://www.darkreading.com/cyber-risk/internationalizing-efforts-to-counter-tech-support-scams)
-- [Middle East CISOs Fear Disruptive Cloud Breach](https://www.darkreading.com/cloud-security/middle-east-cisos-fear-disruptive-cloud-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
