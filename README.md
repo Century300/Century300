@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Keeper Security Survey Finds 82% of IT Leaders Want to Move Their On-Premises Privileged Access Management &lpar;PAM&rpar; Solution to the Cloud](https://www.darkreading.com/identity-access-management-security/keeper-security-survey-finds-82-of-it-leaders-want-to-move-their-on-premises-privileged-access-management-pam-solution-to-the-cloud)
+- [Foresite Cybersecurity Partners With Crowdstrike](https://www.darkreading.com/cloud-security/foresite-cybersecurity-partners-with-crowdstrike)
+- [Mine Secures $30M in Series B Funding](https://www.darkreading.com/data-privacy/mine-secures-30m-in-series-b-funding)
+- [Enveedo Closes $3.15M Seed Round to Help Businesses Build and Maintain Cyber Resiliency](https://www.darkreading.com/cybersecurity-operations/enveedo-closes-3-15m-seed-round-to-help-businesses-build-and-maintain-cyber-resiliency)
+- [Klarytee Raises $900k Pre-Seed Round to Make Data Secure by Default](https://www.darkreading.com/endpoint-security/klarytee-raises-900k-pre-seed-round-to-make-data-secure-by-default)
 - [Apple &#39;Lockdown Mode&#39; Bypass Subverts Key iPhone Security Feature](https://www.darkreading.com/endpoint-security/apple-lockdown-mode-bypass-subverts-iphone-strongest-security-feature)
 - [LLMs Open to Manipulation Using Doctored Images, Audio](https://www.darkreading.com/vulnerabilities-threats/llms-open-manipulation-using-doctored-images-audio)
 - [Payments Giant Tipalti: No Ransomware Breach, No Threat to Roblox](https://www.darkreading.com/application-security/payments-giant-tipalti-no-ransomware-breach-roblox)
-- [SpyLoan Malicious App Downloaded 12M+ Times in Google Play](https://www.darkreading.com/cyber-risk/spyloan-malicious-app-downloaded-over-12m-times-in-googleplay)
-- [Hackers Claim to Breach Israeli Defense Force Medical Data](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defence-force-medical-data-hacked)
-- [Q&amp;A: Lessons Learned From the Middle East&#39;s National Cyber Drills](https://www.darkreading.com/ics-ot-security/lessons-learned-middle-east-national-cyber-drills)
-- [WordPress Bug &#39;Patch&#39; Installs Backdoor for Full Site Takeover](https://www.darkreading.com/application-security/wordpress-bug-patch-installs-backdoor-full-site-takeover)
-- [Embrace Generative AI for Security, but Heed Caution](https://www.darkreading.com/vulnerabilities-threats/embrace-generative-ai-for-security-but-heed-caution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
