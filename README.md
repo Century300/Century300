@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Bluetooth Flaw Exposes Android, Apple &amp; Linux Devices to Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-bluetooth-flaw-exposes-android-apple-and-linux-devices-to-keystroke-injection-attack)
 - [Cracking Weak Cryptography Before Quantum Computing Does](https://www.darkreading.com/application-security/cracking-weak-cryptography-quantum-computing)
 - [Strategy, Harmony &amp; Research: Triaging Priorities for OT Cybersecurity](https://www.darkreading.com/ics-ot-security/strategy-harmony-research-triaging-priorities-for-ot-cybersecurity)
 - [Internationalizing Efforts to Counter Tech Support Scams](https://www.darkreading.com/cyber-risk/internationalizing-efforts-to-counter-tech-support-scams)
@@ -83,7 +84,6 @@
 - [Keeper Security Survey Finds 82% of IT Leaders Want to Move Their On-Premises Privileged Access Management &lpar;PAM&rpar; Solution to the Cloud](https://www.darkreading.com/identity-access-management-security/keeper-security-survey-finds-82-of-it-leaders-want-to-move-their-on-premises-privileged-access-management-pam-solution-to-the-cloud)
 - [Foresite Cybersecurity Partners With Crowdstrike](https://www.darkreading.com/cloud-security/foresite-cybersecurity-partners-with-crowdstrike)
 - [Mine Secures $30M in Series B Funding](https://www.darkreading.com/data-privacy/mine-secures-30m-in-series-b-funding)
-- [Enveedo Closes $3.15M Seed Round to Help Businesses Build and Maintain Cyber Resiliency](https://www.darkreading.com/cybersecurity-operations/enveedo-closes-3-15m-seed-round-to-help-businesses-build-and-maintain-cyber-resiliency)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
