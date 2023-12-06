@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Navy Ship Builder Says No Classified Info Leaked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/austal-usa-investigates-cyberattack-claimed-by-ransomware-group)
 - [Vulns in Android WebView, Password Managers Can Leak User Credentials](https://www.darkreading.com/cyberattacks-data-breaches/android-vulnerability-leaks-credentials-from-password-managers-)
 - [Critical Bluetooth Flaw Exposes Android, Apple &amp; Linux Devices to Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-bluetooth-flaw-exposes-android-apple-and-linux-devices-to-keystroke-injection-attack)
 - [Cracking Weak Cryptography Before Quantum Computing Does](https://www.darkreading.com/application-security/cracking-weak-cryptography-quantum-computing)
@@ -83,7 +84,6 @@
 - [UK Cyber CTO: Vendors&#39; Security Failings Are Rampant](https://www.darkreading.com/cyber-risk/uk-cyber-cto-vendors-security-failings-rampant)
 - [Internationalizing Efforts to Counter Tech Support Scams](https://www.darkreading.com/cyber-risk/internationalizing-efforts-to-counter-tech-support-scams)
 - [Middle East CISOs Fear Disruptive Cloud Breach](https://www.darkreading.com/cloud-security/middle-east-cisos-fear-disruptive-cloud-breach)
-- [Keeper Security Survey Finds 82% of IT Leaders Want to Move Their On-Premises Privileged Access Management &lpar;PAM&rpar; Solution to the Cloud](https://www.darkreading.com/identity-access-management-security/keeper-security-survey-finds-82-of-it-leaders-want-to-move-their-on-premises-privileged-access-management-pam-solution-to-the-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
