@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cracking Weak Cryptography Before Quantum Computing Does](https://www.darkreading.com/application-security/cracking-weak-cryptography-quantum-computing)
 - [Strategy, Harmony &amp; Research: Triaging Priorities for OT Cybersecurity](https://www.darkreading.com/ics-ot-security/strategy-harmony-research-triaging-priorities-for-ot-cybersecurity)
 - [Internationalizing Efforts to Counter Tech Support Scams](https://www.darkreading.com/cyber-risk/internationalizing-efforts-to-counter-tech-support-scams)
+- [Middle East CISOs Fear Disruptive Cloud Breach](https://www.darkreading.com/cloud-security/middle-east-cisos-fear-disruptive-cloud-breach)
 - [Keeper Security Survey Finds 82% of IT Leaders Want to Move Their On-Premises Privileged Access Management &lpar;PAM&rpar; Solution to the Cloud](https://www.darkreading.com/identity-access-management-security/keeper-security-survey-finds-82-of-it-leaders-want-to-move-their-on-premises-privileged-access-management-pam-solution-to-the-cloud)
 - [Foresite Cybersecurity Partners With Crowdstrike](https://www.darkreading.com/cloud-security/foresite-cybersecurity-partners-with-crowdstrike)
 - [Mine Secures $30M in Series B Funding](https://www.darkreading.com/data-privacy/mine-secures-30m-in-series-b-funding)
 - [Enveedo Closes $3.15M Seed Round to Help Businesses Build and Maintain Cyber Resiliency](https://www.darkreading.com/cybersecurity-operations/enveedo-closes-3-15m-seed-round-to-help-businesses-build-and-maintain-cyber-resiliency)
-- [Klarytee Raises $900k Pre-Seed Round to Make Data Secure by Default](https://www.darkreading.com/endpoint-security/klarytee-raises-900k-pre-seed-round-to-make-data-secure-by-default)
-- [Apple &#39;Lockdown Mode&#39; Bypass Subverts Key iPhone Security Feature](https://www.darkreading.com/endpoint-security/apple-lockdown-mode-bypass-subverts-iphone-strongest-security-feature)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
