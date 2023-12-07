@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Metrics That Help CISOs Become Strategic Partners With the Board](https://www.darkreading.com/cybersecurity-operations/4-metrics-that-help-cisos-become-strategic-partners-with-board)
+- [Dragos Expands Defense Program for Small Utilities](https://www.darkreading.com/ics-ot-security/dragos-expands-defense-program-for-small-utilities)
 - [Cloudbrink Presents Firewall-As-Service for the Hybrid Workplace](https://www.darkreading.com/cloud-security/cloudbrink-presents-firewall-as-service-for-the-hybrid-workplace)
 - [DTEX Systems Appoints Mandiant Global CTO Marshall Heilman As CEO](https://www.darkreading.com/cybersecurity-careers/dtex-systems-appoints-mandiant-global-cto-marshall-heilman-as-ceo)
 - [Patch Now: Critical Atlassian Bugs Endanger Enterprise Apps](https://www.darkreading.com/application-security/patch-now-critical-atlassian-bugs-endanger-enterprise-apps)
 - [Microsoft Is Getting a New &#39;Outsider&#39; CISO](https://www.darkreading.com/cybersecurity-operations/microsoft-is-getting-new-ciso-in-new-year)
 - [CISA: Threat Actor Breached Federal Systems via Adobe ColdFusion Flaw](https://www.darkreading.com/cyberattacks-data-breaches/hreat-actor-breached-federal-agency-systems-via-adobe-coldfusion-flaw-cisa-says)
 - [US Navy Ship Builder Says No Classified Info Leaked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/austal-usa-investigates-cyberattack-claimed-by-ransomware-group)
-- [Vulns in Android WebView, Password Managers Can Leak User Credentials](https://www.darkreading.com/cyberattacks-data-breaches/android-vulnerability-leaks-credentials-from-password-managers-)
-- [Critical Bluetooth Flaw Exposes Android, Apple &amp; Linux Devices to Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-bluetooth-flaw-exposes-android-apple-and-linux-devices-to-keystroke-injection-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
