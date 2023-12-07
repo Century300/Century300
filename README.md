@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Show How to Use One LLM to Jailbreak Another](https://www.darkreading.com/cyber-risk/researchers-show-how-to-use-one-llm-to-jailbreak-another)
 - [Proxy Trojan Targets macOS Users for Traffic Redirection](https://www.darkreading.com/vulnerabilities-threats/proxy-trojan-targets-macos-users-traffic-redirection)
 - [Ransomware, Data Breaches Inundate OT &amp; Industrial Sector](https://www.darkreading.com/ics-ot-security/ransomware-data-breaches-inundate-ot-industrial-sector)
 - [&#39;HeadCrab&#39; Malware Variants Commandeer Thousands of Servers](https://www.darkreading.com/cyberattacks-data-breaches/headcrab-malware-variants-commandeer-thousands-of-servers)
@@ -83,7 +84,6 @@
 - [Krasue RAT Uses Cross-Kernel Linux Rootkit to Attack Telecoms](https://www.darkreading.com/threat-intelligence/krasue-rat-cross-kernel-linux-rootkit-telecom)
 - [Iran Threatens Israel&#39;s Critical Infrastructure With &#39;Polonium&#39; Proxy](https://www.darkreading.com/ics-ot-security/iran-threatens-israel-critical-infrastructure-polonium-proxy)
 - [Dragos Expands Defense Program for Small Utilities](https://www.darkreading.com/ics-ot-security/dragos-expands-defense-program-for-small-utilities)
-- [4 Metrics That Help CISOs Become Strategic Partners With the Board](https://www.darkreading.com/cybersecurity-operations/4-metrics-that-help-cisos-become-strategic-partners-with-board)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
