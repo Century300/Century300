@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Medical Imaging Patients Exposed in Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-facility-informs-patients-of-cyber-incident)
+- [Russia&#39;s &#39;Star Blizzard&#39; APT Upgrades its Stealth, Only to Be Unmasked Again](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-upgrades-stealth-unmasked)
 - [Researchers Show How to Use One LLM to Jailbreak Another](https://www.darkreading.com/cyber-risk/researchers-show-how-to-use-one-llm-to-jailbreak-another)
 - [Proxy Trojan Targets macOS Users for Traffic Redirection](https://www.darkreading.com/vulnerabilities-threats/proxy-trojan-targets-macos-users-traffic-redirection)
 - [Ransomware, Data Breaches Inundate OT &amp; Industrial Sector](https://www.darkreading.com/ics-ot-security/ransomware-data-breaches-inundate-ot-industrial-sector)
 - [&#39;HeadCrab&#39; Malware Variants Commandeer Thousands of Servers](https://www.darkreading.com/cyberattacks-data-breaches/headcrab-malware-variants-commandeer-thousands-of-servers)
 - [As SAT Goes Digital, Schools Must Prepare for Disruption](https://www.darkreading.com/vulnerabilities-threats/sat-goes-digital-schools-must-prepare)
 - [Krasue RAT Uses Cross-Kernel Linux Rootkit to Attack Telecoms](https://www.darkreading.com/threat-intelligence/krasue-rat-cross-kernel-linux-rootkit-telecom)
-- [Iran Threatens Israel&#39;s Critical Infrastructure With &#39;Polonium&#39; Proxy](https://www.darkreading.com/ics-ot-security/iran-threatens-israel-critical-infrastructure-polonium-proxy)
-- [Dragos Expands Defense Program for Small Utilities](https://www.darkreading.com/ics-ot-security/dragos-expands-defense-program-for-small-utilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
