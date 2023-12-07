@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware, Data Breaches Inundate OT &amp; Industrial Sector](https://www.darkreading.com/ics-ot-security/ransomware-data-breaches-inundate-ot-industrial-sector)
+- [&#39;HeadCrab&#39; Malware Variants Commandeer Thousands of Servers](https://www.darkreading.com/cyberattacks-data-breaches/headcrab-malware-variants-commandeer-thousands-of-servers)
 - [As SAT Goes Digital, Schools Must Prepare for Disruption](https://www.darkreading.com/vulnerabilities-threats/sat-goes-digital-schools-must-prepare)
 - [Krasue RAT Uses Cross-Kernel Linux Rootkit to Attack Telecoms](https://www.darkreading.com/threat-intelligence/krasue-rat-cross-kernel-linux-rootkit-telecom)
 - [Iran Threatens Israel&#39;s Critical Infrastructure With &#39;Polonium&#39; Proxy](https://www.darkreading.com/ics-ot-security/iran-threatens-israel-critical-infrastructure-polonium-proxy)
-- [Dragos Expands Defense Program for Small Utilities](https://www.darkreading.com/ics-ot-security/dragos-expands-defense-program-for-small-utilities)
 - [4 Metrics That Help CISOs Become Strategic Partners With the Board](https://www.darkreading.com/cybersecurity-operations/4-metrics-that-help-cisos-become-strategic-partners-with-board)
+- [Dragos Expands Defense Program for Small Utilities](https://www.darkreading.com/ics-ot-security/dragos-expands-defense-program-for-small-utilities)
 - [Cloudbrink Presents Firewall-As-Service for the Hybrid Workplace](https://www.darkreading.com/cloud-security/cloudbrink-presents-firewall-as-service-for-the-hybrid-workplace)
-- [DTEX Systems Appoints Mandiant Global CTO Marshall Heilman As CEO](https://www.darkreading.com/cybersecurity-careers/dtex-systems-appoints-mandiant-global-cto-marshall-heilman-as-ceo)
-- [Patch Now: Critical Atlassian Bugs Endanger Enterprise Apps](https://www.darkreading.com/application-security/patch-now-critical-atlassian-bugs-endanger-enterprise-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
