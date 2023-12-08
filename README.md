@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Human-Centric Security Model Meets People Where They Are](https://www.darkreading.com/cybersecurity-operations/human-centric-security-model-meets-people-where-they-are)
 - [CISOs See Software Supply Chain Security As Bigger Blind Spot Than GenAI: Cycode](https://www.darkreading.com/vulnerabilities-threats/cisos-see-software-supply-chain-security-as-bigger-blind-spot-than-genai-cycode)
 - [Cybersixgill Announces Identity Intelligence Module for Threat Analysis](https://www.darkreading.com/threat-intelligence/cybersixgill-announces-identity-intelligence-module-for-threat-analysis)
 - [ProvenRun Secures €15M Series A to Accelerate its Growth](https://www.darkreading.com/ics-ot-security/provenrun-secures-15m-series-a-to-accelerate-its-growth)
@@ -83,7 +84,6 @@
 - [Russia&#39;s &#39;Star Blizzard&#39; APT Upgrades its Stealth, Only to Be Unmasked Again](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-upgrades-stealth-unmasked)
 - [Researchers Show How to Use One LLM to Jailbreak Another](https://www.darkreading.com/cyber-risk/researchers-show-how-to-use-one-llm-to-jailbreak-another)
 - [Proxy Trojan Targets macOS Users for Traffic Redirection](https://www.darkreading.com/vulnerabilities-threats/proxy-trojan-targets-macos-users-traffic-redirection)
-- [Ransomware, Data Breaches Inundate OT &amp; Industrial Sector](https://www.darkreading.com/ics-ot-security/ransomware-data-breaches-inundate-ot-industrial-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
