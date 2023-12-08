@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kenyan Digital Identity System Shelved Over Data Protection Concerns](https://www.darkreading.com/data-privacy/kenyan-digital-identity-system-shelved-data-protection-concerns)
 - [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
 - [Human-Centric Security Model Meets People Where They Are](https://www.darkreading.com/cybersecurity-operations/human-centric-security-model-meets-people-where-they-are)
 - [CISOs See Software Supply Chain Security As Bigger Blind Spot Than GenAI: Cycode](https://www.darkreading.com/vulnerabilities-threats/cisos-see-software-supply-chain-security-as-bigger-blind-spot-than-genai-cycode)
@@ -83,7 +84,6 @@
 - [ProvenRun Secures €15M Series A to Accelerate its Growth](https://www.darkreading.com/ics-ot-security/provenrun-secures-15m-series-a-to-accelerate-its-growth)
 - [Medical Imaging Patients Exposed in Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-facility-informs-patients-of-cyber-incident)
 - [Russia&#39;s &#39;Star Blizzard&#39; APT Upgrades its Stealth, Only to Be Unmasked Again](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-upgrades-stealth-unmasked)
-- [Researchers Show How to Use One LLM to Jailbreak Another](https://www.darkreading.com/cyber-risk/researchers-show-how-to-use-one-llm-to-jailbreak-another)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
