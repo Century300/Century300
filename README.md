@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple: 2.5B Records Exposed, Marking Staggering Surge in Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/apple-25b-records-exposed-surge-data-breaches)
 - [Making Cyber Insurance Available for Small Biz, Contractors](https://www.darkreading.com/cyber-risk/making-cyber-insurance-available-for-small-biz-contractors)
 - [Increased Cyber Regulation in the Offing as Attacks Mount](https://www.darkreading.com/ics-ot-security/larger-attacks-could-lead-to-increased-cyber-regulation)
 - [Russian Espionage Group Hammers Zero-Click Microsoft Outlook Bug](https://www.darkreading.com/ics-ot-security/russian-espionage-group-hammers-zero-click-microsoft-outlook-bug)
@@ -83,7 +84,6 @@
 - [Kenyan Digital Identity System Shelved Over Data Protection Concerns](https://www.darkreading.com/data-privacy/kenyan-digital-identity-system-shelved-data-protection-concerns)
 - [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
 - [Human-Centric Security Model Meets People Where They Are](https://www.darkreading.com/cybersecurity-operations/human-centric-security-model-meets-people-where-they-are)
-- [CISOs See Software Supply Chain Security As Bigger Blind Spot Than GenAI: Cycode](https://www.darkreading.com/vulnerabilities-threats/cisos-see-software-supply-chain-security-as-bigger-blind-spot-than-genai-cycode)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
