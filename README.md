@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
 - [Human-Centric Security Model Meets People Where They Are](https://www.darkreading.com/cybersecurity-operations/human-centric-security-model-meets-people-where-they-are)
 - [CISOs See Software Supply Chain Security As Bigger Blind Spot Than GenAI: Cycode](https://www.darkreading.com/vulnerabilities-threats/cisos-see-software-supply-chain-security-as-bigger-blind-spot-than-genai-cycode)
 - [Cybersixgill Announces Identity Intelligence Module for Threat Analysis](https://www.darkreading.com/threat-intelligence/cybersixgill-announces-identity-intelligence-module-for-threat-analysis)
@@ -83,7 +84,6 @@
 - [Medical Imaging Patients Exposed in Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-facility-informs-patients-of-cyber-incident)
 - [Russia&#39;s &#39;Star Blizzard&#39; APT Upgrades its Stealth, Only to Be Unmasked Again](https://www.darkreading.com/threat-intelligence/russia-star-blizzard-apt-upgrades-stealth-unmasked)
 - [Researchers Show How to Use One LLM to Jailbreak Another](https://www.darkreading.com/cyber-risk/researchers-show-how-to-use-one-llm-to-jailbreak-another)
-- [Proxy Trojan Targets macOS Users for Traffic Redirection](https://www.darkreading.com/vulnerabilities-threats/proxy-trojan-targets-macos-users-traffic-redirection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
