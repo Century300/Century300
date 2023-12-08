@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Making Cyber Insurance Available for Small Biz, Contractors](https://www.darkreading.com/cyber-risk/making-cyber-insurance-available-for-small-biz-contractors)
 - [Increased Cyber Regulation in the Offing as Attacks Mount](https://www.darkreading.com/ics-ot-security/larger-attacks-could-lead-to-increased-cyber-regulation)
 - [Russian Espionage Group Hammers Zero-Click Microsoft Outlook Bug](https://www.darkreading.com/ics-ot-security/russian-espionage-group-hammers-zero-click-microsoft-outlook-bug)
 - [Municipalities Face a Constant Battle as Ransomware Snowballs](https://www.darkreading.com/cybersecurity-operations/as-ransomware-attacks-abound-municipalities-face-a-constant-battle)
@@ -83,7 +84,6 @@
 - [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
 - [Human-Centric Security Model Meets People Where They Are](https://www.darkreading.com/cybersecurity-operations/human-centric-security-model-meets-people-where-they-are)
 - [CISOs See Software Supply Chain Security As Bigger Blind Spot Than GenAI: Cycode](https://www.darkreading.com/vulnerabilities-threats/cisos-see-software-supply-chain-security-as-bigger-blind-spot-than-genai-cycode)
-- [Cybersixgill Announces Identity Intelligence Module for Threat Analysis](https://www.darkreading.com/threat-intelligence/cybersixgill-announces-identity-intelligence-module-for-threat-analysis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
