@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Convincing LinkedIn &#39;Profiles&#39; Target Saudi Workers for Information Leakage](https://www.darkreading.com/cloud-security/convincing-linkedin-profiles-target-saudi-workers-information-leakage)
 - [Ghana Official to Head Africa&#39;s New Cybersecurity Authority](https://www.darkreading.com/cybersecurity-operations/african-cybersecurity-authority-body-announces-inaugural-chair)
 - [Lazarus Group Is Still Juicing Log4Shell, Using RATs Written in &#39;D&#39;](https://www.darkreading.com/threat-intelligence/lazarus-group-still-juicing-log4shell-rats-written-d)
 - [Microsoft: Mystery Group Targeting Telcos Linked to Chinese APTs](https://www.darkreading.com/threat-intelligence/microsoft-mystery-group-targeting-telcos-chinese-apts)
@@ -83,7 +84,6 @@
 - [ALPHV/BlackCat Takedown Appears to Be Law Enforcement Related](https://www.darkreading.com/cyberattacks-data-breaches/alphv-blackcat-takedown-appears-to-be-law-enforcement-related)
 - [Apple: 2.5B Records Exposed, Marking Staggering Surge in Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/apple-25b-records-exposed-surge-data-breaches)
 - [Making Cyber Insurance Available for Small Biz, Contractors](https://www.darkreading.com/cyber-risk/making-cyber-insurance-available-for-small-biz-contractors)
-- [Increased Cyber Regulation in the Offing as Attacks Mount](https://www.darkreading.com/ics-ot-security/larger-attacks-could-lead-to-increased-cyber-regulation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
