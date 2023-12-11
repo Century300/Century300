@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Responsibly Implementing AI, the Unstoppable Force](https://www.darkreading.com/vulnerabilities-threats/responsibly-implementing-ai-unstoppable-force)
 - [ALPHV/BlackCat Takedown Appears to Be Law Enforcement Related](https://www.darkreading.com/cyberattacks-data-breaches/alphv-blackcat-takedown-appears-to-be-law-enforcement-related-)
 - [Apple: 2.5B Records Exposed, Marking Staggering Surge in Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/apple-25b-records-exposed-surge-data-breaches)
 - [Making Cyber Insurance Available for Small Biz, Contractors](https://www.darkreading.com/cyber-risk/making-cyber-insurance-available-for-small-biz-contractors)
@@ -83,7 +84,6 @@
 - [Russian Espionage Group Hammers Zero-Click Microsoft Outlook Bug](https://www.darkreading.com/ics-ot-security/russian-espionage-group-hammers-zero-click-microsoft-outlook-bug)
 - [Municipalities Face a Constant Battle as Ransomware Snowballs](https://www.darkreading.com/cybersecurity-operations/as-ransomware-attacks-abound-municipalities-face-a-constant-battle)
 - [Kenyan Digital Identity System Shelved Over Data Protection Concerns](https://www.darkreading.com/data-privacy/kenyan-digital-identity-system-shelved-data-protection-concerns)
-- [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
