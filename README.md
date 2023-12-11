@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lazarus Group Is Still Juicing Log4Shell, Using RATs Written in &#39;D&#39;](https://www.darkreading.com/threat-intelligence/lazarus-group-still-juicing-log4shell-rats-written-d)
 - [Microsoft: Mystery Group Targeting Telcos Linked to Chinese APTs](https://www.darkreading.com/threat-intelligence/microsoft-mystery-group-targeting-telcos-chinese-apts)
 - [Responsibly Implementing AI, the Unstoppable Force](https://www.darkreading.com/vulnerabilities-threats/responsibly-implementing-ai-unstoppable-force)
 - [ALPHV/BlackCat Takedown Appears to Be Law Enforcement Related](https://www.darkreading.com/cyberattacks-data-breaches/alphv-blackcat-takedown-appears-to-be-law-enforcement-related)
@@ -83,7 +84,6 @@
 - [Making Cyber Insurance Available for Small Biz, Contractors](https://www.darkreading.com/cyber-risk/making-cyber-insurance-available-for-small-biz-contractors)
 - [Increased Cyber Regulation in the Offing as Attacks Mount](https://www.darkreading.com/ics-ot-security/larger-attacks-could-lead-to-increased-cyber-regulation)
 - [Russian Espionage Group Hammers Zero-Click Microsoft Outlook Bug](https://www.darkreading.com/ics-ot-security/russian-espionage-group-hammers-zero-click-microsoft-outlook-bug)
-- [Municipalities Face a Constant Battle as Ransomware Snowballs](https://www.darkreading.com/cybersecurity-operations/as-ransomware-attacks-abound-municipalities-face-a-constant-battle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
