@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Data&#39;s Perilous Journey &amp; Lessons Not Learned From the Target Breach](https://www.darkreading.com/vulnerabilities-threats/datas-perilous-journey-lessons-not-learned-target-breach)
+- [Ex-Uber CISO Advocates &#39;Personal Incident Response Plan&#39; for Security Execs](https://www.darkreading.com/cyberattacks-data-breaches/ex-uber-cso-lessons-learned-from-the-breach-and-legal-case)
 - [Cybercrime Orgs Increasingly Use Human Trafficking to Staff Scam Mills](https://www.darkreading.com/cybersecurity-operations/cybercrime-orgs-human-trafficking-staff-scam-mills)
 - [Fortress Information Security &amp; CodeSecure Team Up to Analyze SBOMs &amp; Remediate Critical Vulnerabilities](https://www.darkreading.com/application-security/fortress-information-security-codesecure-team-up-to-analyze-sboms-remediate-critical-vulnerabilities)
 - [Convincing LinkedIn &#39;Profiles&#39; Target Saudi Workers for Information Leakage](https://www.darkreading.com/cloud-security/convincing-linkedin-profiles-target-saudi-workers-information-leakage)
 - [Ghana Official to Head Africa&#39;s New Cybersecurity Authority](https://www.darkreading.com/cybersecurity-operations/african-cybersecurity-authority-body-announces-inaugural-chair)
 - [Lazarus Group Is Still Juicing Log4Shell, Using RATs Written in &#39;D&#39;](https://www.darkreading.com/threat-intelligence/lazarus-group-still-juicing-log4shell-rats-written-d)
 - [Microsoft: Mystery Group Targeting Telcos Linked to Chinese APTs](https://www.darkreading.com/threat-intelligence/microsoft-mystery-group-targeting-telcos-chinese-apts)
-- [Responsibly Implementing AI, the Unstoppable Force](https://www.darkreading.com/vulnerabilities-threats/responsibly-implementing-ai-unstoppable-force)
-- [ALPHV/BlackCat Takedown Appears to Be Law Enforcement Related](https://www.darkreading.com/cyberattacks-data-breaches/alphv-blackcat-takedown-appears-to-be-law-enforcement-related)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
