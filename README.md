@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kyivstar Mobile Attack Plunges Millions in Ukraine Into Comms Blackout](https://www.darkreading.com/ics-ot-security/kyivstar-mobile-attack-ukraine-comms-blackout)
+- [Dozens of Bugs Patched in Apple TVs and Watches, Macs, iPads, iPhones](https://www.darkreading.com/endpoint-security/dozens-bugs-patched-apple-tv-watch-mac-iphone)
 - [BlackBerry Appoints John Giamatteo as CEO](https://www.darkreading.com/endpoint-security/blackberry-appoints-john-giamatteo-as-ceo)
 - [Debate Roils Over Extent of Nation-State Cyber Involvement in Gaza](https://www.darkreading.com/cyberattacks-data-breaches/gaza-conflict-enters-third-month-how-involved-are-nation-state-attackers)
 - [BT and Netskope Partner to Provide Secure Managed Services](https://www.darkreading.com/endpoint-security/bt-netskope-partner-provide-secure-managed-services)
 - [Google Cloud&#39;s &#39;Dataproc&#39; Abuse Risk Endangers Corporate Data Stores](https://www.darkreading.com/cloud-security/google-cloud-dataproc-abuse-risk-corporate-data-stores)
 - [Biden&#39;s AI Exec Order Is a Start, but We Must Safeguard Innovation](https://www.darkreading.com/cybersecurity-operations/bidens-ai-exec-order-start-must-safeguard-innovation)
 - [Critical WordPress Plug-in RCE Bug Exposes Reams of Websites to Takeover](https://www.darkreading.com/cloud-security/critical-wordpress-plugin-rce-bug-exposes-websites-takeover)
-- [Data&#39;s Perilous Journey &amp; Lessons Not Learned From the Target Breach](https://www.darkreading.com/vulnerabilities-threats/datas-perilous-journey-lessons-not-learned-target-breach)
-- [Libyan Government Trains Personnel in Electoral Cyber Threats](https://www.darkreading.com/cybersecurity-operations/libyan-government-trains-personnel-in-electoral-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
