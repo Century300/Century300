@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Ransomware Gangs Use PR Charm Offensive to Pressure Victims](https://www.darkreading.com/threat-intelligence/ransomware-gangs-pr-charm-offensive-pressure-victims)
 - [Microsoft Gives Admins a Reprieve With Lighter-Than-Usual Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-gives-admins-a-reprieve-with-lighter-than-usual-patch-update)
-- [Stamus Networks Supports NATO Red Teaming Cyber Exercise for the Fifth Consecutive Year](https://www.darkreading.com/cybersecurity-operations/stamus-networks-supports-nato-red-teaming-cyber-exercise-for-the-fifth-consecutive-year-)
 - [Survey: 90% of IT Pros Felt Prepared for a Password-Based Cyberattack, Yet More Than Half Fell Victim to One](https://www.darkreading.com/endpoint-security/survey-90-of-it-pros-felt-prepared-for-a-password-based-cyberattack-yet-more-than-half-fell-victim-to-one)
 - [Kyivstar Mobile Attack Plunges Millions in Ukraine Into Comms Blackout](https://www.darkreading.com/ics-ot-security/kyivstar-mobile-attack-ukraine-comms-blackout)
 - [Dozens of Bugs Patched in Apple TVs and Watches, Macs, iPads, iPhones](https://www.darkreading.com/endpoint-security/dozens-bugs-patched-apple-tv-watch-mac-iphone)
-- [BlackBerry Appoints John Giamatteo as CEO](https://www.darkreading.com/endpoint-security/blackberry-appoints-john-giamatteo-as-ceo)
 - [Debate Roils Over Extent of Nation-State Cyber Involvement in Gaza](https://www.darkreading.com/cyberattacks-data-breaches/gaza-conflict-enters-third-month-how-involved-are-nation-state-attackers)
+- [Google Cloud&#39;s &#39;Dataproc&#39; Abuse Risk Endangers Corporate Data Stores](https://www.darkreading.com/cloud-security/google-cloud-dataproc-abuse-risk-corporate-data-stores)
+- [Biden&#39;s AI Exec Order Is a Start, but We Must Safeguard Innovation](https://www.darkreading.com/cybersecurity-operations/bidens-ai-exec-order-start-must-safeguard-innovation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
