@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MITRE Debuts ICS Threat Modeling for Embedded Systems](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 - [Attackers Target Microsoft Accounts to Weaponize OAuth Apps](https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps)
 - [Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk](https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk)
 - [Hacktivists Interrupt UAE TV Streams With a Message About Gaza](https://www.darkreading.com/ics-ot-security/hacktivists-interrupt-uae-tv-streams-with-message-about-gaza)
@@ -83,7 +84,6 @@
 - [Ransomware Gangs Use PR Charm Offensive to Pressure Victims](https://www.darkreading.com/threat-intelligence/ransomware-gangs-pr-charm-offensive-pressure-victims)
 - [Microsoft Gives Admins a Reprieve With Lighter-Than-Usual Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-gives-admins-a-reprieve-with-lighter-than-usual-patch-update)
 - [Survey: 90% of IT Pros Felt Prepared for a Password-Based Cyberattack, Yet More Than Half Fell Victim to One](https://www.darkreading.com/endpoint-security/survey-90-of-it-pros-felt-prepared-for-a-password-based-cyberattack-yet-more-than-half-fell-victim-to-one)
-- [Kyivstar Mobile Attack Plunges Millions in Ukraine Into Comms Blackout](https://www.darkreading.com/ics-ot-security/kyivstar-mobile-attack-ukraine-comms-blackout)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
