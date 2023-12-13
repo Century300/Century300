@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Software &amp; Security: How to Move Supply Chain Security Up the Agenda](https://www.darkreading.com/vulnerabilities-threats/software-security-how-to-move-supply-chain-security-up-the-agenda)
 - [Ransomware Gangs Use PR Charm Offensive to Pressure Victims](https://www.darkreading.com/threat-intelligence/ransomware-gangs-pr-charm-offensive-pressure-victims)
 - [Microsoft Gives Admins a Reprieve With Lighter-Than-Usual Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-gives-admins-a-reprieve-with-lighter-than-usual-patch-update)
 - [Survey: 90% of IT Pros Felt Prepared for a Password-Based Cyberattack, Yet More Than Half Fell Victim to One](https://www.darkreading.com/endpoint-security/survey-90-of-it-pros-felt-prepared-for-a-password-based-cyberattack-yet-more-than-half-fell-victim-to-one)
@@ -83,7 +84,6 @@
 - [Dozens of Bugs Patched in Apple TVs and Watches, Macs, iPads, iPhones](https://www.darkreading.com/endpoint-security/dozens-bugs-patched-apple-tv-watch-mac-iphone)
 - [Debate Roils Over Extent of Nation-State Cyber Involvement in Gaza](https://www.darkreading.com/cyberattacks-data-breaches/gaza-conflict-enters-third-month-how-involved-are-nation-state-attackers)
 - [Google Cloud&#39;s &#39;Dataproc&#39; Abuse Risk Endangers Corporate Data Stores](https://www.darkreading.com/cloud-security/google-cloud-dataproc-abuse-risk-corporate-data-stores)
-- [Biden&#39;s AI Exec Order Is a Start, but We Must Safeguard Innovation](https://www.darkreading.com/cybersecurity-operations/bidens-ai-exec-order-start-must-safeguard-innovation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
