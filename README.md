@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Target Microsoft Accounts to Weaponize OAuth Apps](https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps)
+- [Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk](https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk)
 - [Hacktivists Interrupt UAE TV Streams With a Message About Gaza](https://www.darkreading.com/ics-ot-security/hacktivists-interrupt-uae-tv-streams-with-message-about-gaza)
 - [Software &amp; Security: How to Move Supply Chain Security Up the Agenda](https://www.darkreading.com/vulnerabilities-threats/software-security-how-to-move-supply-chain-security-up-the-agenda)
 - [Ransomware Gangs Use PR Charm Offensive to Pressure Victims](https://www.darkreading.com/threat-intelligence/ransomware-gangs-pr-charm-offensive-pressure-victims)
 - [Microsoft Gives Admins a Reprieve With Lighter-Than-Usual Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-gives-admins-a-reprieve-with-lighter-than-usual-patch-update)
 - [Survey: 90% of IT Pros Felt Prepared for a Password-Based Cyberattack, Yet More Than Half Fell Victim to One](https://www.darkreading.com/endpoint-security/survey-90-of-it-pros-felt-prepared-for-a-password-based-cyberattack-yet-more-than-half-fell-victim-to-one)
 - [Kyivstar Mobile Attack Plunges Millions in Ukraine Into Comms Blackout](https://www.darkreading.com/ics-ot-security/kyivstar-mobile-attack-ukraine-comms-blackout)
-- [Dozens of Bugs Patched in Apple TVs and Watches, Macs, iPads, iPhones](https://www.darkreading.com/endpoint-security/dozens-bugs-patched-apple-tv-watch-mac-iphone)
-- [Debate Roils Over Extent of Nation-State Cyber Involvement in Gaza](https://www.darkreading.com/cyberattacks-data-breaches/gaza-conflict-enters-third-month-how-involved-are-nation-state-attackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
