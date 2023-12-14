@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Volt Typhoon-Linked SOHO Botnet Infects Multiple US Gov&#39;t Entities](https://www.darkreading.com/cloud-security/volt-typhoon-soho-botnet-infects-us-govt-entities)
+- [Swinfen Charitable Trust, UVA Health, Telemedicine AI, and MITRE Collaborate on Secure Global Health Telemedicine](https://www.darkreading.com/cloud-security/swinfen-charitable-trust-uva-health-telemedicine-ai-and-mitre-collaborate-on-secure-global-health-telemedicine)
+- [New &#39;GambleForce&#39; Threat Actor Behind String of SQL Injection Attacks](https://www.darkreading.com/cloud-security/gambleforce-threat-actor-sql-injection-attacks)
 - [Safeguarding Our Children&#39;s Digital Future: A Call to Action](https://www.darkreading.com/cyberattacks-data-breaches/safeguarding-our-childrens-digital-future)
 - [Iran-Linked &#39;OilRig&#39; Cyberattackers Target Israel&#39;s Critical Infrastructure, Over &amp; Over](https://www.darkreading.com/ics-ot-security/iran-oilrig-cyberattackers-target-israel-critical-infrastructure)
 - [The Unlikely Romance of Hackers and Government Suitors](https://www.darkreading.com/cybersecurity-operations/unlikely-romance-hackers-government-suitors)
 - [Zoom&#39;s Bug-Scoring System Prioritizes Riskiest Vulns for Cyber Teams](https://www.darkreading.com/cybersecurity-analytics/zoom-bug-scoring-system-prioritizes-riskiest-vulns)
 - [Israeli Company Hires Overseas Attackers in &#39;Hack-Back&#39; Effort](https://www.darkreading.com/cyberattacks-data-breaches/israeli-ceo-hires-attackers-for-hack-back-effort)
-- [Global TeamCity Exploitation Opens Door to SolarWinds-Style Nightmare](https://www.darkreading.com/vulnerabilities-threats/global-teamcity-exploitation-opens-door-to-solarwinds-style-nightmare)
-- [Tips for Modernizing SecOps Teams](https://www.darkreading.com/cybersecurity-operations/tips-for-modernizing-secops)
-- [MITRE Debuts ICS Threat Modeling for Embedded Systems](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
