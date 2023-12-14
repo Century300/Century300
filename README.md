@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Safeguarding Our Children&#39;s Digital Future: A Call to Action](https://www.darkreading.com/cyberattacks-data-breaches/safeguarding-our-childrens-digital-future)
 - [The Unlikely Romance of Hackers and Government Suitors](https://www.darkreading.com/cybersecurity-operations/unlikely-romance-hackers-government-suitors)
 - [Zoom&#39;s Bug-Scoring System Prioritizes Riskiest Vulns for Cyber Teams](https://www.darkreading.com/cybersecurity-analytics/zoom-bug-scoring-system-prioritizes-riskiest-vulns)
+- [Israeli Company Hires Overseas Attackers in &#39;Hack-Back&#39; Effort](https://www.darkreading.com/cyberattacks-data-breaches/israeli-ceo-hires-attackers-for-hack-back-effort)
 - [Global TeamCity Exploitation Opens Door to SolarWinds-Style Nightmare](https://www.darkreading.com/vulnerabilities-threats/global-teamcity-exploitation-opens-door-to-solarwinds-style-nightmare)
 - [Tips for Modernizing SecOps Teams](https://www.darkreading.com/cybersecurity-operations/tips-for-modernizing-secops)
 - [MITRE Debuts ICS Threat Modeling for Embedded Systems](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 - [Attackers Target Microsoft Accounts to Weaponize OAuth Apps](https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps)
-- [Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk](https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk)
-- [Confidential AI Protects Data and Models Across Clouds](https://www.darkreading.com/cloud-security/confidential-ai-protect-data-models-across-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
