@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zoom&#39;s Bug-Scoring System Prioritizes Riskiest Vulns for Cyber Teams](https://www.darkreading.com/cybersecurity-analytics/zoom-bug-scoring-system-prioritizes-riskiest-vulns)
+- [Tips for Modernizing SecOps Teams](https://www.darkreading.com/cybersecurity-operations/tips-for-modernizing-secops)
 - [Global TeamCity Exploitation Opens Door to SolarWinds-Style Nightmare](https://www.darkreading.com/vulnerabilities-threats/global-teamcity-exploitation-opens-door-to-solarwinds-style-nightmare)
 - [MITRE Debuts ICS Threat Modeling for Embedded Systems](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 - [Attackers Target Microsoft Accounts to Weaponize OAuth Apps](https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps)
 - [Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk](https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk)
+- [Confidential AI Protects Data and Models Across Clouds](https://www.darkreading.com/cloud-security/confidential-ai-protect-data-models-across-cloud)
 - [Hacktivists Interrupt UAE TV Streams With a Message About Gaza](https://www.darkreading.com/ics-ot-security/hacktivists-interrupt-uae-tv-streams-with-message-about-gaza)
-- [Software &amp; Security: How to Move Supply Chain Security Up the Agenda](https://www.darkreading.com/vulnerabilities-threats/software-security-how-to-move-supply-chain-security-up-the-agenda)
-- [Ransomware Gangs Use PR Charm Offensive to Pressure Victims](https://www.darkreading.com/threat-intelligence/ransomware-gangs-pr-charm-offensive-pressure-victims)
-- [Microsoft Gives Admins a Reprieve With Lighter-Than-Usual Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-gives-admins-a-reprieve-with-lighter-than-usual-patch-update)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
