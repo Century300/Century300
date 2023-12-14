@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Unlikely Romance of Hackers and Government Suitors](https://www.darkreading.com/cybersecurity-operations/unlikely-romance-hackers-government-suitors)
 - [Zoom&#39;s Bug-Scoring System Prioritizes Riskiest Vulns for Cyber Teams](https://www.darkreading.com/cybersecurity-analytics/zoom-bug-scoring-system-prioritizes-riskiest-vulns)
-- [Tips for Modernizing SecOps Teams](https://www.darkreading.com/cybersecurity-operations/tips-for-modernizing-secops)
 - [Global TeamCity Exploitation Opens Door to SolarWinds-Style Nightmare](https://www.darkreading.com/vulnerabilities-threats/global-teamcity-exploitation-opens-door-to-solarwinds-style-nightmare)
+- [Tips for Modernizing SecOps Teams](https://www.darkreading.com/cybersecurity-operations/tips-for-modernizing-secops)
 - [MITRE Debuts ICS Threat Modeling for Embedded Systems](https://www.darkreading.com/ics-ot-security/mitre-debuts-ics-cyber-threat-modeling-embedded-systems)
 - [Attackers Target Microsoft Accounts to Weaponize OAuth Apps](https://www.darkreading.com/cloud-security/attackers-target-microsoft-accounts-weaponize-oauth-apps)
 - [Saudi Cyber Students Team with Bahrain to Assess AI Security &amp; Risk](https://www.darkreading.com/cloud-security/saudi-cyber-students-team-bahrain-assess-ai-risk)
 - [Confidential AI Protects Data and Models Across Clouds](https://www.darkreading.com/cloud-security/confidential-ai-protect-data-models-across-cloud)
-- [Hacktivists Interrupt UAE TV Streams With a Message About Gaza](https://www.darkreading.com/ics-ot-security/hacktivists-interrupt-uae-tv-streams-with-message-about-gaza)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
