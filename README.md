@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Omdia: Standalone Security Products Outsell Cybersecurity Platforms](https://www.darkreading.com/cybersecurity-operations/omdia-standalone-security-products-outsell-cybersecurity-platforms)
 - [Soft Skills Every CISO Needs to Inspire Better Boardroom Relationships](https://www.darkreading.com/cybersecurity-operations/soft-skills-every-ciso-needs-inspire-better-boardroom-relationships)
 - [Volt Typhoon-Linked SOHO Botnet Infects Multiple US Gov&#39;t Entities](https://www.darkreading.com/cloud-security/volt-typhoon-soho-botnet-infects-us-govt-entities)
 - [Swinfen Charitable Trust, UVA Health, Telemedicine AI, and MITRE Collaborate on Secure Global Health Telemedicine](https://www.darkreading.com/cloud-security/swinfen-charitable-trust-uva-health-telemedicine-ai-and-mitre-collaborate-on-secure-global-health-telemedicine)
@@ -83,7 +84,6 @@
 - [Safeguarding Our Children&#39;s Digital Future: A Call to Action](https://www.darkreading.com/cyberattacks-data-breaches/safeguarding-our-childrens-digital-future)
 - [Iran-Linked &#39;OilRig&#39; Cyberattackers Target Israel&#39;s Critical Infrastructure, Over &amp; Over](https://www.darkreading.com/ics-ot-security/iran-oilrig-cyberattackers-target-israel-critical-infrastructure)
 - [The Unlikely Romance of Hackers and Government Suitors](https://www.darkreading.com/cybersecurity-operations/unlikely-romance-hackers-government-suitors)
-- [Zoom&#39;s Bug-Scoring System Prioritizes Riskiest Vulns for Cyber Teams](https://www.darkreading.com/cybersecurity-analytics/zoom-bug-scoring-system-prioritizes-riskiest-vulns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
