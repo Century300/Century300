@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [UAE to Chair World Bank&#39;s Cloud Computing Working Group](https://www.darkreading.com/cloud-security/uae-to-chair-world-banks-cloud-computing-working-group)
 - [Omdia: Standalone Security Products Outsell Cybersecurity Platforms](https://www.darkreading.com/cybersecurity-operations/omdia-standalone-security-products-outsell-cybersecurity-platforms)
+- [In Appreciation: ESET Founder Rudolf Hruby Passes Away](https://www.darkreading.com/endpoint-security/eset-founder-rudolf-hruby-passes-away)
 - [Soft Skills Every CISO Needs to Inspire Better Boardroom Relationships](https://www.darkreading.com/cybersecurity-operations/soft-skills-every-ciso-needs-inspire-better-boardroom-relationships)
 - [Volt Typhoon-Linked SOHO Botnet Infects Multiple US Gov&#39;t Entities](https://www.darkreading.com/cloud-security/volt-typhoon-soho-botnet-infects-us-govt-entities)
 - [New &#39;GambleForce&#39; Threat Actor Behind String of SQL Injection Attacks](https://www.darkreading.com/cloud-security/gambleforce-threat-actor-sql-injection-attacks)
 - [Swinfen Charitable Trust, UVA Health, Telemedicine AI, and MITRE Collaborate on Secure Global Health Telemedicine](https://www.darkreading.com/cloud-security/swinfen-charitable-trust-uva-health-telemedicine-ai-and-mitre-collaborate-on-secure-global-health-telemedicine)
 - [Safeguarding Our Children&#39;s Digital Future: A Call to Action](https://www.darkreading.com/cyberattacks-data-breaches/safeguarding-our-childrens-digital-future)
-- [Iran-Linked &#39;OilRig&#39; Cyberattackers Target Israel&#39;s Critical Infrastructure, Over &amp; Over](https://www.darkreading.com/ics-ot-security/iran-oilrig-cyberattackers-target-israel-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
