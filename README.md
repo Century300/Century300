@@ -80,8 +80,8 @@
 - [Pro-Hamas Cyberattackers Aim &#39;Pierogi&#39; Malware at Multiple Mideast Targets](https://www.darkreading.com/cyberattacks-data-breaches/pro-hamas-attackers-hit-multiple-middle-eastern-targets)
 - [Complex &#39;NKAbuse&#39; Malware Uses Blockchain to Hide on Linux, IoT Machines](https://www.darkreading.com/cloud-security/nkabuse-malware-blockchain-hide-linux-iot)
 - [UAE to Chair World Bank&#39;s Cloud Computing Working Group](https://www.darkreading.com/cloud-security/uae-to-chair-world-banks-cloud-computing-working-group)
+- [Omdia: Standalone Security Products Still Reign over All-In-One Cybersecurity Platforms](https://www.darkreading.com/cybersecurity-operations/omdia-standalone-security-products-outsell-cybersecurity-platforms)
 - [In Appreciation: ESET Founder Rudolf Hruby Passes Away](https://www.darkreading.com/endpoint-security/eset-founder-rudolf-hruby-passes-away)
-- [Omdia: Standalone Security Products Outsell Cybersecurity Platforms](https://www.darkreading.com/cybersecurity-operations/omdia-standalone-security-products-outsell-cybersecurity-platforms)
 - [Soft Skills Every CISO Needs to Inspire Better Boardroom Relationships](https://www.darkreading.com/cybersecurity-operations/soft-skills-every-ciso-needs-inspire-better-boardroom-relationships)
 - [Volt Typhoon-Linked SOHO Botnet Infects Multiple US Gov&#39;t Entities](https://www.darkreading.com/cloud-security/volt-typhoon-soho-botnet-infects-us-govt-entities)
 <!-- DARKREADING:END -->
