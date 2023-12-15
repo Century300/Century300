@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Startup, Xeol, Raises $3.2M in Seed Round](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-startup-xeol-raises-3-2m-in-seed-round-)
 - [Pro-Hamas Cyberattackers Aim &#39;Pierogi&#39; Malware at Multiple Mideast Targets](https://www.darkreading.com/cyberattacks-data-breaches/pro-hamas-attackers-hit-multiple-middle-eastern-targets)
 - [Complex &#39;NKAbuse&#39; Malware Uses Blockchain to Hide on Linux, IoT Machines](https://www.darkreading.com/cloud-security/nkabuse-malware-blockchain-hide-linux-iot)
 - [UAE to Chair World Bank&#39;s Cloud Computing Working Group](https://www.darkreading.com/cloud-security/uae-to-chair-world-banks-cloud-computing-working-group)
@@ -83,7 +84,6 @@
 - [Omdia: Standalone Security Products Outsell Cybersecurity Platforms](https://www.darkreading.com/cybersecurity-operations/omdia-standalone-security-products-outsell-cybersecurity-platforms)
 - [Soft Skills Every CISO Needs to Inspire Better Boardroom Relationships](https://www.darkreading.com/cybersecurity-operations/soft-skills-every-ciso-needs-inspire-better-boardroom-relationships)
 - [Volt Typhoon-Linked SOHO Botnet Infects Multiple US Gov&#39;t Entities](https://www.darkreading.com/cloud-security/volt-typhoon-soho-botnet-infects-us-govt-entities)
-- [New &#39;GambleForce&#39; Threat Actor Behind String of SQL Injection Attacks](https://www.darkreading.com/cloud-security/gambleforce-threat-actor-sql-injection-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
