@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
+- [Years-Old, Unpatched GWT Vuln Leaves Apps Open to Server-Side RCE](https://www.darkreading.com/cloud-security/unpatched-gwt-vuln-leaves-apps-open-server-side-rce)
+- [Millions of Microsoft Accounts Power Lattice of Automated Cyberattacks](https://www.darkreading.com/cloud-security/millions-microsoft-accounts-power-automated-cyberattacks)
+- [Zero Networks Raises $20M in Series B to Prevent Attackers from Spreading in Corporate Networks](https://www.darkreading.com/cybersecurity-operations/zero-networks-raises-20m-in-series-b-to-prevent-attackers-from-spreading-in-corporate-networks)
+- [ONCD Welcomes Mr. Harry Coker, Jr. as Next National Cyber Director](https://www.darkreading.com/cybersecurity-operations/oncd-welcomes-mr-harry-coker-jr-as-next-national-cyber-director)
 - [Will Putting a Dollar Value on Vulnerabilities Help Prioritize Them?](https://www.darkreading.com/application-security/putting-dollar-value-vulnerabilities-prioritize)
 - [Name That Toon: Just for Kicks](https://www.darkreading.com/cloud-security/name-that-toon-just-for-kicks)
 - [Adapting to the Post-SolarWinds Era: Supply Chain Security in 2024](https://www.darkreading.com/vulnerabilities-threats/adapting-post-solarwinds-era-supply-chain-security-2024)
-- [Pro-Israeli Hacktivists Attack Iranian Gas Stations](https://www.darkreading.com/cyberattacks-data-breaches/pro-israeli-hacktivists-attack-iranian-gas-stations)
-- [Novel SMTP Smuggling Technique Slips Past DMARC, Email Protections](https://www.darkreading.com/cloud-security/novel-smtp-smuggling-technique-slips-past-dmarc-email-protections)
-- [Smartphones That Help You Bust Out of the Android/iOS Ecosystem](https://www.darkreading.com/endpoint-security/smartphones-avoid-android-ios)
-- [Meta&#39;s AI-Powered Ray-Bans Portend Privacy Issues](https://www.darkreading.com/cloud-security/metas-ai-ray-bans-portend-privacy-problems)
-- [Patch Now: Exploit Activity Mounts for Dangerous Apache Struts 2 Bug](https://www.darkreading.com/cloud-security/patch-exploit-activity-dangerous-apache-struts-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
