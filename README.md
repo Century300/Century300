@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Just for Kicks](https://www.darkreading.com/cloud-security/name-that-toon-just-for-kicks)
 - [Adapting to the Post-SolarWinds Era: Supply Chain Security in 2024](https://www.darkreading.com/vulnerabilities-threats/adapting-post-solarwinds-era-supply-chain-security-2024)
 - [Pro-Israeli Hacktivists Attack Iranian Gas Stations](https://www.darkreading.com/cyberattacks-data-breaches/pro-israeli-hacktivists-attack-iranian-gas-stations)
 - [Smartphones That Help You Bust Out of the Android/iOS Ecosystem](https://www.darkreading.com/endpoint-security/smartphones-avoid-android-ios)
@@ -83,7 +84,6 @@
 - [Patch Now: Exploit Activity Mounts for Dangerous Apache Struts 2 Bug](https://www.darkreading.com/cloud-security/patch-exploit-activity-dangerous-apache-struts-bug)
 - [Establishing Reward Criteria for Reporting Bugs in AI Products](https://www.darkreading.com/vulnerabilities-threats/establishing-reward-criteria-for-reporting-bugs-in-ai-products)
 - [Cybersecurity Startup, Xeol, Raises $3.2M in Seed Round](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-startup-xeol-raises-3-2m-in-seed-round-)
-- [Pro-Hamas Cyberattackers Aim &#39;Pierogi&#39; Malware at Multiple Mideast Targets](https://www.darkreading.com/cyberattacks-data-breaches/pro-hamas-attackers-hit-multiple-middle-eastern-targets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
