@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [API Security: The Big Picture](https://www.darkreading.com/application-security/api-security-the-big-picture)
 - [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
 - [Years-Old, Unpatched GWT Vuln Leaves Apps Open to Server-Side RCE](https://www.darkreading.com/cloud-security/unpatched-gwt-vuln-leaves-apps-open-server-side-rce)
 - [Millions of Microsoft Accounts Power Lattice of Automated Cyberattacks](https://www.darkreading.com/cloud-security/millions-microsoft-accounts-power-automated-cyberattacks)
@@ -83,7 +84,6 @@
 - [ONCD Welcomes Mr. Harry Coker, Jr. as Next National Cyber Director](https://www.darkreading.com/cybersecurity-operations/oncd-welcomes-mr-harry-coker-jr-as-next-national-cyber-director)
 - [Will Putting a Dollar Value on Vulnerabilities Help Prioritize Them?](https://www.darkreading.com/application-security/putting-dollar-value-vulnerabilities-prioritize)
 - [Name That Toon: Just for Kicks](https://www.darkreading.com/cloud-security/name-that-toon-just-for-kicks)
-- [Adapting to the Post-SolarWinds Era: Supply Chain Security in 2024](https://www.darkreading.com/vulnerabilities-threats/adapting-post-solarwinds-era-supply-chain-security-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
