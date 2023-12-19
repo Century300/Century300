@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft: Multiple Perforce Server Flaws Allow for Network Takeover](https://www.darkreading.com/vulnerabilities-threats/microsoft-multiple-perforce-server-flaws-network-takeover)
 - [Why I Chose Google Bard to Help Write Security Policies](https://www.darkreading.com/cybersecurity-operations/why-chose-google-bard-help-write-security-policies)
 - [Changing How We Think About Technology](https://www.darkreading.com/cybersecurity-operations/changing-how-we-think-about-technology)
 - [Unsung GitHub Features Anchor Novel Hacker C2 Infrastructure](https://www.darkreading.com/cloud-security/unsung-github-features-anchor-novel-hacker-c2-infrastructure)
@@ -83,7 +84,6 @@
 - [API Security: The Big Picture](https://www.darkreading.com/application-security/api-security-the-big-picture)
 - [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
 - [Years-Old, Unpatched GWT Vuln Leaves Apps Open to Server-Side RCE](https://www.darkreading.com/cloud-security/unpatched-gwt-vuln-leaves-apps-open-server-side-rce)
-- [Zero Networks Raises $20M in Series B to Prevent Attackers from Spreading in Corporate Networks](https://www.darkreading.com/cybersecurity-operations/zero-networks-raises-20m-in-series-b-to-prevent-attackers-from-spreading-in-corporate-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
