@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Comcast Xfinity Breached via CitrixBleed; 35M Customers Affected](https://www.darkreading.com/cyberattacks-data-breaches/comcast-xfinity-breached-citrix-bleed-35m-customers)
 - [Microsoft Outlook Zero-Click Security Flaws Triggered by Sound File](https://www.darkreading.com/vulnerabilities-threats/researchers-release-details-on-two-patched-outlook-zero-click-flaws)
 - [Microsoft: Multiple Perforce Server Flaws Allow for Network Takeover](https://www.darkreading.com/vulnerabilities-threats/microsoft-multiple-perforce-server-flaws-network-takeover)
 - [Why I Chose Google Bard to Help Write Security Policies](https://www.darkreading.com/cybersecurity-operations/why-chose-google-bard-help-write-security-policies)
@@ -83,7 +84,6 @@
 - [Unsung GitHub Features Anchor Novel Hacker C2 Infrastructure](https://www.darkreading.com/cloud-security/unsung-github-features-anchor-novel-hacker-c2-infrastructure)
 - [Israel Blames Iran for Hospital Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach)
 - [API Security: The Big Picture](https://www.darkreading.com/application-security/api-security-the-big-picture)
-- [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
