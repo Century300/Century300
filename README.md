@@ -78,10 +78,10 @@
 <!-- DARKREADING:START -->
 - [Changing How We Think About Technology](https://www.darkreading.com/cybersecurity-operations/changing-how-we-think-about-technology)
 - [Unsung GitHub Features Anchor Novel Hacker C2 Infrastructure](https://www.darkreading.com/cloud-security/unsung-github-features-anchor-novel-hacker-c2-infrastructure)
+- [Israel Blames Iran for Hospital Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach)
 - [API Security: The Big Picture](https://www.darkreading.com/application-security/api-security-the-big-picture)
 - [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
 - [Years-Old, Unpatched GWT Vuln Leaves Apps Open to Server-Side RCE](https://www.darkreading.com/cloud-security/unpatched-gwt-vuln-leaves-apps-open-server-side-rce)
-- [Millions of Microsoft Accounts Power Lattice of Automated Cyberattacks](https://www.darkreading.com/cloud-security/millions-microsoft-accounts-power-automated-cyberattacks)
 - [Zero Networks Raises $20M in Series B to Prevent Attackers from Spreading in Corporate Networks](https://www.darkreading.com/cybersecurity-operations/zero-networks-raises-20m-in-series-b-to-prevent-attackers-from-spreading-in-corporate-networks)
 - [ONCD Welcomes Mr. Harry Coker, Jr. as Next National Cyber Director](https://www.darkreading.com/cybersecurity-operations/oncd-welcomes-mr-harry-coker-jr-as-next-national-cyber-director)
 <!-- DARKREADING:END -->
