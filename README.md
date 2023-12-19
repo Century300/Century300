@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Outlook Zero-Click Security Flaws Triggered by Sound File](https://www.darkreading.com/vulnerabilities-threats/researchers-release-details-on-two-patched-outlook-zero-click-flaws)
 - [Microsoft: Multiple Perforce Server Flaws Allow for Network Takeover](https://www.darkreading.com/vulnerabilities-threats/microsoft-multiple-perforce-server-flaws-network-takeover)
 - [Why I Chose Google Bard to Help Write Security Policies](https://www.darkreading.com/cybersecurity-operations/why-chose-google-bard-help-write-security-policies)
 - [Changing How We Think About Technology](https://www.darkreading.com/cybersecurity-operations/changing-how-we-think-about-technology)
@@ -83,7 +84,6 @@
 - [Israel Blames Iran for Hospital Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/israel-blames-iran-for-hospital-data-breach)
 - [API Security: The Big Picture](https://www.darkreading.com/application-security/api-security-the-big-picture)
 - [What Do CISOs Have to Do to Meet New SEC Regulations?](https://www.darkreading.com/cybersecurity-operations/what-do-cisos-have-to-do-to-meet-new-sec-regulations-)
-- [Years-Old, Unpatched GWT Vuln Leaves Apps Open to Server-Side RCE](https://www.darkreading.com/cloud-security/unpatched-gwt-vuln-leaves-apps-open-server-side-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
