@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Physical Access Systems Open Cyber Door to IT Networks](https://www.darkreading.com/ics-ot-security/physical-access-systems-open-cyber-door-it-networks)
 - [Iranian &#39;Seedworm&#39; Cyber Spies Target African Telcos &amp; ISPs](https://www.darkreading.com/cyberattacks-data-breaches/iranian-seedworm-cyber-spies-target-african-telcos-isps)
 - [Attackers Exploit 6-Year-Old Microsoft Office Bug to Spread Spyware](https://www.darkreading.com/cloud-security/attackers-exploit-microsoft-office-bug-spyware)
 - [3 Ways to Use Real-Time Intelligence to Defeat Bots](https://www.darkreading.com/threat-intelligence/3-ways-real-time-intelligence-defeat-bots)
@@ -83,7 +84,6 @@
 - [5 Essential Insights From the &#39;Microsoft Digital Defense Report 2023&#39;](https://www.darkreading.com/threat-intelligence/5-essential-insights-from-the-microsoft-digital-defense-report-2023)
 - [Key Building Blocks to Advance American Leadership in AI](https://www.darkreading.com/cyber-risk/key-building-blocks-to-advance-american-leadership-in-ai)
 - [How States Help Municipalities Build Their Cyber Defenses](https://www.darkreading.com/cybersecurity-operations/us-states-seek-ways-to-help-communities-build-cyber-defenses)
-- [Bugcrowd Announces Vulnerability Ratings for LLMs](https://www.darkreading.com/application-security/bugcrowd-announces-vulnerability-ratings-for-llms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
