@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Essential Insights From the Microsoft Digital Defense Report 2023](https://www.darkreading.com/threat-intelligence/5-essential-insights-from-the-microsoft-digital-defense-report-2023)
 - [Key Building Blocks to Advance American Leadership in AI](https://www.darkreading.com/cyber-risk/key-building-blocks-to-advance-american-leadership-in-ai)
 - [How States Help Municipalities Build Their Cyber Defenses](https://www.darkreading.com/cybersecurity-operations/us-states-seek-ways-to-help-communities-build-cyber-defenses)
+- [Bugcrowd Announces Vulnerability Ratings for LLMs](https://www.darkreading.com/application-security/bugcrowd-announces-vulnerability-ratings-for-llms)
 - [Feds Snarl ALPHV/BlackCat Ransomware Operation](https://www.darkreading.com/cybersecurity-operations/feds-snarl-alphv-blackcat-ransomware-operation)
 - [Fresh Qakbot Sightings Confirm Recent Takedown Was a Temporary Setback](https://www.darkreading.com/cyberattacks-data-breaches/new-qakbot-sightings-confirm-law-enforcement-takedown-was-temporary-setback)
 - [SANS Institute Research Shows What Frameworks, Benchmarks, and Techniques Organizations Use on their Path to Security Maturity](https://www.darkreading.com/cybersecurity-operations/sans-institute-research-shows-what-frameworks-benchmarks-and-techniques-organizations-use-on-their-path-to-security-maturity)
 - [Comcast Xfinity Breached via CitrixBleed; 35M Customers Affected](https://www.darkreading.com/cyberattacks-data-breaches/comcast-xfinity-breached-citrix-bleed-35m-customers)
-- [Console &amp; Associates, P.C.: Comcast Xfinity Reports Data Breach Exposing Confidential Information of 35M Customers](https://www.darkreading.com/cyberattacks-data-breaches/console-associates-p-c-comcast-xfinity-reports-data-breach-exposing-confidential-information-of-35m-customers)
-- [Salvador Technologies Raises $6M to Empower Cyber Resilience in Operational Technologies and Critical Infrastructures](https://www.darkreading.com/ics-ot-security/salvador-technologies-raises-6m-to-empower-cyber-resilience-in-operational-technologies-and-critical-infrastructures)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
