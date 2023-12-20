@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iranian &#39;Seedworm&#39; Cyber Spies Target African Telcos &amp; ISPs](https://www.darkreading.com/cyberattacks-data-breaches/iranian-seedworm-cyber-spies-target-african-telcos-isps)
 - [Attackers Exploit 6-Year-Old Microsoft Office Bug to Spread Spyware](https://www.darkreading.com/cloud-security/attackers-exploit-microsoft-office-bug-spyware)
 - [3 Ways to Use Real-Time Intelligence to Defeat Bots](https://www.darkreading.com/threat-intelligence/3-ways-real-time-intelligence-defeat-bots)
 - [Targeted F5 Vulnerability &#39;Update&#39; Delivers Wiper to Israeli Victims](https://www.darkreading.com/cyberattacks-data-breaches/targeted-f5-vulnerability-update-delivers-wiper-israeli-victims)
@@ -83,7 +84,6 @@
 - [Key Building Blocks to Advance American Leadership in AI](https://www.darkreading.com/cyber-risk/key-building-blocks-to-advance-american-leadership-in-ai)
 - [How States Help Municipalities Build Their Cyber Defenses](https://www.darkreading.com/cybersecurity-operations/us-states-seek-ways-to-help-communities-build-cyber-defenses)
 - [Bugcrowd Announces Vulnerability Ratings for LLMs](https://www.darkreading.com/application-security/bugcrowd-announces-vulnerability-ratings-for-llms)
-- [Feds Snarl ALPHV/BlackCat Ransomware Operation](https://www.darkreading.com/cybersecurity-operations/feds-snarl-alphv-blackcat-ransomware-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
