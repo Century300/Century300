@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chameleon Android Trojan Offers Biometric Bypass](https://www.darkreading.com/endpoint-security/chameleon-android-trojan-offers-biometric-bypass)
 - [SMS Phishing Messages Target UAE Citizens, Visitors](https://www.darkreading.com/cyberattacks-data-breaches/sms-phishing-messages-target-uae-citizens-visitors)
 - [How AI Is Shaping the Future of Cybercrime](https://www.darkreading.com/vulnerabilities-threats/how-ai-shaping-future-cybercrime)
 - [As Namibians Rush to Register SIMs, Major Telco Hoards Biometric Data](https://www.darkreading.com/cyber-risk/namibians-rush-register-sims-major-telco-hoards-biometric-data)
@@ -83,7 +84,6 @@
 - [What&#39;s the Best Way to Communicate After a Data Breach?](https://www.darkreading.com/cybersecurity-operations/best-way-communicate-after-data-breach)
 - [Console &amp; Associates, P.C.: ESO Solutions Notifies 2.7M People of Data Breach That Leaked Their SSNs](https://www.darkreading.com/cyberattacks-data-breaches/console-associates-p-c-eso-solutions-notifies-2-7m-people-of-data-breach-that-leaked-their-ssns)
 - [Black Hat Europe 2023 Closes on Record-Breaking Event in London](https://www.darkreading.com/cloud-security/black-hat-europe-2023-closes-on-record-breaking-event-in-london)
-- [Defiant BlackCat Gang Stands Up New Site, Calls for Revenge Attacks](https://www.darkreading.com/cybersecurity-operations/blackcat-unseizes-sites-fbi-revenge-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
