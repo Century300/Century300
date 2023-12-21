@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Attacks in November Rise 67% From 2022](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-in-november-rise-67-from-2022)
 - [&#39;BattleRoyal&#39; Hackers Deliver DarkGate RAT Using Every Trick](https://www.darkreading.com/cyberattacks-data-breaches/battleroyal-hackers-deliver-darkgate-rat)
+- [New DMARC Data Shows 75% Increase in Suspicious Emails Hitting Inboxes](https://www.darkreading.com/cloud-security/new-dmarc-data-shows-75-increase-in-suspicious-emails-hitting-inboxes)
 - [Russian Water Utility Hacked in Retaliation for Kyivstar Hit](https://www.darkreading.com/ics-ot-security/ukrainian-hackers-strike-russian-water-utility)
 - [8 Strategies for Defending Against Help Desk Attacks](https://www.darkreading.com/cyberattacks-data-breaches/8-strategies-defending-against-help-desk-attacks)
 - [Chameleon Android Trojan Offers Biometric Bypass](https://www.darkreading.com/endpoint-security/chameleon-android-trojan-offers-biometric-bypass)
 - [SMS Phishing Messages Target UAE Citizens, Visitors](https://www.darkreading.com/cyberattacks-data-breaches/sms-phishing-messages-target-uae-citizens-visitors)
 - [How AI Is Shaping the Future of Cybercrime](https://www.darkreading.com/vulnerabilities-threats/how-ai-shaping-future-cybercrime)
-- [As Namibians Rush to Register SIMs, Major Telco Hoards Biometric Data](https://www.darkreading.com/cyber-risk/namibians-rush-register-sims-major-telco-hoards-biometric-data)
-- [ISAs and the Dawning Hardware Security Revolution](https://www.darkreading.com/endpoint-security/isa-dawning-hardware-security-revolution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
