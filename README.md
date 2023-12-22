@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Releases Eighth Zero-Day Patch of 2023 for Chrome](https://www.darkreading.com/cloud-security/google-eighth-zero-day-patch-2023-chrome)
 - [Strengthening Resilience: Navigating the Cybersecurity Landscape](https://www.darkreading.com/cyberattacks-data-breaches/strengthening-resilience-navigating-the-cybersecurity-landscape)
 - [Iran&#39;s &#39;Peach Sandstorm&#39; Cyberattackers Target Global Defense Network](https://www.darkreading.com/cyberattacks-data-breaches/iran-peach-sandstorm-cyberattackers-global-defense)
 - [5 Tips for Strengthening the Developer-Security Team Relationship](https://www.darkreading.com/cybersecurity-operations/5-tips-strengthening-developer-security-team-relationship)
@@ -83,7 +84,6 @@
 - [New DMARC Data Shows 75% Increase in Suspicious Emails Hitting Inboxes](https://www.darkreading.com/cloud-security/new-dmarc-data-shows-75-increase-in-suspicious-emails-hitting-inboxes)
 - [&#39;BattleRoyal&#39; Hackers Deliver DarkGate RAT Using Every Trick](https://www.darkreading.com/cyberattacks-data-breaches/battleroyal-hackers-deliver-darkgate-rat)
 - [Russian Water Utility Hacked in Retaliation for Kyivstar Hit](https://www.darkreading.com/ics-ot-security/ukrainian-hackers-strike-russian-water-utility)
-- [8 Strategies for Defending Against Help Desk Attacks](https://www.darkreading.com/cyberattacks-data-breaches/8-strategies-defending-against-help-desk-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
