@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [African Organizations Aim to Fix Cybersecurity in 2024](https://www.darkreading.com/cybersecurity-operations/african-organizations-aim-to-fix-cybersecurity-in-2024)
 - [Ransomware Attackers Abuse Multiple Windows CLFS Driver Zero-Days](https://www.darkreading.com/vulnerabilities-threats/ransomware-attackers-abuse-windows-clfs-driver-zero-days)
 - [Cisco Bets Big on Multicloud Security With Isovalent Deal](https://www.darkreading.com/cloud-security/cisco-bets-big-on-multicloud-security-with-isovalent-deal)
 - [Google Releases Eighth Zero-Day Patch of 2023 for Chrome](https://www.darkreading.com/cloud-security/google-eighth-zero-day-patch-2023-chrome)
@@ -83,7 +84,6 @@
 - [Iran&#39;s &#39;Peach Sandstorm&#39; Cyberattackers Target Global Defense Network](https://www.darkreading.com/cyberattacks-data-breaches/iran-peach-sandstorm-cyberattackers-global-defense)
 - [5 Tips for Strengthening the Developer-Security Team Relationship](https://www.darkreading.com/cybersecurity-operations/5-tips-strengthening-developer-security-team-relationship)
 - [Ransomware Attacks in November Rise 67% From 2022](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-in-november-rise-67-from-2022)
-- [New DMARC Data Shows 75% Increase in Suspicious Emails Hitting Inboxes](https://www.darkreading.com/cloud-security/new-dmarc-data-shows-75-increase-in-suspicious-emails-hitting-inboxes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
