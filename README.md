@@ -83,7 +83,7 @@
 - [Iran&#39;s &#39;Peach Sandstorm&#39; Cyberattackers Target Global Defense Network](https://www.darkreading.com/cyberattacks-data-breaches/iran-peach-sandstorm-cyberattackers-global-defense)
 - [5 Tips for Strengthening the Developer-Security Team Relationship](https://www.darkreading.com/cybersecurity-operations/5-tips-strengthening-developer-security-team-relationship)
 - [Ransomware Attacks in November Rise 67% From 2022](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-in-november-rise-67-from-2022)
-- [New DMARC Data Shows 75% Increase in Suspicious Emails Hitting Inboxes](https://www.darkreading.com/cloud-security/new-dmarc-data-shows-75-increase-in-suspicious-emails-hitting-inboxes)
+- [&#39;BattleRoyal&#39; Hackers Deliver DarkGate RAT Using Every Trick](https://www.darkreading.com/cyberattacks-data-breaches/battleroyal-hackers-deliver-darkgate-rat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
