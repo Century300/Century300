@@ -77,11 +77,11 @@
 
 <!-- DARKREADING:START -->
 - [Why CISOs Need to Make Cyber Insurers Their Partners](https://www.darkreading.com/cyber-risk/why-cisos-need-to-make-cyber-insurers-their-partners)
-- [How Cybercriminals Will Sway 2024 US Elections, Or Try To](https://www.darkreading.com/threat-intelligence/foreign-influence-operations-gearing-up-for-us-election)
 - [How to Prepare for DDoS Attacks During Peak Business Times](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-ddos-attacks-during-peak-business-times)
 - [AI, Supply Chain Are Fertile Areas for Cybersecurity Investment](https://www.darkreading.com/cybersecurity-operations/ai-supply-chain-seed-stage-venture-capital-cybersecurity-investment)
-- [Europe Sees More Hacktivism, GDPR Echoes, and New Security Laws Ahead for 2024](https://www.darkreading.com/cyber-risk/europe-hacktivism-gdpr-new-security-laws-ahead-2024)
+- [How Cybercriminals Will Sway 2024 US Elections, Or Try To](https://www.darkreading.com/threat-intelligence/foreign-influence-operations-gearing-up-for-us-election)
 - [Cyber Employment 2024: Sky-High Expectations Fail Businesses &amp; Job Seekers](https://www.darkreading.com/cybersecurity-operations/cyber-employment-2024-sky-high-expectations-fail-businesses-job-seekers)
+- [Europe Sees More Hacktivism, GDPR Echoes, and New Security Laws Ahead for 2024](https://www.darkreading.com/cyber-risk/europe-hacktivism-gdpr-new-security-laws-ahead-2024)
 - [African Organizations Aim to Fix Cybersecurity in 2024](https://www.darkreading.com/cybersecurity-operations/african-organizations-aim-to-fix-cybersecurity-in-2024)
 - [GenAI Tools Will Permeate All Areas of the Enterprise](https://www.darkreading.com/cloud-security/gen-ai-tools-will-permeate-all-areas-of-the-enterprise)
 <!-- DARKREADING:END -->
