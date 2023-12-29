@@ -80,10 +80,10 @@
 - [Skynet Ahoy? What to Expect for Next-Gen AI Security Risks](https://www.darkreading.com/vulnerabilities-threats/skynet-ahoy-what-to-expect-next-gen-ai-security-risks)
 - [Saudi Arabia Strengthens Its Cybersecurity Posture](https://www.darkreading.com/cyberattacks-data-breaches/saudi-arabia-strengthens-its-cybersecurity-posture)
 - [Why CISOs Need to Make Cyber Insurers Their Partners](https://www.darkreading.com/cyber-risk/why-cisos-need-to-make-cyber-insurers-their-partners)
-- [How to Prepare for DDoS Attacks During Peak Business Times](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-ddos-attacks-during-peak-business-times)
-- [AI, Supply Chain Are Fertile Areas for Cybersecurity Investment](https://www.darkreading.com/cybersecurity-operations/ai-supply-chain-seed-stage-venture-capital-cybersecurity-investment)
 - [How Cybercriminals Will Sway 2024 US Elections, or Try To](https://www.darkreading.com/threat-intelligence/foreign-influence-operations-gearing-up-for-us-election)
-- [Europe Sees More Hacktivism, GDPR Echoes, and New Security Laws Ahead for 2024](https://www.darkreading.com/cyber-risk/europe-hacktivism-gdpr-new-security-laws-ahead-2024)
+- [AI, Supply Chain Are Fertile Areas for Cybersecurity Investment](https://www.darkreading.com/cybersecurity-operations/ai-supply-chain-seed-stage-venture-capital-cybersecurity-investment)
+- [How to Prepare for DDoS Attacks During Peak Business Times](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-ddos-attacks-during-peak-business-times)
+- [Cyber Employment 2024: Sky-High Expectations Fail Businesses &amp; Job Seekers](https://www.darkreading.com/cybersecurity-operations/cyber-employment-2024-sky-high-expectations-fail-businesses-job-seekers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
