@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [I Securely Resolve: CISOs, IT Security Leaders Share 2024 Resolutions](https://www.darkreading.com/cyber-risk/i-securely-resolve-cisos-it-security-leaders-share-2024-resolutions)
 - [UAE Banks on AI to Boost Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/uae-banks-on-ai-to-boost-cybersecurity)
 - [In Cybersecurity and Fashion, What&#39;s Old Is New Again](https://www.darkreading.com/cyberattacks-data-breaches/in-cybersecurity-whats-old-is-new-again)
 - [Skynet Ahoy? What to Expect for Next-Gen AI Security Risks](https://www.darkreading.com/vulnerabilities-threats/skynet-ahoy-what-to-expect-next-gen-ai-security-risks)
@@ -83,7 +84,6 @@
 - [Why CISOs Need to Make Cyber Insurers Their Partners](https://www.darkreading.com/cyber-risk/why-cisos-need-to-make-cyber-insurers-their-partners)
 - [How Cybercriminals Will Sway 2024 US Elections, or Try To](https://www.darkreading.com/threat-intelligence/foreign-influence-operations-gearing-up-for-us-election)
 - [How to Prepare for DDoS Attacks During Peak Business Times](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-ddos-attacks-during-peak-business-times)
-- [AI, Supply Chain Are Fertile Areas for Cybersecurity Investment](https://www.darkreading.com/cybersecurity-operations/ai-supply-chain-seed-stage-venture-capital-cybersecurity-investment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
