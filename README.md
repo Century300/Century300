@@ -83,7 +83,7 @@
 - [How to Prepare for DDoS Attacks During Peak Business Times](https://www.darkreading.com/vulnerabilities-threats/how-to-prepare-for-ddos-attacks-during-peak-business-times)
 - [AI, Supply Chain Are Fertile Areas for Cybersecurity Investment](https://www.darkreading.com/cybersecurity-operations/ai-supply-chain-seed-stage-venture-capital-cybersecurity-investment)
 - [How Cybercriminals Will Sway 2024 US Elections, or Try To](https://www.darkreading.com/threat-intelligence/foreign-influence-operations-gearing-up-for-us-election)
-- [Cyber Employment 2024: Sky-High Expectations Fail Businesses &amp; Job Seekers](https://www.darkreading.com/cybersecurity-operations/cyber-employment-2024-sky-high-expectations-fail-businesses-job-seekers)
+- [Europe Sees More Hacktivism, GDPR Echoes, and New Security Laws Ahead for 2024](https://www.darkreading.com/cyber-risk/europe-hacktivism-gdpr-new-security-laws-ahead-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
