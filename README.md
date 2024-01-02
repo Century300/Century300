@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Localization Mandates, AI Regs to Pose Major Data Challenges in 2024](https://www.darkreading.com/cyber-risk/localization-mandataes-ai-regs-pose-major-data-challenges-in-2024)
 - [Startups Scramble to Build Immediate AI Security](https://www.darkreading.com/vulnerabilities-threats/startups-scramble-to-build-immediate-ai-security)
 - [10 Years After Yahoo Breach, What&#39;s Changed? &lpar;Not Much&rpar;](https://www.darkreading.com/cyberattacks-data-breaches/10-years-after-yahoo-whats-changed-not-much)
-- [‘Operation Triangulation’ Spyware Attackers Bypass iPhone Memory Protections](https://www.darkreading.com/application-security/operation-triangulation-spyware-attackers-bypass-iphone-memory-protections)
+- [&#39;Operation Triangulation&#39; Spyware Attackers Bypass iPhone Memory Protections](https://www.darkreading.com/application-security/operation-triangulation-spyware-attackers-bypass-iphone-memory-protections)
 - [Palo Alto Networks Closes Talon Cybersecurity Acquisition](https://www.darkreading.com/cloud-security/palo-alto-networks-closes-talon-cybersecurity-acquisition)
 - [I Securely Resolve: CISOs, IT Security Leaders Share 2024 Resolutions](https://www.darkreading.com/cyber-risk/i-securely-resolve-cisos-it-security-leaders-share-2024-resolutions)
 - [UAE Banks on AI to Boost Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/uae-banks-on-ai-to-boost-cybersecurity)
 - [In Cybersecurity and Fashion, What&#39;s Old Is New Again](https://www.darkreading.com/cyberattacks-data-breaches/in-cybersecurity-whats-old-is-new-again)
-- [Skynet Ahoy? What to Expect for Next-Gen AI Security Risks](https://www.darkreading.com/vulnerabilities-threats/skynet-ahoy-what-to-expect-next-gen-ai-security-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
