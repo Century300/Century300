@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Settles Lawsuit Over Tracking &#39;Incognito Mode&#39; Chrome Users](https://www.darkreading.com/cyber-risk/google-settles-lawsuit-tracking-private-browsing-users)
 - [Cyberattackers Target Nuclear Waste Company via LinkedIn](https://www.darkreading.com/ics-ot-security/cyberattackers-target-nuclear-waste-company-via-linkedin)
 - [Israel Battles Spike in Wartime Hacktivist, OT Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israel-cyberattacks-and-conflict-partnerships-and-acquisitions)
 - [CISO Planning for 2024 May Struggle When It Comes to AI](https://www.darkreading.com/cybersecurity-operations/ciso-planning-for-2024-may-struggle-when-it-comes-to-ai)
@@ -83,7 +84,6 @@
 - [Attackers Abuse Google OAuth Endpoint to Hijack User Sessions](https://www.darkreading.com/cloud-security/attackers-abuse-google-oauth-endpoint-hijack-user-sessions)
 - [Startups Scramble to Build Immediate AI Security](https://www.darkreading.com/vulnerabilities-threats/startups-scramble-to-build-immediate-ai-security)
 - [10 Years After Yahoo Breach, What&#39;s Changed? &lpar;Not Much&rpar;](https://www.darkreading.com/cyberattacks-data-breaches/10-years-after-yahoo-whats-changed-not-much)
-- [&#39;Operation Triangulation&#39; Spyware Attackers Bypass iPhone Memory Protections](https://www.darkreading.com/application-security/operation-triangulation-spyware-attackers-bypass-iphone-memory-protections)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
