@@ -79,11 +79,11 @@
 - [Israel Battles Spike in Wartime Hacktivist, OT Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israel-cyberattacks-and-conflict-partnerships-and-acquisitions)
 - [CISO Planning for 2024 May Struggle When It Comes to AI](https://www.darkreading.com/cybersecurity-operations/ciso-planning-for-2024-may-struggle-when-it-comes-to-ai)
 - [Localization Mandates, AI Regs to Pose Major Data Challenges in 2024](https://www.darkreading.com/cyber-risk/localization-mandataes-ai-regs-pose-major-data-challenges-in-2024)
+- [Attackers Abuse Google OAuth Endpoint to Hijack User Sessions](https://www.darkreading.com/cloud-security/attackers-abuse-google-oauth-endpoint-hijack-user-sessions)
 - [Startups Scramble to Build Immediate AI Security](https://www.darkreading.com/vulnerabilities-threats/startups-scramble-to-build-immediate-ai-security)
 - [10 Years After Yahoo Breach, What&#39;s Changed? &lpar;Not Much&rpar;](https://www.darkreading.com/cyberattacks-data-breaches/10-years-after-yahoo-whats-changed-not-much)
 - [&#39;Operation Triangulation&#39; Spyware Attackers Bypass iPhone Memory Protections](https://www.darkreading.com/application-security/operation-triangulation-spyware-attackers-bypass-iphone-memory-protections)
 - [Palo Alto Networks Closes Talon Cybersecurity Acquisition](https://www.darkreading.com/cloud-security/palo-alto-networks-closes-talon-cybersecurity-acquisition)
-- [I Securely Resolve: CISOs, IT Security Leaders Share 2024 Resolutions](https://www.darkreading.com/cyber-risk/i-securely-resolve-cisos-it-security-leaders-share-2024-resolutions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
