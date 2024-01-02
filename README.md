@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Years After Yahoo Breach, What&#39;s Changed? &lpar;Not Much&rpar;](https://www.darkreading.com/cyberattacks-data-breaches/10-years-after-yahoo-whats-changed-not-much)
 - [‘Operation Triangulation’ Spyware Attackers Bypass iPhone Memory Protections](https://www.darkreading.com/application-security/operation-triangulation-spyware-attackers-bypass-iphone-memory-protections)
 - [Palo Alto Networks Closes Talon Cybersecurity Acquisition](https://www.darkreading.com/cloud-security/palo-alto-networks-closes-talon-cybersecurity-acquisition)
 - [I Securely Resolve: CISOs, IT Security Leaders Share 2024 Resolutions](https://www.darkreading.com/cyber-risk/i-securely-resolve-cisos-it-security-leaders-share-2024-resolutions)
@@ -83,7 +84,6 @@
 - [In Cybersecurity and Fashion, What&#39;s Old Is New Again](https://www.darkreading.com/cyberattacks-data-breaches/in-cybersecurity-whats-old-is-new-again)
 - [Skynet Ahoy? What to Expect for Next-Gen AI Security Risks](https://www.darkreading.com/vulnerabilities-threats/skynet-ahoy-what-to-expect-next-gen-ai-security-risks)
 - [Saudi Arabia Strengthens Its Cybersecurity Posture](https://www.darkreading.com/cyberattacks-data-breaches/saudi-arabia-strengthens-its-cybersecurity-posture)
-- [Why CISOs Need to Make Cyber Insurers Their Partners](https://www.darkreading.com/cyber-risk/why-cisos-need-to-make-cyber-insurers-their-partners)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
