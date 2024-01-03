@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qatar to Add Cybersecurity Curricula in Private Schools](https://www.darkreading.com/cybersecurity-operations/qatar-to-add-cybersecurity-curricula-in-private-schools)
 - [5 Steps for Preventing and Mitigating Corporate Espionage](https://www.darkreading.com/vulnerabilities-threats/5-steps-preventing-mitigating-corporate-espionage)
 - [Cybercriminals Share Millions of Stolen Records During Holiday Break](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-freely-share-millions-of-stolen-records-over-holiday-break)
 - [Google Settles Lawsuit Over Tracking &#39;Incognito Mode&#39; Chrome Users](https://www.darkreading.com/cyber-risk/google-settles-lawsuit-tracking-private-browsing-users)
@@ -83,7 +84,6 @@
 - [Israel Battles Spike in Wartime Hacktivist, OT Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israel-cyberattacks-and-conflict-partnerships-and-acquisitions)
 - [CISO Planning for 2024 May Struggle When It Comes to AI](https://www.darkreading.com/cybersecurity-operations/ciso-planning-for-2024-may-struggle-when-it-comes-to-ai)
 - [Localization Mandates, AI Regs to Pose Major Data Challenges in 2024](https://www.darkreading.com/cyber-risk/localization-mandataes-ai-regs-pose-major-data-challenges-in-2024)
-- [Attackers Abuse Google OAuth Endpoint to Hijack User Sessions](https://www.darkreading.com/cloud-security/attackers-abuse-google-oauth-endpoint-hijack-user-sessions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
