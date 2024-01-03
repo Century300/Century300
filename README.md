@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LastPass Hikes Password Requirements to 12 Characters](https://www.darkreading.com/cybersecurity-operations/lastpass-hikes-password-requirements-12-characters)
+- [Pilfered Data From Iranian Insurance and Food Delivery Firms Leaked Online](https://www.darkreading.com/cyberattacks-data-breaches/pilfered-data-from-iranian-insurance-and-food-delivery-firms-leaked)
 - [&#39;Black Basta Buster&#39; Exploits Ransomware Bug for File Recovery](https://www.darkreading.com/cloud-security/black-basta-buster-exploits-ransomware-bug-file-recovery)
 - [Name That Edge Toon: Frosty the Steel Man](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-frosty-the-steel-man)
 - [Qatar to Add Cybersecurity Curricula in Private Schools](https://www.darkreading.com/cybersecurity-operations/qatar-to-add-cybersecurity-curricula-in-private-schools)
 - [5 Steps for Preventing and Mitigating Corporate Espionage](https://www.darkreading.com/vulnerabilities-threats/5-steps-preventing-mitigating-corporate-espionage)
 - [Cybercriminals Share Millions of Stolen Records During Holiday Break](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-freely-share-millions-of-stolen-records-over-holiday-break)
 - [Google Settles Lawsuit Over Tracking &#39;Incognito Mode&#39; Chrome Users](https://www.darkreading.com/cyber-risk/google-settles-lawsuit-tracking-private-browsing-users)
-- [Cyberattackers Target Nuclear Waste Company via LinkedIn](https://www.darkreading.com/ics-ot-security/cyberattackers-target-nuclear-waste-company-via-linkedin)
-- [Israel Battles Spike in Wartime Hacktivist, OT Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israel-cyberattacks-and-conflict-partnerships-and-acquisitions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
