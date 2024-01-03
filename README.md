@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Agents Hack Webcams to Guide Missile Attacks on Kyiv](https://www.darkreading.com/ics-ot-security/russian-agents-use-residential-webcams-to-gather-info-for-missile-attack-on-kyiv)
+- [SonicWall Accelerates SASE Offerings; Acquires Proven Cloud Security Provider](https://www.darkreading.com/cloud-security/sonicwall-accelerates-sase-offerings-acquires-proven-cloud-security-provider)
+- [Ransomware Group Claims Cyber Breach of Xerox Subsidiary](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-group-claims-cyber-breach-on-xerox-subsidiary)
 - [SentinelOne to Expand Cloud Security Capabilities With Acquisition of PingSafe](https://www.darkreading.com/cloud-security/sentinelone-to-expand-cloud-security-capabilities-with-acquisition-of-pingsafe)
 - [iFlock Security Consulting Secures Private Funding](https://www.darkreading.com/cyberattacks-data-breaches/iflock-security-consulting-secures-private-funding)
 - [Cybercriminals Flood Dark Web With X &lpar;Twitter&rpar; Gold Accounts](https://www.darkreading.com/application-security/cybercriminals-flood-dark-web-x-twitter-gold-accounts)
 - [LastPass Hikes Password Requirements to 12 Characters](https://www.darkreading.com/cybersecurity-operations/lastpass-hikes-password-requirements-12-characters)
 - [Pilfered Data From Iranian Insurance and Food Delivery Firms Leaked Online](https://www.darkreading.com/cyberattacks-data-breaches/pilfered-data-from-iranian-insurance-and-food-delivery-firms-leaked)
-- [&#39;Black Basta Buster&#39; Exploits Ransomware Bug for File Recovery](https://www.darkreading.com/cloud-security/black-basta-buster-exploits-ransomware-bug-file-recovery)
-- [Name That Edge Toon: Frosty the Steel Man](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-frosty-the-steel-man)
-- [Qatar to Add Cybersecurity Curricula in Private Schools](https://www.darkreading.com/cybersecurity-operations/qatar-to-add-cybersecurity-curricula-in-private-schools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
