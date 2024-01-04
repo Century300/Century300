@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Kyivstar Hack Should Alarm West, Ukraine Security Chief Warns](https://www.darkreading.com/cyberattacks-data-breaches/russia-kyivstar-hack-should-alarm-west-ukraine-cyber-spy-warns)
 - [Administrator Account For Middle East Internet Registry Hacked](https://www.darkreading.com/cyberattacks-data-breaches/administrator-account-for-middle-east-internet-registry-hacked)
 - [Mandiant&#39;s X &lpar;Twitter&rpar; Account Hacked to Promote Crypto Scam](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-s-x-twitter-account-hacked-to-promote-crypto-scam)
 - [Navigating the New Age of Cybersecurity Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/navigating-new-age-cybersecurity-enforcement)
@@ -83,7 +84,6 @@
 - [Getting Started With Passkeys, One Service at a Time](https://www.darkreading.com/identity-access-management-security/how-to-get-started-using-passkeys)
 - [Is the vCISO Model Right for Your Organization?](https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization)
 - [Russian Agents Hack Webcams to Guide Missile Attacks on Kyiv](https://www.darkreading.com/ics-ot-security/russian-agents-use-residential-webcams-to-gather-info-for-missile-attack-on-kyiv)
-- [SonicWall Accelerates SASE Offerings; Acquires Proven Cloud Security Provider](https://www.darkreading.com/cloud-security/sonicwall-accelerates-sase-offerings-acquires-proven-cloud-security-provider)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
