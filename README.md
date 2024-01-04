@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Is the vCISO Model Right for Your Organization?](https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization)
+- [Navigating the New Age of Cybersecurity Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/navigating-new-age-cybersecurity-enforcement)
+- [&#39;Cyber Toufan&#39; Hacktivists Leaked 100-Plus Israeli Orgs in One Month](https://www.darkreading.com/cyberattacks-data-breaches/-cyber-toufan-hacktivists-leaked-100-plus-israeli-orgs-in-one-month)
 - [Getting Started With Passkeys, One Service at a Time](https://www.darkreading.com/identity-access-management-security/how-to-get-started-using-passkeys)
+- [Is the vCISO Model Right for Your Organization?](https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization)
 - [Russian Agents Hack Webcams to Guide Missile Attacks on Kyiv](https://www.darkreading.com/ics-ot-security/russian-agents-use-residential-webcams-to-gather-info-for-missile-attack-on-kyiv)
 - [SonicWall Accelerates SASE Offerings; Acquires Proven Cloud Security Provider](https://www.darkreading.com/cloud-security/sonicwall-accelerates-sase-offerings-acquires-proven-cloud-security-provider)
 - [Ransomware Group Claims Cyber Breach of Xerox Subsidiary](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-group-claims-cyber-breach-on-xerox-subsidiary)
 - [SentinelOne to Expand Cloud Security Capabilities With Acquisition of PingSafe](https://www.darkreading.com/cloud-security/sentinelone-to-expand-cloud-security-capabilities-with-acquisition-of-pingsafe)
-- [iFlock Security Consulting Secures Private Funding](https://www.darkreading.com/cyberattacks-data-breaches/iflock-security-consulting-secures-private-funding)
-- [Cybercriminals Flood Dark Web With X &lpar;Twitter&rpar; Gold Accounts](https://www.darkreading.com/application-security/cybercriminals-flood-dark-web-x-twitter-gold-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
