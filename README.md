@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Is the vCISO Model Right for Your Organization?](https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization)
 - [Getting Started With Passkeys, One Service at a Time](https://www.darkreading.com/identity-access-management-security/how-to-get-started-using-passkeys)
+- [Is the vCISO Model Right for Your Organization?](https://www.darkreading.com/cyber-risk/is-the-vciso-model-right-for-your-organization)
 - [Russian Agents Hack Webcams to Guide Missile Attacks on Kyiv](https://www.darkreading.com/ics-ot-security/russian-agents-use-residential-webcams-to-gather-info-for-missile-attack-on-kyiv)
 - [SonicWall Accelerates SASE Offerings; Acquires Proven Cloud Security Provider](https://www.darkreading.com/cloud-security/sonicwall-accelerates-sase-offerings-acquires-proven-cloud-security-provider)
 - [Ransomware Group Claims Cyber Breach of Xerox Subsidiary](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-group-claims-cyber-breach-on-xerox-subsidiary)
