@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Airbus Looks to Acquire Atos Cybersecurity Unit for Nearly $2 Billion](https://www.darkreading.com/ics-ot-security/airbus-acquire-atos-cybersecurity-unit-2-billion)
 - [Russia Kyivstar Hack Should Alarm West, Ukraine Security Chief Warns](https://www.darkreading.com/cyberattacks-data-breaches/russia-kyivstar-hack-should-alarm-west-ukraine-cyber-spy-warns)
-- [Administrator Account For Middle East Internet Registry Hacked](https://www.darkreading.com/cyberattacks-data-breaches/administrator-account-for-middle-east-internet-registry-hacked)
+- [Administrator Account for Middle East Internet Registry Hacked](https://www.darkreading.com/cyberattacks-data-breaches/administrator-account-for-middle-east-internet-registry-hacked)
 - [Mandiant&#39;s X &lpar;Twitter&rpar; Account Hacked to Promote Crypto Scam](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-s-x-twitter-account-hacked-to-promote-crypto-scam)
 - [Navigating the New Age of Cybersecurity Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/navigating-new-age-cybersecurity-enforcement)
 - [&#39;Cyber Toufan&#39; Hacktivists Leaked 100-Plus Israeli Orgs in One Month](https://www.darkreading.com/cyberattacks-data-breaches/-cyber-toufan-hacktivists-leaked-100-plus-israeli-orgs-in-one-month)
