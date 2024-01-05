@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Group Using Rare Data Transfer Tactic in New RemcosRAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/threat-group-using-rare-data-transfer-tactic-in-new-remcosrat-campaign)
 - [C3 Complete Acquires Information Security Business Unit of Compliance Solutions Inc.](https://www.darkreading.com/cyber-risk/c3-complete-acquires-information-security-business-unit-of-compliance-solutions-inc-)
 - [Driven Technologies Expands Expertise With Acquisition of ieMentor](https://www.darkreading.com/cloud-security/driven-technologies-expands-expertise-with-acquisition-of-iementor)
 - [Industrial Defender Risk Signal, a Risk-Based Vulnerability Management Solution for OT Security](https://www.darkreading.com/ics-ot-security/industrial-defender-risk-signal-an-intelligent-risk-based-vulnerability-management-solution-for-ot-security)
@@ -83,7 +84,6 @@
 - [Airbus Looks to Acquire Atos Cybersecurity Unit for Nearly $2 Billion](https://www.darkreading.com/ics-ot-security/airbus-acquire-atos-cybersecurity-unit-2-billion)
 - [Russia Kyivstar Hack Should Alarm West, Ukraine Security Chief Warns](https://www.darkreading.com/cyberattacks-data-breaches/russia-kyivstar-hack-should-alarm-west-ukraine-cyber-spy-warns)
 - [Administrator Account for Middle East Internet Registry Hacked](https://www.darkreading.com/cyberattacks-data-breaches/administrator-account-for-middle-east-internet-registry-hacked)
-- [Mandiant&#39;s X &lpar;Twitter&rpar; Account Hacked to Promote Crypto Scam](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-s-x-twitter-account-hacked-to-promote-crypto-scam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
