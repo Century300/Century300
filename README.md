@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [23andMe: &#39;Negligent&#39; Users at Fault for Breach of 6.9M Records](https://www.darkreading.com/cyberattacks-data-breaches/23andme-negligent-users-at-fault-breach-7m-records)
 - [North Korea Debuts &#39;SpectralBlur&#39; Malware Amid macOS Onslaught](https://www.darkreading.com/threat-intelligence/north-korea-debuts-spectralblur-malware-amid-macos-onslaught)
 - [Syrian Threat Group Peddles Destructive SilverRAT](https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat)
 - [Cyber-Focused FBI Agents Deploy to Embassies Globally](https://www.darkreading.com/cybersecurity-operations/cyber-focused-fbi-agents-deploy-embassies-globally)
@@ -83,7 +84,6 @@
 - [Why Red Teams Can&#39;t Answer Defenders&#39; Most Important Questions](https://www.darkreading.com/vulnerabilities-threats/why-red-teams-cant-answer-defenders-most-important-questions)
 - [Threat Group Using Rare Data Transfer Tactic in New RemcosRAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/threat-group-using-rare-data-transfer-tactic-in-new-remcosrat-campaign)
 - [C3 Complete Acquires Information Security Business Unit of Compliance Solutions Inc.](https://www.darkreading.com/cyber-risk/c3-complete-acquires-information-security-business-unit-of-compliance-solutions-inc-)
-- [Driven Technologies Expands Expertise With Acquisition of ieMentor](https://www.darkreading.com/cloud-security/driven-technologies-expands-expertise-with-acquisition-of-iementor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
