@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fire Sale: Zeppelin Ransomware Source Code Sells for $500 on Dark Web](https://www.darkreading.com/ics-ot-security/zeppelin-ransomware-source-code-builder-sells-500-dark-web)
 - [23andMe: &#39;Negligent&#39; Users at Fault for Breach of 6.9M Records](https://www.darkreading.com/cyberattacks-data-breaches/23andme-negligent-users-at-fault-breach-7m-records)
 - [North Korea Debuts &#39;SpectralBlur&#39; Malware Amid macOS Onslaught](https://www.darkreading.com/threat-intelligence/north-korea-debuts-spectralblur-malware-amid-macos-onslaught)
 - [Syrian Threat Group Peddles Destructive SilverRAT](https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat)
@@ -83,7 +84,6 @@
 - [Dubai-US Deal Aims to Secure Medical, IoT Devices in the Middle East](https://www.darkreading.com/ics-ot-security/dubai-us-deal-aims-secure-medical-iot-devices-middle-east)
 - [Why Red Teams Can&#39;t Answer Defenders&#39; Most Important Questions](https://www.darkreading.com/vulnerabilities-threats/why-red-teams-cant-answer-defenders-most-important-questions)
 - [Threat Group Using Rare Data Transfer Tactic in New RemcosRAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/threat-group-using-rare-data-transfer-tactic-in-new-remcosrat-campaign)
-- [C3 Complete Acquires Information Security Business Unit of Compliance Solutions Inc.](https://www.darkreading.com/cyber-risk/c3-complete-acquires-information-security-business-unit-of-compliance-solutions-inc-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
