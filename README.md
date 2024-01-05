@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Red Teams Can&#39;t Answer Defenders&#39; Most Important Questions](https://www.darkreading.com/vulnerabilities-threats/why-red-teams-cant-answer-defenders-most-important-questions)
 - [Threat Group Using Rare Data Transfer Tactic in New RemcosRAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/threat-group-using-rare-data-transfer-tactic-in-new-remcosrat-campaign)
 - [C3 Complete Acquires Information Security Business Unit of Compliance Solutions Inc.](https://www.darkreading.com/cyber-risk/c3-complete-acquires-information-security-business-unit-of-compliance-solutions-inc-)
 - [Driven Technologies Expands Expertise With Acquisition of ieMentor](https://www.darkreading.com/cloud-security/driven-technologies-expands-expertise-with-acquisition-of-iementor)
@@ -83,7 +84,6 @@
 - [Apache ERP Zero-Day Underscores Dangers of Incomplete Patches](https://www.darkreading.com/vulnerabilities-threats/apache-erp-0day-underscores-dangers-of-incomplete-patches)
 - [Airbus Looks to Acquire Atos Cybersecurity Unit for Nearly $2 Billion](https://www.darkreading.com/ics-ot-security/airbus-acquire-atos-cybersecurity-unit-2-billion)
 - [Russia Kyivstar Hack Should Alarm West, Ukraine Security Chief Warns](https://www.darkreading.com/cyberattacks-data-breaches/russia-kyivstar-hack-should-alarm-west-ukraine-cyber-spy-warns)
-- [Administrator Account for Middle East Internet Registry Hacked](https://www.darkreading.com/cyberattacks-data-breaches/administrator-account-for-middle-east-internet-registry-hacked)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
