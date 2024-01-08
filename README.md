@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Protecting Critical Infrastructure Means Getting Back to Basics](https://www.darkreading.com/ics-ot-security/protecting-critical-infrastructure-means-getting-back-to-basics)
 - [Iranian Crypto Exchange Misstep Exposes User Details](https://www.darkreading.com/application-security/iranian-crypto-exchange-misstep-exposes-user-details)
 - [Fire Sale: Zeppelin Ransomware Source Code Sells for $500 on Dark Web](https://www.darkreading.com/ics-ot-security/zeppelin-ransomware-source-code-builder-sells-500-dark-web)
 - [23andMe: &#39;Negligent&#39; Users at Fault for Breach of 6.9M Records](https://www.darkreading.com/cyberattacks-data-breaches/23andme-negligent-users-at-fault-breach-7m-records)
@@ -83,7 +84,6 @@
 - [Syrian Threat Group Peddles Destructive SilverRAT](https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat)
 - [Cyber-Focused FBI Agents Deploy to Embassies Globally](https://www.darkreading.com/cybersecurity-operations/cyber-focused-fbi-agents-deploy-embassies-globally)
 - [Dubai-US Deal Aims to Secure Medical, IoT Devices in the Middle East](https://www.darkreading.com/ics-ot-security/dubai-us-deal-aims-secure-medical-iot-devices-middle-east)
-- [Why Red Teams Can&#39;t Answer Defenders&#39; Most Important Questions](https://www.darkreading.com/vulnerabilities-threats/why-red-teams-cant-answer-defenders-most-important-questions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
