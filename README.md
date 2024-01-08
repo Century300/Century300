@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US, Israel Used Dutch Spy to Launch Stuxnet Malware Against Iran](https://www.darkreading.com/ics-ot-security/us-israel-dutch-spy-stuxnet-malware-against-iran)
 - [&#39;Swatting&#39; Becomes Latest Extortion Tactic in Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/swatting-latest-extortion-tactic-ransomware-attacks)
 - [Beirut Airport Cyberattack Targets Hezbollah](https://www.darkreading.com/cyberattacks-data-breaches/beirut-airport-cyberattack-targets-hezbollah)
 - [Protecting Critical Infrastructure Means Getting Back to Basics](https://www.darkreading.com/ics-ot-security/protecting-critical-infrastructure-means-getting-back-to-basics)
@@ -83,7 +84,6 @@
 - [Fire Sale: Zeppelin Ransomware Source Code Sells for $500 on Dark Web](https://www.darkreading.com/ics-ot-security/zeppelin-ransomware-source-code-builder-sells-500-dark-web)
 - [23andMe: &#39;Negligent&#39; Users at Fault for Breach of 6.9M Records](https://www.darkreading.com/cyberattacks-data-breaches/23andme-negligent-users-at-fault-breach-7m-records)
 - [North Korea Debuts &#39;SpectralBlur&#39; Malware Amid macOS Onslaught](https://www.darkreading.com/threat-intelligence/north-korea-debuts-spectralblur-malware-amid-macos-onslaught)
-- [Syrian Threat Group Peddles Destructive SilverRAT](https://www.darkreading.com/cyberattacks-data-breaches/syrian-threat-group-peddles-destructive-silverrat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
