@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chertoff Group Affiliate Completes Trustwave Acquisition](https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition)
 - [US, Israel Used Dutch Spy to Launch Stuxnet Malware Against Iran](https://www.darkreading.com/ics-ot-security/us-israel-dutch-spy-stuxnet-malware-against-iran)
 - [Executing Zero Trust in the Cloud Takes Strategy](https://www.darkreading.com/cloud-security/executing-zero-trust-in-the-cloud-takes-strategy)
 - [Cacti Monitoring Tool Spiked by Critical SQL Injection Vulnerability](https://www.darkreading.com/vulnerabilities-threats/cacti-monitoring-tool-critical-sql-injection-vulnerability)
@@ -83,7 +84,6 @@
 - [&#39;Swatting&#39; Becomes Latest Extortion Tactic in Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/swatting-latest-extortion-tactic-ransomware-attacks)
 - [Beirut Airport Cyberattack Targets Hezbollah](https://www.darkreading.com/cyberattacks-data-breaches/beirut-airport-cyberattack-targets-hezbollah)
 - [Protecting Critical Infrastructure Means Getting Back to Basics](https://www.darkreading.com/ics-ot-security/protecting-critical-infrastructure-means-getting-back-to-basics)
-- [Iranian Crypto Exchange Misstep Exposes User Details](https://www.darkreading.com/application-security/iranian-crypto-exchange-misstep-exposes-user-details)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
