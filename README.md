@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
 - [Ransomware Gang Gives Toronto Zoo the Monkey Business](https://www.darkreading.com/cyberattacks-data-breaches/toronto-zoo-investigates-ransomware-attack-continues-operations)
 - [Turkish Cyber Threat Targets MSSQL Servers With Mimic Ransomware](https://www.darkreading.com/ics-ot-security/turkish-cyber-threat-targets-mssql-servers-mimic-ransomware)
 - [Delinea Acquires Authomize to Strengthen Extended PAM](https://www.darkreading.com/cybersecurity-operations/delinea-acquires-authomize-to-strengthen-extended-pam)
@@ -83,7 +84,6 @@
 - [Beware Weaponized YouTube Channels Spreading Lumma Stealer](https://www.darkreading.com/cyberattacks-data-breaches/weaponized-youtube-channels-spread-lumma-stealer)
 - [It&#39;s Time to Close the Curtain on Security Theater](https://www.darkreading.com/cyberattacks-data-breaches/time-to-close-curtain-on-security-theater)
 - [TitanHQ Launches PhishTitan to Combat Advanced Phishing Attacks](https://www.darkreading.com/cyberattacks-data-breaches/titanhq-launches-phishtitan-to-combat-advanced-phishing-attacks)
-- [Chertoff Group Affiliate Completes Trustwave Acquisition](https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
