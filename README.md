@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Gang Gives Toronto Zoo the Monkey Business](https://www.darkreading.com/cyberattacks-data-breaches/toronto-zoo-investigates-ransomware-attack-continues-operations)
+- [Turkish Cyber Threat Targets MSSQL Servers With Mimic Ransomware](https://www.darkreading.com/ics-ot-security/turkish-cyber-threat-targets-mssql-servers-mimic-ransomware)
+- [Delinea Acquires Authomize to Strengthen Extended PAM](https://www.darkreading.com/cybersecurity-operations/delinea-acquires-authomize-to-strengthen-extended-pam)
 - [Bangladesh Election App Crashes Amid Suspected Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/bangladesh-election-app-crashes-amid-suspected-cyberattack)
 - [Beware Weaponized YouTube Channels Spreading Lumma Stealer](https://www.darkreading.com/cyberattacks-data-breaches/weaponized-youtube-channels-spread-lumma-stealer)
 - [It&#39;s Time to Close the Curtain on Security Theater](https://www.darkreading.com/cyberattacks-data-breaches/time-to-close-curtain-on-security-theater)
 - [TitanHQ Launches PhishTitan to Combat Advanced Phishing Attacks](https://www.darkreading.com/cyberattacks-data-breaches/titanhq-launches-phishtitan-to-combat-advanced-phishing-attacks)
 - [Chertoff Group Affiliate Completes Trustwave Acquisition](https://www.darkreading.com/cloud-security/chertoff-group-affiliate-completes-trustwave-acquisition)
-- [US, Israel Used Dutch Spy to Launch Stuxnet Malware Against Iran](https://www.darkreading.com/ics-ot-security/us-israel-dutch-spy-stuxnet-malware-against-iran)
-- [Executing Zero Trust in the Cloud Takes Strategy](https://www.darkreading.com/cloud-security/executing-zero-trust-in-the-cloud-takes-strategy)
-- [Cacti Monitoring Tool Spiked by Critical SQL Injection Vulnerability](https://www.darkreading.com/vulnerabilities-threats/cacti-monitoring-tool-critical-sql-injection-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
