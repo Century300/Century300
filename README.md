@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CES 2024: Will the Coolest New AI Gadgets Protect Your Privacy?](https://www.darkreading.com/iot/ces-2024-coolest-ai-gadgets-protect-your-privacy)
 - [Bitcoin Prices Spike After SEC X Account Hack](https://www.darkreading.com/application-security/bitcoin-prices-spike-after-sec-x-account-hack)
 - [Adapting Security to Protect AI/ML Systems](https://www.darkreading.com/vulnerabilities-threats/adapting-security-to-protect-ai-ml-systems)
 - [Has the Investment Bubble Burst in Israeli Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/investment-bubble-burst-israeli-cybersecurity)
@@ -83,7 +84,6 @@
 - [BEC Gang Conspirator Sentenced to 10 Years in Prison](https://www.darkreading.com/cyberattacks-data-breaches/bec-gang-conspirator-sentenced-to-ten-years-in-prison)
 - [Who Is Behind Pro-Ukrainian Cyberattacks on Iran?](https://www.darkreading.com/cyberattacks-data-breaches/who-is-behind-pro-ukrainian-cyberattacks-iran)
 - [Patch Now: Critical Windows Kerberos Bug Bypasses Microsoft Security](https://www.darkreading.com/ics-ot-security/critical-windows-kerberos-bug-microsoft-security-bypass)
-- [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
