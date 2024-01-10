@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BEC Gang Conspirator Sentenced to 10 Years in Prison](https://www.darkreading.com/cyberattacks-data-breaches/bec-gang-conspirator-sentenced-to-ten-years-in-prison)
 - [Who Is Behind Pro-Ukrainian Cyberattacks on Iran?](https://www.darkreading.com/cyberattacks-data-breaches/who-is-behind-pro-ukrainian-cyberattacks-iran)
 - [Patch Now: Critical Windows Kerberos Bug Bypasses Microsoft Security](https://www.darkreading.com/ics-ot-security/critical-windows-kerberos-bug-microsoft-security-bypass)
 - [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
@@ -83,7 +84,6 @@
 - [Path Traversal Bug Besets Popular Kyocera Office Printers](https://www.darkreading.com/vulnerabilities-threats/path-traversal-bug-kyocera-office-printers)
 - [Ransomware Gang Gives Toronto Zoo the Monkey Business](https://www.darkreading.com/cyberattacks-data-breaches/toronto-zoo-investigates-ransomware-attack-continues-operations)
 - [Turkish Cyber Threat Targets MSSQL Servers With Mimic Ransomware](https://www.darkreading.com/ics-ot-security/turkish-cyber-threat-targets-mssql-servers-mimic-ransomware)
-- [Delinea Acquires Authomize to Strengthen Extended PAM](https://www.darkreading.com/cybersecurity-operations/delinea-acquires-authomize-to-strengthen-extended-pam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
