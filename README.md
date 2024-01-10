@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
 - [Patch Now: Critical Windows Kerberos Bug Bypasses Microsoft Security](https://www.darkreading.com/ics-ot-security/critical-windows-kerberos-bug-microsoft-security-bypass)
+- [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
 - [Hospitality Hackers Target Hotels&#39; Booking.com Logins](https://www.darkreading.com/cyberattacks-data-breaches/hospitality-hackers-target-hotel-booking-com-logins)
 - [Path Traversal Bug Besets Popular Kyocera Office Printers](https://www.darkreading.com/vulnerabilities-threats/path-traversal-bug-kyocera-office-printers)
 - [Ransomware Gang Gives Toronto Zoo the Monkey Business](https://www.darkreading.com/cyberattacks-data-breaches/toronto-zoo-investigates-ransomware-attack-continues-operations)
