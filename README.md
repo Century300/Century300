@@ -79,7 +79,7 @@
 - [Bitcoin Prices Spike After SEC X Account Hack](https://www.darkreading.com/application-security/bitcoin-prices-spike-after-sec-x-account-hack)
 - [Adapting Security to Protect AI/ML Systems](https://www.darkreading.com/vulnerabilities-threats/adapting-security-to-protect-ai-ml-systems)
 - [Has the Investment Bubble Burst in Israeli Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/investment-bubble-burst-israeli-cybersecurity)
-- [Pikabot Malware Surfaces As Qakbot Replacement for Black Basta Attacks](https://www.darkreading.com/cyberattacks-data-breaches/pikabot-malware-qakbot-replacement-black-basta-attacks)
+- [Pikabot Malware Surfaces as Qakbot Replacement for Black Basta Attacks](https://www.darkreading.com/cyberattacks-data-breaches/pikabot-malware-qakbot-replacement-black-basta-attacks)
 - [BEC Gang Conspirator Sentenced to 10 Years in Prison](https://www.darkreading.com/cyberattacks-data-breaches/bec-gang-conspirator-sentenced-to-ten-years-in-prison)
 - [Who Is Behind Pro-Ukrainian Cyberattacks on Iran?](https://www.darkreading.com/cyberattacks-data-breaches/who-is-behind-pro-ukrainian-cyberattacks-iran)
 - [Patch Now: Critical Windows Kerberos Bug Bypasses Microsoft Security](https://www.darkreading.com/ics-ot-security/critical-windows-kerberos-bug-microsoft-security-bypass)
