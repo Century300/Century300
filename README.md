@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Adapting Security to Protect AI/ML Systems](https://www.darkreading.com/vulnerabilities-threats/adapting-security-to-protect-ai-ml-systems)
 - [Has the Investment Bubble Burst in Israeli Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/investment-bubble-burst-israeli-cybersecurity)
 - [Pikabot Malware Surfaces As Qakbot Replacement for Black Basta Attacks](https://www.darkreading.com/cyberattacks-data-breaches/pikabot-malware-qakbot-replacement-black-basta-attacks)
 - [BEC Gang Conspirator Sentenced to 10 Years in Prison](https://www.darkreading.com/cyberattacks-data-breaches/bec-gang-conspirator-sentenced-to-ten-years-in-prison)
@@ -83,7 +84,6 @@
 - [Patch Now: Critical Windows Kerberos Bug Bypasses Microsoft Security](https://www.darkreading.com/ics-ot-security/critical-windows-kerberos-bug-microsoft-security-bypass)
 - [Ukraine Claims Revenge Hack Against Moscow Internet Provider](https://www.darkreading.com/ics-ot-security/ukraine-claims-revenge-hack-against-moscow-internet-provider)
 - [Hospitality Hackers Target Hotels&#39; Booking.com Logins](https://www.darkreading.com/cyberattacks-data-breaches/hospitality-hackers-target-hotel-booking-com-logins)
-- [Path Traversal Bug Besets Popular Kyocera Office Printers](https://www.darkreading.com/vulnerabilities-threats/path-traversal-bug-kyocera-office-printers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
