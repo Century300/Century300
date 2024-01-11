@@ -81,7 +81,7 @@
 - [Orca Security Appoints Raf Chiodo As Chief Revenue Officer](https://www.darkreading.com/cybersecurity-careers/orca-security-appoints-raf-chiodo-as-chief-revenue-officer)
 - [Claroty Welcomes Former US National Cyber Director Chris Inglis to Advisory Board](https://www.darkreading.com/ics-ot-security/claroty-welcomes-former-us-national-cyber-director-chris-inglis-to-advisory-board)
 - [Anonymous Sudan Launches Cyberattack on Chad Telco](https://www.darkreading.com/cyberattacks-data-breaches/anonymous-sudan-launches-cyberattack-on-chad-telco)
-- [Kenyan Issues New Guidance for Protecting Personal Data](https://www.darkreading.com/cyber-risk/kenyan-issues-new-guidance-for-protecting-personal-data)
+- [Kenya Issues New Guidance for Protecting Personal Data](https://www.darkreading.com/cyber-risk/kenyan-issues-new-guidance-for-protecting-personal-data)
 - [Hospitals Must Treat Patient Data and Health With Equal Care](https://www.darkreading.com/cyber-risk/hospitals-must-treat-patient-data-health-equal-care)
 - [War or Cost of Doing Business? Cyber Insurers Hashing Out Exclusions](https://www.darkreading.com/cyber-risk/war-or-not-cyber-insurers-still-hashing-out-exclusion)
 <!-- DARKREADING:END -->
