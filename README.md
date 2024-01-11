@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hospitals Must Treat Patient Data and Health With Equal Care](https://www.darkreading.com/cyber-risk/hospitals-must-treat-patient-data-health-equal-care)
+- [War or Cost of Doing Business? Cyber Insurers Hashing Out Exclusions](https://www.darkreading.com/cyber-risk/war-or-not-cyber-insurers-still-hashing-out-exclusion)
 - [7 Lessons Learned From Designing a DEF CON CTF](https://www.darkreading.com/cloud-security/7-lessons-learned-from-designing-a-defcon-ctf)
 - [Attacker Targets Hadoop YARN, Flint Servers in Stealthy Campaign](https://www.darkreading.com/cyberattacks-data-breaches/attacker-targets-hadoop-yarn-flint-servers-in-stealthy-campaign)
 - [CES 2024: Will the Coolest New AI Gadgets Protect Your Privacy?](https://www.darkreading.com/iot/ces-2024-coolest-ai-gadgets-protect-your-privacy)
 - [New Developer Tools Necessary to Boost Passkey Adoption](https://www.darkreading.com/application-security/new-developer-tools-necessary-passkey-adoption)
 - [Bitcoin Prices Spike After SEC X Account Hack](https://www.darkreading.com/application-security/bitcoin-prices-spike-after-sec-x-account-hack)
 - [Adapting Security to Protect AI/ML Systems](https://www.darkreading.com/vulnerabilities-threats/adapting-security-to-protect-ai-ml-systems)
-- [Has the Investment Bubble Burst in Israeli Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/investment-bubble-burst-israeli-cybersecurity)
-- [Pikabot Malware Surfaces as Qakbot Replacement for Black Basta Attacks](https://www.darkreading.com/cyberattacks-data-breaches/pikabot-malware-qakbot-replacement-black-basta-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
