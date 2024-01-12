@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Your Cybersecurity Budget Is a Horse&#39;s Rear End](https://www.darkreading.com/ics-ot-security/your-cybersecurity-budget-is-horses-rear-end)
 - [Mandiant, SEC Lose Control of X Accounts Without 2FA](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-sec-lose-control-x-accounts-without-2fa)
 - [The Future of IT: Info-Tech LIVE 2024 Conference Announced for September](https://www.darkreading.com/cybersecurity-operations/the-future-of-it-info-tech-live-2024-conference-announced-for-september-)
 - [Taking a Page From Data Scientists for Better Security](https://www.darkreading.com/cloud-security/taking-a-page-from-data-scientists-for-better-security)
@@ -83,7 +84,6 @@
 - [Volt Typhoon Ramps Up Malicious Activity Against Critical Infrastructure](https://www.darkreading.com/cyber-risk/volt-typhoon-ramps-up-malicious-activity-critical-infrastructure)
 - [OpenAI&#39;s New GPT Store May Carry Data Security Risks](https://www.darkreading.com/cyber-risk/openai-new-gpt-store-data-security-risks)
 - [Move Over, APTs: Cybercriminals Now Target Critical Infrastructure Too](https://www.darkreading.com/ics-ot-security/common-cybercriminals-begin-critical-infrastructure-targeting)
-- [Ivanti Researchers Report Two Critical Zero-Day Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-researchers-report-of-two-critical-zero-day-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
