@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Former Secretary of State Mike Pompeo Joins Cyabra Board of Directors](https://www.darkreading.com/application-security/former-secretary-of-state-mike-pompeo-joins-cyabra-board-of-directors)
+- [SEC X Account Hack Draws Senate Outrage](https://www.darkreading.com/cyberattacks-data-breaches/sec-x-account-crypto-hack-draws-senate-ire-)
+- [CISA Adds 9.8 &#39;Critical&#39; Microsoft SharePoint Bug to its KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-critical-microsoft-sharepoint-bug-kev-catalog)
+- [GitLab Releases Updates to Address Critical Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/gitlab-releases-updates-to-address-critical-vulnerabilities-)
 - [Hyundai MEA X Account Hacked, Followed by Crypto Promotion](https://www.darkreading.com/cyberattacks-data-breaches/hyundai-mea-x-account-hacked-spreads-cryptocurrency-promotion)
 - [Cybersecurity Incidents Consistently Increase in UAE](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incidents-consistently-increase-in-uae)
 - [Your Cybersecurity Budget Is a Horse&#39;s Rear End](https://www.darkreading.com/ics-ot-security/your-cybersecurity-budget-is-horses-rear-end)
 - [Mandiant, SEC Lose Control of X Accounts Without 2FA](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-sec-lose-control-x-accounts-without-2fa)
-- [The Future of IT: Info-Tech LIVE 2024 Conference Announced for September](https://www.darkreading.com/cybersecurity-operations/the-future-of-it-info-tech-live-2024-conference-announced-for-september-)
-- [FBI Warns of More Election &#39;Chaos&#39; in 2024](https://www.darkreading.com/cloud-security/fbi-warns-more-election-chaos-in-2024)
-- [Taking a Page From Data Scientists for Better Security](https://www.darkreading.com/cloud-security/taking-a-page-from-data-scientists-for-better-security)
-- [Volt Typhoon Ramps Up Malicious Activity Against Critical Infrastructure](https://www.darkreading.com/cyber-risk/volt-typhoon-ramps-up-malicious-activity-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
