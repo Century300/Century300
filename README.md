@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Mandiant, SEC Lose Control of X Accounts Without 2FA](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-sec-lose-control-x-accounts-without-2fa)
+- [The Future of IT: Info-Tech LIVE 2024 Conference Announced for September](https://www.darkreading.com/cybersecurity-operations/the-future-of-it-info-tech-live-2024-conference-announced-for-september-)
 - [Volt Typhoon Ramps Up Malicious Activity Against Critical Infrastructure](https://www.darkreading.com/cyber-risk/volt-typhoon-ramps-up-malicious-activity-critical-infrastructure)
 - [OpenAI&#39;s New GPT Store May Carry Data Security Risks](https://www.darkreading.com/cyber-risk/openai-new-gpt-store-data-security-risks)
 - [Move Over, APTs: Cybercriminals Now Target Critical Infrastructure Too](https://www.darkreading.com/ics-ot-security/common-cybercriminals-begin-critical-infrastructure-targeting)
 - [Ivanti Researchers Report Two Critical Zero-Day Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-researchers-report-of-two-critical-zero-day-vulnerabilities)
 - [UAE Faces Fresh Plague of Phishing Scams, Poisoned Searches](https://www.darkreading.com/cyberattacks-data-breaches/uae-phishing-scams-poisoned-searches)
 - [Critical Start Implements Cyber Risk Assessments With Peer Benchmarking and Prioritization Engine](https://www.darkreading.com/cyber-risk/critical-start-implements-cyber-risk-assessments-with-peer-benchmarking-and-prioritization-engine-to-help-organizations-improve-security-posture)
-- [Fake Recruiters Defraud Facebook Users via Remote-Work Offers](https://www.darkreading.com/remote-workforce/fake-recruiters-defraud-facebook-users-remote-work-offers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
