@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Cast Adrift](https://www.darkreading.com/ics-ot-security/name-that-toon-cast-adrift)
 - [Former Secretary of State Mike Pompeo Joins Cyabra Board of Directors](https://www.darkreading.com/application-security/former-secretary-of-state-mike-pompeo-joins-cyabra-board-of-directors)
 - [SEC X Account Hack Draws Senate Outrage](https://www.darkreading.com/cyberattacks-data-breaches/sec-x-account-crypto-hack-draws-senate-ire-)
 - [CISA Adds 9.8 &#39;Critical&#39; Microsoft SharePoint Bug to its KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-critical-microsoft-sharepoint-bug-kev-catalog)
@@ -83,7 +84,6 @@
 - [Hyundai MEA X Account Hacked, Followed by Crypto Promotion](https://www.darkreading.com/cyberattacks-data-breaches/hyundai-mea-x-account-hacked-spreads-cryptocurrency-promotion)
 - [Cybersecurity Incidents Consistently Increase in UAE](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incidents-consistently-increase-in-uae)
 - [Your Cybersecurity Budget Is a Horse&#39;s Rear End](https://www.darkreading.com/ics-ot-security/your-cybersecurity-budget-is-horses-rear-end)
-- [Mandiant, SEC Lose Control of X Accounts Without 2FA](https://www.darkreading.com/cyberattacks-data-breaches/mandiant-sec-lose-control-x-accounts-without-2fa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
