@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bosch Smart Thermostat Feels the Heat From Firmware Bug](https://www.darkreading.com/ics-ot-security/bosch-smart-thermostat-firmware-bug)
 - [Patch ASAP: Max-Critical Atlassian Bug Allows Unauthenticated RCE](https://www.darkreading.com/application-security/patch-max-critical-atlassian-bug-unauthenticated-rce)
 - [Africa, Middle East Lead Peers in Cybersecurity, But Lag Globally](https://www.darkreading.com/application-security/africa-middle-east-lead-peers-cybersecurity-lag-globally)
 - [178K+ SonicWall Firewalls Vulnerable to DoS, RCE Attacks](https://www.darkreading.com/vulnerabilities-threats/78k-sonicwall-firewalls-vulnerable-dos-rce-attacks)
@@ -83,7 +84,6 @@
 - [Anti-Ransomware Coalition Bound to Fail Without Key Adjustments](https://www.darkreading.com/vulnerabilities-threats/anti-ransomware-coalition-bound-fail-without-key-adjustments)
 - [Zero Trust, AI, Capital Markets Drive Consolidation in Cloud Security](https://www.darkreading.com/cloud-security/zero-trust-ai-and-capital-markets-drive-consolidation-in-cloud-security)
 - [As Enterprise Cloud Grows, So Do Challenges](https://www.darkreading.com/cloud-security/as-enterprise-cloud-grows-so-do-challenges)
-- [Name That Toon: Cast Adrift](https://www.darkreading.com/ics-ot-security/name-that-toon-cast-adrift)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
