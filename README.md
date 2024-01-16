@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Accenture and SandboxAQ Collaborate to Help Organizations Protect Data](https://www.darkreading.com/application-security/accenture-and-sandboxaq-collaborate-to-help-organizations-protect-data)
+- [Savvy Launches Identity-First Security Offering to Combat Toxic Combinations Driving SaaS Risk](https://www.darkreading.com/cybersecurity-operations/savvy-launches-identity-first-security-offering-to-combat-toxic-combinations-driving-saas-risk)
 - [Ivanti Zero-Day Exploits Skyrocket Worldwide; No Patches Yet](https://www.darkreading.com/cloud-security/ivanti-zero-day-exploits-skyrocket-no-patches)
 - [Bosch Smart Thermostat Feels the Heat From Firmware Bug](https://www.darkreading.com/ics-ot-security/bosch-smart-thermostat-firmware-bug)
 - [Patch ASAP: Max-Critical Atlassian Bug Allows Unauthenticated RCE](https://www.darkreading.com/application-security/patch-max-critical-atlassian-bug-unauthenticated-rce)
-- [Africa, Middle East Lead Peers in Cybersecurity, But Lag Globally](https://www.darkreading.com/application-security/africa-middle-east-lead-peers-cybersecurity-lag-globally)
+- [Africa, Middle East Lead Peers in Cybersecurity, but Lag Globally](https://www.darkreading.com/application-security/africa-middle-east-lead-peers-cybersecurity-lag-globally)
 - [178K+ SonicWall Firewalls Vulnerable to DoS, RCE Attacks](https://www.darkreading.com/vulnerabilities-threats/78k-sonicwall-firewalls-vulnerable-dos-rce-attacks)
 - [UAE Cyber Security Council, Khalifa University Launch Abu Dhabi Academy](https://www.darkreading.com/cybersecurity-operations/uae-cyber-security-council-khalifa-university-launch-academy)
-- [Anti-Ransomware Coalition Bound to Fail Without Key Adjustments](https://www.darkreading.com/vulnerabilities-threats/anti-ransomware-coalition-bound-fail-without-key-adjustments)
-- [Zero Trust, AI, Capital Markets Drive Consolidation in Cloud Security](https://www.darkreading.com/cloud-security/zero-trust-ai-and-capital-markets-drive-consolidation-in-cloud-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
