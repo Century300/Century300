@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anti-Ransomware Coalition Bound to Fail Without Key Adjustments](https://www.darkreading.com/vulnerabilities-threats/anti-ransomware-coalition-bound-fail-without-key-adjustments)
 - [As Enterprise Cloud Grows, So Do Challenges](https://www.darkreading.com/cloud-security/as-enterprise-cloud-grows-so-do-challenges)
 - [Zero Trust, AI, Capital Markets Drive Consolidation in Cloud Security](https://www.darkreading.com/cloud-security/zero-trust-ai-and-capital-markets-drive-consolidation-in-cloud-security)
 - [Name That Toon: Cast Adrift](https://www.darkreading.com/ics-ot-security/name-that-toon-cast-adrift)
@@ -83,7 +84,6 @@
 - [SEC X Account Hack Draws Senate Outrage](https://www.darkreading.com/cyberattacks-data-breaches/sec-x-account-crypto-hack-draws-senate-ire-)
 - [CISA Adds 9.8 &#39;Critical&#39; Microsoft SharePoint Bug to its KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-critical-microsoft-sharepoint-bug-kev-catalog)
 - [GitLab Releases Updates to Address Critical Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/gitlab-releases-updates-to-address-critical-vulnerabilities-)
-- [Hyundai MEA X Account Hacked, Followed by Crypto Promotion](https://www.darkreading.com/cyberattacks-data-breaches/hyundai-mea-x-account-hacked-spreads-cryptocurrency-promotion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
