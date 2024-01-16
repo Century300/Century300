@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Enterprise Cloud Grows, So Do Challenges](https://www.darkreading.com/cloud-security/as-enterprise-cloud-grows-so-do-challenges)
+- [Zero Trust, AI, Capital Markets Drive Consolidation in Cloud Security](https://www.darkreading.com/cloud-security/zero-trust-ai-and-capital-markets-drive-consolidation-in-cloud-security)
 - [Name That Toon: Cast Adrift](https://www.darkreading.com/ics-ot-security/name-that-toon-cast-adrift)
 - [Former Secretary of State Mike Pompeo Joins Cyabra Board of Directors](https://www.darkreading.com/application-security/former-secretary-of-state-mike-pompeo-joins-cyabra-board-of-directors)
 - [SEC X Account Hack Draws Senate Outrage](https://www.darkreading.com/cyberattacks-data-breaches/sec-x-account-crypto-hack-draws-senate-ire-)
 - [CISA Adds 9.8 &#39;Critical&#39; Microsoft SharePoint Bug to its KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-critical-microsoft-sharepoint-bug-kev-catalog)
 - [GitLab Releases Updates to Address Critical Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/gitlab-releases-updates-to-address-critical-vulnerabilities-)
 - [Hyundai MEA X Account Hacked, Followed by Crypto Promotion](https://www.darkreading.com/cyberattacks-data-breaches/hyundai-mea-x-account-hacked-spreads-cryptocurrency-promotion)
-- [Cybersecurity Incidents Consistently Increase in UAE](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incidents-consistently-increase-in-uae)
-- [Your Cybersecurity Budget Is a Horse&#39;s Rear End](https://www.darkreading.com/ics-ot-security/your-cybersecurity-budget-is-horses-rear-end)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
