@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mimecast Announces New CEO](https://www.darkreading.com/cloud-security/mimecast-announces-new-ceo)
+- [Salt Security Delivers API Posture Governance Engine](https://www.darkreading.com/application-security/salt-security-delivers-api-posture-governance-engine)
 - [ESET Launches New Managed Detection and Response &lpar;MDR&rpar; Service for Small and Midsize Businesses](https://www.darkreading.com/cloud-security/eset-launches-new-managed-detection-and-response-mdr-service-for-small-and-midsize-businesses-)
 - [Intel 471 Appoints Technology Veteran, Sonja Tsiridis, Chief Technology Officer](https://www.darkreading.com/cybersecurity-operations/intel-471-appoints-technology-veteran-sonja-tsiridis-chief-technology-officer)
 - [$80M in Crypto Disappears into Drainer-as-a-Service Malware Hell](https://www.darkreading.com/cloud-security/80m-crypto-disappears-drainer-malware-hell)
 - [Google Chrome Zero-Day Bug Under Attack, Allows Code Injection](https://www.darkreading.com/cloud-security/google-chrome-zero-day-bug-attack-code-injection)
 - [Experts Ponder Effectiveness of Official Warnings of Cyber Scams](https://www.darkreading.com/cyberattacks-data-breaches/experts-ponder-effectiveness-official-warnings-cyber-scams)
 - [&#39;Punchmade Dev&#39; Cybercrime Rapper Launches Cash-Scamming Web Shop](https://www.darkreading.com/cybersecurity-operations/punchmade-dev-cybercrime-rapper-launches-fraudulent-web-shop)
-- [CISA: AWS, Microsoft 365 Accounts Under Active &#39;Androxgh0st&#39; Attack](https://www.darkreading.com/cloud-security/cisa-aws-microsoft-365-accounts-androxgh0st-attack)
-- [Q&amp;amp;A: How One Company Gauges Its Employees&#39; Cybersecurity &#39;Fluency&#39;](https://www.darkreading.com/cybersecurity-analytics/q-a-how-one-company-gauges-its-employees-cybersecurity-fluency)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
