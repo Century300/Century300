@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated MacOS Infostealers Get Past Apple&#39;s Built-In Detection](https://www.darkreading.com/endpoint-security/sophisticated-macos-infostealers-apple-built-in-detection)
 - [Nearly 7K WordPress Sites Compromised by Balada Injector](https://www.darkreading.com/application-security/7k-wordpress-sites-compromised-balada-injector)
 - [Strength in Numbers: The Case for Whole-of-State Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/strength-in-numbers-the-case-for-whole-of-state-cybersecurity)
 - [Effective Incident Response Relies on Internal and External Partnerships](https://www.darkreading.com/cybersecurity-operations/effective-incident-response-relies-on-internal-and-external-partnerships)
@@ -83,7 +84,6 @@
 - [Savvy Launches Identity-First Security Offering to Combat Toxic Combinations Driving SaaS Risk](https://www.darkreading.com/cybersecurity-operations/savvy-launches-identity-first-security-offering-to-combat-toxic-combinations-driving-saas-risk)
 - [Snyk Acquires Helios for Runtime Visibility](https://www.darkreading.com/application-security/snyk-acquires-helios-for-runtime-visibility)
 - [Ivanti Zero-Day Exploits Skyrocket Worldwide; No Patches Yet](https://www.darkreading.com/cloud-security/ivanti-zero-day-exploits-skyrocket-no-patches)
-- [Bosch Smart Thermostat Feels the Heat From Firmware Bug](https://www.darkreading.com/ics-ot-security/bosch-smart-thermostat-firmware-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
