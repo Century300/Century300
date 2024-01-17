@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ESET Launches New Managed Detection and Response &lpar;MDR&rpar; Service for Small and Midsize Businesses](https://www.darkreading.com/cloud-security/eset-launches-new-managed-detection-and-response-mdr-service-for-small-and-midsize-businesses-)
+- [Intel 471 Appoints Technology Veteran, Sonja Tsiridis, Chief Technology Officer](https://www.darkreading.com/cybersecurity-operations/intel-471-appoints-technology-veteran-sonja-tsiridis-chief-technology-officer)
+- [$80M in Crypto Disappears into Drainer-as-a-Service Malware Hell](https://www.darkreading.com/cloud-security/80m-crypto-disappears-drainer-malware-hell)
+- [Google Chrome Zero-Day Bug Under Attack, Allows Code Injection](https://www.darkreading.com/cloud-security/google-chrome-zero-day-bug-attack-code-injection)
 - [Experts Ponder Effectiveness of Official Warnings of Cyber Scams](https://www.darkreading.com/cyberattacks-data-breaches/experts-ponder-effectiveness-official-warnings-cyber-scams)
 - [&#39;Punchmade Dev&#39; Cybercrime Rapper Launches Cash-Scamming Web Shop](https://www.darkreading.com/cybersecurity-operations/punchmade-dev-cybercrime-rapper-launches-fraudulent-web-shop)
 - [CISA: AWS, Microsoft 365 Accounts Under Active &#39;Androxgh0st&#39; Attack](https://www.darkreading.com/cloud-security/cisa-aws-microsoft-365-accounts-androxgh0st-attack)
 - [Q&amp;amp;A: How One Company Gauges Its Employees&#39; Cybersecurity &#39;Fluency&#39;](https://www.darkreading.com/cybersecurity-analytics/q-a-how-one-company-gauges-its-employees-cybersecurity-fluency)
-- [Sophisticated MacOS Infostealers Get Past Apple&#39;s Built-In Detection](https://www.darkreading.com/endpoint-security/sophisticated-macos-infostealers-apple-built-in-detection)
-- [Nearly 7K WordPress Sites Compromised by Balada Injector](https://www.darkreading.com/application-security/7k-wordpress-sites-compromised-balada-injector)
-- [Strength in Numbers: The Case for Whole-of-State Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/strength-in-numbers-the-case-for-whole-of-state-cybersecurity)
-- [Effective Incident Response Relies on Internal and External Partnerships](https://www.darkreading.com/cybersecurity-operations/effective-incident-response-relies-on-internal-and-external-partnerships)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
