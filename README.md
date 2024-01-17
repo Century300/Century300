@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Experts Ponder Effectiveness of Official Warnings of Cyber Scams](https://www.darkreading.com/cyberattacks-data-breaches/experts-ponder-effectiveness-official-warnings-cyber-scams)
+- [&#39;Punchmade Dev&#39; Cybercrime Rapper Launches Cash-Scamming Web Shop](https://www.darkreading.com/cybersecurity-operations/punchmade-dev-cybercrime-rapper-launches-fraudulent-web-shop)
 - [CISA: AWS, Microsoft 365 Accounts Under Active &#39;Androxgh0st&#39; Attack](https://www.darkreading.com/cloud-security/cisa-aws-microsoft-365-accounts-androxgh0st-attack)
 - [Q&amp;amp;A: How One Company Gauges Its Employees&#39; Cybersecurity &#39;Fluency&#39;](https://www.darkreading.com/cybersecurity-analytics/q-a-how-one-company-gauges-its-employees-cybersecurity-fluency)
 - [Sophisticated MacOS Infostealers Get Past Apple&#39;s Built-In Detection](https://www.darkreading.com/endpoint-security/sophisticated-macos-infostealers-apple-built-in-detection)
 - [Nearly 7K WordPress Sites Compromised by Balada Injector](https://www.darkreading.com/application-security/7k-wordpress-sites-compromised-balada-injector)
 - [Strength in Numbers: The Case for Whole-of-State Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/strength-in-numbers-the-case-for-whole-of-state-cybersecurity)
 - [Effective Incident Response Relies on Internal and External Partnerships](https://www.darkreading.com/cybersecurity-operations/effective-incident-response-relies-on-internal-and-external-partnerships)
-- [Accenture and SandboxAQ Collaborate to Help Organizations Protect Data](https://www.darkreading.com/application-security/accenture-and-sandboxaq-collaborate-to-help-organizations-protect-data)
-- [Savvy Launches Identity-First Security Offering to Combat Toxic Combinations Driving SaaS Risk](https://www.darkreading.com/cybersecurity-operations/savvy-launches-identity-first-security-offering-to-combat-toxic-combinations-driving-saas-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
