@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Strength in Numbers: The Case for Whole-of-State Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/strength-in-numbers-the-case-for-whole-of-state-cybersecurity)
 - [Effective Incident Response Relies on Internal and External Partnerships](https://www.darkreading.com/cybersecurity-operations/effective-incident-response-relies-on-internal-and-external-partnerships)
 - [Accenture and SandboxAQ Collaborate to Help Organizations Protect Data](https://www.darkreading.com/application-security/accenture-and-sandboxaq-collaborate-to-help-organizations-protect-data)
 - [Savvy Launches Identity-First Security Offering to Combat Toxic Combinations Driving SaaS Risk](https://www.darkreading.com/cybersecurity-operations/savvy-launches-identity-first-security-offering-to-combat-toxic-combinations-driving-saas-risk)
@@ -83,7 +84,6 @@
 - [Ivanti Zero-Day Exploits Skyrocket Worldwide; No Patches Yet](https://www.darkreading.com/cloud-security/ivanti-zero-day-exploits-skyrocket-no-patches)
 - [Bosch Smart Thermostat Feels the Heat From Firmware Bug](https://www.darkreading.com/ics-ot-security/bosch-smart-thermostat-firmware-bug)
 - [Patch ASAP: Max-Critical Atlassian Bug Allows Unauthenticated RCE](https://www.darkreading.com/application-security/patch-max-critical-atlassian-bug-unauthenticated-rce)
-- [Africa, Middle East Lead Peers in Cybersecurity, but Lag Globally](https://www.darkreading.com/application-security/africa-middle-east-lead-peers-cybersecurity-lag-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
