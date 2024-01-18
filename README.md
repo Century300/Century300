@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Team Up for Post-Holiday Phishing Email Surge](https://www.darkreading.com/threat-intelligence/threat-actors-post-holiday-phishing-email-surge)
+- [Citrix Discovers 2 Vulnerabilities, Both Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/citrix-discovers-two-vulnerabilities-both-exploited-in-the-wild)
 - [Cybercrooks Target Docker Containers With Novel Pageview Generator](https://www.darkreading.com/cloud-security/cybercrooks-target-docker-containers-pageview-generator-)
 - [Bangladeshi Elections Come Into DDoS Crosshairs](https://www.darkreading.com/ics-ot-security/bangladeshi-elections-ddos-crosshairs)
 - [With Attacks on the Upswing, Cyber-Insurance Premiums Poised to Rise Too](https://www.darkreading.com/cyber-risk/cyberattacks-rise-likely-ending-insurance-rate-declines)
 - [Stealthy New macOS Backdoor Hides on Chinese Websites](https://www.darkreading.com/vulnerabilities-threats/stealthy-backdoor-found-hiding-in-pirated-macos-apps)
 - [&#39;Chaes&#39; Infostealer Code Contains Hidden Threat Hunter Love Notes](https://www.darkreading.com/threat-intelligence/chaes-infostealer-code-threat-hunter-love-notes)
 - [Building AI That Respects Our Privacy](https://www.darkreading.com/cyber-risk/building-ai-that-respects-our-privacy)
-- [Lock Down the Software Supply Chain With &#39;Secure by Design&#39;](https://www.darkreading.com/application-security/lock-down-the-software-supply-chain-with-secure-by-design)
-- [InfoSec 101: Why Data Loss Prevention is Important to Enterprise Defense](https://www.darkreading.com/endpoint-security/infosec-101-why-data-loss-prevention-important-enterprise-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
