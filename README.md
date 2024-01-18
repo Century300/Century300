@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Building AI That Respects Our Privacy](https://www.darkreading.com/cyber-risk/building-ai-that-respects-our-privacy)
 - [Lock Down the Software Supply Chain With &#39;Secure by Design&#39;](https://www.darkreading.com/application-security/lock-down-the-software-supply-chain-with-secure-by-design)
 - [InfoSec 101: Why Data Loss Prevention is Important to Enterprise Defense](https://www.darkreading.com/endpoint-security/infosec-101-why-data-loss-prevention-important-enterprise-defense)
 - [Mimecast Announces New CEO](https://www.darkreading.com/cloud-security/mimecast-announces-new-ceo)
@@ -83,7 +84,6 @@
 - [ESET Launches New Managed Detection and Response &lpar;MDR&rpar; Service for Small and Midsize Businesses](https://www.darkreading.com/cloud-security/eset-launches-new-managed-detection-and-response-mdr-service-for-small-and-midsize-businesses-)
 - [Intel 471 Appoints Technology Veteran, Sonja Tsiridis, Chief Technology Officer](https://www.darkreading.com/cybersecurity-operations/intel-471-appoints-technology-veteran-sonja-tsiridis-chief-technology-officer)
 - [$80M in Crypto Disappears Into Drainer-as-a-Service Malware Hell](https://www.darkreading.com/cloud-security/80m-crypto-disappears-drainer-malware-hell)
-- [Google Chrome Zero-Day Bug Under Attack, Allows Code Injection](https://www.darkreading.com/cloud-security/google-chrome-zero-day-bug-attack-code-injection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
