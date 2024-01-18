@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Cybercrooks Target Docker Containers With Novel Pageview Generator](https://www.darkreading.com/cloud-security/cybercrooks-target-docker-containers-pageview-generator-)
-- [Bangladeshi Elections Come into DDoS Crosshairs](https://www.darkreading.com/ics-ot-security/bangladeshi-elections-ddos-crosshairs)
+- [Bangladeshi Elections Come Into DDoS Crosshairs](https://www.darkreading.com/ics-ot-security/bangladeshi-elections-ddos-crosshairs)
 - [With Attacks on the Upswing, Cyber-Insurance Premiums Poised to Rise Too](https://www.darkreading.com/cyber-risk/cyberattacks-rise-likely-ending-insurance-rate-declines)
 - [Stealthy New macOS Backdoor Hides on Chinese Websites](https://www.darkreading.com/vulnerabilities-threats/stealthy-backdoor-found-hiding-in-pirated-macos-apps)
 - [&#39;Chaes&#39; Infostealer Code Contains Hidden Threat Hunter Love Notes](https://www.darkreading.com/threat-intelligence/chaes-infostealer-code-threat-hunter-love-notes)
