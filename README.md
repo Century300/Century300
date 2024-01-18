@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [With Attacks on the Upswing, Cyber-Insurance Premiums Poised to Rise Too](https://www.darkreading.com/cyber-risk/cyberattacks-rise-likely-ending-insurance-rate-declines)
 - [Stealthy New macOS Backdoor Hides on Chinese Websites](https://www.darkreading.com/vulnerabilities-threats/stealthy-backdoor-found-hiding-in-pirated-macos-apps)
 - [&#39;Chaes&#39; Infostealer Code Contains Hidden Threat Hunter Love Notes](https://www.darkreading.com/threat-intelligence/chaes-infostealer-code-threat-hunter-love-notes)
 - [Building AI That Respects Our Privacy](https://www.darkreading.com/cyber-risk/building-ai-that-respects-our-privacy)
@@ -83,7 +84,6 @@
 - [InfoSec 101: Why Data Loss Prevention is Important to Enterprise Defense](https://www.darkreading.com/endpoint-security/infosec-101-why-data-loss-prevention-important-enterprise-defense)
 - [Mimecast Announces New CEO](https://www.darkreading.com/cloud-security/mimecast-announces-new-ceo)
 - [Salt Security Delivers API Posture Governance Engine](https://www.darkreading.com/application-security/salt-security-delivers-api-posture-governance-engine)
-- [ESET Launches New Managed Detection and Response &lpar;MDR&rpar; Service for Small and Midsize Businesses](https://www.darkreading.com/cloud-security/eset-launches-new-managed-detection-and-response-mdr-service-for-small-and-midsize-businesses-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
