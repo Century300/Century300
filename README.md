@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top 3 Priorities for CISOs in 2024](https://www.darkreading.com/cybersecurity-operations/top-3-priorities-for-cisos-in-2024)
 - [Ransomware Actor Uses TeamViewer to Gain Initial Access to Networks](https://www.darkreading.com/endpoint-security/ransomware-actor-teamviewer-initial-access-networks)
 - [Massive Data Breach at VF Hits 35M Vans, Retail Customers](https://www.darkreading.com/cyberattacks-data-breaches/massive-data-breach-vf-35m-vans-retail-customers)
 - [Third Ivanti Vulnerability Exploited in the Wild, CISA Reports](https://www.darkreading.com/vulnerabilities-threats/third-ivanti-vulnerability-exploited-in-the-wild-cisa-reports)
@@ -83,7 +84,6 @@
 - [Microsoft: Iran&#39;s Mint Sandstorm APT Blasts Educators, Researchers](https://www.darkreading.com/vulnerabilities-threats/microsoft-iran-mint-sandstorm-apt-blasts-educators-researchers)
 - [Missing the Cybersecurity Mark With the Essential Eight](https://www.darkreading.com/cybersecurity-operations/missing-cybersecurity-mark-with-essential-eight)
 - [iPhone, Android Ambient Light Sensors Allow Stealthy Spying](https://www.darkreading.com/endpoint-security/iphone-android-ambient-light-sensors-stealthy-spying)
-- [CISA&#39;s Road Map: Charting a Course for Trustworthy AI Development](https://www.darkreading.com/vulnerabilities-threats/cisa-s-ai-road-map-charting-a-course-for-trustworthy-ai-development)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
