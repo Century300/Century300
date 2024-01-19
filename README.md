@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Actor Uses TeamViewer to Gain Initial Access to Networks](https://www.darkreading.com/endpoint-security/ransomware-actor-teamviewer-initial-access-networks)
 - [Massive Data Breach at VF Hits 35M Vans, Retail Customers](https://www.darkreading.com/cyberattacks-data-breaches/massive-data-breach-vf-35m-vans-retail-customers)
 - [Third Ivanti Vulnerability Exploited in the Wild, CISA Reports](https://www.darkreading.com/vulnerabilities-threats/third-ivanti-vulnerability-exploited-in-the-wild-cisa-reports)
 - [CISOs Struggle for C-Suite Status Even as Expectations Skyrocket](https://www.darkreading.com/cybersecurity-operations/cisos-struggle-csuite-status-expectations-skyrocket)
@@ -83,7 +84,6 @@
 - [Missing the Cybersecurity Mark With the Essential Eight](https://www.darkreading.com/cybersecurity-operations/missing-cybersecurity-mark-with-essential-eight)
 - [iPhone, Android Ambient Light Sensors Allow Stealthy Spying](https://www.darkreading.com/endpoint-security/iphone-android-ambient-light-sensors-stealthy-spying)
 - [CISA&#39;s Road Map: Charting a Course for Trustworthy AI Development](https://www.darkreading.com/vulnerabilities-threats/cisa-s-ai-road-map-charting-a-course-for-trustworthy-ai-development)
-- [Nigerian Businesses Face Growing Ransomware-as-a-Service Trade](https://www.darkreading.com/cyberattacks-data-breaches/nigerian-businesses-face-growing-ransomware-as-a-service-trade)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
