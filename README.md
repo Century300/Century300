@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Struggle for C-Suite Status Even As Expectations Skyrocket](https://www.darkreading.com/cybersecurity-operations/cisos-struggle-csuite-status-expectations-skyrocket)
 - [Microsoft: Iran&#39;s Mint Sandstorm APT Blasts Educators, Researchers](https://www.darkreading.com/vulnerabilities-threats/microsoft-iran-mint-sandstorm-apt-blasts-educators-researchers)
 - [Missing the Cybersecurity Mark With the Essential Eight](https://www.darkreading.com/cybersecurity-operations/missing-cybersecurity-mark-with-essential-eight)
 - [iPhone, Android Ambient Light Sensors Allow Stealthy Spying](https://www.darkreading.com/endpoint-security/iphone-android-ambient-light-sensors-stealthy-spying)
@@ -83,7 +84,6 @@
 - [Nigerian Businesses Face Growing Ransomware-as-a-Service Trade](https://www.darkreading.com/cyberattacks-data-breaches/nigerian-businesses-face-growing-ransomware-as-a-service-trade)
 - [Google: Russia&#39;s ColdRiver APT Unleashes Custom &#39;Spica&#39; Malware](https://www.darkreading.com/ics-ot-security/russia-coldriver-apt-unleashes-custom-spica-malware)
 - [Threat Actors Team Up for Post-Holiday Phishing Email Surge](https://www.darkreading.com/threat-intelligence/threat-actors-post-holiday-phishing-email-surge)
-- [Citrix Discovers 2 Vulnerabilities, Both Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/citrix-discovers-two-vulnerabilities-both-exploited-in-the-wild)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
