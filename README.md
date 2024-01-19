@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Third Ivanti Vulnerability Exploited in the Wild, CISA Reports](https://www.darkreading.com/vulnerabilities-threats/third-ivanti-vulnerability-exploited-in-the-wild-cisa-reports)
 - [CISOs Struggle for C-Suite Status Even As Expectations Skyrocket](https://www.darkreading.com/cybersecurity-operations/cisos-struggle-csuite-status-expectations-skyrocket)
 - [Microsoft: Iran&#39;s Mint Sandstorm APT Blasts Educators, Researchers](https://www.darkreading.com/vulnerabilities-threats/microsoft-iran-mint-sandstorm-apt-blasts-educators-researchers)
 - [Missing the Cybersecurity Mark With the Essential Eight](https://www.darkreading.com/cybersecurity-operations/missing-cybersecurity-mark-with-essential-eight)
@@ -83,7 +84,6 @@
 - [CISA&#39;s Road Map: Charting a Course for Trustworthy AI Development](https://www.darkreading.com/vulnerabilities-threats/cisa-s-ai-road-map-charting-a-course-for-trustworthy-ai-development)
 - [Nigerian Businesses Face Growing Ransomware-as-a-Service Trade](https://www.darkreading.com/cyberattacks-data-breaches/nigerian-businesses-face-growing-ransomware-as-a-service-trade)
 - [Google: Russia&#39;s ColdRiver APT Unleashes Custom &#39;Spica&#39; Malware](https://www.darkreading.com/ics-ot-security/russia-coldriver-apt-unleashes-custom-spica-malware)
-- [Threat Actors Team Up for Post-Holiday Phishing Email Surge](https://www.darkreading.com/threat-intelligence/threat-actors-post-holiday-phishing-email-surge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
