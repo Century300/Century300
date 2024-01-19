@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nigerian Businesses Face Growing Ransomware-as-a-Service Trade](https://www.darkreading.com/cyberattacks-data-breaches/nigerian-businesses-face-growing-ransomware-as-a-service-trade)
 - [Google: Russia&#39;s ColdRiver APT Unleashes Custom &#39;Spica&#39; Malware](https://www.darkreading.com/ics-ot-security/russia-coldriver-apt-unleashes-custom-spica-malware)
 - [Threat Actors Team Up for Post-Holiday Phishing Email Surge](https://www.darkreading.com/threat-intelligence/threat-actors-post-holiday-phishing-email-surge)
 - [Citrix Discovers 2 Vulnerabilities, Both Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/citrix-discovers-two-vulnerabilities-both-exploited-in-the-wild)
@@ -83,7 +84,6 @@
 - [Bangladeshi Elections Come Into DDoS Crosshairs](https://www.darkreading.com/ics-ot-security/bangladeshi-elections-ddos-crosshairs)
 - [With Attacks on the Upswing, Cyber-Insurance Premiums Poised to Rise Too](https://www.darkreading.com/cyber-risk/cyberattacks-rise-likely-ending-insurance-rate-declines)
 - [Stealthy New macOS Backdoor Hides on Chinese Websites](https://www.darkreading.com/vulnerabilities-threats/stealthy-backdoor-found-hiding-in-pirated-macos-apps)
-- [&#39;Chaes&#39; Infostealer Code Contains Hidden Threat Hunter Love Notes](https://www.darkreading.com/threat-intelligence/chaes-infostealer-code-threat-hunter-love-notes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
