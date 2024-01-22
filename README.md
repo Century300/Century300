@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Israel, Czech Republic Reinforce Cyber Partnership Amid Hamas War](https://www.darkreading.com/cybersecurity-operations/israel-czech-republic-reinforce-cyber-partnership-hamas-war)
 - [Battling Misinformation During Election Season](https://www.darkreading.com/vulnerabilities-threats/battling-misinformation-during-election-season)
 - [Survey Shows a Surge in &lpar;Artificial&rpar; Intelligence](https://www.darkreading.com/cybersecurity-operations/survey-shows-surge-in-artificial-intelligence)
 - [Top 3 Priorities for CISOs in 2024](https://www.darkreading.com/cybersecurity-operations/top-3-priorities-for-cisos-in-2024)
@@ -83,7 +84,6 @@
 - [Massive Data Breach at VF Hits 35M Vans, Retail Customers](https://www.darkreading.com/cyberattacks-data-breaches/massive-data-breach-vf-35m-vans-retail-customers)
 - [Third Ivanti Vulnerability Exploited in the Wild, CISA Reports](https://www.darkreading.com/vulnerabilities-threats/third-ivanti-vulnerability-exploited-in-the-wild-cisa-reports)
 - [CISOs Struggle for C-Suite Status Even as Expectations Skyrocket](https://www.darkreading.com/cybersecurity-operations/cisos-struggle-csuite-status-expectations-skyrocket)
-- [Microsoft: Iran&#39;s Mint Sandstorm APT Blasts Educators, Researchers](https://www.darkreading.com/vulnerabilities-threats/microsoft-iran-mint-sandstorm-apt-blasts-educators-researchers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
