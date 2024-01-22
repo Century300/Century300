@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Falls Victim to Russia-Backed &#39;Midnight Blizzard&#39; Cyberattack](https://www.darkreading.com/threat-intelligence/microsoft-falls-victim-russian-midnight-blizzard-cyberattack)
 - [North Korea&#39;s ScarCruft Attackers Gear Up to Target Cybersecurity Pros](https://www.darkreading.com/threat-intelligence/north-koreasc-arcruft-attackers-target-cybersecurity-pros)
 - [German IT Consultant Fined Thousands for Reporting Security Failing](https://www.darkreading.com/remote-workforce/german-it-consultant-charged-in-court-after-discovering-vulnerability-)
 - [Israel, Czech Republic Reinforce Cyber Partnership Amid Hamas War](https://www.darkreading.com/cybersecurity-operations/israel-czech-republic-reinforce-cyber-partnership-hamas-war)
@@ -83,7 +84,6 @@
 - [Survey Shows a Surge in &lpar;Artificial&rpar; Intelligence](https://www.darkreading.com/cybersecurity-operations/survey-shows-surge-in-artificial-intelligence)
 - [Top 3 Priorities for CISOs in 2024](https://www.darkreading.com/cybersecurity-operations/top-3-priorities-for-cisos-in-2024)
 - [Ransomware Actor Uses TeamViewer to Gain Initial Access to Networks](https://www.darkreading.com/endpoint-security/ransomware-actor-teamviewer-initial-access-networks)
-- [Massive Data Breach at VF Hits 35M Vans, Retail Customers](https://www.darkreading.com/cyberattacks-data-breaches/massive-data-breach-vf-35m-vans-retail-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
