@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Battling Misinformation During Election Season](https://www.darkreading.com/vulnerabilities-threats/battling-misinformation-during-election-season)
 - [Survey Shows a Surge in &lpar;Artificial&rpar; Intelligence](https://www.darkreading.com/cybersecurity-operations/survey-shows-surge-in-artificial-intelligence)
 - [Top 3 Priorities for CISOs in 2024](https://www.darkreading.com/cybersecurity-operations/top-3-priorities-for-cisos-in-2024)
 - [Ransomware Actor Uses TeamViewer to Gain Initial Access to Networks](https://www.darkreading.com/endpoint-security/ransomware-actor-teamviewer-initial-access-networks)
@@ -83,7 +84,6 @@
 - [Third Ivanti Vulnerability Exploited in the Wild, CISA Reports](https://www.darkreading.com/vulnerabilities-threats/third-ivanti-vulnerability-exploited-in-the-wild-cisa-reports)
 - [CISOs Struggle for C-Suite Status Even as Expectations Skyrocket](https://www.darkreading.com/cybersecurity-operations/cisos-struggle-csuite-status-expectations-skyrocket)
 - [Microsoft: Iran&#39;s Mint Sandstorm APT Blasts Educators, Researchers](https://www.darkreading.com/vulnerabilities-threats/microsoft-iran-mint-sandstorm-apt-blasts-educators-researchers)
-- [Missing the Cybersecurity Mark With the Essential Eight](https://www.darkreading.com/cybersecurity-operations/missing-cybersecurity-mark-with-essential-eight)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
