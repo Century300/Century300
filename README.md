@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google-Backed Israeli University Launches Cyber-Analyst Course](https://www.darkreading.com/cybersecurity-operations/google-backed-israeli-university-launches-cyber-analyst-course)
 - [Magecart Adds Middle East Retailers to Long List of Victims](https://www.darkreading.com/vulnerabilities-threats/magecart-adds-middle-east-retailers-to-long-list-of-victims)
 - [Learning From Ukraine&#39;s Pioneering Approaches to Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/learning-ukraines-pioneering-approaches-cybersecurity)
 - [Move Fast and Break the Enterprise With AI](https://www.darkreading.com/cyber-risk/move-fast-and-break-the-enterprise-with-ai)
@@ -83,7 +84,6 @@
 - [AI Program Poised to Advance Cybersecurity in Abu Dhabi](https://www.darkreading.com/application-security/abu-dhabi-forms-ai-council-to-advance-tech-ambitions)
 - [Amy Farrow Joins Infoblox As Chief Information Officer](https://www.darkreading.com/cybersecurity-operations/amy-farrow-joins-infoblox-as-chief-information-officer)
 - [F5 Welcomes Samir Sherif As New Chief Information Security Officer](https://www.darkreading.com/cybersecurity-operations/f5-welcomes-samir-sherif-as-new-chief-information-security-officer)
-- [National Cybersecurity Alliance Announces 2024 Data Privacy Week](https://www.darkreading.com/cyber-risk/national-cybersecurity-alliance-announces-2024-data-privacy-week-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
