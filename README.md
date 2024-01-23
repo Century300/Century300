@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MacOS Malware Targets Bitcoin, Exodus Cryptowallets](https://www.darkreading.com/application-security/macos-malware-targets-bitcoin-exodus-cryptowallets)
+- [Subway Puts a LockBit Investigation on the Menu](https://www.darkreading.com/cyberattacks-data-breaches/subway-lockbit-investigation-on-menu)
 - [SEC Says SIM Swap to Blame for Breached X Account](https://www.darkreading.com/endpoint-security/sec-sim-swap-to-blame-breached-x-account)
 - [Millions at Risk As &#39;Parrot&#39; Web Server Compromises Take Flight](https://www.darkreading.com/endpoint-security/millions-at-risk-parrot-web-server-compromises)
 - [CISA Director Jen Easterly Targeted in Swatting Incident](https://www.darkreading.com/vulnerabilities-threats/cisa-director-jen-easterly-targeted-in-swatting-incident)
 - [Google-Backed Israeli University Launches Cyber-Analyst Course](https://www.darkreading.com/cybersecurity-operations/google-backed-israeli-university-launches-cyber-analyst-course)
 - [Magecart Adds Middle East Retailers to Long List of Victims](https://www.darkreading.com/vulnerabilities-threats/magecart-adds-middle-east-retailers-to-long-list-of-victims)
 - [Learning From Ukraine&#39;s Pioneering Approaches to Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/learning-ukraines-pioneering-approaches-cybersecurity)
-- [Move Fast and Break the Enterprise With AI](https://www.darkreading.com/cyber-risk/move-fast-and-break-the-enterprise-with-ai)
-- [AI Program Poised to Advance Cybersecurity in Abu Dhabi](https://www.darkreading.com/application-security/abu-dhabi-forms-ai-council-to-advance-tech-ambitions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
