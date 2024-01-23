@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amy Farrow Joins Infoblox As Chief Information Officer](https://www.darkreading.com/cybersecurity-operations/amy-farrow-joins-infoblox-as-chief-information-officer)
+- [F5 Welcomes Samir Sherif As New Chief Information Security Officer](https://www.darkreading.com/cybersecurity-operations/f5-welcomes-samir-sherif-as-new-chief-information-security-officer)
+- [National Cybersecurity Alliance Announces 2024 Data Privacy Week](https://www.darkreading.com/cyber-risk/national-cybersecurity-alliance-announces-2024-data-privacy-week-)
 - [Godzilla Web Shell Attacks Stomp on Critical Apache ActiveMQ Flaw](https://www.darkreading.com/threat-intelligence/godzilla-web-shell-attacks-stomp-critical-apache-activemq-flaw)
 - [Chinese Spies Exploited Critical VMware Bug for Nearly 2 Years](https://www.darkreading.com/endpoint-security/chinese-spies-exploited-critical-vmware-bug-2-years)
 - [Microsoft Falls Victim to Russia-Backed &#39;Midnight Blizzard&#39; Cyberattack](https://www.darkreading.com/threat-intelligence/microsoft-falls-victim-russian-midnight-blizzard-cyberattack)
 - [North Korea&#39;s ScarCruft Attackers Gear Up to Target Cybersecurity Pros](https://www.darkreading.com/threat-intelligence/north-koreasc-arcruft-attackers-target-cybersecurity-pros)
 - [German IT Consultant Fined Thousands for Reporting Security Failing](https://www.darkreading.com/remote-workforce/german-it-consultant-charged-in-court-after-discovering-vulnerability-)
-- [Israel, Czech Republic Reinforce Cyber Partnership Amid Hamas War](https://www.darkreading.com/cybersecurity-operations/israel-czech-republic-reinforce-cyber-partnership-hamas-war)
-- [Battling Misinformation During Election Season](https://www.darkreading.com/vulnerabilities-threats/battling-misinformation-during-election-season)
-- [Survey Shows a Surge in &lpar;Artificial&rpar; Intelligence](https://www.darkreading.com/cybersecurity-operations/survey-shows-surge-in-artificial-intelligence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
