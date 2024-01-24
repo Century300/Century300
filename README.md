@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Days After Google, Apple Reveals Exploited Zero-Day in Browser Engine](https://www.darkreading.com/cyberattacks-data-breaches/days-after-google-apple-discloses-actively-exploited-0-day-in-its-browser-engine)
+- [Netskope Announces MSP-Friendly, Enterprise-Grade SASE Tailored for the Midmarket](https://www.darkreading.com/cybersecurity-operations/netskope-announces-msp-friendly-enterprise-grade-sase-tailored-for-the-midmarket-)
 - [US, UK, AU Officials Sanction 33-Year-Old Russian Medibank Hacker](https://www.darkreading.com/cyberattacks-data-breaches/us-uk-au-officials-sanction-russian-medibank-hacker)
 - [MacOS Malware Targets Bitcoin, Exodus Cryptowallets](https://www.darkreading.com/application-security/macos-malware-targets-bitcoin-exodus-cryptowallets)
 - [Apple&#39;s Anti-Theft Security Slows Down iPhone Crooks](https://www.darkreading.com/endpoint-security/apple-adds-device-security-to-protect-from-thieves-)
 - [Subway Puts a LockBit Investigation on the Menu](https://www.darkreading.com/cyberattacks-data-breaches/subway-lockbit-investigation-on-menu)
 - [SEC Says SIM Swap to Blame for Breached X Account](https://www.darkreading.com/endpoint-security/sec-sim-swap-to-blame-breached-x-account)
 - [Millions at Risk As &#39;Parrot&#39; Web Server Compromises Take Flight](https://www.darkreading.com/endpoint-security/millions-at-risk-parrot-web-server-compromises)
-- [CISA Director Jen Easterly Targeted in Swatting Incident](https://www.darkreading.com/vulnerabilities-threats/cisa-director-jen-easterly-targeted-in-swatting-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
