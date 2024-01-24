@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Filling the Cybersecurity Talent Gap](https://www.darkreading.com/cybersecurity-operations/filling-cybersecurity-talent-gap)
 - [Prompt Security Launches With AI Protection for the Enterprise](https://www.darkreading.com/cyber-risk/prompt-security-launches-ai-protection-enterprise)
 - [Researchers Map AI Threat Landscape, Risks](https://www.darkreading.com/cyber-risk/researchers-map-ai-threat-landscape-risks)
 - [Days After Google, Apple Reveals Exploited Zero-Day in Browser Engine](https://www.darkreading.com/cyberattacks-data-breaches/days-after-google-apple-discloses-actively-exploited-0-day-in-its-browser-engine)
@@ -83,7 +84,6 @@
 - [Time to Secure Cloud-Native Apps Is Now](https://www.darkreading.com/cloud-security/time-to-secure-cloud-native-apps-is-now)
 - [US, UK, AU Officials Sanction 33-Year-Old Russian Medibank Hacker](https://www.darkreading.com/cyberattacks-data-breaches/us-uk-au-officials-sanction-russian-medibank-hacker)
 - [MacOS Malware Targets Bitcoin, Exodus Cryptowallets](https://www.darkreading.com/application-security/macos-malware-targets-bitcoin-exodus-cryptowallets)
-- [Apple&#39;s Anti-Theft Security Slows Down iPhone Crooks](https://www.darkreading.com/endpoint-security/apple-adds-device-security-to-protect-from-thieves-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
