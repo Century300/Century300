@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortra Discloses Critical Auth Bypass Vuln in GoAnywhere MFT](https://www.darkreading.com/cyberattacks-data-breaches/fortra-discloses-critical-auth-bypass-vuln-in-goanywhere-mft)
 - [AI Learning Initiative Launches for UAE Women](https://www.darkreading.com/cybersecurity-operations/ai-learning-initiative-launched-uae-women)
 - [Kasseika Ransomware Linked to BlackMatter in BYOVD Attack](https://www.darkreading.com/endpoint-security/kasseika-ransomware-linked-blackmatter-byovd-attack)
 - [Filling the Cybersecurity Talent Gap](https://www.darkreading.com/cybersecurity-operations/filling-cybersecurity-talent-gap)
@@ -83,7 +84,6 @@
 - [Researchers Map AI Threat Landscape, Risks](https://www.darkreading.com/cyber-risk/researchers-map-ai-threat-landscape-risks)
 - [Days After Google, Apple Reveals Exploited Zero-Day in Browser Engine](https://www.darkreading.com/cyberattacks-data-breaches/days-after-google-apple-discloses-actively-exploited-0-day-in-its-browser-engine)
 - [Netskope Announces MSP-Friendly, Enterprise-Grade SASE Tailored for the Midmarket](https://www.darkreading.com/cybersecurity-operations/netskope-announces-msp-friendly-enterprise-grade-sase-tailored-for-the-midmarket-)
-- [Time to Secure Cloud-Native Apps Is Now](https://www.darkreading.com/cloud-security/time-to-secure-cloud-native-apps-is-now)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
