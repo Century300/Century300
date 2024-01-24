@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Learning Initiative Launches for UAE Women](https://www.darkreading.com/cybersecurity-operations/ai-learning-initiative-launched-uae-women)
 - [Kasseika Ransomware Linked to BlackMatter in BYOVD Attack](https://www.darkreading.com/endpoint-security/kasseika-ransomware-linked-blackmatter-byovd-attack)
 - [Filling the Cybersecurity Talent Gap](https://www.darkreading.com/cybersecurity-operations/filling-cybersecurity-talent-gap)
 - [Prompt Security Launches With AI Protection for the Enterprise](https://www.darkreading.com/cyber-risk/prompt-security-launches-ai-protection-enterprise)
@@ -83,7 +84,6 @@
 - [Days After Google, Apple Reveals Exploited Zero-Day in Browser Engine](https://www.darkreading.com/cyberattacks-data-breaches/days-after-google-apple-discloses-actively-exploited-0-day-in-its-browser-engine)
 - [Netskope Announces MSP-Friendly, Enterprise-Grade SASE Tailored for the Midmarket](https://www.darkreading.com/cybersecurity-operations/netskope-announces-msp-friendly-enterprise-grade-sase-tailored-for-the-midmarket-)
 - [Time to Secure Cloud-Native Apps Is Now](https://www.darkreading.com/cloud-security/time-to-secure-cloud-native-apps-is-now)
-- [US, UK, AU Officials Sanction 33-Year-Old Russian Medibank Hacker](https://www.darkreading.com/cyberattacks-data-breaches/us-uk-au-officials-sanction-russian-medibank-hacker)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
