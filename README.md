@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Cybercrime Discussions Spike to Nearly 3K Posts on Dark Web](https://www.darkreading.com/threat-intelligence/dark-web-chatgpt-cybercrime-discussions-spike-nearly-3k-malicious-posts)
 - [CISA&#39;s Water Sector Guide Puts Incident Response Front &amp;amp; Center](https://www.darkreading.com/ics-ot-security/cisa-water-sector-cyber-guide-incident-response)
 - [Jason&#39;s Deli Accounts Compromised by Credential Stuffing](https://www.darkreading.com/cyberattacks-data-breaches/jason-s-deli-accounts-compromised-by-credential-stuffing-)
 - [Fortra Discloses Critical Auth Bypass Vuln in GoAnywhere MFT](https://www.darkreading.com/cyberattacks-data-breaches/fortra-discloses-critical-auth-bypass-vuln-in-goanywhere-mft)
@@ -83,7 +84,6 @@
 - [Kasseika Ransomware Linked to BlackMatter in BYOVD Attack](https://www.darkreading.com/endpoint-security/kasseika-ransomware-linked-blackmatter-byovd-attack)
 - [Filling the Cybersecurity Talent Gap](https://www.darkreading.com/cybersecurity-operations/filling-cybersecurity-talent-gap)
 - [Prompt Security Launches With AI Protection for the Enterprise](https://www.darkreading.com/cyber-risk/prompt-security-launches-ai-protection-enterprise)
-- [Researchers Map AI Threat Landscape, Risks](https://www.darkreading.com/cyber-risk/researchers-map-ai-threat-landscape-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
