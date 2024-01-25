@@ -78,8 +78,8 @@
 <!-- DARKREADING:START -->
 - [Darktrace and Garland Technology Collaborate to Help Businesses Secure Operational Technology Environments](https://www.darkreading.com/cybersecurity-operations/darktrace-and-garland-technology-collaborate-to-help-businesses-secure-operational-technology-environments)
 - [Peters and Braun Introduce Bipartisan Bill to Bolster Government&#39;s Cybersecurity Capabilities](https://www.darkreading.com/ics-ot-security/peters-and-braun-introduce-bipartisan-bill-to-bolster-government-s-cybersecurity-capabilities)
-- [Atlassian Tightens API After Hacker Scrapes 15M Trello Profiles](https://www.darkreading.com/remote-workforce/atlassian-tightens-api-after-hacker-scrapes-15m-trello-profiles)
 - [Managed Ransomware Detect &amp;amp; Respond &lpar;RDR&rpar; Offering From Zyston](https://www.darkreading.com/endpoint-security/managed-ransomware-detect-respond-rdr-offering-from-zyston)
+- [Atlassian Tightens API After Hacker Scrapes 15M Trello Profiles](https://www.darkreading.com/remote-workforce/atlassian-tightens-api-after-hacker-scrapes-15m-trello-profiles)
 - [Nozomi Networks Delivers Multi-Spectrum Wireless Security Sensor for Global OT and IoT Environments](https://www.darkreading.com/ics-ot-security/nozomi-networks-delivers-multi-spectrum-wireless-security-sensor-for-global-ot-and-iot-environments)
 - [ChatGPT Cybercrime Discussions Spike to Nearly 3K Posts on Dark Web](https://www.darkreading.com/threat-intelligence/dark-web-chatgpt-cybercrime-discussions-spike-nearly-3k-malicious-posts)
 - [CISA&#39;s Water Sector Guide Puts Incident Response Front &amp;amp; Center](https://www.darkreading.com/ics-ot-security/cisa-water-sector-cyber-guide-incident-response)
