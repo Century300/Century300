@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
+- [Google Kubernetes Clusters Suffer Widespread Exposure to External Attackers](https://www.darkreading.com/cloud-security/anyone-with-google-account-can-hack-misconfigured-kubernetes-clusters)
 - [Hackers Blast Violent Gaza Message at a Popular Israeli Movie Theater](https://www.darkreading.com/cyberattacks-data-breaches/hackers-blast-violent-gaza-message-popular-israeli-movie-theater)
 - [The CISO Role Undergoes a Major Evolution](https://www.darkreading.com/cybersecurity-operations/ciso-role-undergoes-major-evolution)
 - [Hook Younger Users With Cybersecurity Education Designed for Them](https://www.darkreading.com/endpoint-security/hook-younger-users-with-cybersecurity-education-designed-for-them)
 - [Darktrace and Garland Technology Collaborate to Help Businesses Secure Operational Technology Environments](https://www.darkreading.com/cybersecurity-operations/darktrace-and-garland-technology-collaborate-to-help-businesses-secure-operational-technology-environments)
 - [Peters and Braun Introduce Bipartisan Bill to Bolster Government&#39;s Cybersecurity Capabilities](https://www.darkreading.com/ics-ot-security/peters-and-braun-introduce-bipartisan-bill-to-bolster-government-s-cybersecurity-capabilities)
 - [Atlassian Tightens API After Hacker Scrapes 15M Trello Profiles](https://www.darkreading.com/remote-workforce/atlassian-tightens-api-after-hacker-scrapes-15m-trello-profiles)
-- [Managed Ransomware Detect &amp;amp; Respond &lpar;RDR&rpar; Offering From Zyston](https://www.darkreading.com/endpoint-security/managed-ransomware-detect-respond-rdr-offering-from-zyston)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
