@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
+- [Abu Dhabi Investment Firm Warns About Scam Efforts](https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts)
+- [Protecting Children&#39;s Data Needs to Be a Priority for All](https://www.darkreading.com/cyberattacks-data-breaches/protecting-childrens-data-needs-priority-for-all)
+- [Critical Cisco Unified Communications RCE Bug Allows Root Access](https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access)
+- [&#39;CherryLoader&#39; Malware Allows Serious Privilege Execution](https://www.darkreading.com/endpoint-security/cherryloader-downloader-serious-privilege-execution)
 - [Google Kubernetes Clusters Suffer Widespread Exposure to External Attackers](https://www.darkreading.com/cloud-security/anyone-with-google-account-can-hack-misconfigured-kubernetes-clusters)
 - [Hackers Blast Violent Gaza Message at a Popular Israeli Movie Theater](https://www.darkreading.com/cyberattacks-data-breaches/hackers-blast-violent-gaza-message-popular-israeli-movie-theater)
 - [The CISO Role Undergoes a Major Evolution](https://www.darkreading.com/cybersecurity-operations/ciso-role-undergoes-major-evolution)
-- [Hook Younger Users With Cybersecurity Education Designed for Them](https://www.darkreading.com/endpoint-security/hook-younger-users-with-cybersecurity-education-designed-for-them)
-- [Darktrace and Garland Technology Collaborate to Help Businesses Secure Operational Technology Environments](https://www.darkreading.com/cybersecurity-operations/darktrace-and-garland-technology-collaborate-to-help-businesses-secure-operational-technology-environments)
-- [Peters and Braun Introduce Bipartisan Bill to Bolster Government&#39;s Cybersecurity Capabilities](https://www.darkreading.com/ics-ot-security/peters-and-braun-introduce-bipartisan-bill-to-bolster-government-s-cybersecurity-capabilities)
-- [Atlassian Tightens API After Hacker Scrapes 15M Trello Profiles](https://www.darkreading.com/remote-workforce/atlassian-tightens-api-after-hacker-scrapes-15m-trello-profiles)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
