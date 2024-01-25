@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
+- [Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles](https://www.darkreading.com/ics-ot-security/pwn2own-2024-teslas-hacked-dozens-new-zero-days-evs)
 - [&#39;Midnight Blizzard&#39; Breached HPE Email Months Before Microsoft Hack](https://www.darkreading.com/threat-intelligence/midnight-blizzard-breached-hpe-email-before-microsoft-hack)
 - [Protecting Children&#39;s Data Needs to Be a Priority for All](https://www.darkreading.com/cyberattacks-data-breaches/protecting-childrens-data-needs-priority-for-all)
 - [Critical Cisco Unified Communications RCE Bug Allows Root Access](https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access)
 - [&#39;CherryLoader&#39; Malware Allows Serious Privilege Execution](https://www.darkreading.com/endpoint-security/cherryloader-downloader-serious-privilege-execution)
 - [Abu Dhabi Investment Firm Warns About Scam Efforts](https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts)
 - [Google Kubernetes Clusters Suffer Widespread Exposure to External Attackers](https://www.darkreading.com/cloud-security/anyone-with-google-account-can-hack-misconfigured-kubernetes-clusters)
-- [Hackers Blast Violent Gaza Message at a Popular Israeli Movie Theater](https://www.darkreading.com/cyberattacks-data-breaches/hackers-blast-violent-gaza-message-popular-israeli-movie-theater)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
