@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Airline Gets SASE to Modernize Operations](https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security)
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
 - [Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles](https://www.darkreading.com/ics-ot-security/pwn2own-2024-teslas-hacked-dozens-new-zero-days-evs)
 - [&#39;Midnight Blizzard&#39; Breached HPE Email Months Before Microsoft Hack](https://www.darkreading.com/threat-intelligence/midnight-blizzard-breached-hpe-email-before-microsoft-hack)
@@ -83,7 +84,6 @@
 - [Critical Cisco Unified Communications RCE Bug Allows Root Access](https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access)
 - [&#39;CherryLoader&#39; Malware Allows Serious Privilege Execution](https://www.darkreading.com/endpoint-security/cherryloader-downloader-serious-privilege-execution)
 - [Abu Dhabi Investment Firm Warns About Scam Efforts](https://www.darkreading.com/cyberattacks-data-breaches/abu-dhabi-investment-firm-warns-scam-efforts)
-- [Google Kubernetes Clusters Suffer Widespread Exposure to External Attackers](https://www.darkreading.com/cloud-security/anyone-with-google-account-can-hack-misconfigured-kubernetes-clusters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
