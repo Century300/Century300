@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Newly ID&#39;ed Chinese APT Hides Backdoor in Software Updates](https://www.darkreading.com/application-security/chinese-apt-hides-backdoor-in-software-updates)
+- [Microsoft Shares New Guidance in Wake of &#39;Midnight Blizzard&#39; Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-shares-new-guidance-in-wake-of-midnight-blizzard-cyberattack)
+- [Series of Cyberattacks Hit Ukrainian Critical Infrastructure Organizations](https://www.darkreading.com/cyberattacks-data-breaches/series-of-cyberattacks-hit-ukrainian-critical-infrastructure-organizations)
 - [Saudi Arabia Boosts Railway Cybersecurity](https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership)
 - [Redefining Cybersecurity for a Comprehensive Security Posture](https://www.darkreading.com/vulnerabilities-threats/redefining-cybersecurity-for-a-comprehensive-security-posture)
 - [ICS Ransomware Danger Rages Despite Fewer Attacks](https://www.darkreading.com/ics-ot-security/ics-ransomware-rages-fewer-attacks)
 - [CISO Corner: Deep Dive Into SecOps, Insurance, &amp;amp; CISOs&#39; Evolving Role](https://www.darkreading.com/cybersecurity-operations/ciso-corner-deep-dive-secops-insurance-evolving-role)
 - [Pegasus Spyware Targets Togolese Journalists&#39; Mobile Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices)
-- [Airline Gets SASE to Modernize Operations](https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security)
-- [SecurityScorecard Launches MAX](https://www.darkreading.com/cybersecurity-operations/securityscorecard-launches-max)
-- [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
