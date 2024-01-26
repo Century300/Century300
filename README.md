@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Saudi Arabia Boosts Railway Cybersecurity](https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership)
+- [Redefining Cybersecurity for a Comprehensive Security Posture](https://www.darkreading.com/vulnerabilities-threats/redefining-cybersecurity-for-a-comprehensive-security-posture)
 - [ICS Ransomware Danger Rages Despite Fewer Attacks](https://www.darkreading.com/ics-ot-security/ics-ransomware-rages-fewer-attacks)
-- [Pegasus Spyware Targets Togolese Journalists&#39; Mobile Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices)
 - [CISO Corner: Deep Dive Into SecOps, Insurance, &amp;amp; CISOs&#39; Evolving Role](https://www.darkreading.com/cybersecurity-operations/ciso-corner-deep-dive-secops-insurance-evolving-role)
+- [Pegasus Spyware Targets Togolese Journalists&#39; Mobile Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-togolese-journalists-mobile-devices)
 - [Airline Gets SASE to Modernize Operations](https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security)
 - [SecurityScorecard Launches MAX](https://www.darkreading.com/cybersecurity-operations/securityscorecard-launches-max)
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
-- [Pwn2Own 2024: Tesla Hacks, Dozens of Zero-Days in Electrical Vehicles](https://www.darkreading.com/ics-ot-security/pwn2own-2024-teslas-hacked-dozens-new-zero-days-evs)
-- [&#39;Midnight Blizzard&#39; Breached HPE Email Months Before Microsoft Hack](https://www.darkreading.com/threat-intelligence/midnight-blizzard-breached-hpe-email-before-microsoft-hack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
