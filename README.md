@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Corner: Deep Dive Into SecOps, Insurance, &amp;amp; CISOs&#39; Evolving Role](https://www.darkreading.com/cybersecurity-operations/ciso-corner-deep-dive-secops-insurance-evolving-role)
 - [Airline Gets SASE to Modernize Operations](https://www.darkreading.com/cloud-security/airline-experiments-with-sase-to-improve-overall-security)
 - [SecurityScorecard Launches MAX](https://www.darkreading.com/cybersecurity-operations/securityscorecard-launches-max)
 - [Help Wanted From Convicted Cybercriminals](https://www.darkreading.com/cybersecurity-careers/help-wanted-from-convicted-cybercriminals)
@@ -83,7 +84,6 @@
 - [&#39;Midnight Blizzard&#39; Breached HPE Email Months Before Microsoft Hack](https://www.darkreading.com/threat-intelligence/midnight-blizzard-breached-hpe-email-before-microsoft-hack)
 - [Panorays Study Finds 94% of CISOs Are Concerned About Third-party Cyber Threats, Yet Only 3% Have Implemented Security Measures](https://www.darkreading.com/cyber-risk/panorays-study-finds-94-of-cisos-are-concerned-about-third-party-cyber-threats-yet-only-3-have-implemented-security-measures)
 - [Protecting Children&#39;s Data Needs to Be a Priority for All](https://www.darkreading.com/cyberattacks-data-breaches/protecting-childrens-data-needs-priority-for-all)
-- [Critical Cisco Unified Communications RCE Bug Allows Root Access](https://www.darkreading.com/remote-workforce/critical-cisco-unified-communications-rce-bug-root-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
