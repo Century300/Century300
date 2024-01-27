@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NRC Issues Recommendations for Better Network, Software Security](https://www.darkreading.com/application-security/nrc-issues-recommendations-for-better-network-software-security)
 - [Wyden Releases Documents Confirming the NSA Buys Americans&#39; Internet Browsing Records](https://www.darkreading.com/cyber-risk/wyden-releases-documents-confirming-the-nsa-buys-americans-internet-browsing-records)
 - [Black Kite Unveils Monthly Ransomware Dashboards](https://www.darkreading.com/threat-intelligence/black-kite-unveils-industry-s-first-monthly-ransomware-dashboards)
 - [Newly ID&#39;ed Chinese APT Hides Backdoor in Software Updates](https://www.darkreading.com/application-security/chinese-apt-hides-backdoor-in-software-updates)
@@ -83,7 +84,6 @@
 - [Microsoft Shares New Guidance in Wake of &#39;Midnight Blizzard&#39; Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-shares-new-guidance-in-wake-of-midnight-blizzard-cyberattack)
 - [Series of Cyberattacks Hit Ukrainian Critical Infrastructure Organizations](https://www.darkreading.com/cyberattacks-data-breaches/series-of-cyberattacks-hit-ukrainian-critical-infrastructure-organizations)
 - [Saudi Arabia Boosts Railway Cybersecurity](https://www.darkreading.com/ics-ot-security/saudi-arabia-boosts-railway-cybersecurity-partnership)
-- [Redefining Cybersecurity for a Comprehensive Security Posture](https://www.darkreading.com/vulnerabilities-threats/redefining-cybersecurity-for-a-comprehensive-security-posture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
