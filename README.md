@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Top 3 Data Breaches of 2023, and What Lies Ahead in 2024](https://www.darkreading.com/cyberattacks-data-breaches/top-3-data-breaches-2023-what-lies-ahead-2024)
+- [Israeli Government: Smallest of SMBs Hit Hardest in Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israeli-government-smallest-smbs-hit-hardest-in-cyberattacks)
 - [NRC Issues Recommendations for Better Network, Software Security](https://www.darkreading.com/application-security/nrc-issues-recommendations-for-better-network-software-security)
 - [Wyden Releases Documents Confirming the NSA Buys Americans&#39; Internet Browsing Records](https://www.darkreading.com/cyber-risk/wyden-releases-documents-confirming-the-nsa-buys-americans-internet-browsing-records)
 - [Black Kite Unveils Monthly Ransomware Dashboards](https://www.darkreading.com/threat-intelligence/black-kite-unveils-industry-s-first-monthly-ransomware-dashboards)
-- [Newly ID&#39;ed Chinese APT Hides Backdoor in Software Updates](https://www.darkreading.com/application-security/chinese-apt-hides-backdoor-in-software-updates)
 - [Bastille Raises $44M Series C Investment Led by Goldman Sachs Asset Management](https://www.darkreading.com/threat-intelligence/bastille-raises-44m-series-c-investment-led-by-goldman-sachs-asset-management)
+- [Newly ID&#39;ed Chinese APT Hides Backdoor in Software Updates](https://www.darkreading.com/application-security/chinese-apt-hides-backdoor-in-software-updates)
 - [Microsoft Shares New Guidance in Wake of &#39;Midnight Blizzard&#39; Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-shares-new-guidance-in-wake-of-midnight-blizzard-cyberattack)
-- [Series of Cyberattacks Hit Ukrainian Critical Infrastructure Organizations](https://www.darkreading.com/cyberattacks-data-breaches/series-of-cyberattacks-hit-ukrainian-critical-infrastructure-organizations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
