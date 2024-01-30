@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Cactus&#39; Ransomware Strikes Schneider Electric](https://www.darkreading.com/ics-ot-security/cactus-ransomware-schneider-electric-sustainability-division)
 - [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
 - [Forcepoint Federal Rebrands As Everfox to Reflect New Era of Defense-Grade Cybersecurity](https://www.darkreading.com/cybersecurity-operations/forcepoint-federal-rebrands-as-everfox-to-reflect-new-era-of-defense-grade-cybersecurity)
 - [Cohesity Research Reveals Most Companies Pay Millions in Ransoms](https://www.darkreading.com/cyberattacks-data-breaches/cohesity-research-reveals-most-companies-pay-millions-in-ransoms)
@@ -83,7 +84,6 @@
 - [UAE Government Cyber Chief: We Face 50K Cyberattacks Daily](https://www.darkreading.com/cyber-risk/uae-government-cyber-chief-50k-cyberattacks-daily)
 - [Solving the Cybersecurity Skills Gap With Racial Inclusivity](https://www.darkreading.com/cybersecurity-operations/solving-cybersecurity-skills-gap-racial-inclusivity)
 - [Q&amp;amp;A: How Israeli Cybersecurity Companies Endure Through the Conflict](https://www.darkreading.com/cybersecurity-operations/israeli-cybersecurity-companies-enduring-conflict)
-- [Keenan &amp;amp; Associates Reports Data Breach Exposing Social Security Numbers of More Than 1.5M](https://www.darkreading.com/cyberattacks-data-breaches/keenan-associates-reports-data-breach-exposing-social-security-numbers-of-more-than-1-5m)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
