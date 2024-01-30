@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UAE Government Cyber Chief: We Face 50K Cyberattacks Daily](https://www.darkreading.com/cyber-risk/uae-government-cyber-chief-50k-cyberattacks-daily)
 - [Solving the Cybersecurity Skills Gap With Racial Inclusivity](https://www.darkreading.com/cybersecurity-operations/solving-cybersecurity-skills-gap-racial-inclusivity)
 - [Q&amp;amp;A: How Israeli Cybersecurity Companies Endure Through the Conflict](https://www.darkreading.com/cybersecurity-operations/israeli-cybersecurity-companies-enduring-conflict)
 - [Keenan &amp;amp; Associates Reports Data Breach Exposing Social Security Numbers of More Than 1.5M](https://www.darkreading.com/cyberattacks-data-breaches/keenan-associates-reports-data-breach-exposing-social-security-numbers-of-more-than-1-5m)
@@ -83,7 +84,6 @@
 - [SolarWinds Files Motion to Dismiss SEC Lawsuit](https://www.darkreading.com/cyber-risk/solarwinds-files-motion-to-dismiss-sec-lawsuit)
 - [A Cyber Insurer&#39;s Perspective on How to Avoid Ransomware](https://www.darkreading.com/cyber-risk/cyber-insurer-perspective-how-to-avoid-ransomware)
 - [Iran&#39;s &#39;Cyber Centers&#39; Dodge Sanctions to Sell Cyber Operations](https://www.darkreading.com/vulnerabilities-threats/iran-cyber-centers-dodge-sanctions-sell-cyber-operations)
-- [New Jersey School District Shut Down by Cyberattack](https://www.darkreading.com/vulnerabilities-threats/freehold-township-district-closes-due-to-cyber-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
