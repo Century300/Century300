@@ -79,11 +79,11 @@
 - [Keenan &amp;amp; Associates Reports Data Breach Exposing Social Security Numbers of More Than 1.5M](https://www.darkreading.com/cyberattacks-data-breaches/keenan-associates-reports-data-breach-exposing-social-security-numbers-of-more-than-1-5m)
 - [PoC Exploits Heighten Risks Around Critical New Jenkins Vuln](https://www.darkreading.com/vulnerabilities-threats/poc-exploits-heighten-risks-around-critical-new-jenkins-vuln)
 - [SolarWinds Files Motion to Dismiss SEC Lawsuit](https://www.darkreading.com/cyber-risk/solarwinds-files-motion-to-dismiss-sec-lawsuit)
+- [A Cyber Insurer&#39;s Perspective on How to Avoid Ransomware](https://www.darkreading.com/cyber-risk/cyber-insurer-perspective-how-to-avoid-ransomware)
 - [Iran&#39;s &#39;Cyber Centers&#39; Dodge Sanctions to Sell Cyber Operations](https://www.darkreading.com/vulnerabilities-threats/iran-cyber-centers-dodge-sanctions-sell-cyber-operations)
 - [New Jersey School District Shut Down by Cyberattack](https://www.darkreading.com/vulnerabilities-threats/freehold-township-district-closes-due-to-cyber-incident)
 - [Top 3 Data Breaches of 2023, and What Lies Ahead in 2024](https://www.darkreading.com/cyberattacks-data-breaches/top-3-data-breaches-2023-what-lies-ahead-2024)
 - [Israeli Government: Smallest of SMBs Hit Hardest in Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/israeli-government-smallest-smbs-hit-hardest-in-cyberattacks)
-- [NRC Issues Recommendations for Better Network, Software Security](https://www.darkreading.com/application-security/nrc-issues-recommendations-for-better-network-software-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
