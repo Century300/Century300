@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ivanti Zero-Day Patches Delayed as &#39;KrustyLoader&#39; Attacks Mount](https://www.darkreading.com/endpoint-security/ivanti-zero-day-patches-delayed-krustyloader-attacks-mount)
 - [&#39;Cactus&#39; Ransomware Strikes Schneider Electric](https://www.darkreading.com/ics-ot-security/cactus-ransomware-schneider-electric-sustainability-division)
 - [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
 - [Forcepoint Federal Rebrands As Everfox to Reflect New Era of Defense-Grade Cybersecurity](https://www.darkreading.com/cybersecurity-operations/forcepoint-federal-rebrands-as-everfox-to-reflect-new-era-of-defense-grade-cybersecurity)
@@ -83,7 +84,6 @@
 - [Feds Reportedly Try to Disrupt &#39;Volt Typhoon&#39; Attack Infrastructure](https://www.darkreading.com/cybersecurity-operations/us-govt-reportedly-trying-to-disrupt-volt-typhoon-attack-infrastructure)
 - [UAE Government Cyber Chief: We Face 50K Cyberattacks Daily](https://www.darkreading.com/cyber-risk/uae-government-cyber-chief-50k-cyberattacks-daily)
 - [Solving the Cybersecurity Skills Gap With Racial Inclusivity](https://www.darkreading.com/cybersecurity-operations/solving-cybersecurity-skills-gap-racial-inclusivity)
-- [Q&amp;amp;A: How Israeli Cybersecurity Companies Endure Through the Conflict](https://www.darkreading.com/cybersecurity-operations/israeli-cybersecurity-companies-enduring-conflict)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
