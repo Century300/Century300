@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [More Ivanti VPN Zero-Days Fuel Attack Frenzy as Patches Finally Roll](https://www.darkreading.com/endpoint-security/more-ivanti-vpn-zero-day-bugs-attack-frenzy-patches-rolling)
 - [Looted RIPE Credentials for Sale on the Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/looted-ripe-credentials-for-sale-on-dark-web)
 - [Dubai Cyber Force Names First Accredited Companies](https://www.darkreading.com/cybersecurity-operations/dubai-cyber-force-names-first-accredited-companies)
 - [Recognizing Security as a Strategic Component of Business](https://www.darkreading.com/cyberattacks-data-breaches/recognizing-security-as-strategic-component-business)
@@ -83,7 +84,6 @@
 - [&#39;Cactus&#39; Ransomware Strikes Schneider Electric](https://www.darkreading.com/ics-ot-security/cactus-ransomware-schneider-electric-sustainability-division)
 - [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
 - [Forcepoint Federal Rebrands As Everfox to Reflect New Era of Defense-Grade Cybersecurity](https://www.darkreading.com/cybersecurity-operations/forcepoint-federal-rebrands-as-everfox-to-reflect-new-era-of-defense-grade-cybersecurity)
-- [Cohesity Research Reveals Most Companies Pay Millions in Ransoms](https://www.darkreading.com/cyberattacks-data-breaches/cohesity-research-reveals-most-companies-pay-millions-in-ransoms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
