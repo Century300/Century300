@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Looted RIPE Credentials for Sale on the Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/looted-ripe-credentials-for-sale-on-dark-web)
 - [Dubai Cyber Force Names First Accredited Companies](https://www.darkreading.com/cybersecurity-operations/dubai-cyber-force-names-first-accredited-companies)
 - [Recognizing Security as a Strategic Component of Business](https://www.darkreading.com/cyberattacks-data-breaches/recognizing-security-as-strategic-component-business)
 - [Ivanti Zero-Day Patches Delayed as &#39;KrustyLoader&#39; Attacks Mount](https://www.darkreading.com/endpoint-security/ivanti-zero-day-patches-delayed-krustyloader-attacks-mount)
@@ -83,7 +84,6 @@
 - [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
 - [Forcepoint Federal Rebrands As Everfox to Reflect New Era of Defense-Grade Cybersecurity](https://www.darkreading.com/cybersecurity-operations/forcepoint-federal-rebrands-as-everfox-to-reflect-new-era-of-defense-grade-cybersecurity)
 - [Cohesity Research Reveals Most Companies Pay Millions in Ransoms](https://www.darkreading.com/cyberattacks-data-breaches/cohesity-research-reveals-most-companies-pay-millions-in-ransoms)
-- [Feds Reportedly Try to Disrupt &#39;Volt Typhoon&#39; Attack Infrastructure](https://www.darkreading.com/cybersecurity-operations/us-govt-reportedly-trying-to-disrupt-volt-typhoon-attack-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
