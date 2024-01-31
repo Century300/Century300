@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Recognizing Security as a Strategic Component of Business](https://www.darkreading.com/cyberattacks-data-breaches/recognizing-security-as-strategic-component-business)
 - [Ivanti Zero-Day Patches Delayed as &#39;KrustyLoader&#39; Attacks Mount](https://www.darkreading.com/endpoint-security/ivanti-zero-day-patches-delayed-krustyloader-attacks-mount)
 - [&#39;Cactus&#39; Ransomware Strikes Schneider Electric](https://www.darkreading.com/ics-ot-security/cactus-ransomware-schneider-electric-sustainability-division)
 - [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
@@ -83,7 +84,6 @@
 - [Cohesity Research Reveals Most Companies Pay Millions in Ransoms](https://www.darkreading.com/cyberattacks-data-breaches/cohesity-research-reveals-most-companies-pay-millions-in-ransoms)
 - [Feds Reportedly Try to Disrupt &#39;Volt Typhoon&#39; Attack Infrastructure](https://www.darkreading.com/cybersecurity-operations/us-govt-reportedly-trying-to-disrupt-volt-typhoon-attack-infrastructure)
 - [UAE Government Cyber Chief: We Face 50K Cyberattacks Daily](https://www.darkreading.com/cyber-risk/uae-government-cyber-chief-50k-cyberattacks-daily)
-- [Solving the Cybersecurity Skills Gap With Racial Inclusivity](https://www.darkreading.com/cybersecurity-operations/solving-cybersecurity-skills-gap-racial-inclusivity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
