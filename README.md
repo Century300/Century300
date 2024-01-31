@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Groups Gain Clout With False Attack Claims](https://www.darkreading.com/threat-intelligence/ransomware-groups-gain-clout-fake-attack-claims)
+- [Fulton County Suffers Power Outages as Cyberattack Continues](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-suffers-power-outages-cyberattack)
+- [&#39;Leaky Vessels&#39; Cloud Bugs Allow Container Escapes Globally](https://www.darkreading.com/cloud-security/leaky-vessel-cloud-bugs-container-escapes-globally)
 - [Johnson Controls Ransomware Cleanup Costs Top $27M and Counting](https://www.darkreading.com/ics-ot-security/johnson-controls-ransomware-cleanup-costs-27m)
 - [More Ivanti VPN Zero-Days Fuel Attack Frenzy as Patches Finally Roll](https://www.darkreading.com/endpoint-security/more-ivanti-vpn-zero-day-bugs-attack-frenzy-patches-rolling)
 - [Looted RIPE Credentials for Sale on the Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/looted-ripe-credentials-for-sale-on-dark-web)
 - [Dubai Cyber Force Names First Accredited Companies](https://www.darkreading.com/cybersecurity-operations/dubai-cyber-force-names-first-accredited-companies)
 - [Recognizing Security as a Strategic Component of Business](https://www.darkreading.com/cyberattacks-data-breaches/recognizing-security-as-strategic-component-business)
-- [Ivanti Zero-Day Patches Delayed as &#39;KrustyLoader&#39; Attacks Mount](https://www.darkreading.com/endpoint-security/ivanti-zero-day-patches-delayed-krustyloader-attacks-mount)
-- [&#39;Cactus&#39; Ransomware Strikes Schneider Electric](https://www.darkreading.com/ics-ot-security/cactus-ransomware-schneider-electric-sustainability-division)
-- [Apple Warns iPhone Sideloading Changes Will Increase Cyber Threats](https://www.darkreading.com/endpoint-security/apple-warns-iphone-sideloading-increase-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
