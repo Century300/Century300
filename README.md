@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Delinea Research Reveals that Ransomware Is Back on the Rise As Cybercriminals&#39; Motivation Shifts to Data Exfiltration](https://www.darkreading.com/cyberattacks-data-breaches/delinea-research-reveals-that-ransomware-is-back-on-the-rise-as-cybercriminals-motivation-shifts-to-data-exfiltration)
+- [Feds Confirm Remote Killing of Volt Typhoon&#39;s SOHO Botnet](https://www.darkreading.com/endpoint-security/feds-confirm-remote-killing-volt-typhoon-soho-botnet)
 - [Ukraine Military Targeted With Russian APT PowerShell Attack](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-military-targeted-with-russian-apt-powershell-attack)
 - [China Infiltrates US Critical Infrastructure in Ramp-up to Conflict](https://www.darkreading.com/cyberattacks-data-breaches/china-infiltrates-us-critical-infrastructure-ramp-up-conflict)
 - [FritzFrog Botnet Exploits Log4Shell on Overlooked Internal Hosts](https://www.darkreading.com/threat-intelligence/fritzfrog-botnet-exploits-log4shell-overlooked-internal-hosts)
 - [The Imperative for Robust Security Design in the Health Industry](https://www.darkreading.com/cyberattacks-data-breaches/imperative-robust-security-design-health-industry)
 - [Saudi Arabia Debuts &#39;Generative AI for All&#39; Program](https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program)
 - [CMMC Is the Starting Line, Not the Finish](https://www.darkreading.com/cyberattacks-data-breaches/cmmc-starting-line-not-finish)
-- [3 ISIS Members Slapped With Sanctions From US Treasury](https://www.darkreading.com/cybersecurity-operations/three-isis-members-slapped-sanctions-treasury)
-- [Aim Security Raises $10M to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/endpoint-security/aim-security-raises-10m-to-secure-generative-ai-enterprise-adoption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
