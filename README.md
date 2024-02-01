@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aim Security Raises $10M to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/endpoint-security/aim-security-raises-10m-to-secure-generative-ai-enterprise-adoption)
+- [Kasperskys ICS CERT Predictions for 2024: Ransomware Rampage, Cosmopolitical Hacktivism, and Beyond](https://www.darkreading.com/vulnerabilities-threats/kasperskys-ics-cert-predictions-for-2024-ransomware-rampage-cosmopolitical-hacktivism-and-beyond)
+- [Incognia Secures $31M to Meet Demand for Proactive Approach to Fraud Prevention](https://www.darkreading.com/cyber-risk/incognia-secures-31m-to-meet-demand-for-proactive-approach-to-fraud-prevention)
 - [Ransomware Groups Gain Clout With False Attack Claims](https://www.darkreading.com/threat-intelligence/ransomware-groups-gain-clout-fake-attack-claims)
 - [Fulton County Suffers Power Outages as Cyberattack Continues](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-suffers-power-outages-cyberattack)
 - [&#39;Leaky Vessels&#39; Cloud Bugs Allow Container Escapes Globally](https://www.darkreading.com/cloud-security/leaky-vessel-cloud-bugs-container-escapes-globally)
 - [Johnson Controls Ransomware Cleanup Costs Top $27M and Counting](https://www.darkreading.com/ics-ot-security/johnson-controls-ransomware-cleanup-costs-27m)
 - [More Ivanti VPN Zero-Days Fuel Attack Frenzy as Patches Finally Roll](https://www.darkreading.com/endpoint-security/more-ivanti-vpn-zero-day-bugs-attack-frenzy-patches-rolling)
-- [Looted RIPE Credentials for Sale on the Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/looted-ripe-credentials-for-sale-on-dark-web)
-- [Dubai Cyber Force Names First Accredited Companies](https://www.darkreading.com/cybersecurity-operations/dubai-cyber-force-names-first-accredited-companies)
-- [Recognizing Security as a Strategic Component of Business](https://www.darkreading.com/cyberattacks-data-breaches/recognizing-security-as-strategic-component-business)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
