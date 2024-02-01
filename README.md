@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FritzFrog Botnet Exploits Log4Shell on Overlooked Internal Hosts](https://www.darkreading.com/threat-intelligence/fritzfrog-botnet-exploits-log4shell-overlooked-internal-hosts)
 - [The Imperative for Robust Security Design in the Health Industry](https://www.darkreading.com/cyberattacks-data-breaches/imperative-robust-security-design-health-industry)
 - [Saudi Arabia Debuts &#39;Generative AI for All&#39; Program](https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program)
 - [CMMC Is the Starting Line, Not the Finish](https://www.darkreading.com/cyberattacks-data-breaches/cmmc-starting-line-not-finish)
@@ -83,7 +84,6 @@
 - [Aim Security Raises $10M to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/endpoint-security/aim-security-raises-10m-to-secure-generative-ai-enterprise-adoption)
 - [Kaspersky&#39;s ICS CERT Predictions for 2024: Ransomware Rampage, Cosmopolitical Hacktivism, and Beyond](https://www.darkreading.com/vulnerabilities-threats/kasperskys-ics-cert-predictions-for-2024-ransomware-rampage-cosmopolitical-hacktivism-and-beyond)
 - [Incognia Secures $31M to Meet Demand for Proactive Approach to Fraud Prevention](https://www.darkreading.com/cyber-risk/incognia-secures-31m-to-meet-demand-for-proactive-approach-to-fraud-prevention)
-- [Ransomware Groups Gain Clout With False Attack Claims](https://www.darkreading.com/threat-intelligence/ransomware-groups-gain-clout-fake-attack-claims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
