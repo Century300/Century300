@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Imperative for Robust Security Design in the Health Industry](https://www.darkreading.com/cyberattacks-data-breaches/imperative-robust-security-design-health-industry)
 - [Saudi Arabia Debuts &#39;Generative AI for All&#39; Program](https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program)
 - [CMMC Is the Starting Line, Not the Finish](https://www.darkreading.com/cyberattacks-data-breaches/cmmc-starting-line-not-finish)
 - [3 ISIS Members Slapped With Sanctions From US Treasury](https://www.darkreading.com/cybersecurity-operations/three-isis-members-slapped-sanctions-treasury)
@@ -83,7 +84,6 @@
 - [Kaspersky&#39;s ICS CERT Predictions for 2024: Ransomware Rampage, Cosmopolitical Hacktivism, and Beyond](https://www.darkreading.com/vulnerabilities-threats/kasperskys-ics-cert-predictions-for-2024-ransomware-rampage-cosmopolitical-hacktivism-and-beyond)
 - [Incognia Secures $31M to Meet Demand for Proactive Approach to Fraud Prevention](https://www.darkreading.com/cyber-risk/incognia-secures-31m-to-meet-demand-for-proactive-approach-to-fraud-prevention)
 - [Ransomware Groups Gain Clout With False Attack Claims](https://www.darkreading.com/threat-intelligence/ransomware-groups-gain-clout-fake-attack-claims)
-- [Fulton County Suffers Power Outages as Cyberattack Continues](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-suffers-power-outages-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
