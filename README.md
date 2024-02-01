@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Saudi Arabia Debuts &#39;Generative AI for All&#39; Program](https://www.darkreading.com/application-security/saudi-arabia-debuts-generative-ai-for-all-program)
 - [CMMC Is the Starting Line, Not the Finish](https://www.darkreading.com/cyberattacks-data-breaches/cmmc-starting-line-not-finish)
 - [3 ISIS Members Slapped With Sanctions From US Treasury](https://www.darkreading.com/cybersecurity-operations/three-isis-members-slapped-sanctions-treasury)
 - [Aim Security Raises $10M to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/endpoint-security/aim-security-raises-10m-to-secure-generative-ai-enterprise-adoption)
@@ -83,7 +84,6 @@
 - [Incognia Secures $31M to Meet Demand for Proactive Approach to Fraud Prevention](https://www.darkreading.com/cyber-risk/incognia-secures-31m-to-meet-demand-for-proactive-approach-to-fraud-prevention)
 - [Ransomware Groups Gain Clout With False Attack Claims](https://www.darkreading.com/threat-intelligence/ransomware-groups-gain-clout-fake-attack-claims)
 - [Fulton County Suffers Power Outages as Cyberattack Continues](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-suffers-power-outages-cyberattack)
-- [&#39;Leaky Vessels&#39; Cloud Bugs Allow Container Escapes Globally](https://www.darkreading.com/cloud-security/leaky-vessel-cloud-bugs-container-escapes-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
