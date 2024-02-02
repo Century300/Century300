@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [South African Railways Lost Over $1M in Phishing Scam](https://www.darkreading.com/endpoint-security/south-african-railways-reports-1m-phishing)
 - [Google Play Used to Spread &#39;Patchwork&#39; APT&#39;s Espionage Apps](https://www.darkreading.com/endpoint-security/google-play-spread-patchwork-apt-espionage-apps)
 - [Why Gen Z Is the New Force Reshaping OT Security](https://www.darkreading.com/ics-ot-security/why-genz-new-force-reshaping-ot-security)
 - [Cloudflare Falls Victim to Okta Breach, Atlassian Systems Cracked](https://www.darkreading.com/threat-intelligence/cloudflare-falls-victim-okta-breach-atlassian-systems-cracked)
@@ -83,7 +84,6 @@
 - [ProcessUnity Introduces Industry&#39;s All-In-One Third-Party Risk Management Platform](https://www.darkreading.com/cyber-risk/processunity-introduces-industry-s-all-in-one-third-party-risk-management-platform)
 - [New NCCoE Guide Helps Major Industries Observe Incoming Data While Using Latest Internet Security Protocol](https://www.darkreading.com/application-security/new-nccoe-guide-helps-major-industries-observe-incoming-data-while-using-latest-internet-security-protocol)
 - [Delinea Research Reveals that Ransomware Is Back on the Rise As Cybercriminals&#39; Motivation Shifts to Data Exfiltration](https://www.darkreading.com/cyberattacks-data-breaches/delinea-research-reveals-that-ransomware-is-back-on-the-rise-as-cybercriminals-motivation-shifts-to-data-exfiltration)
-- [Feds Confirm Remote Killing of Volt Typhoon&#39;s SOHO Botnet](https://www.darkreading.com/endpoint-security/feds-confirm-remote-killing-volt-typhoon-soho-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
