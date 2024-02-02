@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Gen Z Is the New Force Reshaping OT Security](https://www.darkreading.com/ics-ot-security/why-genz-new-force-reshaping-ot-security)
 - [Cloudflare Falls Victim to Okta Breach, Atlassian Systems Cracked](https://www.darkreading.com/threat-intelligence/cloudflare-falls-victim-okta-breach-atlassian-systems-cracked)
 - [&#39;Commando Cat&#39; Is Second Campaign of the Year Targeting Docker](https://www.darkreading.com/cyberattacks-data-breaches/commando-cat-campaign-is-second-this-year-to-target-docker)
 - [ProcessUnity Introduces Industry&#39;s All-In-One Third-Party Risk Management Platform](https://www.darkreading.com/cyber-risk/processunity-introduces-industry-s-all-in-one-third-party-risk-management-platform)
@@ -83,7 +84,6 @@
 - [Delinea Research Reveals that Ransomware Is Back on the Rise As Cybercriminals&#39; Motivation Shifts to Data Exfiltration](https://www.darkreading.com/cyberattacks-data-breaches/delinea-research-reveals-that-ransomware-is-back-on-the-rise-as-cybercriminals-motivation-shifts-to-data-exfiltration)
 - [Feds Confirm Remote Killing of Volt Typhoon&#39;s SOHO Botnet](https://www.darkreading.com/endpoint-security/feds-confirm-remote-killing-volt-typhoon-soho-botnet)
 - [CISA Orders Ivanti VPN Appliances Disconnected: What to Do](https://www.darkreading.com/vulnerabilities-threats/cisa-orders-disconnecting-ivanti-vpn-appliances-what-to-do)
-- [Ukraine Military Targeted With Russian APT PowerShell Attack](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-military-targeted-with-russian-apt-powershell-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
