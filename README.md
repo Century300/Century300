@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Forget Deepfakes or Phishing: Prompt Injection is GenAI&#39;s Biggest Problem](https://www.darkreading.com/cyber-risk/forget-deepfakes-or-phishing-prompt-injection-is-genai-s-biggest-problem)
+- [CISO Corner: Gen Z Challenges, CISO Liability &amp;amp; Cathay Pacific Case Study](https://www.darkreading.com/ics-ot-security/ciso-corner-gen-z-challenges-ciso-liability-cathay-pacific)
 - [Myanmar Hands Over Mob Bosses in Cyber-Fraud Bust](https://www.darkreading.com/threat-intelligence/myanmar-hands-over-10-suspects-cyber-fraud-bust)
 - [macOS Malware Campaign Showcases Novel Delivery Technique](https://www.darkreading.com/cyberattacks-data-breaches/macos-malware-campaign-showcases-novel-delivery-technique)
 - [Interpol&#39;s &#39;Synergia&#39; Op Nabs Dozens of Cybercriminals, Zaps Global C2s](https://www.darkreading.com/threat-intelligence/interpol-synergia-dozens-cybercriminals-zaps-global-c2s)
 - [South African Railways Lost Over $1M in Phishing Scam](https://www.darkreading.com/endpoint-security/south-african-railways-reports-1m-phishing)
 - [Google Play Used to Spread &#39;Patchwork&#39; APT&#39;s Espionage Apps](https://www.darkreading.com/endpoint-security/google-play-spread-patchwork-apt-espionage-apps)
 - [Why Gen Z Is the New Force Reshaping OT Security](https://www.darkreading.com/ics-ot-security/why-genz-new-force-reshaping-ot-security)
-- [Cloudflare Falls Victim to Okta Breach, Atlassian Systems Cracked](https://www.darkreading.com/threat-intelligence/cloudflare-falls-victim-okta-breach-atlassian-systems-cracked)
-- [&#39;Commando Cat&#39; Is Second Campaign of the Year Targeting Docker](https://www.darkreading.com/cyberattacks-data-breaches/commando-cat-campaign-is-second-this-year-to-target-docker)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
