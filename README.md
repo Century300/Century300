@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
+- [Deepfake-Generating Apps Explode, Allowing Multimillion-Dollar Corporate Heists](https://www.darkreading.com/threat-intelligence/deepfake-apps-explode-multimillion-dollar-corporate-heists)
 - [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
 - [Pegasus Spyware Targets Jordanian Civil Society in Wide-Ranging Attacks](https://www.darkreading.com/vulnerabilities-threats/pegasus-spyware-targets-jordanian-civil-society)
 - [Nigerian President Dismisses Nation&#39;s &#39;Cybercrime Haven&#39; Image](https://www.darkreading.com/endpoint-security/nigerian-president-dismisses-cybercrime-haven-image)
 - [Name That Edge Toon: The Great Escape](https://www.darkreading.com/endpoint-security/name-that-edge-toon-the-great-escape)
 - [Teens Committing Scary Cybercrimes: What&#39;s Behind the Trend?](https://www.darkreading.com/threat-intelligence/teens-committing-scary-cybercrimes-trend)
 - [How the SEC&#39;s Rules on Cybersecurity Incident Disclosure Are Exploited](https://www.darkreading.com/vulnerabilities-threats/how-secs-rules-cybersecurity-incident-disclosure-are-exploited)
-- [African Cybersecurity: Facing 2024&#39;s Biggest Hurdles](https://www.darkreading.com/cybersecurity-operations/africa-cybersecurity-facing-2024-biggest-hurdles)
-- [Forget Deepfakes or Phishing: Prompt Injection is GenAI&#39;s Biggest Problem](https://www.darkreading.com/cyber-risk/forget-deepfakes-or-phishing-prompt-injection-is-genai-s-biggest-problem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
