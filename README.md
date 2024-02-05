@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
 - [Pegasus Spyware Targets Jordanian Civil Society in Wide-Ranging Attacks](https://www.darkreading.com/vulnerabilities-threats/pegasus-spyware-targets-jordanian-civil-society)
 - [Nigerian President Dismisses Nation&#39;s &#39;Cybercrime Haven&#39; Image](https://www.darkreading.com/endpoint-security/nigerian-president-dismisses-cybercrime-haven-image)
 - [Name That Edge Toon: The Great Escape](https://www.darkreading.com/endpoint-security/name-that-edge-toon-the-great-escape)
@@ -83,7 +84,6 @@
 - [How the SEC&#39;s Rules on Cybersecurity Incident Disclosure Are Exploited](https://www.darkreading.com/vulnerabilities-threats/how-secs-rules-cybersecurity-incident-disclosure-are-exploited)
 - [African Cybersecurity: Facing 2024&#39;s Biggest Hurdles](https://www.darkreading.com/cybersecurity-operations/africa-cybersecurity-facing-2024-biggest-hurdles)
 - [Forget Deepfakes or Phishing: Prompt Injection is GenAI&#39;s Biggest Problem](https://www.darkreading.com/cyber-risk/forget-deepfakes-or-phishing-prompt-injection-is-genai-s-biggest-problem)
-- [CISO Corner: Gen Z Challenges, CISO Liability &amp;amp; Cathay Pacific Case Study](https://www.darkreading.com/ics-ot-security/ciso-corner-gen-z-challenges-ciso-liability-cathay-pacific)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
