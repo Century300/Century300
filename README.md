@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Azure HDInsight Bugs Expose Big Data to Breaches](https://www.darkreading.com/cloud-security/microsoft-azure-hdinsight-bugs-expose-big-data-to-breaches)
 - [Google: Govs Drive Sharp Growth of Commercial Spyware Cos](https://www.darkreading.com/threat-intelligence/govts-are-driving-sharp-growth-in-commercial-spyware-industry-google-warns)
 - [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
 - [Deepfake-Generating Apps Explode, Allowing Multimillion-Dollar Corporate Heists](https://www.darkreading.com/threat-intelligence/deepfake-apps-explode-multimillion-dollar-corporate-heists)
 - [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
 - [Pegasus Spyware Targets Jordanian Civil Society in Wide-Ranging Attacks](https://www.darkreading.com/vulnerabilities-threats/pegasus-spyware-targets-jordanian-civil-society)
+- [Google Open Sources AI-Boosted Fuzzing Framework](https://www.darkreading.com/application-security/google-open-sources-ai-boosted-fuzzing-framework)
 - [Nigerian President Dismisses Nation&#39;s &#39;Cybercrime Haven&#39; Image](https://www.darkreading.com/endpoint-security/nigerian-president-dismisses-cybercrime-haven-image)
-- [Name That Edge Toon: The Great Escape](https://www.darkreading.com/endpoint-security/name-that-edge-toon-the-great-escape)
-- [Teens Committing Scary Cybercrimes: What&#39;s Behind the Trend?](https://www.darkreading.com/threat-intelligence/teens-committing-scary-cybercrimes-trend)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
