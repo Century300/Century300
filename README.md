@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google: Govs Drive Sharp Growth of Commercial Spyware Cos](https://www.darkreading.com/threat-intelligence/govts-are-driving-sharp-growth-in-commercial-spyware-industry-google-warns)
 - [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
 - [Deepfake-Generating Apps Explode, Allowing Multimillion-Dollar Corporate Heists](https://www.darkreading.com/threat-intelligence/deepfake-apps-explode-multimillion-dollar-corporate-heists)
 - [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
@@ -83,7 +84,6 @@
 - [Nigerian President Dismisses Nation&#39;s &#39;Cybercrime Haven&#39; Image](https://www.darkreading.com/endpoint-security/nigerian-president-dismisses-cybercrime-haven-image)
 - [Name That Edge Toon: The Great Escape](https://www.darkreading.com/endpoint-security/name-that-edge-toon-the-great-escape)
 - [Teens Committing Scary Cybercrimes: What&#39;s Behind the Trend?](https://www.darkreading.com/threat-intelligence/teens-committing-scary-cybercrimes-trend)
-- [How the SEC&#39;s Rules on Cybersecurity Incident Disclosure Are Exploited](https://www.darkreading.com/vulnerabilities-threats/how-secs-rules-cybersecurity-incident-disclosure-are-exploited)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
