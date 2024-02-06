@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Check Point CEO to Step Down After 3 Decades](https://www.darkreading.com/endpoint-security/check-point-ceo-announces-intention-stand-down)
 - [Nigerian University Rolls Out Cybersecurity Degree Program](https://www.darkreading.com/cybersecurity-operations/nigerian-university-rolls-cybersecurity-degree-program)
 - [How Neurodiversity Can Help Fill the Cybersecurity Workforce Shortage](https://www.darkreading.com/cybersecurity-operations/how-neurodiversity-can-help-cybersecurity-workforce-shortage)
 - [Automate Routine Operational Workflows With Generative AI](https://www.darkreading.com/cybersecurity-operations/automate-routine-operational-workflows-with-generative-ai)
@@ -83,7 +84,6 @@
 - [Google: Govs Drive Sharp Growth of Commercial Spyware Cos](https://www.darkreading.com/threat-intelligence/govts-are-driving-sharp-growth-in-commercial-spyware-industry-google-warns)
 - [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
 - [Deepfake-Generating Apps Explode, Allowing Multimillion-Dollar Corporate Heists](https://www.darkreading.com/threat-intelligence/deepfake-apps-explode-multimillion-dollar-corporate-heists)
-- [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
