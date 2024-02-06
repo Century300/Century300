@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Adds New Security and AI Capabilities in Next Step Toward Cisco Networking Cloud Vision](https://www.darkreading.com/cloud-security/cisco-adds-new-security-and-ai-capabilities-in-next-step-toward-cisco-networking-cloud-vision)
+- [Akamai Announces Content Protector to Stop Scraping Attacks](https://www.darkreading.com/application-security/akamai-announces-content-protector-to-stop-scraping-attacks)
+- [Critical Bugs in Canon Small Office Printers Allow Code Execution, DDoS](https://www.darkreading.com/endpoint-security/critical-bugs-canon-small-office-printers-code-execution-ddos)
+- [Verizon Employee Data Exposed in Insider Threat Incident](https://www.darkreading.com/remote-workforce/verizon-employee-data-exposed-insider-threat-incident)
+- [IONIX ​​Completes $42M Financing Round to Expand Threat Exposure Management Across the Entire Attack Surface](https://www.darkreading.com/cyber-risk/ionix-completes-42m-financing-round-to-expand-threat-exposure-management-across-the-entire-attack-surface)
+- [Post-Quantum Cryptography Alliance Launches to Advance Post-Quantum Cryptography](https://www.darkreading.com/application-security/post-quantum-cryptography-alliance-launches-to-advance-post-quantum-cryptography)
 - [World Govs, Tech Giants Sign Spyware Responsibility Pledge](https://www.darkreading.com/endpoint-security/world-govs-sign-spyware-responsibility-pledge)
 - [Twin Max-Severity Bugs Open Fortinet&#39;s SIEM to Code Execution](https://www.darkreading.com/vulnerabilities-threats/fortinet-fortisiem-hit-with-twin-max-severity-bugs)
-- [Crucial Airline Flight Planning App Open to Interception Risks](https://www.darkreading.com/ics-ot-security/crucial-airline-flight-planning-app-interception-risks)
-- [&#39;ResumeLooters&#39; Attackers Steal Millions of Career Records](https://www.darkreading.com/remote-workforce/-resumelooters-attackers-steal-millions-career-records)
-- [UAE Cybersecurity Official Warns of VPN Abuse](https://www.darkreading.com/mobile-security/uae-cybersecurity-official-warns-of-vpn-abuse)
-- [Check Point CEO to Step Down After 3 Decades](https://www.darkreading.com/endpoint-security/check-point-ceo-announces-intention-stand-down)
-- [Nigerian University Rolls Out Cybersecurity Degree Program](https://www.darkreading.com/cybersecurity-operations/nigerian-university-rolls-cybersecurity-degree-program)
-- [How Neurodiversity Can Help Fill the Cybersecurity Workforce Shortage](https://www.darkreading.com/cybersecurity-operations/how-neurodiversity-can-help-cybersecurity-workforce-shortage)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
