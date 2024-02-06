@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [World Govs, Tech Giants Sign Spyware Responsibility Pledge](https://www.darkreading.com/endpoint-security/world-govs-sign-spyware-responsibility-pledge)
 - [Twin Max-Severity Bugs Open Fortinet&#39;s SIEM to Code Execution](https://www.darkreading.com/vulnerabilities-threats/fortinet-fortisiem-hit-with-twin-max-severity-bugs)
 - [Crucial Airline Flight Planning App Open to Interception Risks](https://www.darkreading.com/ics-ot-security/crucial-airline-flight-planning-app-interception-risks)
 - [&#39;ResumeLooters&#39; Attackers Steal Millions of Career Records](https://www.darkreading.com/remote-workforce/-resumelooters-attackers-steal-millions-career-records)
@@ -83,7 +84,6 @@
 - [Check Point CEO to Step Down After 3 Decades](https://www.darkreading.com/endpoint-security/check-point-ceo-announces-intention-stand-down)
 - [Nigerian University Rolls Out Cybersecurity Degree Program](https://www.darkreading.com/cybersecurity-operations/nigerian-university-rolls-cybersecurity-degree-program)
 - [How Neurodiversity Can Help Fill the Cybersecurity Workforce Shortage](https://www.darkreading.com/cybersecurity-operations/how-neurodiversity-can-help-cybersecurity-workforce-shortage)
-- [Automate Routine Operational Workflows With Generative AI](https://www.darkreading.com/cybersecurity-operations/automate-routine-operational-workflows-with-generative-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
