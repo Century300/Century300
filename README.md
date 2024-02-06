@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;ResumeLooters&#39; Attackers Steal Millions of Career Records](https://www.darkreading.com/remote-workforce/-resumelooters-attackers-steal-millions-career-records)
 - [UAE Cybersecurity Official Warns of VPN Abuse](https://www.darkreading.com/mobile-security/uae-cybersecurity-official-warns-of-vpn-abuse)
 - [Check Point CEO to Step Down After 3 Decades](https://www.darkreading.com/endpoint-security/check-point-ceo-announces-intention-stand-down)
 - [Nigerian University Rolls Out Cybersecurity Degree Program](https://www.darkreading.com/cybersecurity-operations/nigerian-university-rolls-cybersecurity-degree-program)
@@ -83,7 +84,6 @@
 - [Automate Routine Operational Workflows With Generative AI](https://www.darkreading.com/cybersecurity-operations/automate-routine-operational-workflows-with-generative-ai)
 - [Microsoft Azure HDInsight Bugs Expose Big Data to Breaches](https://www.darkreading.com/cloud-security/microsoft-azure-hdinsight-bugs-expose-big-data-to-breaches)
 - [Google: Govs Drive Sharp Growth of Commercial Spyware Cos](https://www.darkreading.com/threat-intelligence/govts-are-driving-sharp-growth-in-commercial-spyware-industry-google-warns)
-- [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
