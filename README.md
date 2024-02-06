@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nigerian University Rolls Out Cybersecurity Degree Program](https://www.darkreading.com/cybersecurity-operations/nigerian-university-rolls-cybersecurity-degree-program)
 - [How Neurodiversity Can Help Fill the Cybersecurity Workforce Shortage](https://www.darkreading.com/cybersecurity-operations/how-neurodiversity-can-help-cybersecurity-workforce-shortage)
 - [Automate Routine Operational Workflows With Generative AI](https://www.darkreading.com/cybersecurity-operations/automate-routine-operational-workflows-with-generative-ai)
 - [Microsoft Azure HDInsight Bugs Expose Big Data to Breaches](https://www.darkreading.com/cloud-security/microsoft-azure-hdinsight-bugs-expose-big-data-to-breaches)
@@ -83,7 +84,6 @@
 - [Fresh &#39;Mispadu Stealer&#39; Variant Emerges](https://www.darkreading.com/endpoint-security/fresh-mispadu-stealer-variant-emerges)
 - [Deepfake-Generating Apps Explode, Allowing Multimillion-Dollar Corporate Heists](https://www.darkreading.com/threat-intelligence/deepfake-apps-explode-multimillion-dollar-corporate-heists)
 - [AnyDesk Compromised, Passwords Revoked](https://www.darkreading.com/endpoint-security/anydesk-compromised-passwords-revoked)
-- [Pegasus Spyware Targets Jordanian Civil Society in Wide-Ranging Attacks](https://www.darkreading.com/vulnerabilities-threats/pegasus-spyware-targets-jordanian-civil-society)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
