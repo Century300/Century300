@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Patch Now: Critical TeamCity Bug Allows for Server Takeovers](https://www.darkreading.com/vulnerabilities-threats/patch-critical-teamcity-bug-server-takeover)
-- [Q&amp;amp;A: Tel Aviv Railway Project Bakes in Cyber Defenses](https://www.darkreading.com/ics-ot-security/tel-aviv-railway-project-bakes-in-cyber-defenses)
+- [Q&amp;amp;A: Tel Aviv Railway Project Bakes In Cyber Defenses](https://www.darkreading.com/ics-ot-security/tel-aviv-railway-project-bakes-in-cyber-defenses)
 - [UAE Banks Conduct Cyber War Games Exercise](https://www.darkreading.com/cybersecurity-operations/uae-banks-conduct-cyber-war-games-exercise)
 - [How to Prepare for Elevated Cybersecurity Risk at the Super Bowl](https://www.darkreading.com/threat-intelligence/how-to-prepare-elevated-cybersecurity-risk-super-bowl)
 - [Microsoft Adds Face Check to Entra Verified ID](https://www.darkreading.com/identity-access-management-security/microsoft-adds-face-check-to-entra-verified-id)
