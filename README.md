@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UAE Banks Conduct Cyber War Games Exercise](https://www.darkreading.com/cybersecurity-operations/uae-banks-conduct-cyber-war-games-exercise)
+- [How to Prepare for Elevated Cybersecurity Risk at the Super Bowl](https://www.darkreading.com/threat-intelligence/how-to-prepare-elevated-cybersecurity-risk-super-bowl)
 - [Microsoft Adds Face Check to Entra Verified ID](https://www.darkreading.com/identity-access-management-security/microsoft-adds-face-check-to-entra-verified-id)
 - [As Smart Cities Expand, So Do the Threats](https://www.darkreading.com/ics-ot-security/smart-city-ecosystems-face-cybersecurity-shortfall-as-urban-populations-grow)
 - [Cisco Adds New Security and AI Capabilities in Next Step Toward Cisco Networking Cloud Vision](https://www.darkreading.com/cloud-security/cisco-adds-new-security-and-ai-capabilities-in-next-step-toward-cisco-networking-cloud-vision)
 - [Akamai Announces Content Protector to Stop Scraping Attacks](https://www.darkreading.com/application-security/akamai-announces-content-protector-to-stop-scraping-attacks)
 - [Critical Bugs in Canon Small Office Printers Allow Code Execution, DDoS](https://www.darkreading.com/endpoint-security/critical-bugs-canon-small-office-printers-code-execution-ddos)
 - [Verizon Employee Data Exposed in Insider Threat Incident](https://www.darkreading.com/remote-workforce/verizon-employee-data-exposed-insider-threat-incident)
-- [IONIX ​​Completes $42M Financing Round to Expand Threat Exposure Management Across the Entire Attack Surface](https://www.darkreading.com/cyber-risk/ionix-completes-42m-financing-round-to-expand-threat-exposure-management-across-the-entire-attack-surface)
-- [Post-Quantum Cryptography Alliance Launches to Advance Post-Quantum Cryptography](https://www.darkreading.com/application-security/post-quantum-cryptography-alliance-launches-to-advance-post-quantum-cryptography)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
