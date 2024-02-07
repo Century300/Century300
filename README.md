@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Distros Hit By RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
 - [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
 - [New Report From Flare Highlights Pervasive Threat of Initial Access Brokers in NATO Countries](https://www.darkreading.com/threat-intelligence/new-report-from-flare-highlights-pervasive-threat-of-initial-access-brokers-in-nato-countries)
 - [Patch Now: Critical TeamCity Bug Allows for Server Takeovers](https://www.darkreading.com/vulnerabilities-threats/patch-critical-teamcity-bug-server-takeover)
@@ -83,7 +84,6 @@
 - [UAE Banks Conduct Cyber War Games Exercise](https://www.darkreading.com/cybersecurity-operations/uae-banks-conduct-cyber-war-games-exercise)
 - [How to Prepare for Elevated Cybersecurity Risk at the Super Bowl](https://www.darkreading.com/threat-intelligence/how-to-prepare-elevated-cybersecurity-risk-super-bowl)
 - [Microsoft Adds Face Check to Entra Verified ID](https://www.darkreading.com/identity-access-management-security/microsoft-adds-face-check-to-entra-verified-id)
-- [As Smart Cities Expand, So Do the Threats](https://www.darkreading.com/ics-ot-security/smart-city-ecosystems-face-cybersecurity-shortfall-as-urban-populations-grow)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
