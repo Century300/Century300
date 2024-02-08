@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IoT Networks Face Advancing Adversaries, Bug Barrage](https://www.darkreading.com/iot/iot-networks-face-bug-barrage-advancing-adversaries)
 - [China&#39;s Cyberattackers Maneuver to Disrupt US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/china-cyberattackers-disrupt-us-critical-infrastructure)
 - [Linux Distros Hit by RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
 - [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
@@ -83,7 +84,6 @@
 - [Patch Now: Critical TeamCity Bug Allows for Server Takeovers](https://www.darkreading.com/vulnerabilities-threats/patch-critical-teamcity-bug-server-takeover)
 - [Q&amp;amp;A: Tel Aviv Railway Project Bakes In Cyber Defenses](https://www.darkreading.com/ics-ot-security/tel-aviv-railway-project-bakes-in-cyber-defenses)
 - [UAE Banks Conduct Cyber War Games Exercise](https://www.darkreading.com/cybersecurity-operations/uae-banks-conduct-cyber-war-games-exercise)
-- [How to Prepare for Elevated Cybersecurity Risk at the Super Bowl](https://www.darkreading.com/threat-intelligence/how-to-prepare-elevated-cybersecurity-risk-super-bowl)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
