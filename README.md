@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 AI Priorities to Stay Competitive](https://www.darkreading.com/vulnerabilities-threats/5-ai-priorities-to-stay-competitive)
+- [LastPass Warns on Password App Discovered in Apple App Store](https://www.darkreading.com/endpoint-security/lastpass-warns-password-app-apple-app-store)
+- [Super Bowl LVIII Presents a Vast Attack Surface for Threat Actors](https://www.darkreading.com/ics-ot-security/super-bowl-lviii-vast-attack-surface-threat-actors)
+- [Iran-Israel Cyber War Goes Global](https://www.darkreading.com/ics-ot-security/iran-israel-cyber-war-goes-global)
 - [&#39;Ov3r_Stealer&#39; Malware Spreads Through Facebook to Steal Crates of Info](https://www.darkreading.com/endpoint-security/novel-ov3r_stealer-spreads-facebook-steal-info)
 - [Pakistan Invests $36M in National Cybersecurity](https://www.darkreading.com/cybersecurity-operations/pakistan-invests-36-million-in-national-cybersecurity)
 - [How Hospitals Can Help Improve Medical Device Data Security](https://www.darkreading.com/vulnerabilities-threats/how-hospitals-can-help-improve-medical-device-data-security)
 - [China Caught Dropping RAT Designed for FortiGate Devices](https://www.darkreading.com/endpoint-security/china-dropping-rat-designed-fortigate-devices)
-- [IoT/OT Network Adversaries Advance Amidst Bug Barrage](https://www.darkreading.com/iot/iot-networks-face-bug-barrage-advancing-adversaries)
-- [China&#39;s Cyberattackers Maneuver to Disrupt US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/china-cyberattackers-disrupt-us-critical-infrastructure)
-- [Linux Distros Hit by RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
-- [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
