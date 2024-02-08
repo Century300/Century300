@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Ov3r_Stealer&#39; Malware Spreads Through Facebook to Steal Crates of Info](https://www.darkreading.com/endpoint-security/novel-ov3r_stealer-spreads-facebook-steal-info)
 - [Pakistan Invests $36M in National Cybersecurity](https://www.darkreading.com/cybersecurity-operations/pakistan-invests-36-million-in-national-cybersecurity)
 - [How Hospitals Can Help Improve Medical Device Data Security](https://www.darkreading.com/vulnerabilities-threats/how-hospitals-can-help-improve-medical-device-data-security)
 - [China Caught Dropping RAT Designed for FortiGate Devices](https://www.darkreading.com/endpoint-security/china-dropping-rat-designed-fortigate-devices)
@@ -83,7 +84,6 @@
 - [China&#39;s Cyberattackers Maneuver to Disrupt US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/china-cyberattackers-disrupt-us-critical-infrastructure)
 - [Linux Distros Hit by RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
 - [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
-- [New Report From Flare Highlights Pervasive Threat of Initial Access Brokers in NATO Countries](https://www.darkreading.com/threat-intelligence/new-report-from-flare-highlights-pervasive-threat-of-initial-access-brokers-in-nato-countries)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
