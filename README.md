@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Linux Distros Hit By RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
+- [China&#39;s Cyberattackers Maneuver to Disrupt US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/china-cyberattackers-disrupt-us-critical-infrastructure)
+- [Linux Distros Hit by RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
 - [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
 - [New Report From Flare Highlights Pervasive Threat of Initial Access Brokers in NATO Countries](https://www.darkreading.com/threat-intelligence/new-report-from-flare-highlights-pervasive-threat-of-initial-access-brokers-in-nato-countries)
 - [Patch Now: Critical TeamCity Bug Allows for Server Takeovers](https://www.darkreading.com/vulnerabilities-threats/patch-critical-teamcity-bug-server-takeover)
 - [Q&amp;amp;A: Tel Aviv Railway Project Bakes In Cyber Defenses](https://www.darkreading.com/ics-ot-security/tel-aviv-railway-project-bakes-in-cyber-defenses)
 - [UAE Banks Conduct Cyber War Games Exercise](https://www.darkreading.com/cybersecurity-operations/uae-banks-conduct-cyber-war-games-exercise)
 - [How to Prepare for Elevated Cybersecurity Risk at the Super Bowl](https://www.darkreading.com/threat-intelligence/how-to-prepare-elevated-cybersecurity-risk-super-bowl)
-- [Microsoft Adds Face Check to Entra Verified ID](https://www.darkreading.com/identity-access-management-security/microsoft-adds-face-check-to-entra-verified-id)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
