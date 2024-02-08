@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Coyote&#39; Malware Begins Its Hunt, Preying on 61 Banking Apps](https://www.darkreading.com/threat-intelligence/coyote-malware-preying-61-banking-apps)
 - [QR Code &#39;Quishing&#39; Attacks on Execs Surge, Evading Email Security](https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security)
 - [Why Demand for Tabletop Exercises Is Growing](https://www.darkreading.com/cybersecurity-operations/why-demand-for-tabletop-exercises-is-growing)
 - [5 AI Priorities to Stay Competitive](https://www.darkreading.com/vulnerabilities-threats/5-ai-priorities-to-stay-competitive)
@@ -83,7 +84,6 @@
 - [Super Bowl LVIII Presents a Vast Attack Surface for Threat Actors](https://www.darkreading.com/ics-ot-security/super-bowl-lviii-vast-attack-surface-threat-actors)
 - [Iran-Israel Cyber War Goes Global](https://www.darkreading.com/ics-ot-security/iran-israel-cyber-war-goes-global)
 - [&#39;Ov3r_Stealer&#39; Malware Spreads Through Facebook to Steal Crates of Info](https://www.darkreading.com/endpoint-security/novel-ov3r_stealer-spreads-facebook-steal-info)
-- [Pakistan Invests $36M in National Cybersecurity](https://www.darkreading.com/cybersecurity-operations/pakistan-invests-36-million-in-national-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
