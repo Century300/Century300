@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pakistan Invests $36M in National Cybersecurity](https://www.darkreading.com/cybersecurity-operations/pakistan-invests-36-million-in-national-cybersecurity)
+- [How Hospitals Can Help Improve Medical Device Data Security](https://www.darkreading.com/vulnerabilities-threats/how-hospitals-can-help-improve-medical-device-data-security)
 - [China Caught Dropping RAT Designed for FortiGate Devices](https://www.darkreading.com/endpoint-security/china-dropping-rat-designed-fortigate-devices)
-- [IoT Networks Face Advancing Adversaries, Bug Barrage](https://www.darkreading.com/iot/iot-networks-face-bug-barrage-advancing-adversaries)
+- [IoT/OT Network Adversaries Advance Amidst Bug Barrage](https://www.darkreading.com/iot/iot-networks-face-bug-barrage-advancing-adversaries)
 - [China&#39;s Cyberattackers Maneuver to Disrupt US Critical Infrastructure](https://www.darkreading.com/threat-intelligence/china-cyberattackers-disrupt-us-critical-infrastructure)
 - [Linux Distros Hit by RCE Vulnerability in Shim Bootloader](https://www.darkreading.com/vulnerabilities-threats/rce-vulnerability-in-shim-bootloader-impacts-all-linux-distros)
 - [Fulton County Court System Still Hobbled by Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/fulton-county-court-system-damage-unresolved-after-cyberattack)
 - [New Report From Flare Highlights Pervasive Threat of Initial Access Brokers in NATO Countries](https://www.darkreading.com/threat-intelligence/new-report-from-flare-highlights-pervasive-threat-of-initial-access-brokers-in-nato-countries)
-- [Managed Everything? Vendors Shift Focus to Services](https://www.darkreading.com/cyber-risk/managed-everything-vendors-shifting-to-services)
-- [Patch Now: Critical TeamCity Bug Allows for Server Takeovers](https://www.darkreading.com/vulnerabilities-threats/patch-critical-teamcity-bug-server-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
