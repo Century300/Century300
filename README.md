@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MacOS Targeted by New Backdoor Linked to ALPHV Ransomware](https://www.darkreading.com/threat-intelligence/macos-targeted-by-new-backdoor-linked-to-alphv-ransomware)
 - [Deepfake Democracy: AI Technology Complicates Election Security](https://www.darkreading.com/application-security/deepfake-democracy-ai-technology-election-security)
 - [Middle East Cybersecurity Teams Want More Budget](https://www.darkreading.com/cybersecurity-operations/middle-east-cybersecurity-teams-face-insufficient-budgets)
 - [Kenya Detected Over 1B Cyber Threats in Q4](https://www.darkreading.com/cyberattacks-data-breaches/kenya-detected-over-one-billion-cyber-threats-in-q4)
@@ -83,7 +84,6 @@
 - [Billington CyberSecurity to Host 1st State and Local Cyber Summit in Wake of Serious Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/billington-cybersecurity-to-host-1st-state-and-local-cyber-summit-in-wake-of-serious-cyber-attacks-on-state-and-local-governments)
 - [etherFAX Pioneering Interoperable Secure Cloud Fax Standards](https://www.darkreading.com/endpoint-security/etherfax-pioneering-interoperable-secure-cloud-fax-standards)
 - [&#39;Coyote&#39; Malware Begins Its Hunt, Preying on 61 Banking Apps](https://www.darkreading.com/threat-intelligence/coyote-malware-preying-61-banking-apps)
-- [QR Code &#39;Quishing&#39; Attacks on Execs Surge, Evading Email Security](https://www.darkreading.com/endpoint-security/qr-code-quishing-attacks-execs-email-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
