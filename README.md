@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ongoing Azure Compromises Target Senior Execs, Microsoft 365 Apps](https://www.darkreading.com/cloud-security/senior-executives-targeted-ongoing-azure-account-takeover)
 - [Ransomware Groups Claim Hits on Hyundai Motor Europe and a California Union](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-groups-black-basta-lockbit-hit-hyundai-california-seiu-union)
 - [CISO Corner: DoD Regs, Neurodiverse Talent &amp;amp; Tel Aviv&#39;s Light Rail](https://www.darkreading.com/cybersecurity-operations/ciso-corner-dod-regs-neurodiverse-talent-tel-aviv-light-rail)
 - [MacOS Targeted by New Backdoor Linked to ALPHV Ransomware](https://www.darkreading.com/threat-intelligence/macos-targeted-by-new-backdoor-linked-to-alphv-ransomware)
@@ -83,7 +84,6 @@
 - [Middle East Cybersecurity Teams Want More Budget](https://www.darkreading.com/cybersecurity-operations/middle-east-cybersecurity-teams-face-insufficient-budgets)
 - [Kenya Detected Over 1B Cyber Threats in Q4](https://www.darkreading.com/cyberattacks-data-breaches/kenya-detected-over-one-billion-cyber-threats-in-q4)
 - [How &#39;Big 4&#39; Nations&#39; Cyber Capabilities Threaten the West](https://www.darkreading.com/vulnerabilities-threats/how-big-4-nations-cyber-capabilities-threaten-the-west)
-- [Billington CyberSecurity to Host 1st State and Local Cyber Summit in Wake of Serious Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/billington-cybersecurity-to-host-1st-state-and-local-cyber-summit-in-wake-of-serious-cyber-attacks-on-state-and-local-governments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
