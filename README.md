@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Raspberry Robin Jumps on 1-Day Bugs to Nest Deep in Windows Networks](https://www.darkreading.com/application-security/raspberry-robin-1-days-escalate-unpatched-networks)
 - [CSC Partners With NetDiligence to Help Mitigate Cyber Risks](https://www.darkreading.com/cyber-risk/csc-partners-with-netdiligence-to-help-mitigate-cyber-risks)
 - [United Nations Digging Into DPRK Crypto Cyberattacks Totaling $3B](https://www.darkreading.com/cyberattacks-data-breaches/un-digging-into-dprk-crypto-cyberattacks-totaling-3b)
 - [US Govt. Offers Millions in Bounties to Find Hive Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/us-department-of-state-offers-millions-to-find-hive-ransomware-actors)
@@ -83,7 +84,6 @@
 - [33M French Citizens Impacted in Country&#39;s Largest-Ever Breach](https://www.darkreading.com/cloud-security/33m-french-citizens-countrys-largest-ever-breach)
 - [How Changes in State CIO Priorities for 2024 Apply to API Security](https://www.darkreading.com/application-security/how-changes-in-state-cio-priorities-for-2024-apply-to-api-security)
 - [It&#39;s Time to Rethink Third-Party Risk Assessment](https://www.darkreading.com/cyber-risk/it-s-time-to-rethink-third-party-risk-assessment-)
-- [Fortinet, Ivanti Keep Customers Busy With Yet More Critical Bugs](https://www.darkreading.com/cloud-security/fortinet-ivanti-keep-customers-busy-with-yet-more-critical-bugs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
