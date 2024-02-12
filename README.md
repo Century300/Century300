@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [33M French Citizens Impacted in Country&#39;s Largest-Ever Breach](https://www.darkreading.com/cloud-security/33m-french-citizens-countrys-largest-ever-breach)
 - [It&#39;s Time to Rethink Third-Party Risk Assessment](https://www.darkreading.com/cyber-risk/it-s-time-to-rethink-third-party-risk-assessment-)
 - [Fortinet, Ivanti Keep Customers Busy With Yet More Critical Bugs](https://www.darkreading.com/cloud-security/fortinet-ivanti-keep-customers-busy-with-yet-more-critical-bugs)
 - [China&#39;s Dogged Campaign to Portray Itself as Victim of US Hacking](https://www.darkreading.com/cybersecurity-operations/china-dogged-campaign-victim-of-us-hacking)
@@ -83,7 +84,6 @@
 - [Ransomware Groups Claim Hits on Hyundai Motor Europe and a California Union](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-groups-black-basta-lockbit-hit-hyundai-california-seiu-union)
 - [CISO Corner: DoD Regs, Neurodiverse Talent &amp;amp; Tel Aviv&#39;s Light Rail](https://www.darkreading.com/cybersecurity-operations/ciso-corner-dod-regs-neurodiverse-talent-tel-aviv-light-rail)
 - [macOS Targeted by New Backdoor Linked to ALPHV Ransomware](https://www.darkreading.com/threat-intelligence/macos-targeted-by-new-backdoor-linked-to-alphv-ransomware)
-- [Deepfake Democracy: AI Technology Complicates Election Security](https://www.darkreading.com/application-security/deepfake-democracy-ai-technology-election-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
