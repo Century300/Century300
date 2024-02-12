@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CSC Partners With NetDiligence to Help Mitigate Cyber Risks](https://www.darkreading.com/cyber-risk/csc-partners-with-netdiligence-to-help-mitigate-cyber-risks)
 - [United Nations Digging Into DPRK Crypto Cyberattacks Totaling $3B](https://www.darkreading.com/cyberattacks-data-breaches/un-digging-into-dprk-crypto-cyberattacks-totaling-3b)
 - [US Govt. Offers Millions in Bounties to Find Hive Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/us-department-of-state-offers-millions-to-find-hive-ransomware-actors)
 - [Bugcrowd Secures $102M in Strategic Growth Funding to Scale AI-Powered Crowdsourced Security Platform](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-secures-102-million-in-strategic-growth-funding-to-scale-ai-powered-crowdsourced-security-platform)
 - [33M French Citizens Impacted in Country&#39;s Largest-Ever Breach](https://www.darkreading.com/cloud-security/33m-french-citizens-countrys-largest-ever-breach)
+- [How Changes in State CIO Priorities for 2024 Apply to API Security](https://www.darkreading.com/application-security/how-changes-in-state-cio-priorities-for-2024-apply-to-api-security)
 - [It&#39;s Time to Rethink Third-Party Risk Assessment](https://www.darkreading.com/cyber-risk/it-s-time-to-rethink-third-party-risk-assessment-)
 - [Fortinet, Ivanti Keep Customers Busy With Yet More Critical Bugs](https://www.darkreading.com/cloud-security/fortinet-ivanti-keep-customers-busy-with-yet-more-critical-bugs)
-- [China&#39;s Dogged Campaign to Portray Itself as Victim of US Hacking](https://www.darkreading.com/cybersecurity-operations/china-dogged-campaign-victim-of-us-hacking)
-- [Ongoing Azure Compromises Target Senior Execs, Microsoft 365 Apps](https://www.darkreading.com/cloud-security/senior-executives-targeted-ongoing-azure-account-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
