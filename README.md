@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO and CIO Convergence: Ready or Not, Here It Comes](https://www.darkreading.com/cybersecurity-operations/ciso-cio-convergence-ready-or-not-here-it-comes)
 - [Raspberry Robin Jumps on 1-Day Bugs to Nest Deep in Windows Networks](https://www.darkreading.com/application-security/raspberry-robin-1-days-escalate-unpatched-networks)
 - [CSC Partners With NetDiligence to Help Mitigate Cyber Risks](https://www.darkreading.com/cyber-risk/csc-partners-with-netdiligence-to-help-mitigate-cyber-risks)
 - [United Nations Digging Into DPRK Crypto Cyberattacks Totaling $3B](https://www.darkreading.com/cyberattacks-data-breaches/un-digging-into-dprk-crypto-cyberattacks-totaling-3b)
@@ -83,7 +84,6 @@
 - [Bugcrowd Secures $102M in Strategic Growth Funding to Scale AI-Powered Crowdsourced Security Platform](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-secures-102-million-in-strategic-growth-funding-to-scale-ai-powered-crowdsourced-security-platform)
 - [33M French Citizens Impacted in Country&#39;s Largest-Ever Breach](https://www.darkreading.com/cloud-security/33m-french-citizens-countrys-largest-ever-breach)
 - [How Changes in State CIO Priorities for 2024 Apply to API Security](https://www.darkreading.com/application-security/how-changes-in-state-cio-priorities-for-2024-apply-to-api-security)
-- [It&#39;s Time to Rethink Third-Party Risk Assessment](https://www.darkreading.com/cyber-risk/it-s-time-to-rethink-third-party-risk-assessment-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
