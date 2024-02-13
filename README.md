@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ivanti Gets Poor Marks for Cyber Incident Response](https://www.darkreading.com/cloud-security/ivanti-poor-marks-cyber-incident-response)
 - [BofA Warns Customers of Data Leak in Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/bofa-warns-customers-of-data-leak-in-third-party-breach)
 - [Islamic Nonprofit Infiltrated for 3 Years With Silent Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/islamic-nonprofit-infiltrated-three-years-silent-backdoor)
 - [CISO and CIO Convergence: Ready or Not, Here It Comes](https://www.darkreading.com/cybersecurity-operations/ciso-cio-convergence-ready-or-not-here-it-comes)
@@ -83,7 +84,6 @@
 - [CSC Partners With NetDiligence to Help Mitigate Cyber Risks](https://www.darkreading.com/cyber-risk/csc-partners-with-netdiligence-to-help-mitigate-cyber-risks)
 - [United Nations Digging Into DPRK Crypto Cyberattacks Totaling $3B](https://www.darkreading.com/cyberattacks-data-breaches/un-digging-into-dprk-crypto-cyberattacks-totaling-3b)
 - [US Govt. Offers Millions in Bounties to Find Hive Ransomware Actors](https://www.darkreading.com/cybersecurity-operations/us-department-of-state-offers-millions-to-find-hive-ransomware-actors)
-- [Bugcrowd Secures $102M in Strategic Growth Funding to Scale AI-Powered Crowdsourced Security Platform](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-secures-102-million-in-strategic-growth-funding-to-scale-ai-powered-crowdsourced-security-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
