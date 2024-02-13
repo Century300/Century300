@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs)
 - [OPSWAT Invests $10M in Scholarship Learning Program to Help Close Cybersecurity Skills Gap](https://www.darkreading.com/cybersecurity-operations/opswat-invests-10m-in-scholarship-learning-program-to-help-close-cybersecurity-skills-gap)
 - [OpenText Joins the Joint Cyber Defense Collaborative to Enhance US Government Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/opentext-joins-the-joint-cyber-defense-collaborative-to-enhance-u-s-government-cybersecurity)
 - [BlackBerry Provides Update on Progress in Separation of Divisions and Path to Profitability](https://www.darkreading.com/endpoint-security/blackberry-provides-update-on-progress-in-separation-of-divisions-and-path-to-profitability)
@@ -83,7 +84,6 @@
 - [Akto Launches Proactive GenAI Security Testing Solution](https://www.darkreading.com/application-security/akto-launches-proactive-genai-security-testing-solution)
 - [ISC2 Collaborates With IBM to Launch Entry-Level Cybersecurity Certificate](https://www.darkreading.com/cybersecurity-operations/isc2-collaborates-with-ibm-to-launch-entry-level-cybersecurity-certificate)
 - [FCC Requires Telecom &amp;amp; VoIP Providers to Report PII Breaches](https://www.darkreading.com/cybersecurity-operations/fcc-requires-telecom-voip-providers-to-report-pii-breaches)
-- [Ivanti VPN Flaw Exploited to Inject Novel Backdoor; Hundreds Pwned](https://www.darkreading.com/cloud-security/ivanti-flaw-exploited-inject-novel-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
