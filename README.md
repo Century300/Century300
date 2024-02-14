@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [We&#39;re at a Pivotal Moment for AI and Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/pivotal-moment-ai-and-cybersecurity)
 - [Hamas Cyberattacks Ceased After the Oct. 7 Terror Attack. But Why?](https://www.darkreading.com/threat-intelligence/hamas-cyberattacks-ceased-after-october-7-attack-but-why)
 - [Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs)
 - [OPSWAT Invests $10M in Scholarship Learning Program to Help Close Cybersecurity Skills Gap](https://www.darkreading.com/cybersecurity-operations/opswat-invests-10m-in-scholarship-learning-program-to-help-close-cybersecurity-skills-gap)
@@ -83,7 +84,6 @@
 - [BlackBerry Provides Update on Progress in Separation of Divisions and Path to Profitability](https://www.darkreading.com/endpoint-security/blackberry-provides-update-on-progress-in-separation-of-divisions-and-path-to-profitability)
 - [Glupteba Botnet Adds UEFI Bootkit to Cyberattack Toolbox](https://www.darkreading.com/threat-intelligence/glupteba-botnet-burrows-windows-systems-new-uefi-bootkit)
 - [Akto Launches Proactive GenAI Security Testing Solution](https://www.darkreading.com/application-security/akto-launches-proactive-genai-security-testing-solution)
-- [ISC2 Collaborates With IBM to Launch Entry-Level Cybersecurity Certificate](https://www.darkreading.com/cybersecurity-operations/isc2-collaborates-with-ibm-to-launch-entry-level-cybersecurity-certificate)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
