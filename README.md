@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Prudential Files Voluntary Breach Notice With SEC](https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec)
 - [Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App](https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app)
 - [BumbleBee Malware Buzzes Back on the Scene After 4-Month Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-buzzes-back-4-month-hiatus)
 - [We&#39;re at a Pivotal Moment for AI and Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/pivotal-moment-ai-and-cybersecurity)
@@ -83,7 +84,6 @@
 - [Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs)
 - [OPSWAT Invests $10M in Scholarship Learning Program to Help Close Cybersecurity Skills Gap](https://www.darkreading.com/cybersecurity-operations/opswat-invests-10m-in-scholarship-learning-program-to-help-close-cybersecurity-skills-gap)
 - [OpenText Joins the Joint Cyber Defense Collaborative to Enhance US Government Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/opentext-joins-the-joint-cyber-defense-collaborative-to-enhance-u-s-government-cybersecurity)
-- [BlackBerry Provides Update on Progress in Separation of Divisions and Path to Profitability](https://www.darkreading.com/endpoint-security/blackberry-provides-update-on-progress-in-separation-of-divisions-and-path-to-profitability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
