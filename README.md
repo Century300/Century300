@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [iOS, Android Malware Steals Faces to Defeat Biometrics With AI Swaps](https://www.darkreading.com/application-security/ios-malware-steals-faces-defeat-biometrics-ai-swaps)
-- [Cyberattack Disrupts German Battery-Production Lines](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-disrupts-german-battery-production-lines)
-- [Surge in &#39;Hunter-Killer&#39; Malware Uncovered by Picus Security](https://www.darkreading.com/vulnerabilities-threats/surge-in-hunter-killer-malware-uncovered-by-picus-security)
-- [Critical Software Vulnerabilities Impacting Credit Unions Discovered by LMG Security Researcher](https://www.darkreading.com/cloud-security/critical-software-vulnerabilities-impacting-credit-unions-discovered-by-lmg-security-researcher)
-- [Microsoft Exchange Server Flaw Exploited as a Zero-Day Bug](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-exchange-server-flaw-exploited-zero-day-bug)
-- [DataDome Expands Bot Bounty Program to the Public, Invites Researchers to Rigorously Test its Solution](https://www.darkreading.com/vulnerabilities-threats/datadome-expands-bot-bounty-program-to-the-public-invites-researchers-to-rigorously-test-its-solution)
-- [CISA HBOM Framework Doesn&#39;t Go Far Enough](https://www.darkreading.com/cyber-risk/cisa-hbom-framework-doesn-t-go-far-enough)
-- [DoJ Breaks Russian Military Botnet in Fancy Bear Takedown](https://www.darkreading.com/cyberattacks-data-breaches/doj-breaks-russian-military-botnet-)
+- [Vade Releases 2023 Phishers&#39; Favorites Report](https://www.darkreading.com/cyberattacks-data-breaches/vade-releases-2023-phishers-favorites-report)
+- [Strata Identity Reins in Global Access and Compliance Challenges With Cross-Border Orchestration Recipes](https://www.darkreading.com/cyber-risk/strata-identity-reins-in-global-access-and-compliance-challenges-with-cross-border-orchestration-recipes)
+- [Quorum Cyber Joins Elite Microsoft FastTrack-Ready Partner Group](https://www.darkreading.com/cybersecurity-operations/quorum-cyber-joins-elite-microsoft-fasttrack-ready-partner-group)
+- [Demand for &#39;Secure by Design&#39; Product Growing, Creating Opportunity for Software Security Specialization](https://www.darkreading.com/cybersecurity-operations/demand-for-secure-by-design-product-growing-creating-opportunity-for-software-security-specialization)
+- [LightEdge Releases Next-Gen Suite of Cloud Security &amp;amp; Managed Services](https://www.darkreading.com/cloud-security/lightedge-releases-next-gen-suite-of-cloud-security-managed-services)
+- [Vectra AI Launches Global, 24x7 Open MXDR Service Built to Defend Against Hybrid Attacks](https://www.darkreading.com/endpoint-security/vectra-ai-launches-global-24x7-open-mxdr-service-built-to-defend-against-hybrid-attacks)
+- [Somos, Inc. Protects Businesses&#39; IoT Assets With the Availability of SomosID](https://www.darkreading.com/ics-ot-security/somos-inc-protects-businesses-iot-assets-with-the-availability-of-somosid)
+- [Volt Typhoon Hits Multiple Electric Utilities, Expands Cyber Activity](https://www.darkreading.com/vulnerabilities-threats/volt-typhoon-hits-multiple-electric-cos-expands-cyber-activity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
