@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Security Metrics Categories CISOs Should Present to the Board](https://www.darkreading.com/cybersecurity-analytics/10-security-metrics-categories-cisos-should-present-to-the-board)
 - [Microsoft, OpenAI: Nation-States Are Weaponizing AI in Cyberattacks](https://www.darkreading.com/threat-intelligence/microsoft-openai-nation-states-are-weaponizing-ai-in-cyberattacks)
 - [Prudential Files Voluntary Breach Notice With SEC](https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec)
 - [Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App](https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app)
@@ -83,7 +84,6 @@
 - [We&#39;re at a Pivotal Moment for AI and Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/pivotal-moment-ai-and-cybersecurity)
 - [Hamas Cyberattacks Ceased After the Oct. 7 Terror Attack. But Why?](https://www.darkreading.com/threat-intelligence/hamas-cyberattacks-ceased-after-october-7-attack-but-why)
 - [Attackers Exploit Microsoft Security-Bypass Zero-Day Bugs](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-microsoft-security-bypass-zero-day-bugs)
-- [OPSWAT Invests $10M in Scholarship Learning Program to Help Close Cybersecurity Skills Gap](https://www.darkreading.com/cybersecurity-operations/opswat-invests-10m-in-scholarship-learning-program-to-help-close-cybersecurity-skills-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
