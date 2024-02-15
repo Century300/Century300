@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Breaks Russian Military Botnet in Fancy Bear Takedown](https://www.darkreading.com/cyberattacks-data-breaches/doj-breaks-russian-military-botnet-)
 - [Russian APT Turla Wields Novel Backdoor Malware Against Polish NGOs](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-turla-novel-backdoor-malware-polish-ngos)
 - [Cybersecurity&#39;s Transformative Shift](https://www.darkreading.com/cybersecurity-operations/cybersecuritys-transformative-shift)
 - [AWS SNS Hijackings Fuel Cloud Smishing Campaign](https://www.darkreading.com/cloud-security/aws-sns-compromises-fuel-cloud-smishing-campaign)
@@ -83,7 +84,6 @@
 - [Microsoft, OpenAI: Nation-States Are Weaponizing AI in Cyberattacks](https://www.darkreading.com/threat-intelligence/microsoft-openai-nation-states-are-weaponizing-ai-in-cyberattacks)
 - [Prudential Files Voluntary Breach Notice With SEC](https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec)
 - [Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App](https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app)
-- [Bumblebee Malware Buzzes Back on the Scene After 4-Month Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-buzzes-back-4-month-hiatus)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
