@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [iOS, Android Malware Steals Faces to Defeat Biometrics With AI Swaps](https://www.darkreading.com/application-security/ios-malware-steals-faces-defeat-biometrics-ai-swaps)
+- [Cyberattack Disrupts German Battery-Production Lines](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-disrupts-german-battery-production-lines)
+- [Surge in &#39;Hunter-Killer&#39; Malware Uncovered by Picus Security](https://www.darkreading.com/vulnerabilities-threats/surge-in-hunter-killer-malware-uncovered-by-picus-security)
+- [Critical Software Vulnerabilities Impacting Credit Unions Discovered by LMG Security Researcher](https://www.darkreading.com/cloud-security/critical-software-vulnerabilities-impacting-credit-unions-discovered-by-lmg-security-researcher)
+- [Microsoft Exchange Server Flaw Exploited as a Zero-Day Bug](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-exchange-server-flaw-exploited-zero-day-bug)
+- [DataDome Expands Bot Bounty Program to the Public, Invites Researchers to Rigorously Test its Solution](https://www.darkreading.com/vulnerabilities-threats/datadome-expands-bot-bounty-program-to-the-public-invites-researchers-to-rigorously-test-its-solution)
+- [CISA HBOM Framework Doesn&#39;t Go Far Enough](https://www.darkreading.com/cyber-risk/cisa-hbom-framework-doesn-t-go-far-enough)
 - [DoJ Breaks Russian Military Botnet in Fancy Bear Takedown](https://www.darkreading.com/cyberattacks-data-breaches/doj-breaks-russian-military-botnet-)
-- [Russian APT Turla Wields Novel Backdoor Malware Against Polish NGOs](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-turla-novel-backdoor-malware-polish-ngos)
-- [Cybersecurity&#39;s Transformative Shift](https://www.darkreading.com/cybersecurity-operations/cybersecuritys-transformative-shift)
-- [AWS SNS Hijackings Fuel Cloud Smishing Campaign](https://www.darkreading.com/cloud-security/aws-sns-compromises-fuel-cloud-smishing-campaign)
-- [10 Security Metrics Categories CISOs Should Present to the Board](https://www.darkreading.com/cybersecurity-analytics/10-security-metrics-categories-cisos-should-present-to-the-board)
-- [Microsoft, OpenAI: Nation-States Are Weaponizing AI in Cyberattacks](https://www.darkreading.com/threat-intelligence/microsoft-openai-nation-states-are-weaponizing-ai-in-cyberattacks)
-- [Prudential Files Voluntary Breach Notice With SEC](https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec)
-- [Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App](https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
