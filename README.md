@@ -83,7 +83,7 @@
 - [Microsoft, OpenAI: Nation-States Are Weaponizing AI in Cyberattacks](https://www.darkreading.com/threat-intelligence/microsoft-openai-nation-states-are-weaponizing-ai-in-cyberattacks)
 - [Prudential Files Voluntary Breach Notice With SEC](https://www.darkreading.com/cybersecurity-operations/prudential-files-voluntary-breach-notice-sec)
 - [Ransomware Epidemic at Romanian Hospitals Tied to Healthcare App](https://www.darkreading.com/application-security/ransomware-epidemic-romanian-hospitals-tied-healthcare-app)
-- [BumbleBee Malware Buzzes Back on the Scene After 4-Month Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-buzzes-back-4-month-hiatus)
+- [Bumblebee Malware Buzzes Back on the Scene After 4-Month Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/bumblebee-malware-buzzes-back-4-month-hiatus)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
