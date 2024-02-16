@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Major Tech Firms Develop &#39;Tech Accord&#39; to Combat AI Deepfakes](https://www.darkreading.com/cyber-risk/major-tech-firms-develop-tech-accords-to-combat-ai-deepfakes)
+- [Enterprises Worry End Users Will be the Cause of Next Major Breach](https://www.darkreading.com/remote-workforce/enterprises-worry-end-users-will-be-the-cause-of-next-major-breach)
 - [Like Seat Belts and Airbags, 2FA Must Be Mandatory ASAP](https://www.darkreading.com/vulnerabilities-threats/2fa-must-be-mandatory-asap)
 - [Iran Warship Aiding Houthi Pirates Hacked by US](https://www.darkreading.com/cyberattacks-data-breaches/iranian-ship-aiding-houthi-pirates-hacked-by-us)
 - [Vade Releases 2023 Phishers&#39; Favorites Report](https://www.darkreading.com/cyberattacks-data-breaches/vade-releases-2023-phishers-favorites-report)
 - [Strata Identity Reins in Global Access and Compliance Challenges With Cross-Border Orchestration Recipes](https://www.darkreading.com/cyber-risk/strata-identity-reins-in-global-access-and-compliance-challenges-with-cross-border-orchestration-recipes)
 - [Quorum Cyber Joins Elite Microsoft FastTrack-Ready Partner Group](https://www.darkreading.com/cybersecurity-operations/quorum-cyber-joins-elite-microsoft-fasttrack-ready-partner-group)
 - [Demand for &#39;Secure by Design&#39; Product Growing, Creating Opportunity for Software Security Specialization](https://www.darkreading.com/cybersecurity-operations/demand-for-secure-by-design-product-growing-creating-opportunity-for-software-security-specialization)
-- [LightEdge Releases Next-Gen Suite of Cloud Security &amp;amp; Managed Services](https://www.darkreading.com/cloud-security/lightedge-releases-next-gen-suite-of-cloud-security-managed-services)
-- [Vectra AI Launches Global, 24x7 Open MXDR Service Built to Defend Against Hybrid Attacks](https://www.darkreading.com/endpoint-security/vectra-ai-launches-global-24x7-open-mxdr-service-built-to-defend-against-hybrid-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
