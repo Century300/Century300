@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian APT &#39;Winter Vivern&#39; Targets European Government, Military](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-winter-vivern-targets-european-government-military)
 - [CISO Corner: CIO Convergence, 10 Critical Security Metrics, &amp;amp; Ivanti Fallout](https://www.darkreading.com/cybersecurity-operations/ciso-corner-cio-convergence-critical-security-metrics-ivanti-fallout)
 - [What Using Security to Regulate AI Chips Could Look Like](https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like)
 - [Major Tech Firms Develop &#39;Tech Accord&#39; to Combat AI Deepfakes](https://www.darkreading.com/cyber-risk/major-tech-firms-develop-tech-accords-to-combat-ai-deepfakes)
@@ -83,7 +84,6 @@
 - [Like Seat Belts and Airbags, 2FA Must Be Mandatory ASAP](https://www.darkreading.com/vulnerabilities-threats/2fa-must-be-mandatory-asap)
 - [Iran Warship Aiding Houthi Pirates Hacked by US](https://www.darkreading.com/cyberattacks-data-breaches/iranian-ship-aiding-houthi-pirates-hacked-by-us)
 - [Vade Releases 2023 Phishers&#39; Favorites Report](https://www.darkreading.com/cyberattacks-data-breaches/vade-releases-2023-phishers-favorites-report)
-- [Strata Identity Reins in Global Access and Compliance Challenges With Cross-Border Orchestration Recipes](https://www.darkreading.com/cyber-risk/strata-identity-reins-in-global-access-and-compliance-challenges-with-cross-border-orchestration-recipes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
