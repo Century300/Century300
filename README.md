@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Q&amp;amp;A: The Cybersecurity Training Gap in Industrial Networks](https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments)
 - [Russian APT &#39;Winter Vivern&#39; Targets European Government, Military](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-winter-vivern-targets-european-government-military)
 - [CISO Corner: CIO Convergence, 10 Critical Security Metrics, &amp;amp; Ivanti Fallout](https://www.darkreading.com/cybersecurity-operations/ciso-corner-cio-convergence-critical-security-metrics-ivanti-fallout)
 - [What Using Security to Regulate AI Chips Could Look Like](https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like)
@@ -83,7 +84,6 @@
 - [Enterprises Worry End Users Will be the Cause of Next Major Breach](https://www.darkreading.com/remote-workforce/enterprises-worry-end-users-will-be-the-cause-of-next-major-breach)
 - [Like Seat Belts and Airbags, 2FA Must Be Mandatory ASAP](https://www.darkreading.com/vulnerabilities-threats/2fa-must-be-mandatory-asap)
 - [Iran Warship Aiding Houthi Pirates Hacked by US](https://www.darkreading.com/cyberattacks-data-breaches/iranian-ship-aiding-houthi-pirates-hacked-by-us)
-- [Vade Releases 2023 Phishers&#39; Favorites Report](https://www.darkreading.com/cyberattacks-data-breaches/vade-releases-2023-phishers-favorites-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
