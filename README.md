@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Keys to the Kingdom](https://www.darkreading.com/application-security/name-that-toon-keys-to-the-kingdom)
 - [NSO Group Adds &#39;MMS Fingerprinting&#39; Zero-Click Attack to Spyware Arsenal](https://www.darkreading.com/application-security/nso-group-adds-mms-fingerprinting-zero-click-attack-spyware-arsenal)
 - [Q&amp;amp;A: The Cybersecurity Training Gap in Industrial Networks](https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments)
 - [Russian APT &#39;Winter Vivern&#39; Targets European Government, Military](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-winter-vivern-targets-european-government-military)
@@ -83,7 +84,6 @@
 - [What Using Security to Regulate AI Chips Could Look Like](https://www.darkreading.com/cyber-risk/what-using-security-to-regulate-ai-chips-could-look-like)
 - [Major Tech Firms Develop &#39;Tech Accord&#39; to Combat AI Deepfakes](https://www.darkreading.com/cyber-risk/major-tech-firms-develop-tech-accords-to-combat-ai-deepfakes)
 - [Enterprises Worry End Users Will be the Cause of Next Major Breach](https://www.darkreading.com/remote-workforce/enterprises-worry-end-users-will-be-the-cause-of-next-major-breach)
-- [Like Seat Belts and Airbags, 2FA Must Be Mandatory ASAP](https://www.darkreading.com/vulnerabilities-threats/2fa-must-be-mandatory-asap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
