@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Wave of &#39;Anatsa&#39; Banking Trojans Targets Android Users in Europe](https://www.darkreading.com/mobile-security/new-wave-of-anatsa-banking-trojan-attacks-targets-android-users-in-europe)
+- [Wyze Cameras Allow Accidental User Spying](https://www.darkreading.com/endpoint-security/wyze-cameras-allow-accidental-user-spying)
 - [Meta Disrupts 8 Spyware Firms, 3 Fake News Networks](https://www.darkreading.com/threat-intelligence/meta-disrupts-8-spyware-firms-3-fake-news-networks)
 - [Joomla XSS Bugs Open Millions of Websites to RCE](https://www.darkreading.com/application-security/joomla-xss-bugs-open-millions-websites-rce)
 - [Google&#39;s Cloud Run Service Spreads Several Bank Trojans](https://www.darkreading.com/application-security/google-cloud-run-spreading-several-bank-trojans-)
 - [Median Ransomware Demands Grow to $600K a Pop](https://www.darkreading.com/vulnerabilities-threats/median-ransomware-demands-grow-600k)
 - [&#39;KeyTrap&#39; DNS Bug Threatens Widespread Internet Outages](https://www.darkreading.com/cloud-security/keytrap-dns-bug-threatens-widespread-internet-outages)
 - [Hacked Iraqi Voter Information Found for Sale Online](https://www.darkreading.com/endpoint-security/hacked-iraqi-voter-information-found-for-sale-online)
-- [Global Law Enforcement Disrupts LockBit Ransomware Gang](https://www.darkreading.com/cybersecurity-operations/global-law-enforcement-disrupts-lockbit-ransomware-gang)
-- [Cyber Insurance Needs to Evolve to Ensure Greater Benefit](https://www.darkreading.com/cyber-risk/cyber-insurance-needs-to-evolve-to-ensure-greater-benefit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
