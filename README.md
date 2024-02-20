@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;KeyTrap&#39; DNS Bug Threatens Widespread Internet Outages](https://www.darkreading.com/cloud-security/keytrap-dns-bug-threatens-widespread-internet-outages)
 - [Hacked Iraqi Voter Information Found For Sale Online](https://www.darkreading.com/endpoint-security/hacked-iraqi-voter-information-found-for-sale-online)
 - [Global Law Enforcement Disrupts LockBit Ransomware Gang](https://www.darkreading.com/cybersecurity-operations/global-law-enforcement-disrupts-lockbit-ransomware-gang)
 - [Cyber Insurance Needs to Evolve to Ensure Greater Benefit](https://www.darkreading.com/cyber-risk/cyber-insurance-needs-to-evolve-to-ensure-greater-benefit)
@@ -83,7 +84,6 @@
 - [Name That Toon: Keys to the Kingdom](https://www.darkreading.com/application-security/name-that-toon-keys-to-the-kingdom)
 - [NSO Group Adds &#39;MMS Fingerprinting&#39; Zero-Click Attack to Spyware Arsenal](https://www.darkreading.com/application-security/nso-group-adds-mms-fingerprinting-zero-click-attack-spyware-arsenal)
 - [Q&amp;amp;A: The Cybersecurity Training Gap in Industrial Networks](https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments)
-- [Russian APT &#39;Winter Vivern&#39; Targets European Government, Military](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-winter-vivern-targets-european-government-military)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
