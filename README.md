@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google&#39;s Cloud Run Service Spreads Several Bank Trojans](https://www.darkreading.com/application-security/google-cloud-run-spreading-several-bank-trojans-)
+- [Median Ransomware Demands Grow to $600K a Pop](https://www.darkreading.com/vulnerabilities-threats/median-ransomware-demands-grow-600k)
 - [&#39;KeyTrap&#39; DNS Bug Threatens Widespread Internet Outages](https://www.darkreading.com/cloud-security/keytrap-dns-bug-threatens-widespread-internet-outages)
-- [Hacked Iraqi Voter Information Found For Sale Online](https://www.darkreading.com/endpoint-security/hacked-iraqi-voter-information-found-for-sale-online)
+- [Hacked Iraqi Voter Information Found for Sale Online](https://www.darkreading.com/endpoint-security/hacked-iraqi-voter-information-found-for-sale-online)
 - [Global Law Enforcement Disrupts LockBit Ransomware Gang](https://www.darkreading.com/cybersecurity-operations/global-law-enforcement-disrupts-lockbit-ransomware-gang)
 - [Cyber Insurance Needs to Evolve to Ensure Greater Benefit](https://www.darkreading.com/cyber-risk/cyber-insurance-needs-to-evolve-to-ensure-greater-benefit)
 - [Misconfigured Custom Salesforce Apps Expose Corporate Data](https://www.darkreading.com/cloud-security/misconfigurated-custom-salesforce-apps-expose-corporate-data)
 - [Name That Toon: Keys to the Kingdom](https://www.darkreading.com/application-security/name-that-toon-keys-to-the-kingdom)
-- [NSO Group Adds &#39;MMS Fingerprinting&#39; Zero-Click Attack to Spyware Arsenal](https://www.darkreading.com/application-security/nso-group-adds-mms-fingerprinting-zero-click-attack-spyware-arsenal)
-- [Q&amp;amp;A: The Cybersecurity Training Gap in Industrial Networks](https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
