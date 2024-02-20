@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacked Iraqi Voter Information Found For Sale Online](https://www.darkreading.com/endpoint-security/hacked-iraqi-voter-information-found-for-sale-online)
 - [Global Law Enforcement Disrupts LockBit Ransomware Gang](https://www.darkreading.com/cybersecurity-operations/global-law-enforcement-disrupts-lockbit-ransomware-gang)
 - [Cyber Insurance Needs to Evolve to Ensure Greater Benefit](https://www.darkreading.com/cyber-risk/cyber-insurance-needs-to-evolve-to-ensure-greater-benefit)
 - [Misconfigured Custom Salesforce Apps Expose Corporate Data](https://www.darkreading.com/cloud-security/misconfigurated-custom-salesforce-apps-expose-corporate-data)
@@ -83,7 +84,6 @@
 - [NSO Group Adds &#39;MMS Fingerprinting&#39; Zero-Click Attack to Spyware Arsenal](https://www.darkreading.com/application-security/nso-group-adds-mms-fingerprinting-zero-click-attack-spyware-arsenal)
 - [Q&amp;amp;A: The Cybersecurity Training Gap in Industrial Networks](https://www.darkreading.com/ics-ot-security/q-a-learning-secure-ot-environments)
 - [Russian APT &#39;Winter Vivern&#39; Targets European Government, Military](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-winter-vivern-targets-european-government-military)
-- [CISO Corner: CIO Convergence, 10 Critical Security Metrics &amp;amp; Ivanti Fallout](https://www.darkreading.com/cybersecurity-operations/ciso-corner-cio-convergence-critical-security-metrics-ivanti-fallout)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
