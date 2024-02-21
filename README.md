@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Lucifer&#39; Botnet Turns Up the Heat on Apache Hadoop Servers](https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers)
 - [&#39;VoltSchemer&#39; Hack Allows Wireless Charger Takeovers](https://www.darkreading.com/vulnerabilities-threats/voltschemer-hack-allows-wireless-charger-takeovers)
 - [Critical ConnectWise RMM Bug Poised for Exploitation Avalanche](https://www.darkreading.com/remote-workforce/critical-connectwise-rmm-bug-poised-exploitation-avalanche)
 - [El Al Flight Crew Suffers Midflight Communication Disruption](https://www.darkreading.com/endpoint-security/el-al-flight-crew-suffers-midflight-communication-disruption)
@@ -83,7 +84,6 @@
 - [Critical Vulnerability in VMware vSphere Plug-in Allows Session Hijacking](https://www.darkreading.com/application-security/critical-vulnerability-vmware-vsphere-plugin-session-hijacking)
 - [How CISOs Balance Business Growth, Security in Cyber-Threat Landscape](https://www.darkreading.com/vulnerabilities-threats/how-cisos-balance-business-growth-security-cyber-threat-landscape)
 - [Iranian APTs Dress Up as Hacktivists for Disruption, Influence Ops](https://www.darkreading.com/threat-intelligence/iranian-apts-dress-up-as-hacktivists-for-disruption-influence-ops)
-- [Library Cyber Defenses Are Falling Down](https://www.darkreading.com/cloud-security/library-cyber-defenses-are-falling-down)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
