@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical ConnectWise RMM Bug Poised for Exploitation Avalanche](https://www.darkreading.com/remote-workforce/critical-connectwise-rmm-bug-poised-exploitation-avalanche)
+- [El Al Flight Crew Suffers Midflight Communication Disruption](https://www.darkreading.com/endpoint-security/el-al-flight-crew-suffers-midflight-communication-disruption)
+- [DoT, White House Tackle the Chinese Threat to US Port Security](https://www.darkreading.com/ics-ot-security/dot-white-house-tackle-chinese-threat-us-port-security)
 - [Critical Vulnerability in VMware vSphere Plug-in Allows Session Hijacking](https://www.darkreading.com/application-security/critical-vulnerability-vmware-vsphere-plugin-session-hijacking)
 - [How CISOs Balance Business Growth, Security in Cyber-Threat Landscape](https://www.darkreading.com/vulnerabilities-threats/how-cisos-balance-business-growth-security-cyber-threat-landscape)
 - [Iranian APTs Dress Up as Hacktivists for Disruption, Influence Ops](https://www.darkreading.com/threat-intelligence/iranian-apts-dress-up-as-hacktivists-for-disruption-influence-ops)
 - [Library Cyber Defenses Are Falling Down](https://www.darkreading.com/cloud-security/library-cyber-defenses-are-falling-down)
 - [AI-Generated Patches Could Ease Developer, Operations Workload](https://www.darkreading.com/application-security/ai-patch-ease-developer-operations-workload)
-- [New Wave of &#39;Anatsa&#39; Banking Trojans Targets Android Users in Europe](https://www.darkreading.com/mobile-security/new-wave-of-anatsa-banking-trojan-attacks-targets-android-users-in-europe)
-- [Joomla XSS Bugs Open Millions of Websites to RCE](https://www.darkreading.com/application-security/joomla-xss-bugs-open-millions-websites-rce)
-- [Wyze Cameras Allow Accidental User Spying](https://www.darkreading.com/endpoint-security/wyze-cameras-allow-accidental-user-spying)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
