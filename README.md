@@ -80,7 +80,7 @@
 - [iSoon&#39;s Secret APT Status Exposes China&#39;s Foreign Hacking Machinations](https://www.darkreading.com/threat-intelligence/-isoon-contractor-helps-the-prc-hack-foreign-governments-companies)
 - [Insurers Use Claims Data to Recommend Cybersecurity Technologies](https://www.darkreading.com/cyber-risk/insurers-claims-data-recommend-cybersecurity-technologies)
 - [Zero-Click Apple Shortcuts Vulnerability Allows Silent Data Theft](https://www.darkreading.com/application-security/zero-click-apple-shortcuts-vulnerability-allows-silent-data-theft)
-- [Russian Cyberattackers Launch Multi-Phase PsyOps Campaign](https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign)
+- [Russian Cyberattackers Launch Multiphase PsyOps Campaign](https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign)
 - [4 Key Steps to Reevaluate Your Cybersecurity Priorities](https://www.darkreading.com/cybersecurity-operations/4-key-steps-to-reevaluate-your-cybersecurity-priorities)
 - [Iran-Backed Charming Kitten Stages Fake Webinar Platform to Ensnare Targets](https://www.darkreading.com/vulnerabilities-threats/iran-backed-charming-kitten-stages-fake-webinar-platform-to-ensnare-targets)
 - [&#39;Lucifer&#39; Botnet Turns Up the Heat on Apache Hadoop Servers](https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers)
