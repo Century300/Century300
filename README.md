@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NSA Cybersecurity Director Rob Joyce to Retire](https://www.darkreading.com/cybersecurity-operations/nsa-cybersecurity-director-rob-joyce-to-retire)
+- [iSoon&#39;s Secret APT Status Exposes China&#39;s Foreign Hacking Machinations](https://www.darkreading.com/threat-intelligence/-isoon-contractor-helps-the-prc-hack-foreign-governments-companies)
+- [Insurers Use Claims Data to Recommend Cybersecurity Technologies](https://www.darkreading.com/cyber-risk/insurers-claims-data-recommend-cybersecurity-technologies)
 - [Zero-Click Apple Shortcuts Vulnerability Allows Silent Data Theft](https://www.darkreading.com/application-security/zero-click-apple-shortcuts-vulnerability-allows-silent-data-theft)
 - [Russian Cyberattackers Launch Multi-Phase PsyOps Campaign](https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign)
 - [4 Key Steps to Reevaluate Your Cybersecurity Priorities](https://www.darkreading.com/cybersecurity-operations/4-key-steps-to-reevaluate-your-cybersecurity-priorities)
 - [Iran-Backed Charming Kitten Stages Fake Webinar Platform to Ensnare Targets](https://www.darkreading.com/vulnerabilities-threats/iran-backed-charming-kitten-stages-fake-webinar-platform-to-ensnare-targets)
 - [&#39;Lucifer&#39; Botnet Turns Up the Heat on Apache Hadoop Servers](https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers)
-- [&#39;VoltSchemer&#39; Hack Allows Wireless Charger Takeovers](https://www.darkreading.com/vulnerabilities-threats/voltschemer-hack-allows-wireless-charger-takeovers)
-- [Critical ConnectWise RMM Bug Poised for Exploitation Avalanche](https://www.darkreading.com/remote-workforce/critical-connectwise-rmm-bug-poised-exploitation-avalanche)
-- [El Al Flight Crew Suffers Midflight Communication Disruption](https://www.darkreading.com/endpoint-security/el-al-flight-crew-suffers-midflight-communication-disruption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
