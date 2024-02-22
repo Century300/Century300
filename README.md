@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Key Steps to Reevaluate Your Cybersecurity Priorities](https://www.darkreading.com/cybersecurity-operations/4-key-steps-to-reevaluate-your-cybersecurity-priorities)
+- [Iran-Backed Charming Kitten Stages Fake Webinar Platform to Ensnare Targets](https://www.darkreading.com/vulnerabilities-threats/iran-backed-charming-kitten-stages-fake-webinar-platform-to-ensnare-targets)
 - [&#39;Lucifer&#39; Botnet Turns Up the Heat on Apache Hadoop Servers](https://www.darkreading.com/cloud-security/lucifer-botnet-heat-apache-hadoop-servers)
 - [&#39;VoltSchemer&#39; Hack Allows Wireless Charger Takeovers](https://www.darkreading.com/vulnerabilities-threats/voltschemer-hack-allows-wireless-charger-takeovers)
 - [Critical ConnectWise RMM Bug Poised for Exploitation Avalanche](https://www.darkreading.com/remote-workforce/critical-connectwise-rmm-bug-poised-exploitation-avalanche)
 - [El Al Flight Crew Suffers Midflight Communication Disruption](https://www.darkreading.com/endpoint-security/el-al-flight-crew-suffers-midflight-communication-disruption)
 - [DoT, White House Tackle the Chinese Threat to US Port Security](https://www.darkreading.com/ics-ot-security/dot-white-house-tackle-chinese-threat-us-port-security)
 - [Critical Vulnerability in VMware vSphere Plug-in Allows Session Hijacking](https://www.darkreading.com/application-security/critical-vulnerability-vmware-vsphere-plugin-session-hijacking)
-- [How CISOs Balance Business Growth, Security in Cyber-Threat Landscape](https://www.darkreading.com/vulnerabilities-threats/how-cisos-balance-business-growth-security-cyber-threat-landscape)
-- [Iranian APTs Dress Up as Hacktivists for Disruption, Influence Ops](https://www.darkreading.com/threat-intelligence/iranian-apts-dress-up-as-hacktivists-for-disruption-influence-ops)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
