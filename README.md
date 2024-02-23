@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Privacy Beats Ransomware as Top Insurance Concern](https://www.darkreading.com/data-privacy/privacy-ransomware-top-2024-cyber-insurance)
+- [Avast to Pay $16.5M Fine for Selling Consumer Browsing Data](https://www.darkreading.com/cyber-risk/ftc-orders-avast-to-pay-16-5m-for-selling-consumer-browsing-data)
 - [Malawi Immigration Dept. Halts Passport Services Amid Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/malawi-immigration-department-halts-services-amid-cyberattack)
 - [ConnectWise ScreenConnect Mass Exploitation Delivers Ransomware](https://www.darkreading.com/remote-workforce/connectwise-screenconnect-mass-exploitation-delivers-ransomware)
 - [Alarm Over GenAI Risk Fuels Security Spending in Middle East &amp;amp; Africa](https://www.darkreading.com/cybersecurity-operations/alarm-over-generative-ai-fuels-security-spending-in-middle-east-africa)
 - [Fostering Collaboration for Standardized Threat Investigation &amp;amp; Response](https://www.darkreading.com/cybersecurity-operations/fostering-collaboration-standardized-threat-investigation-response)
 - [Pharmacy Delays Across US Blamed on Nation-State Hackers](https://www.darkreading.com/cyberattacks-data-breaches/pharmacy-delays-across-us-blamed-on-nation-state-hackers)
 - [Hubris May Have Contributed to Downfall of Ransomware Kingpin LockBit](https://www.darkreading.com/cyberattacks-data-breaches/hubris-may-have-caused-lockbit-s-downfall)
-- [NSA Cybersecurity Director Rob Joyce to Retire](https://www.darkreading.com/cybersecurity-operations/nsa-cybersecurity-director-rob-joyce-to-retire)
-- [iSoon&#39;s Secret APT Status Exposes China&#39;s Foreign Hacking Machinations](https://www.darkreading.com/threat-intelligence/-isoon-contractor-helps-the-prc-hack-foreign-governments-companies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
