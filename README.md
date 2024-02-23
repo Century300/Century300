@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fostering Collaboration for Standardized Threat Investigation &amp;amp; Response](https://www.darkreading.com/cybersecurity-operations/fostering-collaboration-standardized-threat-investigation-response)
 - [Pharmacy Delays Across US Blamed on Nation-State Hackers](https://www.darkreading.com/cyberattacks-data-breaches/pharmacy-delays-across-us-blamed-on-nation-state-hackers)
 - [Hubris May Have Contributed to Downfall of Ransomware Kingpin LockBit](https://www.darkreading.com/cyberattacks-data-breaches/hubris-may-have-caused-lockbit-s-downfall)
 - [NSA Cybersecurity Director Rob Joyce to Retire](https://www.darkreading.com/cybersecurity-operations/nsa-cybersecurity-director-rob-joyce-to-retire)
@@ -83,7 +84,6 @@
 - [Insurers Use Claims Data to Recommend Cybersecurity Technologies](https://www.darkreading.com/cyber-risk/insurers-claims-data-recommend-cybersecurity-technologies)
 - [Zero-Click Apple Shortcuts Vulnerability Allows Silent Data Theft](https://www.darkreading.com/application-security/zero-click-apple-shortcuts-vulnerability-allows-silent-data-theft)
 - [Russian Cyberattackers Launch Multiphase PsyOps Campaign](https://www.darkreading.com/remote-workforce/russian-cyberattackers-launch-multi-phase-psyops-campaign)
-- [4 Key Steps to Reevaluate Your Cybersecurity Priorities](https://www.darkreading.com/cybersecurity-operations/4-key-steps-to-reevaluate-your-cybersecurity-priorities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
