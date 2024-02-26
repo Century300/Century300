@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Next Gen of Cybersecurity Could Be Hiding in Big Tech](https://www.darkreading.com/cybersecurity-operations/next-gen-of-cybersecurity-could-be-hiding-in-big-tech)
 - [Beyond Identity Introduces Device360 for Security Risk Visibility Across All Devices](https://www.darkreading.com/cyber-risk/beyond-identity-introduces-device360-for-security-risk-visibility-across-all-devices)
 - [Palo Alto Networks Launches Cortex Platform Offer](https://www.darkreading.com/endpoint-security/palo-alto-networks-launches-cortex-platform-offer)
 - [Apple Beefs Up iMessage With Quantum-Resistant Encryption](https://www.darkreading.com/endpoint-security/apple-beefs-up-imessage-with-quantum-resistant-encryption)
@@ -83,7 +84,6 @@
 - [Lovers&#39; Spat? North Korea Backdoors Russian Foreign Affairs Ministry](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-backdoors-russian-foreign-affairs-ministry)
 - [Orgs Face Major SEC Penalties for Failing to Disclose Breaches](https://www.darkreading.com/cyber-risk/orgs-face-major-sec-penalties-failing-disclose-breaches)
 - [Privacy Beats Ransomware as Top Insurance Concern](https://www.darkreading.com/data-privacy/privacy-ransomware-top-2024-cyber-insurance)
-- [Avast to Pay $16.5M Fine for Selling Consumer Browsing Data](https://www.darkreading.com/cyber-risk/ftc-orders-avast-to-pay-16-5m-for-selling-consumer-browsing-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
