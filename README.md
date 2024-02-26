@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UAC-0184 Targets Ukrainian Entity in Finland With Remcos RAT](https://www.darkreading.com/cyberattacks-data-breaches/uac-0184-targets-ukrainian-entity-finland-remcos-rat)
+- [NIST Releases Cybersecurity Framework 2.0](https://www.darkreading.com/ics-ot-security/nist-releases-cybersecurity-framework-2-0)
 - [Gulf Region Accelerates Adoption of Zero Trust](https://www.darkreading.com/cloud-security/gulf-region-accelerates-adoption-of-zero-trust)
 - [The Next Gen of Cybersecurity Could Be Hiding in Big Tech](https://www.darkreading.com/cybersecurity-operations/next-gen-of-cybersecurity-could-be-hiding-in-big-tech)
 - [Beyond Identity Introduces Device360 for Security Risk Visibility Across All Devices](https://www.darkreading.com/cyber-risk/beyond-identity-introduces-device360-for-security-risk-visibility-across-all-devices)
 - [Palo Alto Networks Launches Cortex Platform Offer](https://www.darkreading.com/endpoint-security/palo-alto-networks-launches-cortex-platform-offer)
 - [Apple Beefs Up iMessage With Quantum-Resistant Encryption](https://www.darkreading.com/endpoint-security/apple-beefs-up-imessage-with-quantum-resistant-encryption)
 - [Redesigning the Network to Fend Off Living-Off-the-Land Tactics](https://www.darkreading.com/identity-access-management-security/redesigning-the-network-to-fend-off-living-off-the-land-tactics)
-- [Lovers&#39; Spat? North Korea Backdoors Russian Foreign Affairs Ministry](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-backdoors-russian-foreign-affairs-ministry)
-- [Orgs Face Major SEC Penalties for Failing to Disclose Breaches](https://www.darkreading.com/cyber-risk/orgs-face-major-sec-penalties-failing-disclose-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
