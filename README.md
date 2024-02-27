@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China Launches New Cyber-Defense Plan for Industrial Networks](https://www.darkreading.com/cybersecurity-operations/china-rolls-out-strategy-to-prevent-hacking-from-foreign-entities)
 - [LockBit&#39;s Leak Site Reemerges, a Week After &#39;Complete Compromise&#39;](https://www.darkreading.com/threat-intelligence/lockbit-leak-site-reemerges-week-after-complete-compromise-)
 - [Fortress Information Security Deploys Automated Patch Notification and Authenticity Tool](https://www.darkreading.com/ics-ot-security/fortress-information-security-deploys-automated-patch-notification-and-authenticity-tool)
 - [Pentera Launches Global Partner Program to Accelerate Growing Channel](https://www.darkreading.com/cybersecurity-operations/pentera-launches-global-partner-program-to-accelerate-growing-channel)
@@ -83,7 +84,6 @@
 - [Delinea to Acquire Fastpath to Revolutionize Privileged Access and Identity Governance](https://www.darkreading.com/cybersecurity-operations/delinea-to-acquire-fastpath-to-revolutionize-privileged-access-and-identity-governance)
 - [Optiv Accepting Applications for $10K Scholarship](https://www.darkreading.com/cybersecurity-operations/optiv-accepting-applications-for-10k-scholarship)
 - [UAC-0184 Targets Ukrainian Entity in Finland With Remcos RAT](https://www.darkreading.com/cyberattacks-data-breaches/uac-0184-targets-ukrainian-entity-finland-remcos-rat)
-- [NIST Releases Cybersecurity Framework 2.0](https://www.darkreading.com/ics-ot-security/nist-releases-cybersecurity-framework-2-0)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
