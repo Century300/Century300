@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kaspersky Finds Attacks on Mobile Devices Significantly Increased in 2023](https://www.darkreading.com/endpoint-security/kaspersky-finds-attacks-on-mobile-devices-significantly-increased-in-2023)
+- [U-Haul Reports 67K Customers Impacted by Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/67k-customers-impacted-by-data-breach-according-to-u-haul)
 - [Russia&#39;s &#39;Midnight Blizzard&#39; Targets Service Accounts for Initial Cloud Access](https://www.darkreading.com/cloud-security/russia-s-midnight-blizzard-targeting-service-accounts-for-initial-cloud-access)
 - [Apple, Signal Debut Quantum-Resistant Encryption, but Challenges Loom](https://www.darkreading.com/cyber-risk/as-quantum-resistant-encryption-emerges-so-do-worries-about-adoption-challenges)
 - [Mexico&#39;s &#39;Timbre Stealer&#39; Campaign Targets Manufacturing](https://www.darkreading.com/ics-ot-security/mexico-timbre-stealer-campaign-heralds-2024-tax-season-threat)
 - [4 Ways Organizations Can Drive Demand for Software Security Training](https://www.darkreading.com/cybersecurity-operations/4-ways-organizations-drive-demand-for-software-security-training)
 - [eBay, VMware, McAfee Sites Hijacked in Sprawling Phishing Operation](https://www.darkreading.com/application-security/ebay-vmware-mcafee-sites-hijacked-sprawling-phishing-operation)
 - [What Companies &amp;amp; CISOs Should Know About Rising Legal Threats](https://www.darkreading.com/cyber-risk/what-companies-cisos-should-know-about-rising-legal-threats)
-- [China Launches New Cyber-Defense Plan for Industrial Networks](https://www.darkreading.com/cybersecurity-operations/china-rolls-out-strategy-to-prevent-hacking-from-foreign-entities)
-- [White House Urges Switching to Memory Safe Languages](https://www.darkreading.com/application-security/white-house-switch-memory-safe-languages)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
