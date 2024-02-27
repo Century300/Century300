@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [What Companies &amp;amp; CISOs Should Know About Rising Legal Threats](https://www.darkreading.com/cyber-risk/what-companies-cisos-should-know-about-rising-legal-threats)
 - [China Launches New Cyber-Defense Plan for Industrial Networks](https://www.darkreading.com/cybersecurity-operations/china-rolls-out-strategy-to-prevent-hacking-from-foreign-entities)
+- [White House Urges Switching to Memory Safe Languages](https://www.darkreading.com/application-security/white-house-switch-memory-safe-languages)
 - [LockBit&#39;s Leak Site Reemerges, a Week After &#39;Complete Compromise&#39;](https://www.darkreading.com/threat-intelligence/lockbit-leak-site-reemerges-week-after-complete-compromise-)
 - [Fortress Information Security Deploys Automated Patch Notification and Authenticity Tool](https://www.darkreading.com/ics-ot-security/fortress-information-security-deploys-automated-patch-notification-and-authenticity-tool)
 - [Pentera Launches Global Partner Program to Accelerate Growing Channel](https://www.darkreading.com/cybersecurity-operations/pentera-launches-global-partner-program-to-accelerate-growing-channel)
 - [Hack The Box Launches Certified Web Exploitation Expert As Demand for Risk Mitigation Grows](https://www.darkreading.com/cyber-risk/hack-the-box-launches-certified-web-exploitation-expert-as-demand-for-risk-mitigation-grows)
 - [Delinea to Acquire Fastpath to Revolutionize Privileged Access and Identity Governance](https://www.darkreading.com/cybersecurity-operations/delinea-to-acquire-fastpath-to-revolutionize-privileged-access-and-identity-governance)
-- [Optiv Accepting Applications for $10K Scholarship](https://www.darkreading.com/cybersecurity-operations/optiv-accepting-applications-for-10k-scholarship)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
