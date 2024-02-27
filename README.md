@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mexico&#39;s &#39;Timbre Stealer&#39; Campaign Targets Manufacturing](https://www.darkreading.com/ics-ot-security/mexico-timbre-stealer-campaign-heralds-2024-tax-season-threat)
 - [4 Ways Organizations Can Drive Demand for Software Security Training](https://www.darkreading.com/cybersecurity-operations/4-ways-organizations-drive-demand-for-software-security-training)
 - [eBay, VMware, McAfee Sites Hijacked in Sprawling Phishing Operation](https://www.darkreading.com/application-security/ebay-vmware-mcafee-sites-hijacked-sprawling-phishing-operation)
 - [What Companies &amp;amp; CISOs Should Know About Rising Legal Threats](https://www.darkreading.com/cyber-risk/what-companies-cisos-should-know-about-rising-legal-threats)
@@ -83,7 +84,6 @@
 - [White House Urges Switching to Memory Safe Languages](https://www.darkreading.com/application-security/white-house-switch-memory-safe-languages)
 - [LockBit&#39;s Leak Site Reemerges, a Week After &#39;Complete Compromise&#39;](https://www.darkreading.com/threat-intelligence/lockbit-leak-site-reemerges-week-after-complete-compromise-)
 - [Fortress Information Security Deploys Automated Patch Notification and Authenticity Tool](https://www.darkreading.com/ics-ot-security/fortress-information-security-deploys-automated-patch-notification-and-authenticity-tool)
-- [Pentera Launches Global Partner Program to Accelerate Growing Channel](https://www.darkreading.com/cybersecurity-operations/pentera-launches-global-partner-program-to-accelerate-growing-channel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
