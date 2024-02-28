@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Lure EU Diplomats With Wine-Tasting Offers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-lure-eu-diplomats-wine-tasting-offers)
 - [Converging State Privacy Laws and the Emerging AI Challenge](https://www.darkreading.com/cyber-risk/converging-state-privacy-laws-emerging-ai-challenge)
 - [&#39;Savvy Seahorse&#39; Hackers Debut Novel DNS CNAME Trick](https://www.darkreading.com/vulnerabilities-threats/savvy-seahorse-hackers-debut-novel-dns-cname-trick)
 - [&#39;Illusive&#39; Iranian Hacking Group Ensnares Israeli, UAE Aerospace and Defense Firms](https://www.darkreading.com/cyberattacks-data-breaches/illusive-iranian-hacking-group-ensnares-israeli-uae-aerospace-and-defense-firms)
@@ -83,7 +84,6 @@
 - [U-Haul Reports 67K Customers Impacted by Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/67k-customers-impacted-by-data-breach-according-to-u-haul)
 - [Russia&#39;s &#39;Midnight Blizzard&#39; Targets Service Accounts for Initial Cloud Access](https://www.darkreading.com/cloud-security/russia-s-midnight-blizzard-targeting-service-accounts-for-initial-cloud-access)
 - [Apple, Signal Debut Quantum-Resistant Encryption, but Challenges Loom](https://www.darkreading.com/cyber-risk/as-quantum-resistant-encryption-emerges-so-do-worries-about-adoption-challenges)
-- [Mexico&#39;s &#39;Timbre Stealer&#39; Campaign Targets Manufacturing](https://www.darkreading.com/ics-ot-security/mexico-timbre-stealer-campaign-heralds-2024-tax-season-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
