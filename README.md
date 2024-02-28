@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
+- [&#39;Voltzite&#39; Zaps African Utilities as Part of Volt Typhoon&#39;s Onslaught](https://www.darkreading.com/vulnerabilities-threats/voltzite-zaps-african-utilities-volt-typhoon-onslaught)
 - [Cyberattackers Lure EU Diplomats With Wine-Tasting Offers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-lure-eu-diplomats-wine-tasting-offers)
 - [Converging State Privacy Laws and the Emerging AI Challenge](https://www.darkreading.com/cyber-risk/converging-state-privacy-laws-emerging-ai-challenge)
 - [&#39;Savvy Seahorse&#39; Hackers Debut Novel DNS CNAME Trick](https://www.darkreading.com/vulnerabilities-threats/savvy-seahorse-hackers-debut-novel-dns-cname-trick)
 - [&#39;Illusive&#39; Iranian Hacking Group Ensnares Israeli, UAE Aerospace and Defense Firms](https://www.darkreading.com/cyberattacks-data-breaches/illusive-iranian-hacking-group-ensnares-israeli-uae-aerospace-and-defense-firms)
 - [Kaspersky Finds Attacks on Mobile Devices Significantly Increased in 2023](https://www.darkreading.com/endpoint-security/kaspersky-finds-attacks-on-mobile-devices-significantly-increased-in-2023)
 - [U-Haul Reports 67K Customers Impacted by Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/67k-customers-impacted-by-data-breach-according-to-u-haul)
-- [Russia&#39;s &#39;Midnight Blizzard&#39; Targets Service Accounts for Initial Cloud Access](https://www.darkreading.com/cloud-security/russia-s-midnight-blizzard-targeting-service-accounts-for-initial-cloud-access)
-- [Apple, Signal Debut Quantum-Resistant Encryption, but Challenges Loom](https://www.darkreading.com/cyber-risk/as-quantum-resistant-encryption-emerges-so-do-worries-about-adoption-challenges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
