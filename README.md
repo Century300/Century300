@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Savvy Seahorse&#39; Hackers Debut Novel DNS CNAME Trick](https://www.darkreading.com/vulnerabilities-threats/savvy-seahorse-hackers-debut-novel-dns-cname-trick)
 - [&#39;Illusive&#39; Iranian Hacking Group Ensnares Israeli, UAE Aerospace and Defense Firms](https://www.darkreading.com/cyberattacks-data-breaches/illusive-iranian-hacking-group-ensnares-israeli-uae-aerospace-and-defense-firms)
 - [Kaspersky Finds Attacks on Mobile Devices Significantly Increased in 2023](https://www.darkreading.com/endpoint-security/kaspersky-finds-attacks-on-mobile-devices-significantly-increased-in-2023)
 - [U-Haul Reports 67K Customers Impacted by Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/67k-customers-impacted-by-data-breach-according-to-u-haul)
@@ -83,7 +84,6 @@
 - [Apple, Signal Debut Quantum-Resistant Encryption, but Challenges Loom](https://www.darkreading.com/cyber-risk/as-quantum-resistant-encryption-emerges-so-do-worries-about-adoption-challenges)
 - [Mexico&#39;s &#39;Timbre Stealer&#39; Campaign Targets Manufacturing](https://www.darkreading.com/ics-ot-security/mexico-timbre-stealer-campaign-heralds-2024-tax-season-threat)
 - [4 Ways Organizations Can Drive Demand for Software Security Training](https://www.darkreading.com/cybersecurity-operations/4-ways-organizations-drive-demand-for-software-security-training)
-- [eBay, VMware, McAfee Sites Hijacked in Sprawling Phishing Operation](https://www.darkreading.com/application-security/ebay-vmware-mcafee-sites-hijacked-sprawling-phishing-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
