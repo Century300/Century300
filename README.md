@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hugging Face AI Platform Riddled With 100 Malicious Code-Execution Models](https://www.darkreading.com/application-security/hugging-face-ai-platform-100-malicious-code-execution-models)
 - [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
 - [Ransomware-as-a-Service Spawns Wave of Cyberattacks in Middle East &amp;amp; Africa](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-as-a-service-spawns-widespread-cyberattacks-in-mea)
 - [Meet &#39;XHelper,&#39; the All-in-One Android App for Global Money Laundering](https://www.darkreading.com/threat-intelligence/xhelper-all-in-one-android-app-global-money-laundering)
@@ -83,7 +84,6 @@
 - [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
 - [&#39;Voltzite&#39; Zaps African Utilities as Part of Volt Typhoon&#39;s Onslaught](https://www.darkreading.com/vulnerabilities-threats/voltzite-zaps-african-utilities-volt-typhoon-onslaught)
 - [Cyberattackers Lure EU Diplomats With Wine-Tasting Offers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-lure-eu-diplomats-wine-tasting-offers)
-- [Converging State Privacy Laws and the Emerging AI Challenge](https://www.darkreading.com/cyber-risk/converging-state-privacy-laws-emerging-ai-challenge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
