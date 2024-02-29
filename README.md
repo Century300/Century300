@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Entro Extends Machine Secrets and Identities Protection With Machine Identity Lifecycle Management](https://www.darkreading.com/cybersecurity-operations/entro-extends-machine-secrets-and-identities-protection-with-machine-identity-lifecycle-management)
 - [MITRE Rolls Out 4 Brand-New CWEs for Microprocessor Security Bugs](https://www.darkreading.com/endpoint-security/four-new-cwes-released-for-microprocessor-architectures)
 - [Hugging Face AI Platform Riddled With 100 Malicious Code-Execution Models](https://www.darkreading.com/application-security/hugging-face-ai-platform-100-malicious-code-execution-models)
 - [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
@@ -83,7 +84,6 @@
 - [Meet &#39;XHelper,&#39; the All-in-One Android App for Global Money Laundering](https://www.darkreading.com/threat-intelligence/xhelper-all-in-one-android-app-global-money-laundering)
 - [Echoes of SolarWinds in New &#39;Silver SAML&#39; Attack Technique](https://www.darkreading.com/cyber-risk/researchers-release-details-on-new-silver-saml-attack-technique)
 - [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
-- [&#39;Voltzite&#39; Zaps African Utilities as Part of Volt Typhoon&#39;s Onslaught](https://www.darkreading.com/vulnerabilities-threats/voltzite-zaps-african-utilities-volt-typhoon-onslaught)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
