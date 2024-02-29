@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
+- [Ransomware-as-a-Service Spawns Wave of Cyberattacks in Middle East &amp;amp; Africa](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-as-a-service-spawns-widespread-cyberattacks-in-mea)
 - [Meet &#39;XHelper,&#39; the All-in-One Android App for Global Money Laundering](https://www.darkreading.com/threat-intelligence/xhelper-all-in-one-android-app-global-money-laundering)
 - [Echoes of SolarWinds in New &#39;Silver SAML&#39; Attack Technique](https://www.darkreading.com/cyber-risk/researchers-release-details-on-new-silver-saml-attack-technique)
 - [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
 - [&#39;Voltzite&#39; Zaps African Utilities as Part of Volt Typhoon&#39;s Onslaught](https://www.darkreading.com/vulnerabilities-threats/voltzite-zaps-african-utilities-volt-typhoon-onslaught)
 - [Cyberattackers Lure EU Diplomats With Wine-Tasting Offers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-lure-eu-diplomats-wine-tasting-offers)
 - [Converging State Privacy Laws and the Emerging AI Challenge](https://www.darkreading.com/cyber-risk/converging-state-privacy-laws-emerging-ai-challenge)
-- [&#39;Savvy Seahorse&#39; Hackers Debut Novel DNS CNAME Trick](https://www.darkreading.com/vulnerabilities-threats/savvy-seahorse-hackers-debut-novel-dns-cname-trick)
-- [&#39;Illusive&#39; Iranian Hacking Group Ensnares Israeli, UAE Aerospace and Defense Firms](https://www.darkreading.com/cyberattacks-data-breaches/illusive-iranian-hacking-group-ensnares-israeli-uae-aerospace-and-defense-firms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
