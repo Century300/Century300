@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MITRE Rolls Out 4 Brand-New CWEs for Microprocessor Security Bugs](https://www.darkreading.com/endpoint-security/four-new-cwes-released-for-microprocessor-architectures)
 - [Hugging Face AI Platform Riddled With 100 Malicious Code-Execution Models](https://www.darkreading.com/application-security/hugging-face-ai-platform-100-malicious-code-execution-models)
 - [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
 - [Ransomware-as-a-Service Spawns Wave of Cyberattacks in Middle East &amp;amp; Africa](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-as-a-service-spawns-widespread-cyberattacks-in-mea)
@@ -83,7 +84,6 @@
 - [Echoes of SolarWinds in New &#39;Silver SAML&#39; Attack Technique](https://www.darkreading.com/cyber-risk/researchers-release-details-on-new-silver-saml-attack-technique)
 - [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
 - [&#39;Voltzite&#39; Zaps African Utilities as Part of Volt Typhoon&#39;s Onslaught](https://www.darkreading.com/vulnerabilities-threats/voltzite-zaps-african-utilities-volt-typhoon-onslaught)
-- [Cyberattackers Lure EU Diplomats With Wine-Tasting Offers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-lure-eu-diplomats-wine-tasting-offers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
