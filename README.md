@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Troutman Pepper Forms Incidents and Investigations Team](https://www.darkreading.com/cyberattacks-data-breaches/troutman-pepper-forms-incidents-and-investigations-team)
+- [Tenable Introduces Visibility Across IT, OT, and IoT Domains](https://www.darkreading.com/ics-ot-security/tenable-introduces-visibility-across-it-ot-and-iot-domains)
+- [Cybersecurity Startup Morphisec Appoints Ron Reinfeld As CEO](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-startup-morphisec-appoints-ron-reinfeld-as-ceo)
 - [Entro Extends Machine Secrets and Identities Protection With Machine Identity Lifecycle Management](https://www.darkreading.com/cybersecurity-operations/entro-extends-machine-secrets-and-identities-protection-with-machine-identity-lifecycle-management)
 - [MITRE Rolls Out 4 Brand-New CWEs for Microprocessor Security Bugs](https://www.darkreading.com/endpoint-security/four-new-cwes-released-for-microprocessor-architectures)
 - [Hugging Face AI Platform Riddled With 100 Malicious Code-Execution Models](https://www.darkreading.com/application-security/hugging-face-ai-platform-100-malicious-code-execution-models)
 - [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
 - [Ransomware-as-a-Service Spawns Wave of Cyberattacks in Middle East &amp;amp; Africa](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-as-a-service-spawns-widespread-cyberattacks-in-mea)
-- [Meet &#39;XHelper,&#39; the All-in-One Android App for Global Money Laundering](https://www.darkreading.com/threat-intelligence/xhelper-all-in-one-android-app-global-money-laundering)
-- [Echoes of SolarWinds in New &#39;Silver SAML&#39; Attack Technique](https://www.darkreading.com/cyber-risk/researchers-release-details-on-new-silver-saml-attack-technique)
-- [US Government Expands Role in Software Security](https://www.darkreading.com/application-security/us-government-taking-bigger-role-in-software-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
