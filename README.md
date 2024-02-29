@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
+- [Chinese APT Developing Exploits to Defeat Already Patched Ivanti Users](https://www.darkreading.com/endpoint-security/chinese-apt-exploits-defeat-patched-ivanti-users)
+- [Biden Administration Unveils Data Privacy Executive Order](https://www.darkreading.com/cyber-risk/biden-administration-unveils-data-privacy-executive-order)
 - [Troutman Pepper Forms Incidents and Investigations Team](https://www.darkreading.com/cyberattacks-data-breaches/troutman-pepper-forms-incidents-and-investigations-team)
 - [Tenable Introduces Visibility Across IT, OT, and IoT Domains](https://www.darkreading.com/ics-ot-security/tenable-introduces-visibility-across-it-ot-and-iot-domains)
 - [Cybersecurity Startup Morphisec Appoints Ron Reinfeld As CEO](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-startup-morphisec-appoints-ron-reinfeld-as-ceo)
 - [Entro Extends Machine Secrets and Identities Protection With Machine Identity Lifecycle Management](https://www.darkreading.com/cybersecurity-operations/entro-extends-machine-secrets-and-identities-protection-with-machine-identity-lifecycle-management)
 - [MITRE Rolls Out 4 Brand-New CWEs for Microprocessor Security Bugs](https://www.darkreading.com/endpoint-security/four-new-cwes-released-for-microprocessor-architectures)
-- [Hugging Face AI Platform Riddled With 100 Malicious Code-Execution Models](https://www.darkreading.com/application-security/hugging-face-ai-platform-100-malicious-code-execution-models)
-- [MTTR: The Most Important Security Metric](https://www.darkreading.com/cyberattacks-data-breaches/mttr-most-important-security-metric)
-- [Ransomware-as-a-Service Spawns Wave of Cyberattacks in Middle East &amp;amp; Africa](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-as-a-service-spawns-widespread-cyberattacks-in-mea)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
