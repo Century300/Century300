@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tips on Managing Diverse Security Teams](https://www.darkreading.com/cybersecurity-operations/tips-managing-diverse-security-teams)
 - [Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa](https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa)
 - [Microsoft Zero-Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
 - [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
@@ -83,7 +84,6 @@
 - [Biden Administration Unveils Data Privacy Executive Order](https://www.darkreading.com/cyber-risk/biden-administration-unveils-data-privacy-executive-order)
 - [Troutman Pepper Forms Incidents and Investigations Team](https://www.darkreading.com/cyberattacks-data-breaches/troutman-pepper-forms-incidents-and-investigations-team)
 - [Tenable Introduces Visibility Across IT, OT, and IoT Domains](https://www.darkreading.com/ics-ot-security/tenable-introduces-visibility-across-it-ot-and-iot-domains)
-- [Cybersecurity Startup Morphisec Appoints Ron Reinfeld As CEO](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-startup-morphisec-appoints-ron-reinfeld-as-ceo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
