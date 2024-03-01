@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [It&#39;s 10PM, Do You Know Where Your AI Models are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
+- [It&#39;s 10 p.m. Do You Know Where Your AI Models Are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
 - [Taiwan&#39;s Biggest Telco Breached by Suspected Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web)
 - [NIST Cybersecurity Framework 2.0: 4 Steps to Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
 - [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
