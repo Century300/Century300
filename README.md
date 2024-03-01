@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
+- [Biometrics Regulation Heats Up, Portending Compliance Headaches](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
 - [Tips on Managing Diverse Security Teams](https://www.darkreading.com/cybersecurity-operations/tips-managing-diverse-security-teams)
 - [Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa](https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa)
 - [Microsoft Zero-Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
 - [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
 - [Chinese APT Developing Exploits to Defeat Already Patched Ivanti Users](https://www.darkreading.com/endpoint-security/chinese-apt-exploits-defeat-patched-ivanti-users)
 - [Biden Administration Unveils Data Privacy Executive Order](https://www.darkreading.com/cyber-risk/biden-administration-unveils-data-privacy-executive-order)
-- [Troutman Pepper Forms Incidents and Investigations Team](https://www.darkreading.com/cyberattacks-data-breaches/troutman-pepper-forms-incidents-and-investigations-team)
-- [Tenable Introduces Visibility Across IT, OT, and IoT Domains](https://www.darkreading.com/ics-ot-security/tenable-introduces-visibility-across-it-ot-and-iot-domains)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
