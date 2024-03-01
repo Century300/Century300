@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa](https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa)
 - [Microsoft Zero Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
 - [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
 - [Chinese APT Developing Exploits to Defeat Already Patched Ivanti Users](https://www.darkreading.com/endpoint-security/chinese-apt-exploits-defeat-patched-ivanti-users)
@@ -83,7 +84,6 @@
 - [Troutman Pepper Forms Incidents and Investigations Team](https://www.darkreading.com/cyberattacks-data-breaches/troutman-pepper-forms-incidents-and-investigations-team)
 - [Tenable Introduces Visibility Across IT, OT, and IoT Domains](https://www.darkreading.com/ics-ot-security/tenable-introduces-visibility-across-it-ot-and-iot-domains)
 - [Cybersecurity Startup Morphisec Appoints Ron Reinfeld As CEO](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-startup-morphisec-appoints-ron-reinfeld-as-ceo)
-- [Entro Extends Machine Secrets and Identities Protection With Machine Identity Lifecycle Management](https://www.darkreading.com/cybersecurity-operations/entro-extends-machine-secrets-and-identities-protection-with-machine-identity-lifecycle-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
