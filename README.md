@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa](https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa)
-- [Microsoft Zero Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
+- [Microsoft Zero-Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
 - [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
 - [Chinese APT Developing Exploits to Defeat Already Patched Ivanti Users](https://www.darkreading.com/endpoint-security/chinese-apt-exploits-defeat-patched-ivanti-users)
 - [Biden Administration Unveils Data Privacy Executive Order](https://www.darkreading.com/cyber-risk/biden-administration-unveils-data-privacy-executive-order)
