@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [It&#39;s 10PM, Do You Know Where Your AI Models are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
+- [Taiwan&#39;s Biggest Telco Breached by Suspected Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web)
+- [NIST Cybersecurity Framework 2.0: 4 Steps to Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
 - [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
 - [Biometrics Regulation Heats Up, Portending Compliance Headaches](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
-- [NIST Cybersecurity Framework 2.0: 4 Steps To Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
 - [Tips on Managing Diverse Security Teams](https://www.darkreading.com/cybersecurity-operations/tips-managing-diverse-security-teams)
 - [Infrastructure Cyberattacks, AI-Powered Threats Pummel Africa](https://www.darkreading.com/vulnerabilities-threats/ai-powered-threats-cyberattacks-on-infrastructure-pummel-africa)
 - [Microsoft Zero-Day Used by Lazarus in Rootkit Attack](https://www.darkreading.com/vulnerabilities-threats/microsoft-zero-day-used-by-lazarus-in-rootkit-attack)
-- [FBI, CISA Release IoCs for Phobos Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-release-iocs-for-phobos-ransomware)
-- [Chinese APT Developing Exploits to Defeat Already Patched Ivanti Users](https://www.darkreading.com/endpoint-security/chinese-apt-exploits-defeat-patched-ivanti-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
