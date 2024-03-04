@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Smartphones That Help You Bust Out of the Android/iOS Ecosystem](https://www.darkreading.com/endpoint-security/smartphones-avoid-android-ios)
-- [The 3 Most Prevalent Cyber Threats of the Holidays](https://www.darkreading.com/vulnerabilities-threats/3-most-prevalent-cyber-threats-holidays)
-- [10 Holiday Gifts for Stressed-Out Security Pros](https://www.darkreading.com/endpoint-security/10-holiday-gifts-for-stressed-out-security-pros)
-- [The 7 Deadly Sins of Security Awareness Training](https://www.darkreading.com/cybersecurity-operations/the-7-deadly-sins-of-security-awareness-training)
-- [Omdia Analyst Summit 2023 Highlight: Why Digital Dependence Demands Digital Resilience](https://www.darkreading.com/cybersecurity-operations/omdia-analyst-summit-2023-highlight-why-digital-dependence-demands-digital-resilience-)
-- [Make Changes to be Ready for the New SEC Cybersecurity Disclosure Rule](https://www.darkreading.com/cyber-risk/make-changes-to-be-ready-for-the-new-sec-cybersecurity-disclosure-rule)
-- [Hunters International&#39; Cyberattackers Take Over Hive Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/hunters-international-cyberattackers-take-over-hive-ransomware)
-- [Evasive Jupyter Infostealer Campaign Showcases Dangerous Variant](https://www.darkreading.com/cyberattacks-data-breaches/evasive-jupyter-infostealer-campaign-dangerous-variant)
+- [Millions of Malicious Repositories Flood GitHub](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
+- [CISO Corner: Operationalizing NIST CSF 2.0; AI Models Run Amok](https://www.darkreading.com/ics-ot-security/ciso-corner-operationalizing-nist-csf-ai-models-run-amok)
+- [It&#39;s 10 p.m. Do You Know Where Your AI Models Are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
+- [Taiwan&#39;s Biggest Telco Breached by Suspected Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web)
+- [NIST Cybersecurity Framework 2.0: 4 Steps to Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
+- [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
+- [Biometrics Regulation Heats Up, Portending Compliance Headaches](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
+- [Tips on Managing Diverse Security Teams](https://www.darkreading.com/cybersecurity-operations/tips-managing-diverse-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
