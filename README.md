@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical TeamCity Bugs Endanger Software Supply Chain](https://www.darkreading.com/application-security/critical-teamcity-bugs-endanger-software-supply-chain)
+- [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models)
+- [Amex Customer Data Exposed in Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/amex-customer-data-exposed-third-party-breach)
 - [Predator Spyware Alive &amp;amp; Well and Expanding](https://www.darkreading.com/remote-workforce/predator-mobile-spyware-alive-and-well-and-expanding)
 - [Middle East Leads in Deployment of DMARC Email Security](https://www.darkreading.com/cyber-risk/middle-east-leads-in-dmarc-deployment)
 - [Name That Edge Toon: How Charming](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-how-charming)
 - [What Cybersecurity Chiefs Need From Their CEOs](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-chiefs-need-from-their-ceos)
 - [Millions of Malicious Repositories Flood GitHub](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
-- [CISO Corner: Operationalizing NIST CSF 2.0; AI Models Run Amok](https://www.darkreading.com/ics-ot-security/ciso-corner-operationalizing-nist-csf-ai-models-run-amok)
-- [It&#39;s 10 p.m. Do You Know Where Your AI Models Are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
-- [Taiwan&#39;s Biggest Telco Breached by Suspected Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
