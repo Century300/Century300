@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Cybersecurity Chiefs Need From Their CEOs](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-chiefs-need-from-their-ceos)
 - [Millions of Malicious Repositories Flood GitHub](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
 - [CISO Corner: Operationalizing NIST CSF 2.0; AI Models Run Amok](https://www.darkreading.com/ics-ot-security/ciso-corner-operationalizing-nist-csf-ai-models-run-amok)
 - [It&#39;s 10 p.m. Do You Know Where Your AI Models Are Tonight?](https://www.darkreading.com/cyber-risk/do-you-know-where-your-ai-models-are-tonight)
@@ -83,7 +84,6 @@
 - [NIST Cybersecurity Framework 2.0: 4 Steps to Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
 - [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
 - [Biometrics Regulation Heats Up, Portending Compliance Headaches](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
-- [Tips on Managing Diverse Security Teams](https://www.darkreading.com/cybersecurity-operations/tips-managing-diverse-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
