@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: How Charming](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-how-charming)
 - [What Cybersecurity Chiefs Need From Their CEOs](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-chiefs-need-from-their-ceos)
 - [Millions of Malicious Repositories Flood GitHub](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
 - [CISO Corner: Operationalizing NIST CSF 2.0; AI Models Run Amok](https://www.darkreading.com/ics-ot-security/ciso-corner-operationalizing-nist-csf-ai-models-run-amok)
@@ -83,7 +84,6 @@
 - [Taiwan&#39;s Biggest Telco Breached by Suspected Chinese Hackers](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-telco-breached-data-sold-on-dark-web)
 - [NIST Cybersecurity Framework 2.0: 4 Steps to Get Started](https://www.darkreading.com/ics-ot-security/nist-cybersecurity-framework-2-0-4-steps-get-started)
 - [CryptoChameleon Attackers Target Apple, Okta Users With Tech Support Gambit](https://www.darkreading.com/application-security/cryptochameleon-attackers-target-apple-okta-users-tech-support-gambit)
-- [Biometrics Regulation Heats Up, Portending Compliance Headaches](https://www.darkreading.com/application-security/biometrics-regulation-portending-compliance-headaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
