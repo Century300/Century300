@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [GhostLocker 2.0 Haunts Businesses Across Middle East, Africa &amp;amp; Asia](https://www.darkreading.com/cyberattacks-data-breaches/ghostlocker-two-threatens-businesses-across-middle-east-africa-asia)
 - [Seoul Spies Say North Korea Hackers Stole Semiconductor Secrets](https://www.darkreading.com/cyberattacks-data-breaches/seoul-spies-say-north-korea-hackers-stole-semiconductor-secrets)
 - [Critical TeamCity Bugs Endanger Software Supply Chain](https://www.darkreading.com/application-security/critical-teamcity-bugs-endanger-software-supply-chain)
 - [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models)
@@ -83,7 +84,6 @@
 - [Predator Spyware Alive &amp;amp; Well and Expanding](https://www.darkreading.com/remote-workforce/predator-mobile-spyware-alive-and-well-and-expanding)
 - [Middle East Leads in Deployment of DMARC Email Security](https://www.darkreading.com/cyber-risk/middle-east-leads-in-dmarc-deployment)
 - [Name That Edge Toon: How Charming](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-how-charming)
-- [What Cybersecurity Chiefs Need From Their CEOs](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-chiefs-need-from-their-ceos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
