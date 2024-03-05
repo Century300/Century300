@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Seoul Spies Say North Korea Hackers Stole Semiconductor Secrets](https://www.darkreading.com/cyberattacks-data-breaches/seoul-spies-say-north-korea-hackers-stole-semiconductor-secrets)
 - [Critical TeamCity Bugs Endanger Software Supply Chain](https://www.darkreading.com/application-security/critical-teamcity-bugs-endanger-software-supply-chain)
 - [Zero-Click GenAI Worm Spreads Malware, Poisoning Models](https://www.darkreading.com/application-security/zero-click-genai-worm-malware-poisoning-models)
 - [Amex Customer Data Exposed in Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/amex-customer-data-exposed-third-party-breach)
@@ -83,7 +84,6 @@
 - [Middle East Leads in Deployment of DMARC Email Security](https://www.darkreading.com/cyber-risk/middle-east-leads-in-dmarc-deployment)
 - [Name That Edge Toon: How Charming](https://www.darkreading.com/ics-ot-security/name-that-edge-toon-how-charming)
 - [What Cybersecurity Chiefs Need From Their CEOs](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-chiefs-need-from-their-ceos)
-- [Millions of Malicious Repositories Flood GitHub](https://www.darkreading.com/application-security/millions-of-malicious-repositories-flood-github)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
