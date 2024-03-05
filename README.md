@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Predator Spyware Operators Slapped With US Sanctions](https://www.darkreading.com/endpoint-security/global-commercial-spyware-operators-sanctioned-by-us)
+- [Why Criminals Like AI for Synthetic Identity Fraud](https://www.darkreading.com/cyber-risk/why-criminals-like-ai-for-synthetic-identity-fraud)
+- [BlackCat Goes Dark After Ripping Off Change Healthcare Ransom](https://www.darkreading.com/cyberattacks-data-breaches/blackcat-goes-dark-again-reportedly-rips-off-change-healthcare-ransom)
 - [Army Vet Spills National Secrets to Fake Ukrainian Girlfriend](https://www.darkreading.com/cyber-risk/air-force-employee-shares-classified-info-via-dating-app-charged-with-conspiracy)
 - [North Korea Hits ScreenConnect Bugs to Drop &#39;ToddleShark&#39; Malware](https://www.darkreading.com/remote-workforce/north-korea-screenconnect-bugs-toddleshark-malware)
 - [Improved, Stuxnet-Like PLC Malware Aims to Disrupt Critical Infrastructure](https://www.darkreading.com/ics-ot-security/improved-stuxnet-like-plc-malware-disrupt-critical-infrastructure)
 - [Fast-Growing RA Ransomware Group Goes Global](https://www.darkreading.com/ics-ot-security/fast-growing-ra-ransomware-group-goes-global)
 - [Navigating Biometric Data Security Risks in the Digital Age](https://www.darkreading.com/cyber-risk/navigating-biometric-data-security-risks-digital-age)
-- [GhostLocker 2.0 Haunts Businesses Across Middle East, Africa &amp;amp; Asia](https://www.darkreading.com/cyberattacks-data-breaches/ghostlocker-two-threatens-businesses-across-middle-east-africa-asia)
-- [Seoul Spies Say North Korea Hackers Stole Semiconductor Secrets](https://www.darkreading.com/cyberattacks-data-breaches/seoul-spies-say-north-korea-hackers-stole-semiconductor-secrets)
-- [Critical TeamCity Bugs Endanger Software Supply Chain](https://www.darkreading.com/application-security/critical-teamcity-bugs-endanger-software-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
