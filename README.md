@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Southern Company Builds SBOM for Electric Power Substation](https://www.darkreading.com/ics-ot-security/southern-company-builds-a-power-substation-sbom)
 - [Network Perception Introduces Rapid Verification of Zone-to-Zone Segmentation](https://www.darkreading.com/ics-ot-security/network-perception-introduces-rapid-verification-of-zone-to-zone-segmentation)
 - [Delinea Debuts Privilege Control for Servers: Thwarting Stolen Credentials and Lateral Movement](https://www.darkreading.com/cyberattacks-data-breaches/delinea-debuts-privilege-control-for-servers-thwarting-stolen-credentials-and-lateral-movement)
 - [Boston Red Sox Choose Centripetal As Cyber Network Security Partner](https://www.darkreading.com/cybersecurity-operations/boston-red-sox-choose-centripetal-as-cyber-network-security-partner)
@@ -83,7 +84,6 @@
 - [The Challenges of AI Security Begin With Defining It](https://www.darkreading.com/application-security/the-challenges-of-ai-security-begin-with-defining-it)
 - [Predator Spyware Operators Slapped With US Sanctions](https://www.darkreading.com/endpoint-security/global-commercial-spyware-operators-sanctioned-by-us)
 - [Why Criminals Like AI for Synthetic Identity Fraud](https://www.darkreading.com/cyber-risk/why-criminals-like-ai-for-synthetic-identity-fraud)
-- [BlackCat Goes Dark After Ripping Off Change Healthcare Ransom](https://www.darkreading.com/cyberattacks-data-breaches/blackcat-goes-dark-again-reportedly-rips-off-change-healthcare-ransom)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
