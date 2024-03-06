@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Network Perception Introduces Rapid Verification of Zone-to-Zone Segmentation](https://www.darkreading.com/ics-ot-security/network-perception-introduces-rapid-verification-of-zone-to-zone-segmentation)
+- [Delinea Debuts Privilege Control for Servers: Thwarting Stolen Credentials and Lateral Movement](https://www.darkreading.com/cyberattacks-data-breaches/delinea-debuts-privilege-control-for-servers-thwarting-stolen-credentials-and-lateral-movement)
+- [Boston Red Sox Choose Centripetal As Cyber Network Security Partner](https://www.darkreading.com/cybersecurity-operations/boston-red-sox-choose-centripetal-as-cyber-network-security-partner)
+- [Horizon3.ai Unveils Pentesting Services for Compliance Ahead of PCI DSS v4.0 Rollout](https://www.darkreading.com/cybersecurity-operations/horizon3-ai-unveils-pentesting-services-for-compliance-ahead-of-pci-dss-v4-0-rollout)
+- [The Challenges of AI Security Begin With Defining It](https://www.darkreading.com/application-security/the-challenges-of-ai-security-begin-with-defining-it)
 - [Predator Spyware Operators Slapped With US Sanctions](https://www.darkreading.com/endpoint-security/global-commercial-spyware-operators-sanctioned-by-us)
 - [Why Criminals Like AI for Synthetic Identity Fraud](https://www.darkreading.com/cyber-risk/why-criminals-like-ai-for-synthetic-identity-fraud)
 - [BlackCat Goes Dark After Ripping Off Change Healthcare Ransom](https://www.darkreading.com/cyberattacks-data-breaches/blackcat-goes-dark-again-reportedly-rips-off-change-healthcare-ransom)
-- [Army Vet Spills National Secrets to Fake Ukrainian Girlfriend](https://www.darkreading.com/cyber-risk/air-force-employee-shares-classified-info-via-dating-app-charged-with-conspiracy)
-- [North Korea Hits ScreenConnect Bugs to Drop &#39;ToddleShark&#39; Malware](https://www.darkreading.com/remote-workforce/north-korea-screenconnect-bugs-toddleshark-malware)
-- [Improved, Stuxnet-Like PLC Malware Aims to Disrupt Critical Infrastructure](https://www.darkreading.com/ics-ot-security/improved-stuxnet-like-plc-malware-disrupt-critical-infrastructure)
-- [Fast-Growing RA Ransomware Group Goes Global](https://www.darkreading.com/ics-ot-security/fast-growing-ra-ransomware-group-goes-global)
-- [Navigating Biometric Data Security Risks in the Digital Age](https://www.darkreading.com/cyber-risk/navigating-biometric-data-security-risks-digital-age)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
