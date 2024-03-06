@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud-y Linux Malware Rains on Apache, Docker, Redis &amp;amp; Confluence](https://www.darkreading.com/cloud-security/cloud-y-linux-malware-rains-apache-docker-redis-confluence)
+- [First BofA, Now Fidelity: Same Vendor Behind Third-Party Breaches](https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches)
 - [Veeam Launches Veeam Data Cloud](https://www.darkreading.com/cloud-security/veeam-launches-veeam-data-cloud)
 - [Patch Now: Apple Zero-Day Exploits Bypass Kernel Security](https://www.darkreading.com/ics-ot-security/patch-now-apple-zero-day-exploits-bypass-kernel-security)
 - [Spoofed Zoom, Google &amp;amp; Skype Meetings Spread Corporate RATs](https://www.darkreading.com/cyberattacks-data-breaches/spoofed-zoom-google-skype-meetings-spread-corporate-rats)
 - [10 Essential Processes for Reducing the Top 11 Cloud Risks](https://www.darkreading.com/cyber-risk/10-essential-processes-for-reducing-top-11-cloud-risks)
 - [The Rise of Social Engineering Fraud in Business Email Compromise](https://www.darkreading.com/cyberattacks-data-breaches/the-rise-of-social-engineering-fraud-in-business-email-compromise)
 - [Southern Company Builds SBOM for Electric Power Substation](https://www.darkreading.com/ics-ot-security/southern-company-builds-a-power-substation-sbom)
-- [Network Perception Introduces Rapid Verification of Zone-to-Zone Segmentation](https://www.darkreading.com/ics-ot-security/network-perception-introduces-rapid-verification-of-zone-to-zone-segmentation)
-- [Delinea Debuts Privilege Control for Servers: Thwarting Stolen Credentials and Lateral Movement](https://www.darkreading.com/cyberattacks-data-breaches/delinea-debuts-privilege-control-for-servers-thwarting-stolen-credentials-and-lateral-movement)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
