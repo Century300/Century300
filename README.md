@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
+- [Silence Laboratories Raises $4.1M Funding to Enable Privacy Preserving Collaborative Computing](https://www.darkreading.com/cyber-risk/silence-laboratories-raises-4-1m-funding-to-enable-privacy-preserving-collaborative-computing)
+- [Bipartisan Members of Congress Introduce Enhanced Cybersecurity for SNAP Act to Secure Food Benefits Against Hackers and Thieves](https://www.darkreading.com/cyber-risk/bipartisan-members-of-congress-introduce-enhanced-cybersecurity-for-snap-act-to-secure-food-benefits-against-hackers-and-thieves)
 - [&#39;The Weirdest Trend in Cybersecurity&#39;: Nation-States Returning to USBs](https://www.darkreading.com/ics-ot-security/weirdest-trend-cybersecurity-nation-states-usb)
 - [How CISA Fights Cyber Threats During Election Primary Season](https://www.darkreading.com/cybersecurity-operations/cisa-fights-cyber-threats-election-primary-season)
 - [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://www.darkreading.com/cloud-security/stealthy-bifrost-rat-linux-variants-use-typosquatting-to-evade-detection-)
 - [Don&#39;t Give Your Business Data to AI Companies](https://www.darkreading.com/vulnerabilities-threats/dont-give-your-business-data-to-ai-companies)
 - [China-Linked Cyber Spies Blend Watering Hole, Supply Chain Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-cyber-spies-blend-watering-hole-supply-chain-attacks)
-- [CISO Sixth Sense: NIST CSF 2.0&#39;s Govern Function](https://www.darkreading.com/cybersecurity-operations/ciso-sixth-sense-nist-csf-2-govern-function)
-- [Japan on Line Breach: Clean Up Post-Merger Tech Sprawl](https://www.darkreading.com/cybersecurity-operations/japan-line-breach-clean-up-post-merger-tech-sprawl)
-- [Cloud-y Linux Malware Rains on Apache, Docker, Redis &amp;amp; Confluence](https://www.darkreading.com/cloud-security/cloud-y-linux-malware-rains-apache-docker-redis-confluence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
