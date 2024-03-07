@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Sixth Sense: NIST CSF 2.0&#39;s Govern Function](https://www.darkreading.com/cybersecurity-operations/ciso-sixth-sense-nist-csf-2-govern-function)
 - [Japan on Line Breach: Clean Up Post-Merger Tech Sprawl](https://www.darkreading.com/cybersecurity-operations/japan-line-breach-clean-up-post-merger-tech-sprawl)
 - [Cloud-y Linux Malware Rains on Apache, Docker, Redis &amp;amp; Confluence](https://www.darkreading.com/cloud-security/cloud-y-linux-malware-rains-apache-docker-redis-confluence)
 - [First BofA, Now Fidelity: Same Vendor Behind Third-Party Breaches](https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches)
@@ -83,7 +84,6 @@
 - [Patch Now: Apple Zero-Day Exploits Bypass Kernel Security](https://www.darkreading.com/ics-ot-security/patch-now-apple-zero-day-exploits-bypass-kernel-security)
 - [Spoofed Zoom, Google &amp;amp; Skype Meetings Spread Corporate RATs](https://www.darkreading.com/cyberattacks-data-breaches/spoofed-zoom-google-skype-meetings-spread-corporate-rats)
 - [10 Essential Processes for Reducing the Top 11 Cloud Risks](https://www.darkreading.com/cyber-risk/10-essential-processes-for-reducing-top-11-cloud-risks)
-- [The Rise of Social Engineering Fraud in Business Email Compromise](https://www.darkreading.com/cyberattacks-data-breaches/the-rise-of-social-engineering-fraud-in-business-email-compromise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
