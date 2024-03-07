@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://www.darkreading.com/cloud-security/stealthy-bifrost-rat-linux-variants-use-typosquatting-to-evade-detection-)
 - [China-Linked Cyber Spies Blend Watering Hole, Supply Chain Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-cyber-spies-blend-watering-hole-supply-chain-attacks)
 - [CISO Sixth Sense: NIST CSF 2.0&#39;s Govern Function](https://www.darkreading.com/cybersecurity-operations/ciso-sixth-sense-nist-csf-2-govern-function)
 - [Japan on Line Breach: Clean Up Post-Merger Tech Sprawl](https://www.darkreading.com/cybersecurity-operations/japan-line-breach-clean-up-post-merger-tech-sprawl)
@@ -83,7 +84,6 @@
 - [First BofA, Now Fidelity: Same Vendor Behind Third-Party Breaches](https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches)
 - [Veeam Launches Veeam Data Cloud](https://www.darkreading.com/cloud-security/veeam-launches-veeam-data-cloud)
 - [Patch Now: Apple Zero-Day Exploits Bypass Kernel Security](https://www.darkreading.com/ics-ot-security/patch-now-apple-zero-day-exploits-bypass-kernel-security)
-- [Spoofed Zoom, Google &amp;amp; Skype Meetings Spread Corporate RATs](https://www.darkreading.com/cyberattacks-data-breaches/spoofed-zoom-google-skype-meetings-spread-corporate-rats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
