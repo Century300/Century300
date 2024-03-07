@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://www.darkreading.com/cloud-security/stealthy-bifrost-rat-linux-variants-use-typosquatting-to-evade-detection-)
+- [Don&#39;t Give Your Business Data to AI Companies](https://www.darkreading.com/vulnerabilities-threats/dont-give-your-business-data-to-ai-companies)
 - [China-Linked Cyber Spies Blend Watering Hole, Supply Chain Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-cyber-spies-blend-watering-hole-supply-chain-attacks)
 - [CISO Sixth Sense: NIST CSF 2.0&#39;s Govern Function](https://www.darkreading.com/cybersecurity-operations/ciso-sixth-sense-nist-csf-2-govern-function)
 - [Japan on Line Breach: Clean Up Post-Merger Tech Sprawl](https://www.darkreading.com/cybersecurity-operations/japan-line-breach-clean-up-post-merger-tech-sprawl)
 - [Cloud-y Linux Malware Rains on Apache, Docker, Redis &amp;amp; Confluence](https://www.darkreading.com/cloud-security/cloud-y-linux-malware-rains-apache-docker-redis-confluence)
 - [First BofA, Now Fidelity: Same Vendor Behind Third-Party Breaches](https://www.darkreading.com/cyberattacks-data-breaches/first-bofa-now-fidelity-same-vendor-third-party-breaches)
 - [Veeam Launches Veeam Data Cloud](https://www.darkreading.com/cloud-security/veeam-launches-veeam-data-cloud)
-- [Patch Now: Apple Zero-Day Exploits Bypass Kernel Security](https://www.darkreading.com/ics-ot-security/patch-now-apple-zero-day-exploits-bypass-kernel-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
