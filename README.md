@@ -82,7 +82,7 @@
 - [The Ongoing Struggle to Protect PLCs](https://www.darkreading.com/ics-ot-security/ongoing-struggle-to-protect-plcs)
 - [NSA&#39;s Zero-Trust Guidelines Focus on Segmentation](https://www.darkreading.com/remote-workforce/nsa-s-zero-trust-guidelines-focus-on-segmentation)
 - [Nigerian National Pleads Guilty of Conspiracy in BEC Operation](https://www.darkreading.com/vulnerabilities-threats/nigerian-national-pleads-guilty-conspiracy-bec-operation)
-- [How to Ensure Open-Source Packages Are Not Landmines](https://www.darkreading.com/application-security/how-to-ensure-open-source-pckages-are-not-landmines)
+- [How to Ensure Open Source Packages Are Not Landmines](https://www.darkreading.com/application-security/how-to-ensure-open-source-pckages-are-not-landmines)
 - [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
 <!-- DARKREADING:END -->
 
