@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia-Sponsored Cyberattackers Infiltrate Microsoft&#39;s Code Base](https://www.darkreading.com/cyberattacks-data-breaches/russia-sponsored-cyberattackers-infiltrate-microsoft-s-code-base)
 - [Stealth Bomber: Atlassian Confluence Exploits Drop Web Shells In-Memory](https://www.darkreading.com/application-security/stealth-bomber-atlassian-confluence-exploits-drop-web-shells-in-memory)
 - [Creating Security Through Randomness](https://www.darkreading.com/remote-workforce/creating-security-through-randomness)
 - [The Ongoing Struggle to Protect PLCs](https://www.darkreading.com/ics-ot-security/ongoing-struggle-to-protect-plcs)
@@ -83,7 +84,6 @@
 - [Nigerian National Pleads Guilty of Conspiracy in BEC Operation](https://www.darkreading.com/vulnerabilities-threats/nigerian-national-pleads-guilty-conspiracy-bec-operation)
 - [How to Ensure Open-Source Packages Are Not Landmines](https://www.darkreading.com/application-security/how-to-ensure-open-source-pckages-are-not-landmines)
 - [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
-- [Silence Laboratories Raises $4.1M Funding to Enable Privacy Preserving Collaborative Computing](https://www.darkreading.com/cyber-risk/silence-laboratories-raises-4-1m-funding-to-enable-privacy-preserving-collaborative-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
