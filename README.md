@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Nigerian National Pleads Guilty of Conspiracy in BEC Operation](https://www.darkreading.com/vulnerabilities-threats/nigerian-national-pleads-guilty-conspiracy-bec-operation)
+- [How to Ensure Open-Source Packages Are Not Mines](https://www.darkreading.com/application-security/untitled)
 - [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
 - [Silence Laboratories Raises $4.1M Funding to Enable Privacy Preserving Collaborative Computing](https://www.darkreading.com/cyber-risk/silence-laboratories-raises-4-1m-funding-to-enable-privacy-preserving-collaborative-computing)
 - [Bipartisan Members of Congress Introduce Enhanced Cybersecurity for SNAP Act to Secure Food Benefits Against Hackers and Thieves](https://www.darkreading.com/cyber-risk/bipartisan-members-of-congress-introduce-enhanced-cybersecurity-for-snap-act-to-secure-food-benefits-against-hackers-and-thieves)
 - [&#39;The Weirdest Trend in Cybersecurity&#39;: Nation-States Returning to USBs](https://www.darkreading.com/ics-ot-security/weirdest-trend-cybersecurity-nation-states-usb)
+- [Cyber Insurance Strategy Requires CISO-CFO Collaboration](https://www.darkreading.com/cyber-risk/cyber-insurance-strategy-requires-ciso-cfo-collaboration)
 - [How CISA Fights Cyber Threats During Election Primary Season](https://www.darkreading.com/cybersecurity-operations/cisa-fights-cyber-threats-election-primary-season)
-- [Linux Variants of Bifrost Trojan Evade Detection via Typosquatting](https://www.darkreading.com/cloud-security/stealthy-bifrost-rat-linux-variants-use-typosquatting-to-evade-detection-)
-- [Don&#39;t Give Your Business Data to AI Companies](https://www.darkreading.com/vulnerabilities-threats/dont-give-your-business-data-to-ai-companies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
