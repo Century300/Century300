@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Stealth Bomber: Atlassian Confluence Exploits Drop Web Shells In-Memory](https://www.darkreading.com/application-security/stealth-bomber-atlassian-confluence-exploits-drop-web-shells-in-memory)
+- [Creating Security Through Randomness](https://www.darkreading.com/remote-workforce/creating-security-through-randomness)
 - [The Ongoing Struggle to Protect PLCs](https://www.darkreading.com/ics-ot-security/ongoing-struggle-to-protect-plcs)
 - [NSA&#39;s Zero-Trust Guidelines Focus on Segmentation](https://www.darkreading.com/remote-workforce/nsa-s-zero-trust-guidelines-focus-on-segmentation)
 - [Nigerian National Pleads Guilty of Conspiracy in BEC Operation](https://www.darkreading.com/vulnerabilities-threats/nigerian-national-pleads-guilty-conspiracy-bec-operation)
-- [How to Ensure Open-Source Packages Are Not Mines](https://www.darkreading.com/application-security/untitled)
+- [How to Ensure Open-Source Packages Are Not Landmines](https://www.darkreading.com/application-security/how-to-ensure-open-source-pckages-are-not-landmines)
 - [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
 - [Silence Laboratories Raises $4.1M Funding to Enable Privacy Preserving Collaborative Computing](https://www.darkreading.com/cyber-risk/silence-laboratories-raises-4-1m-funding-to-enable-privacy-preserving-collaborative-computing)
-- [Bipartisan Members of Congress Introduce Enhanced Cybersecurity for SNAP Act to Secure Food Benefits Against Hackers and Thieves](https://www.darkreading.com/cyber-risk/bipartisan-members-of-congress-introduce-enhanced-cybersecurity-for-snap-act-to-secure-food-benefits-against-hackers-and-thieves)
-- [&#39;The Weirdest Trend in Cybersecurity&#39;: Nation-States Returning to USBs](https://www.darkreading.com/ics-ot-security/weirdest-trend-cybersecurity-nation-states-usb)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
