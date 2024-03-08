@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [South Korean Police Deploy Deepfake Detection Tool in Run-up to Elections](https://www.darkreading.com/threat-intelligence/south-korean-police-deepfake-detection-tool-run-up-elections)
 - [Russia-Sponsored Cyberattackers Infiltrate Microsoft&#39;s Code Base](https://www.darkreading.com/cyberattacks-data-breaches/russia-sponsored-cyberattackers-infiltrate-microsoft-s-code-base)
 - [Stealth Bomber: Atlassian Confluence Exploits Drop Web Shells In-Memory](https://www.darkreading.com/application-security/stealth-bomber-atlassian-confluence-exploits-drop-web-shells-in-memory)
 - [Creating Security Through Randomness](https://www.darkreading.com/remote-workforce/creating-security-through-randomness)
@@ -83,7 +84,6 @@
 - [NSA&#39;s Zero-Trust Guidelines Focus on Segmentation](https://www.darkreading.com/remote-workforce/nsa-s-zero-trust-guidelines-focus-on-segmentation)
 - [Nigerian National Pleads Guilty of Conspiracy in BEC Operation](https://www.darkreading.com/vulnerabilities-threats/nigerian-national-pleads-guilty-conspiracy-bec-operation)
 - [How to Ensure Open Source Packages Are Not Landmines](https://www.darkreading.com/application-security/how-to-ensure-open-source-pckages-are-not-landmines)
-- [JetBrains TeamCity Mass Exploitation Underway, Rogue Accounts Thrive](https://www.darkreading.com/cyberattacks-data-breaches/jetbrains-teamcity-mass-exploitation-underway-rogue-accounts-thrive)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
