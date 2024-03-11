@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
 - [How Not to Become the Target of the Next Microsoft Hack](https://www.darkreading.com/cybersecurity-operations/how-not-to-become-target-of-next-microsoft-hack)
 - [Japan Blames North Korea for PyPI Supply Chain Cyberattack](https://www.darkreading.com/application-security/japan-blames-north-korea-for-pypi-supply-chain-cyberattack)
 - [Google Engineer Steals AI Trade Secrets for Chinese Companies](https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies)
@@ -83,7 +84,6 @@
 - [CISO Corner: NSA Guidelines; a Utility SBOM Case Study; Lava Lamps](https://www.darkreading.com/cybersecurity-operations/ciso-corner-nsa-guidelines-utility-sbom-case-study-lava-lamps)
 - [South Korean Police Deploy Deepfake Detection Tool in Run-up to Elections](https://www.darkreading.com/threat-intelligence/south-korean-police-deepfake-detection-tool-run-up-elections)
 - [Russia-Sponsored Cyberattackers Infiltrate Microsoft&#39;s Code Base](https://www.darkreading.com/cyberattacks-data-breaches/russia-sponsored-cyberattackers-infiltrate-microsoft-s-code-base)
-- [Stealth Bomber: Atlassian Confluence Exploits Drop Web Shells In-Memory](https://www.darkreading.com/application-security/stealth-bomber-atlassian-confluence-exploits-drop-web-shells-in-memory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
