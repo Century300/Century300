@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Japan Blames North Korea for PyPI Supply Chain Cyberattack](https://www.darkreading.com/application-security/japan-blames-north-korea-for-pypi-supply-chain-cyberattack)
 - [Google Engineer Steals AI Trade Secrets for Chinese Companies](https://www.darkreading.com/insider-threats/google-engineer-steals-ai-trade-secrets-chinese-companies)
 - [Broke Cyber Pros Flock to Cybercrime Side Hustles](https://www.darkreading.com/cybersecurity-operations/broke-cyber-pros-cybercrime-side-hustles)
 - [CISO Corner: NSA Guidelines; a Utility SBOM Case Study; Lava Lamps](https://www.darkreading.com/cybersecurity-operations/ciso-corner-nsa-guidelines-utility-sbom-case-study-lava-lamps)
@@ -83,7 +84,6 @@
 - [Russia-Sponsored Cyberattackers Infiltrate Microsoft&#39;s Code Base](https://www.darkreading.com/cyberattacks-data-breaches/russia-sponsored-cyberattackers-infiltrate-microsoft-s-code-base)
 - [Stealth Bomber: Atlassian Confluence Exploits Drop Web Shells In-Memory](https://www.darkreading.com/application-security/stealth-bomber-atlassian-confluence-exploits-drop-web-shells-in-memory)
 - [Creating Security Through Randomness](https://www.darkreading.com/remote-workforce/creating-security-through-randomness)
-- [The Ongoing Struggle to Protect PLCs](https://www.darkreading.com/ics-ot-security/ongoing-struggle-to-protect-plcs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
