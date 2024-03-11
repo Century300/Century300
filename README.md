@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated Vishing Campaigns Take World by Storm](https://www.darkreading.com/endpoint-security/sophisticated-vishing-campaigns-take-world-by-storm)
 - [IT-Harvest Reaches Milestone With Ingestion of 10K Cybersecurity Products Into Dashboard](https://www.darkreading.com/cybersecurity-operations/it-harvest-reaches-milestone-with-ingestion-of-10k-cybersecurity-products-into-dashboard)
 - [The CISO Role Is Changing. Can CISOs Themselves Keep Up?](https://www.darkreading.com/cybersecurity-operations/ciso-role-changing-can-cisos-keep-up)
 - [Ivanti Breach Prompts CISA to Take Systems Offline](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-breach-cisa-systems-offline)
@@ -83,7 +84,6 @@
 - [4 Security Tips From PCI DSS 4.0 Anyone Can Use](https://www.darkreading.com/cybersecurity-operations/pci-dss-4-0-is-good-security-guidance-for-everyone)
 - [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
 - [How Not to Become the Target of the Next Microsoft Hack](https://www.darkreading.com/cybersecurity-operations/how-not-to-become-target-of-next-microsoft-hack)
-- [Japan Blames North Korea for PyPI Supply Chain Cyberattack](https://www.darkreading.com/application-security/japan-blames-north-korea-for-pypi-supply-chain-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
