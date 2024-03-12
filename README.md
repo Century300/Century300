@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Magnet Goblin&#39; Exploits Ivanti 1-Day Bug in Mere Hours](https://www.darkreading.com/threat-intelligence/magnet-goblin-exploits-ivanti-1-day-bug-mere-hours)
 - [How to Identify a Cyber Adversary: Standards of Proof](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-standards-of-proof)
 - [Cyberattack Targets Regulator Database in South Africa](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-targets-south-african-regulator-database)
 - [Google&#39;s Gemini AI Vulnerable to Content Manipulation](https://www.darkreading.com/cyber-risk/google-gemini-vulnerable-to-content-manipulation-researchers-say)
@@ -83,7 +84,6 @@
 - [IT-Harvest Reaches Milestone With Ingestion of 10K Cybersecurity Products Into Dashboard](https://www.darkreading.com/cybersecurity-operations/it-harvest-reaches-milestone-with-ingestion-of-10k-cybersecurity-products-into-dashboard)
 - [The CISO Role Is Changing. Can CISOs Themselves Keep Up?](https://www.darkreading.com/cybersecurity-operations/ciso-role-changing-can-cisos-keep-up)
 - [Ivanti Breach Prompts CISA to Take Systems Offline](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-breach-cisa-systems-offline)
-- [Typosquatting Wave Shows No Signs of Abating](https://www.darkreading.com/threat-intelligence/typosquatting-wave-shows-no-signs-of-abating)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
