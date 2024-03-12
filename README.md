@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [GAO: CISA&#39;s OT Teams Inadequately Staffed](https://www.darkreading.com/ics-ot-security/cisa-ot-teams-are-inadequately-staffed-reports-gao)
+- [Microsoft Discloses Critical Hyper-V Flaws in Low-Volume Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-discloses-two-critical-hyper-v-flaws-low-volume-patch-update)
 - [&#39;Magnet Goblin&#39; Exploits Ivanti 1-Day Bug in Mere Hours](https://www.darkreading.com/threat-intelligence/magnet-goblin-exploits-ivanti-1-day-bug-mere-hours)
 - [How to Identify a Cyber Adversary: Standards of Proof](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-standards-of-proof)
 - [Cyberattack Targets Regulator Database in South Africa](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-targets-south-african-regulator-database)
 - [Google&#39;s Gemini AI Vulnerable to Content Manipulation](https://www.darkreading.com/cyber-risk/google-gemini-vulnerable-to-content-manipulation-researchers-say)
 - [Sophisticated Vishing Campaigns Take World by Storm](https://www.darkreading.com/endpoint-security/sophisticated-vishing-campaigns-take-world-by-storm)
 - [IT-Harvest Reaches Milestone With Ingestion of 10K Cybersecurity Products Into Dashboard](https://www.darkreading.com/cybersecurity-operations/it-harvest-reaches-milestone-with-ingestion-of-10k-cybersecurity-products-into-dashboard)
-- [The CISO Role Is Changing. Can CISOs Themselves Keep Up?](https://www.darkreading.com/cybersecurity-operations/ciso-role-changing-can-cisos-keep-up)
-- [Ivanti Breach Prompts CISA to Take Systems Offline](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-breach-cisa-systems-offline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
