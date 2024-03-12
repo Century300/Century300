@@ -83,7 +83,7 @@
 - [Ivanti Breach Prompts CISA to Take Systems Offline](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-breach-cisa-systems-offline)
 - [Typosquatting Wave Shows No Signs of Abating](https://www.darkreading.com/threat-intelligence/typosquatting-wave-shows-no-signs-of-abating)
 - [4 Security Tips From PCI DSS 4.0 Anyone Can Use](https://www.darkreading.com/cybersecurity-operations/pci-dss-4-0-is-good-security-guidance-for-everyone)
-- [Anti-Fraud Project Boosts Security of African, Asian Financial Systems](https://www.darkreading.com/cyber-risk/anti-fraud-project-boosts-security-of-african-asian-financial-systems)
+- [To Spot Attacks Through AI Models, Companies Need Visibility](https://www.darkreading.com/cyber-risk/ai-models-take-off-leaving-security-behind)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
