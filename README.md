@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;PixPirate&#39; RAT Invisibly Triggers Wire Transfers From Android Devices](https://www.darkreading.com/application-security/pixpirate-rat-invisibly-triggers-wire-transfers-android-devices)
 - [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
 - [Google&#39;s Post-Quantum Upgrade Doesn&#39;t Mean We&#39;re All Protected Yet](https://www.darkreading.com/cloud-security/google-s-post-quantum-upgrade-doesn-t-mean-we-re-all-protected-yet)
 - [GAO: CISA&#39;s OT Teams Inadequately Staffed](https://www.darkreading.com/ics-ot-security/cisa-ot-teams-are-inadequately-staffed-reports-gao)
@@ -83,7 +84,6 @@
 - [&#39;Magnet Goblin&#39; Exploits Ivanti 1-Day Bug in Mere Hours](https://www.darkreading.com/threat-intelligence/magnet-goblin-exploits-ivanti-1-day-bug-mere-hours)
 - [How to Identify a Cyber Adversary: Standards of Proof](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-standards-of-proof)
 - [Cyberattack Targets Regulator Database in South Africa](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-targets-south-african-regulator-database)
-- [Google&#39;s Gemini AI Vulnerable to Content Manipulation](https://www.darkreading.com/cyber-risk/google-gemini-vulnerable-to-content-manipulation-researchers-say)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
