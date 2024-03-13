@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Critical ChatGPT Plugin Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
+- [Critical ChatGPT Plug-in Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
 - [&#39;PixPirate&#39; RAT Invisibly Triggers Wire Transfers From Android Devices](https://www.darkreading.com/application-security/pixpirate-rat-invisibly-triggers-wire-transfers-android-devices)
 - [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
 - [Google&#39;s Post-Quantum Upgrade Doesn&#39;t Mean We&#39;re All Protected Yet](https://www.darkreading.com/cloud-security/google-s-post-quantum-upgrade-doesn-t-mean-we-re-all-protected-yet)
