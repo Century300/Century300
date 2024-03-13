@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT Spills Secrets in Novel PoC Attack](https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools)
 - [Yacht Retailer MarineMax Files &#39;Cyber Incident&#39; with SEC](https://www.darkreading.com/cyberattacks-data-breaches/yacht-retailer-marinemax-files-cyber-incident-sec)
 - [Heated Seats? Advanced Telematics? Software-Defined Cars Drive Risk](https://www.darkreading.com/ics-ot-security/heated-seats-advanced-telematics-software-defined-cars-drive-risk)
 - [Nissan Oceania Breached; 100K People Affected Down Under](https://www.darkreading.com/cyberattacks-data-breaches/nissan-oceania-breached-100k-customers-employees-dealers-affected)
@@ -83,7 +84,6 @@
 - [Why You Need to Know Your AI&#39;s Ancestry](https://www.darkreading.com/vulnerabilities-threats/why-you-need-to-know-your-ai-ancestry)
 - [Critical ChatGPT Plug-in Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
 - [&#39;PixPirate&#39; RAT Invisibly Triggers Wire Transfers From Android Devices](https://www.darkreading.com/application-security/pixpirate-rat-invisibly-triggers-wire-transfers-android-devices)
-- [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
