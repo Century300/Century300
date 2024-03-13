@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Identify a Cyber Adversary: What to Look For](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-a-cyber-adversary-what-to-look-for)
 - [Patch Now: Kubernetes RCE Flaw Allows Full Takeover of Windows Nodes](https://www.darkreading.com/cloud-security/patch-now-kubernetes-flaw-allows-for-full-takeover-of-windows-nodes)
 - [Why You Need to Know Your AI&#39;s Ancestry](https://www.darkreading.com/vulnerabilities-threats/why-you-need-to-know-your-ai-ancestry)
 - [Critical ChatGPT Plug-in Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
@@ -83,7 +84,6 @@
 - [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
 - [Google&#39;s Post-Quantum Upgrade Doesn&#39;t Mean We&#39;re All Protected Yet](https://www.darkreading.com/cloud-security/google-s-post-quantum-upgrade-doesn-t-mean-we-re-all-protected-yet)
 - [GAO: CISA&#39;s OT Teams Inadequately Staffed](https://www.darkreading.com/ics-ot-security/cisa-ot-teams-are-inadequately-staffed-reports-gao)
-- [Microsoft Discloses Critical Hyper-V Flaws in Low-Volume Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-discloses-two-critical-hyper-v-flaws-low-volume-patch-update)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
