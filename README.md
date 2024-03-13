@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT vs. Gemini: Which Is Better for 10 Common Infosec Tasks?](https://www.darkreading.com/cybersecurity-operations/chatgpt-vs-gemini-which-is-better-for-10-common-infosec-tasks-)
 - [How to Identify a Cyber Adversary: What to Look For](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-a-cyber-adversary-what-to-look-for)
+- [Nissan Oceania Breached; 100K People Affected Down Under](https://www.darkreading.com/cyberattacks-data-breaches/nissan-oceania-breached-100k-customers-employees-dealers-affected)
 - [Patch Now: Kubernetes RCE Flaw Allows Full Takeover of Windows Nodes](https://www.darkreading.com/cloud-security/patch-now-kubernetes-flaw-allows-for-full-takeover-of-windows-nodes)
 - [Why You Need to Know Your AI&#39;s Ancestry](https://www.darkreading.com/vulnerabilities-threats/why-you-need-to-know-your-ai-ancestry)
+- [Heated Seats? Advanced Telematics? Software-Defined Cars Drive Risk](https://www.darkreading.com/ics-ot-security/heated-seats-advanced-telematics-software-defined-cars-drive-risk)
 - [Critical ChatGPT Plug-in Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
 - [&#39;PixPirate&#39; RAT Invisibly Triggers Wire Transfers From Android Devices](https://www.darkreading.com/application-security/pixpirate-rat-invisibly-triggers-wire-transfers-android-devices)
-- [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
-- [Google&#39;s Post-Quantum Upgrade Doesn&#39;t Mean We&#39;re All Protected Yet](https://www.darkreading.com/cloud-security/google-s-post-quantum-upgrade-doesn-t-mean-we-re-all-protected-yet)
-- [GAO: CISA&#39;s OT Teams Inadequately Staffed](https://www.darkreading.com/ics-ot-security/cisa-ot-teams-are-inadequately-staffed-reports-gao)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
