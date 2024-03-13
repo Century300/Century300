@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why You Need to Know Your AI&#39;s Ancestry](https://www.darkreading.com/vulnerabilities-threats/why-you-need-to-know-your-ai-ancestry)
 - [Critical ChatGPT Plug-in Vulnerabilities Expose Sensitive Data](https://www.darkreading.com/vulnerabilities-threats/critical-chatgpt-plugin-vulnerabilities-expose-sensitive-data)
 - [&#39;PixPirate&#39; RAT Invisibly Triggers Wire Transfers From Android Devices](https://www.darkreading.com/application-security/pixpirate-rat-invisibly-triggers-wire-transfers-android-devices)
 - [Israeli Universities Hit by Supply Chain Cyberattack Campaign](https://www.darkreading.com/cyberattacks-data-breaches/israeli-universities-hit-by-supply-chain-cyberattack-campaign)
@@ -83,7 +84,6 @@
 - [GAO: CISA&#39;s OT Teams Inadequately Staffed](https://www.darkreading.com/ics-ot-security/cisa-ot-teams-are-inadequately-staffed-reports-gao)
 - [Microsoft Discloses Critical Hyper-V Flaws in Low-Volume Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-discloses-two-critical-hyper-v-flaws-low-volume-patch-update)
 - [&#39;Magnet Goblin&#39; Exploits Ivanti 1-Day Bug in Mere Hours](https://www.darkreading.com/threat-intelligence/magnet-goblin-exploits-ivanti-1-day-bug-mere-hours)
-- [How to Identify a Cyber Adversary: Standards of Proof](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-standards-of-proof)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
