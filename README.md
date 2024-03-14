@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malawi Passport System Back Online After Debilitating Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/malawi-passport-system-back-online-after-cyberattack)
 - [Windows SmartScreen Bypass Flaw Exploited to Drop DarkGate RAT](https://www.darkreading.com/endpoint-security/windows-smartscreen-bypass-flaw-exploited-to-drop-darkgate-rat)
 - [How to Identify a Cyber Adversary: What to Look For](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-what-to-look-for)
 - [150K+ UAE Network Devices &amp;amp; Apps Found Exposed Online](https://www.darkreading.com/threat-intelligence/150kplus-uae-network-devices-apps-exposed-online)
@@ -83,7 +84,6 @@
 - [Codezero Raises $3.5M Seed Funding From Ballistic Ventures to Secure Multicloud Application Development](https://www.darkreading.com/cloud-security/codezero-raises-3-5m-seed-funding-from-ballistic-ventures-to-secure-multicloud-application-development)
 - [Claroty Launches Advanced Anomaly Threat Detection for Medigate](https://www.darkreading.com/ics-ot-security/claroty-launches-advanced-anomaly-threat-detection-for-medigate)
 - [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management)
-- [ChatGPT Spills Secrets in Novel PoC Attack](https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
