@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FCC Approves Voluntary Cyber Trust Labels for Consumer IoT Products](https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products)
+- [Fortinet Warns of Yet Another Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/fortinet-warns-of-yet-another-critical-rce-flaw)
 - [Alabama Under DDoS Cyberattack by Russian-Backed Hacktivists](https://www.darkreading.com/cyberattacks-data-breaches/alabama-targeted-by-russian-backed-ddos-cyberattack)
 - [TikTok Ban Raises Data Security, Control Questions](https://www.darkreading.com/cyber-risk/tiktok-ban-raises-data-security-control-questions)
 - [Malawi Passport System Back Online After Debilitating Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/malawi-passport-system-back-online-after-cyberattack)
 - [Windows SmartScreen Bypass Flaw Exploited to Drop DarkGate RAT](https://www.darkreading.com/endpoint-security/windows-smartscreen-bypass-flaw-exploited-to-drop-darkgate-rat)
 - [How to Identify a Cyber Adversary: What to Look For](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-what-to-look-for)
 - [150K+ UAE Network Devices &amp;amp; Apps Found Exposed Online](https://www.darkreading.com/threat-intelligence/150kplus-uae-network-devices-apps-exposed-online)
-- [Claroty Team82: 63% of Known Exploited Vulnerabilities Tracked by CISA Are on Healthcare Organization Networks](https://www.darkreading.com/ics-ot-security/claroty-team-82-63-of-known-exploited-vulnerabilities-tracked-by-cisa-are-on-healthcare-organization-networks)
-- [Codezero Raises $3.5M Seed Funding From Ballistic Ventures to Secure Multicloud Application Development](https://www.darkreading.com/cloud-security/codezero-raises-3-5m-seed-funding-from-ballistic-ventures-to-secure-multicloud-application-development)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
