@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [150K+ UAE Network Devices &amp;amp; Apps Found Exposed Online](https://www.darkreading.com/threat-intelligence/150kplus-uae-network-devices-apps-exposed-online)
 - [Claroty Team82: 63% of Known Exploited Vulnerabilities Tracked by CISA Are on Healthcare Organization Networks](https://www.darkreading.com/ics-ot-security/claroty-team-82-63-of-known-exploited-vulnerabilities-tracked-by-cisa-are-on-healthcare-organization-networks)
 - [Codezero Raises $3.5M Seed Funding From Ballistic Ventures to Secure Multicloud Application Development](https://www.darkreading.com/cloud-security/codezero-raises-3-5m-seed-funding-from-ballistic-ventures-to-secure-multicloud-application-development)
 - [Claroty Launches Advanced Anomaly Threat Detection for Medigate](https://www.darkreading.com/ics-ot-security/claroty-launches-advanced-anomaly-threat-detection-for-medigate)
@@ -83,7 +84,6 @@
 - [Yacht Retailer MarineMax Files &#39;Cyber Incident&#39; with SEC](https://www.darkreading.com/cyberattacks-data-breaches/yacht-retailer-marinemax-files-cyber-incident-sec)
 - [Heated Seats? Advanced Telematics? Software-Defined Cars Drive Risk](https://www.darkreading.com/ics-ot-security/heated-seats-advanced-telematics-software-defined-cars-drive-risk)
 - [Nissan Oceania Breached; 100K People Affected Down Under](https://www.darkreading.com/cyberattacks-data-breaches/nissan-oceania-breached-100k-customers-employees-dealers-affected)
-- [Patch Now: Kubernetes RCE Flaw Allows Full Takeover of Windows Nodes](https://www.darkreading.com/cloud-security/patch-now-kubernetes-flaw-allows-for-full-takeover-of-windows-nodes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
