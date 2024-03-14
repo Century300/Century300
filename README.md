@@ -80,10 +80,10 @@
 - [Claroty Team82: 63% of Known Exploited Vulnerabilities Tracked by CISA Are on Healthcare Organization Networks](https://www.darkreading.com/ics-ot-security/claroty-team-82-63-of-known-exploited-vulnerabilities-tracked-by-cisa-are-on-healthcare-organization-networks)
 - [Codezero Raises $3.5M Seed Funding From Ballistic Ventures to Secure Multicloud Application Development](https://www.darkreading.com/cloud-security/codezero-raises-3-5m-seed-funding-from-ballistic-ventures-to-secure-multicloud-application-development)
 - [Claroty Launches Advanced Anomaly Threat Detection for Medigate](https://www.darkreading.com/ics-ot-security/claroty-launches-advanced-anomaly-threat-detection-for-medigate)
+- [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management)
 - [ChatGPT Spills Secrets in Novel PoC Attack](https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools)
 - [Yacht Retailer MarineMax Files &#39;Cyber Incident&#39; with SEC](https://www.darkreading.com/cyberattacks-data-breaches/yacht-retailer-marinemax-files-cyber-incident-sec)
 - [Heated Seats? Advanced Telematics? Software-Defined Cars Drive Risk](https://www.darkreading.com/ics-ot-security/heated-seats-advanced-telematics-software-defined-cars-drive-risk)
-- [Nissan Oceania Breached; 100K People Affected Down Under](https://www.darkreading.com/cyberattacks-data-breaches/nissan-oceania-breached-100k-customers-employees-dealers-affected)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
