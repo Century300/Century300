@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Identify a Cyber Adversary: What to Look For](https://www.darkreading.com/cyberattacks-data-breaches/how-to-identify-cyber-adversary-what-to-look-for)
 - [150K+ UAE Network Devices &amp;amp; Apps Found Exposed Online](https://www.darkreading.com/threat-intelligence/150kplus-uae-network-devices-apps-exposed-online)
 - [Claroty Team82: 63% of Known Exploited Vulnerabilities Tracked by CISA Are on Healthcare Organization Networks](https://www.darkreading.com/ics-ot-security/claroty-team-82-63-of-known-exploited-vulnerabilities-tracked-by-cisa-are-on-healthcare-organization-networks)
 - [Codezero Raises $3.5M Seed Funding From Ballistic Ventures to Secure Multicloud Application Development](https://www.darkreading.com/cloud-security/codezero-raises-3-5m-seed-funding-from-ballistic-ventures-to-secure-multicloud-application-development)
@@ -83,7 +84,6 @@
 - [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management)
 - [ChatGPT Spills Secrets in Novel PoC Attack](https://www.darkreading.com/cyber-risk/researchers-develop-new-attack-for-extracting-secrets-from-chatgpt-other-genai-tools)
 - [Yacht Retailer MarineMax Files &#39;Cyber Incident&#39; with SEC](https://www.darkreading.com/cyberattacks-data-breaches/yacht-retailer-marinemax-files-cyber-incident-sec)
-- [Heated Seats? Advanced Telematics? Software-Defined Cars Drive Risk](https://www.darkreading.com/ics-ot-security/heated-seats-advanced-telematics-software-defined-cars-drive-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
