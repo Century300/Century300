@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ChatGPT vs. Gemini: Which Is Better for 10 Common Infosec Tasks?](https://www.darkreading.com/cybersecurity-operations/chatgpt-vs-gemini-which-is-better-for-10-common-infosec-tasks)
 - [Red Canary Announces Full Coverage of All Major Cloud Providers](https://www.darkreading.com/cloud-security/red-canary-announces-full-coverage-of-all-major-cloud-providers)
 - [Expel Releases Updated Toolkit in Response to NIST 2.0](https://www.darkreading.com/vulnerabilities-threats/expel-releases-updated-toolkit-in-response-to-nist-2-0)
 - [Nozomi Networks Secures $100M Investment to Defend Critical Infrastructure](https://www.darkreading.com/ics-ot-security/nozomi-networks-secures-100-million-investment-to-defend-critical-infrastructure)
@@ -83,7 +84,6 @@
 - [Fortinet Warns of Yet Another Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/fortinet-warns-of-yet-another-critical-rce-flaw)
 - [Alabama Under DDoS Cyberattack by Russian-Backed Hacktivists](https://www.darkreading.com/cyberattacks-data-breaches/alabama-targeted-by-russian-backed-ddos-cyberattack)
 - [TikTok Ban Raises Data Security, Control Questions](https://www.darkreading.com/cyber-risk/tiktok-ban-raises-data-security-control-questions)
-- [Malawi Passport System Back Online After Debilitating Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/malawi-passport-system-back-online-after-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
