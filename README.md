@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;GhostRace&#39; Speculative Execution Attack Impacts All CPU, OS Vendors](https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors)
 - [NHS Breach, HSE Bug Expose Healthcare Data in the British Isles](https://www.darkreading.com/cyberattacks-data-breaches/nhs-breach-hse-bug-expose-healthcare-data-british-isles)
 - [ChatGPT vs. Gemini: Which Is Better for 10 Common Infosec Tasks?](https://www.darkreading.com/cybersecurity-operations/chatgpt-vs-gemini-which-is-better-for-10-common-infosec-tasks)
 - [6 CISO Takeaways From the NSA&#39;s Zero-Trust Guidance](https://www.darkreading.com/cybersecurity-operations/6-ciso-takeaways-nsa-zero-trust-guidance)
@@ -83,7 +84,6 @@
 - [Expel Releases Updated Toolkit in Response to NIST 2.0](https://www.darkreading.com/vulnerabilities-threats/expel-releases-updated-toolkit-in-response-to-nist-2-0)
 - [Nozomi Networks Secures $100M Investment to Defend Critical Infrastructure](https://www.darkreading.com/ics-ot-security/nozomi-networks-secures-100-million-investment-to-defend-critical-infrastructure)
 - [FCC Approves Voluntary Cyber Trust Labels for Consumer IoT Products](https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products)
-- [Fortinet Warns of Yet Another Critical RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/fortinet-warns-of-yet-another-critical-rce-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
