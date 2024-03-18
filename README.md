@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tracking Everything on the Dark Web Is Mission Critical](https://www.darkreading.com/vulnerabilities-threats/tracking-everything-on-dark-web-is-mission-critical)
 - [South African Government Pension Data Leak Fears Spark Probe](https://www.darkreading.com/cyberattacks-data-breaches/south-african-government-pension-data-leak-fears-spark-probe)
 - [3 Ways Businesses Can Overcome the Cybersecurity Skills Shortage](https://www.darkreading.com/cybersecurity-operations/3-ways-businesses-can-overcome-cybersecurity-skills-shortage)
 - [&#39;GhostRace&#39; Speculative Execution Attack Impacts All CPU, OS Vendors](https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors)
@@ -83,7 +84,6 @@
 - [ChatGPT vs. Gemini: Which Is Better for 10 Common Infosec Tasks?](https://www.darkreading.com/cybersecurity-operations/chatgpt-vs-gemini-which-is-better-for-10-common-infosec-tasks)
 - [6 CISO Takeaways From the NSA&#39;s Zero-Trust Guidance](https://www.darkreading.com/cybersecurity-operations/6-ciso-takeaways-nsa-zero-trust-guidance)
 - [Red Canary Announces Full Coverage of All Major Cloud Providers](https://www.darkreading.com/cloud-security/red-canary-announces-full-coverage-of-all-major-cloud-providers)
-- [Expel Releases Updated Toolkit in Response to NIST 2.0](https://www.darkreading.com/vulnerabilities-threats/expel-releases-updated-toolkit-in-response-to-nist-2-0)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
