@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese APT &#39;Earth Krahang&#39; Compromises 48 Gov&#39;t Orgs on 5 Continents](https://www.darkreading.com/threat-intelligence/chinese-apt-earth-krahang-compromised-48-gov-orgs-5-continents)
 - [Saudi Arabia&#39;s National Cybersecurity Authority Announces the GCF Annual Meeting 2024](https://www.darkreading.com/cybersecurity-operations/saudi-arabia-s-national-cybersecurity-authority-announces-the-gcf-annual-meeting-2024)
 - [Brazilian Authorities Arrest Members of Banking Trojan Cybercrime Group](https://www.darkreading.com/cybersecurity-operations/brazilian-authorities-arrest-members-of-banking-trojan-cybercrime-group)
 - [Fujitsu: Malware on Company Computers Exposed Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/fujitsu-malware-on-company-computers-exposed-customer-data)
@@ -83,7 +84,6 @@
 - [South African Government Pension Data Leak Fears Spark Probe](https://www.darkreading.com/cyberattacks-data-breaches/south-african-government-pension-data-leak-fears-spark-probe)
 - [3 Ways Businesses Can Overcome the Cybersecurity Skills Shortage](https://www.darkreading.com/cybersecurity-operations/3-ways-businesses-can-overcome-cybersecurity-skills-shortage)
 - [&#39;GhostRace&#39; Speculative Execution Attack Impacts All CPU, OS Vendors](https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors)
-- [NHS Breach, HSE Bug Expose Healthcare Data in the British Isles](https://www.darkreading.com/cyberattacks-data-breaches/nhs-breach-hse-bug-expose-healthcare-data-british-isles)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
