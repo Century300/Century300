@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways Businesses Can Overcome the Cybersecurity Skills Shortage](https://www.darkreading.com/cybersecurity-operations/3-ways-businesses-can-overcome-cybersecurity-skills-shortage)
 - [&#39;GhostRace&#39; Speculative Execution Attack Impacts All CPU, OS Vendors](https://www.darkreading.com/cyber-risk/ghostrace-speculative-execution-attack-cpu-os-vendors)
 - [NHS Breach, HSE Bug Expose Healthcare Data in the British Isles](https://www.darkreading.com/cyberattacks-data-breaches/nhs-breach-hse-bug-expose-healthcare-data-british-isles)
 - [ChatGPT vs. Gemini: Which Is Better for 10 Common Infosec Tasks?](https://www.darkreading.com/cybersecurity-operations/chatgpt-vs-gemini-which-is-better-for-10-common-infosec-tasks)
@@ -83,7 +84,6 @@
 - [Red Canary Announces Full Coverage of All Major Cloud Providers](https://www.darkreading.com/cloud-security/red-canary-announces-full-coverage-of-all-major-cloud-providers)
 - [Expel Releases Updated Toolkit in Response to NIST 2.0](https://www.darkreading.com/vulnerabilities-threats/expel-releases-updated-toolkit-in-response-to-nist-2-0)
 - [Nozomi Networks Secures $100M Investment to Defend Critical Infrastructure](https://www.darkreading.com/ics-ot-security/nozomi-networks-secures-100-million-investment-to-defend-critical-infrastructure)
-- [FCC Approves Voluntary Cyber Trust Labels for Consumer IoT Products](https://www.darkreading.com/ics-ot-security/fcc-approves-voluntary-cyber-trust-labels-iot-products)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
