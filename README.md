@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;PhantomBlu&#39; Cyberattackers Backdoor Microsoft Office Users via OLE](https://www.darkreading.com/threat-intelligence/phantomblu-cyberattackers-backdoor-microsoft-office-users-ole)
 - [The New CISO: Rethinking the Role](https://www.darkreading.com/cybersecurity-operations/new-ciso-rethinking-the-role)
 - [&#39;Conversation Overflow&#39; Cyberattacks Bypass AI Security to Target Execs](https://www.darkreading.com/cloud-security/conversation-overflow-cyberattacks-bypass-ai-security)
 - [North Korea-Linked Group Levels Multistage Cyberattack on South Korea](https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea)
@@ -83,7 +84,6 @@
 - [Chinese APT &#39;Earth Krahang&#39; Compromises 48 Gov&#39;t Orgs on 5 Continents](https://www.darkreading.com/threat-intelligence/chinese-apt-earth-krahang-compromised-48-gov-orgs-5-continents)
 - [Saudi Arabia&#39;s National Cybersecurity Authority Announces the GCF Annual Meeting 2024](https://www.darkreading.com/cybersecurity-operations/saudi-arabia-s-national-cybersecurity-authority-announces-the-gcf-annual-meeting-2024)
 - [Brazilian Authorities Arrest Members of Banking Trojan Cybercrime Group](https://www.darkreading.com/cybersecurity-operations/brazilian-authorities-arrest-members-of-banking-trojan-cybercrime-group)
-- [Fujitsu: Malware on Company Computers Exposed Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/fujitsu-malware-on-company-computers-exposed-customer-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
