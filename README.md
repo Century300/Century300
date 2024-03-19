@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Name That Toon: Bridge the Gap](https://www.darkreading.com/cloud-security/name-that-toon-bridge-the-gap)
 - [New Regulations Make D&amp;amp;O Insurance a Must for CISOs](https://www.darkreading.com/cybersecurity-operations/new-regulations-make-d-o-insurance-a-must-for-cisos)
+- [Name That Toon: Bridge the Gap](https://www.darkreading.com/cloud-security/name-that-toon-bridge-the-gap)
 - [&#39;PhantomBlu&#39; Cyberattackers Backdoor Microsoft Office Users via OLE](https://www.darkreading.com/threat-intelligence/phantomblu-cyberattackers-backdoor-microsoft-office-users-ole)
 - [The New CISO: Rethinking the Role](https://www.darkreading.com/cybersecurity-operations/new-ciso-rethinking-the-role)
 - [&#39;Conversation Overflow&#39; Cyberattacks Bypass AI Security to Target Execs](https://www.darkreading.com/cloud-security/conversation-overflow-cyberattacks-bypass-ai-security)
