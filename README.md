@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Conversation Overflow&#39; Cyberattacks Bypass AI Security to Target Execs](https://www.darkreading.com/cloud-security/conversation-overflow-cyberattacks-bypass-ai-security)
 - [North Korea-Linked Group Levels Multistage Cyberattack on South Korea](https://www.darkreading.com/vulnerabilities-threats/north-korea-linked-group-level-multistage-cyberattack-on-south-korea)
 - [ML Model Repositories: The Next Big Supply Chain Attack Target](https://www.darkreading.com/cloud-security/ml-model-repositories-next-big-supply-chain-attack-target)
 - [Chinese APT &#39;Earth Krahang&#39; Compromises 48 Gov&#39;t Orgs on 5 Continents](https://www.darkreading.com/threat-intelligence/chinese-apt-earth-krahang-compromised-48-gov-orgs-5-continents)
@@ -83,7 +84,6 @@
 - [Brazilian Authorities Arrest Members of Banking Trojan Cybercrime Group](https://www.darkreading.com/cybersecurity-operations/brazilian-authorities-arrest-members-of-banking-trojan-cybercrime-group)
 - [Fujitsu: Malware on Company Computers Exposed Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/fujitsu-malware-on-company-computers-exposed-customer-data)
 - [Tracking Everything on the Dark Web Is Mission Critical](https://www.darkreading.com/vulnerabilities-threats/tracking-everything-on-dark-web-is-mission-critical)
-- [South African Government Pension Data Leak Fears Spark Probe](https://www.darkreading.com/cyberattacks-data-breaches/south-african-government-pension-data-leak-fears-spark-probe)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
