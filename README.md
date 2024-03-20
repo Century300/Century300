@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
+- [Pathlock Introduces Continuous Controls Monitoring to Reduce Time and Costs](https://www.darkreading.com/cyber-risk/pathlock-introduces-continuous-controls-monitoring-to-reduce-time-and-costs)
+- [Akamai Research Finds 29% of Web Attacks Target APIs](https://www.darkreading.com/application-security/akamai-research-finds-29-of-web-attacks-target-apis)
 - [Kaspersky Identifies Three New Android Malware Threats](https://www.darkreading.com/endpoint-security/kaspersky-identifies-three-new-android-malware-threats)
 - [India&#39;s Android Users Hit by Malware-as-a-Service Campaign](https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign)
 - [Don&#39;t Answer the Phone: Inside a Real-Life Vishing Attack](https://www.darkreading.com/cyberattacks-data-breaches/dont-answer-phone-inside-real-life-vishing-attack)
 - [After LockBit, ALPHV Takedowns, RaaS Startups Go on a Recruiting Drive](https://www.darkreading.com/threat-intelligence/after-lockbit-alphv-takedowns-raas-recruiting-drive)
 - [&#39;Fluffy Wolf&#39; Spreads Meta Stealer in Corporate Phishing Campaign](https://www.darkreading.com/threat-intelligence/fluffy-wolf-spreads-meta-stealer-in-corporate-phishing-campaign)
-- [AI Won&#39;t Solve Cybersecurity&#39;s Retention Problem](https://www.darkreading.com/cybersecurity-operations/ai-wont-solve-cybersecuritys-retention-problem)
-- [Connectivity Standards Alliance Meets Device Security Challenges With a Unified Standard and Certification](https://www.darkreading.com/ics-ot-security/connectivity-standards-alliance-meets-device-security-challenges-with-a-unified-standard-and-certification)
-- [Hackers Posing as Law Firms Phish Global Orgs in Multiple Languages](https://www.darkreading.com/cyberattacks-data-breaches/hackers-posing-law-firms-phish-global-orgs-multiple-languages)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
