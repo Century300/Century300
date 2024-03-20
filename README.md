@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Posing as Law Firms Phish Global Orgs in Multiple Languages](https://www.darkreading.com/cyberattacks-data-breaches/hackers-posing-law-firms-phish-global-orgs-multiple-languages)
+- [Russian Intelligence Targets Victims Worldwide in Rapid-Fire Cyberattacks](https://www.darkreading.com/threat-intelligence/russian-intelligence-targets-victims-worldwide-in-rapid-fire-cyberattacks)
 - [Airbus Calls Off Planned Acquisition of Atos Cybersecurity Group](https://www.darkreading.com/cyber-risk/airbus-calls-off-planned-acquisition-of-atos-cybersecurity-group)
 - [Fortra Releases Update on Critical Severity RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/fortra-releases-update-on-critical-severity-rce-flaw)
 - [Cheating Hack Halts Apex Legends E-Sports Tourney](https://www.darkreading.com/cyber-risk/apex-legends-tourney-spoiled-by-hackers)
 - [5 Ways CISOs Can Navigate Their New Business Role](https://www.darkreading.com/cybersecurity-operations/5-ways-cisos-can-navigate-new-business-role)
 - [New Regulations Make D&amp;amp;O Insurance a Must for CISOs](https://www.darkreading.com/cybersecurity-operations/new-regulations-make-d-o-insurance-a-must-for-cisos)
 - [Name That Toon: Bridge the Gap](https://www.darkreading.com/cloud-security/name-that-toon-bridge-the-gap)
-- [&#39;PhantomBlu&#39; Cyberattackers Backdoor Microsoft Office Users via OLE](https://www.darkreading.com/threat-intelligence/phantomblu-cyberattackers-backdoor-microsoft-office-users-ole)
-- [The New CISO: Rethinking the Role](https://www.darkreading.com/cybersecurity-operations/new-ciso-rethinking-the-role)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
