@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Fluffy Wolf&#39; Spreads Meta Stealer in Corporate Phishing Campaign](https://www.darkreading.com/threat-intelligence/fluffy-wolf-spreads-meta-stealer-in-corporate-phishing-campaign)
 - [AI Won&#39;t Solve Cybersecurity&#39;s Retention Problem](https://www.darkreading.com/cybersecurity-operations/ai-wont-solve-cybersecuritys-retention-problem)
 - [Connectivity Standards Alliance Meets Device Security Challenges With a Unified Standard and Certification](https://www.darkreading.com/ics-ot-security/connectivity-standards-alliance-meets-device-security-challenges-with-a-unified-standard-and-certification)
 - [Hackers Posing as Law Firms Phish Global Orgs in Multiple Languages](https://www.darkreading.com/cyberattacks-data-breaches/hackers-posing-law-firms-phish-global-orgs-multiple-languages)
@@ -83,7 +84,6 @@
 - [Detecting Cloud Threats With CloudGrappler](https://www.darkreading.com/cloud-security/detecting-cloud-threats-with-cloudgrappler)
 - [Airbus Calls Off Planned Acquisition of Atos Cybersecurity Group](https://www.darkreading.com/cyber-risk/airbus-calls-off-planned-acquisition-of-atos-cybersecurity-group)
 - [Fortra Releases Update on Critical Severity RCE Flaw](https://www.darkreading.com/vulnerabilities-threats/fortra-releases-update-on-critical-severity-rce-flaw)
-- [Cheating Hack Halts Apex Legends E-Sports Tourney](https://www.darkreading.com/cyber-risk/apex-legends-tourney-spoiled-by-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
