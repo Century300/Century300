@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Federal Warning Highlights Cyber Vulnerability of US Water Systems](https://www.darkreading.com/ics-ot-security/new-us-warning-highlights-vulnerability-of-us-water-systems-to-cyberattacks)
 - [Tax Hackers Blitz Small Business With Phishing Emails](https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails)
 - [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
 - [Pathlock Introduces Continuous Controls Monitoring to Reduce Time and Costs](https://www.darkreading.com/cyber-risk/pathlock-introduces-continuous-controls-monitoring-to-reduce-time-and-costs)
@@ -83,7 +84,6 @@
 - [Kaspersky Identifies Three New Android Malware Threats](https://www.darkreading.com/endpoint-security/kaspersky-identifies-three-new-android-malware-threats)
 - [India&#39;s Android Users Hit by Malware-as-a-Service Campaign](https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign)
 - [Don&#39;t Answer the Phone: Inside a Real-Life Vishing Attack](https://www.darkreading.com/cyberattacks-data-breaches/dont-answer-phone-inside-real-life-vishing-attack)
-- [After LockBit, ALPHV Takedowns, RaaS Startups Go on a Recruiting Drive](https://www.darkreading.com/threat-intelligence/after-lockbit-alphv-takedowns-raas-recruiting-drive)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
