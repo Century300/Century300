@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tax Hackers Blitz Small Business With Phishing Emails](https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails)
 - [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
 - [Pathlock Introduces Continuous Controls Monitoring to Reduce Time and Costs](https://www.darkreading.com/cyber-risk/pathlock-introduces-continuous-controls-monitoring-to-reduce-time-and-costs)
 - [Akamai Research Finds 29% of Web Attacks Target APIs](https://www.darkreading.com/application-security/akamai-research-finds-29-of-web-attacks-target-apis)
@@ -83,7 +84,6 @@
 - [India&#39;s Android Users Hit by Malware-as-a-Service Campaign](https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign)
 - [Don&#39;t Answer the Phone: Inside a Real-Life Vishing Attack](https://www.darkreading.com/cyberattacks-data-breaches/dont-answer-phone-inside-real-life-vishing-attack)
 - [After LockBit, ALPHV Takedowns, RaaS Startups Go on a Recruiting Drive](https://www.darkreading.com/threat-intelligence/after-lockbit-alphv-takedowns-raas-recruiting-drive)
-- [&#39;Fluffy Wolf&#39; Spreads Meta Stealer in Corporate Phishing Campaign](https://www.darkreading.com/threat-intelligence/fluffy-wolf-spreads-meta-stealer-in-corporate-phishing-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
