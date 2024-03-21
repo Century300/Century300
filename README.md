@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [United Arab Emirates Faces Intensified Cyber-Risk](https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk)
+- [Using East–West Network Visibility to Detect Threats in Later Stages of MITRE ATT&amp;amp;CK](https://www.darkreading.com/cybersecurity-operations/using-east-west-network-visibility-detect-threats-mitre-attck)
 - [Federal Warning Highlights Cyber Vulnerability of US Water Systems](https://www.darkreading.com/ics-ot-security/new-us-warning-highlights-vulnerability-of-us-water-systems-to-cyberattacks)
 - [Tax Hackers Blitz Small Business With Phishing Emails](https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails)
 - [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
 - [Pathlock Introduces Continuous Controls Monitoring to Reduce Time and Costs](https://www.darkreading.com/cyber-risk/pathlock-introduces-continuous-controls-monitoring-to-reduce-time-and-costs)
 - [Akamai Research Finds 29% of Web Attacks Target APIs](https://www.darkreading.com/application-security/akamai-research-finds-29-of-web-attacks-target-apis)
 - [Kaspersky Identifies Three New Android Malware Threats](https://www.darkreading.com/endpoint-security/kaspersky-identifies-three-new-android-malware-threats)
-- [India&#39;s Android Users Hit by Malware-as-a-Service Campaign](https://www.darkreading.com/cyberattacks-data-breaches/hackers-target-android-users-in-india-through-maas-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
