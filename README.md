@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Changing Concepts of Identity Underscore &#39;Perfect Storm&#39; of Cyber Risk](https://www.darkreading.com/cybersecurity-operations/changing-concepts-identity-perfect-storm-cyber-risk)
+- [Tesla Hack Team Wins $200K and a New Car](https://www.darkreading.com/threat-intelligence/team-s-tesla-hack-wins-them-200k-and-a-new-car)
+- [Changing Concepts of Identity Underscore &#39;Perfect Storm&#39; of Cyber-Risk](https://www.darkreading.com/cybersecurity-operations/changing-concepts-identity-perfect-storm-cyber-risk)
 - [Ivanti Keeps Security Teams Scrambling With 2 More Vulns](https://www.darkreading.com/vulnerabilities-threats/ivanti-security-teams-scrambling-2-vulns)
 - [NIST&#39;s Vuln Database Downshifts, Prompting Questions About Its Future](https://www.darkreading.com/cybersecurity-operations/nist-vuln-database-downshifts-prompting-questions-about-its-future)
 - [How Can We Reduce Threats From the Initial Access Brokers Market?](https://www.darkreading.com/threat-intelligence/how-to-reduce-threats-from-the-initial-access-brokers-market)
 - [300K Internet Hosts at Risk for &#39;Devastating&#39; Loop DoS Attack](https://www.darkreading.com/cloud-security/300k-internet-hosts-at-risk-for-devastating-loop-dos-attack)
 - [Session Takeover Bug in AWS Apache Airflow Reveals Larger Cloud Risk](https://www.darkreading.com/cloud-security/1-click-takeover-bug-aws-apache-airflow-risk)
 - [Cyber Warfare: Understanding New Frontiers in Global Conflicts](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-understanding-new-frontiers-in-global-conflicts)
-- [United Arab Emirates Faces Intensified Cyber-Risk](https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
