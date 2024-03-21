@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Cyber Warfare: Understanding New Frontiers in Global Conflicts](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-understanding-new-frontiers-in-global-conflicts)
 - [United Arab Emirates Faces Intensified Cyber-Risk](https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk)
-- [Using East–West Network Visibility to Detect Threats in Later Stages of MITRE ATT&amp;amp;CK](https://www.darkreading.com/cybersecurity-operations/using-east-west-network-visibility-detect-threats-mitre-attck)
+- [Using East-West Network Visibility to Detect Threats in Later Stages of MITRE ATT&amp;amp;CK](https://www.darkreading.com/cybersecurity-operations/using-east-west-network-visibility-detect-threats-mitre-attck)
 - [Federal Warning Highlights Cyber Vulnerability of US Water Systems](https://www.darkreading.com/ics-ot-security/new-us-warning-highlights-vulnerability-of-us-water-systems-to-cyberattacks)
 - [Tax Hackers Blitz Small Business With Phishing Emails](https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails)
 - [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
