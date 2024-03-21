@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [1-Click Takeover Bug in AWS Apache Airflow Reveals Larger Risk](https://www.darkreading.com/cloud-security/1-click-takeover-bug-aws-apache-airflow-risk)
 - [Cyber Warfare: Understanding New Frontiers in Global Conflicts](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-understanding-new-frontiers-in-global-conflicts)
 - [United Arab Emirates Faces Intensified Cyber-Risk](https://www.darkreading.com/cyber-risk/united-arab-emirates-faces-intensified-cyber-risk)
 - [Using East-West Network Visibility to Detect Threats in Later Stages of MITRE ATT&amp;amp;CK](https://www.darkreading.com/cybersecurity-operations/using-east-west-network-visibility-detect-threats-mitre-attck)
@@ -83,7 +84,6 @@
 - [Tax Hackers Blitz Small Business With Phishing Emails](https://www.darkreading.com/threat-intelligence/tax-cons-targeting-small-business-with-phishing-emails)
 - [Deloitte Launches CyberSphere Platform to Simplify Cyber Operations for Clients](https://www.darkreading.com/cybersecurity-operations/deloitte-launches-cybersphere-platform-to-simplify-cyber-operations-for-clients)
 - [Pathlock Introduces Continuous Controls Monitoring to Reduce Time and Costs](https://www.darkreading.com/cyber-risk/pathlock-introduces-continuous-controls-monitoring-to-reduce-time-and-costs)
-- [Akamai Research Finds 29% of Web Attacks Target APIs](https://www.darkreading.com/application-security/akamai-research-finds-29-of-web-attacks-target-apis)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
