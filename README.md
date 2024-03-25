@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese State-Sponsored Hackers Charged, Sanctions Levied by US](https://www.darkreading.com/cyber-risk/chinese-state-hackers-slapped-with-us-charges-sanctions)
 - [CISA Seeks to Curtail &#39;Unforgivable&#39; SQL Injection Defects](https://www.darkreading.com/cyberattacks-data-breaches/cisa-seeks-to-stem-unforgivable-sql-injection-defects)
+- [A Database-Oriented Operating System Wants to Shake Up Cloud Security](https://www.darkreading.com/cloud-security/can-a-database-oriented-operating-system-make-the-cloud-more-secure)
 - [Mitigating Third-Party Risk Requires a Collaborative, Thorough Approach](https://www.darkreading.com/cyber-risk/mitigating-third-party-risk-requires-collaborative-approach)
 - [Japan Runs Inaugural Cyber Defense Drills With Pacific Island Nations](https://www.darkreading.com/cyber-risk/japan-runs-inaugural-cyber-defense-drills-with-pacific-island-nations)
 - [GitHub Developers Hit in Complex Supply Chain Cyberattack](https://www.darkreading.com/application-security/github-developers-hit-in-complex-supply-chain-cyberattack)
 - [Russian APT Releases More Deadly Variant of AcidRain Wiper Malware](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-releases-more-deadly-variant-of-acidrain-wiper-malware)
 - [AWS CISO: Pay Attention to How AI Uses Your Data](https://www.darkreading.com/cloud-security/aws-ciso-cloud-customers-need-secure-ai-workloads)
-- [Apple Stingy With Details About Latest iOS Update](https://www.darkreading.com/vulnerabilities-threats/apple-is-sparse-with-details-in-latest-ios-update)
-- [8 Strategies for Enhancing Code Signing Security](https://www.darkreading.com/cybersecurity-operations/8-strategies-enhancing-code-signing-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
