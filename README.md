@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Japan Runs Inaugural Cyber Defense Drills with Pacific Island Nations](https://www.darkreading.com/cyber-risk/japan-runs-inaugural-cyber-defense-drills-with-pacific-island-nations)
 - [GitHub Developers Hit in Complex Supply Chain Cyberattack](https://www.darkreading.com/application-security/github-developers-hit-in-complex-supply-chain-cyberattack)
 - [Russian APT Releases More Deadly Variant of AcidRain Wiper Malware](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-releases-more-deadly-variant-of-acidrain-wiper-malware)
 - [AWS CISO: Pay Attention to How AI Uses Your Data](https://www.darkreading.com/cloud-security/aws-ciso-cloud-customers-need-secure-ai-workloads)
@@ -83,7 +84,6 @@
 - [8 Strategies for Enhancing Code Signing Security](https://www.darkreading.com/cybersecurity-operations/8-strategies-enhancing-code-signing-security)
 - [Kenya to TikTok: Prove Compliance With Our Privacy Laws](https://www.darkreading.com/cyber-risk/kenya-to-tiktok-prove-compliance-with-our-privacy-laws)
 - [Why AI Obituary Scams Are a Cyber-Risk for Businesses](https://www.darkreading.com/threat-intelligence/why-ai-obituary-scams-cyber-risk-businesses)
-- [Strata Identity Releases New Authentication Recipes](https://www.darkreading.com/identity-access-management-security/strata-identity-releases-new-authentication-recipes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
