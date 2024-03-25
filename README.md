@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Seeks to Curtail &#39;Unforgivable&#39; SQL Injection Defects](https://www.darkreading.com/cyberattacks-data-breaches/cisa-seeks-to-stem-unforgivable-sql-injection-defects)
 - [Mitigating Third-Party Risk Requires a Collaborative, Thorough Approach](https://www.darkreading.com/cyber-risk/mitigating-third-party-risk-requires-collaborative-approach)
 - [Japan Runs Inaugural Cyber Defense Drills With Pacific Island Nations](https://www.darkreading.com/cyber-risk/japan-runs-inaugural-cyber-defense-drills-with-pacific-island-nations)
 - [GitHub Developers Hit in Complex Supply Chain Cyberattack](https://www.darkreading.com/application-security/github-developers-hit-in-complex-supply-chain-cyberattack)
@@ -83,7 +84,6 @@
 - [AWS CISO: Pay Attention to How AI Uses Your Data](https://www.darkreading.com/cloud-security/aws-ciso-cloud-customers-need-secure-ai-workloads)
 - [Apple Stingy With Details About Latest iOS Update](https://www.darkreading.com/vulnerabilities-threats/apple-is-sparse-with-details-in-latest-ios-update)
 - [8 Strategies for Enhancing Code Signing Security](https://www.darkreading.com/cybersecurity-operations/8-strategies-enhancing-code-signing-security)
-- [Kenya to TikTok: Prove Compliance With Our Privacy Laws](https://www.darkreading.com/cyber-risk/kenya-to-tiktok-prove-compliance-with-our-privacy-laws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
