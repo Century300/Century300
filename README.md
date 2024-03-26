@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dubious NuGet Package May Portend Chinese Industrial Espionage](https://www.darkreading.com/ics-ot-security/dubious-nuget-package-chinese-industrial-espionage)
 - [Africa Tackles Online Disinformation Campaigns During Major Election Year](https://www.darkreading.com/cyberattacks-data-breaches/africa-tackles-online-disinformation-campaigns-during-major-election-year)
 - [UN Adopts Resolution for &#39;Secure, Trustworthy&#39; AI](https://www.darkreading.com/cybersecurity-operations/un-adopts-symbolic-resolution-secure-trustworthy-ai)
 - [Chinese State-Sponsored Hackers Charged, Sanctions Levied by US](https://www.darkreading.com/cyber-risk/chinese-state-hackers-slapped-with-us-charges-sanctions)
@@ -83,7 +84,6 @@
 - [CISA Seeks to Curtail &#39;Unforgivable&#39; SQL Injection Defects](https://www.darkreading.com/cyberattacks-data-breaches/cisa-seeks-to-stem-unforgivable-sql-injection-defects)
 - [A Database-Oriented Operating System Wants to Shake Up Cloud Security](https://www.darkreading.com/cloud-security/can-a-database-oriented-operating-system-make-the-cloud-more-secure)
 - [Mitigating Third-Party Risk Requires a Collaborative, Thorough Approach](https://www.darkreading.com/cyber-risk/mitigating-third-party-risk-requires-collaborative-approach)
-- [Japan Runs Inaugural Cyber Defense Drills With Pacific Island Nations](https://www.darkreading.com/cyber-risk/japan-runs-inaugural-cyber-defense-drills-with-pacific-island-nations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
