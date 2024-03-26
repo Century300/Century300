@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [UN Adopts Largely Symbolic Resolution for &#39;Secure, Trustworthy&#39; AI](https://www.darkreading.com/cybersecurity-operations/un-adopts-symbolic-resolution-secure-trustworthy-ai)
+- [UN Adopts Resolution for &#39;Secure, Trustworthy&#39; AI](https://www.darkreading.com/cybersecurity-operations/un-adopts-symbolic-resolution-secure-trustworthy-ai)
 - [Chinese State-Sponsored Hackers Charged, Sanctions Levied by US](https://www.darkreading.com/cyber-risk/chinese-state-hackers-slapped-with-us-charges-sanctions)
 - [CISA Seeks to Curtail &#39;Unforgivable&#39; SQL Injection Defects](https://www.darkreading.com/cyberattacks-data-breaches/cisa-seeks-to-stem-unforgivable-sql-injection-defects)
 - [A Database-Oriented Operating System Wants to Shake Up Cloud Security](https://www.darkreading.com/cloud-security/can-a-database-oriented-operating-system-make-the-cloud-more-secure)
