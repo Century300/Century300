@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Day Bonanza Drives More Exploits Against Enterprises](https://www.darkreading.com/threat-intelligence/zero-day-bonanza-exploits-enterprises)
 - [Getting Security Remediation on the Boardroom Agenda](https://www.darkreading.com/cybersecurity-operations/getting-security-remediation-on-boardroom-agenda)
 - [&#39;Darcula&#39; Phishing-as-a-Service Operation Bleeds Victims Worldwide](https://www.darkreading.com/endpoint-security/-darcula-phishing-as-a-service-operation-bleeds-victims-worldwide)
 - [Australian Government Doubles Down On Cybersecurity in Wake of Major Attacks](https://www.darkreading.com/cyber-risk/australian-government-doubles-down-on-cybersecurity-in-wake-of-major-attacks)
@@ -83,7 +84,6 @@
 - [Apple Security Bug Opens iPhone, iPad to RCE](https://www.darkreading.com/endpoint-security/apple-security-bug-opens-iphone-ipad-rce)
 - [Patch Now: Critical Fortinet RCE Bug Under Active Attack](https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack)
 - [How New-Age Hackers Are Ditching Old Ethics](https://www.darkreading.com/cyberattacks-data-breaches/how-new-age-hackers-are-ditching-old-ethics)
-- [Abstract Security Brings AI to Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/abstract-security-brings-ai-to-next-gen-siem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
