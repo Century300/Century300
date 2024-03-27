@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vietnam Securities Broker Suffered Cyberattack That Suspended Trading](https://www.darkreading.com/cyberattacks-data-breaches/vietnam-securities-broker-suffered-cyberattack-that-suspended-trading)
 - [&#39;Tycoon&#39; Malware Kit Bypasses Microsoft, Google MFA](https://www.darkreading.com/application-security/tycoon-malware-kit-bypasses-microsoft-google-mfa)
 - [Zero-Day Bonanza Drives More Exploits Against Enterprises](https://www.darkreading.com/threat-intelligence/zero-day-bonanza-exploits-enterprises)
 - [Getting Security Remediation on the Boardroom Agenda](https://www.darkreading.com/cybersecurity-operations/getting-security-remediation-on-boardroom-agenda)
@@ -83,7 +84,6 @@
 - [Australian Government Doubles Down On Cybersecurity in Wake of Major Attacks](https://www.darkreading.com/cyber-risk/australian-government-doubles-down-on-cybersecurity-in-wake-of-major-attacks)
 - [Worldwide Agenda Ransomware Wave Targets VMware ESXi Servers](https://www.darkreading.com/cloud-security/agenda-ransomware-vmware-esxi-servers)
 - [Apple Security Bug Opens iPhone, iPad to RCE](https://www.darkreading.com/endpoint-security/apple-security-bug-opens-iphone-ipad-rce)
-- [Patch Now: Critical Fortinet RCE Bug Under Active Attack](https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
