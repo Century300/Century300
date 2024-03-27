@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australian Government Doubles Down On Cybersecurity in Wake of Major Attacks](https://www.darkreading.com/cyber-risk/australian-government-doubles-down-on-cybersecurity-in-wake-of-major-attacks)
 - [Worldwide Agenda Ransomware Wave Targets VMware ESXi Servers](https://www.darkreading.com/cloud-security/agenda-ransomware-vmware-esxi-servers)
 - [Apple Security Bug Opens iPhone, iPad to RCE](https://www.darkreading.com/endpoint-security/apple-security-bug-opens-iphone-ipad-rce)
 - [Patch Now: Critical Fortinet RCE Bug Under Active Attack](https://www.darkreading.com/cloud-security/patch-critical-fortinet-rce-bug-active-attack)
@@ -83,7 +84,6 @@
 - [Abstract Security Brings AI to Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/abstract-security-brings-ai-to-next-gen-siem)
 - [Dubious NuGet Package May Portend Chinese Industrial Espionage](https://www.darkreading.com/ics-ot-security/dubious-nuget-package-chinese-industrial-espionage)
 - [Africa Tackles Online Disinformation Campaigns During Major Election Year](https://www.darkreading.com/cyberattacks-data-breaches/africa-tackles-online-disinformation-campaigns-during-major-election-year)
-- [UN Adopts Resolution for &#39;Secure, Trustworthy&#39; AI](https://www.darkreading.com/cybersecurity-operations/un-adopts-symbolic-resolution-secure-trustworthy-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
