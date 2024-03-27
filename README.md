@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Flare Acquires Foretrace to Accelerate Threat Exposure Management Growth](https://www.darkreading.com/cyberattacks-data-breaches/flare-acquires-foretrace-to-accelerate-threat-exposure-management-growth)
+- [Checkmarx Announces Partnership With Wiz](https://www.darkreading.com/cloud-security/checkmarx-announces-partnership-with-wiz)
+- [WiCyS and ISC2 Launch Spring Camp for Cybersecurity Certification](https://www.darkreading.com/cybersecurity-operations/wicys-and-isc2-launch-spring-camp-for-cybersecurity-certification)
+- [New Cyber Threats to Challenge Financial Services Sector in 2024](https://www.darkreading.com/cyberattacks-data-breaches/new-cyber-threats-to-challenge-financial-services-sector-in-2024)
+- [Millions of Hotel Rooms Worldwide Vulnerable to Door Lock Exploit](https://www.darkreading.com/vulnerabilities-threats/millions-hotel-rooms-worldwide-vulnerable-door-lock-exploit)
+- [Patchless Apple M-Chip Vulnerability Allows Cryptography Bypass](https://www.darkreading.com/application-security/patchless-apple-m-chip-vulnerability-cryptography-bypass)
+- [Threat Report: Examining the Use of AI in Attack Techniques](https://www.darkreading.com/cyberattacks-data-breaches/threat-report-examining-the-use-of-ai-in-attack-techniques)
 - [DHS Proposes Critical Infrastructure Reporting Rules](https://www.darkreading.com/cybersecurity-operations/dhs-releases-unpublished-circia-document-proposing-new-rule)
-- [Vietnam Securities Broker Suffered Cyberattack That Suspended Trading](https://www.darkreading.com/cyberattacks-data-breaches/vietnam-securities-broker-suffered-cyberattack-that-suspended-trading)
-- [&#39;Tycoon&#39; Malware Kit Bypasses Microsoft, Google MFA](https://www.darkreading.com/application-security/tycoon-malware-kit-bypasses-microsoft-google-mfa)
-- [Zero-Day Bonanza Drives More Exploits Against Enterprises](https://www.darkreading.com/threat-intelligence/zero-day-bonanza-exploits-enterprises)
-- [Getting Security Remediation on the Boardroom Agenda](https://www.darkreading.com/cybersecurity-operations/getting-security-remediation-on-boardroom-agenda)
-- [&#39;Darcula&#39; Phishing-as-a-Service Operation Bleeds Victims Worldwide](https://www.darkreading.com/endpoint-security/-darcula-phishing-as-a-service-operation-bleeds-victims-worldwide)
-- [Australian Government Doubles Down On Cybersecurity in Wake of Major Attacks](https://www.darkreading.com/cyber-risk/australian-government-doubles-down-on-cybersecurity-in-wake-of-major-attacks)
-- [Worldwide Agenda Ransomware Wave Targets VMware ESXi Servers](https://www.darkreading.com/cloud-security/agenda-ransomware-vmware-esxi-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
