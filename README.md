@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Strategies to Future-Proof Data Privacy](https://www.darkreading.com/cyber-risk/3-strategies-to-future-proof-data-privacy)
 - [Corporations With Cyber Governance Create Almost 4X More Value](https://www.darkreading.com/cyber-risk/study-corporations-with-cyber-governance-create-almost-4x-more-value)
 - [Saudi Arabia, UAE Top List of APT-Targeted Nations in the Middle East](https://www.darkreading.com/vulnerabilities-threats/saudi-arabia-uae-top-list-of-apt-targeted-nations-in-middle-east)
 - [10 Steps to Detect, Prevent, and Remediate the Terrapin Vulnerability](https://www.darkreading.com/vulnerabilities-threats/10-steps-to-detect-prevent-and-remediate-the-terrapin-vulnerability)
@@ -83,7 +84,6 @@
 - [Flare Acquires Foretrace to Accelerate Threat Exposure Management Growth](https://www.darkreading.com/cyberattacks-data-breaches/flare-acquires-foretrace-to-accelerate-threat-exposure-management-growth)
 - [Checkmarx Announces Partnership With Wiz](https://www.darkreading.com/cloud-security/checkmarx-announces-partnership-with-wiz)
 - [WiCyS and ISC2 Launch Spring Camp for Cybersecurity Certification](https://www.darkreading.com/cybersecurity-operations/wicys-and-isc2-launch-spring-camp-for-cybersecurity-certification)
-- [New Cyber Threats to Challenge Financial Services Sector in 2024](https://www.darkreading.com/cyberattacks-data-breaches/new-cyber-threats-to-challenge-financial-services-sector-in-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
