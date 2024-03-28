@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Indian Government, Oil Companies Breached by &#39;HackBrowserData&#39;](https://www.darkreading.com/cyberattacks-data-breaches/indian-government-breached-by-hackbrowserdata-information-stealer)
 - [Suspected MFA Bombing Attacks Target Apple iPhone Users](https://www.darkreading.com/cloud-security/mfa-bombing-attacks-target-apple-iphone-users)
 - [US Puts Up $10M Bounty on BlackCat Ransomware Gang Members](https://www.darkreading.com/cyber-risk/us-10m-bounty-blackcat-ransomware-members)
 - [3 Strategies to Future-Proof Data Privacy](https://www.darkreading.com/cyber-risk/3-strategies-to-future-proof-data-privacy)
@@ -83,7 +84,6 @@
 - [Saudi Arabia, UAE Top List of APT-Targeted Nations in the Middle East](https://www.darkreading.com/vulnerabilities-threats/saudi-arabia-uae-top-list-of-apt-targeted-nations-in-middle-east)
 - [10 Steps to Detect, Prevent, and Remediate the Terrapin Vulnerability](https://www.darkreading.com/vulnerabilities-threats/10-steps-to-detect-prevent-and-remediate-the-terrapin-vulnerability)
 - [A CISO&#39;s Guide to Materiality and Risk Determination](https://www.darkreading.com/cyber-risk/a-ciso-s-guide-to-materiality-and-risk-determination)
-- [Flare Acquires Foretrace to Accelerate Threat Exposure Management Growth](https://www.darkreading.com/cyberattacks-data-breaches/flare-acquires-foretrace-to-accelerate-threat-exposure-management-growth)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
