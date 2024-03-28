@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Saudi Arabia, UAE Top List of APT-Targeted Nations in the Middle East](https://www.darkreading.com/vulnerabilities-threats/saudi-arabia-uae-top-list-of-apt-targeted-nations-in-middle-east)
 - [Flare Acquires Foretrace to Accelerate Threat Exposure Management Growth](https://www.darkreading.com/cyberattacks-data-breaches/flare-acquires-foretrace-to-accelerate-threat-exposure-management-growth)
 - [Checkmarx Announces Partnership With Wiz](https://www.darkreading.com/cloud-security/checkmarx-announces-partnership-with-wiz)
 - [WiCyS and ISC2 Launch Spring Camp for Cybersecurity Certification](https://www.darkreading.com/cybersecurity-operations/wicys-and-isc2-launch-spring-camp-for-cybersecurity-certification)
@@ -83,7 +84,6 @@
 - [Millions of Hotel Rooms Worldwide Vulnerable to Door Lock Exploit](https://www.darkreading.com/vulnerabilities-threats/millions-hotel-rooms-worldwide-vulnerable-door-lock-exploit)
 - [Patchless Apple M-Chip Vulnerability Allows Cryptography Bypass](https://www.darkreading.com/application-security/patchless-apple-m-chip-vulnerability-cryptography-bypass)
 - [Threat Report: Examining the Use of AI in Attack Techniques](https://www.darkreading.com/cyberattacks-data-breaches/threat-report-examining-the-use-of-ai-in-attack-techniques)
-- [DHS Proposes Critical Infrastructure Reporting Rules](https://www.darkreading.com/cybersecurity-operations/dhs-releases-unpublished-circia-document-proposing-new-rule)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
