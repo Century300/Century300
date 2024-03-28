@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco IOS Bugs Allow Unauthenticated, Remote DoS Attacks](https://www.darkreading.com/application-security/cisco-ios-bugs-unauthenticated-remote-dos-attacks)
 - [Pervasive LLM Hallucinations Expand Code Developer Attack Surface](https://www.darkreading.com/application-security/pervasive-llm-hallucinations-expand-code-developer-attack-surface)
 - [Indian Government, Oil Companies Breached by &#39;HackBrowserData&#39;](https://www.darkreading.com/cyberattacks-data-breaches/indian-government-breached-by-hackbrowserdata-information-stealer)
 - [Suspected MFA Bombing Attacks Target Apple iPhone Users](https://www.darkreading.com/cloud-security/mfa-bombing-attacks-target-apple-iphone-users)
@@ -83,7 +84,6 @@
 - [3 Strategies to Future-Proof Data Privacy](https://www.darkreading.com/cyber-risk/3-strategies-to-future-proof-data-privacy)
 - [Corporations With Cyber Governance Create Almost 4X More Value](https://www.darkreading.com/cyber-risk/study-corporations-with-cyber-governance-create-almost-4x-more-value)
 - [Saudi Arabia, UAE Top List of APT-Targeted Nations in the Middle East](https://www.darkreading.com/vulnerabilities-threats/saudi-arabia-uae-top-list-of-apt-targeted-nations-in-middle-east)
-- [10 Steps to Detect, Prevent, and Remediate the Terrapin Vulnerability](https://www.darkreading.com/vulnerabilities-threats/10-steps-to-detect-prevent-and-remediate-the-terrapin-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
