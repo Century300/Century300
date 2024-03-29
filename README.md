@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Geopolitical Conflicts: 5 Ways to Cushion the Blow](https://www.darkreading.com/vulnerabilities-threats/geopolitical-conflicts-5-ways-to-cushion-the-blow)
 - [Iran&#39;s Evolving Cyber-Enabled Influence Operations to Support Hamas](https://www.darkreading.com/cybersecurity-operations/iran-s-evolving-cyber-enabled-influence-operations-to-support-hamas)
 - [Cisco IOS Bugs Allow Unauthenticated, Remote DoS Attacks](https://www.darkreading.com/application-security/cisco-ios-bugs-unauthenticated-remote-dos-attacks)
 - [Pervasive LLM Hallucinations Expand Code Developer Attack Surface](https://www.darkreading.com/application-security/pervasive-llm-hallucinations-expand-code-developer-attack-surface)
@@ -83,7 +84,6 @@
 - [Suspected MFA Bombing Attacks Target Apple iPhone Users](https://www.darkreading.com/cloud-security/mfa-bombing-attacks-target-apple-iphone-users)
 - [US Puts Up $10M Bounty on BlackCat Ransomware Gang Members](https://www.darkreading.com/cyber-risk/us-10m-bounty-blackcat-ransomware-members)
 - [3 Strategies to Future-Proof Data Privacy](https://www.darkreading.com/cyber-risk/3-strategies-to-future-proof-data-privacy)
-- [Corporations With Cyber Governance Create Almost 4X More Value](https://www.darkreading.com/cyber-risk/study-corporations-with-cyber-governance-create-almost-4x-more-value)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
