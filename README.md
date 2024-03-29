@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons From the LockBit Takedown](https://www.darkreading.com/threat-intelligence/lessons-from-the-lockbit-takedown)
+- [TheMoon Malware Rises Again with Malicious Botnet for Hire](https://www.darkreading.com/endpoint-security/themoon-malware-rises-malicious-botnet-for-hire)
 - [Geopolitical Conflicts: 5 Ways to Cushion the Blow](https://www.darkreading.com/vulnerabilities-threats/geopolitical-conflicts-5-ways-to-cushion-the-blow)
 - [Iran&#39;s Evolving Cyber-Enabled Influence Operations to Support Hamas](https://www.darkreading.com/cybersecurity-operations/iran-s-evolving-cyber-enabled-influence-operations-to-support-hamas)
 - [Cisco IOS Bugs Allow Unauthenticated, Remote DoS Attacks](https://www.darkreading.com/application-security/cisco-ios-bugs-unauthenticated-remote-dos-attacks)
 - [Pervasive LLM Hallucinations Expand Code Developer Attack Surface](https://www.darkreading.com/application-security/pervasive-llm-hallucinations-expand-code-developer-attack-surface)
 - [Indian Government, Oil Companies Breached by &#39;HackBrowserData&#39;](https://www.darkreading.com/cyberattacks-data-breaches/indian-government-breached-by-hackbrowserdata-information-stealer)
 - [Suspected MFA Bombing Attacks Target Apple iPhone Users](https://www.darkreading.com/cloud-security/mfa-bombing-attacks-target-apple-iphone-users)
-- [US Puts Up $10M Bounty on BlackCat Ransomware Gang Members](https://www.darkreading.com/cyber-risk/us-10m-bounty-blackcat-ransomware-members)
-- [3 Strategies to Future-Proof Data Privacy](https://www.darkreading.com/cyber-risk/3-strategies-to-future-proof-data-privacy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
