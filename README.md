@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Beefs Up Defenses in Azure AI](https://www.darkreading.com/application-security/microsoft-adds-tools-for-protecting-against-prompt-injection-other-threats-in-azure-ai)
 - [XZ Utils Backdoor Implanted in Carefully Executed, Multiyear Supply Chain Attack](https://www.darkreading.com/cyber-risk/xz-utils-backdoor-implanted-in-intricate-multi-year-supply-chain-attack)
 - [Cybercriminals Weigh Options for Using LLMs: Buy, Build, or Break?](https://www.darkreading.com/threat-intelligence/cybercriminals-options-lms-buy-build-break)
 - [Sprawling Sellafield Nuclear Waste Site Prosecuted for Cybersecurity Failings](https://www.darkreading.com/ics-ot-security/sellafield-nuclear-waste-site-prosecuted-cybersecurity-failings)
@@ -83,7 +84,6 @@
 - [India Repatriates Citizens Duped Into Forced Cyber Fraud Labor in Cambodia](https://www.darkreading.com/cyberattacks-data-breaches/india-repatriates-citizens-duped-into-forced-cyber-fraud-cambodia)
 - [Collaboration Needed to Fight Ransomware](https://www.darkreading.com/vulnerabilities-threats/collaboration-needed-to-fight-ransomware)
 - [Name That Edge Toon: Defying Gravity](https://www.darkreading.com/cloud-security/name-that-edge-toon-defying-gravity)
-- [Are You Affected by the Backdoor in XZ Utils?](https://www.darkreading.com/vulnerabilities-threats/are-you-affected-by-the-backdoor-in-xz-utils)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
