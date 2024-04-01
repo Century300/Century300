@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AT&amp;amp;T Confirms 73M Customers Affected in Data Leak](https://www.darkreading.com/remote-workforce/att-confirms-73m-customers-affected-data-leak)
 - [India Repatriates Citizens Duped Into Forced Cyber Fraud Labor in Cambodia](https://www.darkreading.com/cyberattacks-data-breaches/india-repatriates-citizens-duped-into-forced-cyber-fraud-cambodia)
 - [Collaboration Needed to Fight Ransomware](https://www.darkreading.com/vulnerabilities-threats/collaboration-needed-to-fight-ransomware)
+- [Name That Edge Toon: Defying Gravity](https://www.darkreading.com/cloud-security/name-that-edge-toon-defying-gravity)
 - [Are You Affected by the Backdoor in XZ Utils?](https://www.darkreading.com/vulnerabilities-threats/are-you-affected-by-the-backdoor-in-xz-utils)
 - [CISO Corner: Cyber-Pro Swindle; New Faces of Risk; Cyber Boosts Valuation](https://www.darkreading.com/cloud-security/ciso-corner-cyber-pro-swindle-risk-valuation)
 - [UN Peace Operations Under Fire From State-Sponsored Hackers](https://www.darkreading.com/cyber-risk/un-peace-operations-under-fire-from-state-sponsored-hackers)
 - [Lessons From the LockBit Takedown](https://www.darkreading.com/threat-intelligence/lessons-from-the-lockbit-takedown)
-- [Cloud Email Filtering Bypass Attack Works 80% of the Time](https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack)
-- [TheMoon Malware Rises Again with Malicious Botnet for Hire](https://www.darkreading.com/endpoint-security/themoon-malware-rises-malicious-botnet-for-hire)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
