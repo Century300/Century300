@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Collaboration Needed to Fight Ransomware](https://www.darkreading.com/vulnerabilities-threats/collaboration-needed-to-fight-ransomware)
 - [Are You Affected by the Backdoor in XZ Utils?](https://www.darkreading.com/vulnerabilities-threats/are-you-affected-by-the-backdoor-in-xz-utils)
 - [CISO Corner: Cyber-Pro Swindle; New Faces of Risk; Cyber Boosts Valuation](https://www.darkreading.com/cloud-security/ciso-corner-cyber-pro-swindle-risk-valuation)
 - [UN Peace Operations Under Fire From State-Sponsored Hackers](https://www.darkreading.com/cyber-risk/un-peace-operations-under-fire-from-state-sponsored-hackers)
@@ -83,7 +84,6 @@
 - [Cloud Email Filtering Bypass Attack Works 80% of the Time](https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack)
 - [TheMoon Malware Rises Again with Malicious Botnet for Hire](https://www.darkreading.com/endpoint-security/themoon-malware-rises-malicious-botnet-for-hire)
 - [Geopolitical Conflicts: 5 Ways to Cushion the Blow](https://www.darkreading.com/vulnerabilities-threats/geopolitical-conflicts-5-ways-to-cushion-the-blow)
-- [Iran&#39;s Evolving Cyber-Enabled Influence Operations to Support Hamas](https://www.darkreading.com/cybersecurity-operations/iran-s-evolving-cyber-enabled-influence-operations-to-support-hamas)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
