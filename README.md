@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Repatriates Citizens Duped Into Forced Cyber Fraud Labor in Cambodia](https://www.darkreading.com/cyberattacks-data-breaches/india-repatriates-citizens-duped-into-forced-cyber-fraud-cambodia)
 - [Collaboration Needed to Fight Ransomware](https://www.darkreading.com/vulnerabilities-threats/collaboration-needed-to-fight-ransomware)
 - [Are You Affected by the Backdoor in XZ Utils?](https://www.darkreading.com/vulnerabilities-threats/are-you-affected-by-the-backdoor-in-xz-utils)
 - [CISO Corner: Cyber-Pro Swindle; New Faces of Risk; Cyber Boosts Valuation](https://www.darkreading.com/cloud-security/ciso-corner-cyber-pro-swindle-risk-valuation)
@@ -83,7 +84,6 @@
 - [Lessons From the LockBit Takedown](https://www.darkreading.com/threat-intelligence/lessons-from-the-lockbit-takedown)
 - [Cloud Email Filtering Bypass Attack Works 80% of the Time](https://www.darkreading.com/cloud-security/cloud-email-filtering-bypass-attack)
 - [TheMoon Malware Rises Again with Malicious Botnet for Hire](https://www.darkreading.com/endpoint-security/themoon-malware-rises-malicious-botnet-for-hire)
-- [Geopolitical Conflicts: 5 Ways to Cushion the Blow](https://www.darkreading.com/vulnerabilities-threats/geopolitical-conflicts-5-ways-to-cushion-the-blow)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
