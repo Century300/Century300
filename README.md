@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Linked Threat Actor Taps &#39;Peculiar&#39; Malware to Evade Detection](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-actor-using-peculiar-malware-to-hide-malicious-activities)
 - [NIST Wants Help Digging Out of Its NVD Backlog](https://www.darkreading.com/vulnerabilities-threats/nist-needs-help-digging-out-of-its-vulnerability-backlog)
 - [HHS Plans for Cyber &#39;One-Stop Shop&#39; After United Healthcare Attack](https://www.darkreading.com/cybersecurity-operations/hhs-plans-for-cyber-one-stop-shop-after-change-healthcare-attack)
 - [Attackers Abuse Google Ad Feature to Target Slack, Notion Users](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-google-ad-feature-to-target-slack-notion-users)
@@ -83,7 +84,6 @@
 - [Cyberattacks Wreaking Physical Disruption on the Rise](https://www.darkreading.com/ics-ot-security/cyberattacks-wreaking-physical-disruption-on-the-rise)
 - [Cybersecurity Threats Intensify in the Middle East During Ramadan](https://www.darkreading.com/cyber-risk/cyber-threats-intensify-in-middle-east-during-ramadan)
 - [Funding the Organizations That Secure the Internet](https://www.darkreading.com/vulnerabilities-threats/funding-the-organizations-that-secure-the-internet)
-- [Microsoft Beefs Up Defenses in Azure AI](https://www.darkreading.com/application-security/microsoft-adds-tools-for-protecting-against-prompt-injection-other-threats-in-azure-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
