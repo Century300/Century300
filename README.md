@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Instilling the Hacker Mindset Organizationwide](https://www.darkreading.com/cybersecurity-operations/instilling-hacker-mindset-organizationwide)
 - [Cyberattacks Wreaking Physical Disruption on the Rise](https://www.darkreading.com/ics-ot-security/cyberattacks-wreaking-physical-disruption-on-the-rise)
 - [Cybersecurity Threats Intensify in the Middle East During Ramadan](https://www.darkreading.com/cyber-risk/cyber-threats-intensify-in-middle-east-during-ramadan)
 - [Funding the Organizations Securing the Internet](https://www.darkreading.com/vulnerabilities-threats/)
@@ -83,7 +84,6 @@
 - [XZ Utils Backdoor Implanted in Carefully Executed, Multiyear Supply Chain Attack](https://www.darkreading.com/cyber-risk/xz-utils-backdoor-implanted-in-intricate-multi-year-supply-chain-attack)
 - [Cybercriminals Weigh Options for Using LLMs: Buy, Build, or Break?](https://www.darkreading.com/threat-intelligence/cybercriminals-options-lms-buy-build-break)
 - [Sprawling Sellafield Nuclear Waste Site Prosecuted for Cybersecurity Failings](https://www.darkreading.com/ics-ot-security/sellafield-nuclear-waste-site-prosecuted-cybersecurity-failings)
-- [AT&amp;amp;T Confirms 73M Customers Affected in Data Leak](https://www.darkreading.com/remote-workforce/att-confirms-73m-customers-affected-data-leak)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
