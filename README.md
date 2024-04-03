@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [More Than Half of Organizations Plan to Adopt AI Solutions in Coming Year, Reports Cloud Security Alliance and Google Cloud](https://www.darkreading.com/cloud-security/more-than-half-of-organizations-plan-to-adopt-ai-solutions-in-coming-year-according-to-cloud-security-alliance-and-google-cloud-report)
+- [CyberRatings.org Announces Test Results for Cloud Network Firewall](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-for-cloud-network-firewall)
+- [TAG Report Reveals Endpoint Backup Is Essential to Improving Data Resiliency](https://www.darkreading.com/endpoint-security/tag-report-reveals-endpoint-backup-is-essential-to-improving-data-resiliency)
 - [TruCentive Enhances Privacy With HIPAA Compliant Personal Information De-identification](https://www.darkreading.com/cyber-risk/trucentive-enhances-privacy-with-hipaa-compliant-personal-information-de-identification)
 - [How Soccer&#39;s 2022 World Cup in Qatar Was Nearly Hacked](https://www.darkreading.com/cyber-risk/how-the-2022-qatar-world-cup-soccer-was-nearly-hacked)
 - [Oil &amp;amp; Gas Sector Falls for Fake Car Accident Phishing Emails](https://www.darkreading.com/cyberattacks-data-breaches/oil-gas-sector-falling-for-fake-vehicle-incident-email-lure)
 - [Omni Hotel IT Outage Disrupts Reservations, Digital Key Systems](https://www.darkreading.com/cybersecurity-operations/omni-hotel-it-outage-causes-operational-disruptions)
 - [The Biggest Mistake Security Teams Make When Buying Tools](https://www.darkreading.com/cybersecurity-operations/biggest-mistake-security-teams-make-when-buying-tools)
-- [Feds to Microsoft: Clean Up Your Cloud Security Act Now](https://www.darkreading.com/cloud-security/feds-microsoft-clean-up-cloud-security-act)
-- [Why Cybersecurity Is a Whole-of-Society Issue](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-is-whole-of-society-issue)
-- [&#39;Unfaking&#39; News: How to Counter Disinformation Campaigns in Global Elections](https://www.darkreading.com/vulnerabilities-threats/unfaking-news-how-to-counter-disinformation-campaigns-in-global-elections)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
