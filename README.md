@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Omni Hotel IT Outage Disrupts Reservations, Digital Key Systems](https://www.darkreading.com/cybersecurity-operations/omni-hotel-it-outage-causes-operational-disruptions)
 - [The Biggest Mistake Security Teams Make When Buying Tools](https://www.darkreading.com/cybersecurity-operations/biggest-mistake-security-teams-make-when-buying-tools)
 - [Feds to Microsoft: Clean Up Your Cloud Security Act Now](https://www.darkreading.com/cloud-security/feds-microsoft-clean-up-cloud-security-act)
 - [Why Cybersecurity Is a Whole-of-Society Issue](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-is-whole-of-society-issue)
@@ -83,7 +84,6 @@
 - [Ransomware, Junk Bank Accounts: Cyber Threats Proliferate in Vietnam](https://www.darkreading.com/cyber-risk/ransomware-junk-bank-accounts-cyberthreats-proliferates-in-vietnam)
 - [China-Linked Threat Actor Taps &#39;Peculiar&#39; Malware to Evade Detection](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-actor-using-peculiar-malware-to-hide-malicious-activities)
 - [Fortanix Builds Private Search for AI](https://www.darkreading.com/data-privacy/bringing-private-search-for-ai)
-- [NIST Wants Help Digging Out of Its NVD Backlog](https://www.darkreading.com/vulnerabilities-threats/nist-needs-help-digging-out-of-its-vulnerability-backlog)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
