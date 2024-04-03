@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Ransomware, Junk Bank Accounts: Cyber Threats Proliferate in Vietnam](https://www.darkreading.com/cyber-risk/ransomware-junk-bank-accounts-cyberthreats-proliferates-in-vietnam)
 - [China-Linked Threat Actor Taps &#39;Peculiar&#39; Malware to Evade Detection](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-actor-using-peculiar-malware-to-hide-malicious-activities)
+- [Fortanix Builds Private Search for AI](https://www.darkreading.com/data-privacy/bringing-private-search-for-ai)
 - [NIST Wants Help Digging Out of Its NVD Backlog](https://www.darkreading.com/vulnerabilities-threats/nist-needs-help-digging-out-of-its-vulnerability-backlog)
 - [HHS Plans for Cyber &#39;One-Stop Shop&#39; After United Healthcare Attack](https://www.darkreading.com/cybersecurity-operations/hhs-plans-for-cyber-one-stop-shop-after-change-healthcare-attack)
 - [Attackers Abuse Google Ad Feature to Target Slack, Notion Users](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-google-ad-feature-to-target-slack-notion-users)
 - [Instilling the Hacker Mindset Organizationwide](https://www.darkreading.com/cybersecurity-operations/instilling-hacker-mindset-organizationwide)
 - [Cyberattacks Wreaking Physical Disruption on the Rise](https://www.darkreading.com/ics-ot-security/cyberattacks-wreaking-physical-disruption-on-the-rise)
-- [Cybersecurity Threats Intensify in the Middle East During Ramadan](https://www.darkreading.com/cyber-risk/cyber-threats-intensify-in-middle-east-during-ramadan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
