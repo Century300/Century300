@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds to Microsoft: Clean Up Your Cloud Security Act Now](https://www.darkreading.com/cloud-security/feds-microsoft-clean-up-cloud-security-act)
 - [Why Cybersecurity Is a Whole-of-Society Issue](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-is-whole-of-society-issue)
 - [&#39;Unfaking&#39; News: How to Counter Disinformation Campaigns in Global Elections](https://www.darkreading.com/vulnerabilities-threats/unfaking-news-how-to-counter-disinformation-campaigns-in-global-elections)
 - [Ransomware, Junk Bank Accounts: Cyber Threats Proliferate in Vietnam](https://www.darkreading.com/cyber-risk/ransomware-junk-bank-accounts-cyberthreats-proliferates-in-vietnam)
@@ -83,7 +84,6 @@
 - [Fortanix Builds Private Search for AI](https://www.darkreading.com/data-privacy/bringing-private-search-for-ai)
 - [NIST Wants Help Digging Out of Its NVD Backlog](https://www.darkreading.com/vulnerabilities-threats/nist-needs-help-digging-out-of-its-vulnerability-backlog)
 - [HHS Plans for Cyber &#39;One-Stop Shop&#39; After United Healthcare Attack](https://www.darkreading.com/cybersecurity-operations/hhs-plans-for-cyber-one-stop-shop-after-change-healthcare-attack)
-- [Attackers Abuse Google Ad Feature to Target Slack, Notion Users](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-google-ad-feature-to-target-slack-notion-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
