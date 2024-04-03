@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Biggest Mistake Security Teams Make When Buying Tools](https://www.darkreading.com/cybersecurity-operations/biggest-mistake-security-teams-make-when-buying-tools)
 - [Feds to Microsoft: Clean Up Your Cloud Security Act Now](https://www.darkreading.com/cloud-security/feds-microsoft-clean-up-cloud-security-act)
 - [Why Cybersecurity Is a Whole-of-Society Issue](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-is-whole-of-society-issue)
 - [&#39;Unfaking&#39; News: How to Counter Disinformation Campaigns in Global Elections](https://www.darkreading.com/vulnerabilities-threats/unfaking-news-how-to-counter-disinformation-campaigns-in-global-elections)
@@ -83,7 +84,6 @@
 - [China-Linked Threat Actor Taps &#39;Peculiar&#39; Malware to Evade Detection](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-actor-using-peculiar-malware-to-hide-malicious-activities)
 - [Fortanix Builds Private Search for AI](https://www.darkreading.com/data-privacy/bringing-private-search-for-ai)
 - [NIST Wants Help Digging Out of Its NVD Backlog](https://www.darkreading.com/vulnerabilities-threats/nist-needs-help-digging-out-of-its-vulnerability-backlog)
-- [HHS Plans for Cyber &#39;One-Stop Shop&#39; After United Healthcare Attack](https://www.darkreading.com/cybersecurity-operations/hhs-plans-for-cyber-one-stop-shop-after-change-healthcare-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
