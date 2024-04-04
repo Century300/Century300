@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [AI&#39;s Dual Role on SMB Brand Spoofing](https://www.darkreading.com/cybersecurity-analytics/ai-dual-role-smb-brand-spoofing)
+- [AI&#39;s Dual Role in SMB Brand Spoofing](https://www.darkreading.com/cybersecurity-analytics/ai-dual-role-smb-brand-spoofing)
 - [Singapore Sets High Bar in Cybersecurity Preparedness](https://www.darkreading.com/cybersecurity-analytics/singapore-sets-high-bar-in-cybersecurity-preparedness)
 - [LockBit Ransomware Takedown Strikes Deep Into Brand&#39;s Viability](https://www.darkreading.com/threat-intelligence/lockbit-ransomware-takedown-strikes-brand-viability)
 - [More Than Half of Organizations Plan to Adopt AI Solutions in Coming Year, Reports Cloud Security Alliance and Google Cloud](https://www.darkreading.com/cloud-security/more-than-half-of-organizations-plan-to-adopt-ai-solutions-in-coming-year-according-to-cloud-security-alliance-and-google-cloud-report)
