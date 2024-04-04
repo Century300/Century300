@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattack Shutters Some Operations at Japanese Lens Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-shutters-some-operations-at-japanese-lens-manufacturer)
+- [How CISOs Can Make Cybersecurity a Long-Term Priority for Boards](https://www.darkreading.com/cyber-risk/how-cisos-can-make-cybersecurity-long-term-priority-for-boards)
 - [AI&#39;s Dual Role in SMB Brand Spoofing](https://www.darkreading.com/cybersecurity-analytics/ai-dual-role-smb-brand-spoofing)
 - [Singapore Sets High Bar in Cybersecurity Preparedness](https://www.darkreading.com/cybersecurity-analytics/singapore-sets-high-bar-in-cybersecurity-preparedness)
 - [LockBit Ransomware Takedown Strikes Deep Into Brand&#39;s Viability](https://www.darkreading.com/threat-intelligence/lockbit-ransomware-takedown-strikes-brand-viability)
 - [More Than Half of Organizations Plan to Adopt AI Solutions in Coming Year, Reports Cloud Security Alliance and Google Cloud](https://www.darkreading.com/cloud-security/more-than-half-of-organizations-plan-to-adopt-ai-solutions-in-coming-year-according-to-cloud-security-alliance-and-google-cloud-report)
 - [CyberRatings.org Announces Test Results for Cloud Network Firewall](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-for-cloud-network-firewall)
 - [TAG Report Reveals Endpoint Backup Is Essential to Improving Data Resiliency](https://www.darkreading.com/endpoint-security/tag-report-reveals-endpoint-backup-is-essential-to-improving-data-resiliency)
-- [TruCentive Enhances Privacy With HIPAA Compliant Personal Information De-identification](https://www.darkreading.com/cyber-risk/trucentive-enhances-privacy-with-hipaa-compliant-personal-information-de-identification)
-- [How Soccer&#39;s 2022 World Cup in Qatar Was Nearly Hacked](https://www.darkreading.com/cyber-risk/how-the-2022-qatar-world-cup-soccer-was-nearly-hacked)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
