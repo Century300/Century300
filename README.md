@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Panera Bread Fuels Ransomware Suspicions With Silence](https://www.darkreading.com/cybersecurity-operations/panera-bread-outage-leads-to-frustrated-customers)
+- [CISO Corner: Ivanti&#39;s Mea Culpa; World Cup Hack; CISOs &amp;amp; Cyber Awareness](https://www.darkreading.com/remote-workforce/ciso-corner-ivanti-mea-culpa-world-cup-hack-cyber-awareness)
 - [Magecart Attackers Pioneer Persistent E-Commerce Backdoor](https://www.darkreading.com/cloud-security/magecart-attackers-pioneer-persistent-ecommerce-backdoor)
+- [How Do We Integrate LLMs Security Into Application Development?](https://www.darkreading.com/application-security/how-do-we-integrate-llm-security-into-application-development-)
 - [White House&#39;s Call for Memory Safety Brings Challenges, Changes &amp;amp; Costs](https://www.darkreading.com/vulnerabilities-threats/white-house-call-for-memory-safety-brings-challenges-changes-costs)
 - [Reconsider Your CNAPP Strategy Using These 5 Scenarios](https://www.darkreading.com/cloud-security/reconsider-your-cnapp-strategy-using-these-5-scenarios)
 - [SEXi Ransomware Desires VMware Hypervisors in Ongoing Campaign](https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors)
 - [Ivanti Pledges Security Overhaul the Day After 4 More Vulns Disclosed](https://www.darkreading.com/remote-workforce/ivanti-ceo-commits-to-security-overhaul-day-after-vendor-discloses-4-more-vulns)
-- [Malicious Latrodectus Downloader Picks Up Where QBot Left Off](https://www.darkreading.com/threat-intelligence/new-loader-takes-over-where-qbot-left-off)
-- [Thousands of Australian Businesses Targeted With &#39;Reliable&#39; Agent Tesla RAT](https://www.darkreading.com/remote-workforce/thousands-of-australian-businesses-targeted-with-agent-tesla-rat)
-- [Action1 Unveils &#39;School Defense&#39; Program To Help Small Educational Institutions Thwart Cyberattacks](https://www.darkreading.com/cybersecurity-operations/action1-unveils-school-defense-program-to-help-small-educational-institutions-thwart-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
