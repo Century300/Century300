@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House&#39;s Call for Memory Safety Brings Challenges, Changes &amp;amp; Costs](https://www.darkreading.com/vulnerabilities-threats/white-house-call-for-memory-safety-brings-challenges-changes-costs)
 - [Reconsider Your CNAPP Strategy Using These 5 Scenarios](https://www.darkreading.com/cloud-security/reconsider-your-cnapp-strategy-using-these-5-scenarios)
 - [SEXi Ransomware Desires VMware Hypervisors in Ongoing Campaign](https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors)
 - [Ivanti Pledges Security Overhaul the Day After 4 More Vulns Disclosed](https://www.darkreading.com/remote-workforce/ivanti-ceo-commits-to-security-overhaul-day-after-vendor-discloses-4-more-vulns)
@@ -83,7 +84,6 @@
 - [Thousands of Australian Businesses Targeted With &#39;Reliable&#39; Agent Tesla RAT](https://www.darkreading.com/remote-workforce/thousands-of-australian-businesses-targeted-with-agent-tesla-rat)
 - [Action1 Unveils &#39;School Defense&#39; Program To Help Small Educational Institutions Thwart Cyberattacks](https://www.darkreading.com/cybersecurity-operations/action1-unveils-school-defense-program-to-help-small-educational-institutions-thwart-cyberattacks)
 - [Critical Security Flaw Exposes 1 Million WordPress Sites to SQL Injection](https://www.darkreading.com/remote-workforce/critical-security-flaw-wordpress-sql-injection)
-- [Cyberattack Shutters Some Operations at Japanese Lens Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-shutters-some-operations-at-japanese-lens-manufacturer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
