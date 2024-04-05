@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Reconsider Your CNAPP Strategy Using These 5 Scenarios](https://www.darkreading.com/cloud-security/reconsider-your-cnapp-strategy-using-these-5-scenarios)
 - [SEXi Ransomware Desires VMware Hypervisors in Ongoing Campaign](https://www.darkreading.com/threat-intelligence/sexi-ransomware-desires-vmware-hypervisors)
 - [Ivanti Pledges Security Overhaul the Day After 4 More Vulns Disclosed](https://www.darkreading.com/remote-workforce/ivanti-ceo-commits-to-security-overhaul-day-after-vendor-discloses-4-more-vulns)
 - [Malicious Latrodectus Downloader Picks Up Where QBot Left Off](https://www.darkreading.com/threat-intelligence/new-loader-takes-over-where-qbot-left-off)
@@ -83,7 +84,6 @@
 - [Action1 Unveils &#39;School Defense&#39; Program To Help Small Educational Institutions Thwart Cyberattacks](https://www.darkreading.com/cybersecurity-operations/action1-unveils-school-defense-program-to-help-small-educational-institutions-thwart-cyberattacks)
 - [Critical Security Flaw Exposes 1 Million WordPress Sites to SQL Injection](https://www.darkreading.com/remote-workforce/critical-security-flaw-wordpress-sql-injection)
 - [Cyberattack Shutters Some Operations at Japanese Lens Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/cyberattack-shutters-some-operations-at-japanese-lens-manufacturer)
-- [How CISOs Can Make Cybersecurity a Long-Term Priority for Boards](https://www.darkreading.com/cyber-risk/how-cisos-can-make-cybersecurity-long-term-priority-for-boards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
