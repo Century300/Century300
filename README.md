@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Fight for Cybersecurity Awareness](https://www.darkreading.com/cybersecurity-operations/fight-for-cybersecurity-awareness)
 - [Solar Spider Spins Up New Malware to Entrap Saudi Arabian Financial Firms](https://www.darkreading.com/threat-intelligence/solar-spider-spins-up-new-malware-to-entrap-saudi-arabian-banks)
 - [Critical Bugs Put Hugging Face AI Platform in a &#39;Pickle&#39;](https://www.darkreading.com/cloud-security/critical-bugs-hugging-face-ai-platform-pickle)
 - [Panera Bread Fuels Ransomware Suspicions With Silence](https://www.darkreading.com/cybersecurity-operations/panera-bread-outage-leads-to-frustrated-customers)
@@ -83,7 +84,6 @@
 - [Magecart Attackers Pioneer Persistent E-Commerce Backdoor](https://www.darkreading.com/cloud-security/magecart-attackers-pioneer-persistent-ecommerce-backdoor)
 - [How Do We Integrate LLMs Security Into Application Development?](https://www.darkreading.com/application-security/how-do-we-integrate-llm-security-into-application-development-)
 - [White House&#39;s Call for Memory Safety Brings Challenges, Changes &amp;amp; Costs](https://www.darkreading.com/vulnerabilities-threats/white-house-call-for-memory-safety-brings-challenges-changes-costs)
-- [Reconsider Your CNAPP Strategy Using These 5 Scenarios](https://www.darkreading.com/cloud-security/reconsider-your-cnapp-strategy-using-these-5-scenarios)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
