@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Round 2: Change Healthcare Targeted in Second Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/round-2-change-healthcare-targeted-second-ransomware-attack)
+- [Wyden Releases Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.darkreading.com/application-security/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software)
+- [StrikeReady Raises $12M for AI Security Command Platform](https://www.darkreading.com/application-security/strikeready-raises-12m-for-ai-security-command-platform-purpose-built-for-modern-soc-teams)
 - [The Fight for Cybersecurity Awareness](https://www.darkreading.com/cybersecurity-operations/fight-for-cybersecurity-awareness)
 - [Solar Spider Spins Up New Malware to Entrap Saudi Arabian Financial Firms](https://www.darkreading.com/threat-intelligence/solar-spider-spins-up-new-malware-to-entrap-saudi-arabian-banks)
 - [Critical Bugs Put Hugging Face AI Platform in a &#39;Pickle&#39;](https://www.darkreading.com/cloud-security/critical-bugs-hugging-face-ai-platform-pickle)
 - [Panera Bread Fuels Ransomware Suspicions With Silence](https://www.darkreading.com/cybersecurity-operations/panera-bread-outage-leads-to-frustrated-customers)
 - [CISO Corner: Ivanti&#39;s Mea Culpa; World Cup Hack; CISOs &amp;amp; Cyber Awareness](https://www.darkreading.com/remote-workforce/ciso-corner-ivanti-mea-culpa-world-cup-hack-cyber-awareness)
-- [Magecart Attackers Pioneer Persistent E-Commerce Backdoor](https://www.darkreading.com/cloud-security/magecart-attackers-pioneer-persistent-ecommerce-backdoor)
-- [How Do We Integrate LLMs Security Into Application Development?](https://www.darkreading.com/application-security/how-do-we-integrate-llm-security-into-application-development-)
-- [White House&#39;s Call for Memory Safety Brings Challenges, Changes &amp;amp; Costs](https://www.darkreading.com/vulnerabilities-threats/white-house-call-for-memory-safety-brings-challenges-changes-costs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
