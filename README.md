@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EV Charging Stations Still Riddled With Cybersecurity Vulnerabilities](https://www.darkreading.com/ics-ot-security/ev-charging-stations-still-riddled-with-cybersecurity-vulnerabilities)
 - [Proper DDoS Protection Requires Both Detective and Preventive Controls](https://www.darkreading.com/cloud-security/proper-ddos-protection-requires-both-detective-and-preventive-controls)
 - [Why Liquid Cooling Systems Threaten Data Center Security &amp;amp; Our Water Supply](https://www.darkreading.com/cybersecurity-operations/why-liquid-cooling-systems-threaten-data-center-security-water-supply)
 - [92K D-Link NAS Devices Open to Critical Command-Injection Bug](https://www.darkreading.com/cloud-security/92k-dlink-nas-critical-command-injection-bug)
@@ -83,7 +84,6 @@
 - [Ambitious Training Initiative Taps Talents of Blind and Visually Impaired](https://www.darkreading.com/cybersecurity-careers/ambitious-training-initiatve-taps-talents-of-blind-visually-impaired)
 - [Vietnamese Cybercrime Group CoralRaider Nets Financial Data](https://www.darkreading.com/vulnerabilities-threats/vietnamese-cybercrime-group-coralraider-nets-financial-data)
 - [Tips for Securing the Software Supply Chain](https://www.darkreading.com/cyber-risk/tips-for-securing-the-software-supply-chain)
-- [Home Depot Hammered by Supply Chain Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/home-depot-hammered-by-supply-chain-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
