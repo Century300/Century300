@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vietnamese Cybercrime Group CoralRaider Nets Financial Data](https://www.darkreading.com/vulnerabilities-threats/vietnamese-cybercrime-group-coralraider-nets-financial-data)
 - [Home Depot Hammered by Supply Chain Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/home-depot-hammered-by-supply-chain-data-breach)
 - [Round 2: Change Healthcare Targeted in Second Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/round-2-change-healthcare-targeted-second-ransomware-attack)
 - [Wyden Releases Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.darkreading.com/application-security/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software)
@@ -83,7 +84,6 @@
 - [Software-Defined Vehicle Fleets Face a Twisty Road on Cybersecurity](https://www.darkreading.com/ics-ot-security/software-defined-vehicle-fleets-twisty-road-cybersecurity)
 - [The Fight for Cybersecurity Awareness](https://www.darkreading.com/cybersecurity-operations/fight-for-cybersecurity-awareness)
 - [Solar Spider Spins Up New Malware to Entrap Saudi Arabian Financial Firms](https://www.darkreading.com/threat-intelligence/solar-spider-spins-up-new-malware-to-entrap-saudi-arabian-banks)
-- [Critical Bugs Put Hugging Face AI Platform in a &#39;Pickle&#39;](https://www.darkreading.com/cloud-security/critical-bugs-hugging-face-ai-platform-pickle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
