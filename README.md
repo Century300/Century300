@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Frameworks, Guidelines &amp;amp; Bounties Alone Won&#39;t Defeat Ransomware](https://www.darkreading.com/vulnerabilities-threats/frameworks-guidelines-bounties-alone-wont-defeat-ransomware)
 - [Vietnamese Cybercrime Group CoralRaider Nets Financial Data](https://www.darkreading.com/vulnerabilities-threats/vietnamese-cybercrime-group-coralraider-nets-financial-data)
 - [Tips for Securing the Software Supply Chain](https://www.darkreading.com/cyber-risk/tips-for-securing-the-software-supply-chain)
 - [Home Depot Hammered by Supply Chain Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/home-depot-hammered-by-supply-chain-data-breach)
@@ -83,7 +84,6 @@
 - [Wyden Releases Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.darkreading.com/application-security/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software)
 - [StrikeReady Raises $12M for AI Security Command Platform](https://www.darkreading.com/application-security/strikeready-raises-12m-for-ai-security-command-platform-purpose-built-for-modern-soc-teams)
 - [Software-Defined Vehicle Fleets Face a Twisty Road on Cybersecurity](https://www.darkreading.com/ics-ot-security/software-defined-vehicle-fleets-twisty-road-cybersecurity)
-- [The Fight for Cybersecurity Awareness](https://www.darkreading.com/cybersecurity-operations/fight-for-cybersecurity-awareness)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
