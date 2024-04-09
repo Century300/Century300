@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proper DDoS Protection Requires Both Detective and Preventive Controls](https://www.darkreading.com/cloud-security/proper-ddos-protection-requires-both-detective-and-preventive-controls)
 - [Why Liquid Cooling Systems Threaten Data Center Security &amp;amp; Our Water Supply](https://www.darkreading.com/cybersecurity-operations/why-liquid-cooling-systems-threaten-data-center-security-water-supply)
 - [92K D-Link NAS Devices Open to Critical Command-Injection Bug](https://www.darkreading.com/cloud-security/92k-dlink-nas-critical-command-injection-bug)
 - [Frameworks, Guidelines &amp;amp; Bounties Alone Won&#39;t Defeat Ransomware](https://www.darkreading.com/vulnerabilities-threats/frameworks-guidelines-bounties-alone-wont-defeat-ransomware)
@@ -83,7 +84,6 @@
 - [Vietnamese Cybercrime Group CoralRaider Nets Financial Data](https://www.darkreading.com/vulnerabilities-threats/vietnamese-cybercrime-group-coralraider-nets-financial-data)
 - [Tips for Securing the Software Supply Chain](https://www.darkreading.com/cyber-risk/tips-for-securing-the-software-supply-chain)
 - [Home Depot Hammered by Supply Chain Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/home-depot-hammered-by-supply-chain-data-breach)
-- [Round 2: Change Healthcare Targeted in Second Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/round-2-change-healthcare-targeted-second-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
