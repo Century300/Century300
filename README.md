@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ESET Launches a New Solution for Small Office/Home Office Businesses](https://www.darkreading.com/endpoint-security/eset-launches-a-new-solution-for-small-office-home-office-businesses)
+- [Veriato Launches Next Generation Insider Risk Management Solution](https://www.darkreading.com/cyber-risk/veriato-launches-next-generation-insider-risk-management-solution)
+- [LG Smart TVs at Risk of Attacks, Thanks to 4 OS Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-thousands-of-lg-smart-tvs-at-risk-of-attacks)
 - [EV Charging Stations Still Riddled With Cybersecurity Vulnerabilities](https://www.darkreading.com/ics-ot-security/ev-charging-stations-still-riddled-with-cybersecurity-vulnerabilities)
 - [Proper DDoS Protection Requires Both Detective and Preventive Controls](https://www.darkreading.com/cloud-security/proper-ddos-protection-requires-both-detective-and-preventive-controls)
 - [Why Liquid Cooling Systems Threaten Data Center Security &amp;amp; Our Water Supply](https://www.darkreading.com/cybersecurity-operations/why-liquid-cooling-systems-threaten-data-center-security-water-supply)
 - [92K D-Link NAS Devices Open to Critical Command-Injection Bug](https://www.darkreading.com/cloud-security/92k-dlink-nas-critical-command-injection-bug)
 - [Frameworks, Guidelines &amp;amp; Bounties Alone Won&#39;t Defeat Ransomware](https://www.darkreading.com/vulnerabilities-threats/frameworks-guidelines-bounties-alone-wont-defeat-ransomware)
-- [Ambitious Training Initiative Taps Talents of Blind and Visually Impaired](https://www.darkreading.com/cybersecurity-careers/ambitious-training-initiatve-taps-talents-of-blind-visually-impaired)
-- [Vietnamese Cybercrime Group CoralRaider Nets Financial Data](https://www.darkreading.com/vulnerabilities-threats/vietnamese-cybercrime-group-coralraider-nets-financial-data)
-- [Tips for Securing the Software Supply Chain](https://www.darkreading.com/cyber-risk/tips-for-securing-the-software-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
