@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top MITRE ATT&amp;amp;CK Techniques and How to Defend Against Them](https://www.darkreading.com/cyberattacks-data-breaches/top-mitre-attack-techniques-how-to-defend-against)
 - [New Jamf Tools Give Enterprise IT Security and Compliance Controls](https://www.darkreading.com/endpoint-security/new-jamf-tools-give-enterprise-it-security-and-compliance-controls)
 - [Microsoft Patch Tuesday Tsunami: No Zero-Days, but an Asterisk](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-no-zero-days-but-one-under-active-exploit)
 - [ESET Launches a New Solution for Small Office/Home Office Businesses](https://www.darkreading.com/endpoint-security/eset-launches-a-new-solution-for-small-office-home-office-businesses)
@@ -83,7 +84,6 @@
 - [LG Smart TVs at Risk of Attacks, Thanks to 4 OS Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-thousands-of-lg-smart-tvs-at-risk-of-attacks)
 - [EV Charging Stations Still Riddled With Cybersecurity Vulnerabilities](https://www.darkreading.com/ics-ot-security/ev-charging-stations-still-riddled-with-cybersecurity-vulnerabilities)
 - [Proper DDoS Protection Requires Both Detective and Preventive Controls](https://www.darkreading.com/cloud-security/proper-ddos-protection-requires-both-detective-and-preventive-controls)
-- [Why Liquid Cooling Systems Threaten Data Center Security &amp;amp; Our Water Supply](https://www.darkreading.com/cybersecurity-operations/why-liquid-cooling-systems-threaten-data-center-security-water-supply)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
