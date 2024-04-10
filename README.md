@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Attack on Consumer Electronics Manufacturer boAt Leaks Data on 7.5M Customers](https://www.darkreading.com/cyberattacks-data-breaches/indian-consumer-electronics-manufacturer-boat-leaks-data-on-7m-customers)
 - [Top MITRE ATT&amp;amp;CK Techniques and How to Defend Against Them](https://www.darkreading.com/cyberattacks-data-breaches/top-mitre-attack-techniques-how-to-defend-against)
+- [Google Gives Gemini a Security Boost](https://www.darkreading.com/cloud-security/google-gives-gemini-a-security-boost)
 - [New Jamf Tools Give Enterprise IT Security and Compliance Controls](https://www.darkreading.com/endpoint-security/new-jamf-tools-give-enterprise-it-security-and-compliance-controls)
 - [Microsoft Patch Tuesday Tsunami: No Zero-Days, but an Asterisk](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-no-zero-days-but-one-under-active-exploit)
 - [ESET Launches a New Solution for Small Office/Home Office Businesses](https://www.darkreading.com/endpoint-security/eset-launches-a-new-solution-for-small-office-home-office-businesses)
 - [Veriato Launches Next Generation Insider Risk Management Solution](https://www.darkreading.com/cyber-risk/veriato-launches-next-generation-insider-risk-management-solution)
 - [LG Smart TVs at Risk of Attacks, Thanks to 4 OS Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/researchers-discover-thousands-of-lg-smart-tvs-at-risk-of-attacks)
-- [EV Charging Stations Still Riddled With Cybersecurity Vulnerabilities](https://www.darkreading.com/ics-ot-security/ev-charging-stations-still-riddled-with-cybersecurity-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
