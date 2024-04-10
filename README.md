@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Medusa Gang Strikes Again, Hits Nearly 300 Fort Worth Property Owners](https://www.darkreading.com/cyberattacks-data-breaches/nearly-300-fort-worth-individuals-exploited-by-medusa-cybergang)
 - [Attack on Consumer Electronics Manufacturer boAt Leaks Data on 7.5M Customers](https://www.darkreading.com/cyberattacks-data-breaches/indian-consumer-electronics-manufacturer-boat-leaks-data-on-7m-customers)
 - [Cagey Phishing Campaign Delivers Multiple RATs to Steal Windows Data](https://www.darkreading.com/remote-workforce/cagey-phishing-attack-delivers-multiple-rats-to-steal-windows-data)
 - [How Nation-State DDoS Attacks Impact Us All](https://www.darkreading.com/cyberattacks-data-breaches/how-nation-state-ddos-attacks-impact-us-all)
@@ -83,7 +84,6 @@
 - [Google Gives Gemini a Security Boost](https://www.darkreading.com/cloud-security/google-gives-gemini-a-security-boost)
 - [New Jamf Tools Give Enterprise IT Security and Compliance Controls](https://www.darkreading.com/endpoint-security/new-jamf-tools-give-enterprise-it-security-and-compliance-controls)
 - [Microsoft Patch Tuesday Tsunami: No Zero-Days, but an Asterisk](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-no-zero-days-but-one-under-active-exploit)
-- [ESET Launches a New Solution for Small Office/Home Office Businesses](https://www.darkreading.com/endpoint-security/eset-launches-a-new-solution-for-small-office-home-office-businesses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
