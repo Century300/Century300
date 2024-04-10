@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Jamf Tools Give Enterprise IT Security and Compliance Controls](https://www.darkreading.com/endpoint-security/new-jamf-tools-give-enterprise-it-security-and-compliance-controls)
 - [Microsoft Patch Tuesday Tsunami: No Zero-Days, but an Asterisk](https://www.darkreading.com/vulnerabilities-threats/microsoft-patch-tuesday-no-zero-days-but-one-under-active-exploit)
 - [ESET Launches a New Solution for Small Office/Home Office Businesses](https://www.darkreading.com/endpoint-security/eset-launches-a-new-solution-for-small-office-home-office-businesses)
 - [Veriato Launches Next Generation Insider Risk Management Solution](https://www.darkreading.com/cyber-risk/veriato-launches-next-generation-insider-risk-management-solution)
@@ -83,7 +84,6 @@
 - [EV Charging Stations Still Riddled With Cybersecurity Vulnerabilities](https://www.darkreading.com/ics-ot-security/ev-charging-stations-still-riddled-with-cybersecurity-vulnerabilities)
 - [Proper DDoS Protection Requires Both Detective and Preventive Controls](https://www.darkreading.com/cloud-security/proper-ddos-protection-requires-both-detective-and-preventive-controls)
 - [Why Liquid Cooling Systems Threaten Data Center Security &amp;amp; Our Water Supply](https://www.darkreading.com/cybersecurity-operations/why-liquid-cooling-systems-threaten-data-center-security-water-supply)
-- [92K D-Link NAS Devices Open to Critical Command-Injection Bug](https://www.darkreading.com/cloud-security/92k-dlink-nas-critical-command-injection-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
