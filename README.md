@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sisense Password Breach Triggers &#39;Ominous&#39; CISA Warning](https://www.darkreading.com/threat-intelligence/sisense-breach-triggers-cisa-password-reset-advisory)
 - [Knostic Raises $3.3M for Enterprise GenAI Access Control](https://www.darkreading.com/application-security/knostic-raises-3-3m-for-enterprise-genai-access-control)
 - [Cohesity Extends Collaboration to Strengthen Cyber Resilience With IBM Investment in Cohesity](https://www.darkreading.com/vulnerabilities-threats/cohesity-extends-collaboration-to-strengthen-cyber-resilience-with-ibm-investment-in-cohesity)
 - [Critical Rust Flaw Poses Exploit Threat in Specific Windows Use Cases](https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases)
@@ -83,7 +84,6 @@
 - [Expired Redis Service Abused to Use Metasploit Meterpreter Maliciously](https://www.darkreading.com/cloud-security/outdated-redis-service-abused-to-spread-meterpreter-backdoor)
 - [Apple Warns Users in 150 Countries of Mercenary Spyware Attacks](https://www.darkreading.com/vulnerabilities-threats/apple-warns-users-targeted-by-mercenary-spyware)
 - [Why MLBOMs Are Useful for Securing the AI/ML Supply Chain](https://www.darkreading.com/vulnerabilities-threats/mlboms-are-useful-for-securing-ai-ml-supply-chain)
-- [Zambia Busts 77 People in China-Backed Cybercrime Operation](https://www.darkreading.com/endpoint-security/zambia-busts-77-in-china-backed-cybercrime-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
