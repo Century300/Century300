@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Japan, Philippines, &amp;amp; US Forge Cyber Threat Intel-Sharing Alliance](https://www.darkreading.com/cybersecurity-operations/japan-philippines-us-forge-cyber-threat-intelligence-sharing-alliance)
+- [Zambia Busts 77 People in China-Backed Cybercrime Operation](https://www.darkreading.com/endpoint-security/zambia-busts-77-in-china-backed-cybercrime-operation)
+- [Japan, Philippines &amp;amp; US Forge Cyber Threat Intel-Sharing Alliance](https://www.darkreading.com/cybersecurity-operations/japan-philippines-us-forge-cyber-threat-intelligence-sharing-alliance)
 - [XZ Utils Scare Exposes Hard Truths About Software Security](https://www.darkreading.com/application-security/xz-utils-scare-exposes-hard-truths-in-software-security)
 - [National Security Agency Announces Dave Luber As Director of Cybersecurity](https://www.darkreading.com/cybersecurity-operations/national-security-agency-announces-dave-luber-as-director-of-cybersecurity)
 - [MedSec Launches Cybersecurity Program For Resource-Constrained Hospitals](https://www.darkreading.com/cybersecurity-operations/medsec-launches-cybersecurity-program-for-resource-constrained-hospitals)
 - [Wiz Acquires Gem Security to Expand Cloud Detection and Response Offering](https://www.darkreading.com/cloud-security/wiz-acquires-gem-security-to-expand-cloud-detection-and-response-offering)
 - [Selecting the Right Authentication Protocol for Your Business](https://www.darkreading.com/cloud-security/selecting-the-right-authentication-protocol-for-your-business)
 - [NSA Updates Zero-Trust Advice to Reduce Attack Surfaces](https://www.darkreading.com/cybersecurity-operations/nsa-updates-zero-trust-advice-to-reduce-attack-surfaces)
-- [TA547 Uses an LLM-Generated Dropper to Infect German Orgs](https://www.darkreading.com/threat-intelligence/ta547-uses-llm-generated-dropper-infect-german-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
