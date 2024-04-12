@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Corner: Securing the AI Supply Chain; AI-Powered Security Platforms; Fighting for Cyber Awareness](https://www.darkreading.com/cybersecurity-operations/ciso-corner-securing-ai-supply-chain-ai-powered-security-platforms-cyber-awareness)
 - [CISA Issues Emergency Directive After Midnight Blizzard Microsoft Hits](https://www.darkreading.com/cyberattacks-data-breaches/cisa-emergency-directive-after-midnight-blizzard-microsoft-hits)
 - [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
 - [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
@@ -83,7 +84,6 @@
 - [Knostic Raises $3.3M for Enterprise GenAI Access Control](https://www.darkreading.com/application-security/knostic-raises-3-3m-for-enterprise-genai-access-control)
 - [Cohesity Extends Collaboration to Strengthen Cyber Resilience With IBM Investment in Cohesity](https://www.darkreading.com/vulnerabilities-threats/cohesity-extends-collaboration-to-strengthen-cyber-resilience-with-ibm-investment-in-cohesity)
 - [Critical Rust Flaw Poses Exploit Threat in Specific Windows Use Cases](https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases)
-- [DPRK Exploits 2 MITRE Sub-Techniques: Phantom DLL Hijacking, TCC Abuse](https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-mitre-sub-techniques-phantom-dll-hijacking-tcc-abuse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
