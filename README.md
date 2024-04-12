@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
 - [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
 - [Sisense Password Breach Triggers &#39;Ominous&#39; CISA Warning](https://www.darkreading.com/threat-intelligence/sisense-breach-triggers-cisa-password-reset-advisory)
 - [Knostic Raises $3.3M for Enterprise GenAI Access Control](https://www.darkreading.com/application-security/knostic-raises-3-3m-for-enterprise-genai-access-control)
@@ -83,7 +84,6 @@
 - [Critical Rust Flaw Poses Exploit Threat in Specific Windows Use Cases](https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases)
 - [DPRK Exploits 2 MITRE Sub-Techniques: Phantom DLL Hijacking, TCC Abuse](https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-mitre-sub-techniques-phantom-dll-hijacking-tcc-abuse)
 - [Knostic Brings Access Control to LLMs](https://www.darkreading.com/data-privacy/knostic-brings-access-control-to-llms)
-- [Expired Redis Service Abused to Use Metasploit Meterpreter Maliciously](https://www.darkreading.com/cloud-security/outdated-redis-service-abused-to-spread-meterpreter-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
