@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Issues Emergency Directive After Midnight Blizzard Microsoft Hits](https://www.darkreading.com/cyberattacks-data-breaches/cisa-emergency-directive-after-midnight-blizzard-microsoft-hits)
 - [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
 - [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
 - [Sisense Password Breach Triggers &#39;Ominous&#39; CISA Warning](https://www.darkreading.com/threat-intelligence/sisense-breach-triggers-cisa-password-reset-advisory)
@@ -83,7 +84,6 @@
 - [Cohesity Extends Collaboration to Strengthen Cyber Resilience With IBM Investment in Cohesity](https://www.darkreading.com/vulnerabilities-threats/cohesity-extends-collaboration-to-strengthen-cyber-resilience-with-ibm-investment-in-cohesity)
 - [Critical Rust Flaw Poses Exploit Threat in Specific Windows Use Cases](https://www.darkreading.com/application-security/critical-rust-flaw-poses-exploit-threat-in-specific-windows-use-cases)
 - [DPRK Exploits 2 MITRE Sub-Techniques: Phantom DLL Hijacking, TCC Abuse](https://www.darkreading.com/vulnerabilities-threats/dprk-exploits-mitre-sub-techniques-phantom-dll-hijacking-tcc-abuse)
-- [Knostic Brings Access Control to LLMs](https://www.darkreading.com/data-privacy/knostic-brings-access-control-to-llms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
