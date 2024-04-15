@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran-Backed Hackers Blast Out Threatening Texts to Israelis](https://www.darkreading.com/endpoint-security/iran-backed-hackers-blast-out-threatening-texts-to-israelis)
 - [Web3 Game Developers Targeted in Crypto Theft Scheme](https://www.darkreading.com/cyberattacks-data-breaches/russian-actor-targets-web3-game-developers-with-infostealers)
 - [Microsoft Wants You to Watch What It Says, Not What It Does](https://www.darkreading.com/vulnerabilities-threats/microsoft-wants-you-to-watch-what-it-says-not-what-it-does)
 - [CISA&#39;s Malware Analysis Platform Could Foster Better Threat Intel](https://www.darkreading.com/vulnerabilities-threats/cisa-s-new-malware-analysis-platform-could-enable-better-threat-intelligence)
@@ -83,7 +84,6 @@
 - [CISO Corner: Securing the AI Supply Chain; AI-Powered Security Platforms; Fighting for Cyber Awareness](https://www.darkreading.com/cybersecurity-operations/ciso-corner-securing-ai-supply-chain-ai-powered-security-platforms-cyber-awareness)
 - [CISA Issues Emergency Directive After Midnight Blizzard Microsoft Hits](https://www.darkreading.com/cyberattacks-data-breaches/cisa-emergency-directive-after-midnight-blizzard-microsoft-hits)
 - [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
-- [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
