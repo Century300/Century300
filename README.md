@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Web3 Game Developers Targeted in Crypto Theft Scheme](https://www.darkreading.com/cyberattacks-data-breaches/russian-actor-targets-web3-game-developers-with-infostealers)
 - [Microsoft Wants You to Watch What It Says, Not What It Does](https://www.darkreading.com/vulnerabilities-threats/microsoft-wants-you-to-watch-what-it-says-not-what-it-does)
 - [CISA&#39;s Malware Analysis Platform Could Foster Better Threat Intel](https://www.darkreading.com/vulnerabilities-threats/cisa-s-new-malware-analysis-platform-could-enable-better-threat-intelligence)
 - [New Tool Shields Organizations From NXDOMAIN Attacks](https://www.darkreading.com/remote-workforce/akamai-boosts-dns)
@@ -83,7 +84,6 @@
 - [CISA Issues Emergency Directive After Midnight Blizzard Microsoft Hits](https://www.darkreading.com/cyberattacks-data-breaches/cisa-emergency-directive-after-midnight-blizzard-microsoft-hits)
 - [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
 - [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
-- [Sisense Password Breach Triggers &#39;Ominous&#39; CISA Warning](https://www.darkreading.com/threat-intelligence/sisense-breach-triggers-cisa-password-reset-advisory)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
