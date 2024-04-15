@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Wants You to Watch What It Says, Not What It Does](https://www.darkreading.com/vulnerabilities-threats/microsoft-wants-you-to-watch-what-it-says-not-what-it-does)
 - [CISA&#39;s Malware Analysis Platform Could Foster Better Threat Intel](https://www.darkreading.com/vulnerabilities-threats/cisa-s-new-malware-analysis-platform-could-enable-better-threat-intelligence)
 - [New Tool Shields Organizations From NXDOMAIN Attacks](https://www.darkreading.com/remote-workforce/akamai-boosts-dns)
 - [CISO Corner: Securing the AI Supply Chain; AI-Powered Security Platforms; Fighting for Cyber Awareness](https://www.darkreading.com/cybersecurity-operations/ciso-corner-securing-ai-supply-chain-ai-powered-security-platforms-cyber-awareness)
@@ -83,7 +84,6 @@
 - [The Race for AI-Powered Security Platforms Heats Up](https://www.darkreading.com/cybersecurity-operations/race-ai-powered-platforms-security-platforms)
 - [Critical Infrastructure Security: Observations From the Front Lines](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-observations-from-front-lines)
 - [Sisense Password Breach Triggers &#39;Ominous&#39; CISA Warning](https://www.darkreading.com/threat-intelligence/sisense-breach-triggers-cisa-password-reset-advisory)
-- [Knostic Raises $3.3M for Enterprise GenAI Access Control](https://www.darkreading.com/application-security/knostic-raises-3-3m-for-enterprise-genai-access-control)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
