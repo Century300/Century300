@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Delinea Fixes Flaw, But Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
 - [Kaspersky Unveils New Flagship Product Line for Business, Kaspersky Next](https://www.darkreading.com/endpoint-security/kaspersky-unveils-new-flagship-product-line-for-business-kaspersky-next)
 - [BeyondTrust Acquires Entitle, Strengthening Privileged Identity Security Platform](https://www.darkreading.com/endpoint-security/beyondtrust-acquires-entitle-strengthening-privileged-identity-security-platform)
 - [Kim Larsen New Chief Information Security Officer at SaaS Data Protection Vendor Keepit](https://www.darkreading.com/cybersecurity-operations/kim-larsen-new-chief-information-security-officer-at-saas-data-protection-vendor-keepit)
@@ -83,7 +84,6 @@
 - [Name That Toon: Last Line of Defense](https://www.darkreading.com/ics-ot-security/name-that-toon-last-line-of-defense)
 - [Enterprise Endpoints Aren&#39;t Ready for AI](https://www.darkreading.com/endpoint-security/enterprise-endpoints-are-not-ready-for-ai)
 - [3 Steps Executives and Boards Should Take to Ensure Cyber Readiness](https://www.darkreading.com/cyber-risk/3-steps-executives-and-boards-should-take-to-ensure-cyber-readiness)
-- [LockBit 3.0 Variant Generates Custom, Self-Propagating Malware](https://www.darkreading.com/endpoint-security/lockbit-3-0-variant-generates-custom-self-propagating-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
