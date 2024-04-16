@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LockBit 3.0 Variant Generates Custom, Self-Propagating Malware](https://www.darkreading.com/endpoint-security/lockbit-3-0-variant-generates-custom-self-propagating-malware)
+- [FBI: Smishing Campaign Lures Victims With Unpaid-Toll Notices](https://www.darkreading.com/cyberattacks-data-breaches/fbi-smishing-campaign-unpaid-toll-notices)
 - [Cyber Operations Intensify in Middle East, With Israel the Main Target](https://www.darkreading.com/cyber-risk/cyber-operations-intensify-in-middle-east-with-israel-the-main-target)
 - [Defense Award Launches Purdue Project to Strengthen Cyber-Physical Systems](https://www.darkreading.com/cybersecurity-operations/defense-award-launches-purdue-project-to-strengthen-cyber-physical-systems)
 - [Cisco Duo&#39;s Multifactor Authentication Service Breached](https://www.darkreading.com/cyberattacks-data-breaches/cisco-duo-multifactor-authentication-service-breached)
 - [Roku Mandates 2FA for Customers After Credential-Stuffing Compromise](https://www.darkreading.com/cyberattacks-data-breaches/roku-mandates-2fa-for-customers-after-credential-stuffing-compromise)
 - [Palo Alto Network Issues Hotfixes for Zero-Day Bug in Its Firewall OS](https://www.darkreading.com/cyberattacks-data-breaches/palo-alto-network-issues-hot-fixes-for-zero-day-bug-in-its-firewall-os)
 - [Iran-Backed Hackers Blast Out Threatening Texts to Israelis](https://www.darkreading.com/endpoint-security/iran-backed-hackers-blast-out-threatening-texts-to-israelis)
-- [Web3 Game Developers Targeted in Crypto Theft Scheme](https://www.darkreading.com/cyberattacks-data-breaches/russian-actor-targets-web3-game-developers-with-infostealers)
-- [Microsoft Wants You to Watch What It Says, Not What It Does](https://www.darkreading.com/vulnerabilities-threats/microsoft-wants-you-to-watch-what-it-says-not-what-it-does)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
