@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Global Cybercriminal Duo Face Imprisonment After Hive RAT Scheme](https://www.darkreading.com/cybersecurity-operations/global-cybercriminal-duo-face-imprisonment-after-hive-rat-scheme)
 - [Name That Toon: Last Line of Defense](https://www.darkreading.com/ics-ot-security/name-that-toon-last-line-of-defense)
 - [3 Steps Executives and Boards Should Take to Ensure Cyber Readiness](https://www.darkreading.com/cyber-risk/3-steps-executives-and-boards-should-take-to-ensure-cyber-readiness)
 - [LockBit 3.0 Variant Generates Custom, Self-Propagating Malware](https://www.darkreading.com/endpoint-security/lockbit-3-0-variant-generates-custom-self-propagating-malware)
@@ -83,7 +84,6 @@
 - [Cyber Operations Intensify in Middle East, With Israel the Main Target](https://www.darkreading.com/cyber-risk/cyber-operations-intensify-in-middle-east-with-israel-the-main-target)
 - [Defense Award Launches Purdue Project to Strengthen Cyber-Physical Systems](https://www.darkreading.com/cybersecurity-operations/defense-award-launches-purdue-project-to-strengthen-cyber-physical-systems)
 - [Cisco Duo&#39;s Multifactor Authentication Service Breached](https://www.darkreading.com/cyberattacks-data-breaches/cisco-duo-multifactor-authentication-service-breached)
-- [Roku Mandates 2FA for Customers After Credential-Stuffing Compromise](https://www.darkreading.com/cyberattacks-data-breaches/roku-mandates-2fa-for-customers-after-credential-stuffing-compromise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
