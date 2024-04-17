@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Active Kubernetes RCE Attack Relies on Known OpenMetadata Vulns](https://www.darkreading.com/cloud-security/active-kubernetes-rce-attack-relies-on-known-openmetadata-vulns)
 - [Ivanti Releases Fixes for More Than 2 Dozen Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-releases-fixes-for-more-than-2-dozen-vulnerabilities)
 - [Various Botnets Pummel Year-Old TP-Link Flaw in IoT Attacks](https://www.darkreading.com/ics-ot-security/various-botnets-pummel-tp-link-flaw-iot-attacks)
 - [Preparing for Cyber Warfare: 6 Key Lessons From Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-6-key-lessons-from-ukraine)
@@ -83,7 +84,6 @@
 - [&#39;Sandworm&#39; Group Is Russia&#39;s Primary Cyberattack Unit in Ukraine](https://www.darkreading.com/ics-ot-security/-sandworm-group-is-russia-s-primary-cyber-attack-unit-in-ukraine)
 - [Israeli Defense Forces Hold Hybrid Cyber &amp;amp; Military Readiness Drills](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defense-forces-hold-hybrid-cyber-military-readiness-drills)
 - [Delinea Fixes Flaw, but Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
-- [How Boards Can Prepare for Quantum Computers](https://www.darkreading.com/cyber-risk/how-boards-prepare-quantum-computers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
