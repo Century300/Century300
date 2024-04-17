@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Redgate Launches Enterprise Edition of Redgate Monitor](https://www.darkreading.com/cybersecurity-operations/redgate-launches-enterprise-edition-of-redgate-monitor)
+- [Dangerous ICS Malware Targets Orgs in Russia and Ukraine](https://www.darkreading.com/ics-ot-security/dangerous-new-ics-malware-targets-orgs-in-russia-and-ukraine)
 - [Active Kubernetes RCE Attack Relies on Known OpenMetadata Vulns](https://www.darkreading.com/cloud-security/active-kubernetes-rce-attack-relies-on-known-openmetadata-vulns)
 - [Ivanti Releases Fixes for More Than 2 Dozen Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-releases-fixes-for-more-than-2-dozen-vulnerabilities)
 - [Various Botnets Pummel Year-Old TP-Link Flaw in IoT Attacks](https://www.darkreading.com/ics-ot-security/various-botnets-pummel-tp-link-flaw-iot-attacks)
 - [Preparing for Cyber Warfare: 6 Key Lessons From Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-6-key-lessons-from-ukraine)
 - [Why a Native-First Approach Is Key to Cloud Security](https://www.darkreading.com/cloud-security/why-a-native-first-approach-is-key-to-cloud-security)
 - [&#39;Sandworm&#39; Group Is Russia&#39;s Primary Cyberattack Unit in Ukraine](https://www.darkreading.com/ics-ot-security/-sandworm-group-is-russia-s-primary-cyber-attack-unit-in-ukraine)
-- [Israeli Defense Forces Hold Hybrid Cyber &amp;amp; Military Readiness Drills](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defense-forces-hold-hybrid-cyber-military-readiness-drills)
-- [Delinea Fixes Flaw, but Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
