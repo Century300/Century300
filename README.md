@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ivanti Releases Fixes for More Than 2 Dozen Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-releases-fixes-for-more-than-2-dozen-vulnerabilities)
 - [Various Botnets Pummel Year-Old TP-Link Flaw in IoT Attacks](https://www.darkreading.com/ics-ot-security/various-botnets-pummel-tp-link-flaw-iot-attacks)
 - [Preparing for Cyber Warfare: 6 Key Lessons From Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-6-key-lessons-from-ukraine)
 - [Why a Native-First Approach Is Key to Cloud Security](https://www.darkreading.com/cloud-security/why-a-native-first-approach-is-key-to-cloud-security)
@@ -83,7 +84,6 @@
 - [Israeli Defense Forces Hold Hybrid Cyber &amp;amp; Military Readiness Drills](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defense-forces-hold-hybrid-cyber-military-readiness-drills)
 - [Delinea Fixes Flaw, but Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
 - [How Boards Can Prepare for Quantum Computers](https://www.darkreading.com/cyber-risk/how-boards-prepare-quantum-computers)
-- [Kaspersky Unveils New Flagship Product Line for Business, Kaspersky Next](https://www.darkreading.com/endpoint-security/kaspersky-unveils-new-flagship-product-line-for-business-kaspersky-next)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
