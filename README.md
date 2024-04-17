@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why a Native-First Approach Is Key to Cloud Security](https://www.darkreading.com/cloud-security/why-a-native-first-approach-is-key-to-cloud-security)
 - [&#39;Sandworm&#39; Group Is Russia&#39;s Primary Cyberattack Unit in Ukraine](https://www.darkreading.com/ics-ot-security/-sandworm-group-is-russia-s-primary-cyber-attack-unit-in-ukraine)
 - [Israeli Defense Forces Hold Hybrid Cyber &amp;amp; Military Readiness Drills](https://www.darkreading.com/cyberattacks-data-breaches/israeli-defense-forces-hold-hybrid-cyber-military-readiness-drills)
-- [Delinea Fixes Flaw, But Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
+- [Delinea Fixes Flaw, but Only After Analyst Goes Public With Disclosure First](https://www.darkreading.com/application-security/delinea-fixes-secret-server-flaw-says-no-data-accessed)
+- [How Boards Can Prepare for Quantum Computers](https://www.darkreading.com/cyber-risk/how-boards-prepare-quantum-computers)
 - [Kaspersky Unveils New Flagship Product Line for Business, Kaspersky Next](https://www.darkreading.com/endpoint-security/kaspersky-unveils-new-flagship-product-line-for-business-kaspersky-next)
 - [BeyondTrust Acquires Entitle, Strengthening Privileged Identity Security Platform](https://www.darkreading.com/endpoint-security/beyondtrust-acquires-entitle-strengthening-privileged-identity-security-platform)
 - [Kim Larsen New Chief Information Security Officer at SaaS Data Protection Vendor Keepit](https://www.darkreading.com/cybersecurity-operations/kim-larsen-new-chief-information-security-officer-at-saas-data-protection-vendor-keepit)
-- [Global Cybercriminal Duo Face Imprisonment After Hive RAT Scheme](https://www.darkreading.com/cybersecurity-operations/global-cybercriminal-duo-face-imprisonment-after-hive-rat-scheme)
-- [Name That Toon: Last Line of Defense](https://www.darkreading.com/ics-ot-security/name-that-toon-last-line-of-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
