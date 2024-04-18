@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian APT Group Thwarted in Attack on US Automotive Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-group-thwarted-in-attack-on-us-automotive-manufacturer)
 - [Rebalancing NIST: Why &#39;Recovery&#39; Can&#39;t Stand Alone](https://www.darkreading.com/vulnerabilities-threats/rebalancing-nist-why-recovery-cant-stand-alone)
 - [Break Security Burnout: Combining Leadership With Neuroscience](https://www.darkreading.com/cybersecurity-operations/break-security-burnout-combining-leadership-neuroscience)
 - [Sneaky Shellcode: Windows Fibers Offer EDR-Proof Code Execution](https://www.darkreading.com/application-security/sneaky-shellcode-windows-fibers-edr-proof-code-execution)
@@ -83,7 +84,6 @@
 - [Open Source Tool Looks for Signals in Noisy AWS Cloud Logs](https://www.darkreading.com/cloud-security/open-source-tool-looks-signals-in-noisy-aws-cloud-logs)
 - [Countering Voice Fraud in the Age of AI](https://www.darkreading.com/vulnerabilities-threats/countering-voice-fraud-in-the-age-of-ai)
 - [For Service Accounts, Accountability Is Key to Security](https://www.darkreading.com/cloud-security/for-service-accounts-accountability-is-key-to-security)
-- [Redgate Launches Enterprise Edition of Redgate Monitor](https://www.darkreading.com/cybersecurity-operations/redgate-launches-enterprise-edition-of-redgate-monitor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
