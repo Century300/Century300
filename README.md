@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sneaky Shellcode: Windows Fibers Offer EDR-Proof Code Execution](https://www.darkreading.com/application-security/sneaky-shellcode-windows-fibers-edr-proof-code-execution)
 - [Nigeria &amp;amp; Romania Ranked Among Top Cybercrime Havens](https://www.darkreading.com/cybersecurity-analytics/nigeria-romania-ranked-among-top-cybercrime-havens)
 - [Redgate Launches Enterprise Edition of Redgate Monitor](https://www.darkreading.com/cybersecurity-operations/redgate-launches-enterprise-edition-of-redgate-monitor)
 - [Dangerous ICS Malware Targets Orgs in Russia and Ukraine](https://www.darkreading.com/ics-ot-security/dangerous-new-ics-malware-targets-orgs-in-russia-and-ukraine)
@@ -83,7 +84,6 @@
 - [Ivanti Releases Fixes for More Than 2 Dozen Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-releases-fixes-for-more-than-2-dozen-vulnerabilities)
 - [Various Botnets Pummel Year-Old TP-Link Flaw in IoT Attacks](https://www.darkreading.com/ics-ot-security/various-botnets-pummel-tp-link-flaw-iot-attacks)
 - [Preparing for Cyber Warfare: 6 Key Lessons From Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-6-key-lessons-from-ukraine)
-- [Why a Native-First Approach Is Key to Cloud Security](https://www.darkreading.com/cloud-security/why-a-native-first-approach-is-key-to-cloud-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
