@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Sneaky Shellcode: Windows Fibers Offer EDR-Proof Code Execution](https://www.darkreading.com/application-security/sneaky-shellcode-windows-fibers-edr-proof-code-execution)
 - [Nigeria &amp;amp; Romania Ranked Among Top Cybercrime Havens](https://www.darkreading.com/cybersecurity-analytics/nigeria-romania-ranked-among-top-cybercrime-havens)
+- [Open Source Tool Looks for Signals in Noisy AWS Cloud Logs](https://www.darkreading.com/cloud-security/open-source-tool-looks-signals-in-noisy-aws-cloud-logs)
+- [Countering Voice Fraud in the Age of AI](https://www.darkreading.com/vulnerabilities-threats/countering-voice-fraud-in-the-age-of-ai)
+- [For Service Accounts, Accountability Is Key to Security](https://www.darkreading.com/cloud-security/for-service-accounts-accountability-is-key-to-security)
 - [Redgate Launches Enterprise Edition of Redgate Monitor](https://www.darkreading.com/cybersecurity-operations/redgate-launches-enterprise-edition-of-redgate-monitor)
 - [Dangerous ICS Malware Targets Orgs in Russia and Ukraine](https://www.darkreading.com/ics-ot-security/dangerous-new-ics-malware-targets-orgs-in-russia-and-ukraine)
 - [Active Kubernetes RCE Attack Relies on Known OpenMetadata Vulns](https://www.darkreading.com/cloud-security/active-kubernetes-rce-attack-relies-on-known-openmetadata-vulns)
-- [Ivanti Releases Fixes for More Than 2 Dozen Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/ivanti-releases-fixes-for-more-than-2-dozen-vulnerabilities)
-- [Various Botnets Pummel Year-Old TP-Link Flaw in IoT Attacks](https://www.darkreading.com/ics-ot-security/various-botnets-pummel-tp-link-flaw-iot-attacks)
-- [Preparing for Cyber Warfare: 6 Key Lessons From Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/cyber-warfare-6-key-lessons-from-ukraine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
