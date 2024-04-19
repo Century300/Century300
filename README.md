@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 - [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
 - [FBI Director Wray Issues Dire Warning on China&#39;s Cybersecurity Threat](https://www.darkreading.com/ics-ot-security/fbi-director-wray-issues-dire-warning-on-chinas-cybersecurity-threat)
 - [UNDP, City of Copenhagen Targeted in Data-Extortion Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/undp-city-of-copenhagen-targeted-in-data-extortion-cyberattack)
@@ -83,7 +84,6 @@
 - [Rethinking How You Work With Detection and Response Metrics](https://www.darkreading.com/cybersecurity-analytics/rethinking-how-you-work-with-detection-response-metrics)
 - [AI Lowers Barrier for Cyber-Adversary Manipulation in 2024 Election](https://www.darkreading.com/vulnerabilities-threats/ai-lowers-barrier-cyber-adversary-manipulation-2024-election)
 - [&#39;MagicDot&#39; Windows Weakness Allows Unprivileged Rootkit Activity](https://www.darkreading.com/vulnerabilities-threats/magicdot-windows-weakness-unprivileged-rootkit)
-- [Cyberattack Takes Frontier Communications Offline](https://www.darkreading.com/ics-ot-security/cyberattack-takes-frontier-communications-offline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
