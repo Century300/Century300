@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
 - [UNDP, City of Copenhagen Targeted in Data-Extortion Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/undp-city-of-copenhagen-targeted-in-data-extortion-cyberattack)
 - [Multiple LastPass Users Lose Master Passwords to Ultra-Convincing Scam](https://www.darkreading.com/cyberattacks-data-breaches/lastpass-users-lose-master-passwords-ultra-convincing-scam)
 - [Rethinking How You Work With Detection and Response Metrics](https://www.darkreading.com/cybersecurity-analytics/rethinking-how-you-work-with-detection-response-metrics)
@@ -83,7 +84,6 @@
 - [&#39;MagicDot&#39; Windows Weakness Allows Unprivileged Rootkit Activity](https://www.darkreading.com/vulnerabilities-threats/magicdot-windows-weakness-unprivileged-rootkit)
 - [Cyberattack Takes Frontier Communications Offline](https://www.darkreading.com/ics-ot-security/cyberattack-takes-frontier-communications-offline)
 - [Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware](https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware)
-- [Cisco&#39;s Complex Road to Deliver on Its Hypershield Promise](https://www.darkreading.com/cloud-security/cisco-faces-complex-road-to-deliver-on-its-complex-hypershield-promise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
