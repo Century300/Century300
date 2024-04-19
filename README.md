@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;MagicDot&#39; Windows Weakness Allows Unprivileged Rootkit Activity](https://www.darkreading.com/vulnerabilities-threats/magicdot-windows-weakness-unprivileged-rootkit)
 - [Cyberattack Takes Frontier Communications Offline](https://www.darkreading.com/ics-ot-security/cyberattack-takes-frontier-communications-offline)
 - [Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware](https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware)
 - [Cisco Warns of Massive Surge in Password-Spraying Attacks on VPNs](https://www.darkreading.com/remote-workforce/cisco-warns-of-massive-surge-in-password-spraying-attacks-on-vpns)
@@ -83,7 +84,6 @@
 - [ICS Network Controllers Open to Remote Exploit, No Patches Available](https://www.darkreading.com/ics-ot-security/ics-network-controllers-open-to-remote-exploit-no-patches-available)
 - [GPT-4 Can Exploit Most Vulns Just by Reading Threat Advisories](https://www.darkreading.com/threat-intelligence/gpt-4-can-exploit-most-vulns-just-by-reading-threat-advisories)
 - [Russian APT Group Thwarted in Attack on US Automotive Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-group-thwarted-in-attack-on-us-automotive-manufacturer)
-- [Rebalancing NIST: Why &#39;Recovery&#39; Can&#39;t Stand Alone](https://www.darkreading.com/vulnerabilities-threats/rebalancing-nist-why-recovery-cant-stand-alone)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
