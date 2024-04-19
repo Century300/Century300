@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware](https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware)
 - [Cisco Warns of Massive Surge in Password-Spraying Attacks on VPNs](https://www.darkreading.com/remote-workforce/cisco-warns-of-massive-surge-in-password-spraying-attacks-on-vpns)
 - [Auburn&#39;s McCrary Institute and Oak Ridge National Laboratory to Partner on Regional Cybersecurity Center](https://www.darkreading.com/vulnerabilities-threats/auburn-s-mccrary-institute-and-oak-ridge-national-laboratory-to-partner-on-regional-cybersecurity-center)
 - [ICS Network Controllers Open to Remote Exploit, No Patches Available](https://www.darkreading.com/ics-ot-security/ics-network-controllers-open-to-remote-exploit-no-patches-available)
@@ -83,7 +84,6 @@
 - [Russian APT Group Thwarted in Attack on US Automotive Manufacturer](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-group-thwarted-in-attack-on-us-automotive-manufacturer)
 - [Rebalancing NIST: Why &#39;Recovery&#39; Can&#39;t Stand Alone](https://www.darkreading.com/vulnerabilities-threats/rebalancing-nist-why-recovery-cant-stand-alone)
 - [Break Security Burnout: Combining Leadership With Neuroscience](https://www.darkreading.com/cybersecurity-operations/break-security-burnout-combining-leadership-neuroscience)
-- [Sneaky Shellcode: Windows Fibers Offer EDR-Proof Code Execution](https://www.darkreading.com/application-security/sneaky-shellcode-windows-fibers-edr-proof-code-execution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
