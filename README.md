@@ -80,7 +80,7 @@
 - [&#39;MagicDot&#39; Windows Weakness Allows Unprivileged Rootkit Activity](https://www.darkreading.com/vulnerabilities-threats/magicdot-windows-weakness-unprivileged-rootkit)
 - [Cyberattack Takes Frontier Communications Offline](https://www.darkreading.com/ics-ot-security/cyberattack-takes-frontier-communications-offline)
 - [Evil XDR: Researcher Turns Palo Alto Software Into Perfect Malware](https://www.darkreading.com/application-security/evil-xdr-researcher-turns-palo-alto-software-into-perfect-malware)
-- [Cisco&#39;s Complex Road to Deliver on its Hypershield Promise](https://www.darkreading.com/cloud-security/cisco-faces-complex-road-to-deliver-on-its-complex-hypershield-promise)
+- [Cisco&#39;s Complex Road to Deliver on Its Hypershield Promise](https://www.darkreading.com/cloud-security/cisco-faces-complex-road-to-deliver-on-its-complex-hypershield-promise)
 - [Cisco Warns of Massive Surge in Password-Spraying Attacks on VPNs](https://www.darkreading.com/remote-workforce/cisco-warns-of-massive-surge-in-password-spraying-attacks-on-vpns)
 - [Auburn&#39;s McCrary Institute and Oak Ridge National Laboratory to Partner on Regional Cybersecurity Center](https://www.darkreading.com/vulnerabilities-threats/auburn-s-mccrary-institute-and-oak-ridge-national-laboratory-to-partner-on-regional-cybersecurity-center)
 - [ICS Network Controllers Open to Remote Exploit, No Patches Available](https://www.darkreading.com/ics-ot-security/ics-network-controllers-open-to-remote-exploit-no-patches-available)
