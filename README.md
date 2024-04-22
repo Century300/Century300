@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
 - [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
 - [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 - [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
@@ -83,7 +84,6 @@
 - [UNDP, City of Copenhagen Targeted in Data-Extortion Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/undp-city-of-copenhagen-targeted-in-data-extortion-cyberattack)
 - [Multiple LastPass Users Lose Master Passwords to Ultra-Convincing Scam](https://www.darkreading.com/cyberattacks-data-breaches/lastpass-users-lose-master-passwords-ultra-convincing-scam)
 - [Rethinking How You Work With Detection and Response Metrics](https://www.darkreading.com/cybersecurity-analytics/rethinking-how-you-work-with-detection-response-metrics)
-- [AI Lowers Barrier for Cyber-Adversary Manipulation in 2024 Election](https://www.darkreading.com/vulnerabilities-threats/ai-lowers-barrier-cyber-adversary-manipulation-2024-election)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
