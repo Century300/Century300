@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
+- [MITRE ATT&amp;amp;CKED: InfoSec&#39;s Most Trusted Name Falls to Ivanti Bugs](https://www.darkreading.com/endpoint-security/mitre-attacked-infosecs-most-trusted-name-falls-to-ivanti-bugs)
 - [Zero-Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
 - [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
 - [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 - [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
 - [FBI Director Wray Issues Dire Warning on China&#39;s Cybersecurity Threat](https://www.darkreading.com/ics-ot-security/fbi-director-wray-issues-dire-warning-on-chinas-cybersecurity-threat)
 - [UNDP, City of Copenhagen Targeted in Data-Extortion Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/undp-city-of-copenhagen-targeted-in-data-extortion-cyberattack)
-- [Multiple LastPass Users Lose Master Passwords to Ultra-Convincing Scam](https://www.darkreading.com/cyberattacks-data-breaches/lastpass-users-lose-master-passwords-ultra-convincing-scam)
-- [Rethinking How You Work With Detection and Response Metrics](https://www.darkreading.com/cybersecurity-analytics/rethinking-how-you-work-with-detection-response-metrics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
