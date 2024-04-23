@@ -81,7 +81,7 @@
 - [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
 - [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
 - [MITRE ATT&amp;amp;CKED: InfoSec&#39;s Most Trusted Name Falls to Ivanti Bugs](https://www.darkreading.com/endpoint-security/mitre-attacked-infosecs-most-trusted-name-falls-to-ivanti-bugs)
-- [Zero-Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
+- [Zero Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
 - [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
 - [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 <!-- DARKREADING:END -->
