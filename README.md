@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons for CISOs From OWASP&#39;s LLM Top 10](https://www.darkreading.com/vulnerabilities-threats/top-lessons-cisos-owasp-llm-top-10)
+- [US Gov Slaps Visa Restrictions on Spyware Honchos](https://www.darkreading.com/cybersecurity-operations/us-gov-visa-restrictions-spyware-honchos)
+- [Russia&#39;s Fancy Bear Pummels Windows Print Spooler Bug](https://www.darkreading.com/endpoint-security/russia-fancy-bear-pummels-windows-print-spooler-bug)
 - [Teetering on the Edge: VPNs, Firewalls&#39; Nonexistent Telemetry Lures APTs](https://www.darkreading.com/endpoint-security/edge-vpns-firewalls-nonexistent-telemetry-apts)
 - [Licensed to Bill? Nations Mandate Certification &amp;amp; Licensure of Cybersecurity Pros](https://www.darkreading.com/cyber-risk/licensed-to-bill-nations-mandate-certification-licensure-of-cybersecurity-pros)
 - [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
 - [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
 - [MITRE ATT&amp;amp;CKED: InfoSec&#39;s Most Trusted Name Falls to Ivanti Bugs](https://www.darkreading.com/endpoint-security/mitre-attacked-infosecs-most-trusted-name-falls-to-ivanti-bugs)
-- [Zero Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
-- [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
-- [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
