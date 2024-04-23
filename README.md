@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Create Legit Phishing Links With Ghost GitHub, GitLab Comments](https://www.darkreading.com/threat-intelligence/hackers-create-legit-phishing-links-with-ghost-github-gitlab-comments)
 - [Back from the Brink: UnitedHealth Offers Sobering Post-Attack Update](https://www.darkreading.com/cyber-risk/back-from-the-brink-unitedhealth-offers-sobering-post-attack-update)
 - [Lessons for CISOs From OWASP&#39;s LLM Top 10](https://www.darkreading.com/vulnerabilities-threats/top-lessons-cisos-owasp-llm-top-10)
 - [US Gov Slaps Visa Restrictions on Spyware Honchos](https://www.darkreading.com/cybersecurity-operations/us-gov-visa-restrictions-spyware-honchos)
@@ -83,7 +84,6 @@
 - [Teetering on the Edge: VPNs, Firewalls&#39; Nonexistent Telemetry Lures APTs](https://www.darkreading.com/endpoint-security/edge-vpns-firewalls-nonexistent-telemetry-apts)
 - [Licensed to Bill? Nations Mandate Certification &amp;amp; Licensure of Cybersecurity Pros](https://www.darkreading.com/cyber-risk/licensed-to-bill-nations-mandate-certification-licensure-of-cybersecurity-pros)
 - [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
-- [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
