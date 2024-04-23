@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Licensed to Bill? Nations Mandate Certification &amp;amp; Licensure of Cybersecurity Pros](https://www.darkreading.com/cyber-risk/licensed-to-bill-nations-mandate-certification-licensure-of-cybersecurity-pros)
 - [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
 - [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
 - [MITRE ATT&amp;amp;CKED: InfoSec&#39;s Most Trusted Name Falls to Ivanti Bugs](https://www.darkreading.com/endpoint-security/mitre-attacked-infosecs-most-trusted-name-falls-to-ivanti-bugs)
@@ -83,7 +84,6 @@
 - [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
 - [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
 - [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
-- [FBI Director Wray Issues Dire Warning on China&#39;s Cybersecurity Threat](https://www.darkreading.com/ics-ot-security/fbi-director-wray-issues-dire-warning-on-chinas-cybersecurity-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
