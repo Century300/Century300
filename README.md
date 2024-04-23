@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Teetering on the Edge: VPNs, Firewalls&#39; Nonexistent Telemetry Lures APTs](https://www.darkreading.com/endpoint-security/edge-vpns-firewalls-nonexistent-telemetry-apts)
 - [Licensed to Bill? Nations Mandate Certification &amp;amp; Licensure of Cybersecurity Pros](https://www.darkreading.com/cyber-risk/licensed-to-bill-nations-mandate-certification-licensure-of-cybersecurity-pros)
 - [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
 - [Nespresso Domain Serves Up Steamy Cup of Phish, No Cream or Sugar](https://www.darkreading.com/cyberattacks-data-breaches/nespresso-domain-phish-cream-sugar)
@@ -83,7 +84,6 @@
 - [Zero-Trust Takes Over: 63% of Orgs Implementing Globally](https://www.darkreading.com/endpoint-security/zero-trust-takes-over-63-percent-of-orgs-implementing-globally)
 - [Where Hackers Find Your Weak Spots](https://www.darkreading.com/vulnerabilities-threats/where-hackers-find-your-weak-spots)
 - [CISO Corner: Breaking Staff Burnout, GPT-4 Exploits, Rebalancing NIST](https://www.darkreading.com/cybersecurity-operations/ciso-corner-gpt-4-exploits-breaking-staff-burnout-rebalancing-nist)
-- [Miggo Launches Application Detection and Response &lpar;ADR&rpar; Solution](https://www.darkreading.com/application-security/miggo-launches-application-detection-and-response-adr-solution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
