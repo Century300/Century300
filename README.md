@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CompTIA Supports Department of Defense Efforts to Strengthen Cyber Knowledge and Skills](https://www.darkreading.com/cybersecurity-operations/comptia-supports-department-of-defense-efforts-to-strengthen-cyber-knowledge-and-skills)
+- [5 Hard Truths About the State of Cloud Security 2024](https://www.darkreading.com/cloud-security/5-hard-truths-about-the-state-of-cloud-security-2024)
+- [Siemens Working on Fix for Device Affected by Palo Alto Firewall Bug](https://www.darkreading.com/ics-ot-security/siemens-working-on-fix-for-device-affected-by-palo-alto-firewall-bug)
 - [Hackers Create Legit Phishing Links With Ghost GitHub, GitLab Comments](https://www.darkreading.com/threat-intelligence/hackers-create-legit-phishing-links-with-ghost-github-gitlab-comments)
 - [Back from the Brink: UnitedHealth Offers Sobering Post-Attack Update](https://www.darkreading.com/cyber-risk/back-from-the-brink-unitedhealth-offers-sobering-post-attack-update)
 - [Lessons for CISOs From OWASP&#39;s LLM Top 10](https://www.darkreading.com/vulnerabilities-threats/top-lessons-cisos-owasp-llm-top-10)
 - [US Gov Slaps Visa Restrictions on Spyware Honchos](https://www.darkreading.com/cybersecurity-operations/us-gov-visa-restrictions-spyware-honchos)
 - [Russia&#39;s Fancy Bear Pummels Windows Print Spooler Bug](https://www.darkreading.com/endpoint-security/russia-fancy-bear-pummels-windows-print-spooler-bug)
-- [Teetering on the Edge: VPNs, Firewalls&#39; Nonexistent Telemetry Lures APTs](https://www.darkreading.com/endpoint-security/edge-vpns-firewalls-nonexistent-telemetry-apts)
-- [Licensed to Bill? Nations Mandate Certification &amp;amp; Licensure of Cybersecurity Pros](https://www.darkreading.com/cyber-risk/licensed-to-bill-nations-mandate-certification-licensure-of-cybersecurity-pros)
-- [ToddyCat APT Is Stealing Data on &#39;Industrial Scale&#39;](https://www.darkreading.com/cyber-risk/-toddycat-apt-is-stealing-data-on-an-industrial-scale-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
