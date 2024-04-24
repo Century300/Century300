@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lights On in Leicester: Streetlights in Disarray After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/lights-on-in-leicester-city-streetlights-in-disarray-after-cyberattack)
 - [North Korea APT Triumvirate Spied on South Korean Defense Industry For Years](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-apt-triumvirate-spied-on-south-korean-defense-industry-for-years)
 - [Iran Dupes US Military Contractors, Gov&#39;t Agencies in Years-Long Cyber Campaign](https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign)
 - [2023: A &#39;Good&#39; Year for OT Cyberattacks](https://www.darkreading.com/endpoint-security/2023-good-year-for-ot-cyberattacks)
@@ -83,7 +84,6 @@
 - [Fortify AI Training Datasets From Malicious Poisoning](https://www.darkreading.com/cybersecurity-operations/fortify-ai-training-datasets-from-malicious-poisoning)
 - [CompTIA Supports Department of Defense Efforts to Strengthen Cyber Knowledge and Skills](https://www.darkreading.com/cybersecurity-operations/comptia-supports-department-of-defense-efforts-to-strengthen-cyber-knowledge-and-skills)
 - [5 Hard Truths About the State of Cloud Security 2024](https://www.darkreading.com/cloud-security/5-hard-truths-about-the-state-of-cloud-security-2024)
-- [Siemens Working on Fix for Device Affected by Palo Alto Firewall Bug](https://www.darkreading.com/ics-ot-security/siemens-working-on-fix-for-device-affected-by-palo-alto-firewall-bug)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
