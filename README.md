@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KnowBe4 to Acquire Egress](https://www.darkreading.com/cybersecurity-operations/knowbe4-to-acquire-egress)
 - [Black Girls Do Engineer Signs Education Partnership Agreement With NSA](https://www.darkreading.com/cybersecurity-operations/black-girls-do-engineer-signs-education-partnership-agreement-with-nsa)
+- [Attacker Social-Engineered Backdoor Code Into XZ Utils](https://www.darkreading.com/application-security/attacker-social-engineered-backdoor-code-into-xz-utils)
 - [Lights On in Leicester: Streetlights in Disarray After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/lights-on-in-leicester-city-streetlights-in-disarray-after-cyberattack)
 - [North Korea APT Triumvirate Spied on South Korean Defense Industry For Years](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-apt-triumvirate-spied-on-south-korean-defense-industry-for-years)
 - [Iran Dupes US Military Contractors, Gov&#39;t Agencies in Years-Long Cyber Campaign](https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign)
 - [2023: A &#39;Good&#39; Year for OT Cyberattacks](https://www.darkreading.com/endpoint-security/2023-good-year-for-ot-cyberattacks)
 - [Patch Now: CrushFTP Zero-Day Cloud Exploit Targets US Orgs](https://www.darkreading.com/cloud-security/patch-crushftp-zero-day-cloud-exploit-targets-us-orgs)
-- [Fortify AI Training Datasets From Malicious Poisoning](https://www.darkreading.com/cybersecurity-operations/fortify-ai-training-datasets-from-malicious-poisoning)
-- [CompTIA Supports Department of Defense Efforts to Strengthen Cyber Knowledge and Skills](https://www.darkreading.com/cybersecurity-operations/comptia-supports-department-of-defense-efforts-to-strengthen-cyber-knowledge-and-skills)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
