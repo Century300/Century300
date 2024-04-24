@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran Dupes US Military Contractors, Gov&#39;t Agencies in Years-Long Cyber Campaign](https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign)
+- [2023: A &#39;Good&#39; Year for OT Cyberattacks](https://www.darkreading.com/endpoint-security/2023-good-year-for-ot-cyberattacks)
 - [Patch Now: CrushFTP Zero-Day Cloud Exploit Targets US Orgs](https://www.darkreading.com/cloud-security/patch-crushftp-zero-day-cloud-exploit-targets-us-orgs)
 - [Fortify AI Training Datasets From Malicious Poisoning](https://www.darkreading.com/cybersecurity-operations/fortify-ai-training-datasets-from-malicious-poisoning)
 - [CompTIA Supports Department of Defense Efforts to Strengthen Cyber Knowledge and Skills](https://www.darkreading.com/cybersecurity-operations/comptia-supports-department-of-defense-efforts-to-strengthen-cyber-knowledge-and-skills)
 - [5 Hard Truths About the State of Cloud Security 2024](https://www.darkreading.com/cloud-security/5-hard-truths-about-the-state-of-cloud-security-2024)
 - [Siemens Working on Fix for Device Affected by Palo Alto Firewall Bug](https://www.darkreading.com/ics-ot-security/siemens-working-on-fix-for-device-affected-by-palo-alto-firewall-bug)
 - [Hackers Create Legit Phishing Links With Ghost GitHub, GitLab Comments](https://www.darkreading.com/threat-intelligence/hackers-create-legit-phishing-links-with-ghost-github-gitlab-comments)
-- [Back from the Brink: UnitedHealth Offers Sobering Post-Attack Update](https://www.darkreading.com/cyber-risk/back-from-the-brink-unitedhealth-offers-sobering-post-attack-update)
-- [Lessons for CISOs From OWASP&#39;s LLM Top 10](https://www.darkreading.com/vulnerabilities-threats/top-lessons-cisos-owasp-llm-top-10)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
