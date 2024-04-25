@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries](https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries)
 - [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
 - [Cisco Zero-Days Anchor &#39;ArcaneDoor&#39; Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
 - [SolarWinds 2024: Where Do Cyber Disclosures Go From Here?](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-2024-where-do-cyber-disclosures-go-from-here)
@@ -83,7 +84,6 @@
 - [Black Girls Do Engineer Signs Education Partnership Agreement With NSA](https://www.darkreading.com/cybersecurity-operations/black-girls-do-engineer-signs-education-partnership-agreement-with-nsa)
 - [Attacker Social-Engineered Backdoor Code Into XZ Utils](https://www.darkreading.com/application-security/attacker-social-engineered-backdoor-code-into-xz-utils)
 - [Lights On in Leicester: Streetlights in Disarray After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/lights-on-in-leicester-city-streetlights-in-disarray-after-cyberattack)
-- [North Korea APT Triumvirate Spied on South Korean Defense Industry For Years](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-apt-triumvirate-spied-on-south-korean-defense-industry-for-years)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
