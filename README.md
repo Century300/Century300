@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Biggest 2024 Elections Threat: Kitchen-Sink Attack Chains](https://www.darkreading.com/threat-intelligence/biggest-threat-2024-elections-kitchen-sink-attack-chains)
 - [Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries](https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries)
 - [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
 - [Cisco Zero-Days Anchor &#39;ArcaneDoor&#39; Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
@@ -83,7 +84,6 @@
 - [KnowBe4 to Acquire Egress](https://www.darkreading.com/cybersecurity-operations/knowbe4-to-acquire-egress)
 - [Black Girls Do Engineer Signs Education Partnership Agreement With NSA](https://www.darkreading.com/cybersecurity-operations/black-girls-do-engineer-signs-education-partnership-agreement-with-nsa)
 - [Attacker Social-Engineered Backdoor Code Into XZ Utils](https://www.darkreading.com/application-security/attacker-social-engineered-backdoor-code-into-xz-utils)
-- [Lights On in Leicester: Streetlights in Disarray After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/lights-on-in-leicester-city-streetlights-in-disarray-after-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
