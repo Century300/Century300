@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Keyboard Apps Open 1B People to Eavesdropping](https://www.darkreading.com/endpoint-security/most-chinese-keyboard-apps-vulnerable-to-eavesdropping)
+- [FTC Issues $5.6M in Refunds to Customers After Ring Privacy Settlement](https://www.darkreading.com/cyber-risk/ftc-issues-5-6m-in-refunds-to-customers-after-ring-privacy-settlement)
+- [5 Attack Trends Organizations of All Sizes Should Be Monitoring](https://www.darkreading.com/threat-intelligence/5-attack-trends-organizations-of-all-sizes-should-be-monitoring)
 - [The Biggest 2024 Elections Threat: Kitchen-Sink Attack Chains](https://www.darkreading.com/threat-intelligence/biggest-threat-2024-elections-kitchen-sink-attack-chains)
 - [Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries](https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries)
 - [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
 - [Cisco Zero-Days Anchor &#39;ArcaneDoor&#39; Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
 - [SolarWinds 2024: Where Do Cyber Disclosures Go From Here?](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-2024-where-do-cyber-disclosures-go-from-here)
-- [KnowBe4 to Acquire Egress](https://www.darkreading.com/cybersecurity-operations/knowbe4-to-acquire-egress)
-- [Black Girls Do Engineer Signs Education Partnership Agreement With NSA](https://www.darkreading.com/cybersecurity-operations/black-girls-do-engineer-signs-education-partnership-agreement-with-nsa)
-- [Attacker Social-Engineered Backdoor Code Into XZ Utils](https://www.darkreading.com/application-security/attacker-social-engineered-backdoor-code-into-xz-utils)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
