@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
 - [Cisco Zero-Days Anchor &#39;ArcaneDoor&#39; Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
 - [SolarWinds 2024: Where Do Cyber Disclosures Go From Here?](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-2024-where-do-cyber-disclosures-go-from-here)
 - [KnowBe4 to Acquire Egress](https://www.darkreading.com/cybersecurity-operations/knowbe4-to-acquire-egress)
@@ -83,7 +84,6 @@
 - [Attacker Social-Engineered Backdoor Code Into XZ Utils](https://www.darkreading.com/application-security/attacker-social-engineered-backdoor-code-into-xz-utils)
 - [Lights On in Leicester: Streetlights in Disarray After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/lights-on-in-leicester-city-streetlights-in-disarray-after-cyberattack)
 - [North Korea APT Triumvirate Spied on South Korean Defense Industry For Years](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-apt-triumvirate-spied-on-south-korean-defense-industry-for-years)
-- [Iran Dupes US Military Contractors, Gov&#39;t Agencies in Years-Long Cyber Campaign](https://www.darkreading.com/cyberattacks-data-breaches/iran-dupes-military-contractors-govt-agencies-cybercampaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
