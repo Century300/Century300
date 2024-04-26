@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Philippines Pummeled by Assortment of Cyberattacks &amp;amp; Misinformation Tied to China](https://www.darkreading.com/cyberattacks-data-breaches/philippines-pummeled-by-assortment-of-cyberattacks-tied-to-china)
+- [Thousands of Qlik Sense Servers Open to Cactus Ransomware](https://www.darkreading.com/cyber-risk/more-than-3-000-qlik-sense-servers-vuln-to-cactus-ransomware-attacks)
+- [Intel Harnesses Hackathons to Tackle Hardware Vulnerabilities](https://www.darkreading.com/endpoint-security/intel-harnesses-hackathons-to-tackle-hardware-vulnerabilities)
 - [Held Back: What Exclusion Looks Like in Cybersecurity](https://www.darkreading.com/cybersecurity-careers/held-back-what-exclusion-looks-like-in-cybersecurity)
 - [Palo Alto Updates Remediation for Max-Critical Firewall Bug](https://www.darkreading.com/vulnerabilities-threats/palo-alto-updates-remediation-for-max-critical-firewall-bug)
 - [CISO Corner: Evil SBOMs; Zero-Trust Pioneer Slams Cloud Security; MITRE&#39;s Ivanti Issue](https://www.darkreading.com/cybersecurity-operations/ciso-corner-evil-sboms-zero-trust-cloud-security-mitre-ivanti)
 - [Cyberattack Gold: SBOMs Offer an Easy Census of Vulnerable Software](https://www.darkreading.com/application-security/cyberattack-gold-sboms-census-vulnerable-software)
 - [Minimum Viable Compliance: What You Should Care About and Why](https://www.darkreading.com/cyber-risk/minimum-viable-compliance-what-you-should-care-about-and-why)
-- [Military Tank Manual, 2017 Zero-Day Anchor Latest Ukraine Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/military-tank-manual-zero-day-ukraine-cyberattack)
-- [PCI Launches Payment Card Cybersecurity Effort in the Middle East](https://www.darkreading.com/cyber-risk/pci-launches-payment-card-cybersecurity-effort-in-middle-east)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
