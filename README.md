@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattack Gold: SBOMs Offer an Easy Census of Vulnerable Software](https://www.darkreading.com/application-security/cyberattack-gold-sboms-census-vulnerable-software)
 - [Minimum Viable Compliance: What You Should Care About and Why](https://www.darkreading.com/cyber-risk/minimum-viable-compliance-what-you-should-care-about-and-why)
 - [Military Tank Manual, 2017 Zero-Day Anchor Latest Ukraine Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/military-tank-manual-zero-day-ukraine-cyberattack)
 - [PCI Launches Payment Card Cybersecurity Effort in the Middle East](https://www.darkreading.com/cyber-risk/pci-launches-payment-card-cybersecurity-effort-in-middle-east)
@@ -83,7 +84,6 @@
 - [FTC Issues $5.6M in Refunds to Customers After Ring Privacy Settlement](https://www.darkreading.com/cyber-risk/ftc-issues-5-6m-in-refunds-to-customers-after-ring-privacy-settlement)
 - [5 Attack Trends Organizations of All Sizes Should Be Monitoring](https://www.darkreading.com/threat-intelligence/5-attack-trends-organizations-of-all-sizes-should-be-monitoring)
 - [The Biggest 2024 Elections Threat: Kitchen-Sink Attack Chains](https://www.darkreading.com/threat-intelligence/biggest-threat-2024-elections-kitchen-sink-attack-chains)
-- [Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries](https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
