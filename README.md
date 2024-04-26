@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PCI Launches Payment Card Cybersecurity Effort in the Middle East](https://www.darkreading.com/cyber-risk/pci-launches-payment-card-cybersecurity-effort-in-middle-east)
 - [Chinese Keyboard Apps Open 1B People to Eavesdropping](https://www.darkreading.com/endpoint-security/most-chinese-keyboard-apps-vulnerable-to-eavesdropping)
 - [FTC Issues $5.6M in Refunds to Customers After Ring Privacy Settlement](https://www.darkreading.com/cyber-risk/ftc-issues-5-6m-in-refunds-to-customers-after-ring-privacy-settlement)
 - [5 Attack Trends Organizations of All Sizes Should Be Monitoring](https://www.darkreading.com/threat-intelligence/5-attack-trends-organizations-of-all-sizes-should-be-monitoring)
@@ -83,7 +84,6 @@
 - [Godfather Banking Trojan Spawns 1.2K Samples Across 57 Countries](https://www.darkreading.com/endpoint-security/godfather-banking-trojan-spawns-1k-samples-57-countries)
 - [Digital Blitzkrieg: Unveiling Cyber-Logistics Warfare](https://www.darkreading.com/cyberattacks-data-breaches/digital-blitzkrieg-unveiling-cyber-logistics-warfare)
 - [Cisco Zero-Days Anchor &#39;ArcaneDoor&#39; Cyber Espionage Campaign](https://www.darkreading.com/endpoint-security/cisco-zero-days-arcanedoor-cyberespionage-campaign)
-- [SolarWinds 2024: Where Do Cyber Disclosures Go From Here?](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-2024-where-do-cyber-disclosures-go-from-here)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
