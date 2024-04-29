@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
+- [R Programming Bug Exposes Orgs to Vast Supply Chain Risk](https://www.darkreading.com/application-security/r-programming-language-exposes-orgs-to-supply-chain-risk)
 - [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
 - [Cybersecurity Is Becoming More Diverse … Except by Gender](https://www.darkreading.com/cybersecurity-operations/cybersecurity-is-becoming-more-diverse-except-by-gender)
 - [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
 - [&#39;Muddling Meerkat&#39; Poses Nation-State DNS Mystery](https://www.darkreading.com/threat-intelligence/muddling-meerkat-poses-nation-state-dns-mystery)
 - [Addressing Risk Caused by Innovation](https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation)
 - [How to Red Team GenAI: Challenges, Best Practices, and Learnings](https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings)
-- [New Research Suggests Africa Is Being Used As a &#39;Testing Ground&#39; for Nation State Cyber Warfare](https://www.darkreading.com/cybersecurity-operations/new-research-suggests-africa-is-being-used-as-a-testing-ground-for-nation-state-cyber-warfare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
