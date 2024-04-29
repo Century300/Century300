@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
+- [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
+- [Cybersecurity Is Becoming More Diverse … Except by Gender](https://www.darkreading.com/cybersecurity-operations/cybersecurity-is-becoming-more-diverse-except-by-gender)
 - [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
 - [&#39;Muddling Meerkat&#39; Poses Nation-State DNS Mystery](https://www.darkreading.com/threat-intelligence/muddling-meerkat-poses-nation-state-dns-mystery)
 - [Addressing Risk Caused by Innovation](https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation)
 - [How to Red Team GenAI: Challenges, Best Practices, and Learnings](https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings)
 - [New Research Suggests Africa Is Being Used As a &#39;Testing Ground&#39; for Nation State Cyber Warfare](https://www.darkreading.com/cybersecurity-operations/new-research-suggests-africa-is-being-used-as-a-testing-ground-for-nation-state-cyber-warfare)
-- [MITRE&#39;s Cyber Resiliency Engineering Framework Aligns With DoD Cyber Maturity Model Cert](https://www.darkreading.com/threat-intelligence/mitre-s-cyber-resiliency-engineering-framework-aligns-with-dod-cyber-maturity-model-cert)
-- [Philippines Pummeled by Assortment of Cyberattacks &amp;amp; Misinformation Tied to China](https://www.darkreading.com/cyberattacks-data-breaches/philippines-pummeled-by-assortment-of-cyberattacks-tied-to-china)
-- [Jason Haddix Joins Flare As Field CISO](https://www.darkreading.com/cybersecurity-operations/jason-haddix-joins-flare-as-field-ciso)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
