@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
 - [&#39;Muddling Meerkat&#39; Poses Nation-State DNS Mystery](https://www.darkreading.com/threat-intelligence/muddling-meerkat-poses-nation-state-dns-mystery)
 - [Addressing Risk Caused by Innovation](https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation)
 - [How to Red Team GenAI: Challenges, Best Practices, and Learnings](https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings)
@@ -83,7 +84,6 @@
 - [MITRE&#39;s Cyber Resiliency Engineering Framework Aligns With DoD Cyber Maturity Model Cert](https://www.darkreading.com/threat-intelligence/mitre-s-cyber-resiliency-engineering-framework-aligns-with-dod-cyber-maturity-model-cert)
 - [Philippines Pummeled by Assortment of Cyberattacks &amp;amp; Misinformation Tied to China](https://www.darkreading.com/cyberattacks-data-breaches/philippines-pummeled-by-assortment-of-cyberattacks-tied-to-china)
 - [Jason Haddix Joins Flare As Field CISO](https://www.darkreading.com/cybersecurity-operations/jason-haddix-joins-flare-as-field-ciso)
-- [Thousands of Qlik Sense Servers Open to Cactus Ransomware](https://www.darkreading.com/cyber-risk/more-than-3-000-qlik-sense-servers-vuln-to-cactus-ransomware-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
