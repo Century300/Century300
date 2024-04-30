@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [To Damage OT Systems, Hackers Tap USBs, Old Bugs &amp;amp; Malware](https://www.darkreading.com/ics-ot-security/to-damage-ot-systems-hackers-tap-usbs-old-bugs-and-malware)
 - [Wireless Carriers Face $200M FCC Fine As Data Privacy Waters Roil](https://www.darkreading.com/cyber-risk/fcc-fines-wireless-carriers-200m-for-sharing-location-data)
 - [The 6 Data Security Sessions You Shouldn&#39;t Miss at RSAC 2024](https://www.darkreading.com/cyberattacks-data-breaches/6-data-security-sessions-you-shouldnt-miss-rsac-2024)
 - [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
@@ -83,7 +84,6 @@
 - [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
 - [Cybersecurity Is Becoming More Diverse … Except by Gender](https://www.darkreading.com/cybersecurity-operations/cybersecurity-is-becoming-more-diverse-except-by-gender)
 - [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
-- [&#39;Muddling Meerkat&#39; Poses Nation-State DNS Mystery](https://www.darkreading.com/threat-intelligence/muddling-meerkat-poses-nation-state-dns-mystery)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
