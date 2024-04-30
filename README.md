@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The 6 Data Security Sessions You Shouldn&#39;t Miss at RSAC 2024](https://www.darkreading.com/cyberattacks-data-breaches/6-data-security-sessions-you-shouldnt-miss-rsac-2024)
 - [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
 - [R Programming Bug Exposes Orgs to Vast Supply Chain Risk](https://www.darkreading.com/application-security/r-programming-language-exposes-orgs-to-supply-chain-risk)
 - [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
@@ -83,7 +84,6 @@
 - [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
 - [&#39;Muddling Meerkat&#39; Poses Nation-State DNS Mystery](https://www.darkreading.com/threat-intelligence/muddling-meerkat-poses-nation-state-dns-mystery)
 - [Addressing Risk Caused by Innovation](https://www.darkreading.com/cyber-risk/addressing-risk-caused-by-innovation)
-- [How to Red Team GenAI: Challenges, Best Practices, and Learnings](https://www.darkreading.com/vulnerabilities-threats/how-to-red-team-genai-challenges-best-practices-and-learnings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
