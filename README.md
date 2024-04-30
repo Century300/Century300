@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Planted Millions of Imageless Repositories on Docker Hub](https://www.darkreading.com/cyber-risk/attackers-planted-millions-of-imageless-repositories-on-docker-hub)
+- [Canadian Drug Chain in Temporary Lockdown Mode After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/canadian-drug-chain-in-temporary-lockdown-mode-after-cyber-incident)
 - [To Damage OT Systems, Hackers Tap USBs, Old Bugs &amp;amp; Malware](https://www.darkreading.com/ics-ot-security/to-damage-ot-systems-hackers-tap-usbs-old-bugs-and-malware)
 - [Wireless Carriers Face $200M FCC Fine As Data Privacy Waters Roil](https://www.darkreading.com/cyber-risk/fcc-fines-wireless-carriers-200m-for-sharing-location-data)
 - [The 6 Data Security Sessions You Shouldn&#39;t Miss at RSAC 2024](https://www.darkreading.com/cyberattacks-data-breaches/6-data-security-sessions-you-shouldnt-miss-rsac-2024)
 - [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
 - [R Programming Bug Exposes Orgs to Vast Supply Chain Risk](https://www.darkreading.com/application-security/r-programming-language-exposes-orgs-to-supply-chain-risk)
 - [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
-- [Cybersecurity Is Becoming More Diverse … Except by Gender](https://www.darkreading.com/cybersecurity-operations/cybersecurity-is-becoming-more-diverse-except-by-gender)
-- [13.4M Kaiser Insurance Members Affected by Data Leak to Online Advertisers](https://www.darkreading.com/cyberattacks-data-breaches/13-4m-kaiser-insurance-members-affected-by-data-leak-to-online-advertisers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
