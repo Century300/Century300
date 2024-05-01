@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Cuttlefish&#39; Zero-Click Malware Steals Private Cloud Data](https://www.darkreading.com/cloud-security/cuttlefish-zero-click-malware-steals-private-cloud-data)
 - [The Cybersecurity Checklist That Could Save Your M&amp;amp;A Deal](https://www.darkreading.com/cyber-risk/cybersecurity-checklist-that-could-save-your-m-and-a-deal)
 - [Verizon DBIR: Basic Security Gaffes Underpin Bumper Crop of Breaches](https://www.darkreading.com/cyberattacks-data-breaches/verizon-dbir-basic-security-gaffes-underpin-bumper-crop-of-breaches)
 - [Facebook at 20: Contemplating the Cost of Privacy](https://www.darkreading.com/data-privacy/facebook-at-20-contemplating-the-cost-of-privacy)
@@ -83,7 +84,6 @@
 - [Canadian Drug Chain in Temporary Lockdown Mode After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/canadian-drug-chain-in-temporary-lockdown-mode-after-cyber-incident)
 - [To Damage OT Systems, Hackers Tap USBs, Old Bugs &amp;amp; Malware](https://www.darkreading.com/ics-ot-security/to-damage-ot-systems-hackers-tap-usbs-old-bugs-and-malware)
 - [Wireless Carriers Face $200M FCC Fine As Data Privacy Waters Roil](https://www.darkreading.com/cyber-risk/fcc-fines-wireless-carriers-200m-for-sharing-location-data)
-- [The 6 Data Security Sessions You Shouldn&#39;t Miss at RSAC 2024](https://www.darkreading.com/cyberattacks-data-breaches/6-data-security-sessions-you-shouldnt-miss-rsac-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
