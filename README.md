@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Verizon DBIR: Basic Security Gaffes Underpin Bumper Crop of Breaches](https://www.darkreading.com/cyberattacks-data-breaches/verizon-dbir-basic-security-gaffes-underpin-bumper-crop-of-breaches)
 - [Attackers Planted Millions of Imageless Repositories on Docker Hub](https://www.darkreading.com/cyber-risk/attackers-planted-millions-of-imageless-repositories-on-docker-hub)
 - [Canadian Drug Chain in Temporary Lockdown Mode After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/canadian-drug-chain-in-temporary-lockdown-mode-after-cyber-incident)
 - [To Damage OT Systems, Hackers Tap USBs, Old Bugs &amp;amp; Malware](https://www.darkreading.com/ics-ot-security/to-damage-ot-systems-hackers-tap-usbs-old-bugs-and-malware)
@@ -83,7 +84,6 @@
 - [The 6 Data Security Sessions You Shouldn&#39;t Miss at RSAC 2024](https://www.darkreading.com/cyberattacks-data-breaches/6-data-security-sessions-you-shouldnt-miss-rsac-2024)
 - [ESET PROTECT Portfolio Now Includes New MDR Tiers and Features](https://www.darkreading.com/endpoint-security/eset-protect-portfolio-now-includes-new-mdr-tiers-and-features)
 - [R Programming Bug Exposes Orgs to Vast Supply Chain Risk](https://www.darkreading.com/application-security/r-programming-language-exposes-orgs-to-supply-chain-risk)
-- [Okta: Credential-Stuffing Attacks Spike via Proxy Networks](https://www.darkreading.com/vulnerabilities-threats/okta-credential-stuffing-attacks-spike-via-proxy-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
