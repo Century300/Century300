@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Graph API Emerges as a Top Attacker Tool to Plot Data Theft](https://www.darkreading.com/cloud-security/microsoft-graph-api-emerges-as-top-attacker-tool-to-plot-data-theft)
 - [&#39;DuneQuixote&#39; Shows Stealth Cyberattack Methods Are Evolving. Can Defenders Keep Up?](https://www.darkreading.com/threat-intelligence/dunequixote-shows-stealth-cyberattack-methods-are-evolving)
 - [Private Internet Search Is Still Finding Its Way](https://www.darkreading.com/data-privacy/private-internet-search-is-still-finding-its-way)
 - [UnitedHealth Congressional Testimony Reveals Rampant Security Fails](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-congressional-testimony-rampant-security-fails)
@@ -83,7 +84,6 @@
 - [Cobalt&#39;s 2024 State of Pentesting Report Reveals Cybersecurity Industry Needs](https://www.darkreading.com/vulnerabilities-threats/cobalt-s-2024-state-of-pentesting-report-reveals-cybersecurity-industry-needs)
 - [Shadow APIs: An Overlooked Cyber-Risk for Orgs](https://www.darkreading.com/application-security/shadow-apis-an-overlooked-cyber-risk-for-orgs)
 - [Qantas Customers&#39; Boarding Passes Exposed in Flight App Mishap](https://www.darkreading.com/cyber-risk/qantas-customers-boarding-passes-exposed-flight-app-mishap)
-- [&#39;Cuttlefish&#39; Zero-Click Malware Steals Private Cloud Data](https://www.darkreading.com/cloud-security/cuttlefish-zero-click-malware-steals-private-cloud-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
