@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [The Psychological Underpinnings of Modern Hacking Techniques](https://www.darkreading.com/vulnerabilities-threats/the-psychological-underpinnings-of-modern-hacking-techniques)
+- [Billions of Android Devices Open to &#39;Dirty Stream&#39; Attack](https://www.darkreading.com/cloud-security/billions-android-devices-open-dirty-stream-attack)
 - [DPRK&#39;s Kimsuky APT Abuses Weak DMARC Policies, Feds Warn](https://www.darkreading.com/cloud-security/dprks-kimsuky-apt-abuses-weak-dmarc-policies-feds-warn)
 - [Software Security: Too Little Vendor Accountability, Experts Say](https://www.darkreading.com/cyber-risk/software-security-too-little-vendor-accountability-experts-say)
 - [Hacker Sentenced After Years of Extorting Psychotherapy Patients](https://www.darkreading.com/cyberattacks-data-breaches/hacker-sentenced-after-years-of-extorting-psychotherapy-patients)
