@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Puppet Master](https://www.darkreading.com/vulnerabilities-threats/name-that-edge-toon-mini-me)
 - [Safeguarding Your Mobile Workforce](https://www.darkreading.com/endpoint-security/safeguarding-your-mobile-workforce)
 - [Why Haven&#39;t You Set Up DMARC Yet?](https://www.darkreading.com/cybersecurity-operations/tech-tip-why-haven-t-you-set-up-dmarc-yet-)
 - [Microsoft Graph API Emerges as a Top Attacker Tool to Plot Data Theft](https://www.darkreading.com/cloud-security/microsoft-graph-api-emerges-as-top-attacker-tool-to-plot-data-theft)
@@ -83,7 +84,6 @@
 - [Private Internet Search Is Still Finding Its Way](https://www.darkreading.com/data-privacy/private-internet-search-is-still-finding-its-way)
 - [UnitedHealth Congressional Testimony Reveals Rampant Security Fails](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-congressional-testimony-rampant-security-fails)
 - [Intel 471 Acquires Cyborg Security](https://www.darkreading.com/threat-intelligence/intel-471-acquires-cyborg-security)
-- [Cobalt&#39;s 2024 State of Pentesting Report Reveals Cybersecurity Industry Needs](https://www.darkreading.com/vulnerabilities-threats/cobalt-s-2024-state-of-pentesting-report-reveals-cybersecurity-industry-needs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
