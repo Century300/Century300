@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Psychological Underpinnings of Modern Hacking Techniques](https://www.darkreading.com/vulnerabilities-threats/the-psychological-underpinnings-of-modern-hacking-techniques)
+- [Hacker Sentenced After Years of Extorting Psychotherapy Patients](https://www.darkreading.com/cyberattacks-data-breaches/hacker-sentenced-after-years-of-extorting-psychotherapy-patients)
 - [Dropbox Breach Exposes Customer Credentials, Authentication Data](https://www.darkreading.com/application-security/dropbox-breach-exposes-customer-credentials-authentication-data)
 - [Name That Edge Toon: Puppet Master](https://www.darkreading.com/vulnerabilities-threats/name-that-edge-toon-mini-me)
 - [Safeguarding Your Mobile Workforce](https://www.darkreading.com/endpoint-security/safeguarding-your-mobile-workforce)
 - [Why Haven&#39;t You Set Up DMARC Yet?](https://www.darkreading.com/cybersecurity-operations/tech-tip-why-haven-t-you-set-up-dmarc-yet-)
 - [Microsoft Graph API Emerges as a Top Attacker Tool to Plot Data Theft](https://www.darkreading.com/cloud-security/microsoft-graph-api-emerges-as-top-attacker-tool-to-plot-data-theft)
 - [&#39;DuneQuixote&#39; Shows Stealth Cyberattack Methods Are Evolving. Can Defenders Keep Up?](https://www.darkreading.com/threat-intelligence/dunequixote-shows-stealth-cyberattack-methods-are-evolving)
-- [Private Internet Search Is Still Finding Its Way](https://www.darkreading.com/data-privacy/private-internet-search-is-still-finding-its-way)
-- [UnitedHealth Congressional Testimony Reveals Rampant Security Fails](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-congressional-testimony-rampant-security-fails)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
