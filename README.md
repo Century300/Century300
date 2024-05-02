@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Private Internet Search Is Still Finding Its Way](https://www.darkreading.com/data-privacy/private-internet-search-is-still-finding-its-way)
+- [UnitedHealth Congressional Testimony Reveals Rampant Security Fails](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-congressional-testimony-rampant-security-fails)
 - [Intel 471 Acquires Cyborg Security](https://www.darkreading.com/threat-intelligence/intel-471-acquires-cyborg-security)
 - [Cobalt&#39;s 2024 State of Pentesting Report Reveals Cybersecurity Industry Needs](https://www.darkreading.com/vulnerabilities-threats/cobalt-s-2024-state-of-pentesting-report-reveals-cybersecurity-industry-needs)
 - [Shadow APIs: An Overlooked Cyber-Risk for Orgs](https://www.darkreading.com/application-security/shadow-apis-an-overlooked-cyber-risk-for-orgs)
 - [Qantas Customers&#39; Boarding Passes Exposed in Flight App Mishap](https://www.darkreading.com/cyber-risk/qantas-customers-boarding-passes-exposed-flight-app-mishap)
 - [&#39;Cuttlefish&#39; Zero-Click Malware Steals Private Cloud Data](https://www.darkreading.com/cloud-security/cuttlefish-zero-click-malware-steals-private-cloud-data)
 - [The Cybersecurity Checklist That Could Save Your M&amp;amp;A Deal](https://www.darkreading.com/cyber-risk/cybersecurity-checklist-that-could-save-your-m-and-a-deal)
-- [Verizon DBIR: Basic Security Gaffes Underpin Bumper Crop of Breaches](https://www.darkreading.com/cyberattacks-data-breaches/verizon-dbir-basic-security-gaffes-underpin-bumper-crop-of-breaches)
-- [Facebook at 20: Contemplating the Cost of Privacy](https://www.darkreading.com/data-privacy/facebook-at-20-contemplating-the-cost-of-privacy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
