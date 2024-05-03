@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dazz Unveils AI-Powered Automated Remediation for Application Security Posture Management](https://www.darkreading.com/application-security/dazz-unveils-ai-powered-automated-remediation-for-application-security-posture-management)
+- [Palo Alto Networks Delivers Comprehensive SASE Capabilities](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-delivers-comprehensive-sase-capabilities)
+- [Permira to Acquire Majority Position in BioCatch at $1.3B Valuation](https://www.darkreading.com/cybersecurity-operations/permira-to-acquire-majority-position-in-biocatch-at-1-3b-valuation)
+- [Paris Olympics Cybersecurity at Risk via Attack Surface Gaps](https://www.darkreading.com/vulnerabilities-threats/paris-olympics-cybersecurity-at-risk-via-attack-surface-gaps)
 - [GAO: NASA Faces &#39;Inconsistent&#39; Cybersecurity Across Spacecraft](https://www.darkreading.com/ics-ot-security/gao-nasa-faces-inconsistent-cybersecurity-across-spacecraft)
 - [REvil Affiliate Off to Jail for Multimillion-Dollar Ransomware Scheme](https://www.darkreading.com/cybersecurity-operations/revil-affiliate-jail-multimillion-dollar-ransomware-scheme)
 - [Critical GitLab Bug Under Exploit Enables Account Takeover, CISA Warns](https://www.darkreading.com/application-security/critical-gitlab-bug-exploit-account-takeover-cisa)
 - [Innovation, Not Regulation, Will Protect Corporations From Deepfakes](https://www.darkreading.com/vulnerabilities-threats/innovation-not-regulation-will-protect-corporations-from-deepfakes)
-- [New AI Security Startup Apex Secures AI Models, Apps](https://www.darkreading.com/cyber-risk/new-ai-security-startup-apex-secures-ai-models-apps)
-- [Mimic Launches With New Ransomware Defense Platform](https://www.darkreading.com/endpoint-security/mimic-launches-with-new-ransomeware-defense-platform)
-- [Billions of Android Devices Open to &#39;Dirty Stream&#39; Attack](https://www.darkreading.com/cloud-security/billions-android-devices-open-dirty-stream-attack)
-- [DPRK&#39;s Kimsuky APT Abuses Weak DMARC Policies, Feds Warn](https://www.darkreading.com/cloud-security/dprks-kimsuky-apt-abuses-weak-dmarc-policies-feds-warn)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
