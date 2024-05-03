@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [REvil Affiliate Off to Jail for Multimillion-Dollar Ransomware Scheme](https://www.darkreading.com/cybersecurity-operations/revil-affiliate-jail-multimillion-dollar-ransomware-scheme)
 - [Critical GitLab Bug Under Exploit Enables Account Takeover, CISA Warns](https://www.darkreading.com/application-security/critical-gitlab-bug-exploit-account-takeover-cisa)
 - [Innovation, Not Regulation, Will Protect Corporations From Deepfakes](https://www.darkreading.com/vulnerabilities-threats/innovation-not-regulation-will-protect-corporations-from-deepfakes)
 - [New AI Security Startup Apex Secures AI Models, Apps](https://www.darkreading.com/cyber-risk/new-ai-security-startup-apex-secures-ai-models-apps)
@@ -83,7 +84,6 @@
 - [Billions of Android Devices Open to &#39;Dirty Stream&#39; Attack](https://www.darkreading.com/cloud-security/billions-android-devices-open-dirty-stream-attack)
 - [DPRK&#39;s Kimsuky APT Abuses Weak DMARC Policies, Feds Warn](https://www.darkreading.com/cloud-security/dprks-kimsuky-apt-abuses-weak-dmarc-policies-feds-warn)
 - [Software Security: Too Little Vendor Accountability, Experts Say](https://www.darkreading.com/cyber-risk/software-security-too-little-vendor-accountability-experts-say)
-- [Hacker Sentenced After Years of Extorting Psychotherapy Patients](https://www.darkreading.com/cyberattacks-data-breaches/hacker-sentenced-after-years-of-extorting-psychotherapy-patients)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
