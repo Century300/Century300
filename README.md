@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Corner: Verizon DBIR Lessons; Workplace Microaggression; Shadow APIs](https://www.darkreading.com/vulnerabilities-threats/ciso-corner-)
 - [Dazz Unveils AI-Powered Automated Remediation for Application Security Posture Management](https://www.darkreading.com/application-security/dazz-unveils-ai-powered-automated-remediation-for-application-security-posture-management)
 - [Palo Alto Networks Delivers Comprehensive SASE Capabilities](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-delivers-comprehensive-sase-capabilities)
 - [Permira to Acquire Majority Position in BioCatch at $1.3B Valuation](https://www.darkreading.com/cybersecurity-operations/permira-to-acquire-majority-position-in-biocatch-at-1-3b-valuation)
@@ -83,7 +84,6 @@
 - [GAO: NASA Faces &#39;Inconsistent&#39; Cybersecurity Across Spacecraft](https://www.darkreading.com/ics-ot-security/gao-nasa-faces-inconsistent-cybersecurity-across-spacecraft)
 - [REvil Affiliate Off to Jail for Multimillion-Dollar Ransomware Scheme](https://www.darkreading.com/cybersecurity-operations/revil-affiliate-jail-multimillion-dollar-ransomware-scheme)
 - [Critical GitLab Bug Under Exploit Enables Account Takeover, CISA Warns](https://www.darkreading.com/application-security/critical-gitlab-bug-exploit-account-takeover-cisa)
-- [Innovation, Not Regulation, Will Protect Corporations From Deepfakes](https://www.darkreading.com/vulnerabilities-threats/innovation-not-regulation-will-protect-corporations-from-deepfakes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
