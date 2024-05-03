@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mimic Launches With New Ransomware Defense Platform](https://www.darkreading.com/endpoint-security/mimic-launches-with-new-ransomeware-defense-platform)
 - [Billions of Android Devices Open to &#39;Dirty Stream&#39; Attack](https://www.darkreading.com/cloud-security/billions-android-devices-open-dirty-stream-attack)
 - [DPRK&#39;s Kimsuky APT Abuses Weak DMARC Policies, Feds Warn](https://www.darkreading.com/cloud-security/dprks-kimsuky-apt-abuses-weak-dmarc-policies-feds-warn)
 - [Software Security: Too Little Vendor Accountability, Experts Say](https://www.darkreading.com/cyber-risk/software-security-too-little-vendor-accountability-experts-say)
@@ -83,7 +84,6 @@
 - [Dropbox Breach Exposes Customer Credentials, Authentication Data](https://www.darkreading.com/application-security/dropbox-breach-exposes-customer-credentials-authentication-data)
 - [Name That Edge Toon: Puppet Master](https://www.darkreading.com/vulnerabilities-threats/name-that-edge-toon-mini-me)
 - [Safeguarding Your Mobile Workforce](https://www.darkreading.com/endpoint-security/safeguarding-your-mobile-workforce)
-- [Why Haven&#39;t You Set Up DMARC Yet?](https://www.darkreading.com/cybersecurity-operations/tech-tip-why-haven-t-you-set-up-dmarc-yet-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
