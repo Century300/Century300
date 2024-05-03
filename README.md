@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Innovation, Not Regulation, Will Protect Corporations From Deepfakes](https://www.darkreading.com/vulnerabilities-threats/innovation-not-regulation-will-protect-corporations-from-deepfakes)
+- [New AI Security Startup Apex Secures AI Models, Apps](https://www.darkreading.com/cyber-risk/new-ai-security-startup-apex-secures-ai-models-apps)
 - [Mimic Launches With New Ransomware Defense Platform](https://www.darkreading.com/endpoint-security/mimic-launches-with-new-ransomeware-defense-platform)
 - [Billions of Android Devices Open to &#39;Dirty Stream&#39; Attack](https://www.darkreading.com/cloud-security/billions-android-devices-open-dirty-stream-attack)
 - [DPRK&#39;s Kimsuky APT Abuses Weak DMARC Policies, Feds Warn](https://www.darkreading.com/cloud-security/dprks-kimsuky-apt-abuses-weak-dmarc-policies-feds-warn)
 - [Software Security: Too Little Vendor Accountability, Experts Say](https://www.darkreading.com/cyber-risk/software-security-too-little-vendor-accountability-experts-say)
 - [Hacker Sentenced After Years of Extorting Psychotherapy Patients](https://www.darkreading.com/cyberattacks-data-breaches/hacker-sentenced-after-years-of-extorting-psychotherapy-patients)
 - [Dropbox Breach Exposes Customer Credentials, Authentication Data](https://www.darkreading.com/application-security/dropbox-breach-exposes-customer-credentials-authentication-data)
-- [Name That Edge Toon: Puppet Master](https://www.darkreading.com/vulnerabilities-threats/name-that-edge-toon-mini-me)
-- [Safeguarding Your Mobile Workforce](https://www.darkreading.com/endpoint-security/safeguarding-your-mobile-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
