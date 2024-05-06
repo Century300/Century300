@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LLMs &amp;amp; Malicious Code Injections: &#39;We Have to Assume It&#39;s Coming&#39;](https://www.darkreading.com/application-security/llms-malicious-code-injections-we-have-to-assume-its-coming-)
 - [AttackIQ Partners With Cyber Poverty Line Institute to Provide Academy Courses to Underserved Communities](https://www.darkreading.com/cybersecurity-operations/attackiq-partners-with-cyber-poverty-line-institute-to-provide-academy-courses-to-underserved-communities)
 - [BigID Launches Industry-First Hybrid Scanning for Cloud Native Workloads](https://www.darkreading.com/cloud-security/bigid-launches-industry-first-hybrid-scanning-for-cloud-native-workloads)
 - [Introducing the NetBeacon Institute: Empowering a Safer Web](https://www.darkreading.com/vulnerabilities-threats/introducing-the-netbeacon-institute-empowering-a-safer-web)
@@ -83,7 +84,6 @@
 - [Microsoft Previews Feature to Block Malicious OAuth Apps](https://www.darkreading.com/identity-access-management-security/microsoft-previews-feature-to-block-malicious-oauth-apps)
 - [The Psychological Underpinnings of Modern Hacking Techniques](https://www.darkreading.com/vulnerabilities-threats/the-psychological-underpinnings-of-modern-hacking-techniques)
 - [AT&amp;amp;T Splits Cybersecurity Services Business, Launches LevelBlue](https://www.darkreading.com/cybersecurity-operations/att-splits-cybersecurity-services-business-launches-levelblue)
-- [Anetac Targets Service Account Security](https://www.darkreading.com/identity-access-management-security/anetac-targets-service-account-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
