@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amnesty International Cites Indonesia as a Spyware Hub](https://www.darkreading.com/cybersecurity-operations/amnesty-international-cites-indonesia-as-spyware-hub)
 - [CISO Corner: Verizon DBIR Lessons; Workplace Microaggression; Shadow APIs](https://www.darkreading.com/vulnerabilities-threats/ciso-corner-)
 - [Dazz Unveils AI-Powered Automated Remediation for Application Security Posture Management](https://www.darkreading.com/application-security/dazz-unveils-ai-powered-automated-remediation-for-application-security-posture-management)
 - [Palo Alto Networks Delivers Comprehensive SASE Capabilities](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-delivers-comprehensive-sase-capabilities)
@@ -83,7 +84,6 @@
 - [Paris Olympics Cybersecurity at Risk via Attack Surface Gaps](https://www.darkreading.com/vulnerabilities-threats/paris-olympics-cybersecurity-at-risk-via-attack-surface-gaps)
 - [GAO: NASA Faces &#39;Inconsistent&#39; Cybersecurity Across Spacecraft](https://www.darkreading.com/ics-ot-security/gao-nasa-faces-inconsistent-cybersecurity-across-spacecraft)
 - [REvil Affiliate Off to Jail for Multimillion-Dollar Ransomware Scheme](https://www.darkreading.com/cybersecurity-operations/revil-affiliate-jail-multimillion-dollar-ransomware-scheme)
-- [Critical GitLab Bug Under Exploit Enables Account Takeover, CISA Warns](https://www.darkreading.com/application-security/critical-gitlab-bug-exploit-account-takeover-cisa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
