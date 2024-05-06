@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Previews Feature to Block Malicious OAuth Apps](https://www.darkreading.com/identity-access-management-security/microsoft-previews-feature-to-block-malicious-oauth-apps)
 - [The Psychological Underpinnings of Modern Hacking Techniques](https://www.darkreading.com/vulnerabilities-threats/the-psychological-underpinnings-of-modern-hacking-techniques)
 - [AT&amp;amp;T Splits Cybersecurity Services Business, Launches LevelBlue](https://www.darkreading.com/cybersecurity-operations/att-splits-cybersecurity-services-business-launches-levelblue)
 - [Anetac Targets Service Account Security](https://www.darkreading.com/identity-access-management-security/anetac-targets-service-account-security)
@@ -83,7 +84,6 @@
 - [CISO Corner: Verizon DBIR Lessons; Workplace Microaggression; Shadow APIs](https://www.darkreading.com/vulnerabilities-threats/ciso-corner-)
 - [Dazz Unveils AI-Powered Automated Remediation for Application Security Posture Management](https://www.darkreading.com/application-security/dazz-unveils-ai-powered-automated-remediation-for-application-security-posture-management)
 - [Palo Alto Networks Delivers Comprehensive SASE Capabilities](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-delivers-comprehensive-sase-capabilities)
-- [Permira to Acquire Majority Position in BioCatch at $1.3B Valuation](https://www.darkreading.com/cybersecurity-operations/permira-to-acquire-majority-position-in-biocatch-at-1-3b-valuation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
