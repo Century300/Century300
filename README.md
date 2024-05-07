@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Hackers Deployed Backdoor Quintet to Down MITRE](https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre)
+- [Wiz Announces $1B Funding Round, Plans More M&amp;amp;A](https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts)
 - [Does CISA&#39;s KEV Catalog Speed Up Remediation?](https://www.darkreading.com/vulnerabilities-threats/cisa-kev-catalog-speed-up-remediation)
 - [What&#39;s the Future Path for CISOs?](https://www.darkreading.com/cyber-risk/what-s-the-future-path-for-cisos)
 - [City of Wichita Public Services Disrupted After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/numerous-public-services-ransomware-attack-city-wichita)
 - [Feds: Reducing AI Risks Requires Visibility &amp;amp; Better Planning](https://www.darkreading.com/cyber-risk/reducing-ai-risks-requires-visibility-and-better-planning)
 - [Spies Among Us: Insider Threats in Open Source Environments](https://www.darkreading.com/vulnerabilities-threats/spies-among-us-insider-threats-in-open-source-environments)
 - [Blinken: Digital Solidarity Is &#39;North Star&#39; for US Policy](https://www.darkreading.com/cybersecurity-operations/digital-solidarity-north-star-us-policy-blinken)
-- [Citrix Addresses High-Severity Flaw in NetScaler ADC and Gateway](https://www.darkreading.com/cyber-risk/citrix-addresses-high-severity-flaw-in-netscaler-adc-and-gateway)
-- [Supply Chain Breaches Up 68% Year Over Year, According to DBIR](https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
