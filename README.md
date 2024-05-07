@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Blinken: Digital Solidarity Is &#39;North Star&#39; for US Policy](https://www.darkreading.com/cybersecurity-operations/digital-solidarity-north-star-us-policy-blinken)
 - [Citrix Addresses High-Severity Flaw in NetScaler ADC and Gateway](https://www.darkreading.com/cyber-risk/citrix-addresses-high-severity-flaw-in-netscaler-adc-and-gateway)
 - [Supply Chain Breaches Up 68% Year Over Year, According to DBIR](https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir)
 - [LLMs &amp;amp; Malicious Code Injections: &#39;We Have to Assume It&#39;s Coming&#39;](https://www.darkreading.com/application-security/llms-malicious-code-injections-we-have-to-assume-its-coming-)
@@ -83,7 +84,6 @@
 - [BigID Launches Industry-First Hybrid Scanning for Cloud Native Workloads](https://www.darkreading.com/cloud-security/bigid-launches-industry-first-hybrid-scanning-for-cloud-native-workloads)
 - [Introducing the NetBeacon Institute: Empowering a Safer Web](https://www.darkreading.com/vulnerabilities-threats/introducing-the-netbeacon-institute-empowering-a-safer-web)
 - [AXA XL Introduces Endorsement to Help Public Companies Address SEC Cyber Reporting Costs](https://www.darkreading.com/vulnerabilities-threats/axa-xl-introduces-endorsement-to-help-public-companies-address-sec-cyber-reporting-costs)
-- [Microsoft Previews Feature to Block Malicious OAuth Apps](https://www.darkreading.com/identity-access-management-security/microsoft-previews-feature-to-block-malicious-oauth-apps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
