@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Spies Among Us: Insider Threats in Open Source Environments](https://www.darkreading.com/vulnerabilities-threats/spies-among-us-insider-threats-in-open-source-environments)
 - [Blinken: Digital Solidarity Is &#39;North Star&#39; for US Policy](https://www.darkreading.com/cybersecurity-operations/digital-solidarity-north-star-us-policy-blinken)
 - [Citrix Addresses High-Severity Flaw in NetScaler ADC and Gateway](https://www.darkreading.com/cyber-risk/citrix-addresses-high-severity-flaw-in-netscaler-adc-and-gateway)
 - [Supply Chain Breaches Up 68% Year Over Year, According to DBIR](https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir)
@@ -83,7 +84,6 @@
 - [AttackIQ Partners With Cyber Poverty Line Institute to Provide Academy Courses to Underserved Communities](https://www.darkreading.com/cybersecurity-operations/attackiq-partners-with-cyber-poverty-line-institute-to-provide-academy-courses-to-underserved-communities)
 - [BigID Launches Hybrid Scanning for Cloud Native Workloads](https://www.darkreading.com/cloud-security/bigid-launches-industry-first-hybrid-scanning-for-cloud-native-workloads)
 - [Introducing the NetBeacon Institute: Empowering a Safer Web](https://www.darkreading.com/vulnerabilities-threats/introducing-the-netbeacon-institute-empowering-a-safer-web)
-- [AXA XL Introduces Endorsement to Help Public Companies Address SEC Cyber Reporting Costs](https://www.darkreading.com/vulnerabilities-threats/axa-xl-introduces-endorsement-to-help-public-companies-address-sec-cyber-reporting-costs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
