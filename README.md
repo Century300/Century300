@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Does CISA&#39;s KEV Catalog Speed Up Remediation?](https://www.darkreading.com/vulnerabilities-threats/cisa-kev-catalog-speed-up-remediation)
+- [What&#39;s the Future Path for CISOs?](https://www.darkreading.com/cyber-risk/what-s-the-future-path-for-cisos)
 - [City of Wichita Public Services Disrupted After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/numerous-public-services-ransomware-attack-city-wichita)
+- [Feds: Reducing AI Risks Requires Visibility &amp;amp; Better Planning](https://www.darkreading.com/cyber-risk/reducing-ai-risks-requires-visibility-and-better-planning)
 - [Spies Among Us: Insider Threats in Open Source Environments](https://www.darkreading.com/vulnerabilities-threats/spies-among-us-insider-threats-in-open-source-environments)
 - [Blinken: Digital Solidarity Is &#39;North Star&#39; for US Policy](https://www.darkreading.com/cybersecurity-operations/digital-solidarity-north-star-us-policy-blinken)
 - [Citrix Addresses High-Severity Flaw in NetScaler ADC and Gateway](https://www.darkreading.com/cyber-risk/citrix-addresses-high-severity-flaw-in-netscaler-adc-and-gateway)
 - [Supply Chain Breaches Up 68% Year Over Year, According to DBIR](https://www.darkreading.com/cyber-risk/supply-chain-breaches-up-68-yoy-according-to-dbir)
-- [LLMs &amp;amp; Malicious Code Injections: &#39;We Have to Assume It&#39;s Coming&#39;](https://www.darkreading.com/application-security/llms-malicious-code-injections-we-have-to-assume-its-coming-)
-- [AttackIQ Partners With Cyber Poverty Line Institute to Provide Academy Courses to Underserved Communities](https://www.darkreading.com/cybersecurity-operations/attackiq-partners-with-cyber-poverty-line-institute-to-provide-academy-courses-to-underserved-communities)
-- [BigID Launches Hybrid Scanning for Cloud Native Workloads](https://www.darkreading.com/cloud-security/bigid-launches-industry-first-hybrid-scanning-for-cloud-native-workloads)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
