@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyolo Partners With Dragos to Unveil Holistic Secure Remote Access Solution for Critical Infrastructure](https://www.darkreading.com/cybersecurity-operations/cyolo-partners-with-dragos-to-unveil-holistic-secure-remote-access-solution-for-critical-infrastructure)
+- [Netcraft Announces New AI-Powered Innovations to Disrupt and Expose Criminal Financial Infrastructure](https://www.darkreading.com/vulnerabilities-threats/netcraft-announces-new-ai-powered-innovations-to-disrupt-and-expose-criminal-financial-infrastructure)
+- [runZero Research Explores Unexpected Exposures in Enterprise Infrastructure](https://www.darkreading.com/threat-intelligence/runzero-research-explores-unexpected-exposures-in-enterprise-infrastructure)
 - [CISOs Are Worried About Their Jobs &amp;amp; Dissatisfied With Their Incomes](https://www.darkreading.com/cybersecurity-operations/cisos-are-worried-about-their-jobs-and-dissatisfied-with-their-incomes)
 - [Critical Bug Could Open 50K+ Tinyproxy Servers to DoS, RCE](https://www.darkreading.com/cloud-security/critical-bug-50k-tinyproxy-servers-dos-rce)
 - [Security Teams &amp;amp; SREs Want the Same Thing: Let&#39;s Make It Happen](https://www.darkreading.com/cybersecurity-operations/security-teams-sres-want-same-thing-lets-make-it-happen)
 - [Microsoft Will Hold Executives Accountable for Cybersecurity](https://www.darkreading.com/application-security/microsoft-will-hold-executives-accountable-for-cybersecurity)
 - [LockBit Honcho Faces Sanctions, With Aussie Org Ramifications](https://www.darkreading.com/vulnerabilities-threats/lockbit-honcho-sanctions-aussie-org-ramifications)
-- [Chinese Hackers Deployed Backdoor Quintet to Down MITRE](https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre)
-- [Wiz Announces $1B Funding Round, Plans More M&amp;amp;A](https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts)
-- [Does CISA&#39;s KEV Catalog Speed Up Remediation?](https://www.darkreading.com/vulnerabilities-threats/cisa-kev-catalog-speed-up-remediation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
