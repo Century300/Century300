@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3-Year Iranian Influence Op Preys on Divides in Israeli Society](https://www.darkreading.com/threat-intelligence/three-year-iranian-influence-op-preys-divides-israeli-society)
 - [Cyolo Partners With Dragos to Unveil Holistic Secure Remote Access Solution for Critical Infrastructure](https://www.darkreading.com/cybersecurity-operations/cyolo-partners-with-dragos-to-unveil-holistic-secure-remote-access-solution-for-critical-infrastructure)
 - [Netcraft Announces New AI-Powered Innovations to Disrupt and Expose Criminal Financial Infrastructure](https://www.darkreading.com/vulnerabilities-threats/netcraft-announces-new-ai-powered-innovations-to-disrupt-and-expose-criminal-financial-infrastructure)
 - [runZero Research Explores Unexpected Exposures in Enterprise Infrastructure](https://www.darkreading.com/threat-intelligence/runzero-research-explores-unexpected-exposures-in-enterprise-infrastructure)
@@ -83,7 +84,6 @@
 - [Critical Bug Could Open 50K+ Tinyproxy Servers to DoS, RCE](https://www.darkreading.com/cloud-security/critical-bug-50k-tinyproxy-servers-dos-rce)
 - [Security Teams &amp;amp; SREs Want the Same Thing: Let&#39;s Make It Happen](https://www.darkreading.com/cybersecurity-operations/security-teams-sres-want-same-thing-lets-make-it-happen)
 - [Microsoft Will Hold Executives Accountable for Cybersecurity](https://www.darkreading.com/application-security/microsoft-will-hold-executives-accountable-for-cybersecurity)
-- [LockBit Honcho Faces Sanctions, With Aussie Org Ramifications](https://www.darkreading.com/vulnerabilities-threats/lockbit-honcho-sanctions-aussie-org-ramifications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
