@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Are Worried About Their Jobs &amp;amp; Dissatisfied With Their Incomes](https://www.darkreading.com/cybersecurity-operations/cisos-are-worried-about-their-jobs-and-dissatisfied-with-their-incomes)
 - [Critical Bug Could Open 50K+ Tinyproxy Servers to DoS, RCE](https://www.darkreading.com/cloud-security/critical-bug-50k-tinyproxy-servers-dos-rce)
 - [Security Teams &amp;amp; SREs Want the Same Thing: Let&#39;s Make It Happen](https://www.darkreading.com/cybersecurity-operations/security-teams-sres-want-same-thing-lets-make-it-happen)
 - [Microsoft Will Hold Executives Accountable for Cybersecurity](https://www.darkreading.com/application-security/microsoft-will-hold-executives-accountable-for-cybersecurity)
@@ -83,7 +84,6 @@
 - [Chinese Hackers Deployed Backdoor Quintet to Down MITRE](https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre)
 - [Wiz Announces $1B Funding Round, Plans More M&amp;amp;A](https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts)
 - [Does CISA&#39;s KEV Catalog Speed Up Remediation?](https://www.darkreading.com/vulnerabilities-threats/cisa-kev-catalog-speed-up-remediation)
-- [What&#39;s the Future Path for CISOs?](https://www.darkreading.com/cyber-risk/what-s-the-future-path-for-cisos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
