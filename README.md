@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Will Hold Executives Accountable for Cybersecurity](https://www.darkreading.com/application-security/microsoft-will-hold-executives-accountable-for-cybersecurity)
 - [LockBit Honcho Faces Sanctions, With Aussie Org Ramifications](https://www.darkreading.com/vulnerabilities-threats/lockbit-honcho-sanctions-aussie-org-ramifications)
 - [Chinese Hackers Deployed Backdoor Quintet to Down MITRE](https://www.darkreading.com/cloud-security/chinese-hackers-deployed-backdoor-quintet-to-down-mitre)
 - [Wiz Announces $1B Funding Round, Plans More M&amp;amp;A](https://www.darkreading.com/cloud-security/wiz-announces-1b-funding-round-will-be-used-to-further-m-a-efforts)
@@ -83,7 +84,6 @@
 - [What&#39;s the Future Path for CISOs?](https://www.darkreading.com/cyber-risk/what-s-the-future-path-for-cisos)
 - [City of Wichita Public Services Disrupted After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/numerous-public-services-ransomware-attack-city-wichita)
 - [Feds: Reducing AI Risks Requires Visibility &amp;amp; Better Planning](https://www.darkreading.com/cyber-risk/reducing-ai-risks-requires-visibility-and-better-planning)
-- [Spies Among Us: Insider Threats in Open Source Environments](https://www.darkreading.com/vulnerabilities-threats/spies-among-us-insider-threats-in-open-source-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
