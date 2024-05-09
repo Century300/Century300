@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [How Government Agencies Can Leverage Grants to Shore Up Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/how-government-agencies-can-leverage-grants-to-shore-up-cybersecurity)
-- [Tech Companies Promise Secure by Design Products](https://www.darkreading.com/endpoint-security/tech-companies-promise-secure-by-design-products)
+- [Tech Companies Promise &#39;Secure by Design&#39; Products](https://www.darkreading.com/endpoint-security/tech-companies-promise-secure-by-design-products)
 - [Token Security Launches Machine-Centric IAM Platform](https://www.darkreading.com/identity-access-management-security/token-security-launches-machine-centric-iam-platform)
 - [UK Military Data Breach a Reminder of Third-Party Risk in Defense Sector](https://www.darkreading.com/cyberattacks-data-breaches/breach-of-uk-military-personnel-data-a-reminder-of-third-party-risk-in-defense-sector)
 - [3-Year Iranian Influence Op Preys on Divides in Israeli Society](https://www.darkreading.com/threat-intelligence/three-year-iranian-influence-op-preys-divides-israeli-society)
