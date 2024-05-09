@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vast Network of Fake Web Shops Defrauds 850,000 &amp;amp; Counting](https://www.darkreading.com/cyberattacks-data-breaches/fake-web-shops-defraud-850000)
 - [How Government Agencies Can Leverage Grants to Shore Up Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/how-government-agencies-can-leverage-grants-to-shore-up-cybersecurity)
 - [Tech Companies Promise &#39;Secure by Design&#39; Products](https://www.darkreading.com/endpoint-security/tech-companies-promise-secure-by-design-products)
 - [Token Security Launches Machine-Centric IAM Platform](https://www.darkreading.com/identity-access-management-security/token-security-launches-machine-centric-iam-platform)
@@ -83,7 +84,6 @@
 - [3-Year Iranian Influence Op Preys on Divides in Israeli Society](https://www.darkreading.com/threat-intelligence/three-year-iranian-influence-op-preys-divides-israeli-society)
 - [Cyolo Partners With Dragos to Unveil Holistic Secure Remote Access Solution for Critical Infrastructure](https://www.darkreading.com/cybersecurity-operations/cyolo-partners-with-dragos-to-unveil-holistic-secure-remote-access-solution-for-critical-infrastructure)
 - [Netcraft Announces New AI-Powered Innovations to Disrupt and Expose Criminal Financial Infrastructure](https://www.darkreading.com/vulnerabilities-threats/netcraft-announces-new-ai-powered-innovations-to-disrupt-and-expose-criminal-financial-infrastructure)
-- [runZero Research Explores Unexpected Exposures in Enterprise Infrastructure](https://www.darkreading.com/threat-intelligence/runzero-research-explores-unexpected-exposures-in-enterprise-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
