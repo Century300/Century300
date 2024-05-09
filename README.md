@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [87% of DDoS Attacks Targeted Windows OS Devices in 2023](https://www.darkreading.com/cyberattacks-data-breaches/87-of-ddos-attacks-targeted-windows-os-devices-in-2023)
+- [CyberProof Announces Strategic Partnership With Google Cloud](https://www.darkreading.com/cloud-security/cyberproof-announces-strategic-partnership-with-google-cloud)
 - [Aggressive Cloud-Security Player Wiz Scores $1B in Funding Round](https://www.darkreading.com/cloud-security/aggressive-cloud-security-player-wiz-scores-1-billion-in-funding-round)
 - [LockBit Claims Wichita as Its Victim 2 Days After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-claims-wichita-as-its-victim-two-days-after-ransomware-attack)
 - [Vast Network of Fake Web Shops Defrauds 850,000 &amp;amp; Counting](https://www.darkreading.com/cyberattacks-data-breaches/fake-web-shops-defraud-850000)
 - [How Government Agencies Can Leverage Grants to Shore Up Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/how-government-agencies-can-leverage-grants-to-shore-up-cybersecurity)
 - [Tech Companies Promise &#39;Secure by Design&#39; Products](https://www.darkreading.com/endpoint-security/tech-companies-promise-secure-by-design-products)
 - [Token Security Launches Machine-Centric IAM Platform](https://www.darkreading.com/identity-access-management-security/token-security-launches-machine-centric-iam-platform)
-- [UK Military Data Breach a Reminder of Third-Party Risk in Defense Sector](https://www.darkreading.com/cyberattacks-data-breaches/breach-of-uk-military-personnel-data-a-reminder-of-third-party-risk-in-defense-sector)
-- [3-Year Iranian Influence Op Preys on Divides in Israeli Society](https://www.darkreading.com/threat-intelligence/three-year-iranian-influence-op-preys-divides-israeli-society)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
