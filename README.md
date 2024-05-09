@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Government Agencies Can Leverage Grants to Shore Up Cybersecurity](https://www.darkreading.com/cyberattacks-data-breaches/how-government-agencies-can-leverage-grants-to-shore-up-cybersecurity)
 - [Token Security Launches Machine-Centric IAM Platform](https://www.darkreading.com/identity-access-management-security/token-security-launches-machine-centric-iam-platform)
 - [UK Military Data Breach a Reminder of Third-Party Risk in Defense Sector](https://www.darkreading.com/cyberattacks-data-breaches/breach-of-uk-military-personnel-data-a-reminder-of-third-party-risk-in-defense-sector)
 - [3-Year Iranian Influence Op Preys on Divides in Israeli Society](https://www.darkreading.com/threat-intelligence/three-year-iranian-influence-op-preys-divides-israeli-society)
@@ -83,7 +84,6 @@
 - [Netcraft Announces New AI-Powered Innovations to Disrupt and Expose Criminal Financial Infrastructure](https://www.darkreading.com/vulnerabilities-threats/netcraft-announces-new-ai-powered-innovations-to-disrupt-and-expose-criminal-financial-infrastructure)
 - [runZero Research Explores Unexpected Exposures in Enterprise Infrastructure](https://www.darkreading.com/threat-intelligence/runzero-research-explores-unexpected-exposures-in-enterprise-infrastructure)
 - [CISOs Are Worried About Their Jobs &amp;amp; Dissatisfied With Their Incomes](https://www.darkreading.com/cybersecurity-operations/cisos-are-worried-about-their-jobs-and-dissatisfied-with-their-incomes)
-- [Critical Bug Could Open 50K+ Tinyproxy Servers to DoS, RCE](https://www.darkreading.com/cloud-security/critical-bug-50k-tinyproxy-servers-dos-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
