@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ascension Healthcare Suffers Major Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/ascension-healthcare-hit-by-cyberattack)
 - [You&#39;ve Been Breached: What Now?](https://www.darkreading.com/cyberattacks-data-breaches/you-have-been-breached-what-now)
 - [Dark Reading Confidential: The CISO and the SEC](https://www.darkreading.com/cyber-risk/dark-reading-confidential-the-ciso-and-the-sec)
 - [Dark Reading &#39;Drops&#39; Its First Podcast](https://www.darkreading.com/cyber-risk/dark-reading-drops-its-first-podcast)
@@ -83,7 +84,6 @@
 - [CISA Courts Private Sector to Get Behind CIRCIA Reporting Rules](https://www.darkreading.com/cybersecurity-operations/cisa-courts-private-sector-to-get-behind-circia-reporting-rules)
 - [&#39;The Mask&#39; Espionage Group Resurfaces After 10-Year Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus)
 - [2 &lpar;or 5&rpar; Bugs in F5 Asset Manager Allow Full Takeover, Hidden Accounts](https://www.darkreading.com/application-security/2-or-5-bugs-in-f5-asset-manager-allow-full-takeover-hidden-accounts)
-- [87% of DDoS Attacks Targeted Windows OS Devices in 2023](https://www.darkreading.com/cyberattacks-data-breaches/87-of-ddos-attacks-targeted-windows-os-devices-in-2023)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
