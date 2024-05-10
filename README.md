@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [You&#39;ve Been Breached: What Now?](https://www.darkreading.com/cyberattacks-data-breaches/you-have-been-breached-what-now)
+- [Dark Reading Confidential: The CISO and the SEC](https://www.darkreading.com/cyber-risk/dark-reading-confidential-the-ciso-and-the-sec)
+- [Dark Reading &#39;Drops&#39; Its First Podcast](https://www.darkreading.com/cyber-risk/dark-reading-drops-its-first-podcast)
 - [Cybersecurity in a Race to Unmask a New Wave of AI-Borne Deepfakes](https://www.darkreading.com/threat-intelligence/cybersecurity-in-a-race-to-unmask-a-new-wave-of-ai-borne-deepfakes)
 - [CISA Courts Private Sector to Get Behind CIRCIA Reporting Rules](https://www.darkreading.com/cybersecurity-operations/cisa-courts-private-sector-to-get-behind-circia-reporting-rules)
 - [&#39;The Mask&#39; Espionage Group Resurfaces After 10-Year Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus)
 - [2 &lpar;or 5&rpar; Bugs in F5 Asset Manager Allow Full Takeover, Hidden Accounts](https://www.darkreading.com/application-security/2-or-5-bugs-in-f5-asset-manager-allow-full-takeover-hidden-accounts)
 - [87% of DDoS Attacks Targeted Windows OS Devices in 2023](https://www.darkreading.com/cyberattacks-data-breaches/87-of-ddos-attacks-targeted-windows-os-devices-in-2023)
-- [CyberProof Announces Strategic Partnership With Google Cloud](https://www.darkreading.com/cloud-security/cyberproof-announces-strategic-partnership-with-google-cloud)
-- [Aggressive Cloud-Security Player Wiz Scores $1B in Funding Round](https://www.darkreading.com/cloud-security/aggressive-cloud-security-player-wiz-scores-1-billion-in-funding-round)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
