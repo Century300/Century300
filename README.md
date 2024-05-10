@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [You&#39;ve Been Breached: What Now?](https://www.darkreading.com/cyberattacks-data-breaches/you-have-been-breached-what-now)
 - [Cybersecurity in a Race to Unmask a New Wave of AI-Borne Deepfakes](https://www.darkreading.com/threat-intelligence/cybersecurity-in-a-race-to-unmask-a-new-wave-of-ai-borne-deepfakes)
 - [CISA Courts Private Sector to Get Behind CIRCIA Reporting Rules](https://www.darkreading.com/cybersecurity-operations/cisa-courts-private-sector-to-get-behind-circia-reporting-rules)
 - [&#39;The Mask&#39; Espionage Group Resurfaces After 10-Year Hiatus](https://www.darkreading.com/cyberattacks-data-breaches/-the-mask-espionage-group-resurfaces-after-10-year-hiatus)
@@ -83,7 +84,6 @@
 - [87% of DDoS Attacks Targeted Windows OS Devices in 2023](https://www.darkreading.com/cyberattacks-data-breaches/87-of-ddos-attacks-targeted-windows-os-devices-in-2023)
 - [CyberProof Announces Strategic Partnership With Google Cloud](https://www.darkreading.com/cloud-security/cyberproof-announces-strategic-partnership-with-google-cloud)
 - [Aggressive Cloud-Security Player Wiz Scores $1B in Funding Round](https://www.darkreading.com/cloud-security/aggressive-cloud-security-player-wiz-scores-1-billion-in-funding-round)
-- [LockBit Claims Wichita as Its Victim 2 Days After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-claims-wichita-as-its-victim-two-days-after-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
