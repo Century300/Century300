@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Millions of IoT Devices at Risk from Flaws in Integrated Cellular Modem](https://www.darkreading.com/ics-ot-security/millions-of-iot-devices-at-risk-from-flaws-in-integrated-cellular-modem)
+- [Millions of IoT Devices at Risk From Flaws in Integrated Cellular Modem](https://www.darkreading.com/ics-ot-security/millions-of-iot-devices-at-risk-from-flaws-in-integrated-cellular-modem)
 - [CISO as a CTO: When and Why It Makes Sense](https://www.darkreading.com/cybersecurity-careers/ciso-as-a-cto-when-and-why-it-makes-sense)
 - [Is CISA&#39;s Secure by Design Pledge Toothless?](https://www.darkreading.com/cybersecurity-operations/rsa-2024-cisa-secure-design-pledge-necessary-toothless)
 - [Reality Defender Wins RSAC Innovation Sandbox Competition](https://www.darkreading.com/cyber-risk/reality-defender-wins-rsac-innovation-sandbox)
