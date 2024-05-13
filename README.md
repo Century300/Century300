@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Tokens Are Like Gold for Opportunistic Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/why-tokens-are-like-gold-for-opportunistic-threat-actors)
 - [Millions of IoT Devices at Risk From Flaws in Integrated Cellular Modem](https://www.darkreading.com/ics-ot-security/millions-of-iot-devices-at-risk-from-flaws-in-integrated-cellular-modem)
 - [CISO as a CTO: When and Why It Makes Sense](https://www.darkreading.com/cybersecurity-careers/ciso-as-a-cto-when-and-why-it-makes-sense)
 - [Is CISA&#39;s Secure by Design Pledge Toothless?](https://www.darkreading.com/cybersecurity-operations/rsa-2024-cisa-secure-design-pledge-necessary-toothless)
@@ -83,7 +84,6 @@
 - [Ascension Healthcare Suffers Major Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/ascension-healthcare-hit-by-cyberattack)
 - [You&#39;ve Been Breached: What Now?](https://www.darkreading.com/cyberattacks-data-breaches/you-have-been-breached-what-now)
 - [Dark Reading Confidential: The CISO and the SEC](https://www.darkreading.com/cyber-risk/dark-reading-confidential-the-ciso-and-the-sec)
-- [Dark Reading &#39;Drops&#39; Its First Podcast](https://www.darkreading.com/cyber-risk/dark-reading-drops-its-first-podcast)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
