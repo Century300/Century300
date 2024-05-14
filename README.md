@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims](https://www.darkreading.com/cyberattacks-data-breaches/dns-tunneling-abuse-expands-tracking-scanning-victims)
+- [There Is No Cyber Labor Shortage](https://www.darkreading.com/cybersecurity-operations/there-is-no-cyber-labor-shortage)
 - [Heartbleed: When Is It Good to Name a Vulnerability?](https://www.darkreading.com/vulnerabilities-threats/heartbleed-when-is-it-good-to-name-a-vulnerability)
 - [500 Victims In, Black Basta Reinvents With Novel Vishing Strategy](https://www.darkreading.com/cyberattacks-data-breaches/500-victims-later-black-basta-reinvents-novel-vishing-strategy)
 - [Ukrainian, Latvian TV Hijacked to Broadcast Russian Celebrations](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-latvian-tv-hijacked-to-broadcast-russian-celebrations)
 - [IntelBroker Nabs Europol Info; Agency Investigating](https://www.darkreading.com/cyberattacks-data-breaches/intelbroker-nabs-europol-info-agency-investigating)
 - [Why Tokens Are Like Gold for Opportunistic Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/why-tokens-are-like-gold-for-opportunistic-threat-actors)
 - [Millions of IoT Devices at Risk From Flaws in Integrated Cellular Modem](https://www.darkreading.com/ics-ot-security/millions-of-iot-devices-at-risk-from-flaws-in-integrated-cellular-modem)
-- [CISO as a CTO: When and Why It Makes Sense](https://www.darkreading.com/cybersecurity-careers/ciso-as-a-cto-when-and-why-it-makes-sense)
-- [Is CISA&#39;s Secure by Design Pledge Toothless?](https://www.darkreading.com/cybersecurity-operations/rsa-2024-cisa-secure-design-pledge-necessary-toothless)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
