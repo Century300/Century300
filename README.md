@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As the FBI Closes In, Scattered Spider Attacks Finance, Insurance Orgs](https://www.darkreading.com/threat-intelligence/fbi-closes-in-scattered-spider-attacks-finance-insurance-orgs)
 - [A Cost-Effective Encryption Strategy Starts With Key Management](https://www.darkreading.com/cloud-security/a-cost-effective-encryption-strategy-starts-with-key-management)
 - [Dangerous Google Chrome Zero-Day Allows Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/dangerous-google-chrome-zero-day-sandbox-escape)
 - [DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims](https://www.darkreading.com/cyberattacks-data-breaches/dns-tunneling-abuse-expands-tracking-scanning-victims)
@@ -83,7 +84,6 @@
 - [Heartbleed: When Is It Good to Name a Vulnerability?](https://www.darkreading.com/vulnerabilities-threats/heartbleed-when-is-it-good-to-name-a-vulnerability)
 - [500 Victims In, Black Basta Reinvents With Novel Vishing Strategy](https://www.darkreading.com/cyberattacks-data-breaches/500-victims-later-black-basta-reinvents-novel-vishing-strategy)
 - [Ukrainian, Latvian TV Hijacked to Broadcast Russian Celebrations](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-latvian-tv-hijacked-to-broadcast-russian-celebrations)
-- [IntelBroker Nabs Europol Info; Agency Investigating](https://www.darkreading.com/cyberattacks-data-breaches/intelbroker-nabs-europol-info-agency-investigating)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
