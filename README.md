@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Heartbleed: When Is It Good to Name a Vulnerability?](https://www.darkreading.com/vulnerabilities-threats/heartbleed-when-is-it-good-to-name-a-vulnerability)
 - [500 Victims In, Black Basta Reinvents With Novel Vishing Strategy](https://www.darkreading.com/cyberattacks-data-breaches/500-victims-later-black-basta-reinvents-novel-vishing-strategy)
 - [Ukrainian, Latvian TV Hijacked to Broadcast Russian Celebrations](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-latvian-tv-hijacked-to-broadcast-russian-celebrations)
 - [IntelBroker Nabs Europol Info; Agency Investigating](https://www.darkreading.com/cyberattacks-data-breaches/intelbroker-nabs-europol-info-agency-investigating)
@@ -83,7 +84,6 @@
 - [Millions of IoT Devices at Risk From Flaws in Integrated Cellular Modem](https://www.darkreading.com/ics-ot-security/millions-of-iot-devices-at-risk-from-flaws-in-integrated-cellular-modem)
 - [CISO as a CTO: When and Why It Makes Sense](https://www.darkreading.com/cybersecurity-careers/ciso-as-a-cto-when-and-why-it-makes-sense)
 - [Is CISA&#39;s Secure by Design Pledge Toothless?](https://www.darkreading.com/cybersecurity-operations/rsa-2024-cisa-secure-design-pledge-necessary-toothless)
-- [Reality Defender Wins RSAC Innovation Sandbox Competition](https://www.darkreading.com/cyber-risk/reality-defender-wins-rsac-innovation-sandbox)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
