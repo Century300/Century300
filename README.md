@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Singapore Cybersecurity Update Puts Cloud Providers on Notice](https://www.darkreading.com/cyber-risk/singapore-cybersecurity-update-puts-cloud-providers-on-notice)
+- [Top 5 Most Dangerous Cyber Threats in 2024](https://www.darkreading.com/cyber-risk/top-5-most-dangerous-cyber-threats-in-2024)
 - [Microsoft Windows DWM Zero-Day Poised for Mass Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-windows-dwm-zero-day-mass-exploit)
 - [Unprotected Session Tokens Can Undermine FIDO2 Security](https://www.darkreading.com/identity-access-management-security/unprotected-session-tokens-can-undermine-fido2-security)
 - [As the FBI Closes In, Scattered Spider Attacks Finance, Insurance Orgs](https://www.darkreading.com/threat-intelligence/fbi-closes-in-scattered-spider-attacks-finance-insurance-orgs)
 - [A Cost-Effective Encryption Strategy Starts With Key Management](https://www.darkreading.com/cloud-security/a-cost-effective-encryption-strategy-starts-with-key-management)
 - [Dangerous Google Chrome Zero-Day Allows Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/dangerous-google-chrome-zero-day-sandbox-escape)
 - [DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims](https://www.darkreading.com/cyberattacks-data-breaches/dns-tunneling-abuse-expands-tracking-scanning-victims)
-- [There Is No Cyber Labor Shortage](https://www.darkreading.com/cybersecurity-operations/there-is-no-cyber-labor-shortage)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
