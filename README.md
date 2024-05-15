@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks](https://www.darkreading.com/endpoint-security/flaw-in-wi-fi-standard-can-enable-ssid-confusion-attacks)
+- [Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-ibm-to-jointly-provide-ai-powered-security-offerings)
+- [Notice of a Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/notice-of-a-data-breach)
 - [Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure](https://www.darkreading.com/cybersecurity-operations/alkira-raises-100m-in-series-c-funding-to-simplify-secure-and-scale-critical-network-infrastructure)
 - [Scammers Fake DocuSign Templates to Blackmail &amp;amp; Steal From Companies](https://www.darkreading.com/threat-intelligence/scammers-fake-docusign-templates-blackmail-steal-companies)
 - [FBI, DoJ Shut Down BreachForums, Launch Investigation](https://www.darkreading.com/threat-intelligence/fbi-doj-shut-down-breachforums-launch-investigation)
 - [D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day](https://www.darkreading.com/vulnerabilities-threats/d-link-routers-vulnerable-to-takeover-via-exploit-for-zero-day)
 - [3 Tips for Becoming the Champion of Your Organization&#39;s AI Committee](https://www.darkreading.com/cybersecurity-operations/3-tips-for-becoming-champion-of-your-organization-ai-committee)
-- [Singapore Cybersecurity Update Puts Cloud Providers on Notice](https://www.darkreading.com/cyber-risk/singapore-cybersecurity-update-puts-cloud-providers-on-notice)
-- [Top 5 Most Dangerous Cyber Threats in 2024](https://www.darkreading.com/cyber-risk/top-5-most-dangerous-cyber-threats-in-2024)
-- [Microsoft Windows DWM Zero-Day Poised for Mass Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-windows-dwm-zero-day-mass-exploit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
