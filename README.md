@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Singapore Cybersecurity Update Puts Cloud Providers on Notice](https://www.darkreading.com/cyber-risk/singapore-cybersecurity-update-puts-cloud-providers-on-notice)
 - [Microsoft Windows DWM Zero-Day Poised for Mass Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-windows-dwm-zero-day-mass-exploit)
 - [Unprotected Session Tokens Can Undermine FIDO2 Security](https://www.darkreading.com/identity-access-management-security/unprotected-session-tokens-can-undermine-fido2-security)
 - [As the FBI Closes In, Scattered Spider Attacks Finance, Insurance Orgs](https://www.darkreading.com/threat-intelligence/fbi-closes-in-scattered-spider-attacks-finance-insurance-orgs)
@@ -83,7 +84,6 @@
 - [Dangerous Google Chrome Zero-Day Allows Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/dangerous-google-chrome-zero-day-sandbox-escape)
 - [DNS Tunneling Abuse Expands to Tracking &amp;amp; Scanning Victims](https://www.darkreading.com/cyberattacks-data-breaches/dns-tunneling-abuse-expands-tracking-scanning-victims)
 - [There Is No Cyber Labor Shortage](https://www.darkreading.com/cybersecurity-operations/there-is-no-cyber-labor-shortage)
-- [Heartbleed: When Is It Good to Name a Vulnerability?](https://www.darkreading.com/vulnerabilities-threats/heartbleed-when-is-it-good-to-name-a-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
