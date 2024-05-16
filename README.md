@@ -76,12 +76,12 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [FCC Reveals &#39;Royal Tiger&#39; Robocall Campaign](https://www.darkreading.com/vulnerabilities-threats/fcc-deems-royal-tiger-robocall-campaign-a-communications-threat)
+- [FCC Reveals &amp;amp;apos;Royal Tiger&amp;amp;apos; Robocall Campaign](https://www.darkreading.com/vulnerabilities-threats/fcc-deems-royal-tiger-robocall-campaign-a-communications-threat)
 - [The Fall of the National Vulnerability Database](https://www.darkreading.com/vulnerabilities-threats/fall-of-national-vulnerability-database)
 - [Windows Quick Assist Anchors Black Basta Ransomware Gambit](https://www.darkreading.com/threat-intelligence/windows-quick-assist-anchors-black-basta-ransomware)
 - [Patch Now: Another Google Zero-Day Under Exploit in the Wild](https://www.darkreading.com/vulnerabilities-threats/patch-now-google-zero-day-exploit)
 - [Nigeria Halts Cybersecurity Tax After Public Outrage](https://www.darkreading.com/cyber-risk/nigeria-halts-cybersecurity-tax-after-public-outrage)
-- [Google&#39;s AI Watermarks Will Identify Deepfakes](https://www.darkreading.com/cloud-security/google-ai-watermarks-identify-deepfakes)
+- [Google&amp;amp;apos;s AI Watermarks Will Identify Deepfakes](https://www.darkreading.com/cloud-security/google-ai-watermarks-identify-deepfakes)
 - [Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks](https://www.darkreading.com/endpoint-security/flaw-in-wi-fi-standard-can-enable-ssid-confusion-attacks)
 - [Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-ibm-to-jointly-provide-ai-powered-security-offerings)
 <!-- DARKREADING:END -->
