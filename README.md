@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Asian Threat Actors Use New Techniques to Attack Familiar Targets](https://www.darkreading.com/cyberattacks-data-breaches/asian-threat-actors-use-new-techniques-to-attack-familiar-targets)
+- [US AI Experts Targeted in SugarGh0st RAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-ai-experts-targeted-in-sugargh0st-rat-campaign)
+- [GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp;amp; Data Theft](https://www.darkreading.com/vulnerabilities-threats/ge-ultrasound-gear-riddled-with-bugs-open-to-ransomware-data-theft)
 - [FCC Reveals &amp;amp;apos;Royal Tiger&amp;amp;apos; Robocall Campaign](https://www.darkreading.com/vulnerabilities-threats/fcc-deems-royal-tiger-robocall-campaign-a-communications-threat)
 - [The Fall of the National Vulnerability Database](https://www.darkreading.com/vulnerabilities-threats/fall-of-national-vulnerability-database)
 - [Windows Quick Assist Anchors Black Basta Ransomware Gambit](https://www.darkreading.com/threat-intelligence/windows-quick-assist-anchors-black-basta-ransomware)
 - [Patch Now: Another Google Zero-Day Under Exploit in the Wild](https://www.darkreading.com/vulnerabilities-threats/patch-now-google-zero-day-exploit)
 - [Nigeria Halts Cybersecurity Tax After Public Outrage](https://www.darkreading.com/cyber-risk/nigeria-halts-cybersecurity-tax-after-public-outrage)
-- [Google&amp;amp;apos;s AI Watermarks Will Identify Deepfakes](https://www.darkreading.com/cloud-security/google-ai-watermarks-identify-deepfakes)
-- [Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks](https://www.darkreading.com/endpoint-security/flaw-in-wi-fi-standard-can-enable-ssid-confusion-attacks)
-- [Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-ibm-to-jointly-provide-ai-powered-security-offerings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
