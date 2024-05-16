@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: Another Google Zero-Day Under Exploit in the Wild](https://www.darkreading.com/vulnerabilities-threats/patch-now-google-zero-day-exploit)
 - [Nigeria Halts Cybersecurity Tax After Public Outrage](https://www.darkreading.com/cyber-risk/nigeria-halts-cybersecurity-tax-after-public-outrage)
+- [Google&#39;s AI Watermarks Will Identify Deepfakes](https://www.darkreading.com/cloud-security/google-ai-watermarks-identify-deepfakes)
 - [Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks](https://www.darkreading.com/endpoint-security/flaw-in-wi-fi-standard-can-enable-ssid-confusion-attacks)
 - [Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-ibm-to-jointly-provide-ai-powered-security-offerings)
 - [Notice of a Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/notice-of-a-data-breach)
 - [Alkira Raises $100M in Series C Funding to Simplify, Secure and Scale Critical Network Infrastructure](https://www.darkreading.com/cybersecurity-operations/alkira-raises-100m-in-series-c-funding-to-simplify-secure-and-scale-critical-network-infrastructure)
 - [Scammers Fake DocuSign Templates to Blackmail &amp;amp; Steal From Companies](https://www.darkreading.com/threat-intelligence/scammers-fake-docusign-templates-blackmail-steal-companies)
-- [FBI, DoJ Shut Down BreachForums, Launch Investigation](https://www.darkreading.com/threat-intelligence/fbi-doj-shut-down-breachforums-launch-investigation)
-- [D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day](https://www.darkreading.com/vulnerabilities-threats/d-link-routers-vulnerable-to-takeover-via-exploit-for-zero-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
