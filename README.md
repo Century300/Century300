@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nigeria Halts Cybersecurity Tax After Public Outrage](https://www.darkreading.com/cyber-risk/nigeria-halts-cybersecurity-tax-after-public-outrage)
 - [Flaw in Wi-Fi Standard Can Enable SSID Confusion Attacks](https://www.darkreading.com/endpoint-security/flaw-in-wi-fi-standard-can-enable-ssid-confusion-attacks)
 - [Palo Alto Networks and IBM to Jointly Provide AI-Powered Security Offerings](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-ibm-to-jointly-provide-ai-powered-security-offerings)
 - [Notice of a Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/notice-of-a-data-breach)
@@ -83,7 +84,6 @@
 - [Scammers Fake DocuSign Templates to Blackmail &amp;amp; Steal From Companies](https://www.darkreading.com/threat-intelligence/scammers-fake-docusign-templates-blackmail-steal-companies)
 - [FBI, DoJ Shut Down BreachForums, Launch Investigation](https://www.darkreading.com/threat-intelligence/fbi-doj-shut-down-breachforums-launch-investigation)
 - [D-Link Routers Vulnerable to Takeover Via Exploit for Zero-Day](https://www.darkreading.com/vulnerabilities-threats/d-link-routers-vulnerable-to-takeover-via-exploit-for-zero-day)
-- [3 Tips for Becoming the Champion of Your Organization&#39;s AI Committee](https://www.darkreading.com/cybersecurity-operations/3-tips-for-becoming-champion-of-your-organization-ai-committee)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
