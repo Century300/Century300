@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Has Yet to Patch 7 Pwn2Own Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-has-yet-to-patch-7-pwn2own-zero-days)
 - [Addressing the Cybersecurity Vendor Ecosystem Disconnect](https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect)
 - [Santander Falls Victim to Data Breach Involving Third-Party Provider](https://www.darkreading.com/cyberattacks-data-breaches/santander-falls-victim-to-data-breach-involving-third-party-provider)
 - [Asian Threat Actors Use New Techniques to Attack Familiar Targets](https://www.darkreading.com/cyberattacks-data-breaches/asian-threat-actors-use-new-techniques-to-attack-familiar-targets)
@@ -83,7 +84,6 @@
 - [GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp;amp; Data Theft](https://www.darkreading.com/vulnerabilities-threats/ge-ultrasound-gear-riddled-with-bugs-open-to-ransomware-data-theft)
 - [FCC Reveals &amp;amp;apos;Royal Tiger&amp;amp;apos; Robocall Campaign](https://www.darkreading.com/vulnerabilities-threats/fcc-deems-royal-tiger-robocall-campaign-a-communications-threat)
 - [The Fall of the National Vulnerability Database](https://www.darkreading.com/vulnerabilities-threats/fall-of-national-vulnerability-database)
-- [Windows Quick Assist Anchors Black Basta Ransomware Gambit](https://www.darkreading.com/threat-intelligence/windows-quick-assist-anchors-black-basta-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
