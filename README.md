@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [400K Linux Servers Recruited by Resurrected Ebury Botnet](https://www.darkreading.com/threat-intelligence/400k-linux-servers-recruited-by-resurrected-ebury-botnet)
 - [Whose Data Is It Anyway? Equitable Access in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/whose-data-is-it-anyway-equitable-access-in-cybersecurity)
 - [CISOs and Their Companies Struggle to Comply With SEC Disclosure Rules](https://www.darkreading.com/cybersecurity-operations/cisos-and-their-companies-struggle-to-comply-with-sec-disclosure-rules)
 - [Microsoft Has Yet to Patch 7 Pwn2Own Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-has-yet-to-patch-7-pwn2own-zero-days)
@@ -83,7 +84,6 @@
 - [Santander Falls Victim to Data Breach Involving Third-Party Provider](https://www.darkreading.com/cyberattacks-data-breaches/santander-falls-victim-to-data-breach-involving-third-party-provider)
 - [Asian Threat Actors Use New Techniques to Attack Familiar Targets](https://www.darkreading.com/cyberattacks-data-breaches/asian-threat-actors-use-new-techniques-to-attack-familiar-targets)
 - [US AI Experts Targeted in SugarGh0st RAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-ai-experts-targeted-in-sugargh0st-rat-campaign)
-- [GE Ultrasound Gear Riddled With Bugs, Open to Ransomware &amp;amp;amp; Data Theft](https://www.darkreading.com/vulnerabilities-threats/ge-ultrasound-gear-riddled-with-bugs-open-to-ransomware-data-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
