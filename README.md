@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [CISOs and Their Companies Struggle to Comply With SEC Disclosure Rules](https://www.darkreading.com/cybersecurity-operations/cisos-and-their-companies-struggle-to-comply-with-sec-disclosure-rules)
 - [Whose Data Is It Anyway? Equitable Access in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/whose-data-is-it-anyway-equitable-access-in-cybersecurity)
+- [CISOs and Their Companies Struggle to Comply With SEC Disclosure Rules](https://www.darkreading.com/cybersecurity-operations/cisos-and-their-companies-struggle-to-comply-with-sec-disclosure-rules)
 - [Microsoft Has Yet to Patch 7 Pwn2Own Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-has-yet-to-patch-7-pwn2own-zero-days)
 - [Addressing the Cybersecurity Vendor Ecosystem Disconnect](https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect)
 - [Santander Falls Victim to Data Breach Involving Third-Party Provider](https://www.darkreading.com/cyberattacks-data-breaches/santander-falls-victim-to-data-breach-involving-third-party-provider)
