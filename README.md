@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Ways a Digital Shield Protects Apps and APIs](https://www.darkreading.com/cloud-security/10-ways-a-digital-shield-protects-apps-and-apis-in-a-distributed-cloud-world)
+- [SEC Adds New Incident Response Rules for Financial Sector](https://www.darkreading.com/cyber-risk/sec-adds-new-incident-response-rules-for-financial-sector)
 - [400K Linux Servers Recruited by Resurrected Ebury Botnet](https://www.darkreading.com/threat-intelligence/400k-linux-servers-recruited-by-resurrected-ebury-botnet)
 - [Whose Data Is It Anyway? Equitable Access in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/whose-data-is-it-anyway-equitable-access-in-cybersecurity)
 - [CISOs and Their Companies Struggle to Comply With SEC Disclosure Rules](https://www.darkreading.com/cybersecurity-operations/cisos-and-their-companies-struggle-to-comply-with-sec-disclosure-rules)
 - [Microsoft Has Yet to Patch 7 Pwn2Own Zero-Days](https://www.darkreading.com/vulnerabilities-threats/microsoft-has-yet-to-patch-7-pwn2own-zero-days)
 - [Addressing the Cybersecurity Vendor Ecosystem Disconnect](https://www.darkreading.com/endpoint-security/addressing-the-cybersecurity-vendor-ecosystem-disconnect)
 - [Santander Falls Victim to Data Breach Involving Third-Party Provider](https://www.darkreading.com/cyberattacks-data-breaches/santander-falls-victim-to-data-breach-involving-third-party-provider)
-- [Asian Threat Actors Use New Techniques to Attack Familiar Targets](https://www.darkreading.com/cyberattacks-data-breaches/asian-threat-actors-use-new-techniques-to-attack-familiar-targets)
-- [US AI Experts Targeted in SugarGh0st RAT Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-ai-experts-targeted-in-sugargh0st-rat-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
