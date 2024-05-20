@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Android Banking Trojan Antidot Disguised as Google Play Update](https://www.darkreading.com/endpoint-security/android-banking-trojan-antidot-disguised-as-google-play-update)
 - [CISO Corner: What Cyber Labor Shortage?; Trouble Meeting SEC Disclosure Deadlines](https://www.darkreading.com/cybersecurity-operations/ciso-corner-cyber-labor-shortage-trouble-meeting-sec-disclosure-deadlines)
 - [CISOs Grapple With IBM&amp;amp;apos;s Unexpected Cybersecurity Software Exit](https://www.darkreading.com/cybersecurity-analytics/ciso-grapple-with-ibm-unexpected-cybersecurity-software-exit)
 - [Intel Discloses Max Severity Bug in Its AI Model Compression Software](https://www.darkreading.com/cyber-risk/intel-discloses-max-severity-bug-in-its-ai-model-compression-software)
@@ -83,7 +84,6 @@
 - [SEC Adds New Incident Response Rules for Financial Sector](https://www.darkreading.com/cyber-risk/sec-adds-new-incident-response-rules-for-financial-sector)
 - [400K Linux Servers Recruited by Resurrected Ebury Botnet](https://www.darkreading.com/threat-intelligence/400k-linux-servers-recruited-by-resurrected-ebury-botnet)
 - [Whose Data Is It Anyway? Equitable Access in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/whose-data-is-it-anyway-equitable-access-in-cybersecurity)
-- [CISOs and Their Companies Struggle to Comply With SEC Disclosure Rules](https://www.darkreading.com/cybersecurity-operations/cisos-and-their-companies-struggle-to-comply-with-sec-disclosure-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
