@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ZeroRisk Cybersecurity Expands Global Presence With US Launch](https://www.darkreading.com/cyber-risk/zerorisk-cybersecurity-expands-global-presence-with-us-launch)
+- [NRECA Receives $4M in DOE Funding to Boost Electric Co-op Cybersecurity Preparedness](https://www.darkreading.com/ics-ot-security/nreca-receives-4m-in-doe-funding-to-boost-electric-co-op-cybersecurity-preparedness)
+- [Critical Bug Allows DoS, RCE, Data Leaks in All Major Cloud Platforms](https://www.darkreading.com/cloud-security/critical-bug-dos-rce-data-leaks-in-all-major-cloud-platforms)
+- [Students Spot Washing Machine App Flaw That Gives Out Free Cycles](https://www.darkreading.com/ics-ot-security/students-spot-washing-machine-app-flaw-that-gives-out-free-cycles)
 - [What American Enterprises Can Learn From Europe&amp;amp;apos;s GDPR Mistakes](https://www.darkreading.com/cyber-risk/what-american-enterprises-can-learn-from-europe-gdpr-mistakes)
 - [Android Banking Trojan Antidot Disguised as Google Play Update](https://www.darkreading.com/endpoint-security/android-banking-trojan-antidot-disguised-as-google-play-update)
 - [CISO Corner: What Cyber Labor Shortage?; Trouble Meeting SEC Disclosure Deadlines](https://www.darkreading.com/cybersecurity-operations/ciso-corner-cyber-labor-shortage-trouble-meeting-sec-disclosure-deadlines)
 - [CISOs Grapple With IBM&amp;amp;apos;s Unexpected Cybersecurity Software Exit](https://www.darkreading.com/cybersecurity-analytics/ciso-grapple-with-ibm-unexpected-cybersecurity-software-exit)
-- [Intel Discloses Max Severity Bug in Its AI Model Compression Software](https://www.darkreading.com/cyber-risk/intel-discloses-max-severity-bug-in-its-ai-model-compression-software)
-- [10 Ways a Digital Shield Protects Apps and APIs](https://www.darkreading.com/cloud-security/10-ways-a-digital-shield-protects-apps-and-apis-in-a-distributed-cloud-world)
-- [SEC Adds New Incident Response Rules for Financial Sector](https://www.darkreading.com/cyber-risk/sec-adds-new-incident-response-rules-for-financial-sector)
-- [400K Linux Servers Recruited by Resurrected Ebury Botnet](https://www.darkreading.com/threat-intelligence/400k-linux-servers-recruited-by-resurrected-ebury-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
