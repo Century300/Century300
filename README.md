@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
 - [Can Cybersecurity Be a Unifying Factor in Digital Trade Negotiations?](https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-)
 - [OpenSSF Siren to Share Threat Intelligence for Open Source Software](https://www.darkreading.com/application-security/openssf-siren-to-share-threat-intelligence-for-open-source-software)
 - [DoJ Shakes Up North Korea&amp;amp;apos;s Widespread IT Freelance Scam Operation](https://www.darkreading.com/vulnerabilities-threats/doj-targets-north-koreas-widespread-it-freelance-scam-operation)
@@ -83,7 +84,6 @@
 - [Transforming CISOs Into Storytellers](https://www.darkreading.com/cyber-risk/transforming-cisos-into-storytellers)
 - [CyberArk Picks Up Machine Identity Manager Venafi for $1.54B](https://www.darkreading.com/cloud-security/cyberark-picks-up-machine-id-manager-venafi-for-1-54b)
 - [HP Catches Cybercriminals &amp;amp;apos;Cat-Phishing&amp;amp;apos; Users](https://www.darkreading.com/vulnerabilities-threats/hp-catches-cybercriminals-cat-phishing-users)
-- [Data Breach Response Provider, CyEx, Acquires Settlement Administrator, Simpluris Inc.](https://www.darkreading.com/cyberattacks-data-breaches/data-breach-response-provider-cyex-acquires-settlement-administrator-simpluris-inc-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
