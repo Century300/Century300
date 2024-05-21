@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran APTs Tag Team Espionage, Wiper Attacks Against Israel &amp;amp;amp; Albania](https://www.darkreading.com/threat-intelligence/iran-apts-tag-team-espionage-wiper-attacks-against-israel-and-albania)
+- [YouTube Becomes Latest Battlefront for Phishing, Deepfakes](https://www.darkreading.com/vulnerabilities-threats/youtube-becomes-latest-frontier-for-phishing-deepfakes)
 - [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
 - [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
 - [Can Cybersecurity Be a Unifying Factor in Digital Trade Negotiations?](https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-)
 - [OpenSSF Siren to Share Threat Intelligence for Open Source Software](https://www.darkreading.com/application-security/openssf-siren-to-share-threat-intelligence-for-open-source-software)
 - [DoJ Shakes Up North Korea&amp;amp;apos;s Widespread IT Freelance Scam Operation](https://www.darkreading.com/vulnerabilities-threats/doj-targets-north-koreas-widespread-it-freelance-scam-operation)
-- [Google Pitches Workspace as Microsoft Email Alternative, Citing CSRB Report](https://www.darkreading.com/application-security/google-pitches-workspace-as-more-secure-option-to-microsoft-email-citing-csrb-report)
-- [Transforming CISOs Into Storytellers](https://www.darkreading.com/cyber-risk/transforming-cisos-into-storytellers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
