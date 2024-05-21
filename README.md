@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
 - [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
 - [Can Cybersecurity Be a Unifying Factor in Digital Trade Negotiations?](https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-)
@@ -83,7 +84,6 @@
 - [DoJ Shakes Up North Korea&amp;amp;apos;s Widespread IT Freelance Scam Operation](https://www.darkreading.com/vulnerabilities-threats/doj-targets-north-koreas-widespread-it-freelance-scam-operation)
 - [Google Pitches Workspace as Microsoft Email Alternative, Citing CSRB Report](https://www.darkreading.com/application-security/google-pitches-workspace-as-more-secure-option-to-microsoft-email-citing-csrb-report)
 - [Transforming CISOs Into Storytellers](https://www.darkreading.com/cyber-risk/transforming-cisos-into-storytellers)
-- [CyberArk Picks Up Machine Identity Manager Venafi for $1.54B](https://www.darkreading.com/cloud-security/cyberark-picks-up-machine-id-manager-venafi-for-1-54b)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
