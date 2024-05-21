@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Shakes Up North Korea&amp;amp;apos;s Widespread IT Freelance Scam Operation](https://www.darkreading.com/vulnerabilities-threats/doj-targets-north-koreas-widespread-it-freelance-scam-operation)
 - [Google Pitches Workspace as Microsoft Email Alternative, Citing CSRB Report](https://www.darkreading.com/application-security/google-pitches-workspace-as-more-secure-option-to-microsoft-email-citing-csrb-report)
 - [CyberArk Picks Up Machine Identity Manager Venafi For $1.54B](https://www.darkreading.com/cloud-security/cyberark-picks-up-machine-id-manager-venafi-for-1-54b)
 - [HP Catches Cybercriminals &amp;amp;apos;Cat-Phishing&amp;amp;apos; Users](https://www.darkreading.com/vulnerabilities-threats/hp-catches-cybercriminals-cat-phishing-users)
@@ -83,7 +84,6 @@
 - [Deepfakes Rank As the Second Most Common Cybersecurity Incident for US Businesses](https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-rank-as-the-second-most-common-cybersecurity-incident-for-us-businesses)
 - [ZeroRisk Cybersecurity Expands Global Presence With US Launch](https://www.darkreading.com/cyber-risk/zerorisk-cybersecurity-expands-global-presence-with-us-launch)
 - [NRECA Receives $4M in DOE Funding to Boost Electric Co-op Cybersecurity Preparedness](https://www.darkreading.com/ics-ot-security/nreca-receives-4m-in-doe-funding-to-boost-electric-co-op-cybersecurity-preparedness)
-- [Critical Bug Allows DoS, RCE, Data Leaks in All Major Cloud Platforms](https://www.darkreading.com/cloud-security/critical-bug-dos-rce-data-leaks-in-all-major-cloud-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
