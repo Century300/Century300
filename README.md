@@ -83,7 +83,7 @@
 - [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
 - [Picking the Right Database Tech for Cybersecurity Defense](https://www.darkreading.com/cybersecurity-analytics/picking-right-database-tech-cybersecurity-defense)
-- [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
+- [Outsourcing Security Without Increasing Risk](https://www.darkreading.com/cybersecurity-operations/outsourcing-security-without-increasing-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
