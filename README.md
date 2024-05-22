@@ -80,10 +80,10 @@
 - [YouTube Becomes Latest Battlefront for Phishing, Deepfakes](https://www.darkreading.com/vulnerabilities-threats/youtube-becomes-latest-frontier-for-phishing-deepfakes)
 - [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
+- [Picking the Right Database Tech for Cybersecurity Defense](https://www.darkreading.com/cybersecurity-analytics/picking-right-database-tech-cybersecurity-defense)
 - [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
 - [Can Cybersecurity Be a Unifying Factor in Digital Trade Negotiations?](https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-)
 - [OpenSSF Siren to Share Threat Intelligence for Open Source Software](https://www.darkreading.com/application-security/openssf-siren-to-share-threat-intelligence-for-open-source-software)
-- [DoJ Shakes Up North Korea&amp;amp;apos;s Widespread IT Freelance Scam Operation](https://www.darkreading.com/vulnerabilities-threats/doj-targets-north-koreas-widespread-it-freelance-scam-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
