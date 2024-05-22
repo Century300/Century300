@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Novel EDR-Killing &amp;amp;apos;GhostEngine&amp;amp;apos; Malware Is Built for Stealth](https://www.darkreading.com/cyberattacks-data-breaches/novel-edr-killing-ghostengine-malware-stealth)
 - [Preparing Your Organization for Upcoming Cybersecurity Deadlines](https://www.darkreading.com/cybersecurity-operations/preparing-your-organization-upcoming-cybersecurity-deadlines)
 - [Chinese &amp;amp;apos;ORB&amp;amp;apos; Networks Conceal APTs, Render Static IoCs Irrelevant](https://www.darkreading.com/cybersecurity-operations/chinese-orb-networks-conceal-apts-make-tracking-iocs-irrelevant)
 - [Critical Netflix Genie Bug Opens Big Data Orchestration to RCE](https://www.darkreading.com/application-security/netflix-fixes-critical-vulnerability-on-big-data-orchestration-service)
@@ -83,7 +84,6 @@
 - [SAGE Cyber Launches CISO Planning Tool](https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool)
 - [Iran APTs Tag Team Espionage, Wiper Attacks Against Israel &amp;amp;amp; Albania](https://www.darkreading.com/threat-intelligence/iran-apts-tag-team-espionage-wiper-attacks-against-israel-and-albania)
 - [YouTube Becomes Latest Battlefront for Phishing, Deepfakes](https://www.darkreading.com/vulnerabilities-threats/youtube-becomes-latest-frontier-for-phishing-deepfakes)
-- [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
