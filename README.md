@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [WitnessAI Launches With Guardrails for AI](https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai)
+- [SAGE Cyber Launches CISO Planning Tool](https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool)
 - [Iran APTs Tag Team Espionage, Wiper Attacks Against Israel &amp;amp;amp; Albania](https://www.darkreading.com/threat-intelligence/iran-apts-tag-team-espionage-wiper-attacks-against-israel-and-albania)
 - [YouTube Becomes Latest Battlefront for Phishing, Deepfakes](https://www.darkreading.com/vulnerabilities-threats/youtube-becomes-latest-frontier-for-phishing-deepfakes)
 - [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
 - [Picking the Right Database Tech for Cybersecurity Defense](https://www.darkreading.com/cybersecurity-analytics/picking-right-database-tech-cybersecurity-defense)
 - [Russia&amp;amp;apos;s Turla APT Abuses MSBuild to Deliver TinyTurla Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/russia-turla-apt-msbuild-tinyturla-backdoor)
-- [Can Cybersecurity Be a Unifying Factor in Digital Trade Negotiations?](https://www.darkreading.com/cybersecurity-operations/can-cybersecurity-be-unifying-factor-in-digital-trade-negotiations-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
