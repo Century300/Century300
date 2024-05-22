@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Netflix Genie Bug Opens Big Data Orchestration to RCE](https://www.darkreading.com/application-security/netflix-fixes-critical-vulnerability-on-big-data-orchestration-service)
 - [WitnessAI Launches With Guardrails for AI](https://www.darkreading.com/cloud-security/witnessai-launches-with-guardrails-for-ai)
 - [SAGE Cyber Launches CISO Planning Tool](https://www.darkreading.com/cybersecurity-operations/sage-cyber-launches-ciso-planning-tool)
 - [Iran APTs Tag Team Espionage, Wiper Attacks Against Israel &amp;amp;amp; Albania](https://www.darkreading.com/threat-intelligence/iran-apts-tag-team-espionage-wiper-attacks-against-israel-and-albania)
@@ -83,7 +84,6 @@
 - [EPA Puts Teeth Into Water Sector Cyber Efforts](https://www.darkreading.com/ics-ot-security/epa-water-sector-cyber-efforts)
 - [Name That Toon: Buzz Kill](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-buzz-kill)
 - [Picking the Right Database Tech for Cybersecurity Defense](https://www.darkreading.com/cybersecurity-analytics/picking-right-database-tech-cybersecurity-defense)
-- [Outsourcing Security Without Increasing Risk](https://www.darkreading.com/cybersecurity-operations/outsourcing-security-without-increasing-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
