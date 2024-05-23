@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Concentric AI to Unveil Data Security Remediation and Compliance Reporting Capabilities at Infosecurity Europe 2024](https://www.darkreading.com/application-security/concentric-ai-to-unveil-new-data-security-remediation-and-compliance-reporting-capabilities-at-infosecurity-europe-2024)
+- [Seizing Control of the Cloud Security Cockpit](https://www.darkreading.com/cloud-security/seizing-control-cloud-security-configuration-cockpit)
+- [SOCRadar Secures $25.2M in Funding to Combat Multibillion-Dollar Cybersecurity Threats](https://www.darkreading.com/cybersecurity-operations/socradar-secures-25-2m-in-funding-to-combat-multibillion-dollar-cyber-security-threats)
+- [Bugcrowd Acquires Informer to Enhance Attack Surface Management, Penetration Testing](https://www.darkreading.com/cyberattacks-data-breaches/bugcrowd-acquires-informer-to-enhance-attack-surface-management-penetration-testing)
 - [Courtroom Recording Platform JAVS Hijacked in Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/courtroom-recording-platform-javs-hijacked-for-supply-chain-attack)
 - [MIT Brothers Charged With Exploiting Ethereum to Steal $25 Million](https://www.darkreading.com/cyberattacks-data-breaches/mit-brothers-charged-with-exploiting-ethereum-to-steal-25-million-dollars)
 - [Stalkerware App With Security Bug Discovered on Hotel Systems](https://www.darkreading.com/cyber-risk/stalkerware-app-with-security-bug-discovered-on-hotel-systems)
 - [New Gift Card Scam Targets Retailers, Not Buyers, to Print Endless $$$](https://www.darkreading.com/threat-intelligence/new-gift-card-scam-targets-retailers-not-buyers-to-print-endless-money)
-- [New Mindset Needed for Large Language Models](https://www.darkreading.com/cybersecurity-operations/new-mindset-needed-for-large-language-models)
-- [Critical Flaw in Replicate AI Platform Exposes Proprietary Data](https://www.darkreading.com/cloud-security/critical-flaw-in-replicate-ai-platform-exposes-customer-models-proprietary-data)
-- [China APT Stole Geopolitical Secrets From Middle East, Africa &amp;amp;amp; Asia](https://www.darkreading.com/threat-intelligence/china-apt-stole-geopolitical-secrets-from-middle-east-africa-and-asia)
-- [Persistent Burnout Is Still a Crisis in Cybersecurity](https://www.darkreading.com/cybersecurity-careers/persistent-burnout-is-still-a-crisis-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
