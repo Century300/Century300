@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China APT Stole Geopolitical Secrets From Middle East, Africa &amp;amp;amp; Asia](https://www.darkreading.com/threat-intelligence/china-apt-stole-geopolitical-secrets-from-middle-east-africa-and-asia)
 - [US Pumps $50M Into Better Healthcare Cyber Resilience](https://www.darkreading.com/cybersecurity-operations/us-pumps-50m-into-better-healthcare-cyber-resilience)
 - [GitHub Authentication Bypass Opens Enterprise Server to Attackers](https://www.darkreading.com/vulnerabilities-threats/github-authentication-bypass-opens-enterprise-server-attackers)
 - [Trends at the 2024 RSA Startup Competition](https://www.darkreading.com/vulnerabilities-threats/trends-at-2024-rsa-startup-competition)
@@ -83,7 +84,6 @@
 - [Novel EDR-Killing &amp;amp;apos;GhostEngine&amp;amp;apos; Malware Is Built for Stealth](https://www.darkreading.com/cyberattacks-data-breaches/novel-edr-killing-ghostengine-malware-stealth)
 - [Chinese &amp;amp;apos;ORB&amp;amp;apos; Networks Conceal APTs, Render Static IoCs Irrelevant](https://www.darkreading.com/cybersecurity-operations/chinese-orb-networks-conceal-apts-make-tracking-iocs-irrelevant)
 - [Preparing Your Organization for Upcoming Cybersecurity Deadlines](https://www.darkreading.com/cybersecurity-operations/preparing-your-organization-upcoming-cybersecurity-deadlines)
-- [Critical Netflix Genie Bug Opens Big Data Orchestration to RCE](https://www.darkreading.com/application-security/netflix-fixes-critical-vulnerability-on-big-data-orchestration-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
