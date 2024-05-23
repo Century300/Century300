@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Gift Card Scam Targets Retailers, Not Buyers, to Print Endless $$$](https://www.darkreading.com/threat-intelligence/new-gift-card-scam-targets-retailers-not-buyers-to-print-endless-money)
 - [New Mindset Needed for Large Language Models](https://www.darkreading.com/cybersecurity-operations/new-mindset-needed-for-large-language-models)
 - [Critical Flaw in Replicate AI Platform Exposes Proprietary Data](https://www.darkreading.com/cloud-security/critical-flaw-in-replicate-ai-platform-exposes-customer-models-proprietary-data)
 - [China APT Stole Geopolitical Secrets From Middle East, Africa &amp;amp;amp; Asia](https://www.darkreading.com/threat-intelligence/china-apt-stole-geopolitical-secrets-from-middle-east-africa-and-asia)
@@ -83,7 +84,6 @@
 - [US Pumps $50M Into Better Healthcare Cyber Resilience](https://www.darkreading.com/cybersecurity-operations/us-pumps-50m-into-better-healthcare-cyber-resilience)
 - [GitHub Authentication Bypass Opens Enterprise Server to Attackers](https://www.darkreading.com/vulnerabilities-threats/github-authentication-bypass-opens-enterprise-server-attackers)
 - [Trends at the 2024 RSA Startup Competition](https://www.darkreading.com/vulnerabilities-threats/trends-at-2024-rsa-startup-competition)
-- [Snowflake&amp;amp;apos;s Anvilogic Investment Signals Changes in SIEM Market](https://www.darkreading.com/cybersecurity-analytics/snowflake-anvilogic-investment-sign-of-changes-siem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
