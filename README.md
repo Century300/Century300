@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When &#39;No&#39; &amp;amp; &#39;Good Enough&#39; Challenge Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/when-no-and-good-enough-challenge-cybersecurity)
+- [The SEC&#39;s SolarWinds Case: What CISOs Should Do Now](https://www.darkreading.com/cyber-risk/the-sec-solarwinds-case-what-ciso-should-do-now)
 - [Future-Proof Your Cybersecurity AI Strategy](https://www.darkreading.com/cybersecurity-operations/future-proof-your-cybersecurity-ai-strategy)
-- [CyberArk Goes All In on Machine Identity with Venafi Deal](https://www.darkreading.com/identity-access-management-security/cyberark-goes-all-in-on-machine-identity-with-venafi-deal)
+- [CyberArk Goes All In on Machine Identity With Venafi Deal](https://www.darkreading.com/identity-access-management-security/cyberark-goes-all-in-on-machine-identity-with-venafi-deal)
 - [Concentric AI to Unveil Data Security Remediation and Compliance Reporting Capabilities at Infosecurity Europe 2024](https://www.darkreading.com/application-security/concentric-ai-to-unveil-new-data-security-remediation-and-compliance-reporting-capabilities-at-infosecurity-europe-2024)
 - [Seizing Control of the Cloud Security Cockpit](https://www.darkreading.com/cloud-security/seizing-control-cloud-security-configuration-cockpit)
 - [SOCRadar Secures $25.2M in Funding to Combat Multibillion-Dollar Cybersecurity Threats](https://www.darkreading.com/cybersecurity-operations/socradar-secures-25-2m-in-funding-to-combat-multibillion-dollar-cyber-security-threats)
 - [Bugcrowd Acquires Informer to Enhance Attack Surface Management, Penetration Testing](https://www.darkreading.com/cyberattacks-data-breaches/bugcrowd-acquires-informer-to-enhance-attack-surface-management-penetration-testing)
-- [Courtroom Recording Platform JAVS Hijacked in Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/courtroom-recording-platform-javs-hijacked-for-supply-chain-attack)
-- [MIT Brothers Charged With Exploiting Ethereum to Steal $25 Million](https://www.darkreading.com/cyberattacks-data-breaches/mit-brothers-charged-with-exploiting-ethereum-to-steal-25-million-dollars)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
