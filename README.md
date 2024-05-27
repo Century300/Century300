@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 Facts About How Interpol Fights Cybercrime](https://www.darkreading.com/cyberattacks-data-breaches/5-facts-about-how-interpol-fights-cybercrime)
 - [Microsoft&#39;s &#39;Recall&#39; Feature Draws Criticism From Privacy Advocates](https://www.darkreading.com/data-privacy/microsofts-recall-feature-draws-criticism-from-privacy-advocates)
 - [Research From Claroty&#39;s Team82 Highlights Remote Access Risks Facing Mission-Critical OT Assets](https://www.darkreading.com/ics-ot-security/research-from-claroty-s-team82-highlights-remote-access-risks-facing-mission-critical-ot-assets)
 - [AI Voice Generator App Used to Drop Gipy Malware](https://www.darkreading.com/threat-intelligence/ai-voice-generator-used-to-drop-gipy-malware)
@@ -83,7 +84,6 @@
 - [When &#39;No&#39; &amp;amp; &#39;Good Enough&#39; Challenge Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/when-no-and-good-enough-challenge-cybersecurity)
 - [The SEC&#39;s SolarWinds Case: What CISOs Should Do Now](https://www.darkreading.com/cyber-risk/the-sec-solarwinds-case-what-ciso-should-do-now)
 - [Future-Proof Your Cybersecurity AI Strategy](https://www.darkreading.com/cybersecurity-operations/future-proof-your-cybersecurity-ai-strategy)
-- [CyberArk Goes All In on Machine Identity With Venafi Deal](https://www.darkreading.com/identity-access-management-security/cyberark-goes-all-in-on-machine-identity-with-venafi-deal)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
