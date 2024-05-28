@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CatDDOS Threat Groups Sharply Ramp Up DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/catddos-threat-groups-sharply-ramp-up-ddos-attacks)
 - [Attackers Target Check Point VPNs to Access Corporate Networks](https://www.darkreading.com/threat-intelligence/attackers-target-check-point-vpns-access-corporate-networks)
 - [OpenAI Forms Another Safety Committee After Dismantling Prior Team](https://www.darkreading.com/cybersecurity-operations/openai-forms-another-safety-committee-after-dismantling-prior-team)
 - [90+ Malicious Apps Totaling 5.5M Downloads Lurk on Google Play](https://www.darkreading.com/endpoint-security/90-malicious-apps-55-million-downloads-google-play)
@@ -83,7 +84,6 @@
 - [Looking to Leverage Generative AI? Prep for Success With These 4 Tips](https://www.darkreading.com/vulnerabilities-threats/looking-to-leverage-generative-ai-prep-for-success-with-these-4-tips)
 - [6 Facts About How Interpol Fights Cybercrime](https://www.darkreading.com/cyberattacks-data-breaches/5-facts-about-how-interpol-fights-cybercrime)
 - [Microsoft&#39;s &#39;Recall&#39; Feature Draws Criticism From Privacy Advocates](https://www.darkreading.com/data-privacy/microsofts-recall-feature-draws-criticism-from-privacy-advocates)
-- [Research From Claroty&#39;s Team82 Highlights Remote Access Risks Facing Mission-Critical OT Assets](https://www.darkreading.com/ics-ot-security/research-from-claroty-s-team82-highlights-remote-access-risks-facing-mission-critical-ot-assets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
