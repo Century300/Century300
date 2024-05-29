@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Digital Twin Technology Can Improve Water Utility Management, Says Info-Tech Research Group](https://www.darkreading.com/ics-ot-security/digital-twin-technology-can-improve-water-utility-management-says-info-tech-research-group)
+- [NRECA Signs MOU With Electricity Information Sharing and Analysis Center](https://www.darkreading.com/ics-ot-security/nreca-signs-mou-with-electricity-information-sharing-and-analysis-center)
+- [BforeAI Launches PreCrime™ Guarantee Program for Seamless Cyber Risk Coverage](https://www.darkreading.com/cyber-risk/bforeai-launches-precrime-guarantee-program-for-seamless-cyber-risk-coverage)
+- [Microsoft: &#39;Moonstone Sleet&#39; APT Melds Espionage, Financial Goals](https://www.darkreading.com/threat-intelligence/microsoft-moonlight-sleet-apt-melds-espionage-financial-goals)
 - [Mastermind Behind Biden AI Deepfake Indicted for Robocall Scheme](https://www.darkreading.com/cyber-risk/mastermind-behind-biden-ai-deepfake-indicted-for-robocall-scheme)
 - [Exploit for Fortinet Critical RCE Bug Allows SIEM Root Access](https://www.darkreading.com/vulnerabilities-threats/exploit-fortinet-critical-rce-bug-siem-root-access)
 - [BlackSuit Claims Dozens of Victims With Carefully Curated Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/blacksuit-dozens-victims-curated-ransomware)
 - [Why CVEs Are an Incentives Problem](https://www.darkreading.com/vulnerabilities-threats/why-cves-are-an-incentives-problem)
-- [Pakistani &#39;Transparent Tribe&#39; APT Aims for Cross-Platform Impact](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-transparent-tribe-apt-aims-for-cross-platform-impact)
-- [CatDDOS Threat Groups Sharply Ramp Up DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/catddos-threat-groups-sharply-ramp-up-ddos-attacks)
-- [Making the Case for &#39;Reasonable&#39; Cybersecurity](https://www.darkreading.com/cyber-risk/making-the-case-for-reasonable-cybersecurity)
-- [Attackers Target Check Point VPNs to Access Corporate Networks](https://www.darkreading.com/threat-intelligence/attackers-target-check-point-vpns-access-corporate-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
