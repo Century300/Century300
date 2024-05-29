@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mastermind Behind Biden AI Deepfake Indicted for Robocall Scheme](https://www.darkreading.com/cyber-risk/mastermind-behind-biden-ai-deepfake-indicted-for-robocall-scheme)
 - [Exploit for Fortinet Critical RCE Bug Allows SIEM Root Access](https://www.darkreading.com/vulnerabilities-threats/exploit-fortinet-critical-rce-bug-siem-root-access)
 - [BlackSuit Claims Dozens of Victims With Carefully Curated Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/blacksuit-dozens-victims-curated-ransomware)
 - [Why CVEs Are an Incentives Problem](https://www.darkreading.com/vulnerabilities-threats/why-cves-are-an-incentives-problem)
@@ -83,7 +84,6 @@
 - [CatDDOS Threat Groups Sharply Ramp Up DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/catddos-threat-groups-sharply-ramp-up-ddos-attacks)
 - [Making the Case for &#39;Reasonable&#39; Cybersecurity](https://www.darkreading.com/cyber-risk/making-the-case-for-reasonable-cybersecurity)
 - [Attackers Target Check Point VPNs to Access Corporate Networks](https://www.darkreading.com/threat-intelligence/attackers-target-check-point-vpns-access-corporate-networks)
-- [OpenAI Forms Another Safety Committee After Dismantling Prior Team](https://www.darkreading.com/cybersecurity-operations/openai-forms-another-safety-committee-after-dismantling-prior-team)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
