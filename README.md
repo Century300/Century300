@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Leak Site BreachForums Springs Back to Life Weeks After FBI Takedown](https://www.darkreading.com/cyberattacks-data-breaches/leak-site-breachforums-springs-back-to-life-weeks-after-fbi-takedown)
+- [VicOne Partners With 42Crunch to Deliver Comprehensive Security Across SDV and Connected-Vehicle Ecosystem](https://www.darkreading.com/application-security/vicone-partners-with-42crunch-to-deliver-uniquely-comprehensive-security-across-sdv-and-connected-vehicle-ecosystem)
 - [Digital Twin Technology Can Improve Water Utility Management, Says Info-Tech Research Group](https://www.darkreading.com/ics-ot-security/digital-twin-technology-can-improve-water-utility-management-says-info-tech-research-group)
 - [NRECA Signs MOU With Electricity Information Sharing and Analysis Center](https://www.darkreading.com/ics-ot-security/nreca-signs-mou-with-electricity-information-sharing-and-analysis-center)
 - [BforeAI Launches PreCrime™ Guarantee Program for Seamless Cyber Risk Coverage](https://www.darkreading.com/cyber-risk/bforeai-launches-precrime-guarantee-program-for-seamless-cyber-risk-coverage)
 - [Microsoft: &#39;Moonstone Sleet&#39; APT Melds Espionage, Financial Goals](https://www.darkreading.com/threat-intelligence/microsoft-moonlight-sleet-apt-melds-espionage-financial-goals)
 - [Mastermind Behind Biden AI Deepfake Indicted for Robocall Scheme](https://www.darkreading.com/cyber-risk/mastermind-behind-biden-ai-deepfake-indicted-for-robocall-scheme)
 - [Exploit for Fortinet Critical RCE Bug Allows SIEM Root Access](https://www.darkreading.com/vulnerabilities-threats/exploit-fortinet-critical-rce-bug-siem-root-access)
-- [BlackSuit Claims Dozens of Victims With Carefully Curated Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/blacksuit-dozens-victims-curated-ransomware)
-- [Why CVEs Are an Incentives Problem](https://www.darkreading.com/vulnerabilities-threats/why-cves-are-an-incentives-problem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
