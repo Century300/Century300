@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Exploit for Fortinet Critical RCE Bug Allows SIEM Root Access](https://www.darkreading.com/vulnerabilities-threats/exploit-fortinet-critical-rce-bug-siem-root-access)
 - [BlackSuit Claims Dozens of Victims With Carefully Curated Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/blacksuit-dozens-victims-curated-ransomware)
 - [Why CVEs Are an Incentives Problem](https://www.darkreading.com/vulnerabilities-threats/why-cves-are-an-incentives-problem)
 - [Pakistani &#39;Transparent Tribe&#39; APT Aims for Cross-Platform Impact](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-transparent-tribe-apt-aims-for-cross-platform-impact)
@@ -83,7 +84,6 @@
 - [Making the Case for &#39;Reasonable&#39; Cybersecurity](https://www.darkreading.com/cyber-risk/making-the-case-for-reasonable-cybersecurity)
 - [Attackers Target Check Point VPNs to Access Corporate Networks](https://www.darkreading.com/threat-intelligence/attackers-target-check-point-vpns-access-corporate-networks)
 - [OpenAI Forms Another Safety Committee After Dismantling Prior Team](https://www.darkreading.com/cybersecurity-operations/openai-forms-another-safety-committee-after-dismantling-prior-team)
-- [90+ Malicious Apps Totaling 5.5M Downloads Lurk on Google Play](https://www.darkreading.com/endpoint-security/90-malicious-apps-55-million-downloads-google-play)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
