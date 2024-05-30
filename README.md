@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Flawed AI Tools Create Worries for Private LLMs, Chatbots](https://www.darkreading.com/application-security/flawed-ai-tools-create-worries-for-private-llms-chatbots)
 - [Okta Warns Once Again of Credential-Stuffing Attacks](https://www.darkreading.com/cyberattacks-data-breaches/okta-warns-once-again-of-credential-stuffing-attacks)
 - [An Argument for Coordinated Disclosure of New Exploits](https://www.darkreading.com/vulnerabilities-threats/argument-for-coordinated-disclosure-of-new-exploits)
 - [Shady &#39;Merry-Go-Round&#39; Ad Fraud Network Leaves Orgs Hemorrhaging Cash](https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash)
@@ -83,7 +84,6 @@
 - [9 Tips to Avoid Burnout in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/9-tips-to-avoid-burnout-in-cybersecurity)
 - [Leak Site BreachForums Springs Back to Life Weeks After FBI Takedown](https://www.darkreading.com/cyberattacks-data-breaches/leak-site-breachforums-springs-back-to-life-weeks-after-fbi-takedown)
 - [VicOne Partners With 42Crunch to Deliver Comprehensive Security Across SDV and Connected-Vehicle Ecosystem](https://www.darkreading.com/application-security/vicone-partners-with-42crunch-to-deliver-uniquely-comprehensive-security-across-sdv-and-connected-vehicle-ecosystem)
-- [Digital Twin Technology Can Improve Water Utility Management, Says Info-Tech Research Group](https://www.darkreading.com/ics-ot-security/digital-twin-technology-can-improve-water-utility-management-says-info-tech-research-group)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
