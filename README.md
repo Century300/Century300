@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FlyingYeti APT Serves Up Cookbox Malware Using WinRAR](https://www.darkreading.com/cyberattacks-data-breaches/flyingyeti-apt-cookbox-malware-winrar)
 - [Data Privacy in the Age of GenAI](https://www.darkreading.com/cyber-risk/data-privacy-age-of-genai)
 - [Cops Swarm Global Cybercrime Botnet Infrastructure in 2 Massive Ops](https://www.darkreading.com/cyberattacks-data-breaches/cops-swarm-global-botnet-cybercrime-infrastructure-in-two-massive-ops)
 - [Flawed AI Tools Create Worries for Private LLMs, Chatbots](https://www.darkreading.com/application-security/flawed-ai-tools-create-worries-for-private-llms-chatbots)
@@ -83,7 +84,6 @@
 - [An Argument for Coordinated Disclosure of New Exploits](https://www.darkreading.com/vulnerabilities-threats/argument-for-coordinated-disclosure-of-new-exploits)
 - [Shady &#39;Merry-Go-Round&#39; Ad Fraud Network Leaves Orgs Hemorrhaging Cash](https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash)
 - [4 Security Questions to Ask Your Enterprise Generative AI Provider](https://www.darkreading.com/cybersecurity-operations/four-security-questions-to-ask-your-enterprise-generative-ai-provider)
-- [9 Tips to Avoid Burnout in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/9-tips-to-avoid-burnout-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
