@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Data Privacy in the Age of GenAI](https://www.darkreading.com/cyber-risk/data-privacy-age-of-genai)
 - [Cops Swarm Global Cybercrime Botnet Infrastructure in 2 Massive Ops](https://www.darkreading.com/cyberattacks-data-breaches/cops-swarm-global-botnet-cybercrime-infrastructure-in-two-massive-ops)
 - [Flawed AI Tools Create Worries for Private LLMs, Chatbots](https://www.darkreading.com/application-security/flawed-ai-tools-create-worries-for-private-llms-chatbots)
 - [Okta Warns Once Again of Credential-Stuffing Attacks](https://www.darkreading.com/cyberattacks-data-breaches/okta-warns-once-again-of-credential-stuffing-attacks)
@@ -83,7 +84,6 @@
 - [Shady &#39;Merry-Go-Round&#39; Ad Fraud Network Leaves Orgs Hemorrhaging Cash](https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash)
 - [4 Security Questions to Ask Your Enterprise Generative AI Provider](https://www.darkreading.com/cybersecurity-operations/four-security-questions-to-ask-your-enterprise-generative-ai-provider)
 - [9 Tips to Avoid Burnout in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/9-tips-to-avoid-burnout-in-cybersecurity)
-- [Leak Site BreachForums Springs Back to Life Weeks After FBI Takedown](https://www.darkreading.com/cyberattacks-data-breaches/leak-site-breachforums-springs-back-to-life-weeks-after-fbi-takedown)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
