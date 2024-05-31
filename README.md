@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BBC Breach Puts 25K Pension Scheme Members at Risk](https://www.darkreading.com/cyberattacks-data-breaches/bbc-breach-puts-25k-pension-scheme-members-at-risk)
 - [OpenAI Disrupts 5 AI-Powered, State-Backed Influence Ops](https://www.darkreading.com/threat-intelligence/openai-disrupts-5-ai-powered-state-backed-influence-ops)
 - [FlyingYeti APT Serves Up Cookbox Malware Using WinRAR](https://www.darkreading.com/cyberattacks-data-breaches/flyingyeti-apt-cookbox-malware-winrar)
 - [Data Privacy in the Age of GenAI](https://www.darkreading.com/cyber-risk/data-privacy-age-of-genai)
@@ -83,7 +84,6 @@
 - [Flawed AI Tools Create Worries for Private LLMs, Chatbots](https://www.darkreading.com/application-security/flawed-ai-tools-create-worries-for-private-llms-chatbots)
 - [Okta Warns Once Again of Credential-Stuffing Attacks](https://www.darkreading.com/cyberattacks-data-breaches/okta-warns-once-again-of-credential-stuffing-attacks)
 - [An Argument for Coordinated Disclosure of New Exploits](https://www.darkreading.com/vulnerabilities-threats/argument-for-coordinated-disclosure-of-new-exploits)
-- [Shady &#39;Merry-Go-Round&#39; Ad Fraud Network Leaves Orgs Hemorrhaging Cash](https://www.darkreading.com/threat-intelligence/shady-merry-go-round-ad-fraud-network-orgs-hemorrhaging-cash)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
