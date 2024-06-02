@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lawyers Ask Forensics Investigators for Help Outside Cybersecurity](https://www.darkreading.com/endpoint-security/lawyers-forensics-investigators-help-outside-cybersecurity)
 - [LilacSquid APT Employs Open Source Tools, QuasarRAT](https://www.darkreading.com/cyberattacks-data-breaches/lilacsquid-apt-employs-open-source-tools-quasarrat)
 - [CISO Corner: Federal Cyber Deadlines Loom; Private Chatbot Danger](https://www.darkreading.com/cybersecurity-operations/ciso-corner-federal-cyber-deadlines-loom-private-chatbot-danger)
 - [BBC Breach Puts 25K Pension Scheme Members at Risk](https://www.darkreading.com/cyberattacks-data-breaches/bbc-breach-puts-25k-pension-scheme-members-at-risk)
@@ -83,7 +84,6 @@
 - [FlyingYeti APT Serves Up Cookbox Malware Using WinRAR](https://www.darkreading.com/cyberattacks-data-breaches/flyingyeti-apt-cookbox-malware-winrar)
 - [Data Privacy in the Age of GenAI](https://www.darkreading.com/cyber-risk/data-privacy-age-of-genai)
 - [Cops Swarm Global Cybercrime Botnet Infrastructure in 2 Massive Ops](https://www.darkreading.com/cyberattacks-data-breaches/cops-swarm-global-botnet-cybercrime-infrastructure-in-two-massive-ops)
-- [Flawed AI Tools Create Worries for Private LLMs, Chatbots](https://www.darkreading.com/application-security/flawed-ai-tools-create-worries-for-private-llms-chatbots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
