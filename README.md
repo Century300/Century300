@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA&#39;s Secure by Design Initiative at 1: A Report Card](https://www.darkreading.com/vulnerabilities-threats/cisas-secure-by-design-initiative-at-1-report-card)
 - [As Allies, Kenya &amp;amp; US Aim to Bolster Digital Security in Africa](https://www.darkreading.com/cybersecurity-operations/allies-kenya-us-bolster-digital-security-africa)
 - [Lawyers Ask Forensics Investigators for Help Outside Cybersecurity](https://www.darkreading.com/endpoint-security/lawyers-forensics-investigators-help-outside-cybersecurity)
 - [LilacSquid APT Employs Open Source Tools, QuasarRAT](https://www.darkreading.com/cyberattacks-data-breaches/lilacsquid-apt-employs-open-source-tools-quasarrat)
@@ -83,7 +84,6 @@
 - [BBC Breach Puts 25K Pension Scheme Members at Risk](https://www.darkreading.com/cyberattacks-data-breaches/bbc-breach-puts-25k-pension-scheme-members-at-risk)
 - [OpenAI Disrupts 5 AI-Powered, State-Backed Influence Ops](https://www.darkreading.com/threat-intelligence/openai-disrupts-5-ai-powered-state-backed-influence-ops)
 - [FlyingYeti APT Serves Up Cookbox Malware Using WinRAR](https://www.darkreading.com/cyberattacks-data-breaches/flyingyeti-apt-cookbox-malware-winrar)
-- [Data Privacy in the Age of GenAI](https://www.darkreading.com/cyber-risk/data-privacy-age-of-genai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
