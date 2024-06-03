@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ticketmaster Confirms Cloud Breach, Amid Murky Details](https://www.darkreading.com/cyberattacks-data-breaches/ticketmaster-confirms-cloud-breach-murky-details)
 - [Name That Edge Toon: Zonked Out](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-zonked-out)
 - [CISA&#39;s Secure by Design Initiative at 1: A Report Card](https://www.darkreading.com/vulnerabilities-threats/cisas-secure-by-design-initiative-at-1-report-card)
 - [As Allies, Kenya &amp;amp; US Aim to Bolster Digital Security in Africa](https://www.darkreading.com/cybersecurity-operations/allies-kenya-us-bolster-digital-security-africa)
@@ -83,7 +84,6 @@
 - [LilacSquid APT Employs Open Source Tools, QuasarRAT](https://www.darkreading.com/cyberattacks-data-breaches/lilacsquid-apt-employs-open-source-tools-quasarrat)
 - [CISO Corner: Federal Cyber Deadlines Loom; Private Chatbot Danger](https://www.darkreading.com/cybersecurity-operations/ciso-corner-federal-cyber-deadlines-loom-private-chatbot-danger)
 - [BBC Breach Puts 25K Pension Scheme Members at Risk](https://www.darkreading.com/cyberattacks-data-breaches/bbc-breach-puts-25k-pension-scheme-members-at-risk)
-- [OpenAI Disrupts 5 AI-Powered, State-Backed Influence Ops](https://www.darkreading.com/threat-intelligence/openai-disrupts-5-ai-powered-state-backed-influence-ops)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
