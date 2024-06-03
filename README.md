@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ways iOS Sideloading Can Be More Secure](https://www.darkreading.com/mobile-security/ways-apple-ios-sideloading-can-be-more-secure)
+- [Ockam and Redpanda Partner to Launch Zero-Trust Streaming Data Platform](https://www.darkreading.com/cloud-security/ockam-and-redpanda-partner-to-launch-zero-trust-streaming-data-platform)
 - [Portkey Announces Integration of Zero-Knowledge Proofs for Enhanced Identity Management and Security](https://www.darkreading.com/cybersecurity-operations/portkey-announces-integration-of-zero-knowledge-proofs-for-enhanced-identity-management-and-security)
+- [Atlassian Confluence High-Severity Bug Allows Code Execution](https://www.darkreading.com/vulnerabilities-threats/atlassian-confluence-high-severity-bug-allows-code-execution)
 - [Russia Aims Cyber Operations at Summer Olympics](https://www.darkreading.com/threat-intelligence/russia-cyber-operations-summer-olympics)
 - [Europol&#39;s Hunt Begins for Emotet Malware Mastermind](https://www.darkreading.com/cybersecurity-operations/europols-hunt-begins-for-emotet-malware-mastermind)
 - [Ticketmaster Confirms Cloud Breach, Amid Murky Details](https://www.darkreading.com/cyberattacks-data-breaches/ticketmaster-confirms-cloud-breach-murky-details)
 - [Name That Edge Toon: Zonked Out](https://www.darkreading.com/cybersecurity-operations/name-that-edge-toon-zonked-out)
-- [CISA&#39;s Secure by Design Initiative at 1: A Report Card](https://www.darkreading.com/vulnerabilities-threats/cisas-secure-by-design-initiative-at-1-report-card)
-- [As Allies, Kenya &amp;amp; US Aim to Bolster Digital Security in Africa](https://www.darkreading.com/cybersecurity-operations/allies-kenya-us-bolster-digital-security-africa)
-- [Lawyers Ask Forensics Investigators for Help Outside Cybersecurity](https://www.darkreading.com/endpoint-security/lawyers-forensics-investigators-help-outside-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
