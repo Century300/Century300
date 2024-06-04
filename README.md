@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukrainian Systems Hit by Cobalt Strike Via a Malicious Excel File](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-systems-hit-by-cobalt-strike-via-a-malicious-excel-file)
 - [&#39;Fog&#39; Ransomware Rolls in to Target Education, Recreation Sectors](https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors)
 - [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
 - [Cox Biz Auth-Bypass Bug Exposes Millions of Devices to Takeover](https://www.darkreading.com/application-security/cox-biz-auth-bypass-bug-millions-devices-takeover)
@@ -83,7 +84,6 @@
 - [ISC2 Provides Opportunity for Employers to Connect With Cybersecurity Job Seekers](https://www.darkreading.com/cybersecurity-operations/isc2-provides-opportunity-for-employers-to-connect-with-cybersecurity-job-seekers)
 - [NIST Commits to Plan to Resume NVD Work](https://www.darkreading.com/vulnerabilities-threats/nist-commits-to-plan-resume-nvd-work)
 - [Ways iOS Sideloading Can Be More Secure](https://www.darkreading.com/mobile-security/ways-apple-ios-sideloading-can-be-more-secure)
-- [KnowBe4 and MobileMind Collaborate to Provide Cybersecurity Training for K12 School Districts](https://www.darkreading.com/cybersecurity-operations/knowbe4-and-mobilemind-collaborate-to-provide-cybersecurity-training-for-k12-school-districts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
