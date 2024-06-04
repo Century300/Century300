@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
 - [Cox Biz Auth-Bypass Bug Exposes Millions of Devices to Takeover](https://www.darkreading.com/application-security/cox-biz-auth-bypass-bug-millions-devices-takeover)
 - [Perfecting the Proactive Security Playbook](https://www.darkreading.com/vulnerabilities-threats/perfecting-proactive-security-playbook)
 - [ISC2 Provides Opportunity for Employers to Connect With Cybersecurity Job Seekers](https://www.darkreading.com/cybersecurity-operations/isc2-provides-opportunity-for-employers-to-connect-with-cybersecurity-job-seekers)
@@ -83,7 +84,6 @@
 - [Ways iOS Sideloading Can Be More Secure](https://www.darkreading.com/mobile-security/ways-apple-ios-sideloading-can-be-more-secure)
 - [KnowBe4 and MobileMind Collaborate to Provide Cybersecurity Training for K12 School Districts](https://www.darkreading.com/cybersecurity-operations/knowbe4-and-mobilemind-collaborate-to-provide-cybersecurity-training-for-k12-school-districts)
 - [Ockam and Redpanda Partner to Launch Zero-Trust Streaming Data Platform](https://www.darkreading.com/cloud-security/ockam-and-redpanda-partner-to-launch-zero-trust-streaming-data-platform)
-- [Portkey Announces Integration of Zero-Knowledge Proofs for Enhanced Identity Management and Security](https://www.darkreading.com/cybersecurity-operations/portkey-announces-integration-of-zero-knowledge-proofs-for-enhanced-identity-management-and-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
