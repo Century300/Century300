@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Attack Disrupts Operations Across London Hospitals](https://www.darkreading.com/cyberattacks-data-breaches/synnovis-ransomware-attack-disrupts-operations-london-hospitals)
 - [Remote Work&#39;s Hidden Dangers](https://www.darkreading.com/endpoint-security/remote-works-hidden-dangers)
 - [Chinese Threat Clusters Triple-Team High-Profile Asia Government Org](https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org)
 - [Africa Ranks Low on Phishing Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience)
@@ -83,7 +84,6 @@
 - [&#39;Fog&#39; Ransomware Rolls in to Target Education, Recreation Sectors](https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors)
 - [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
 - [Cox Biz Auth-Bypass Bug Exposes Millions of Devices to Takeover](https://www.darkreading.com/application-security/cox-biz-auth-bypass-bug-millions-devices-takeover)
-- [Perfecting the Proactive Security Playbook](https://www.darkreading.com/vulnerabilities-threats/perfecting-proactive-security-playbook)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
