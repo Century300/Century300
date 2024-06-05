@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Africa Ranks Low on Phishing Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience)
 - [Ukrainian Systems Hit by Cobalt Strike Via a Malicious Excel File](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-systems-hit-by-cobalt-strike-via-a-malicious-excel-file)
 - [&#39;Fog&#39; Ransomware Rolls in to Target Education, Recreation Sectors](https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors)
 - [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
@@ -83,7 +84,6 @@
 - [Perfecting the Proactive Security Playbook](https://www.darkreading.com/vulnerabilities-threats/perfecting-proactive-security-playbook)
 - [ISC2 Provides Opportunity for Employers to Connect With Cybersecurity Job Seekers](https://www.darkreading.com/cybersecurity-operations/isc2-provides-opportunity-for-employers-to-connect-with-cybersecurity-job-seekers)
 - [NIST Commits to Plan to Resume NVD Work](https://www.darkreading.com/vulnerabilities-threats/nist-commits-to-plan-resume-nvd-work)
-- [Ways iOS Sideloading Can Be More Secure](https://www.darkreading.com/mobile-security/ways-apple-ios-sideloading-can-be-more-secure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
