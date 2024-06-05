@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Security Alliance Survey Finds 70% of Organizations Have Established Dedicated SaaS Security Teams](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-finds-70-of-organizations-have-established-dedicated-saas-security-teams)
+- [EV Manufacturer BYD Selects Karamba Security to Meet Global Automotive Cybersecurity Regulations](https://www.darkreading.com/ics-ot-security/leading-ev-manufacturer-byd-selects-karamba-security-to-meet-global-automotive-cybersecurity-regulations)
+- [Notable Capital Launches Rising in Cyber to Spotlight Promising Cybersecurity Startups](https://www.darkreading.com/cybersecurity-operations/notable-capital-launches-rising-in-cyber-to-spotlight-promising-cybersecurity-startups)
+- [Hijacking Scheme Takes Over High-Profile TikTok Accounts](https://www.darkreading.com/cyberattacks-data-breaches/hijacking-scheme-takes-over-high-profile-tiktok-accounts)
 - [Ransomware Attack Disrupts Operations Across London Hospitals](https://www.darkreading.com/cyberattacks-data-breaches/synnovis-ransomware-attack-disrupts-operations-london-hospitals)
 - [Remote Work&#39;s Hidden Dangers](https://www.darkreading.com/endpoint-security/remote-works-hidden-dangers)
 - [Chinese Threat Clusters Triple-Team High-Profile Asia Government Org](https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org)
 - [Africa Ranks Low on Phishing Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience)
-- [Ukrainian Systems Hit by Cobalt Strike Via a Malicious Excel File](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-systems-hit-by-cobalt-strike-via-a-malicious-excel-file)
-- [&#39;Fog&#39; Ransomware Rolls in to Target Education, Recreation Sectors](https://www.darkreading.com/threat-intelligence/fog-ransomware-rolls-in-to-target-education-recreation-sectors)
-- [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
-- [Cox Biz Auth-Bypass Bug Exposes Millions of Devices to Takeover](https://www.darkreading.com/application-security/cox-biz-auth-bypass-bug-millions-devices-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
