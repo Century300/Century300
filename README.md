@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Remote Work&#39;s Hidden Dangers](https://www.darkreading.com/endpoint-security/remote-works-hidden-dangers)
 - [Chinese Threat Clusters Triple-Team a High-Profile Asia Government Org](https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org)
 - [Africa Ranks Low on Phishing Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/africa-ranks-low-on-phishing-cyber-resilience)
 - [Ukrainian Systems Hit by Cobalt Strike Via a Malicious Excel File](https://www.darkreading.com/cyberattacks-data-breaches/ukrainian-systems-hit-by-cobalt-strike-via-a-malicious-excel-file)
@@ -83,7 +84,6 @@
 - [Ticketmaster Breach Showcases SaaS Data Security Risks](https://www.darkreading.com/cloud-security/ticketmaster-breach-showcases-saas-data-security-risks)
 - [Cox Biz Auth-Bypass Bug Exposes Millions of Devices to Takeover](https://www.darkreading.com/application-security/cox-biz-auth-bypass-bug-millions-devices-takeover)
 - [Perfecting the Proactive Security Playbook](https://www.darkreading.com/vulnerabilities-threats/perfecting-proactive-security-playbook)
-- [ISC2 Provides Opportunity for Employers to Connect With Cybersecurity Job Seekers](https://www.darkreading.com/cybersecurity-operations/isc2-provides-opportunity-for-employers-to-connect-with-cybersecurity-job-seekers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
