@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attacks Surge on Check Point&#39;s Recent VPN Zero-Day Flaw](https://www.darkreading.com/cyberattacks-data-breaches/attacks-surge-on-check-points-recent-vpn-zero-day-flaw)
+- [&#39;Commando Cat&#39; Digs Its Claws into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
 - [Interpol, FBI Disrupt Moldova-Based Cyber Ring](https://www.darkreading.com/cybersecurity-operations/four-taken-into-custody-in-interpol-fbi-moldova-sting)
 - [Technology, Regulations Can&#39;t Save Orgs From Deepfake Harm](https://www.darkreading.com/cyber-risk/technology-regulations-cant-save-orgs-from-deepfake-harm)
 - [Mallox Ransomware Variant Targets Privileged VMWare ESXi Environments](https://www.darkreading.com/cloud-security/mallox-ransomware-variant-targets-privileged-vmware-esxi-environment)
 - [Understanding Security&#39;s New Blind Spot: Shadow Engineering](https://www.darkreading.com/vulnerabilities-threats/understanding-security-new-blind-spot-shadow-engineering)
 - [Inside Baseball: The Red Sox Cloud Security Game](https://www.darkreading.com/cloud-security/inside-baseball-red-sox-cloud-security-game)
 - [Trend Micro, Nvidia Partner to Secure AI Data Centers](https://www.darkreading.com/cloud-security/trend-micro-nvidia-partner-to-secure-ai-data-centers)
-- [RansomHub Actors Exploit ZeroLogon Vuln in Recent Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-actors-exploit-zerologon-vuln-in-recent-ransomware-attacks)
-- [Cloud Security Alliance Survey Finds 70% of Organizations Have Established Dedicated SaaS Security Teams](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-finds-70-of-organizations-have-established-dedicated-saas-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
