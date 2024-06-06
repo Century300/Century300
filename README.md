@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trend Micro, Nvidia Partner to Secure AI Data Centers](https://www.darkreading.com/cloud-security/trend-micro-nvidia-partner-to-secure-ai-data-centers)
 - [RansomHub Actors Exploit ZeroLogon Vuln in Recent Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-actors-exploit-zerologon-vuln-in-recent-ransomware-attacks)
 - [Cloud Security Alliance Survey Finds 70% of Organizations Have Established Dedicated SaaS Security Teams](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-finds-70-of-organizations-have-established-dedicated-saas-security-teams)
 - [EV Manufacturer BYD Selects Karamba Security to Meet Global Automotive Cybersecurity Regulations](https://www.darkreading.com/ics-ot-security/leading-ev-manufacturer-byd-selects-karamba-security-to-meet-global-automotive-cybersecurity-regulations)
@@ -83,7 +84,6 @@
 - [Hijacking Scheme Takes Over High-Profile TikTok Accounts](https://www.darkreading.com/cyberattacks-data-breaches/hijacking-scheme-takes-over-high-profile-tiktok-accounts)
 - [Ransomware Attack Disrupts Operations Across London Hospitals](https://www.darkreading.com/cyberattacks-data-breaches/synnovis-ransomware-attack-disrupts-operations-london-hospitals)
 - [Remote Work&#39;s Hidden Dangers](https://www.darkreading.com/endpoint-security/remote-works-hidden-dangers)
-- [Chinese Threat Clusters Triple-Team High-Profile Asia Government Org](https://www.darkreading.com/threat-intelligence/chinese-threat-clusters-triple-team-high-profile-asian-government-org)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
