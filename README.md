@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mallox Ransomware Variant Targets Privileged VMWare ESXi Environments](https://www.darkreading.com/cloud-security/mallox-ransomware-variant-targets-privileged-vmware-esxi-environment)
 - [Understanding Security&#39;s New Blind Spot: Shadow Engineering](https://www.darkreading.com/vulnerabilities-threats/understanding-security-new-blind-spot-shadow-engineering)
 - [Inside Baseball: The Red Sox Cloud Security Game](https://www.darkreading.com/cloud-security/inside-baseball-red-sox-cloud-security-game)
 - [Trend Micro, Nvidia Partner to Secure AI Data Centers](https://www.darkreading.com/cloud-security/trend-micro-nvidia-partner-to-secure-ai-data-centers)
@@ -83,7 +84,6 @@
 - [Cloud Security Alliance Survey Finds 70% of Organizations Have Established Dedicated SaaS Security Teams](https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-finds-70-of-organizations-have-established-dedicated-saas-security-teams)
 - [EV Manufacturer BYD Selects Karamba Security to Meet Global Automotive Cybersecurity Regulations](https://www.darkreading.com/ics-ot-security/leading-ev-manufacturer-byd-selects-karamba-security-to-meet-global-automotive-cybersecurity-regulations)
 - [Notable Capital Launches Rising in Cyber to Spotlight Promising Cybersecurity Startups](https://www.darkreading.com/cybersecurity-operations/notable-capital-launches-rising-in-cyber-to-spotlight-promising-cybersecurity-startups)
-- [Hijacking Scheme Takes Over High-Profile TikTok Accounts](https://www.darkreading.com/cyberattacks-data-breaches/hijacking-scheme-takes-over-high-profile-tiktok-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
