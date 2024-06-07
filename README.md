@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Attacks Surge on Check Point&#39;s Recent VPN Zero-Day Flaw](https://www.darkreading.com/cyberattacks-data-breaches/attacks-surge-on-check-points-recent-vpn-zero-day-flaw)
-- [&#39;Commando Cat&#39; Digs Its Claws into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
+- [&#39;Commando Cat&#39; Digs Its Claws Into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
 - [Interpol, FBI Disrupt Moldova-Based Cyber Ring](https://www.darkreading.com/cybersecurity-operations/four-taken-into-custody-in-interpol-fbi-moldova-sting)
 - [Technology, Regulations Can&#39;t Save Orgs From Deepfake Harm](https://www.darkreading.com/cyber-risk/technology-regulations-cant-save-orgs-from-deepfake-harm)
 - [Mallox Ransomware Variant Targets Privileged VMWare ESXi Environments](https://www.darkreading.com/cloud-security/mallox-ransomware-variant-targets-privileged-vmware-esxi-environment)
