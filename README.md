@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SolarWinds Flaw Flagged by NATO Pen Tester](https://www.darkreading.com/vulnerabilities-threats/solarwinds-flaw-flagged-by-nato-pen-tester)
 - [Hotel Check-in Kiosks Expose Guest Data, Room Keys](https://www.darkreading.com/vulnerabilities-threats/hotel-check-in-kiosks-expose-guest-data-room-keys)
 - [&#39;Sticky Werewolf&#39; APT Stalks Aviation Sector](https://www.darkreading.com/threat-intelligence/sticky-werewolf-apt-stalks-aviation-sector)
 - [Developing a Plan to Respond to Critical CVEs in Open Source Software](https://www.darkreading.com/vulnerabilities-threats/developing-plan-to-respond-to-critical-cves-open-source-software)
@@ -83,7 +84,6 @@
 - [&#39;Commando Cat&#39; Digs Its Claws Into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
 - [Interpol, FBI Disrupt Moldova-Based Cyber Ring](https://www.darkreading.com/cybersecurity-operations/four-taken-into-custody-in-interpol-fbi-moldova-sting)
 - [Technology, Regulations Can&#39;t Save Orgs From Deepfake Harm](https://www.darkreading.com/cyber-risk/technology-regulations-cant-save-orgs-from-deepfake-harm)
-- [Mallox Ransomware Variant Targets Privileged VMWare ESXi Environments](https://www.darkreading.com/cloud-security/mallox-ransomware-variant-targets-privileged-vmware-esxi-environment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
