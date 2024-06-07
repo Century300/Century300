@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Job Hunting May Come Down to Certifications](https://www.darkreading.com/cybersecurity-careers/cybersecurity-jobs-gap-may-come-down-to-certifications-gap)
 - [SolarWinds Flaw Flagged by NATO Pen Tester](https://www.darkreading.com/vulnerabilities-threats/solarwinds-flaw-flagged-by-nato-pen-tester)
 - [Hotel Check-in Kiosks Expose Guest Data, Room Keys](https://www.darkreading.com/vulnerabilities-threats/hotel-check-in-kiosks-expose-guest-data-room-keys)
 - [&#39;Sticky Werewolf&#39; APT Stalks Aviation Sector](https://www.darkreading.com/threat-intelligence/sticky-werewolf-apt-stalks-aviation-sector)
@@ -83,7 +84,6 @@
 - [Attacks Surge on Check Point&#39;s Recent VPN Zero-Day Flaw](https://www.darkreading.com/cyberattacks-data-breaches/attacks-surge-on-check-points-recent-vpn-zero-day-flaw)
 - [&#39;Commando Cat&#39; Digs Its Claws Into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
 - [Interpol, FBI Disrupt Moldova-Based Cyber Ring](https://www.darkreading.com/cybersecurity-operations/four-taken-into-custody-in-interpol-fbi-moldova-sting)
-- [Technology, Regulations Can&#39;t Save Orgs From Deepfake Harm](https://www.darkreading.com/cyber-risk/technology-regulations-cant-save-orgs-from-deepfake-harm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
