@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Developing a Plan to Respond to Critical CVEs in Open Source Software](https://www.darkreading.com/vulnerabilities-threats/developing-plan-to-respond-to-critical-cves-open-source-software)
 - [Attacks Surge on Check Point&#39;s Recent VPN Zero-Day Flaw](https://www.darkreading.com/cyberattacks-data-breaches/attacks-surge-on-check-points-recent-vpn-zero-day-flaw)
 - [&#39;Commando Cat&#39; Digs Its Claws Into Exposed Docker Containers](https://www.darkreading.com/cloud-security/-commando-cat-digs-its-claws-into-exposed-docker-containers)
 - [Interpol, FBI Disrupt Moldova-Based Cyber Ring](https://www.darkreading.com/cybersecurity-operations/four-taken-into-custody-in-interpol-fbi-moldova-sting)
@@ -83,7 +84,6 @@
 - [Mallox Ransomware Variant Targets Privileged VMWare ESXi Environments](https://www.darkreading.com/cloud-security/mallox-ransomware-variant-targets-privileged-vmware-esxi-environment)
 - [Understanding Security&#39;s New Blind Spot: Shadow Engineering](https://www.darkreading.com/vulnerabilities-threats/understanding-security-new-blind-spot-shadow-engineering)
 - [Inside Baseball: The Red Sox Cloud Security Game](https://www.darkreading.com/cloud-security/inside-baseball-red-sox-cloud-security-game)
-- [Trend Micro, Nvidia Partner to Secure AI Data Centers](https://www.darkreading.com/cloud-security/trend-micro-nvidia-partner-to-secure-ai-data-centers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
