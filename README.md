@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tokenization Moves Beyond Payments to Personal Privacy](https://www.darkreading.com/identity-access-management-security/following-payment-success-tokenization-ready-for-next-challenge)
+- [New York Times Internal Data Nabbed From GitHub](https://www.darkreading.com/cloud-security/new-york-times-internal-data-nabbed-from-github)
 - [Smishers Stand Up Fake Phone Tower to Blast Malicious Texts](https://www.darkreading.com/cyberattacks-data-breaches/smishers-stand-up-fake-phone-tower-to-blast-malicious-texts)
 - [Is a US Nationwide Privacy Law Really Coming?](https://www.darkreading.com/cyber-risk/is-a-us-nationwide-privacy-law-really-coming)
 - [Making Choices for Stronger Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/choices-for-stronger-vulnerability-management)
 - [Governments, Businesses Tighten Cybersecurity Around Hajj Season](https://www.darkreading.com/cybersecurity-operations/governments-businesses-tighten-cybersecurity-around-hajj-season)
 - [GitHub Repos Targeted in Cyber-Extortion Attacks](https://www.darkreading.com/application-security/github-repos-targeted-in-cyber-extortion-attacks)
 - [CISO Corner: Red Sox CloudSec; Deepfake Biz Risk; Ticketmaster Takeaways](https://www.darkreading.com/cybersecurity-operations/ciso-corner-red-sox-cloudsec-deepfake-biz-risk-ticketmaster)
-- [Cybersecurity Job Hunting May Come Down to Certifications](https://www.darkreading.com/cybersecurity-careers/cybersecurity-jobs-gap-may-come-down-to-certifications-gap)
-- [SolarWinds Flaw Flagged by NATO Pen Tester](https://www.darkreading.com/vulnerabilities-threats/solarwinds-flaw-flagged-by-nato-pen-tester)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
