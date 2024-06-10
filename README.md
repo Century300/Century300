@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is a US Nationwide Privacy Law Really Coming?](https://www.darkreading.com/cyber-risk/is-a-us-nationwide-privacy-law-really-coming)
+- [Making Choices for Stronger Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/choices-for-stronger-vulnerability-management)
 - [Governments, Businesses Tighten Cybersecurity Around Hajj Season](https://www.darkreading.com/cybersecurity-operations/governments-businesses-tighten-cybersecurity-around-hajj-season)
 - [GitHub Repos Targeted in Cyber-Extortion Attacks](https://www.darkreading.com/application-security/github-repos-targeted-in-cyber-extortion-attacks)
 - [CISO Corner: Red Sox CloudSec; Deepfake Biz Risk; Ticketmaster Takeaways](https://www.darkreading.com/cybersecurity-operations/ciso-corner-red-sox-cloudsec-deepfake-biz-risk-ticketmaster)
 - [Cybersecurity Job Hunting May Come Down to Certifications](https://www.darkreading.com/cybersecurity-careers/cybersecurity-jobs-gap-may-come-down-to-certifications-gap)
 - [SolarWinds Flaw Flagged by NATO Pen Tester](https://www.darkreading.com/vulnerabilities-threats/solarwinds-flaw-flagged-by-nato-pen-tester)
 - [Hotel Check-in Kiosks Expose Guest Data, Room Keys](https://www.darkreading.com/vulnerabilities-threats/hotel-check-in-kiosks-expose-guest-data-room-keys)
-- [&#39;Sticky Werewolf&#39; APT Stalks Aviation Sector](https://www.darkreading.com/threat-intelligence/sticky-werewolf-apt-stalks-aviation-sector)
-- [Developing a Plan to Respond to Critical CVEs in Open Source Software](https://www.darkreading.com/vulnerabilities-threats/developing-plan-to-respond-to-critical-cves-open-source-software)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
