@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Governments, Businesses Tighten Cybersecurity Around Hajj Season](https://www.darkreading.com/cybersecurity-operations/governments-businesses-tighten-cybersecurity-around-hajj-season)
 - [GitHub Repos Targeted in Cyber-Extortion Attacks](https://www.darkreading.com/application-security/github-repos-targeted-in-cyber-extortion-attacks)
 - [CISO Corner: Red Sox CloudSec; Deepfake Biz Risk; Ticketmaster Takeaways](https://www.darkreading.com/cybersecurity-operations/ciso-corner-red-sox-cloudsec-deepfake-biz-risk-ticketmaster)
 - [Cybersecurity Job Hunting May Come Down to Certifications](https://www.darkreading.com/cybersecurity-careers/cybersecurity-jobs-gap-may-come-down-to-certifications-gap)
@@ -83,7 +84,6 @@
 - [Hotel Check-in Kiosks Expose Guest Data, Room Keys](https://www.darkreading.com/vulnerabilities-threats/hotel-check-in-kiosks-expose-guest-data-room-keys)
 - [&#39;Sticky Werewolf&#39; APT Stalks Aviation Sector](https://www.darkreading.com/threat-intelligence/sticky-werewolf-apt-stalks-aviation-sector)
 - [Developing a Plan to Respond to Critical CVEs in Open Source Software](https://www.darkreading.com/vulnerabilities-threats/developing-plan-to-respond-to-critical-cves-open-source-software)
-- [Attacks Surge on Check Point&#39;s Recent VPN Zero-Day Flaw](https://www.darkreading.com/cyberattacks-data-breaches/attacks-surge-on-check-points-recent-vpn-zero-day-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
