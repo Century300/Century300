@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The CEO Is Next](https://www.darkreading.com/cybersecurity-operations/the-ceo-is-next)
 - [Microsoft Modifies &#39;Recall&#39; AI Feature Amid Privacy, Security Failings](https://www.darkreading.com/application-security/microsoft-modifies-recall-ai-feature-privacy-security-failings)
 - [Snowflake Cloud Accounts Felled by Rampant Credential Issues](https://www.darkreading.com/cloud-security/snowflake-cloud-accounts-rampant-credential-issues)
 - [A Look at the Riskiest Connected Devices of 2024](https://www.darkreading.com/cyber-risk/riskiest-connected-devices-2024)
@@ -83,7 +84,6 @@
 - [New York Times Internal Data Nabbed From GitHub](https://www.darkreading.com/cloud-security/new-york-times-internal-data-nabbed-from-github)
 - [Smishers Stand Up Fake Phone Tower to Blast Malicious Texts](https://www.darkreading.com/cyberattacks-data-breaches/smishers-stand-up-fake-phone-tower-to-blast-malicious-texts)
 - [Is a US Nationwide Privacy Law Really Coming?](https://www.darkreading.com/cyber-risk/is-a-us-nationwide-privacy-law-really-coming)
-- [Making Choices for Stronger Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/choices-for-stronger-vulnerability-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
