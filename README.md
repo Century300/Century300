@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Blood Shortages Hit London Hospitals After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blood-shortages-hit-london-hospitals-after-ransomeware-attack)
 - [WarmCookie Gives Cyberattackers Tasty New Backdoor for Initial Access](https://www.darkreading.com/cyberattacks-data-breaches/warmcookie-cyberattackers-backdoor-initial-access)
 - [The CEO Is Next](https://www.darkreading.com/cybersecurity-operations/the-ceo-is-next)
 - [Microsoft Modifies &#39;Recall&#39; AI Feature Amid Privacy, Security Failings](https://www.darkreading.com/application-security/microsoft-modifies-recall-ai-feature-privacy-security-failings)
@@ -83,7 +84,6 @@
 - [A Look at the Riskiest Connected Devices of 2024](https://www.darkreading.com/cyber-risk/riskiest-connected-devices-2024)
 - [Tokenization Moves Beyond Payments to Personal Privacy](https://www.darkreading.com/identity-access-management-security/following-payment-success-tokenization-ready-for-next-challenge)
 - [New York Times Internal Data Nabbed From GitHub](https://www.darkreading.com/cloud-security/new-york-times-internal-data-nabbed-from-github)
-- [Smishers Stand Up Fake Phone Tower to Blast Malicious Texts](https://www.darkreading.com/cyberattacks-data-breaches/smishers-stand-up-fake-phone-tower-to-blast-malicious-texts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
