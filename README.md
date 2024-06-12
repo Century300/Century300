@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why CIO &amp;amp; CISO Collaboration Is Key to Organizational Resilience](https://www.darkreading.com/cybersecurity-operations/cio-ciso-collaboration-is-key-to-organizational-resilience)
 - [RansomHub Brings Scattered Spider Into Its RaaS Fold](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
 - [Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams](https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams)
 - [Critical MSMQ RCE Bug Opens Microsoft Servers to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-msmq-rce-bug-microsoft-servers-complete-takeover)
@@ -83,7 +84,6 @@
 - [Checkmarx Application Security Posture Management and Cloud Insights Offer Enterprises Code-to-Cloud Visibility](https://www.darkreading.com/cloud-security/checkmarx-application-security-posture-management-and-cloud-insights-offer-enterprises-code-to-cloud-visibility)
 - [DNSFilter Welcomes Cisco Veteran TK Keanini As CTO](https://www.darkreading.com/cybersecurity-operations/dnsfilter-welcomes-cisco-veteran-tk-keanini-as-cto)
 - [Backslash Unveils Enterprise-Grade Capabilities to its Reachability-Based AppSec Platform](https://www.darkreading.com/application-security/backslash-unveils-enterprise-grade-capabilities-to-its-reachability-based-appsec-platform)
-- [Darktrace Launches Managed Detection &amp;amp; Response Service to Bolster Security Operations](https://www.darkreading.com/cybersecurity-operations/darktrace-launches-managed-detection-response-service-to-bolster-security-operations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
