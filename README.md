@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LockBit &amp;amp; Conti Ransomware Hacker Busted in Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-and-conti-ransomware-hacker-busted-in-ukraine)
 - [TellYouthePass Ransomware Group Exploits Critical PHP Flaw](https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw)
 - [Why CIO &amp;amp; CISO Collaboration Is Key to Organizational Resilience](https://www.darkreading.com/cybersecurity-operations/cio-ciso-collaboration-is-key-to-organizational-resilience)
 - [RansomHub Brings Scattered Spider Into Its RaaS Nest](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
@@ -83,7 +84,6 @@
 - [Critical MSMQ RCE Bug Opens Microsoft Servers to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-msmq-rce-bug-microsoft-servers-complete-takeover)
 - [Fortinet Plans to Acquire Lacework](https://www.darkreading.com/cloud-security/fortinet-plans-to-acquire-lacework)
 - [Checkmarx Application Security Posture Management and Cloud Insights Offer Enterprises Code-to-Cloud Visibility](https://www.darkreading.com/cloud-security/checkmarx-application-security-posture-management-and-cloud-insights-offer-enterprises-code-to-cloud-visibility)
-- [DNSFilter Welcomes Cisco Veteran TK Keanini As CTO](https://www.darkreading.com/cybersecurity-operations/dnsfilter-welcomes-cisco-veteran-tk-keanini-as-cto)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
