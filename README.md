@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RansomHub Brings Scattered Spider Into Its RaaS Fold](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
 - [Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams](https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams)
 - [Critical MSMQ RCE Bug Opens Microsoft Servers to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-msmq-rce-bug-microsoft-servers-complete-takeover)
 - [Checkmarx Application Security Posture Management and Cloud Insights Offer Enterprises Code-to-Cloud Visibility](https://www.darkreading.com/cloud-security/checkmarx-application-security-posture-management-and-cloud-insights-offer-enterprises-code-to-cloud-visibility)
@@ -83,7 +84,6 @@
 - [Backslash Unveils Enterprise-Grade Capabilities to its Reachability-Based AppSec Platform](https://www.darkreading.com/application-security/backslash-unveils-enterprise-grade-capabilities-to-its-reachability-based-appsec-platform)
 - [Darktrace Launches Managed Detection &amp;amp; Response Service to Bolster Security Operations](https://www.darkreading.com/cybersecurity-operations/darktrace-launches-managed-detection-response-service-to-bolster-security-operations)
 - [Canada &amp;amp; UK Partner in Joint 23andMe Data Breach Investigation](https://www.darkreading.com/cyberattacks-data-breaches/canada-and-uk-partner-in-joint-23andme-data-breach-investigation)
-- [Blood Shortages Hit London Hospitals After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blood-shortages-hit-london-hospitals-after-ransomeware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
