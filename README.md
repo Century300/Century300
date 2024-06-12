@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams](https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams)
 - [Critical MSMQ RCE Bug Opens Microsoft Servers to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-msmq-rce-bug-microsoft-servers-complete-takeover)
 - [Checkmarx Application Security Posture Management and Cloud Insights Offer Enterprises Code-to-Cloud Visibility](https://www.darkreading.com/cloud-security/checkmarx-application-security-posture-management-and-cloud-insights-offer-enterprises-code-to-cloud-visibility)
 - [DNSFilter Welcomes Cisco Veteran TK Keanini As CTO](https://www.darkreading.com/cybersecurity-operations/dnsfilter-welcomes-cisco-veteran-tk-keanini-as-cto)
@@ -83,7 +84,6 @@
 - [Darktrace Launches Managed Detection &amp;amp; Response Service to Bolster Security Operations](https://www.darkreading.com/cybersecurity-operations/darktrace-launches-managed-detection-response-service-to-bolster-security-operations)
 - [Canada &amp;amp; UK Partner in Joint 23andMe Data Breach Investigation](https://www.darkreading.com/cyberattacks-data-breaches/canada-and-uk-partner-in-joint-23andme-data-breach-investigation)
 - [Blood Shortages Hit London Hospitals After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blood-shortages-hit-london-hospitals-after-ransomeware-attack)
-- [WarmCookie Gives Cyberattackers Tasty New Backdoor for Initial Access](https://www.darkreading.com/cyberattacks-data-breaches/warmcookie-cyberattackers-backdoor-initial-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
