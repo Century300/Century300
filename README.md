@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [TellYouthePass Ransomware Group Exploits Critical PHP Flaw](https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw)
 - [Why CIO &amp;amp; CISO Collaboration Is Key to Organizational Resilience](https://www.darkreading.com/cybersecurity-operations/cio-ciso-collaboration-is-key-to-organizational-resilience)
-- [RansomHub Brings Scattered Spider Into Its RaaS Fold](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
+- [RansomHub Brings Scattered Spider Into Its RaaS Nest](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
 - [Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams](https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams)
 - [Critical MSMQ RCE Bug Opens Microsoft Servers to Complete Takeover](https://www.darkreading.com/vulnerabilities-threats/critical-msmq-rce-bug-microsoft-servers-complete-takeover)
 - [Fortinet Plans to Acquire Lacework](https://www.darkreading.com/cloud-security/fortinet-plans-to-acquire-lacework)
