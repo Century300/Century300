@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
-- [Rockwell&#39;s ICS Directive Comes As Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
+- [Rockwell&#39;s ICS Directive Comes as Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
+- [Nvidia Patches High-Severity Flaws in GPU Drivers](https://www.darkreading.com/vulnerabilities-threats/nvidia-patches-high-severity-flaws-in-gpu-drivers)
 - [Scores of Biometrics Bugs Emerge, Highlighting Authentication Risks](https://www.darkreading.com/vulnerabilities-threats/scores-of-biometrics-bugs-emerge-highlighting-authentication-risks)
 - [Cleveland City Hall Shuts Down After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-city-hall-shuts-down-after-cyber-incident)
 - [LockBit &amp;amp; Conti Ransomware Hacker Busted in Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-and-conti-ransomware-hacker-busted-in-ukraine)
-- [TellYouthePass Ransomware Group Exploits Critical PHP Flaw](https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw)
-- [Why CIO &amp;amp; CISO Collaboration Is Key to Organizational Resilience](https://www.darkreading.com/cybersecurity-operations/cio-ciso-collaboration-is-key-to-organizational-resilience)
-- [RansomHub Brings Scattered Spider Into Its RaaS Nest](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
+- [Asset Management Holds the Key to Enterprise Defense](https://www.darkreading.com/endpoint-security/role-of-asset-management-in-enterprise-defense)
+- [TellYouThePass Ransomware Group Exploits Critical PHP Flaw](https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
