@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KnowBe4 Launches Risk &amp;amp; Insurance Partner Program](https://www.darkreading.com/cyber-risk/knowbe4-launches-risk-insurance-partner-program)
+- [NetSPI Acquires Hubble, Adds CAASM to Complement its IEASM](https://www.darkreading.com/cybersecurity-operations/netspi-acquires-hubble-adds-caasm-to-complement-its-ieasm)
+- [4 Ways to Help a Security Culture Thrive](https://www.darkreading.com/cybersecurity-operations/4-ways-to-help-a-security-culture-thrive)
+- [Marsh Insurance: Volume of Cyber-Insurance Claims Reaches New Heights](https://www.darkreading.com/cyber-risk/marsh-insurance-volume-of-cyber-insurance-claims-reaches-new-heights)
 - [PoC Exploit Emerges for Critical RCE Bug in Ivanti Endpoint Manager](https://www.darkreading.com/application-security/poc-exploit-critical-rce-bug-ivanti-endpoint-manager)
 - [North Korea&#39;s Moonstone Sleet Widens Distribution of Malicious Code](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-moonstone-sleet-widens-distribution-of-malicious-code-packages)
 - [AI Chatbot Fools Scammers &amp;amp; Scores Money-Laundering Intel](https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel)
 - [Microsoft, Late to the Game on Dangerous DNSSEC Zero-Day Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw)
-- [How Cybercrime Empires Are Built](https://www.darkreading.com/vulnerabilities-threats/how-cybercrime-empires-are-built)
-- [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
-- [Rockwell&#39;s ICS Directive Comes as Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
-- [Nvidia Patches High-Severity Flaws in GPU Drivers](https://www.darkreading.com/vulnerabilities-threats/nvidia-patches-high-severity-flaws-in-gpu-drivers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
