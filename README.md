@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft, Late to the Game on Dangerous DNSSEC Zero-Day Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw)
 - [How Cybercrime Empires Are Built](https://www.darkreading.com/vulnerabilities-threats/how-cybercrime-empires-are-built)
 - [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
 - [Rockwell&#39;s ICS Directive Comes as Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
@@ -83,7 +84,6 @@
 - [Scores of Biometrics Bugs Emerge, Highlighting Authentication Risks](https://www.darkreading.com/vulnerabilities-threats/scores-of-biometrics-bugs-emerge-highlighting-authentication-risks)
 - [Cleveland City Hall Shuts Down After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-city-hall-shuts-down-after-cyber-incident)
 - [LockBit &amp;amp; Conti Ransomware Hacker Busted in Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-and-conti-ransomware-hacker-busted-in-ukraine)
-- [Asset Management Holds the Key to Enterprise Defense](https://www.darkreading.com/endpoint-security/role-of-asset-management-in-enterprise-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
