@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PoC Exploit Emerges for Critical RCE Bug in Ivanti Endpoint Manager](https://www.darkreading.com/application-security/poc-exploit-critical-rce-bug-ivanti-endpoint-manager)
+- [North Korea&#39;s Moonstone Sleet Widens Distribution of Malicious Code](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-moonstone-sleet-widens-distribution-of-malicious-code-packages)
 - [AI Chatbot Fools Scammers &amp;amp; Scores Money-Laundering Intel](https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel)
 - [Microsoft, Late to the Game on Dangerous DNSSEC Zero-Day Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw)
 - [How Cybercrime Empires Are Built](https://www.darkreading.com/vulnerabilities-threats/how-cybercrime-empires-are-built)
 - [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
 - [Rockwell&#39;s ICS Directive Comes as Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
 - [Nvidia Patches High-Severity Flaws in GPU Drivers](https://www.darkreading.com/vulnerabilities-threats/nvidia-patches-high-severity-flaws-in-gpu-drivers)
-- [Scores of Biometrics Bugs Emerge, Highlighting Authentication Risks](https://www.darkreading.com/vulnerabilities-threats/scores-of-biometrics-bugs-emerge-highlighting-authentication-risks)
-- [Cleveland City Hall Shuts Down After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-city-hall-shuts-down-after-cyber-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
