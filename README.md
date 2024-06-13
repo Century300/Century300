@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
 - [Rockwell&#39;s ICS Directive Comes As Critical Infrastructure Risk Peaks](https://www.darkreading.com/ics-ot-security/rockwell-ics-directive-critical-infrastructure-risk-peaks)
 - [Scores of Biometrics Bugs Emerge, Highlighting Authentication Risks](https://www.darkreading.com/vulnerabilities-threats/scores-of-biometrics-bugs-emerge-highlighting-authentication-risks)
 - [Cleveland City Hall Shuts Down After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-city-hall-shuts-down-after-cyber-incident)
@@ -83,7 +84,6 @@
 - [TellYouthePass Ransomware Group Exploits Critical PHP Flaw](https://www.darkreading.com/vulnerabilities-threats/tellyouthepass-ransomware-exploits-critical-php-flaw)
 - [Why CIO &amp;amp; CISO Collaboration Is Key to Organizational Resilience](https://www.darkreading.com/cybersecurity-operations/cio-ciso-collaboration-is-key-to-organizational-resilience)
 - [RansomHub Brings Scattered Spider Into Its RaaS Nest](https://www.darkreading.com/threat-intelligence/ransomhub-brings-scattered-spider-into-its-raas-fold)
-- [Forced-Labor Camps Fuel Billions of Dollars in Cyber Scams](https://www.darkreading.com/cyber-risk/forced-labor-camps-fuel-billions-of-dollars-in-cyber-scams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
