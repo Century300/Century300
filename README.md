@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Chatbot Fools Scammers &amp;amp; Scores Money-Laundering Intel](https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel)
 - [Microsoft, Late to the Game on Dangerous DNSSEC Zero-Day Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw)
 - [How Cybercrime Empires Are Built](https://www.darkreading.com/vulnerabilities-threats/how-cybercrime-empires-are-built)
 - [Pakistani Hacking Team &#39;Celestial Force&#39; Spies on Indian Gov&#39;t, Defense](https://www.darkreading.com/cyberattacks-data-breaches/pakistani-hacking-team-celestial-force-spies-indian-govt-defense-orgs)
@@ -83,7 +84,6 @@
 - [Nvidia Patches High-Severity Flaws in GPU Drivers](https://www.darkreading.com/vulnerabilities-threats/nvidia-patches-high-severity-flaws-in-gpu-drivers)
 - [Scores of Biometrics Bugs Emerge, Highlighting Authentication Risks](https://www.darkreading.com/vulnerabilities-threats/scores-of-biometrics-bugs-emerge-highlighting-authentication-risks)
 - [Cleveland City Hall Shuts Down After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-city-hall-shuts-down-after-cyber-incident)
-- [LockBit &amp;amp; Conti Ransomware Hacker Busted in Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-and-conti-ransomware-hacker-busted-in-ukraine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
