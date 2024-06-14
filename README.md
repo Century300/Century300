@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
 - [KnowBe4 Launches Risk &amp;amp; Insurance Partner Program](https://www.darkreading.com/cyber-risk/knowbe4-launches-risk-insurance-partner-program)
 - [NetSPI Acquires Hubble, Adds CAASM to Complement its IEASM](https://www.darkreading.com/cybersecurity-operations/netspi-acquires-hubble-adds-caasm-to-complement-its-ieasm)
 - [4 Ways to Help a Security Culture Thrive](https://www.darkreading.com/cybersecurity-operations/4-ways-to-help-a-security-culture-thrive)
@@ -83,7 +84,6 @@
 - [PoC Exploit Emerges for Critical RCE Bug in Ivanti Endpoint Manager](https://www.darkreading.com/application-security/poc-exploit-critical-rce-bug-ivanti-endpoint-manager)
 - [North Korea&#39;s Moonstone Sleet Widens Distribution of Malicious Code](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-moonstone-sleet-widens-distribution-of-malicious-code-packages)
 - [AI Chatbot Fools Scammers &amp;amp; Scores Money-Laundering Intel](https://www.darkreading.com/cyber-risk/ai-chatbot-fools-scammers-and-scores-money-laundering-intel)
-- [Microsoft, Late to the Game on Dangerous DNSSEC Zero-Day Flaw](https://www.darkreading.com/vulnerabilities-threats/microsoft-late-dangerous-dnssec-zero-day-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
