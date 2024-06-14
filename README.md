@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Sleepy Pickle&#39; Exploit Subtly Poisons ML Models](https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models)
 - [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
 - [Panera Notifies Employees of Compromised Data](https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data)
 - [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
@@ -83,7 +84,6 @@
 - [Widespread Vishing Effort Impersonates CISA Staff](https://www.darkreading.com/cyberattacks-data-breaches/widespread-vishing-impersonates-cisa-staff)
 - [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
 - [KnowBe4 Launches Risk &amp;amp; Insurance Partner Program](https://www.darkreading.com/cyber-risk/knowbe4-launches-risk-insurance-partner-program)
-- [NetSPI Acquires Hubble, Adds CAASM to Complement its IEASM](https://www.darkreading.com/cybersecurity-operations/netspi-acquires-hubble-adds-caasm-to-complement-its-ieasm)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
