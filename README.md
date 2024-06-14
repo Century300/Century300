@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
 - [Why Trading Privacy for &#39;Free&#39; Web Services Must End](https://www.darkreading.com/cyber-risk/why-trading-privacy-for-free-web-services-must-end)
 - [Widespread Vishing Effort Impersonates CISA Staff](https://www.darkreading.com/cyberattacks-data-breaches/widespread-vishing-impersonates-cisa-staff)
 - [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
@@ -83,7 +84,6 @@
 - [NetSPI Acquires Hubble, Adds CAASM to Complement its IEASM](https://www.darkreading.com/cybersecurity-operations/netspi-acquires-hubble-adds-caasm-to-complement-its-ieasm)
 - [4 Ways to Help a Security Culture Thrive](https://www.darkreading.com/cybersecurity-operations/4-ways-to-help-a-security-culture-thrive)
 - [Volume of Cyber-Insurance Claims Reaches New Heights](https://www.darkreading.com/cyber-risk/marsh-insurance-volume-of-cyber-insurance-claims-reaches-new-heights)
-- [PoC Exploit Emerges for Critical RCE Bug in Ivanti Endpoint Manager](https://www.darkreading.com/application-security/poc-exploit-critical-rce-bug-ivanti-endpoint-manager)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
