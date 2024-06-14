@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
 - [Panera Notifies Employees of Compromised Data](https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data)
 - [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
 - [Why Trading Privacy for &#39;Free&#39; Web Services Must End](https://www.darkreading.com/cyber-risk/why-trading-privacy-for-free-web-services-must-end)
@@ -83,7 +84,6 @@
 - [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
 - [KnowBe4 Launches Risk &amp;amp; Insurance Partner Program](https://www.darkreading.com/cyber-risk/knowbe4-launches-risk-insurance-partner-program)
 - [NetSPI Acquires Hubble, Adds CAASM to Complement its IEASM](https://www.darkreading.com/cybersecurity-operations/netspi-acquires-hubble-adds-caasm-to-complement-its-ieasm)
-- [4 Ways to Help a Security Culture Thrive](https://www.darkreading.com/cybersecurity-operations/4-ways-to-help-a-security-culture-thrive)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
