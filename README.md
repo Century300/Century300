@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-)
 - [Space: The Final Frontier for Cyberattacks](https://www.darkreading.com/cyber-risk/space-final-frontier-cyberattacks)
 - [MITRE: US Government Needs to Focus on Critical Infrastructure](https://www.darkreading.com/ics-ot-security/mitre-advises-us-government-to-shape-up-for-critical-infrastructure)
 - [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
@@ -83,7 +84,6 @@
 - [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
 - [Panera Notifies Employees of Compromised Data](https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data)
 - [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
-- [Why Trading Privacy for &#39;Free&#39; Web Services Must End](https://www.darkreading.com/cyber-risk/why-trading-privacy-for-free-web-services-must-end)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
