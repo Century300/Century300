@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
 - [&#39;Sleepy Pickle&#39; Exploit Subtly Poisons ML Models](https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models)
 - [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
 - [Panera Notifies Employees of Compromised Data](https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data)
@@ -83,7 +84,6 @@
 - [Why Trading Privacy for &#39;Free&#39; Web Services Must End](https://www.darkreading.com/cyber-risk/why-trading-privacy-for-free-web-services-must-end)
 - [Widespread Vishing Effort Impersonates CISA Staff](https://www.darkreading.com/cyberattacks-data-breaches/widespread-vishing-impersonates-cisa-staff)
 - [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
-- [KnowBe4 Launches Risk &amp;amp; Insurance Partner Program](https://www.darkreading.com/cyber-risk/knowbe4-launches-risk-insurance-partner-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
