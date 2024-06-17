@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
+- [Aim Security Closes $18M Series A to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/cybersecurity-operations/aim-security-closes-18m-series-a-to-secure-generative-ai-enterprise-adoption)
+- [LA County Dept. of Public Health Data Breach Impacts 200K](https://www.darkreading.com/remote-workforce/la-county-dept-of-public-health-data-breach-impacts-200k)
 - [Addressing Misinformation in Critical Infrastructure Security](https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security)
 - [China&#39;s &#39;Velvet Ant&#39; APT Nests Inside Multiyear Espionage Effort](https://www.darkreading.com/cyberattacks-data-breaches/china-velvet-ant-apt-multiyear-espionage)
 - [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-future-shock-future-shock)
 - [Space: The Final Frontier for Cyberattacks](https://www.darkreading.com/cyber-risk/space-final-frontier-cyberattacks)
 - [MITRE: US Government Needs to Focus on Critical Infrastructure](https://www.darkreading.com/ics-ot-security/mitre-advises-us-government-to-shape-up-for-critical-infrastructure)
-- [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
-- [&#39;Sleepy Pickle&#39; Exploit Subtly Poisons ML Models](https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models)
-- [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
