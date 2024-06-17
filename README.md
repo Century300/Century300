@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
 - [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
 - [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
@@ -83,7 +84,6 @@
 - [LA County Dept. of Public Health Data Breach Impacts 200K](https://www.darkreading.com/remote-workforce/la-county-dept-of-public-health-data-breach-impacts-200k)
 - [Addressing Misinformation in Critical Infrastructure Security](https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security)
 - [China&#39;s &#39;Velvet Ant&#39; APT Nests Inside Multiyear Espionage Effort](https://www.darkreading.com/cyberattacks-data-breaches/china-velvet-ant-apt-multiyear-espionage)
-- [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-future-shock-future-shock)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
