@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Space: The Final Frontier for Cyberattacks](https://www.darkreading.com/cyber-risk/space-final-frontier-cyberattacks)
 - [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
 - [&#39;Sleepy Pickle&#39; Exploit Subtly Poisons ML Models](https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models)
 - [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
@@ -83,7 +84,6 @@
 - [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
 - [Why Trading Privacy for &#39;Free&#39; Web Services Must End](https://www.darkreading.com/cyber-risk/why-trading-privacy-for-free-web-services-must-end)
 - [Widespread Vishing Effort Impersonates CISA Staff](https://www.darkreading.com/cyberattacks-data-breaches/widespread-vishing-impersonates-cisa-staff)
-- [Apple&#39;s AI Offering Makes Big Privacy Promises](https://www.darkreading.com/endpoint-security/apple-ai-offering-makes-big-privacy-promises)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
