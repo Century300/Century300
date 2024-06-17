@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-)
+- [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-future-shock-future-shock)
 - [Space: The Final Frontier for Cyberattacks](https://www.darkreading.com/cyber-risk/space-final-frontier-cyberattacks)
 - [MITRE: US Government Needs to Focus on Critical Infrastructure](https://www.darkreading.com/ics-ot-security/mitre-advises-us-government-to-shape-up-for-critical-infrastructure)
 - [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
