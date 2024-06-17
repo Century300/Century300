@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Addressing Misinformation in Critical Infrastructure Security](https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security)
+- [China&#39;s &#39;Velvet Ant&#39; APT Nests Inside Multiyear Espionage Effort](https://www.darkreading.com/cyberattacks-data-breaches/china-velvet-ant-apt-multiyear-espionage)
 - [Name That Toon: Future Shock](https://www.darkreading.com/cloud-security/name-that-toon-future-shock-future-shock)
 - [Space: The Final Frontier for Cyberattacks](https://www.darkreading.com/cyber-risk/space-final-frontier-cyberattacks)
 - [MITRE: US Government Needs to Focus on Critical Infrastructure](https://www.darkreading.com/ics-ot-security/mitre-advises-us-government-to-shape-up-for-critical-infrastructure)
 - [Hamas Hackers Sling Stealthy Spyware Across Egypt, Palestine](https://www.darkreading.com/cyberattacks-data-breaches/hamas-hackers-stealthy-spyware-egypt-palestine)
 - [&#39;Sleepy Pickle&#39; Exploit Subtly Poisons ML Models](https://www.darkreading.com/threat-intelligence/sleepy-pickle-exploit-subtly-poisons-ml-models)
 - [Apple Intelligence Could Introduce Device Security Risks](https://www.darkreading.com/cyber-risk/apple-intelligence-could-introduce-device-security-risks)
-- [Panera Notifies Employees of Compromised Data](https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data)
-- [CISO Corner: Apple&#39;s AI Privacy Promises; CEOs in the Hot Seat](https://www.darkreading.com/cloud-security/ciso-apple-ai-privacy-promises-ceos-hot-seat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
