@@ -83,7 +83,7 @@
 - [Aim Security Closes $18M Series A to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/cybersecurity-operations/aim-security-closes-18m-series-a-to-secure-generative-ai-enterprise-adoption)
 - [LA County Dept. of Public Health Data Breach Impacts 200K](https://www.darkreading.com/remote-workforce/la-county-dept-of-public-health-data-breach-impacts-200k)
 - [Addressing Misinformation in Critical Infrastructure Security](https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security)
-- [China&#39;s &#39;Velvet Ant&#39; APT Nests Inside Multiyear Espionage Effort](https://www.darkreading.com/cyberattacks-data-breaches/china-velvet-ant-apt-multiyear-espionage)
+- [Some Skills Should Not Be Ceded to AI](https://www.darkreading.com/remote-workforce/some-skills-should-not-be-ceded-to-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
