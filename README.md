@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Software Licensing Disease Infecting Our Nation&#39;s Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/software-licensing-disease-infecting-our-nations-cybersecurity)
 - [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
@@ -83,7 +84,6 @@
 - [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
 - [Chorology.ai Tackles Data Governance](https://www.darkreading.com/cybersecurity-operations/chorology-ai-tackles-data-governance)
 - [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
-- [Aim Security Closes $18M Series A to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/cybersecurity-operations/aim-security-closes-18m-series-a-to-secure-generative-ai-enterprise-adoption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
