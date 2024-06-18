@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical VMware Bugs Open Swaths of VMs to RCE, Data Theft](https://www.darkreading.com/cloud-security/critical-vmware-bugs-open-swaths-of-vms-to-rce-data-theft)
 - [Blackbaud Fined $6.75M After 2020 Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blackbaud-fined-6m-after-2020-ransomware-attack)
 - [Cut &amp;amp; Paste Tactics Import Malware to Unwitting Victims](https://www.darkreading.com/remote-workforce/cut-paste-tactics-import-malware)
 - [The Software Licensing Disease Infecting Our Nation&#39;s Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/software-licensing-disease-infecting-our-nations-cybersecurity)
@@ -83,7 +84,6 @@
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
-- [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
