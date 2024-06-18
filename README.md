@@ -80,10 +80,10 @@
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
 - [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
+- [Chorology.ai Tackles Data Governance](https://www.darkreading.com/cybersecurity-operations/chorology-ai-tackles-data-governance)
 - [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
 - [Aim Security Closes $18M Series A to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/cybersecurity-operations/aim-security-closes-18m-series-a-to-secure-generative-ai-enterprise-adoption)
 - [LA County Dept. of Public Health Data Breach Impacts 200K](https://www.darkreading.com/remote-workforce/la-county-dept-of-public-health-data-breach-impacts-200k)
-- [Addressing Misinformation in Critical Infrastructure Security](https://www.darkreading.com/cyber-risk/addressing-misinformation-in-critical-infrastructure-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
