@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
@@ -83,7 +84,6 @@
 - [Chorology.ai Tackles Data Governance](https://www.darkreading.com/cybersecurity-operations/chorology-ai-tackles-data-governance)
 - [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
 - [Aim Security Closes $18M Series A to Secure Generative AI Enterprise Adoption](https://www.darkreading.com/cybersecurity-operations/aim-security-closes-18m-series-a-to-secure-generative-ai-enterprise-adoption)
-- [LA County Dept. of Public Health Data Breach Impacts 200K](https://www.darkreading.com/remote-workforce/la-county-dept-of-public-health-data-breach-impacts-200k)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
