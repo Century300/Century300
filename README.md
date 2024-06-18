@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cut &amp;amp; Paste Tactics Import Malware to Unwitting Victims](https://www.darkreading.com/remote-workforce/cut-paste-tactics-import-malware)
 - [The Software Licensing Disease Infecting Our Nation&#39;s Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/software-licensing-disease-infecting-our-nations-cybersecurity)
 - [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
@@ -83,7 +84,6 @@
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
 - [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
 - [Chorology.ai Tackles Data Governance](https://www.darkreading.com/cybersecurity-operations/chorology-ai-tackles-data-governance)
-- [KnowBe4 Launches PhishER Plus Threat Intel Feature](https://www.darkreading.com/threat-intelligence/knowbe4-launches-phisher-plus-threat-intel-feature)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
