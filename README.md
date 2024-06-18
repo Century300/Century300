@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Derail Amtrak Guest Rewards Accounts in Breach](https://www.darkreading.com/cyberattacks-data-breaches/hackers-amtrak-guest-rewards-accounts-breach)
 - [Critical VMware Bugs Open Swaths of VMs to RCE, Data Theft](https://www.darkreading.com/cloud-security/critical-vmware-bugs-open-swaths-of-vms-to-rce-data-theft)
 - [Blackbaud Fined $6.75M After 2020 Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blackbaud-fined-6m-after-2020-ransomware-attack)
 - [Cut &amp;amp; Paste Tactics Import Malware to Unwitting Victims](https://www.darkreading.com/remote-workforce/cut-paste-tactics-import-malware)
@@ -83,7 +84,6 @@
 - [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
-- [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
