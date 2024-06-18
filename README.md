@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Blackbaud Fined $6.75M After 2020 Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blackbaud-fined-6m-after-2020-ransomware-attack)
 - [Cut &amp;amp; Paste Tactics Import Malware to Unwitting Victims](https://www.darkreading.com/remote-workforce/cut-paste-tactics-import-malware)
 - [The Software Licensing Disease Infecting Our Nation&#39;s Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/software-licensing-disease-infecting-our-nations-cybersecurity)
 - [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
@@ -83,7 +84,6 @@
 - [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 - [Emojis Control the Malware in Discord Spy Campaign](https://www.darkreading.com/remote-workforce/emojis-control-malware-discord-spy-campaign)
 - [DataBee Launches Innovations for Enhanced Threat Monitoring and Zero Trust Implementation](https://www.darkreading.com/threat-intelligence/databee-from-comcast-technology-solutions-launches-innovations-for-enhanced-threat-monitoring-and-zero-trust-implementation)
-- [Chorology.ai Tackles Data Governance](https://www.darkreading.com/cybersecurity-operations/chorology-ai-tackles-data-governance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
