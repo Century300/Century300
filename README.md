@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Singapore Extradites Suspected Cybercrime Scammers from Malaysia](https://www.darkreading.com/cyberattacks-data-breaches/singapore-extradites-suspected-cybercrime-scammers-from-malaysia)
 - [Hackers Derail Amtrak Guest Rewards Accounts in Breach](https://www.darkreading.com/cyberattacks-data-breaches/hackers-amtrak-guest-rewards-accounts-breach)
 - [Critical VMware Bugs Open Swaths of VMs to RCE, Data Theft](https://www.darkreading.com/cloud-security/critical-vmware-bugs-open-swaths-of-vms-to-rce-data-theft)
 - [Blackbaud Fined $6.75M After 2020 Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blackbaud-fined-6m-after-2020-ransomware-attack)
@@ -83,7 +84,6 @@
 - [The Software Licensing Disease Infecting Our Nation&#39;s Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/software-licensing-disease-infecting-our-nations-cybersecurity)
 - [Scattered Spider Pivots to SaaS Application Attacks](https://www.darkreading.com/remote-workforce/scattered-spider-pivots-saas-application-attacks)
 - [Bug Bounty Programs, Hacking Contests Power China&#39;s Cyber Offense](https://www.darkreading.com/cybersecurity-operations/bug-bounty-programs-hacking-contests-power-chinas-cyber-offense)
-- [Scattered Spider Boss Cuffed in Spain Boarding a Flight to Italy](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-boss-cuffed)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
