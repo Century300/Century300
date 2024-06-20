@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Catching Up on Innovation With NIST CSF 2.0](https://www.darkreading.com/vulnerabilities-threats/catching-up-on-innovation-with-nist-csf-2-0)
 - [CHERI Alliance Aims to Secure Hardware Memory](https://www.darkreading.com/endpoint-security/cheri-alliance-aims-to-secure-hardware-memory)
 - [How Cybersecurity Can Steer Organizations Toward Sustainability](https://www.darkreading.com/cybersecurity-operations/how-cybersecurity-can-steer-organizations-toward-sustainability)
 - [&#39;ONNX&#39; MFA Bypass Targets Microsoft 365 Accounts](https://www.darkreading.com/remote-workforce/onnx-microsoft-365-accounts-mfa-bypass)
@@ -83,7 +84,6 @@
 - [Singapore Extradites Suspected Cybercrime Scammers from Malaysia](https://www.darkreading.com/cyberattacks-data-breaches/singapore-extradites-suspected-cybercrime-scammers-from-malaysia)
 - [Hackers Derail Amtrak Guest Rewards Accounts in Breach](https://www.darkreading.com/cyberattacks-data-breaches/hackers-amtrak-guest-rewards-accounts-breach)
 - [Critical VMware Bugs Open Swaths of VMs to RCE, Data Theft](https://www.darkreading.com/cloud-security/critical-vmware-bugs-open-swaths-of-vms-to-rce-data-theft)
-- [Blackbaud Fined $6.75M After 2020 Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/blackbaud-fined-6m-after-2020-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
