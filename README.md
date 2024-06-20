@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thousands of Car Dealerships Stalled Out After Software Provider Cyberattack](https://www.darkreading.com/application-security/thousands-of-car-dealerships-stalled-out-after-software-provider-cyber-incident)
 - [Russia&#39;s Midnight Blizzard Seeks to Snow French Diplomats](https://www.darkreading.com/remote-workforce/russia-midnight-blizzard-french-diplomats)
 - [High-Risk Overflow Bug in Intel Chips Likely Impacts 100s of PC Models](https://www.darkreading.com/vulnerabilities-threats/high-risk-overflow-bug-in-intel-chips-likely-impacts-100s-of-pc-models)
 - [DDoS Attack Targets Poland&#39;s UEFA Euro Opening Match](https://www.darkreading.com/cyberattacks-data-breaches/ddos-attack-poland-uefa-euro-opening-match)
@@ -83,7 +84,6 @@
 - [Catching Up on Innovation With NIST CSF 2.0](https://www.darkreading.com/vulnerabilities-threats/catching-up-on-innovation-with-nist-csf-2-0)
 - [How Cybersecurity Can Steer Organizations Toward Sustainability](https://www.darkreading.com/cybersecurity-operations/how-cybersecurity-can-steer-organizations-toward-sustainability)
 - [&#39;ONNX&#39; MFA Bypass Targets Microsoft 365 Accounts](https://www.darkreading.com/remote-workforce/onnx-microsoft-365-accounts-mfa-bypass)
-- [France Seeks to Protect National Interests With Bid for Atos Cybersec](https://www.darkreading.com/cyber-risk/france-national-interests-bid-atos-cybersec)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
