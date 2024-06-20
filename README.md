@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Vortax&#39; Meeting Software Builds Elaborate Branding, Spreads Infostealers](https://www.darkreading.com/remote-workforce/vortax-meeting-software-branding-spreads-infostealers)
 - [Catching Up on Innovation With NIST CSF 2.0](https://www.darkreading.com/vulnerabilities-threats/catching-up-on-innovation-with-nist-csf-2-0)
 - [CHERI Alliance Aims to Secure Hardware Memory](https://www.darkreading.com/endpoint-security/cheri-alliance-aims-to-secure-hardware-memory)
 - [How Cybersecurity Can Steer Organizations Toward Sustainability](https://www.darkreading.com/cybersecurity-operations/how-cybersecurity-can-steer-organizations-toward-sustainability)
@@ -83,7 +84,6 @@
 - [France Seeks to Protect National Interests With Bid for Atos Cybersec](https://www.darkreading.com/cyber-risk/france-national-interests-bid-atos-cybersec)
 - [Singapore Extradites Suspected Cybercrime Scammers from Malaysia](https://www.darkreading.com/cyberattacks-data-breaches/singapore-extradites-suspected-cybercrime-scammers-from-malaysia)
 - [Hackers Derail Amtrak Guest Rewards Accounts in Breach](https://www.darkreading.com/cyberattacks-data-breaches/hackers-amtrak-guest-rewards-accounts-breach)
-- [Critical VMware Bugs Open Swaths of VMs to RCE, Data Theft](https://www.darkreading.com/cloud-security/critical-vmware-bugs-open-swaths-of-vms-to-rce-data-theft)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
