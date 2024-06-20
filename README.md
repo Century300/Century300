@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DDoS Attack Targets Poland&#39;s UEFA Euro Opening Match](https://www.darkreading.com/cyberattacks-data-breaches/ddos-attack-poland-uefa-euro-opening-match)
 - [&#39;Vortax&#39; Meeting Software Builds Elaborate Branding, Spreads Infostealers](https://www.darkreading.com/remote-workforce/vortax-meeting-software-branding-spreads-infostealers)
 - [Catching Up on Innovation With NIST CSF 2.0](https://www.darkreading.com/vulnerabilities-threats/catching-up-on-innovation-with-nist-csf-2-0)
 - [CHERI Alliance Aims to Secure Hardware Memory](https://www.darkreading.com/endpoint-security/cheri-alliance-aims-to-secure-hardware-memory)
@@ -83,7 +84,6 @@
 - [&#39;ONNX&#39; MFA Bypass Targets Microsoft 365 Accounts](https://www.darkreading.com/remote-workforce/onnx-microsoft-365-accounts-mfa-bypass)
 - [France Seeks to Protect National Interests With Bid for Atos Cybersec](https://www.darkreading.com/cyber-risk/france-national-interests-bid-atos-cybersec)
 - [Singapore Extradites Suspected Cybercrime Scammers from Malaysia](https://www.darkreading.com/cyberattacks-data-breaches/singapore-extradites-suspected-cybercrime-scammers-from-malaysia)
-- [Hackers Derail Amtrak Guest Rewards Accounts in Breach](https://www.darkreading.com/cyberattacks-data-breaches/hackers-amtrak-guest-rewards-accounts-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
