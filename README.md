@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kaspersky&#39;s US Customers Face Tight Deadline Following Govt. Ban](https://www.darkreading.com/cybersecurity-operations/kaspersky-us-customers-deadline-govt-ban)
 - [Abstract Security Announces General Availability of its AI-Powered Data Streaming Platform for Security](https://www.darkreading.com/cybersecurity-operations/abstract-security-announces-general-availability-of-its-ai-powered-data-streaming-platform-for-security)
 - [&#39;SneakyChef&#39; APT Slices Up Foreign Affairs With SugarGh0st](https://www.darkreading.com/threat-intelligence/sneakychef-apt-slices-up-foreign-affairs-with-sugargh0st)
 - [FS-ISAC Announces Appointments to Global Board of Directors](https://www.darkreading.com/threat-intelligence/fs-isac-announces-appointments-to-global-board-of-directors)
@@ -83,7 +84,6 @@
 - [VicOne Solutions for Detection of Zero-Day Vulnerabilities and Contextualized Attack Paths](https://www.darkreading.com/cloud-security/vicone-solutions-for-detection-of-zero-day-vulnerabilities-and-contextualized-attack-paths)
 - [Legal Defense Fund Covers Crypto Research](https://www.darkreading.com/application-security/legal-defense-fund-covers-crypto-hacks)
 - [Multifactor Authentication Is Not Enough to Protect Cloud Data](https://www.darkreading.com/cloud-security/multi-factor-authentication-not-enough-to-protect-cloud-data)
-- [Securing Customers&#39; Trust With SOC 2 Type II Compliance](https://www.darkreading.com/cybersecurity-operations/securing-customers-trust-with-soc-2-type-ii-compliance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
