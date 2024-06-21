@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Multifactor Authentication Is Not Enough to Protect Cloud Data](https://www.darkreading.com/cloud-security/multi-factor-authentication-not-enough-to-protect-cloud-data)
 - [Securing Customers&#39; Trust With SOC 2 Type II Compliance](https://www.darkreading.com/cybersecurity-operations/securing-customers-trust-with-soc-2-type-ii-compliance)
 - [Thousands of Car Dealerships Stalled Out After Software Provider Cyberattack](https://www.darkreading.com/application-security/thousands-of-car-dealerships-stalled-out-after-software-provider-cyber-incident)
 - [Russia&#39;s Midnight Blizzard Seeks to Snow French Diplomats](https://www.darkreading.com/remote-workforce/russia-midnight-blizzard-french-diplomats)
@@ -83,7 +84,6 @@
 - [DDoS Attack Targets Poland&#39;s UEFA Euro Opening Match](https://www.darkreading.com/cyberattacks-data-breaches/ddos-attack-poland-uefa-euro-opening-match)
 - [Consumer Privacy Bill Fails in Vermont](https://www.darkreading.com/cyber-risk/consumer-privacy-bill-fails-vermont)
 - [&#39;Vortax&#39; Meeting Software Builds Elaborate Branding, Spreads Infostealers](https://www.darkreading.com/remote-workforce/vortax-meeting-software-branding-spreads-infostealers)
-- [Catching Up on Innovation With NIST CSF 2.0](https://www.darkreading.com/vulnerabilities-threats/catching-up-on-innovation-with-nist-csf-2-0)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
