@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Abstract Security Announces General Availability of its AI-Powered Data Streaming Platform for Security](https://www.darkreading.com/cybersecurity-operations/abstract-security-announces-general-availability-of-its-ai-powered-data-streaming-platform-for-security)
+- [&#39;SneakyChef&#39; APT Slices Up Foreign Affairs With SugarGh0st](https://www.darkreading.com/threat-intelligence/sneakychef-apt-slices-up-foreign-affairs-with-sugargh0st)
+- [FS-ISAC Announces Appointments to Global Board of Directors](https://www.darkreading.com/threat-intelligence/fs-isac-announces-appointments-to-global-board-of-directors)
+- [CISO Corner: Critical Infrastructure Misinformation; France&#39;s Atos Bid](https://www.darkreading.com/remote-workforce/ciso-corner-critical-infrastructure-misinformation-risk-france-atos-bid)
+- [VicOne Solutions for Detection of Zero-Day Vulnerabilities and Contextualized Attack Paths](https://www.darkreading.com/cloud-security/vicone-solutions-for-detection-of-zero-day-vulnerabilities-and-contextualized-attack-paths)
 - [Legal Defense Fund Covers Crypto Research](https://www.darkreading.com/application-security/legal-defense-fund-covers-crypto-hacks)
 - [Multifactor Authentication Is Not Enough to Protect Cloud Data](https://www.darkreading.com/cloud-security/multi-factor-authentication-not-enough-to-protect-cloud-data)
 - [Securing Customers&#39; Trust With SOC 2 Type II Compliance](https://www.darkreading.com/cybersecurity-operations/securing-customers-trust-with-soc-2-type-ii-compliance)
-- [Thousands of Car Dealerships Stalled Out After Software Provider Cyberattack](https://www.darkreading.com/application-security/thousands-of-car-dealerships-stalled-out-after-software-provider-cyber-incident)
-- [Russia&#39;s Midnight Blizzard Seeks to Snow French Diplomats](https://www.darkreading.com/remote-workforce/russia-midnight-blizzard-french-diplomats)
-- [High-Risk Overflow Bug in Intel Chips Likely Impacts 100s of PC Models](https://www.darkreading.com/vulnerabilities-threats/high-risk-overflow-bug-in-intel-chips-likely-impacts-100s-of-pc-models)
-- [DDoS Attack Targets Poland&#39;s UEFA Euro Opening Match](https://www.darkreading.com/cyberattacks-data-breaches/ddos-attack-poland-uefa-euro-opening-match)
-- [Consumer Privacy Bill Fails in Vermont](https://www.darkreading.com/cyber-risk/consumer-privacy-bill-fails-vermont)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
