@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [30M Potentially Affected in Tickettek Australia Cloud Breach](https://www.darkreading.com/cloud-security/30m-affected-tickettek-australia-cloud-breach)
 - [The NYSE&#39;s $10M Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/nyse-10-million-wake-up-call)
 - [Kaspersky&#39;s US Customers Face Tight Deadline Following Govt. Ban](https://www.darkreading.com/cybersecurity-operations/kaspersky-us-customers-deadline-govt-ban)
 - [Abstract Security Announces General Availability of its AI-Powered Data Streaming Platform for Security](https://www.darkreading.com/cybersecurity-operations/abstract-security-announces-general-availability-of-its-ai-powered-data-streaming-platform-for-security)
@@ -83,7 +84,6 @@
 - [FS-ISAC Announces Appointments to Global Board of Directors](https://www.darkreading.com/threat-intelligence/fs-isac-announces-appointments-to-global-board-of-directors)
 - [CISO Corner: Critical Infrastructure Misinformation; France&#39;s Atos Bid](https://www.darkreading.com/remote-workforce/ciso-corner-critical-infrastructure-misinformation-risk-france-atos-bid)
 - [VicOne Solutions for Detection of Zero-Day Vulnerabilities and Contextualized Attack Paths](https://www.darkreading.com/cloud-security/vicone-solutions-for-detection-of-zero-day-vulnerabilities-and-contextualized-attack-paths)
-- [Legal Defense Fund Covers Crypto Research](https://www.darkreading.com/application-security/legal-defense-fund-covers-crypto-hacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
