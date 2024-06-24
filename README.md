@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Building Application Security Into Shadow IT Looks Like](https://www.darkreading.com/application-security/building-application-security-into-shadow-it)
 - [30M Potentially Affected in Tickettek Australia Cloud Breach](https://www.darkreading.com/cloud-security/30m-affected-tickettek-australia-cloud-breach)
 - [The NYSE&#39;s $10M Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/nyse-10-million-wake-up-call)
 - [Kaspersky&#39;s US Customers Face Tight Deadline Following Govt. Ban](https://www.darkreading.com/cybersecurity-operations/kaspersky-us-customers-deadline-govt-ban)
@@ -83,7 +84,6 @@
 - [&#39;SneakyChef&#39; APT Slices Up Foreign Affairs With SugarGh0st](https://www.darkreading.com/threat-intelligence/sneakychef-apt-slices-up-foreign-affairs-with-sugargh0st)
 - [FS-ISAC Announces Appointments to Global Board of Directors](https://www.darkreading.com/threat-intelligence/fs-isac-announces-appointments-to-global-board-of-directors)
 - [CISO Corner: Critical Infrastructure Misinformation; France&#39;s Atos Bid](https://www.darkreading.com/remote-workforce/ciso-corner-critical-infrastructure-misinformation-risk-france-atos-bid)
-- [VicOne Solutions for Detection of Zero-Day Vulnerabilities and Contextualized Attack Paths](https://www.darkreading.com/cloud-security/vicone-solutions-for-detection-of-zero-day-vulnerabilities-and-contextualized-attack-paths)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
