@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WordPress Supply Chain Attack Spreads Across Multiple Plug-Ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
 - [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
 - [China-Linked Cyber-Espionage Teams Target Asian Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-espionage-groups-target-asian-telecoms)
@@ -83,7 +84,6 @@
 - [What Building Application Security Into Shadow IT Looks Like](https://www.darkreading.com/application-security/building-application-security-into-shadow-it)
 - [30M Potentially Affected in Tickettek Australia Cloud Breach](https://www.darkreading.com/cloud-security/30m-affected-tickettek-australia-cloud-breach)
 - [The NYSE&#39;s $10M Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/nyse-10-million-wake-up-call)
-- [Kaspersky&#39;s US Customers Face Tight Deadline Following Govt. Ban](https://www.darkreading.com/cybersecurity-operations/kaspersky-us-customers-deadline-govt-ban)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
