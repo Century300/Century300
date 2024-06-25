@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actor May Have Accessed Sensitive Info on CISA Chemical App](https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-may-have-accessed-sensitive-info-on-cisa-chemical-app)
 - [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
 - [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
@@ -83,7 +84,6 @@
 - [CDK Attack: Why Contingency Planning Is Critical for SaaS Customers](https://www.darkreading.com/cloud-security/cdk-attack-contingency-planning-critical-saas-customers)
 - [What Building Application Security Into Shadow IT Looks Like](https://www.darkreading.com/application-security/building-application-security-into-shadow-it)
 - [30M Potentially Affected in Tickettek Australia Cloud Breach](https://www.darkreading.com/cloud-security/30m-affected-tickettek-australia-cloud-breach)
-- [The NYSE&#39;s $10M Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/nyse-10-million-wake-up-call)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
