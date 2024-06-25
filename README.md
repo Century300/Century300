@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fresh MOVEit Bug Under Attack Mere Hours After Disclosure](https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure)
 - [Indonesia Refuses to Pay $8M Ransom After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/indonesia-refuses-to-pay-8m-ransom-after-cyberattack)
 - [Threat Actor May Have Accessed Sensitive Info on CISA Chemical App](https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-may-have-accessed-sensitive-info-on-cisa-chemical-app)
 - [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
@@ -83,7 +84,6 @@
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
 - [China-Linked Cyber-Espionage Teams Target Asian Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-espionage-groups-target-asian-telecoms)
 - [CDK Attack: Why Contingency Planning Is Critical for SaaS Customers](https://www.darkreading.com/cloud-security/cdk-attack-contingency-planning-critical-saas-customers)
-- [What Building Application Security Into Shadow IT Looks Like](https://www.darkreading.com/application-security/building-application-security-into-shadow-it)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
