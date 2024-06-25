@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [WordPress Supply Chain Attack Spreads Across Multiple Plug-Ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
+- [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
 - [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
 - [China-Linked Cyber-Espionage Teams Target Asian Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-espionage-groups-target-asian-telecoms)
