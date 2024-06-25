@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
 - [China-Linked Cyber-Espionage Teams Target Asian Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-espionage-groups-target-asian-telecoms)
 - [CDK Attack: Why Contingency Planning Is Critical for SaaS Customers](https://www.darkreading.com/cloud-security/cdk-attack-contingency-planning-critical-saas-customers)
@@ -83,7 +84,6 @@
 - [30M Potentially Affected in Tickettek Australia Cloud Breach](https://www.darkreading.com/cloud-security/30m-affected-tickettek-australia-cloud-breach)
 - [The NYSE&#39;s $10M Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/nyse-10-million-wake-up-call)
 - [Kaspersky&#39;s US Customers Face Tight Deadline Following Govt. Ban](https://www.darkreading.com/cybersecurity-operations/kaspersky-us-customers-deadline-govt-ban)
-- [Abstract Security Announces General Availability of its AI-Powered Data Streaming Platform for Security](https://www.darkreading.com/cybersecurity-operations/abstract-security-announces-general-availability-of-its-ai-powered-data-streaming-platform-for-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
