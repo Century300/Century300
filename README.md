@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple AirPods Bug Allows Eavesdropping](https://www.darkreading.com/vulnerabilities-threats/apple-airpods-bug-allows-eavesdropping)
 - [Polyfill.io Supply Chain Attack Smacks Down 100K+ Websites](https://www.darkreading.com/remote-workforce/polyfillio-supply-chain-attack-smacks-down-100k-websites)
 - [Neiman Marcus Customers Impacted by Snowflake Data Breach](https://www.darkreading.com/cloud-security/nieman-marcus-customers-impacted-snowflake-data-breach)
 - [Diverse Cybersecurity Workforce Act Offers More Than Diversity Benefits](https://www.darkreading.com/cybersecurity-operations/diverse-cybersecurity-workforce-act-offers-more-than-diversity-benefits)
@@ -83,7 +84,6 @@
 - [&#39;ChamelGang&#39; APT Disguises Espionage Activities With Ransomware](https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities)
 - [Fresh MOVEit Bug Under Attack Mere Hours After Disclosure](https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure)
 - [Indonesia Refuses to Pay $8M Ransom After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/indonesia-refuses-to-pay-8m-ransom-after-cyberattack)
-- [Threat Actor May Have Accessed Sensitive Info on CISA Chemical App](https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-may-have-accessed-sensitive-info-on-cisa-chemical-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
