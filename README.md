@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Polyfill.io Supply Chain Attack Smacks Down 100K+ Websites](https://www.darkreading.com/remote-workforce/polyfillio-supply-chain-attack-smacks-down-100k-websites)
 - [Neiman Marcus Customers Impacted by Snowflake Data Breach](https://www.darkreading.com/cloud-security/nieman-marcus-customers-impacted-snowflake-data-breach)
 - [Diverse Cybersecurity Workforce Act Offers More Than Diversity Benefits](https://www.darkreading.com/cybersecurity-operations/diverse-cybersecurity-workforce-act-offers-more-than-diversity-benefits)
 - [&#39;Snowblind&#39; Tampering Technique May Drive Android Users Adrift](https://www.darkreading.com/remote-workforce/snowblind-tampering-technique-may-drive-android-users-adrift)
@@ -83,7 +84,6 @@
 - [Fresh MOVEit Bug Under Attack Mere Hours After Disclosure](https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure)
 - [Indonesia Refuses to Pay $8M Ransom After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/indonesia-refuses-to-pay-8m-ransom-after-cyberattack)
 - [Threat Actor May Have Accessed Sensitive Info on CISA Chemical App](https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-may-have-accessed-sensitive-info-on-cisa-chemical-app)
-- [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
