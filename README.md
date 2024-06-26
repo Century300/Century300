@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Neiman Marcus Customers Impacted by Snowflake Data Breach](https://www.darkreading.com/cloud-security/nieman-marcus-customers-impacted-snowflake-data-breach)
 - [Diverse Cybersecurity Workforce Act Offers More Than Diversity Benefits](https://www.darkreading.com/cybersecurity-operations/diverse-cybersecurity-workforce-act-offers-more-than-diversity-benefits)
 - [&#39;Snowblind&#39; Tampering Technique May Drive Android Users Adrift](https://www.darkreading.com/remote-workforce/snowblind-tampering-technique-may-drive-android-users-adrift)
 - [&#39;ChamelGang&#39; APT Disguises Espionage Activities With Ransomware](https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities)
@@ -83,7 +84,6 @@
 - [Indonesia Refuses to Pay $8M Ransom After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/indonesia-refuses-to-pay-8m-ransom-after-cyberattack)
 - [Threat Actor May Have Accessed Sensitive Info on CISA Chemical App](https://www.darkreading.com/cyberattacks-data-breaches/threat-actor-may-have-accessed-sensitive-info-on-cisa-chemical-app)
 - [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
-- [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
