@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Snowblind&#39; Tampering Technique May Drive Android Users Adrift](https://www.darkreading.com/remote-workforce/snowblind-tampering-technique-may-drive-android-users-adrift)
 - [&#39;ChamelGang&#39; APT Disguises Espionage Activities With Ransomware](https://www.darkreading.com/ics-ot-security/china-nexus-group-using-ransomware-to-disguise-cyber-espionage-activities)
 - [Fresh MOVEit Bug Under Attack Mere Hours After Disclosure](https://www.darkreading.com/remote-workforce/fresh-moveit-bug-under-attack-disclosure)
 - [Indonesia Refuses to Pay $8M Ransom After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/indonesia-refuses-to-pay-8m-ransom-after-cyberattack)
@@ -83,7 +84,6 @@
 - [WordPress Supply Chain Attack Spreads Across Multiple Plug-ins](https://www.darkreading.com/cloud-security/wordpress-supply-chain-attack-multiple-plug-ins)
 - [Key Takeaways From the British Library Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/key-takeaways-from-the-british-library-cyberattack)
 - [&#39;P2PInfect&#39; Worm Grows Teeth With Miner, Ransomware &amp;amp; Rootkit](https://www.darkreading.com/threat-intelligence/p2pinfect-worm-miner-ransomware-rootkit)
-- [China-Linked Cyber-Espionage Teams Target Asian Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-espionage-groups-target-asian-telecoms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
