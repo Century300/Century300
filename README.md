@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
+- [MOVEit Transfer Flaws Push Security Defense Into a Race With Attackers](https://www.darkreading.com/cyberattacks-data-breaches/moveit-transfer-flaws-security-defense-attackers)
+- [Your Phone&#39;s 5G Connection is Vulnerable to Bypass, DoS Attacks](https://www.darkreading.com/mobile-security/your-phone-s-5g-connection-is-exposed-to-bypass-dos-attacks)
 - [China-Sponsored Attackers Target 40K Corporate Users in 90 Days](https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users)
 - [CISA Releases Guidance on Network Access, VPNs](https://www.darkreading.com/cyber-risk/cisa-releases-guidance-on-network-access-vpns)
 - [Achieve Next-Level Security Awareness by Creating Secure Social Norms](https://www.darkreading.com/cybersecurity-operations/achieve-next-level-security-awareness-by-creating-secure-social-norms)
 - [Optiv Report Shows Nearly 60% Increase in Security Budgets as Most Organizations Report Cyber Breaches and Incidents](https://www.darkreading.com/cybersecurity-operations/optiv-report-shows-nearly-60-increase-in-security-budgets-as-most-organizations-report-cyber-breaches-and-incidents)
 - [Is Defense Winning? A Look at Decades of Playing Catch Up](https://www.darkreading.com/cyber-risk/is-defense-winning-a-look-at-decades-of-playing-catch-up)
-- [CISOs Growing More Comfortable With Risk, But Better C-Suite Alignment Needed](https://www.darkreading.com/cyber-risk/cisos-growing-more-comfortable-with-risk-but-better-c-suite-alignment-needed)
-- [Akamai Completes Acquisition of API Security Company Noname](https://www.darkreading.com/cloud-security/akamai-completes-acquisition-of-api-security-company-noname)
-- [Dangerous AI Workaround: &#39;Skeleton Key&#39; Unlocks Malicious Content](https://www.darkreading.com/application-security/dangerous-ai-workaround-skeleton-key-unlocks-malicious-content)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
