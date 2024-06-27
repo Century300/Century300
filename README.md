@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Optiv Report Shows Nearly 60% Increase in Security Budgets as Most Organizations Report Cyber Breaches and Incidents](https://www.darkreading.com/cybersecurity-operations/optiv-report-shows-nearly-60-increase-in-security-budgets-as-most-organizations-report-cyber-breaches-and-incidents)
+- [Is Defense Winning? A Look at Decades of Playing Catch Up](https://www.darkreading.com/cyber-risk/is-defense-winning-a-look-at-decades-of-playing-catch-up)
 - [CISOs Growing More Comfortable With Risk, But Better C-Suite Alignment Needed](https://www.darkreading.com/cyber-risk/cisos-growing-more-comfortable-with-risk-but-better-c-suite-alignment-needed)
 - [Akamai Completes Acquisition of API Security Company Noname](https://www.darkreading.com/cloud-security/akamai-completes-acquisition-of-api-security-company-noname)
 - [Dangerous AI Workaround: &#39;Skeleton Key&#39; Unlocks Malicious Content](https://www.darkreading.com/application-security/dangerous-ai-workaround-skeleton-key-unlocks-malicious-content)
 - [Apple AirPods Bug Allows Eavesdropping](https://www.darkreading.com/vulnerabilities-threats/apple-airpods-bug-allows-eavesdropping)
 - [Polyfill.io Supply Chain Attack Smacks Down 100K+ Websites](https://www.darkreading.com/remote-workforce/polyfillio-supply-chain-attack-smacks-down-100k-websites)
 - [Neiman Marcus Customers Impacted by Snowflake Data Breach](https://www.darkreading.com/cloud-security/nieman-marcus-customers-impacted-snowflake-data-breach)
-- [Diverse Cybersecurity Workforce Act Offers More Than Diversity Benefits](https://www.darkreading.com/cybersecurity-operations/diverse-cybersecurity-workforce-act-offers-more-than-diversity-benefits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
