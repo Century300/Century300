@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New FCC Pilot Shores Up Security for K-12, Libraries](https://www.darkreading.com/endpoint-security/new-fcc-pilot-shores-up-security-for-k-12-libraries)
 - [Authenticator for X, TikTok Exposes Personal User Info for 18 Months](https://www.darkreading.com/cyber-risk/authenticator-for-x-tiktok-exposes-personal-user-info-for-18-months)
 - [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
 - [MOVEit Transfer Flaws Push Security Defense Into a Race With Attackers](https://www.darkreading.com/cyberattacks-data-breaches/moveit-transfer-flaws-security-defense-attackers)
@@ -83,7 +84,6 @@
 - [China-Sponsored Attackers Target 40K Corporate Users in 90 Days](https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users)
 - [CISA Releases Guidance on Network Access, VPNs](https://www.darkreading.com/cyber-risk/cisa-releases-guidance-on-network-access-vpns)
 - [Achieve Next-Level Security Awareness by Creating Secure Social Norms](https://www.darkreading.com/cybersecurity-operations/achieve-next-level-security-awareness-by-creating-secure-social-norms)
-- [Optiv Report Shows Nearly 60% Increase in Security Budgets as Most Organizations Report Cyber Breaches and Incidents](https://www.darkreading.com/cybersecurity-operations/optiv-report-shows-nearly-60-increase-in-security-budgets-as-most-organizations-report-cyber-breaches-and-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
