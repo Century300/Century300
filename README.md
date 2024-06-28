@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Landmark Admin, LLC Provides Notice of Data Privacy Incident](https://www.darkreading.com/cyberattacks-data-breaches/landmark-admin-llc-provides-notice-of-data-privacy-incident)
+- [The Mount Kisco Surgery Center LLC d/b/a The Ambulatory Surgery Center of Westchester - Notice of Data Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/the-mount-kisco-surgery-center-llc-d-b-a-the-ambulatory-surgery-center-of-westchester-notice-of-data-security-incident)
+- [TeamViewer Credits Network Segmentation for Rebuffing APT29 Attack](https://www.darkreading.com/cyberattacks-data-breaches/teamviewer-network-segmentation-apt29-attack)
+- [Cybersecurity Veteran Kevin Mandia Named General Partner of Ballistic Ventures](https://www.darkreading.com/threat-intelligence/cybersecurity-veteran-kevin-mandia-named-general-partner-of-ballistic-ventures)
 - [Critical GitLab Bug Threatens Software Development Pipelines](https://www.darkreading.com/application-security/critical-gitlab-bug-threatens-software-development-pipelines)
 - [CISO Corner: The NYSE &amp;amp; the SEC; Ransomware Negotiation Tips](https://www.darkreading.com/cybersecurity-operations/ciso-corner-nyse-sec-ransomware-negotiation-tips)
 - [CISA&#39;s Flags Memory-Unsafe Code in Major Open Source Projects](https://www.darkreading.com/application-security/cisa-memory-unsafe-code-open-source-projects)
 - [Hundreds of Thousands Impacted in Children&#39;s Hospital Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-of-thousands-impacted-children-hospital-cyberattack)
-- [LockBit Attack Targets Evolve Bank, Not Federal Reserve](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-attack-targets-evolve-bank-federal-reserve)
-- [Unfounded Fears: AI Extinction-Level Threats &amp;amp; the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/unfounded-fears-ai-extinction-level-threats-ai-arms-race)
-- [1Touch.io Integrates AI Into Mainframe Security](https://www.darkreading.com/endpoint-security/1touch-io-integrates-ai-into-mainframe-security)
-- [Don&#39;t Forget to Report a Breach: A Cautionary Tale](https://www.darkreading.com/cyber-risk/don-t-forget-to-report-a-breach-a-cautionary-tale)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
