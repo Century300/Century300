@@ -81,7 +81,7 @@
 - [Beazley Security Launches With MXDR Offering](https://www.darkreading.com/cyber-risk/beazley-security-launches-with-mxdr-offering)
 - [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
 - [MOVEit Transfer Flaws Push Security Defense Into a Race With Attackers](https://www.darkreading.com/cyberattacks-data-breaches/moveit-transfer-flaws-security-defense-attackers)
-- [Your Phone&#39;s 5G Connection is Vulnerable to Bypass, DoS Attacks](https://www.darkreading.com/mobile-security/your-phone-s-5g-connection-is-exposed-to-bypass-dos-attacks)
+- [Your Phone&#39;s 5G Connection Is Vulnerable to Bypass, DoS Attacks](https://www.darkreading.com/mobile-security/your-phone-s-5g-connection-is-exposed-to-bypass-dos-attacks)
 - [China-Sponsored Attackers Target 40K Corporate Users in 90 Days](https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users)
 - [CISA Releases Guidance on Network Access, VPNs](https://www.darkreading.com/cyber-risk/cisa-releases-guidance-on-network-access-vpns)
 <!-- DARKREADING:END -->
