@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LockBit Attack Targets Evolve Bank, Not Federal Reserve](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-attack-targets-evolve-bank-federal-reserve)
 - [Unfounded Fears: AI Extinction-Level Threats &amp;amp; the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/unfounded-fears-ai-extinction-level-threats-ai-arms-race)
 - [1Touch.io Integrates AI Into Mainframe Security](https://www.darkreading.com/endpoint-security/1touch-io-integrates-ai-into-mainframe-security)
 - [Don&#39;t Forget to Report a Breach: A Cautionary Tale](https://www.darkreading.com/cyber-risk/don-t-forget-to-report-a-breach-a-cautionary-tale)
@@ -83,7 +84,6 @@
 - [Authenticator for X, TikTok Exposes Personal User Info for 18 Months](https://www.darkreading.com/cyber-risk/authenticator-for-x-tiktok-exposes-personal-user-info-for-18-months)
 - [Beazley Security Launches With MXDR Offering](https://www.darkreading.com/cyber-risk/beazley-security-launches-with-mxdr-offering)
 - [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
-- [MOVEit Transfer Flaws Push Security Defense Into a Race With Attackers](https://www.darkreading.com/cyberattacks-data-breaches/moveit-transfer-flaws-security-defense-attackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
