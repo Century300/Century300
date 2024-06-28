@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA&#39;s Flags Memory-Unsafe Code in Major Open Source Projects](https://www.darkreading.com/application-security/cisa-memory-unsafe-code-open-source-projects)
 - [Hundreds of Thousands Impacted in Children&#39;s Hospital Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-of-thousands-impacted-children-hospital-cyberattack)
 - [LockBit Attack Targets Evolve Bank, Not Federal Reserve](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-attack-targets-evolve-bank-federal-reserve)
 - [Unfounded Fears: AI Extinction-Level Threats &amp;amp; the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/unfounded-fears-ai-extinction-level-threats-ai-arms-race)
@@ -83,7 +84,6 @@
 - [Don&#39;t Forget to Report a Breach: A Cautionary Tale](https://www.darkreading.com/cyber-risk/don-t-forget-to-report-a-breach-a-cautionary-tale)
 - [New FCC Pilot Shores Up Security for K-12, Libraries](https://www.darkreading.com/endpoint-security/new-fcc-pilot-shores-up-security-for-k-12-libraries)
 - [Authenticator for X, TikTok Exposes Personal User Info for 18 Months](https://www.darkreading.com/cyber-risk/authenticator-for-x-tiktok-exposes-personal-user-info-for-18-months)
-- [Beazley Security Launches With MXDR Offering](https://www.darkreading.com/cyber-risk/beazley-security-launches-with-mxdr-offering)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
