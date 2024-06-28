@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unfounded Fears: AI Extinction-Level Threats &amp;amp; the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/unfounded-fears-ai-extinction-level-threats-ai-arms-race)
+- [1Touch.io Integrates AI Into Mainframe Security](https://www.darkreading.com/endpoint-security/1touch-io-integrates-ai-into-mainframe-security)
+- [Don&#39;t Forget to Report a Breach: A Cautionary Tale](https://www.darkreading.com/cyber-risk/don-t-forget-to-report-a-breach-a-cautionary-tale)
 - [New FCC Pilot Shores Up Security for K-12, Libraries](https://www.darkreading.com/endpoint-security/new-fcc-pilot-shores-up-security-for-k-12-libraries)
 - [Authenticator for X, TikTok Exposes Personal User Info for 18 Months](https://www.darkreading.com/cyber-risk/authenticator-for-x-tiktok-exposes-personal-user-info-for-18-months)
 - [Beazley Security Launches With MXDR Offering](https://www.darkreading.com/cyber-risk/beazley-security-launches-with-mxdr-offering)
 - [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
 - [MOVEit Transfer Flaws Push Security Defense Into a Race With Attackers](https://www.darkreading.com/cyberattacks-data-breaches/moveit-transfer-flaws-security-defense-attackers)
-- [Your Phone&#39;s 5G Connection Is Vulnerable to Bypass, DoS Attacks](https://www.darkreading.com/mobile-security/your-phone-s-5g-connection-is-exposed-to-bypass-dos-attacks)
-- [China-Sponsored Attackers Target 40K Corporate Users in 90 Days](https://www.darkreading.com/threat-intelligence/china-sponsored-attackers-40k-corporate-users)
-- [CISA Releases Guidance on Network Access, VPNs](https://www.darkreading.com/cyber-risk/cisa-releases-guidance-on-network-access-vpns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
