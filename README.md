@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hundreds of Thousands Impacted in Children&#39;s Hospital Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-of-thousands-impacted-children-hospital-cyberattack)
 - [LockBit Attack Targets Evolve Bank, Not Federal Reserve](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-attack-targets-evolve-bank-federal-reserve)
 - [Unfounded Fears: AI Extinction-Level Threats &amp;amp; the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/unfounded-fears-ai-extinction-level-threats-ai-arms-race)
 - [1Touch.io Integrates AI Into Mainframe Security](https://www.darkreading.com/endpoint-security/1touch-io-integrates-ai-into-mainframe-security)
@@ -83,7 +84,6 @@
 - [New FCC Pilot Shores Up Security for K-12, Libraries](https://www.darkreading.com/endpoint-security/new-fcc-pilot-shores-up-security-for-k-12-libraries)
 - [Authenticator for X, TikTok Exposes Personal User Info for 18 Months](https://www.darkreading.com/cyber-risk/authenticator-for-x-tiktok-exposes-personal-user-info-for-18-months)
 - [Beazley Security Launches With MXDR Offering](https://www.darkreading.com/cyber-risk/beazley-security-launches-with-mxdr-offering)
-- [Dark Reading Confidential: Meet the Ransomware Negotiators](https://www.darkreading.com/cyberattacks-data-breaches/meet-the-ransomware-negotiators)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
