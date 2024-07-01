@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;RegreSSHion&#39; Bug Threatens Takeover of Millions of Linux Systems](https://www.darkreading.com/cloud-security/regresshion-bug-threatens-takeover-of-millions-of-linux-systems)
+- [Prudential Data Breach Victim Count Soars to 2.5M](https://www.darkreading.com/cyberattacks-data-breaches/prudential-data-breach-victim-count-soars-to-25m)
 - [Juniper Rushes Out Emergency Patch for Critical Smart Router Flaw](https://www.darkreading.com/ics-ot-security/juniper-rushes-out-emergency-patch-for-critical-smart-router-flaw)
 - [Apple CocoaPods Bugs Expose Millions of Apps to Code Injection](https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection)
 - [Apple&#39;s AI Moves Will Impact Future Chip, Cloud Security Plans](https://www.darkreading.com/cloud-security/apple-ai-moves-will-impact-future-chip-cloud-security-plans)
-- [Name That Edge Toon: Cyber Cloudburst](https://www.darkreading.com/cloud-security/name-that-edge-toon-cyber-cloudburst)
 - [Thinking About Security, Fast &amp;amp; Slow](https://www.darkreading.com/cyber-risk/thinking-about-security-fast-slow)
+- [Name That Edge Toon: Cyber Cloudburst](https://www.darkreading.com/cloud-security/name-that-edge-toon-cyber-cloudburst)
 - [Landmark Admin, LLC Provides Notice of Data Privacy Incident](https://www.darkreading.com/cyberattacks-data-breaches/landmark-admin-llc-provides-notice-of-data-privacy-incident)
-- [The Mount Kisco Surgery Center LLC d/b/a The Ambulatory Surgery Center of Westchester - Notice of Data Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/the-mount-kisco-surgery-center-llc-d-b-a-the-ambulatory-surgery-center-of-westchester-notice-of-data-security-incident)
-- [TeamViewer Credits Network Segmentation for Rebuffing APT29 Attack](https://www.darkreading.com/cyberattacks-data-breaches/teamviewer-network-segmentation-apt29-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
