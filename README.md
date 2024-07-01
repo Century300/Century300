@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Papua New Guinea Sets High Bar in Data Security](https://www.darkreading.com/cyber-risk/papua-new-guinea-sets-high-bar-in-data-security)
 - [Multi-Malware &#39;Cluster Bomb&#39; Campaign Drops Widespread Cyber Havoc](https://www.darkreading.com/cyberattacks-data-breaches/multi-malware-cluster-bomb-campaign-cyber-havoc)
 - [Google Opens $250K Bug Bounty Contest for VM Hypervisor](https://www.darkreading.com/cloud-security/google-opens-250k-bug-bounty-contest-for-vm-hypervisor)
 - [&#39;RegreSSHion&#39; Bug Threatens Takeover of Millions of Linux Systems](https://www.darkreading.com/cloud-security/regresshion-bug-threatens-takeover-of-millions-of-linux-systems)
@@ -83,7 +84,6 @@
 - [Juniper Rushes Out Emergency Patch for Critical Smart Router Flaw](https://www.darkreading.com/ics-ot-security/juniper-rushes-out-emergency-patch-for-critical-smart-router-flaw)
 - [Apple CocoaPods Bugs Expose Millions of Apps to Code Injection](https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection)
 - [Apple&#39;s AI Moves Will Impact Future Chip, Cloud Security Plans](https://www.darkreading.com/cloud-security/apple-ai-moves-will-impact-future-chip-cloud-security-plans)
-- [Thinking About Security, Fast &amp;amp; Slow](https://www.darkreading.com/cyber-risk/thinking-about-security-fast-slow)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
