@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Multi-Malware &#39;Cluster Bomb&#39; Campaign Drops Widespread Cyber Havoc](https://www.darkreading.com/cyberattacks-data-breaches/multi-malware-cluster-bomb-campaign-cyber-havoc)
 - [Google Opens $250K Bug Bounty Contest for VM Hypervisor](https://www.darkreading.com/cloud-security/google-opens-250k-bug-bounty-contest-for-vm-hypervisor)
 - [&#39;RegreSSHion&#39; Bug Threatens Takeover of Millions of Linux Systems](https://www.darkreading.com/cloud-security/regresshion-bug-threatens-takeover-of-millions-of-linux-systems)
 - [Prudential Data Breach Victim Count Soars to 2.5M](https://www.darkreading.com/cyberattacks-data-breaches/prudential-data-breach-victim-count-soars-to-25m)
@@ -83,7 +84,6 @@
 - [Apple CocoaPods Bugs Expose Millions of Apps to Code Injection](https://www.darkreading.com/cloud-security/apple-cocoapods-bugs-expose-apps-code-injection)
 - [Apple&#39;s AI Moves Will Impact Future Chip, Cloud Security Plans](https://www.darkreading.com/cloud-security/apple-ai-moves-will-impact-future-chip-cloud-security-plans)
 - [Thinking About Security, Fast &amp;amp; Slow](https://www.darkreading.com/cyber-risk/thinking-about-security-fast-slow)
-- [Name That Edge Toon: Cyber Cloudburst](https://www.darkreading.com/cloud-security/name-that-edge-toon-cyber-cloudburst)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
