@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication](https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication)
+- [Fintech Frenzy: Affirm &amp;amp; Others Emerge as Victims in Evolve Breach](https://www.darkreading.com/cyberattacks-data-breaches/fintech-frenzy-affirm-and-others-emerge-as-victims-in-evolve-breach)
 - [PTC License Server Bug Needs Immediate Patch Against Critical Flaw](https://www.darkreading.com/ics-ot-security/ptc-license-server-bug-needs-immediate-patch-against-critical-flaw)
 - [Cyber Workforce Numbers Rise for Larger Organizations](https://www.darkreading.com/ics-ot-security/cyber-workforce-numbers-rise-for-larger-organizations)
 - [Bloom Health Centers Provides Notice of Data Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/bloom-health-centers-provides-notice-of-data-security-incident)
 - [Human Technology Inc. — Notification of Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/human-technology-inc-notification-of-data-breach)
 - [Implementing Zero Trust and Mitigating Risk: ISC2 Courses to Support Your Development](https://www.darkreading.com/cyber-risk/implementing-zero-trust-and-mitigating-risk-isc2-courses-to-support-your-development)
 - [Interlock Launches ThreatSlayer Web3 Security Extension and Incentivized Crowdsourced Internet Security Community](https://www.darkreading.com/cybersecurity-operations/interlock-launches-threatslayer-web3-security-extension-and-incentivized-crowdsourced-internet-security-community)
-- [Odaseva Raises $54M Series C Round to Expand Product Offerings and Continue Category Leadership](https://www.darkreading.com/cybersecurity-operations/odaseva-raises-54m-series-c-round-to-expand-product-offerings-and-continue-category-leadership)
-- [Stress-Testing Our Security Assumptions in a World of New &amp;amp; Novel Risks](https://www.darkreading.com/vulnerabilities-threats/stress-testing-our-security-assumptions-new-novel-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
