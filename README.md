@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bloom Health Centers Provides Notice of Data Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/bloom-health-centers-provides-notice-of-data-security-incident)
+- [Human Technology Inc. — Notification of Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/human-technology-inc-notification-of-data-breach)
+- [Implementing Zero Trust and Mitigating Risk: ISC2 Courses to Support Your Development](https://www.darkreading.com/cyber-risk/implementing-zero-trust-and-mitigating-risk-isc2-courses-to-support-your-development)
+- [Interlock Launches ThreatSlayer Web3 Security Extension and Incentivized Crowdsourced Internet Security Community](https://www.darkreading.com/cybersecurity-operations/interlock-launches-threatslayer-web3-security-extension-and-incentivized-crowdsourced-internet-security-community)
+- [Odaseva Raises $54M Series C Round to Expand Product Offerings and Continue Category Leadership](https://www.darkreading.com/cybersecurity-operations/odaseva-raises-54m-series-c-round-to-expand-product-offerings-and-continue-category-leadership)
 - [Stress-Testing Our Security Assumptions in a World of New &amp;amp; Novel Risks](https://www.darkreading.com/vulnerabilities-threats/stress-testing-our-security-assumptions-new-novel-risks)
 - [What Cybersecurity Defense Looks Like for School Districts](https://www.darkreading.com/cybersecurity-operations/what-cybersecurity-defense-looks-like-for-school-districts)
 - [Patch Now: Cisco Zero-Day Under Fire From Chinese APT](https://www.darkreading.com/vulnerabilities-threats/patch-now-cisco-zero-day-chinese-apt)
-- [Papua New Guinea Sets High Bar in Data Security](https://www.darkreading.com/cyber-risk/papua-new-guinea-sets-high-bar-in-data-security)
-- [Multi-Malware &#39;Cluster Bomb&#39; Campaign Drops Widespread Cyber Havoc](https://www.darkreading.com/cyberattacks-data-breaches/multi-malware-cluster-bomb-campaign-cyber-havoc)
-- [Google Opens $250K Bug Bounty Contest for VM Hypervisor](https://www.darkreading.com/cloud-security/google-opens-250k-bug-bounty-contest-for-vm-hypervisor)
-- [&#39;RegreSSHion&#39; Bug Threatens Takeover of Millions of Linux Systems](https://www.darkreading.com/cloud-security/regresshion-bug-threatens-takeover-of-millions-of-linux-systems)
-- [Prudential Data Breach Victim Count Soars to 2.5M](https://www.darkreading.com/cyberattacks-data-breaches/prudential-data-breach-victim-count-soars-to-25m)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
