@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intel CPUs Face Spectre-Like &#39;Indirector&#39; Attack That Leaks Data](https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data)
 - [Friend or Foe? AI&#39;s Complicated Role in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/friend-or-foe-ai-complicated-role-in-cybersecurity)
 - [South Africa National Healthcare Lab Still Reeling From Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-healthcare-lab-still-reeling-from-ransomware-attack)
 - [3 Ways to Chill Attacks on Snowflake](https://www.darkreading.com/cybersecurity-operations/three-ways-to-chill-attacks-on-snowflake)
@@ -83,7 +84,6 @@
 - [Fintech Frenzy: Affirm &amp;amp; Others Emerge as Victims in Evolve Breach](https://www.darkreading.com/cyberattacks-data-breaches/fintech-frenzy-affirm-and-others-emerge-as-victims-in-evolve-breach)
 - [PTC License Server Bug Needs Immediate Patch Against Critical Flaw](https://www.darkreading.com/ics-ot-security/ptc-license-server-bug-needs-immediate-patch-against-critical-flaw)
 - [Cyber Workforce Numbers Rise for Larger Organizations](https://www.darkreading.com/ics-ot-security/cyber-workforce-numbers-rise-for-larger-organizations)
-- [Bloom Health Centers Provides Notice of Data Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/bloom-health-centers-provides-notice-of-data-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
