@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [South Africa National Healthcare Lab Still Reeling from Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-healthcare-lab-still-reeling-from-ransomware-attack)
+- [South Africa National Healthcare Lab Still Reeling From Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-healthcare-lab-still-reeling-from-ransomware-attack)
 - [3 Ways to Chill Attacks on Snowflake](https://www.darkreading.com/cybersecurity-operations/three-ways-to-chill-attacks-on-snowflake)
 - [Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication](https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication)
 - [Fintech Frenzy: Affirm &amp;amp; Others Emerge as Victims in Evolve Breach](https://www.darkreading.com/cyberattacks-data-breaches/fintech-frenzy-affirm-and-others-emerge-as-victims-in-evolve-breach)
