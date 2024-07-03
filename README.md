@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacker Busted for &#39;Evil Twin&#39; Wi-Fi That Steals Airline Passenger Data](https://www.darkreading.com/remote-workforce/hacker-busted-for-evil-twin-wi-fi-that-steals-airline-passenger-data)
 - [Ransomware Eruption: Novel Locker Malware Flows From ‘Volcano Demon&#39;](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-eruption-novel-locker-malware-flows-from-volcano-demon)
 - [Ransomware Extortion Demands Soar to $5.2M per Attack](https://www.darkreading.com/cyberattacks-data-breaches/extortion-demands-reach-average-of-5-2m-per-ransomware-attack)
 - [Intel CPUs Face Spectre-Like &#39;Indirector&#39; Attack That Leaks Data](https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data)
@@ -83,7 +84,6 @@
 - [South Africa National Healthcare Lab Still Reeling From Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-healthcare-lab-still-reeling-from-ransomware-attack)
 - [3 Ways to Chill Attacks on Snowflake](https://www.darkreading.com/cybersecurity-operations/three-ways-to-chill-attacks-on-snowflake)
 - [Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication](https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication)
-- [Fintech Frenzy: Affirm &amp;amp; Others Emerge as Victims in Evolve Breach](https://www.darkreading.com/cyberattacks-data-breaches/fintech-frenzy-affirm-and-others-emerge-as-victims-in-evolve-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
