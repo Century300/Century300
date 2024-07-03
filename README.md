@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Any IoT Device Can Be Hacked, Even Grills](https://www.darkreading.com/iot/any-iot-device-can-be-hacked-even-grills)
 - [Bay Area Credit Union Struggles to Recover After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/bay-area-credit-union-struggles-to-recover-after-ransomware-attack)
 - [Hacker Busted for &#39;Evil Twin&#39; Wi-Fi That Steals Airline Passenger Data](https://www.darkreading.com/remote-workforce/hacker-busted-for-evil-twin-wi-fi-that-steals-airline-passenger-data)
 - [Networking Without the Hangover](https://www.darkreading.com/cybersecurity-operations/networking-without-the-hangover)
@@ -83,7 +84,6 @@
 - [Ransomware Extortion Demands Soar to $5.2M per Attack](https://www.darkreading.com/cyberattacks-data-breaches/extortion-demands-reach-average-of-5-2m-per-ransomware-attack)
 - [Intel CPUs Face Spectre-Like &#39;Indirector&#39; Attack That Leaks Data](https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data)
 - [Friend or Foe? AI&#39;s Complicated Role in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/friend-or-foe-ai-complicated-role-in-cybersecurity)
-- [South Africa National Healthcare Lab Still Reeling From Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/south-africa-healthcare-lab-still-reeling-from-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
