@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Eruption: Novel Locker Malware Flows From ‘Volcano Demon&#39;](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-eruption-novel-locker-malware-flows-from-volcano-demon)
 - [Ransomware Extortion Demands Soar to $5.2M per Attack](https://www.darkreading.com/cyberattacks-data-breaches/extortion-demands-reach-average-of-5-2m-per-ransomware-attack)
 - [Intel CPUs Face Spectre-Like &#39;Indirector&#39; Attack That Leaks Data](https://www.darkreading.com/endpoint-security/intel-cpus-spectre-like-indirector-attack-leaks-data)
 - [Friend or Foe? AI&#39;s Complicated Role in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/friend-or-foe-ai-complicated-role-in-cybersecurity)
@@ -83,7 +84,6 @@
 - [3 Ways to Chill Attacks on Snowflake](https://www.darkreading.com/cybersecurity-operations/three-ways-to-chill-attacks-on-snowflake)
 - [Passkey Redaction Attacks Subvert GitHub, Microsoft Authentication](https://www.darkreading.com/cloud-security/passkey-redaction-attacks-subvert-github-microsoft-authentication)
 - [Fintech Frenzy: Affirm &amp;amp; Others Emerge as Victims in Evolve Breach](https://www.darkreading.com/cyberattacks-data-breaches/fintech-frenzy-affirm-and-others-emerge-as-victims-in-evolve-breach)
-- [PTC License Server Bug Needs Immediate Patch Against Critical Flaw](https://www.darkreading.com/ics-ot-security/ptc-license-server-bug-needs-immediate-patch-against-critical-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
