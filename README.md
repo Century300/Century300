@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Euro Vishing Fraudsters Add Physical Intimidation to Arsenal](https://www.darkreading.com/remote-workforce/euro-vishing-fraudsters-add-physical-intimidation-to-arsenal)
 - [Ensuring AI Safety While Balancing Innovation](https://www.darkreading.com/cyber-risk/ensuring-ai-safety-while-balancing-innovation)
 - [Why Cyber Teams Should Invest in Strong Communicators](https://www.darkreading.com/cybersecurity-operations/why-cyber-teams-should-invest-in-strong-communicators)
 - [Are SOC 2 Reports Sufficient for Vendor Risk Management?](https://www.darkreading.com/cybersecurity-operations/are-soc-2-reports-sufficient-for-vendor-risk-management)
@@ -83,7 +84,6 @@
 - [A CISO&#39;s Guide to Avoiding Jail After a Breach](https://www.darkreading.com/cybersecurity-operations/a-cisos-guide-to-avoiding-jail-after-a-breach)
 - [Software Productivity Tools Hijacked to Deliver Infostealers](https://www.darkreading.com/application-security/software-productivity-tools-hijacked-to-deliver-infostealers)
 - [Any IoT Device Can Be Hacked, Even Grills](https://www.darkreading.com/iot/any-iot-device-can-be-hacked-even-grills)
-- [Bay Area Credit Union Struggles to Recover After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/bay-area-credit-union-struggles-to-recover-after-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
