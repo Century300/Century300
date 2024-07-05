@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ensuring AI Safety While Balancing Innovation](https://www.darkreading.com/cyber-risk/ensuring-ai-safety-while-balancing-innovation)
+- [Why Cyber Teams Should Invest in Strong Communicators](https://www.darkreading.com/cybersecurity-operations/why-cyber-teams-should-invest-in-strong-communicators)
 - [Euro 2024 Becomes Latest Sporting Event to Attract Cyberattacks](https://www.darkreading.com/cloud-security/euro-2024-becomes-latest-sporting-event-to-attract-cyberattacks)
 - [A CISO&#39;s Guide to Avoiding Jail After a Breach](https://www.darkreading.com/cybersecurity-operations/a-cisos-guide-to-avoiding-jail-after-a-breach)
 - [Software Productivity Tools Hijacked to Deliver Infostealers](https://www.darkreading.com/application-security/software-productivity-tools-hijacked-to-deliver-infostealers)
 - [Any IoT Device Can Be Hacked, Even Grills](https://www.darkreading.com/iot/any-iot-device-can-be-hacked-even-grills)
 - [Bay Area Credit Union Struggles to Recover After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/bay-area-credit-union-struggles-to-recover-after-ransomware-attack)
 - [Hacker Busted for &#39;Evil Twin&#39; Wi-Fi That Steals Airline Passenger Data](https://www.darkreading.com/remote-workforce/hacker-busted-for-evil-twin-wi-fi-that-steals-airline-passenger-data)
-- [Networking Without the Hangover](https://www.darkreading.com/cybersecurity-operations/networking-without-the-hangover)
-- [Ransomware Eruption: Novel Locker Malware Flows From ‘Volcano Demon&#39;](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-eruption-novel-locker-malware-flows-from-volcano-demon)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
