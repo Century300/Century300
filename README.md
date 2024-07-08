@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Identity Orchestration Is Gaining Traction](https://www.darkreading.com/cybersecurity-operations/identity-orchestration-is-gaining-traction)
+- [Apple Geolocation API Exposes Wi-Fi Access Points Worldwide](https://www.darkreading.com/endpoint-security/apple-geolocation-api-exposes-wi-fi-access-points-worldwide)
 - [Cyber-Insurance Prices Plummet as Market Competition Grows](https://www.darkreading.com/cyber-risk/cyber-insurance-prices-decline-market-competition-grows)
 - [5 Ways to Run Security as a Meritocracy](https://www.darkreading.com/cybersecurity-operations/5-ways-to-run-security-as-a-meritocracy)
 - [Deconstructing Security Assumptions to Ensure Future Resilience](https://www.darkreading.com/cyber-risk/deconstructing-security-assumptions-to-ensure-future-resilience)
 - [Euro Vishing Fraudsters Add Physical Intimidation to Arsenal](https://www.darkreading.com/remote-workforce/euro-vishing-fraudsters-add-physical-intimidation-to-arsenal)
 - [Ensuring AI Safety While Balancing Innovation](https://www.darkreading.com/cyber-risk/ensuring-ai-safety-while-balancing-innovation)
 - [Why Cyber Teams Should Invest in Strong Communicators](https://www.darkreading.com/cybersecurity-operations/why-cyber-teams-should-invest-in-strong-communicators)
-- [Are SOC 2 Reports Sufficient for Vendor Risk Management?](https://www.darkreading.com/cybersecurity-operations/are-soc-2-reports-sufficient-for-vendor-risk-management)
-- [Euro 2024 Becomes Latest Sporting Event to Attract Cyberattacks](https://www.darkreading.com/cloud-security/euro-2024-becomes-latest-sporting-event-to-attract-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
