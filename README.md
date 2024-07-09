@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Evolve Bank &amp;amp; Trust Reveals 7M Impacted in LockBit Breach](https://www.darkreading.com/cyberattacks-data-breaches/evolve-bank-and-trust-reveals-7m-impacted-in-lockbit-breach)
 - [Chinese Threat Group APT40 Exploits N-Day Vulns at Rapid Pace](https://www.darkreading.com/endpoint-security/chinese-apt40-exploits-nday-vulns-rapid-pace)
 - [Eldorado Ransomware Cruises Onto the Scene to Target VMware ESXi](https://www.darkreading.com/endpoint-security/eldorado-ransomware-target-vmware-esxi)
 - [Trojanized jQuery Packages Spread via &#39;Complex&#39; Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/trojanized-jquery-packages-complex-supply-chain-attack)
@@ -83,7 +84,6 @@
 - [&#39;CloudSorcerer&#39; Leverages Cloud Services in Cyber-Espionage Campaign](https://www.darkreading.com/cloud-security/cloudsorceror-public-cloud-cyberespionage-campaign)
 - [10B Passwords Pop Up on Dark Web &#39;RockYou2024&#39; Release](https://www.darkreading.com/cyberattacks-data-breaches/10b-passwords-pop-up-on-dark-web-rockyou2024-release)
 - [Identity Orchestration Is Gaining Traction](https://www.darkreading.com/cybersecurity-operations/identity-orchestration-is-gaining-traction)
-- [Apple Geolocation API Exposes Wi-Fi Access Points Worldwide](https://www.darkreading.com/endpoint-security/apple-geolocation-api-exposes-wi-fi-access-points-worldwide)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
