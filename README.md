@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Takedown of Ivanti Systems Is a Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/cisa-takedown-ivanti-systems-is-wake-up-call)
 - [&#39;CloudSorcerer&#39; Leverages Cloud Services in Cyber-Espionage Campaign](https://www.darkreading.com/cloud-security/cloudsorceror-public-cloud-cyberespionage-campaign)
 - [10B Passwords Pop Up on Dark Web &#39;RockYou2024&#39; Release](https://www.darkreading.com/cyberattacks-data-breaches/10b-passwords-pop-up-on-dark-web-rockyou2024-release)
 - [Identity Orchestration Is Gaining Traction](https://www.darkreading.com/cybersecurity-operations/identity-orchestration-is-gaining-traction)
@@ -83,7 +84,6 @@
 - [Cyber-Insurance Prices Plummet as Market Competition Grows](https://www.darkreading.com/cyber-risk/cyber-insurance-prices-decline-market-competition-grows)
 - [5 Ways to Run Security as a Meritocracy](https://www.darkreading.com/cybersecurity-operations/5-ways-to-run-security-as-a-meritocracy)
 - [Deconstructing Security Assumptions to Ensure Future Resilience](https://www.darkreading.com/cyber-risk/deconstructing-security-assumptions-to-ensure-future-resilience)
-- [Euro Vishing Fraudsters Add Physical Intimidation to Arsenal](https://www.darkreading.com/remote-workforce/euro-vishing-fraudsters-add-physical-intimidation-to-arsenal)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
