@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Global Quantum Computing Market Expected to Reach $7.13B By 2031 As Data Protection Needs Increase](https://www.darkreading.com/endpoint-security/global-quantum-computing-market-expected-to-reach-7-13b-by-2031)
 - [Evolve Bank &amp;amp; Trust Reveals 7M Impacted in LockBit Breach](https://www.darkreading.com/cyberattacks-data-breaches/evolve-bank-and-trust-reveals-7m-impacted-in-lockbit-breach)
 - [Chinese Threat Group APT40 Exploits N-Day Vulns at Rapid Pace](https://www.darkreading.com/endpoint-security/chinese-apt40-exploits-nday-vulns-rapid-pace)
 - [Eldorado Ransomware Cruises Onto the Scene to Target VMware ESXi](https://www.darkreading.com/endpoint-security/eldorado-ransomware-target-vmware-esxi)
@@ -83,7 +84,6 @@
 - [CISA Takedown of Ivanti Systems Is a Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/cisa-takedown-ivanti-systems-is-wake-up-call)
 - [&#39;CloudSorcerer&#39; Leverages Cloud Services in Cyber-Espionage Campaign](https://www.darkreading.com/cloud-security/cloudsorceror-public-cloud-cyberespionage-campaign)
 - [10B Passwords Pop Up on Dark Web &#39;RockYou2024&#39; Release](https://www.darkreading.com/cyberattacks-data-breaches/10b-passwords-pop-up-on-dark-web-rockyou2024-release)
-- [Identity Orchestration Is Gaining Traction](https://www.darkreading.com/cybersecurity-operations/identity-orchestration-is-gaining-traction)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
