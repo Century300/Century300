@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Trojanized JQuery Packages Spread via &#39;Complex&#39; Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/trojanized-jquery-packages-complex-supply-chain-attack)
+- [Eldorado Ransomware Cruises Onto the Scene to Target VMware ESXi](https://www.darkreading.com/endpoint-security/eldorado-ransomware-target-vmware-esxi)
+- [Trojanized jQuery Packages Spread via &#39;Complex&#39; Supply Chain Attack](https://www.darkreading.com/cyberattacks-data-breaches/trojanized-jquery-packages-complex-supply-chain-attack)
 - [CISA Takedown of Ivanti Systems Is a Wake-up Call](https://www.darkreading.com/vulnerabilities-threats/cisa-takedown-ivanti-systems-is-wake-up-call)
 - [&#39;CloudSorcerer&#39; Leverages Cloud Services in Cyber-Espionage Campaign](https://www.darkreading.com/cloud-security/cloudsorceror-public-cloud-cyberespionage-campaign)
 - [10B Passwords Pop Up on Dark Web &#39;RockYou2024&#39; Release](https://www.darkreading.com/cyberattacks-data-breaches/10b-passwords-pop-up-on-dark-web-rockyou2024-release)
 - [Identity Orchestration Is Gaining Traction](https://www.darkreading.com/cybersecurity-operations/identity-orchestration-is-gaining-traction)
 - [Apple Geolocation API Exposes Wi-Fi Access Points Worldwide](https://www.darkreading.com/endpoint-security/apple-geolocation-api-exposes-wi-fi-access-points-worldwide)
 - [Cyber-Insurance Prices Plummet as Market Competition Grows](https://www.darkreading.com/cyber-risk/cyber-insurance-prices-decline-market-competition-grows)
-- [5 Ways to Run Security as a Meritocracy](https://www.darkreading.com/cybersecurity-operations/5-ways-to-run-security-as-a-meritocracy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
