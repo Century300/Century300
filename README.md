@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Poco RAT Burrows Deep Into Mining Sector](https://www.darkreading.com/cyberattacks-data-breaches/poco-rat-burrows-deep-mining-sector)
 - [Privacy &amp;amp; Security Concerns With AI Meeting Tools](https://www.darkreading.com/vulnerabilities-threats/privacy-security-concerns-with-ai-meeting-tools)
 - [What&#39;s Bugging the NSA? A Vuln in Its &#39;SkillTree&#39; Training Platform](https://www.darkreading.com/application-security/whats-buggging-the-nsa-a-vuln-in-its-skilltree-training-platform)
 - [Google Targets Passkey Support to High-Risk Execs, Civil Society](https://www.darkreading.com/endpoint-security/google-targets-passkey-support-high-risk-execs-civil-society)
@@ -83,7 +84,6 @@
 - [5 Tips to Minimize the Costly Effects of Data Exfiltration](https://www.darkreading.com/cyber-risk/5-tips-to-minimize-data-exfiltration-before-it-happens)
 - [Cloud-Based Investigations Platform Targets Complexity in Incident Response](https://www.darkreading.com/cybersecurity-operations/cloud-based-investigations-platforms-target-complexity-incident-response)
 - [2024 SANS SOC Survey Reveals Critical Trends and Technologies in Cyber Defense](https://www.darkreading.com/cybersecurity-operations/2024-sans-soc-survey-reveals-critical-trends-and-technologies-in-cyber-defense)
-- [Global Quantum Computing Market Expected to Reach $7.13B By 2031 As Data Protection Needs Increase](https://www.darkreading.com/endpoint-security/global-quantum-computing-market-expected-to-reach-7-13b-by-2031)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
