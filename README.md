@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gen Launches Scam Artists to Highlight Emotional Toll of Cybercrime Through Creative Artwork](https://www.darkreading.com/endpoint-security/gen-launches-scam-artists-to-highlight-emotional-toll-of-cybercrime-through-creative-artwork)
+- [Saviynt Expands Capabilities With EY Alliance, Elevating Approach to External User Management With its Identity Cloud](https://www.darkreading.com/cloud-security/saviynt-expands-capabilities-with-ey-alliance-elevating-approach-to-external-user-management-with-its-identity-cloud)
 - [Peloton Takes a Spin Through Court, Thanks to AI Privacy Lawsuit](https://www.darkreading.com/cyber-risk/peloton-takes-a-spin-through-court-thanks-to-ai-privacy-lawsuit)
 - [Attackers Have Been Leveraging Microsoft Zero-Day for 18 Months](https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months)
 - [Feds Uncover Sprawling, GenAI-Enabled Russian Troll Farm](https://www.darkreading.com/cloud-security/feds-uncover-genai-enabled-russian-troll-farm)
 - [Poco RAT Burrows Deep Into Mining Sector](https://www.darkreading.com/cyberattacks-data-breaches/poco-rat-burrows-deep-mining-sector)
 - [Privacy &amp;amp; Security Concerns With AI Meeting Tools](https://www.darkreading.com/vulnerabilities-threats/privacy-security-concerns-with-ai-meeting-tools)
 - [What&#39;s Bugging the NSA? A Vuln in Its &#39;SkillTree&#39; Training Platform](https://www.darkreading.com/application-security/whats-buggging-the-nsa-a-vuln-in-its-skilltree-training-platform)
-- [Google Targets Passkey Support to High-Risk Execs, Civil Society](https://www.darkreading.com/endpoint-security/google-targets-passkey-support-high-risk-execs-civil-society)
-- [Houthi-Aligned APT Targets Mideast Militaries With &#39;GuardZoo&#39; Spyware](https://www.darkreading.com/threat-intelligence/houthi-aligned-apt-targets-middle-east-militaries-spyware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
