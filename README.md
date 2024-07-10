@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Houthi-Aligned APT Targets Mideast Militaries With &#39;GuardZoo&#39; Spyware](https://www.darkreading.com/threat-intelligence/houthi-aligned-apt-targets-middle-east-militaries-spyware)
 - [5 Tips to Minimize the Costly Effects of Data Exfiltration](https://www.darkreading.com/cyber-risk/5-tips-to-minimize-data-exfiltration-before-it-happens)
 - [Cloud-Based Investigations Platform Targets Complexity in Incident Response](https://www.darkreading.com/cybersecurity-operations/cloud-based-investigations-platforms-target-complexity-incident-response)
 - [2024 SANS SOC Survey Reveals Critical Trends and Technologies in Cyber Defense](https://www.darkreading.com/cybersecurity-operations/2024-sans-soc-survey-reveals-critical-trends-and-technologies-in-cyber-defense)
@@ -83,7 +84,6 @@
 - [Attackers Already Exploiting Flaws in Microsoft&#39;s July Security Update](https://www.darkreading.com/application-security/attackers-already-exploiting-flaws-in-microsofts-july-security-update)
 - [Evolve Bank &amp;amp; Trust Reveals 7M Impacted in LockBit Breach](https://www.darkreading.com/cyberattacks-data-breaches/evolve-bank-and-trust-reveals-7m-impacted-in-lockbit-breach)
 - [Chinese Threat Group APT40 Exploits N-Day Vulns at Rapid Pace](https://www.darkreading.com/endpoint-security/chinese-apt40-exploits-nday-vulns-rapid-pace)
-- [Eldorado Ransomware Cruises Onto the Scene to Target VMware ESXi](https://www.darkreading.com/endpoint-security/eldorado-ransomware-target-vmware-esxi)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
