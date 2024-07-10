@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds Uncover Sprawling, GenAI-Enabled Russian Troll Farm](https://www.darkreading.com/cloud-security/feds-uncover-genai-enabled-russian-troll-farm)
 - [Poco RAT Burrows Deep Into Mining Sector](https://www.darkreading.com/cyberattacks-data-breaches/poco-rat-burrows-deep-mining-sector)
 - [Privacy &amp;amp; Security Concerns With AI Meeting Tools](https://www.darkreading.com/vulnerabilities-threats/privacy-security-concerns-with-ai-meeting-tools)
 - [What&#39;s Bugging the NSA? A Vuln in Its &#39;SkillTree&#39; Training Platform](https://www.darkreading.com/application-security/whats-buggging-the-nsa-a-vuln-in-its-skilltree-training-platform)
@@ -83,7 +84,6 @@
 - [Houthi-Aligned APT Targets Mideast Militaries With &#39;GuardZoo&#39; Spyware](https://www.darkreading.com/threat-intelligence/houthi-aligned-apt-targets-middle-east-militaries-spyware)
 - [5 Tips to Minimize the Costly Effects of Data Exfiltration](https://www.darkreading.com/cyber-risk/5-tips-to-minimize-data-exfiltration-before-it-happens)
 - [Cloud-Based Investigations Platform Targets Complexity in Incident Response](https://www.darkreading.com/cybersecurity-operations/cloud-based-investigations-platforms-target-complexity-incident-response)
-- [2024 SANS SOC Survey Reveals Critical Trends and Technologies in Cyber Defense](https://www.darkreading.com/cybersecurity-operations/2024-sans-soc-survey-reveals-critical-trends-and-technologies-in-cyber-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
