@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Melds Identity &amp;amp; SSE With Entra Suite](https://www.darkreading.com/cloud-security/microsoft-melds-identity-sse-entra-suite)
 - [&#39;Crystalray&#39; Attacks Jump 10X, Using Only OSS to Steal Credentials](https://www.darkreading.com/threat-intelligence/-crystalray-attacks-jump-10x-using-only-oss-steal-credentials)
 - [Centralized Cyber-Incident Reporting Can Improve Effectiveness](https://www.darkreading.com/cybersecurity-operations/centralized-cyber-incident-reporting-can-improve-effectiveness)
 - [Microsoft&#39;s Partnership With Middle East AI Firm Under Scrutiny](https://www.darkreading.com/cyber-risk/microsofts-partnership-with-middle-east-ai-firm-under-scrutiny)
@@ -83,7 +84,6 @@
 - [Gen Launches Scam Artists to Highlight Emotional Toll of Cybercrime Through Creative Artwork](https://www.darkreading.com/endpoint-security/gen-launches-scam-artists-to-highlight-emotional-toll-of-cybercrime-through-creative-artwork)
 - [Saviynt Expands Capabilities With EY Alliance, Elevating Approach to External User Management With its Identity Cloud](https://www.darkreading.com/cloud-security/saviynt-expands-capabilities-with-ey-alliance-elevating-approach-to-external-user-management-with-its-identity-cloud)
 - [Peloton Takes a Spin Through Court, Thanks to AI Privacy Lawsuit](https://www.darkreading.com/cyber-risk/peloton-takes-a-spin-through-court-thanks-to-ai-privacy-lawsuit)
-- [Attackers Have Been Leveraging Microsoft Zero-Day for 18 Months](https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
