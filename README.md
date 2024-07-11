@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Crystalray&#39; Attacks Jump 10X, Using Only OSS to Steal Credentials](https://www.darkreading.com/threat-intelligence/-crystalray-attacks-jump-10x-using-only-oss-steal-credentials)
 - [Microsoft&#39;s Partnership With Middle East AI Firm Under Scrutiny](https://www.darkreading.com/cyber-risk/microsofts-partnership-with-middle-east-ai-firm-under-scrutiny)
 - [Fujitsu Suffers Worm-Like Attack From Something That Wasn&#39;t Ransomware](https://www.darkreading.com/endpoint-security/fujitsu-suffers-worm-attack-not-ransomware)
 - [Gen Launches Scam Artists to Highlight Emotional Toll of Cybercrime Through Creative Artwork](https://www.darkreading.com/endpoint-security/gen-launches-scam-artists-to-highlight-emotional-toll-of-cybercrime-through-creative-artwork)
@@ -83,7 +84,6 @@
 - [Peloton Takes a Spin Through Court, Thanks to AI Privacy Lawsuit](https://www.darkreading.com/cyber-risk/peloton-takes-a-spin-through-court-thanks-to-ai-privacy-lawsuit)
 - [Attackers Have Been Leveraging Microsoft Zero-Day for 18 Months](https://www.darkreading.com/application-security/attackers-have-been-leveraging-microsoft-zero-day-for-18-months)
 - [Feds Uncover Sprawling, GenAI-Enabled Russian Troll Farm](https://www.darkreading.com/cloud-security/feds-uncover-genai-enabled-russian-troll-farm)
-- [Poco RAT Burrows Deep Into Mining Sector](https://www.darkreading.com/cyberattacks-data-breaches/poco-rat-burrows-deep-mining-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
