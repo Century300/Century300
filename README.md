@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lineaje Awarded Contract by the Department of the US Air Force](https://www.darkreading.com/application-security/lineaje-awarded-contract-by-the-department-of-the-us-air-force)
+- [Healthcare Industry Urged to Adopt Exponential IT for Improved Patient Outcomes and Efficiency](https://www.darkreading.com/endpoint-security/healthcare-industry-urged-to-adopt-exponential-it-for-improved-patient-outcomes-and-efficiency)
 - [GitLab Sends Users Scrambling Again With New CI/CD Pipeline Takeover Vuln](https://www.darkreading.com/application-security/-gitlab-sends-users-scrambling-again-with-new-ci-cd-pipeline-takeover-vuln)
 - [AT&amp;amp;T Breach May Also Impact Millions of Boost, Cricket, H2O Customers](https://www.darkreading.com/cyberattacks-data-breaches/att-breach-may-also-impact-millions-of-boost-cricket-h2o-customers)
 - [Australian Spycatchers Snatch Pair of Married Russian Operatives](https://www.darkreading.com/cyberattacks-data-breaches/australian-spycatchers-snatch-pair-of-married-russian-operatives)
 - [Unprecedented: Cloud Giants, Feds Team on Unified Security Intelligence](https://www.darkreading.com/cloud-security/unprecedented-cloud-giants-feds-team-unified-security-intelligence)
 - [CISA, FBI Warn of OS Command-Injection Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/cisa-fbi-warn-of-os-command-injection-vulnerabilities)
 - [Will Smaller Companies Buckle Under the SEC&#39;s New Requirements?](https://www.darkreading.com/cyber-risk/will-smaller-companies-buckle-under-the-secs-new-requirements)
-- [Akira Ransomware: Lightning-Fast Data Exfiltration in 2-ish Hours](https://www.darkreading.com/endpoint-security/akira-ransomware-lightning-fast-data-exfiltration-2-hours)
-- [Apple Warns iPhone Users in 98 Countries of More Spyware Attacks](https://www.darkreading.com/endpoint-security/apple-warns-iphone-users-in-98-countries-of-more-spyware-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
