@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Akira Ransomware: Lightning-Fast Data Exfiltration in 2-Ish Hours](https://www.darkreading.com/endpoint-security/akira-ransomware-lightning-fast-data-exfiltration-2-hours)
+- [Akira Ransomware: Lightning-Fast Data Exfiltration in 2-ish Hours](https://www.darkreading.com/endpoint-security/akira-ransomware-lightning-fast-data-exfiltration-2-hours)
 - [Apple Warns iPhone Users in 98 Countries of More Spyware Attacks](https://www.darkreading.com/endpoint-security/apple-warns-iphone-users-in-98-countries-of-more-spyware-attacks)
 - [Trade the Comfort of Security Theater for True Security](https://www.darkreading.com/cyber-risk/trade-the-comfort-of-security-theater-for-true-security)
 - [Advance Auto Parts Data Breach Affects 2.3M Customers](https://www.darkreading.com/cyberattacks-data-breaches/advance-auto-parts-data-breach-affects-2m-customers)
