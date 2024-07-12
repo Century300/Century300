@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Will Smaller Companies Buckle Under the SEC&#39;s New Requirements?](https://www.darkreading.com/cyber-risk/will-smaller-companies-buckle-under-the-secs-new-requirements)
 - [Akira Ransomware: Lightning-Fast Data Exfiltration in 2-ish Hours](https://www.darkreading.com/endpoint-security/akira-ransomware-lightning-fast-data-exfiltration-2-hours)
 - [Apple Warns iPhone Users in 98 Countries of More Spyware Attacks](https://www.darkreading.com/endpoint-security/apple-warns-iphone-users-in-98-countries-of-more-spyware-attacks)
 - [Trade the Comfort of Security Theater for True Security](https://www.darkreading.com/cyber-risk/trade-the-comfort-of-security-theater-for-true-security)
@@ -83,7 +84,6 @@
 - [FishXProxy Phishing Kit Outfits Cybercriminals for Success](https://www.darkreading.com/endpoint-security/fishxproxy-phishing-kit-cybercriminals-success)
 - [Microsoft Melds Identity &amp;amp; SSE With Entra Suite](https://www.darkreading.com/cloud-security/microsoft-melds-identity-sse-entra-suite)
 - [&#39;Crystalray&#39; Attacks Jump 10X, Using Only OSS to Steal Credentials](https://www.darkreading.com/threat-intelligence/-crystalray-attacks-jump-10x-using-only-oss-steal-credentials)
-- [Centralized Cyber-Incident Reporting Can Improve Effectiveness](https://www.darkreading.com/cybersecurity-operations/centralized-cyber-incident-reporting-can-improve-effectiveness)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
