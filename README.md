@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [7 Tips for Navigating Cybersecurity Risks in M&amp;amp;As](https://www.darkreading.com/cyber-risk7-tips-for-navigating-cybersecurity-risks-m-and-as)
+- [How Manufacturers Can Secure Themselves Against Cyber Threats](https://www.darkreading.com/ics-ot-security/securing-manufacturers-against-cyber-threats)
+- [7 Tips for Navigating Cybersecurity Risks in M&amp;amp;As](https://www.darkreading.com/cyber-risk/7-tips-for-navigating-cybersecurity-risks-m-and-as)
 - [Lineaje Awarded Contract by the Department of the US Air Force](https://www.darkreading.com/application-security/lineaje-awarded-contract-by-the-department-of-the-us-air-force)
 - [Healthcare Industry Urged to Adopt Exponential IT for Improved Patient Outcomes and Efficiency](https://www.darkreading.com/endpoint-security/healthcare-industry-urged-to-adopt-exponential-it-for-improved-patient-outcomes-and-efficiency)
 - [GitLab Sends Users Scrambling Again With New CI/CD Pipeline Takeover Vuln](https://www.darkreading.com/application-security/-gitlab-sends-users-scrambling-again-with-new-ci-cd-pipeline-takeover-vuln)
 - [AT&amp;amp;T Breach May Also Impact Millions of Boost, Cricket, H2O Customers](https://www.darkreading.com/cyberattacks-data-breaches/att-breach-may-also-impact-millions-of-boost-cricket-h2o-customers)
 - [Australian Spycatchers Snatch Pair of Married Russian Operatives](https://www.darkreading.com/cyberattacks-data-breaches/australian-spycatchers-snatch-pair-of-married-russian-operatives)
 - [Unprecedented: Cloud Giants, Feds Team on Unified Security Intelligence](https://www.darkreading.com/cloud-security/unprecedented-cloud-giants-feds-team-unified-security-intelligence)
-- [CISA, FBI Warn of OS Command-Injection Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/cisa-fbi-warn-of-os-command-injection-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
