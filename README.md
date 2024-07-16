@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Linux Foundation and OpenSSF Release Report on the State of Education in Secure Software Development](https://www.darkreading.com/application-security/the-linux-foundation-and-openssf-release-report-on-the-state-of-education-in-secure-software-development)
+- [Cloud Security, PowerShell Expertise Emerge as Key SOC Analyst Skills](https://www.darkreading.com/cybersecurity-operations/cloud-security-powershell-expertise-emerge-as-key-soc-analyst-skills)
+- [Secureworks Elevates State of Cybersecurity for Mid-Market Customers With Managed Detection and Response Offering](https://www.darkreading.com/endpoint-security/secureworks-elevates-state-of-cybersecurity-for-mid-market-customers-with-managed-detection-and-response-offering)
+- [BlueVoyant Unveils Edge Security Operations Platform](https://www.darkreading.com/identity-access-management-security/bluevoyant-unveils-edge-security-operations-platform)
+- [Microsoft: Scattered Spider Widens Web With RansomHub &amp;amp; Qilin](https://www.darkreading.com/threat-intelligence/microsoft-scattered-spider-widens-web-with-ransomhub-and-qilin)
 - [Name That Toon: Near Miss](https://www.darkreading.com/threat-intelligence/name-that-toon-near-miss)
 - [Shadowroot Ransomware Lures Turkish Victims via Phishing Attacks](https://www.darkreading.com/threat-intelligence/shadowroot-ransomware-turkish-victims-phishing)
 - [Void Banshee APT Exploits Microsoft Zero-Day in Spear-Phishing Attacks](https://www.darkreading.com/threat-intelligence/void-banshee-apt-microsoft-zero-day-spear-phishing-attacks)
-- [The Need to Recruit Cyber Talent in the Government](https://www.darkreading.com/cybersecurity-operations/need-to-recruit-cyber-talent-in-government)
-- [Singapore Banks Ditch One-Time Passwords](https://www.darkreading.com/endpoint-security/singapore-banks-ditch-one-time-passwords)
-- [Cytactic Focuses on Stakeholder Communication to Boost Incident Response](https://www.darkreading.com/cyber-risk/cytactic-focuses-on-stakeholder-communication-to-boost-incident-response)
-- [&#39;Trial&#39; DDoS Attacks on French Sites Portend Greater Olympics Threats](https://www.darkreading.com/cyberattacks-data-breaches/trial-ddos-attacks-on-french-sites-portend-greater-olympics-threats)
-- [SEXi Ransomware Rebrands as &#39;APT Inc.,&#39; Keeps Old Methods](https://www.darkreading.com/threat-intelligence/sexi-ransomware-rebrands-maintains-original-methods-of-operation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
