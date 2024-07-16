@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Void Banshee APT Exploits Microsoft Zero-Day in Spear-Phishing Attacks](https://www.darkreading.com/threat-intelligence/void-banshee-apt-microsoft-zero-day-spear-phishing-attacks)
 - [The Need to Recruit Cyber Talent in the Government](https://www.darkreading.com/cybersecurity-operations/need-to-recruit-cyber-talent-in-government)
 - [Singapore Banks Ditch One-Time Passwords](https://www.darkreading.com/endpoint-security/singapore-banks-ditch-one-time-passwords)
 - [Cytactic Focuses on Stakeholder Communication to Boost Incident Response](https://www.darkreading.com/cyber-risk/cytactic-focuses-on-stakeholder-communication-to-boost-incident-response)
@@ -83,7 +84,6 @@
 - [SEXi Ransomware Rebrands as &#39;APT Inc.,&#39; Keeps Old Methods](https://www.darkreading.com/threat-intelligence/sexi-ransomware-rebrands-maintains-original-methods-of-operation)
 - [Well-Established Cybercriminal Ecosystem Blooming in Iraq](https://www.darkreading.com/threat-intelligence/cybercriminal-ecosystem-flourishes-iraq)
 - [Rite Aid Becomes RansomHub&#39;s Latest Victim After Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/rite-aid-ransomhub-victim-data-breach)
-- [How Manufacturers Can Secure Themselves Against Cyber Threats](https://www.darkreading.com/ics-ot-security/securing-manufacturers-against-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
