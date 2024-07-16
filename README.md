@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Near Miss](https://www.darkreading.com/threat-intelligence/name-that-toon-near-miss)
 - [Shadowroot Ransomware Lures Turkish Victims via Phishing Attacks](https://www.darkreading.com/threat-intelligence/shadowroot-ransomware-turkish-victims-phishing)
 - [Void Banshee APT Exploits Microsoft Zero-Day in Spear-Phishing Attacks](https://www.darkreading.com/threat-intelligence/void-banshee-apt-microsoft-zero-day-spear-phishing-attacks)
 - [The Need to Recruit Cyber Talent in the Government](https://www.darkreading.com/cybersecurity-operations/need-to-recruit-cyber-talent-in-government)
@@ -83,7 +84,6 @@
 - [Cytactic Focuses on Stakeholder Communication to Boost Incident Response](https://www.darkreading.com/cyber-risk/cytactic-focuses-on-stakeholder-communication-to-boost-incident-response)
 - [&#39;Trial&#39; DDoS Attacks on French Sites Portend Greater Olympics Threats](https://www.darkreading.com/cyberattacks-data-breaches/trial-ddos-attacks-on-french-sites-portend-greater-olympics-threats)
 - [SEXi Ransomware Rebrands as &#39;APT Inc.,&#39; Keeps Old Methods](https://www.darkreading.com/threat-intelligence/sexi-ransomware-rebrands-maintains-original-methods-of-operation)
-- [Well-Established Cybercriminal Ecosystem Blooming in Iraq](https://www.darkreading.com/threat-intelligence/cybercriminal-ecosystem-flourishes-iraq)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
