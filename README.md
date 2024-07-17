@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aura Partners With Mosaic Compliance Services to Launch a Program to Protect Auto Dealers and Buyers From Cybercrime](https://www.darkreading.com/cybersecurity-operations/aura-partners-with-mosaic-compliance-services-to-launch-a-program-to-protect-auto-dealers-and-buyers-from-cybercrime)
+- [DPRK Hackers Tweak Malware to Lure MacOS Users into Video Calls](https://www.darkreading.com/threat-intelligence/dprk-hackers-tweak-malware-to-lure-macos-users-into-video-calls)
 - [West African Crime Syndicate Taken Down by Interpol Operation](https://www.darkreading.com/cybersecurity-operations/west-african-crime-syndicate-taken-down-by-interpol-operation)
 - [Orgs Are Finally Making Moves to Mitigate GenAI Risks](https://www.darkreading.com/threat-intelligence/orgs-are-finally-making-moves-to-mitigate-genai-risks)
 - [&#39;BadPack&#39; APK Files Make Android Malware Hard to Detect](https://www.darkreading.com/endpoint-security/malicious-badpack-apk-files-android-malware)
 - [Training at Black Hat to Focus on Equipping Cybersecurity Leaders With Soft Skills](https://www.darkreading.com/cybersecurity-careers/training-focuses-on-equipping-cybersecurity-leaders-with-soft-skills)
 - [Snowflake Account Attacks Driven by Exposed Legitimate Credentials](https://www.darkreading.com/threat-intelligence/snowflake-account-attacks-driven-by-exposed-legitimate-credentials)
 - [AI Consortium Plans Toolkit to Rate AI Model Safety](https://www.darkreading.com/cyber-risk/ai-consortium-plans-toolkit-to-rate-ai-model-safety)
-- [Security End-Run: &#39;AuKill&#39; Shuts Down Windows-Reliant EDR Processes](https://www.darkreading.com/endpoint-security/security-end-run-aukill-shuts-down-windows-reliant-edr-processes)
-- [IDF Has Rebuffed 3B Cyberattacks Since Oct. 7, Colonel Claims](https://www.darkreading.com/cloud-security/idf-has-rebuffed-3b-cloud-cyberattacks-since-oct-7-colonel-claims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
