@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Ramp Up Use of Encoded URLs to Bypass Secure Email](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-ramp-up-use-of-encoded-urls-to-bypass-secure-email)
 - [Tumeryk Inc. Launches With Free Gen AI LLM Vulnerability Scanner](https://www.darkreading.com/application-security/tumeryk-inc-launches-with-free-gen-ai-llm-vulnerability-scanner)
 - [MxD Research Reveals Major Disconnect Between Perceived and Actual Cybersecurity Capabilities in US Manufacturing](https://www.darkreading.com/ics-ot-security/mxd-research-reveals-major-disconnect-between-perceived-and-actual-cybersecurity-capabilities-in-us-manufacturing)
 - [Top 5 Mistakes Businesses Make When Implementing Zero Trust](https://www.darkreading.com/application-security/top-5-mistakes-businesses-make-when-implementing-zero-trust)
@@ -83,7 +84,6 @@
 - [Aura Partners With Mosaic Compliance Services to Launch a Program to Protect Auto Dealers and Buyers From Cybercrime](https://www.darkreading.com/cybersecurity-operations/aura-partners-with-mosaic-compliance-services-to-launch-a-program-to-protect-auto-dealers-and-buyers-from-cybercrime)
 - [DPRK Hackers Tweak Malware to Lure MacOS Users into Video Calls](https://www.darkreading.com/threat-intelligence/dprk-hackers-tweak-malware-to-lure-macos-users-into-video-calls)
 - [West African Crime Syndicate Taken Down by Interpol Operation](https://www.darkreading.com/cybersecurity-operations/west-african-crime-syndicate-taken-down-by-interpol-operation)
-- [Orgs Are Finally Making Moves to Mitigate GenAI Risks](https://www.darkreading.com/threat-intelligence/orgs-are-finally-making-moves-to-mitigate-genai-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
