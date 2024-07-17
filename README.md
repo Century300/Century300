@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Orgs Are Finally Making Moves to Mitigate GenAI Risks](https://www.darkreading.com/threat-intelligence/orgs-are-finally-making-moves-to-mitigate-genai-risks)
+- [&#39;BadPack&#39; APK Files Make Android Malware Hard to Detect](https://www.darkreading.com/endpoint-security/malicious-badpack-apk-files-android-malware)
 - [Training at Black Hat to Focus on Equipping Cybersecurity Leaders With Soft Skills](https://www.darkreading.com/cybersecurity-careers/training-focuses-on-equipping-cybersecurity-leaders-with-soft-skills)
 - [Snowflake Account Attacks Driven by Exposed Legitimate Credentials](https://www.darkreading.com/threat-intelligence/snowflake-account-attacks-driven-by-exposed-legitimate-credentials)
 - [AI Consortium Plans Toolkit to Rate AI Model Safety](https://www.darkreading.com/cyber-risk/ai-consortium-plans-toolkit-to-rate-ai-model-safety)
 - [Security End-Run: &#39;AuKill&#39; Shuts Down Windows-Reliant EDR Processes](https://www.darkreading.com/endpoint-security/security-end-run-aukill-shuts-down-windows-reliant-edr-processes)
 - [IDF Has Rebuffed 3B Cyberattacks Since Oct. 7, Colonel Claims](https://www.darkreading.com/cloud-security/idf-has-rebuffed-3b-cloud-cyberattacks-since-oct-7-colonel-claims)
 - [The Linux Foundation and OpenSSF Release Report on the State of Education in Secure Software Development](https://www.darkreading.com/application-security/the-linux-foundation-and-openssf-release-report-on-the-state-of-education-in-secure-software-development)
-- [Cloud Security, PowerShell Expertise Emerge as Key SOC Analyst Skills](https://www.darkreading.com/cybersecurity-operations/cloud-security-powershell-expertise-emerge-as-key-soc-analyst-skills)
-- [Secureworks Elevates State of Cybersecurity for Mid-Market Customers With Managed Detection and Response Offering](https://www.darkreading.com/endpoint-security/secureworks-elevates-state-of-cybersecurity-for-mid-market-customers-with-managed-detection-and-response-offering)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
