@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Snowflake Account Attacks Driven by Exposed Legitimate Credentials](https://www.darkreading.com/threat-intelligence/snowflake-account-attacks-driven-by-exposed-legitimate-credentials)
+- [AI Consortium Plans Toolkit to Rate AI Model Safety](https://www.darkreading.com/cyber-risk/ai-consortium-plans-toolkit-to-rate-ai-model-safety)
 - [Security End-Run: &#39;AuKill&#39; Shuts Down Windows-Reliant EDR Processes](https://www.darkreading.com/endpoint-security/security-end-run-aukill-shuts-down-windows-reliant-edr-processes)
 - [IDF Has Rebuffed 3B Cyberattacks Since Oct. 7, Colonel Claims](https://www.darkreading.com/cloud-security/idf-has-rebuffed-3b-cloud-cyberattacks-since-oct-7-colonel-claims)
 - [The Linux Foundation and OpenSSF Release Report on the State of Education in Secure Software Development](https://www.darkreading.com/application-security/the-linux-foundation-and-openssf-release-report-on-the-state-of-education-in-secure-software-development)
 - [Cloud Security, PowerShell Expertise Emerge as Key SOC Analyst Skills](https://www.darkreading.com/cybersecurity-operations/cloud-security-powershell-expertise-emerge-as-key-soc-analyst-skills)
 - [Secureworks Elevates State of Cybersecurity for Mid-Market Customers With Managed Detection and Response Offering](https://www.darkreading.com/endpoint-security/secureworks-elevates-state-of-cybersecurity-for-mid-market-customers-with-managed-detection-and-response-offering)
 - [BlueVoyant Unveils Edge Security Operations Platform](https://www.darkreading.com/identity-access-management-security/bluevoyant-unveils-edge-security-operations-platform)
-- [Microsoft: Scattered Spider Widens Web With RansomHub &amp;amp; Qilin](https://www.darkreading.com/threat-intelligence/microsoft-scattered-spider-widens-web-with-ransomhub-and-qilin)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
