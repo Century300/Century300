@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Snowflake Account Attacks Driven by Exposed Legitimate Credentials](https://www.darkreading.com/threat-intelligence/snowflake-account-attacks-driven-by-exposed-legitimate-credentials)
 - [The Linux Foundation and OpenSSF Release Report on the State of Education in Secure Software Development](https://www.darkreading.com/application-security/the-linux-foundation-and-openssf-release-report-on-the-state-of-education-in-secure-software-development)
 - [Cloud Security, PowerShell Expertise Emerge as Key SOC Analyst Skills](https://www.darkreading.com/cybersecurity-operations/cloud-security-powershell-expertise-emerge-as-key-soc-analyst-skills)
 - [Secureworks Elevates State of Cybersecurity for Mid-Market Customers With Managed Detection and Response Offering](https://www.darkreading.com/endpoint-security/secureworks-elevates-state-of-cybersecurity-for-mid-market-customers-with-managed-detection-and-response-offering)
@@ -83,7 +84,6 @@
 - [Microsoft: Scattered Spider Widens Web With RansomHub &amp;amp; Qilin](https://www.darkreading.com/threat-intelligence/microsoft-scattered-spider-widens-web-with-ransomhub-and-qilin)
 - [Name That Toon: Near Miss](https://www.darkreading.com/threat-intelligence/name-that-toon-near-miss)
 - [Shadowroot Ransomware Lures Turkish Victims via Phishing Attacks](https://www.darkreading.com/threat-intelligence/shadowroot-ransomware-turkish-victims-phishing)
-- [Void Banshee APT Exploits Microsoft Zero-Day in Spear-Phishing Attacks](https://www.darkreading.com/threat-intelligence/void-banshee-apt-microsoft-zero-day-spear-phishing-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
