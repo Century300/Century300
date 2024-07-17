@@ -83,7 +83,7 @@
 - [Secureworks Elevates State of Cybersecurity for Mid-Market Customers With Managed Detection and Response Offering](https://www.darkreading.com/endpoint-security/secureworks-elevates-state-of-cybersecurity-for-mid-market-customers-with-managed-detection-and-response-offering)
 - [BlueVoyant Unveils Edge Security Operations Platform](https://www.darkreading.com/identity-access-management-security/bluevoyant-unveils-edge-security-operations-platform)
 - [Microsoft: Scattered Spider Widens Web With RansomHub &amp;amp; Qilin](https://www.darkreading.com/threat-intelligence/microsoft-scattered-spider-widens-web-with-ransomhub-and-qilin)
-- [Name That Toon: Near Miss](https://www.darkreading.com/threat-intelligence/name-that-toon-near-miss)
+- [Defending OT Requires Agility, Proactive Controls](https://www.darkreading.com/ics-ot-security/defending-ot-requires-agility-proactive-controls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
