@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tumeryk Inc. Launches With Free Gen AI LLM Vulnerability Scanner](https://www.darkreading.com/application-security/tumeryk-inc-launches-with-free-gen-ai-llm-vulnerability-scanner)
+- [MxD Research Reveals Major Disconnect Between Perceived and Actual Cybersecurity Capabilities in US Manufacturing](https://www.darkreading.com/ics-ot-security/mxd-research-reveals-major-disconnect-between-perceived-and-actual-cybersecurity-capabilities-in-us-manufacturing)
+- [Top 5 Mistakes Businesses Make When Implementing Zero Trust](https://www.darkreading.com/application-security/top-5-mistakes-businesses-make-when-implementing-zero-trust)
+- [QBE Insurance Launches Global Cyber Coverage With QCyberProtect](https://www.darkreading.com/cyber-risk/qbe-insurance-launches-global-cyber-coverage-with-qcyberprotect)
 - [Aura Partners With Mosaic Compliance Services to Launch a Program to Protect Auto Dealers and Buyers From Cybercrime](https://www.darkreading.com/cybersecurity-operations/aura-partners-with-mosaic-compliance-services-to-launch-a-program-to-protect-auto-dealers-and-buyers-from-cybercrime)
 - [DPRK Hackers Tweak Malware to Lure MacOS Users into Video Calls](https://www.darkreading.com/threat-intelligence/dprk-hackers-tweak-malware-to-lure-macos-users-into-video-calls)
 - [West African Crime Syndicate Taken Down by Interpol Operation](https://www.darkreading.com/cybersecurity-operations/west-african-crime-syndicate-taken-down-by-interpol-operation)
 - [Orgs Are Finally Making Moves to Mitigate GenAI Risks](https://www.darkreading.com/threat-intelligence/orgs-are-finally-making-moves-to-mitigate-genai-risks)
-- [&#39;BadPack&#39; APK Files Make Android Malware Hard to Detect](https://www.darkreading.com/endpoint-security/malicious-badpack-apk-files-android-malware)
-- [Training at Black Hat to Focus on Equipping Cybersecurity Leaders With Soft Skills](https://www.darkreading.com/cybersecurity-careers/training-focuses-on-equipping-cybersecurity-leaders-with-soft-skills)
-- [Snowflake Account Attacks Driven by Exposed Legitimate Credentials](https://www.darkreading.com/threat-intelligence/snowflake-account-attacks-driven-by-exposed-legitimate-credentials)
-- [AI Consortium Plans Toolkit to Rate AI Model Safety](https://www.darkreading.com/cyber-risk/ai-consortium-plans-toolkit-to-rate-ai-model-safety)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
