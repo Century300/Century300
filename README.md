@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [SolarWinds Charges Tossed Out of Court in Legal Victory Against SEC](https://www.darkreading.com/application-security/solarwinds-charges-tossed-out-of-court-in-legal-victory-against-sec)
+- [Sizable Chunk of SEC Charges Against SolarWinds Tossed Out of Court](https://www.darkreading.com/application-security/solarwinds-charges-tossed-out-of-court-in-legal-victory-against-sec)
 - [US Data Breach Victim Numbers Increase by 1,000%, Literally](https://www.darkreading.com/cyberattacks-data-breaches/us-data-breach-victim-numbers-increase-1000)
 - [High-Severity Cisco Bug Grants Attackers Password Access](https://www.darkreading.com/vulnerabilities-threats/high-severity-cisco-bug-grants-attackers-password-access)
 - [20 Million Trusted Domains Vulnerable to Email Hosting Exploits](https://www.darkreading.com/threat-intelligence/20-million-trusted-domains-vulnerable-to-email-hosting-exploits)
