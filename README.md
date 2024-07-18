@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SolarWinds Charges Tossed Out of Court in Legal Victory Against SEC](https://www.darkreading.com/application-security/solarwinds-charges-tossed-out-of-court-in-legal-victory-against-sec)
+- [US Data Breach Victim Numbers Increase by 1,000%, Literally](https://www.darkreading.com/cyberattacks-data-breaches/us-data-breach-victim-numbers-increase-1000)
 - [High-Severity Cisco Bug Grants Attackers Password Access](https://www.darkreading.com/vulnerabilities-threats/high-severity-cisco-bug-grants-attackers-password-access)
 - [20 Million Trusted Domains Vulnerable to Email Hosting Exploits](https://www.darkreading.com/threat-intelligence/20-million-trusted-domains-vulnerable-to-email-hosting-exploits)
 - [Microsoft-Signed Chinese Adware Opens the Door to Kernel Privileges](https://www.darkreading.com/threat-intelligence/microsoft-signed-chinese-adware-opens-the-door-to-kernel-privileges)
 - [AI Remains a Wild Card in the War Against Disinformation](https://www.darkreading.com/cyber-risk/ai-remains-wild-card-in-war-against-disinformation)
 - [Iranian Cyber Threat Group Drops New Backdoor, &#39;BugSleep&#39;](https://www.darkreading.com/threat-intelligence/iranian-threat-group-drops-new-backdoor-bugsleep)
 - [Threat Actors Ramp Up Use of Encoded URLs to Bypass Secure Email](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-ramp-up-use-of-encoded-urls-to-bypass-secure-email)
-- [Tumeryk Inc. Launches With Free Gen AI LLM Vulnerability Scanner](https://www.darkreading.com/application-security/tumeryk-inc-launches-with-free-gen-ai-llm-vulnerability-scanner)
-- [MxD Research Reveals Major Disconnect Between Perceived and Actual Cybersecurity Capabilities in US Manufacturing](https://www.darkreading.com/ics-ot-security/mxd-research-reveals-major-disconnect-between-perceived-and-actual-cybersecurity-capabilities-in-us-manufacturing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
