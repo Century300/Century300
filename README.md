@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft-Signed Chinese Adware Opens the Door to Kernel Privileges](https://www.darkreading.com/threat-intelligence/microsoft-signed-chinese-adware-opens-the-door-to-kernel-privileges)
 - [AI Remains a Wild Card in the War Against Disinformation](https://www.darkreading.com/cyber-risk/ai-remains-wild-card-in-war-against-disinformation)
 - [Iranian Cyber Threat Group Drops New Backdoor, &#39;BugSleep&#39;](https://www.darkreading.com/threat-intelligence/iranian-threat-group-drops-new-backdoor-bugsleep)
 - [Threat Actors Ramp Up Use of Encoded URLs to Bypass Secure Email](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-ramp-up-use-of-encoded-urls-to-bypass-secure-email)
@@ -83,7 +84,6 @@
 - [MxD Research Reveals Major Disconnect Between Perceived and Actual Cybersecurity Capabilities in US Manufacturing](https://www.darkreading.com/ics-ot-security/mxd-research-reveals-major-disconnect-between-perceived-and-actual-cybersecurity-capabilities-in-us-manufacturing)
 - [Top 5 Mistakes Businesses Make When Implementing Zero Trust](https://www.darkreading.com/application-security/top-5-mistakes-businesses-make-when-implementing-zero-trust)
 - [QBE Insurance Launches Global Cyber Coverage With QCyberProtect](https://www.darkreading.com/cyber-risk/qbe-insurance-launches-global-cyber-coverage-with-qcyberprotect)
-- [Aura Partners With Mosaic Compliance Services to Launch a Program to Protect Auto Dealers and Buyers From Cybercrime](https://www.darkreading.com/cybersecurity-operations/aura-partners-with-mosaic-compliance-services-to-launch-a-program-to-protect-auto-dealers-and-buyers-from-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
