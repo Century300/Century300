@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CSA Updates Cloud Security Certificate, Training](https://www.darkreading.com/cybersecurity-careers/csa-updates-cloud-security-certificate-training)
+- [Ransomware Has Outsized Impact on Gas, Energy &amp;amp; Utility Firms](https://www.darkreading.com/cyber-risk/ransomware-has-outsized-impact-on-gas-energy-and-utility-firms)
+- [CISA Publishes Resiliency Playbook for Critical Infrastructure](https://www.darkreading.com/cyber-risk/cisa-publishes-resiliency-playbook-for-critical-infrastructure)
 - [Sizable Chunk of SEC Charges Against SolarWinds Tossed Out of Court](https://www.darkreading.com/application-security/solarwinds-charges-tossed-out-of-court-in-legal-victory-against-sec)
 - [US Data Breach Victim Numbers Increase by 1,000%, Literally](https://www.darkreading.com/cyberattacks-data-breaches/us-data-breach-victim-numbers-increase-1000)
 - [High-Severity Cisco Bug Grants Attackers Password Access](https://www.darkreading.com/vulnerabilities-threats/high-severity-cisco-bug-grants-attackers-password-access)
 - [20 Million Trusted Domains Vulnerable to Email Hosting Exploits](https://www.darkreading.com/threat-intelligence/20-million-trusted-domains-vulnerable-to-email-hosting-exploits)
 - [Microsoft-Signed Chinese Adware Opens the Door to Kernel Privileges](https://www.darkreading.com/threat-intelligence/microsoft-signed-chinese-adware-opens-the-door-to-kernel-privileges)
-- [AI Remains a Wild Card in the War Against Disinformation](https://www.darkreading.com/cyber-risk/ai-remains-wild-card-in-war-against-disinformation)
-- [Iranian Cyber Threat Group Drops New Backdoor, &#39;BugSleep&#39;](https://www.darkreading.com/threat-intelligence/iranian-threat-group-drops-new-backdoor-bugsleep)
-- [Threat Actors Ramp Up Use of Encoded URLs to Bypass Secure Email](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-ramp-up-use-of-encoded-urls-to-bypass-secure-email)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
