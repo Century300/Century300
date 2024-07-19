@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [CSA Updates Cloud Security Certificate, Training](https://www.darkreading.com/cybersecurity-careers/csa-updates-cloud-security-certificate-training)
+- [Tech Giants Agree to Standardize AI Security](https://www.darkreading.com/cloud-security/tech-giants-agree-to-standardize-ai-security)
+- [Notorious Chinese Hacker Gang GhostEmperor Re-Emerges After 2 Years](https://www.darkreading.com/threat-intelligence/notorious-chinese-hacker-gang-re-emerges-after-two-years)
 - [DHS Inspector General: Coast Guard Shortcomings Hinder US Maritime Security](https://www.darkreading.com/cyber-risk/coast-guard-shortcomings-hinder-us-maritime-security-dhs-report)
 - [In Cybersecurity, Mitigating Human Risk Goes Far Beyond Training](https://www.darkreading.com/cyber-risk/in-cybersecurity-mitigating-human-risk-goes-far-beyond-training)
 - [China&#39;s APT41 Targets Global Logistics, Utilities Companies](https://www.darkreading.com/threat-intelligence/china-apt41-targets-global-logistics-utilities)
 - [Ransomware Has Outsized Impact on Gas, Energy &amp;amp; Utility Firms](https://www.darkreading.com/cyber-risk/ransomware-has-outsized-impact-on-gas-energy-and-utility-firms)
 - [CISA Publishes Resiliency Playbook for Critical Infrastructure](https://www.darkreading.com/cyber-risk/cisa-publishes-resiliency-playbook-for-critical-infrastructure)
-- [Sizable Chunk of SEC Charges Against SolarWinds Tossed Out of Court](https://www.darkreading.com/application-security/solarwinds-charges-tossed-out-of-court-in-legal-victory-against-sec)
-- [US Data Breach Victim Numbers Increase by 1,000%, Literally](https://www.darkreading.com/cyberattacks-data-breaches/us-data-breach-victim-numbers-increase-1000)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
