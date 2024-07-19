@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [CSA Updates Cloud Security Certificate, Training](https://www.darkreading.com/cybersecurity-careers/csa-updates-cloud-security-certificate-training)
+- [Buggy CrowdStrike EDR Update Crashes Windows Systems Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-outage)
 - [Tech Giants Agree to Standardize AI Security](https://www.darkreading.com/cloud-security/tech-giants-agree-to-standardize-ai-security)
 - [Notorious Chinese Hacker Gang GhostEmperor Re-Emerges After 2 Years](https://www.darkreading.com/threat-intelligence/notorious-chinese-hacker-gang-re-emerges-after-two-years)
 - [DHS Inspector General: Coast Guard Shortcomings Hinder US Maritime Security](https://www.darkreading.com/cyber-risk/coast-guard-shortcomings-hinder-us-maritime-security-dhs-report)
-- [In Cybersecurity, Mitigating Human Risk Goes Far Beyond Training](https://www.darkreading.com/cyber-risk/in-cybersecurity-mitigating-human-risk-goes-far-beyond-training)
 - [China&#39;s APT41 Targets Global Logistics, Utilities Companies](https://www.darkreading.com/threat-intelligence/china-apt41-targets-global-logistics-utilities)
+- [In Cybersecurity, Mitigating Human Risk Goes Far Beyond Training](https://www.darkreading.com/cyber-risk/in-cybersecurity-mitigating-human-risk-goes-far-beyond-training)
 - [Ransomware Has Outsized Impact on Gas, Energy &amp;amp; Utility Firms](https://www.darkreading.com/cyber-risk/ransomware-has-outsized-impact-on-gas-energy-and-utility-firms)
-- [CISA Publishes Resiliency Playbook for Critical Infrastructure](https://www.darkreading.com/cyber-risk/cisa-publishes-resiliency-playbook-for-critical-infrastructure)
+- [CSA Updates Cloud Security Certificate, Training](https://www.darkreading.com/cybersecurity-careers/csa-updates-cloud-security-certificate-training)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
