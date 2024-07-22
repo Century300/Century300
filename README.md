@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Hunting Market Worth $6.9B by 2029](https://www.darkreading.com/threat-intelligence/threat-hunting-market-worth-6-9b-by-2029)
 - [Russian Hacktivists Sanctioned for US Critical Infrastructure Attacks](https://www.darkreading.com/ics-ot-security/russian-hacktivists-sanctioned-attacks-us-critical-infrastructure)
 - [Quantum Leap: Advanced Computing Is a Vulnerable Cyber Target](https://www.darkreading.com/cyber-risk/quantum-leap-advanced-computing-vulnerable-cyber-target)
 - [Kaspersky Is an Unacceptable Risk Threatening the Nation&#39;s Cyber Defense](https://www.darkreading.com/vulnerabilities-threats/kaspersky-is-unacceptable-risk-threatening-nations-cyber-defense)
@@ -83,7 +84,6 @@
 - [Fallout From Faulty Friday CrowdStrike Update Persists](https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists)
 - [Under-Resourced Maintainers Pose Risk to Africa&#39;s Open Source Push](https://www.darkreading.com/application-security/under-resourced-maintainers-pose-risk-to-africas-open-source-push)
 - [Buggy CrowdStrike EDR Update Crashes Windows Systems Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-outage)
-- [Tech Giants Agree to Standardize AI Security](https://www.darkreading.com/cloud-security/tech-giants-agree-to-standardize-ai-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
