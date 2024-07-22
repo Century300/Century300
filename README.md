@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Fallout from Faulty Friday CrowdStrike Update Persists](https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists)
+- [Chinese Forced-Labor Ring Sponsors Football Clubs, Hides Behind Stealth Tech](https://www.darkreading.com/threat-intelligence/chinese-forced-labor-ring-sponsors-football-clubs-hides-behind-stealth-tech)
+- [Fallout From Faulty Friday CrowdStrike Update Persists](https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists)
 - [Under-Resourced Maintainers Pose Risk to Africa&#39;s Open Source Push](https://www.darkreading.com/application-security/under-resourced-maintainers-pose-risk-to-africas-open-source-push)
 - [Buggy CrowdStrike EDR Update Crashes Windows Systems Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-outage)
 - [Tech Giants Agree to Standardize AI Security](https://www.darkreading.com/cloud-security/tech-giants-agree-to-standardize-ai-security)
 - [Notorious Chinese Hacker Gang GhostEmperor Re-Emerges After 2 Years](https://www.darkreading.com/threat-intelligence/notorious-chinese-hacker-gang-re-emerges-after-two-years)
 - [DHS Inspector General: Coast Guard Shortcomings Hinder US Maritime Security](https://www.darkreading.com/cyber-risk/coast-guard-shortcomings-hinder-us-maritime-security-dhs-report)
 - [In Cybersecurity, Mitigating Human Risk Goes Far Beyond Training](https://www.darkreading.com/cyber-risk/in-cybersecurity-mitigating-human-risk-goes-far-beyond-training)
-- [China&#39;s APT41 Targets Global Logistics, Utilities Companies](https://www.darkreading.com/threat-intelligence/china-apt41-targets-global-logistics-utilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
