@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Teenage Scattered Spider Suspect Arrested in Global Cybercrime Sting](https://www.darkreading.com/cybersecurity-operations/teenage-scattered-spider-suspect-arrested-in-global-cybercrime-sting)
 - [Threat Hunting Market Worth $6.9B by 2029](https://www.darkreading.com/threat-intelligence/threat-hunting-market-worth-6-9b-by-2029)
 - [Russian Hacktivists Sanctioned for US Critical Infrastructure Attacks](https://www.darkreading.com/ics-ot-security/russian-hacktivists-sanctioned-attacks-us-critical-infrastructure)
 - [Quantum Leap: Advanced Computing Is a Vulnerable Cyber Target](https://www.darkreading.com/cyber-risk/quantum-leap-advanced-computing-vulnerable-cyber-target)
@@ -83,7 +84,6 @@
 - [Chinese Forced-Labor Ring Sponsors Football Clubs, Hides Behind Stealth Tech](https://www.darkreading.com/threat-intelligence/chinese-forced-labor-ring-sponsors-football-clubs-hides-behind-stealth-tech)
 - [Fallout From Faulty Friday CrowdStrike Update Persists](https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists)
 - [Under-Resourced Maintainers Pose Risk to Africa&#39;s Open Source Push](https://www.darkreading.com/application-security/under-resourced-maintainers-pose-risk-to-africas-open-source-push)
-- [Buggy CrowdStrike EDR Update Crashes Windows Systems Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-outage)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
