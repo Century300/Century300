@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Check Point Research Reports Highest Increase of Global Cyber Attacks Seen in Last Two Years](https://www.darkreading.com/cyberattacks-data-breaches/check-point-research-reports-highest-increase-of-global-cyber-attacks-seen-in-last-two-years)
+- [Two Foreign Nationals Plead Guilty to Participating in LockBit Ransomware Group](https://www.darkreading.com/cyberattacks-data-breaches/two-foreign-nationals-plead-guilty-to-participating-in-lockbit-ransomware-group)
+- [Seemplicity 2024 Remediation Operations Report: Rising Exposure Management Risk](https://www.darkreading.com/cybersecurity-operations/seemplicity-2024-remediation-operations-report-rising-exposure-management-risk)
+- [EC-Council Democratizes Hands-On Cybersecurity Training With 8 Cyber Courses](https://www.darkreading.com/cybersecurity-operations/ec-council-democratizes-hands-on-cybersecurity-training-with-8-cyber-courses)
+- [Cloud Security Alliance Introduces Certificate of Cloud Security Knowledge](https://www.darkreading.com/cloud-security/cloud-security-alliance-sets-new-standard-in-cloud-security-expertise-with-the-certificate-of-cloud-security-knowledge)
 - [Teenage Scattered Spider Suspect Arrested in Global Cybercrime Sting](https://www.darkreading.com/cybersecurity-operations/teenage-scattered-spider-suspect-arrested-in-global-cybercrime-sting)
 - [Swipe Right for Data Leaks: Dating Apps Expose Location, More](https://www.darkreading.com/application-security/swipe-right-for-data-leaks-dating-apps-expose-location-more)
 - [Threat Hunting Market Worth $6.9B by 2029](https://www.darkreading.com/threat-intelligence/threat-hunting-market-worth-6-9b-by-2029)
-- [Russian Hacktivists Sanctioned for US Critical Infrastructure Attacks](https://www.darkreading.com/ics-ot-security/russian-hacktivists-sanctioned-attacks-us-critical-infrastructure)
-- [Quantum Leap: Advanced Computing Is a Vulnerable Cyber Target](https://www.darkreading.com/cyber-risk/quantum-leap-advanced-computing-vulnerable-cyber-target)
-- [Kaspersky Is an Unacceptable Risk Threatening the Nation&#39;s Cyber Defense](https://www.darkreading.com/vulnerabilities-threats/kaspersky-is-unacceptable-risk-threatening-nations-cyber-defense)
-- [Chinese Forced-Labor Ring Sponsors Football Clubs, Hides Behind Stealth Tech](https://www.darkreading.com/threat-intelligence/chinese-forced-labor-ring-sponsors-football-clubs-hides-behind-stealth-tech)
-- [Fallout From Faulty Friday CrowdStrike Update Persists](https://www.darkreading.com/application-security/fallout-from-faulty-friday-crowdstrike-update-persists)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
