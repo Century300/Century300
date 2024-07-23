@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sprawling CrowdStrike Incident Mitigation Showcases Resilience Gaps](https://www.darkreading.com/ics-ot-security/sprawling-crowdstrike-incident-mitigation-showcases-resilience-gaps)
 - [Attackers Exploit &#39;EvilVideo&#39; Telegram Zero-Day to Hide Malware](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-evilvideo-telegram-zero-day-malware)
 - [Wanted: A SBOM Standard to Rule Them All](https://www.darkreading.com/vulnerabilities-threats/wanted-sbom-standard-to-rule-them-all)
 - [Shocked, Devastated, Stuck: Cybersecurity Pros Open Up About Their Layoffs](https://www.darkreading.com/cybersecurity-careers/lessons-from-layoffs-in-cybersecurity)
@@ -83,7 +84,6 @@
 - [Linx Security Launches With Identity Management Platform](https://www.darkreading.com/identity-access-management-security/linx-security-launches-with-identity-management-platform)
 - [Check Point Research Reports Highest Increase of Global Cyber Attacks Seen in Last Two Years](https://www.darkreading.com/cyberattacks-data-breaches/check-point-research-reports-highest-increase-of-global-cyber-attacks-seen-in-last-two-years)
 - [Two Foreign Nationals Plead Guilty to Participating in LockBit Ransomware Group](https://www.darkreading.com/cyberattacks-data-breaches/two-foreign-nationals-plead-guilty-to-participating-in-lockbit-ransomware-group)
-- [Seemplicity 2024 Remediation Operations Report: Rising Exposure Management Risk](https://www.darkreading.com/cybersecurity-operations/seemplicity-2024-remediation-operations-report-rising-exposure-management-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
