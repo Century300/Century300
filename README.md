@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Novel ICS Malware Sabotaged Water-Heating Services in Ukraine](https://www.darkreading.com/ics-ot-security/novel-ics-malware-sabotaged-water-heating-services-in-ukraine)
+- [Linx Security Launches With Identity Management Platform](https://www.darkreading.com/identity-access-management-security/linx-security-launches-with-identity-management-platform)
 - [Check Point Research Reports Highest Increase of Global Cyber Attacks Seen in Last Two Years](https://www.darkreading.com/cyberattacks-data-breaches/check-point-research-reports-highest-increase-of-global-cyber-attacks-seen-in-last-two-years)
 - [Two Foreign Nationals Plead Guilty to Participating in LockBit Ransomware Group](https://www.darkreading.com/cyberattacks-data-breaches/two-foreign-nationals-plead-guilty-to-participating-in-lockbit-ransomware-group)
 - [Seemplicity 2024 Remediation Operations Report: Rising Exposure Management Risk](https://www.darkreading.com/cybersecurity-operations/seemplicity-2024-remediation-operations-report-rising-exposure-management-risk)
 - [EC-Council Democratizes Hands-On Cybersecurity Training With 8 Cyber Courses](https://www.darkreading.com/cybersecurity-operations/ec-council-democratizes-hands-on-cybersecurity-training-with-8-cyber-courses)
 - [Cloud Security Alliance Introduces Certificate of Cloud Security Knowledge](https://www.darkreading.com/cloud-security/cloud-security-alliance-sets-new-standard-in-cloud-security-expertise-with-the-certificate-of-cloud-security-knowledge)
 - [Teenage Scattered Spider Suspect Arrested in Global Cybercrime Sting](https://www.darkreading.com/cybersecurity-operations/teenage-scattered-spider-suspect-arrested-in-global-cybercrime-sting)
-- [Swipe Right for Data Leaks: Dating Apps Expose Location, More](https://www.darkreading.com/application-security/swipe-right-for-data-leaks-dating-apps-expose-location-more)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
