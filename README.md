@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Navigating the Complex Landscape of Web Browser Security](https://www.darkreading.com/vulnerabilities-threats/navigating-complex-landscape-web-browser-security)
 - [Russia Adjusts Cyber Strategy for the Long Haul in War With Ukraine](https://www.darkreading.com/ics-ot-security/russia-adjusts-cyber-strategy-for-the-long-haul-in-ukraine-war)
 - [China&#39;s &#39;Evasive Panda&#39; APT Spies on Taiwan Targets Across Platforms](https://www.darkreading.com/threat-intelligence/china-evasive-panda-apt-spies-taiwan-targets-across-platforms)
 - [Goodbye? Attackers Can Bypass &#39;Windows Hello&#39; Strong Authentication](https://www.darkreading.com/endpoint-security/goodbye-attackers-can-bypass-windows-hello-strong-authentication)
@@ -83,7 +84,6 @@
 - [Attackers Exploit &#39;EvilVideo&#39; Telegram Zero-Day to Hide Malware](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-evilvideo-telegram-zero-day-malware)
 - [Wanted: An SBOM Standard to Rule Them All](https://www.darkreading.com/vulnerabilities-threats/wanted-sbom-standard-to-rule-them-all)
 - [Shocked, Devastated, Stuck: Cybersecurity Pros Open Up About Their Layoffs](https://www.darkreading.com/cybersecurity-careers/lessons-from-layoffs-in-cybersecurity)
-- [Novel ICS Malware Sabotaged Water-Heating Services in Ukraine](https://www.darkreading.com/ics-ot-security/novel-ics-malware-sabotaged-water-heating-services-in-ukraine)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
