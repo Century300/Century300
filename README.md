@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Small Businesses Need Default Security in Products Now](https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now)
 - [Fighting Third-Party Risk With Threat Intelligence](https://www.darkreading.com/threat-intelligence/fighting-third-party-risk-with-threat-intelligence)
 - [&#39;Stargazer Goblin&#39; Amasses Rogue GitHub Accounts to Spread Malware](https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware)
 - [Cyberattackers Exploit Microsoft SmartScreen Bug in Stealer Campaign](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-exploit-microsoft-smartscreen-bug-in-stealer-campaign)
@@ -83,7 +84,6 @@
 - [CrowdStrike Blames Crash on Buggy Security Content Update](https://www.darkreading.com/endpoint-security/crowdstrike-crash-buggy-security-content-update)
 - [Navigating the Complex Landscape of Web Browser Security](https://www.darkreading.com/vulnerabilities-threats/navigating-complex-landscape-web-browser-security)
 - [Russia Adjusts Cyber Strategy for the Long Haul in War With Ukraine](https://www.darkreading.com/ics-ot-security/russia-adjusts-cyber-strategy-for-the-long-haul-in-ukraine-war)
-- [China&#39;s &#39;Evasive Panda&#39; APT Spies on Taiwan Targets Across Platforms](https://www.darkreading.com/threat-intelligence/china-evasive-panda-apt-spies-taiwan-targets-across-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
