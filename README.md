@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Exploit Microsoft SmartScreen Bug in Stealer Campaign](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-exploit-microsoft-smartscreen-bug-in-stealer-campaign)
 - [Hamster Kombat Players Threatened by Spyware &amp;amp; Infostealers](https://www.darkreading.com/cyber-risk/hamster-kombat-players-threatened-by-spyware-infostealers)
 - [CrowdStrike Blames Crash on Buggy Security Content Update](https://www.darkreading.com/endpoint-security/crowdstrike-crash-buggy-security-content-update)
 - [Navigating the Complex Landscape of Web Browser Security](https://www.darkreading.com/vulnerabilities-threats/navigating-complex-landscape-web-browser-security)
@@ -83,7 +84,6 @@
 - [China&#39;s &#39;Evasive Panda&#39; APT Spies on Taiwan Targets Across Platforms](https://www.darkreading.com/threat-intelligence/china-evasive-panda-apt-spies-taiwan-targets-across-platforms)
 - [Goodbye? Attackers Can Bypass &#39;Windows Hello&#39; Strong Authentication](https://www.darkreading.com/endpoint-security/goodbye-attackers-can-bypass-windows-hello-strong-authentication)
 - [Sprawling CrowdStrike Incident Mitigation Showcases Resilience Gaps](https://www.darkreading.com/ics-ot-security/sprawling-crowdstrike-incident-mitigation-showcases-resilience-gaps)
-- [Attackers Exploit &#39;EvilVideo&#39; Telegram Zero-Day to Hide Malware](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-evilvideo-telegram-zero-day-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
