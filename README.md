@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft&#39;s Internet Explorer Gets Revived to Lure in Windows Victims](https://www.darkreading.com/threat-intelligence/microsofts-internet-explorer-gets-revived-to-lure-in-windows-victims)
 - [Unexpected Lessons Learned From the CrowdStrike Event](https://www.darkreading.com/vulnerabilities-threats/unexpected-lessons-learned-from-the-crowdstrike-event)
 - [Security Firm Accidentally Hires North Korean Hacker, Did Not KnowBe4](https://www.darkreading.com/vulnerabilities-threats/security-firm-hires-north-korean-hacker-knowbe4)
 - [Is Our Water Safe to Drink? Securing Our Critical Infrastructure](https://www.darkreading.com/ics-ot-security/is-our-water-safe-to-drink-securing-our-critical-infrastructure)
@@ -83,7 +84,6 @@
 - [Google Will Not Remove Third-Party Cookies From Chrome](https://www.darkreading.com/data-privacy/google-will-not-remove-third-party-cookies-from-chrome)
 - [Small Businesses Need Default Security in Products Now](https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now)
 - [Fighting Third-Party Risk With Threat Intelligence](https://www.darkreading.com/threat-intelligence/fighting-third-party-risk-with-threat-intelligence)
-- [Zest Security Aims to Resolve Cloud Risks](https://www.darkreading.com/cloud-security/zest-security-aims-to-resolve-cloud-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
