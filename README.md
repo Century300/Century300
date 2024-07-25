@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pro-Palestinian Actor Levels 6-Day DDoS Attack on UAE Bank](https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank)
 - [Small Businesses Need Default Security in Products Now](https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now)
 - [Fighting Third-Party Risk With Threat Intelligence](https://www.darkreading.com/threat-intelligence/fighting-third-party-risk-with-threat-intelligence)
 - [&#39;Stargazer Goblin&#39; Amasses Rogue GitHub Accounts to Spread Malware](https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware)
@@ -83,7 +84,6 @@
 - [Hamster Kombat Players Threatened by Spyware &amp;amp; Infostealers](https://www.darkreading.com/cyber-risk/hamster-kombat-players-threatened-by-spyware-infostealers)
 - [CrowdStrike Blames Crash on Buggy Security Content Update](https://www.darkreading.com/endpoint-security/crowdstrike-crash-buggy-security-content-update)
 - [Navigating the Complex Landscape of Web Browser Security](https://www.darkreading.com/vulnerabilities-threats/navigating-complex-landscape-web-browser-security)
-- [Russia Adjusts Cyber Strategy for the Long Haul in War With Ukraine](https://www.darkreading.com/ics-ot-security/russia-adjusts-cyber-strategy-for-the-long-haul-in-ukraine-war)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
