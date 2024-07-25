@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is Our Water Safe to Drink? Securing Our Critical Infrastructure](https://www.darkreading.com/ics-ot-security/is-our-water-safe-to-drink-securing-our-critical-infrastructure)
 - [Pro-Palestinian Actor Levels 6-Day DDoS Attack on UAE Bank](https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank)
 - [Google Will Not Remove Third-Party Cookies From Chrome](https://www.darkreading.com/data-privacy/google-will-not-remove-third-party-cookies-from-chrome)
 - [Small Businesses Need Default Security in Products Now](https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now)
@@ -83,7 +84,6 @@
 - [Zest Security Aims to Resolve Cloud Risks](https://www.darkreading.com/cloud-security/zest-security-aims-to-resolve-cloud-risks)
 - [&#39;Stargazer Goblin&#39; Amasses Rogue GitHub Accounts to Spread Malware](https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware)
 - [Cyberattackers Exploit Microsoft SmartScreen Bug in Stealer Campaign](https://www.darkreading.com/vulnerabilities-threats/cyberattackers-exploit-microsoft-smartscreen-bug-in-stealer-campaign)
-- [Hamster Kombat Players Threatened by Spyware &amp;amp; Infostealers](https://www.darkreading.com/cyber-risk/hamster-kombat-players-threatened-by-spyware-infostealers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
