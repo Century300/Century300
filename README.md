@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unexpected Lessons Learned From the CrowdStrike Event](https://www.darkreading.com/vulnerabilities-threats/unexpected-lessons-learned-from-the-crowdstrike-event)
 - [Security Firm Accidentally Hires North Korean Hacker, Did Not KnowBe4](https://www.darkreading.com/vulnerabilities-threats/security-firm-hires-north-korean-hacker-knowbe4)
 - [Is Our Water Safe to Drink? Securing Our Critical Infrastructure](https://www.darkreading.com/ics-ot-security/is-our-water-safe-to-drink-securing-our-critical-infrastructure)
 - [Pro-Palestinian Actor Levels 6-Day DDoS Attack on UAE Bank](https://www.darkreading.com/cyberattacks-data-breaches/pro-palestinian-actor-levels-six-day-ddos-on-uae-bank)
@@ -83,7 +84,6 @@
 - [Small Businesses Need Default Security in Products Now](https://www.darkreading.com/endpoint-security/small-businesses-need-default-security-in-products-now)
 - [Fighting Third-Party Risk With Threat Intelligence](https://www.darkreading.com/threat-intelligence/fighting-third-party-risk-with-threat-intelligence)
 - [Zest Security Aims to Resolve Cloud Risks](https://www.darkreading.com/cloud-security/zest-security-aims-to-resolve-cloud-risks)
-- [&#39;Stargazer Goblin&#39; Amasses Rogue GitHub Accounts to Spread Malware](https://www.darkreading.com/application-security/stargazer-goblin-amasses-rogue-github-accounts-to-spread-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
