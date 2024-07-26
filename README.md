@@ -79,11 +79,11 @@
 - [Millions of Devices Vulnerable to &#39;PKFail&#39; Secure Boot Bypass Issue](https://www.darkreading.com/endpoint-security/millions-of-devices-vulnerable-to-pkfail-secure-boot-bypass-issue)
 - [CrowdStrike Outage Losses Estimated at a Staggering $5.4B](https://www.darkreading.com/cybersecurity-operations/crowdstrike-outage-losses-estimated-staggering-54b)
 - [Targeted PyPi Package Steals Google Cloud Credentials from macOS Devs](https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs)
+- [Companies Struggle to Recover From CrowdStrike&#39;s Crippling Falcon Update](https://www.darkreading.com/cybersecurity-operations/companies-struggle-to-recover-from-crowdstrike-crippling-falcon-update)
 - [US Offers $10M Reward for Information on North Korean Hacker](https://www.darkreading.com/threat-intelligence/us-offers-10m-reward-for-information-on-north-korean-hacker)
 - [Nvidia Embraces LLMs &amp;amp; Commonsense Cybersecurity Strategy](https://www.darkreading.com/cyber-risk/nvidia-embraces-llms-and-commonsense-cybersecurity-strategy)
 - [Distributing Security Responsibilities &lpar;Responsibly&rpar;](https://www.darkreading.com/vulnerabilities-threats/distributing-security-responsibilities-responsibly)
 - [Could Intel Have Fixed Spectre &amp;amp; Meltdown Bugs Earlier?](https://www.darkreading.com/vulnerabilities-threats/could-intel-have-fixed-meltdown-spectre-earlier)
-- [Mimecast Joins Human Risk Management Fray With Code42 Deal](https://www.darkreading.com/insider-threats/mimecast-joins-human-risk-management-fray-with-code42-deal)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
