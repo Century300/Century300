@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Offers $10M Reward for Information on North Korean Hacker](https://www.darkreading.com/threat-intelligence/us-offers-10m-reward-for-information-on-north-korean-hacker)
 - [Nvidia Embraces LLMs &amp;amp; Commonsense Cybersecurity Strategy](https://www.darkreading.com/cyber-risk/nvidia-embraces-llms-and-commonsense-cybersecurity-strategy)
 - [Distributing Security Responsibilities &lpar;Responsibly&rpar;](https://www.darkreading.com/vulnerabilities-threats/distributing-security-responsibilities-responsibly)
 - [Could Intel Have Fixed Spectre &amp;amp; Meltdown Bugs Earlier?](https://www.darkreading.com/vulnerabilities-threats/could-intel-have-fixed-meltdown-spectre-earlier)
@@ -83,7 +84,6 @@
 - [CrowdStrike &#39;Updates&#39; Deliver Malware &amp;amp; More as Attacks Snowball](https://www.darkreading.com/threat-intelligence/crowdstrike-updates-malware-attacks-snowball)
 - [Feds Warn of North Korean Cyberattacks on US Critical Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/feds-warn-of-north-korean-cyberattacks-on-us-critical-infrastructure)
 - [Microsoft&#39;s Internet Explorer Gets Revived to Lure in Windows Victims](https://www.darkreading.com/threat-intelligence/microsofts-internet-explorer-gets-revived-to-lure-in-windows-victims)
-- [Unexpected Lessons Learned From the CrowdStrike Event](https://www.darkreading.com/vulnerabilities-threats/unexpected-lessons-learned-from-the-crowdstrike-event)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
