@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nvidia Embraces LLMs &amp;amp; Commonsense Cybersecurity Strategy](https://www.darkreading.com/cyber-risk/nvidia-embraces-llms-and-commonsense-cybersecurity-strategy)
 - [Distributing Security Responsibilities &lpar;Responsibly&rpar;](https://www.darkreading.com/vulnerabilities-threats/distributing-security-responsibilities-responsibly)
 - [Could Intel Have Fixed Spectre &amp;amp; Meltdown Bugs Earlier?](https://www.darkreading.com/vulnerabilities-threats/could-intel-have-fixed-meltdown-spectre-earlier)
 - [Mimecast Joins Human Risk Management Fray With Code42 Deal](https://www.darkreading.com/insider-threats/mimecast-joins-human-risk-management-fray-with-code42-deal)
@@ -83,7 +84,6 @@
 - [Feds Warn of North Korean Cyberattacks on US Critical Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/feds-warn-of-north-korean-cyberattacks-on-us-critical-infrastructure)
 - [Microsoft&#39;s Internet Explorer Gets Revived to Lure in Windows Victims](https://www.darkreading.com/threat-intelligence/microsofts-internet-explorer-gets-revived-to-lure-in-windows-victims)
 - [Unexpected Lessons Learned From the CrowdStrike Event](https://www.darkreading.com/vulnerabilities-threats/unexpected-lessons-learned-from-the-crowdstrike-event)
-- [Security Firm Accidentally Hires North Korean Hacker, Did Not KnowBe4](https://www.darkreading.com/vulnerabilities-threats/security-firm-hires-north-korean-hacker-knowbe4)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
