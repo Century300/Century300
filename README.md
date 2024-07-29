@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover](https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover)
 - [7 Sessions Not to Miss at Black Hat USA 2024](https://www.darkreading.com/vulnerabilities-threats/7-sessions-not-to-miss-at-black-hat-usa-2024)
 - [China-Backed Phishing Attack Targets India Postal System Users](https://www.darkreading.com/endpoint-security/china-backed-smishing-campaign-targets-india-post-users)
 - [Millions of Devices Vulnerable to &#39;PKFail&#39; Secure Boot Bypass Issue](https://www.darkreading.com/endpoint-security/millions-of-devices-vulnerable-to-pkfail-secure-boot-bypass-issue)
@@ -83,7 +84,6 @@
 - [Targeted PyPi Package Steals Google Cloud Credentials from macOS Devs](https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs)
 - [Companies Struggle to Recover From CrowdStrike&#39;s Crippling Falcon Update](https://www.darkreading.com/cybersecurity-operations/companies-struggle-to-recover-from-crowdstrike-crippling-falcon-update)
 - [US Offers $10M Reward for Information on North Korean Hacker](https://www.darkreading.com/threat-intelligence/us-offers-10m-reward-for-information-on-north-korean-hacker)
-- [Nvidia Embraces LLMs &amp;amp; Commonsense Cybersecurity Strategy](https://www.darkreading.com/cyber-risk/nvidia-embraces-llms-and-commonsense-cybersecurity-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
