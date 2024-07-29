@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Zeus&#39; Hacker Group Strikes Israeli Olympic Athletes in Data Leak](https://www.darkreading.com/threat-intelligence/zeus-hacker-group-strikes-israeli-olympic-athletes-data-leak)
 - [OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover](https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover)
 - [7 Sessions Not to Miss at Black Hat USA 2024](https://www.darkreading.com/vulnerabilities-threats/7-sessions-not-to-miss-at-black-hat-usa-2024)
 - [China-Backed Phishing Attack Targets India Postal System Users](https://www.darkreading.com/endpoint-security/china-backed-smishing-campaign-targets-india-post-users)
@@ -83,7 +84,6 @@
 - [CrowdStrike Outage Losses Estimated at a Staggering $5.4B](https://www.darkreading.com/cybersecurity-operations/crowdstrike-outage-losses-estimated-staggering-54b)
 - [Targeted PyPi Package Steals Google Cloud Credentials from macOS Devs](https://www.darkreading.com/threat-intelligence/targeted-pypi-package-steals-google-cloud-credentials-macos-devs)
 - [Companies Struggle to Recover From CrowdStrike&#39;s Crippling Falcon Update](https://www.darkreading.com/cybersecurity-operations/companies-struggle-to-recover-from-crowdstrike-crippling-falcon-update)
-- [US Offers $10M Reward for Information on North Korean Hacker](https://www.darkreading.com/threat-intelligence/us-offers-10m-reward-for-information-on-north-korean-hacker)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
