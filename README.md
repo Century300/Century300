@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cowbell Secures $60 million Series C Funding From Zurich Insurance Group](https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group)
+- [Lakera Raises $20M Series A to Secure Generative AI Applications](https://www.darkreading.com/cybersecurity-operations/lakera-raises-20m-series-a-to-secure-generative-ai-applications)
+- [Heimdal Security Presents its Latest Report on Brute-Force Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/heimdal-security-presents-its-latest-report-on-brute-force-cyberattacks)
 - [PatchNow: ServiceNow Critical RCE Bugs Under Active Exploit](https://www.darkreading.com/cloud-security/patchnow-servicenow-critical-rce-bugs-active-exploit)
 - [Microsoft Lowballs CrowdStrike Outage Impact](https://www.darkreading.com/application-security/microsoft-lowballs-crowdstrike-outage-impact)
 - [&#39;Zeus&#39; Hacker Group Strikes Israeli Olympic Athletes in Data Leak](https://www.darkreading.com/threat-intelligence/zeus-hacker-group-strikes-israeli-olympic-athletes-data-leak)
 - [OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover](https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover)
 - [7 Sessions Not to Miss at Black Hat USA 2024](https://www.darkreading.com/vulnerabilities-threats/7-sessions-not-to-miss-at-black-hat-usa-2024)
-- [China-Backed Phishing Attack Targets India Postal System Users](https://www.darkreading.com/endpoint-security/china-backed-smishing-campaign-targets-india-post-users)
-- [Millions of Devices Vulnerable to &#39;PKFail&#39; Secure Boot Bypass Issue](https://www.darkreading.com/endpoint-security/millions-of-devices-vulnerable-to-pkfail-secure-boot-bypass-issue)
-- [CrowdStrike Outage Losses Estimated at a Staggering $5.4B](https://www.darkreading.com/cybersecurity-operations/crowdstrike-outage-losses-estimated-staggering-54b)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
