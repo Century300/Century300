@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cowbell Secures $60 million Series C Funding From Zurich Insurance Group](https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group)
+- [Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group](https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group)
 - [Lakera Raises $20M Series A to Secure Generative AI Applications](https://www.darkreading.com/cybersecurity-operations/lakera-raises-20m-series-a-to-secure-generative-ai-applications)
 - [Heimdal Security Presents its Latest Report on Brute-Force Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/heimdal-security-presents-its-latest-report-on-brute-force-cyberattacks)
 - [PatchNow: ServiceNow Critical RCE Bugs Under Active Exploit](https://www.darkreading.com/cloud-security/patchnow-servicenow-critical-rce-bugs-active-exploit)
