@@ -81,7 +81,7 @@
 - [Lakera Raises $20M Series A to Secure Generative AI Applications](https://www.darkreading.com/cybersecurity-operations/lakera-raises-20m-series-a-to-secure-generative-ai-applications)
 - [Heimdal Security Presents its Latest Report on Brute-Force Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/heimdal-security-presents-its-latest-report-on-brute-force-cyberattacks)
 - [PatchNow: ServiceNow Critical RCE Bugs Under Active Exploit](https://www.darkreading.com/cloud-security/patchnow-servicenow-critical-rce-bugs-active-exploit)
-- [Microsoft Lowballs CrowdStrike Outage Impact](https://www.darkreading.com/application-security/microsoft-lowballs-crowdstrike-outage-impact)
+- [Microsoft Talks Kernel Drivers Post CrowdStrike Outage](https://www.darkreading.com/application-security/microsoft-lowballs-crowdstrike-outage-impact)
 - [&#39;Zeus&#39; Hacker Group Strikes Israeli Olympic Athletes in Data Leak](https://www.darkreading.com/threat-intelligence/zeus-hacker-group-strikes-israeli-olympic-athletes-data-leak)
 - [OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover](https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover)
 <!-- DARKREADING:END -->
