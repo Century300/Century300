@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Criminal Hackers Add GenAI Credentials to Underground Markets](https://www.darkreading.com/threat-intelligence/criminal-hackers-add-genai-credentials-to-underground-markets)
 - [Ransomware Gangs Exploit ESXi Bug for Instant, Mass Encryption of VMs](https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms)
 - [The CrowdStrike Meltdown: A Wake-up Call for Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-meltdown-wake-up-call-for-cybersecurity)
 - [Cyberattackers Accessed HealthEquity Customer Info via Third Party](https://www.darkreading.com/cloud-security/cyberattackers-accessed-healthequity-customer-info-third-party)
@@ -83,7 +84,6 @@
 - [Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group](https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group)
 - [Lakera Raises $20M Series A to Secure Generative AI Applications](https://www.darkreading.com/cybersecurity-operations/lakera-raises-20m-series-a-to-secure-generative-ai-applications)
 - [Heimdal Security Presents its Latest Report on Brute-Force Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/heimdal-security-presents-its-latest-report-on-brute-force-cyberattacks)
-- [Patch Now: ServiceNow Critical RCE Bugs Under Active Exploit](https://www.darkreading.com/cloud-security/patchnow-servicenow-critical-rce-bugs-active-exploit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
