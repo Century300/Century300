@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The CrowdStrike Meltdown: A Wake-up Call for Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-meltdown-wake-up-call-for-cybersecurity)
+- [Cyberattackers Accessed HealthEquity Customer Info via Third Party](https://www.darkreading.com/cloud-security/cyberattackers-accessed-healthequity-customer-info-third-party)
 - [NVD Backlog Continues to Grow](https://www.darkreading.com/vulnerabilities-threats/nvd-backlog-continues-to-grow)
 - [Cowbell Secures $60 Million Series C Funding From Zurich Insurance Group](https://www.darkreading.com/cybersecurity-operations/cowbell-secures-60-million-series-c-funding-from-zurich-insurance-group)
 - [Lakera Raises $20M Series A to Secure Generative AI Applications](https://www.darkreading.com/cybersecurity-operations/lakera-raises-20m-series-a-to-secure-generative-ai-applications)
 - [Heimdal Security Presents its Latest Report on Brute-Force Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/heimdal-security-presents-its-latest-report-on-brute-force-cyberattacks)
 - [PatchNow: ServiceNow Critical RCE Bugs Under Active Exploit](https://www.darkreading.com/cloud-security/patchnow-servicenow-critical-rce-bugs-active-exploit)
 - [Microsoft Talks Kernel Drivers Post CrowdStrike Outage](https://www.darkreading.com/application-security/microsoft-lowballs-crowdstrike-outage-impact)
-- [&#39;Zeus&#39; Hacker Group Strikes Israeli Olympic Athletes in Data Leak](https://www.darkreading.com/threat-intelligence/zeus-hacker-group-strikes-israeli-olympic-athletes-data-leak)
-- [OAuth+XSS Attack Threatens Millions of Web Users With Account Takeover](https://www.darkreading.com/endpoint-security/oauth-xss-attack-millions-web-users-account-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
