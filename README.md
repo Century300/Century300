@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Would Making Ransom Payments Illegal Result in Fewer Attacks?](https://www.darkreading.com/vulnerabilities-threats/would-making-ransom-payments-illegal-result-in-fewer-attacks)
 - [Dynamically Evolving SMS Stealer Threatens Global Android Users](https://www.darkreading.com/endpoint-security/dynamically-evolving-sms-stealer-threatens-global-android-users)
 - [India-Linked SideWinder Group Pivots to Hacking Maritime Targets](https://www.darkreading.com/cyberattacks-data-breaches/india-linked-sidewinder-group-pivots-to-hacking-maritime-targets)
 - [Clutch Security Launches With NHI Platform](https://www.darkreading.com/identity-access-management-security/clutch-security-launches-with-nhi-platform)
@@ -83,7 +84,6 @@
 - [Ransomware Gangs Exploit ESXi Bug for Instant, Mass Encryption of VMs](https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms)
 - [The CrowdStrike Meltdown: A Wake-up Call for Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-meltdown-wake-up-call-for-cybersecurity)
 - [Cyberattackers Accessed HealthEquity Customer Info via Third Party](https://www.darkreading.com/cloud-security/cyberattackers-accessed-healthequity-customer-info-third-party)
-- [NVD Backlog Continues to Grow](https://www.darkreading.com/vulnerabilities-threats/nvd-backlog-continues-to-grow)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
