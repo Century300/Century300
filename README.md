@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Koreans Target Devs Worldwide With Spyware, Job Offers](https://www.darkreading.com/threat-intelligence/north-koreans-target-devs-worldwide-spyware-job-offers)
 - [ESET Reveals Latest Cloud-Native Authentication Solution](https://www.darkreading.com/cloud-security/eset-reveals-latest-cloud-native-authentication-solution)
 - [Protect AI Acquires SydeLabs to Red Team Large Language Models](https://www.darkreading.com/application-security/protect-ai-acquires-sydelabs-to-red-team-large-language-models)
 - [AI-Driven Executive Impersonations Emerge As Significant Threat to Business Payment Processes](https://www.darkreading.com/threat-intelligence/ai-driven-executive-impersonations-emerge-as-significant-threat-to-business-payment-processes)
@@ -83,7 +84,6 @@
 - [Microsoft: Azure DDoS Attack Amplified by Cyber-Defense Error](https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error)
 - [Smart Cars Share Driver Data, Prompting Calls for Federal Scrutiny](https://www.darkreading.com/cyber-risk/smart-cars-share-driver-data-prompting-calls-for-federal-investigation)
 - [Dangerous XSS Bugs in RedCAP Threaten Academic &amp;amp; Scientific Research](https://www.darkreading.com/threat-intelligence/dangerous-xss-bugs-redcap-academic-scientific-research)
-- [Would Making Ransom Payments Illegal Result in Fewer Attacks?](https://www.darkreading.com/vulnerabilities-threats/would-making-ransom-payments-illegal-result-in-fewer-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
