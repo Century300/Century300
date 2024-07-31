@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Siri Bug Enables Data Theft on Locked Apple Devices](https://www.darkreading.com/vulnerabilities-threats/siri-bug-enables-data-theft-on-locked-apple-devices)
+- [Microsoft: Azure DDoS Attack Amplified by Cyber-Defense Error](https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error)
 - [Smart Cars Share Driver Data, Prompting Calls for Federal Scrutiny](https://www.darkreading.com/cyber-risk/smart-cars-share-driver-data-prompting-calls-for-federal-investigation)
 - [Dangerous XSS Bugs in RedCAP Threaten Academic &amp;amp; Scientific Research](https://www.darkreading.com/threat-intelligence/dangerous-xss-bugs-redcap-academic-scientific-research)
 - [Would Making Ransom Payments Illegal Result in Fewer Attacks?](https://www.darkreading.com/vulnerabilities-threats/would-making-ransom-payments-illegal-result-in-fewer-attacks)
 - [Dynamically Evolving SMS Stealer Threatens Global Android Users](https://www.darkreading.com/endpoint-security/dynamically-evolving-sms-stealer-threatens-global-android-users)
 - [India-Linked SideWinder Group Pivots to Hacking Maritime Targets](https://www.darkreading.com/cyberattacks-data-breaches/india-linked-sidewinder-group-pivots-to-hacking-maritime-targets)
 - [Clutch Security Launches With NHI Platform](https://www.darkreading.com/identity-access-management-security/clutch-security-launches-with-nhi-platform)
-- [Criminal Hackers Add GenAI Credentials to Underground Markets](https://www.darkreading.com/threat-intelligence/criminal-hackers-add-genai-credentials-to-underground-markets)
-- [Ransomware Gangs Exploit ESXi Bug for Instant, Mass Encryption of VMs](https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
