@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Smart Cars Share Driver Data, Prompting Calls for Federal Scrutiny](https://www.darkreading.com/cyber-risk/smart-cars-share-driver-data-prompting-calls-for-federal-investigation)
 - [Dangerous XSS Bugs in RedCAP Threaten Academic &amp;amp; Scientific Research](https://www.darkreading.com/threat-intelligence/dangerous-xss-bugs-redcap-academic-scientific-research)
 - [Would Making Ransom Payments Illegal Result in Fewer Attacks?](https://www.darkreading.com/vulnerabilities-threats/would-making-ransom-payments-illegal-result-in-fewer-attacks)
 - [Dynamically Evolving SMS Stealer Threatens Global Android Users](https://www.darkreading.com/endpoint-security/dynamically-evolving-sms-stealer-threatens-global-android-users)
@@ -83,7 +84,6 @@
 - [Clutch Security Launches With NHI Platform](https://www.darkreading.com/identity-access-management-security/clutch-security-launches-with-nhi-platform)
 - [Criminal Hackers Add GenAI Credentials to Underground Markets](https://www.darkreading.com/threat-intelligence/criminal-hackers-add-genai-credentials-to-underground-markets)
 - [Ransomware Gangs Exploit ESXi Bug for Instant, Mass Encryption of VMs](https://www.darkreading.com/cloud-security/ransomware-gangs-exploit-esxi-bug-for-instant-mass-encryption-of-vms)
-- [The CrowdStrike Meltdown: A Wake-up Call for Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-meltdown-wake-up-call-for-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
