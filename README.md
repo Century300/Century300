@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australian Companies Will Soon Need to Report Ransom Payments](https://www.darkreading.com/cybersecurity-operations/australian-companies-need-to-report-ransom-payments)
 - [North Koreans Target Devs Worldwide With Spyware, Job Offers](https://www.darkreading.com/threat-intelligence/north-koreans-target-devs-worldwide-spyware-job-offers)
 - [ESET Reveals Latest Cloud-Native Authentication Solution](https://www.darkreading.com/cloud-security/eset-reveals-latest-cloud-native-authentication-solution)
 - [Protect AI Acquires SydeLabs to Red Team Large Language Models](https://www.darkreading.com/application-security/protect-ai-acquires-sydelabs-to-red-team-large-language-models)
@@ -83,7 +84,6 @@
 - [Siri Bug Enables Data Theft on Locked Apple Devices](https://www.darkreading.com/vulnerabilities-threats/siri-bug-enables-data-theft-on-locked-apple-devices)
 - [Microsoft: Azure DDoS Attack Amplified by Cyber-Defense Error](https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error)
 - [Smart Cars Share Driver Data, Prompting Calls for Federal Scrutiny](https://www.darkreading.com/cyber-risk/smart-cars-share-driver-data-prompting-calls-for-federal-investigation)
-- [Dangerous XSS Bugs in RedCAP Threaten Academic &amp;amp; Scientific Research](https://www.darkreading.com/threat-intelligence/dangerous-xss-bugs-redcap-academic-scientific-research)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
