@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Hijack Facebook Pages, Promote Malicious AI Photo Editor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hijack-facebook-pages-promote-malicious-ai-photo-editor)
 - [Australian Companies Will Soon Need to Report Ransom Payments](https://www.darkreading.com/cybersecurity-operations/australian-companies-need-to-report-ransom-payments)
 - [North Koreans Target Devs Worldwide With Spyware, Job Offers](https://www.darkreading.com/threat-intelligence/north-koreans-target-devs-worldwide-spyware-job-offers)
 - [ESET Reveals Latest Cloud-Native Authentication Solution](https://www.darkreading.com/cloud-security/eset-reveals-latest-cloud-native-authentication-solution)
@@ -83,7 +84,6 @@
 - [AI-Driven Executive Impersonations Emerge As Significant Threat to Business Payment Processes](https://www.darkreading.com/threat-intelligence/ai-driven-executive-impersonations-emerge-as-significant-threat-to-business-payment-processes)
 - [Siri Bug Enables Data Theft on Locked Apple Devices](https://www.darkreading.com/vulnerabilities-threats/siri-bug-enables-data-theft-on-locked-apple-devices)
 - [Microsoft: Azure DDoS Attack Amplified by Cyber-Defense Error](https://www.darkreading.com/cloud-security/microsoft-azure-ddos-attack-amplified-cyber-defense-error)
-- [Smart Cars Share Driver Data, Prompting Calls for Federal Scrutiny](https://www.darkreading.com/cyber-risk/smart-cars-share-driver-data-prompting-calls-for-federal-investigation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
