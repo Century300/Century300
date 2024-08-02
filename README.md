@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is the US Federal Government Increasing Cyber-Risk Through Monoculture?](https://www.darkreading.com/cyber-risk/is-us-federal-government-increasing-cyber-risk-through-monoculture)
 - [Disney, Nike, IBM Signatures Anchor 3M Fake Emails a Day](https://www.darkreading.com/cloud-security/disney-nike-ibm-signatures-3m-fake-emails)
 - [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
 - [Attacks on Bytecode Interpreters Conceal Malicious Injection Activity](https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity)
@@ -83,7 +84,6 @@
 - [&#39;Sitting Ducks&#39; Attacks Create Hijacking Threat for Domain Name Owners](https://www.darkreading.com/vulnerabilities-threats/sitting-ducks-attacks-create-hijacking-threat-for-domain-name-owners)
 - [Black Basta Develops Custom Malware in Wake of Qakbot Takedown](https://www.darkreading.com/threat-intelligence/black-basta-develops-custom-malware-in-wake-of-qakbot-takedown)
 - [Attackers Hijack Facebook Pages, Promote Malicious AI Photo Editor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hijack-facebook-pages-promote-malicious-ai-photo-editor)
-- [Australian Companies Will Soon Need to Report Ransom Payments](https://www.darkreading.com/cybersecurity-operations/australian-companies-need-to-report-ransom-payments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
