@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Disney, Nike, IBM Signatures Anchor 3M Fake Emails a Day](https://www.darkreading.com/cloud-security/disney-nike-ibm-signatures-3m-fake-emails)
 - [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
 - [Attacks on Bytecode Interpreters Conceal Malicious Injection Activity](https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity)
 - [More Legal Records Stolen in 2023 Than Previous 5 Years Combined](https://www.darkreading.com/threat-intelligence/more-legal-records-stolen-2023-than-prior-5-years-combined)
@@ -83,7 +84,6 @@
 - [Black Basta Develops Custom Malware in Wake of Qakbot Takedown](https://www.darkreading.com/threat-intelligence/black-basta-develops-custom-malware-in-wake-of-qakbot-takedown)
 - [Attackers Hijack Facebook Pages, Promote Malicious AI Photo Editor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hijack-facebook-pages-promote-malicious-ai-photo-editor)
 - [Australian Companies Will Soon Need to Report Ransom Payments](https://www.darkreading.com/cybersecurity-operations/australian-companies-need-to-report-ransom-payments)
-- [North Koreans Target Devs Worldwide With Spyware, Job Offers](https://www.darkreading.com/threat-intelligence/north-koreans-target-devs-worldwide-spyware-job-offers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
