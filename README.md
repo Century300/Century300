@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated Android Spyware Targets Users in Russia](https://www.darkreading.com/mobile-security/sophisticated-android-spyware-targets-users-in-russia)
+- [Name That Edge Toon: Pointing Fingers](https://www.darkreading.com/threat-intelligence/name-that-edge-toon-pointing-fingers)
+- [20K Ubiquiti IoT Cameras &amp;amp; Routers Are Sitting Ducks for Hackers](https://www.darkreading.com/ics-ot-security/20k-ubiquiti-iot-cameras-and-routers-are-sitting-ducks-for-hackers)
 - [FTC Slams TikTok With Lawsuit After Continued COPPA Violations](https://www.darkreading.com/cloud-security/ftc-slams-tiktok-with-lawsuit-after-continued-coppa-violations)
 - [Critical Apache OFBiz Vulnerability Allows Preauth RCE](https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce)
 - [China&#39;s Evasive Panda Attacks ISP to Send Malicious Software Updates](https://www.darkreading.com/cyberattacks-data-breaches/chinas-evasive-panda-attacks-isp-to-send-malicious-software-updates)
 - [Startup Spotlight: LeakSignal Helps Plug Leaky Data in Organizations](https://www.darkreading.com/data-privacy/startup-spotlight-leaksignal-plug-leaky-data)
 - [Startup Spotlight: Knostic Tackles AI&#39;s Oversharing Problem](https://www.darkreading.com/data-privacy/startup-spotlight-knostic-ai-oversharing-problem)
-- [Protect Data Differently for a Different World](https://www.darkreading.com/vulnerabilities-threats/protect-data-differently-for-a-different-world)
-- [How Regional Regulations Shape Global Cybersecurity Culture](https://www.darkreading.com/cyber-risk/how-regional-regulations-shape-global-cybersecurity-culture)
-- [Russia&#39;s &#39;Fighting Ursa&#39; APT Uses Car Ads to Install HeadLace Malware](https://www.darkreading.com/threat-intelligence/russia-fighting-ursa-apt-car-ads-headlace-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
