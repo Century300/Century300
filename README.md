@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Protect Data Differently for a Different World](https://www.darkreading.com/vulnerabilities-threats/protect-data-differently-for-a-different-world)
 - [How Regional Regulations Shape Global Cybersecurity Culture](https://www.darkreading.com/cyber-risk/how-regional-regulations-shape-global-cybersecurity-culture)
 - [Russia&#39;s &#39;Fighting Ursa&#39; APT Uses Car Ads to Install HeadLace Malware](https://www.darkreading.com/threat-intelligence/russia-fighting-ursa-apt-car-ads-headlace-malware)
 - [Fortune 50 Co. Pays Record-Breaking $75M Ransomware Demand](https://www.darkreading.com/threat-intelligence/fortune-50-company-pays-record-breaking-75m-ransomware-demand)
@@ -83,7 +84,6 @@
 - [Twilio Users Kicked Out of Desktop App, Forced to Switch to Mobile](https://www.darkreading.com/application-security/twilio-users-kicked-out-of-desktop-app-forced-to-switch-to-mobile)
 - [Is the US Federal Government Increasing Cyber-Risk Through Monoculture?](https://www.darkreading.com/cyber-risk/is-us-federal-government-increasing-cyber-risk-through-monoculture)
 - [Disney, Nike, IBM Signatures Anchor 3M Fake Emails a Day](https://www.darkreading.com/cloud-security/disney-nike-ibm-signatures-3m-fake-emails)
-- [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
