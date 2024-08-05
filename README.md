@@ -82,8 +82,8 @@
 - [FTC Slams TikTok With Lawsuit After Continued COPPA Violations](https://www.darkreading.com/cloud-security/ftc-slams-tiktok-with-lawsuit-after-continued-coppa-violations)
 - [Critical Apache OFBiz Vulnerability Allows Preauth RCE](https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce)
 - [China&#39;s Evasive Panda Attacks ISP to Send Malicious Software Updates](https://www.darkreading.com/cyberattacks-data-breaches/chinas-evasive-panda-attacks-isp-to-send-malicious-software-updates)
-- [Startup Spotlight: LeakSignal Helps Plug Leaky Data in Organizations](https://www.darkreading.com/data-privacy/startup-spotlight-leaksignal-plug-leaky-data)
 - [Startup Spotlight: Knostic Tackles AI&#39;s Oversharing Problem](https://www.darkreading.com/data-privacy/startup-spotlight-knostic-ai-oversharing-problem)
+- [Startup Spotlight: LeakSignal Helps Plug Leaky Data in Organizations](https://www.darkreading.com/data-privacy/startup-spotlight-leaksignal-plug-leaky-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
