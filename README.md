@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Regional Regulations Shape Global Cybersecurity Culture](https://www.darkreading.com/cyber-risk/how-regional-regulations-shape-global-cybersecurity-culture)
 - [Russia&#39;s &#39;Fighting Ursa&#39; APT Uses Car Ads to Install HeadLace Malware](https://www.darkreading.com/threat-intelligence/russia-fighting-ursa-apt-car-ads-headlace-malware)
 - [Fortune 50 Co. Pays Record-Breaking $75M Ransomware Demand](https://www.darkreading.com/threat-intelligence/fortune-50-company-pays-record-breaking-75m-ransomware-demand)
 - [China&#39;s APT41 Targets Taiwan Research Institute for Cyber Espionage](https://www.darkreading.com/threat-intelligence/chinas-apt41-targets-taiwan-research-institute-for-cyber-espionage)
@@ -83,7 +84,6 @@
 - [Is the US Federal Government Increasing Cyber-Risk Through Monoculture?](https://www.darkreading.com/cyber-risk/is-us-federal-government-increasing-cyber-risk-through-monoculture)
 - [Disney, Nike, IBM Signatures Anchor 3M Fake Emails a Day](https://www.darkreading.com/cloud-security/disney-nike-ibm-signatures-3m-fake-emails)
 - [Implementing Identity Continuity With the NIST Cybersecurity Framework](https://www.darkreading.com/cybersecurity-operations/implementing-identity-continuity-with-nist-cybersecurity-framework)
-- [Attacks on Bytecode Interpreters Conceal Malicious Injection Activity](https://www.darkreading.com/vulnerabilities-threats/attacks-on-bytecode-interpreters-conceal-malicious-injection-activity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
