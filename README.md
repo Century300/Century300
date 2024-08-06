@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia&#39;s Priorities in Prisoner Swap Suggest Cyber Focus](https://www.darkreading.com/cyber-risk/russias-priorities-in-prisoner-swap-suggest-cyber-focus)
 - [Hunters International Disguises SharpRhino RAT as Legitimate Network Admin Tool](https://www.darkreading.com/cyberattacks-data-breaches/hunters-international-disguises-novel-sharprhino-rat-as-legitimate-network-tool)
 - [Preparing for the Future of Post-Quantum Cryptography](https://www.darkreading.com/vulnerabilities-threats/future-of-post-quantum-cryptography)
 - [Rockwell PLC Security Bypass Threatens Manufacturing Processes](https://www.darkreading.com/ics-ot-security/rockwell-plc-security-bypass-threatens-manufacturing-processes)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: Pointing Fingers](https://www.darkreading.com/threat-intelligence/name-that-edge-toon-pointing-fingers)
 - [20K Ubiquiti IoT Cameras &amp;amp; Routers Are Sitting Ducks for Hackers](https://www.darkreading.com/ics-ot-security/20k-ubiquiti-iot-cameras-and-routers-are-sitting-ducks-for-hackers)
 - [FTC Slams TikTok With Lawsuit After Continued COPPA Violations](https://www.darkreading.com/cloud-security/ftc-slams-tiktok-with-lawsuit-after-continued-coppa-violations)
-- [Critical Apache OFBiz Vulnerability Allows Preauth RCE](https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
