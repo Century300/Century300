@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Preparing for the Future of Post-Quantum Cryptography](https://www.darkreading.com/vulnerabilities-threats/future-of-post-quantum-cryptography)
 - [Rockwell PLC Security Bypass Threatens Manufacturing Processes](https://www.darkreading.com/ics-ot-security/rockwell-plc-security-bypass-threatens-manufacturing-processes)
 - [Sophisticated Android Spyware Targets Users in Russia](https://www.darkreading.com/mobile-security/sophisticated-android-spyware-targets-users-in-russia)
 - [Name That Edge Toon: Pointing Fingers](https://www.darkreading.com/threat-intelligence/name-that-edge-toon-pointing-fingers)
@@ -83,7 +84,6 @@
 - [FTC Slams TikTok With Lawsuit After Continued COPPA Violations](https://www.darkreading.com/cloud-security/ftc-slams-tiktok-with-lawsuit-after-continued-coppa-violations)
 - [Critical Apache OFBiz Vulnerability Allows Preauth RCE](https://www.darkreading.com/application-security/critical-apache-ofbiz-vulnerability-allows-preauth-rce)
 - [China&#39;s Evasive Panda Attacks ISP to Send Malicious Software Updates](https://www.darkreading.com/cyberattacks-data-breaches/chinas-evasive-panda-attacks-isp-to-send-malicious-software-updates)
-- [Startup Spotlight: Knostic Tackles AI&#39;s Oversharing Problem](https://www.darkreading.com/data-privacy/startup-spotlight-knostic-ai-oversharing-problem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
