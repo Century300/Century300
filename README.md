@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
 - [BlankBot Trojan Targets Turkish Android Users](https://www.darkreading.com/vulnerabilities-threats/blankbot-trojan-targets-turkish-android-users)
 - [Attackers Use Multiple Techniques to Bypass Reputation-Based Security](https://www.darkreading.com/application-security/attackers-use-multiple-techniques-to-bypass-reputation-based-security)
 - [Cyberattack Strikes the Grand Palais RMN; Impact Appears Limited](https://www.darkreading.com/cyber-risk/cyberattack-strikes-grand-palais-rmn-impact-appears-limited)
@@ -83,7 +84,6 @@
 - [Hunters International Disguises SharpRhino RAT as Legitimate Network Admin Tool](https://www.darkreading.com/cyberattacks-data-breaches/hunters-international-disguises-novel-sharprhino-rat-as-legitimate-network-tool)
 - [Startup Spotlight: RAD Security Brings Behavioral Profiling to Cloud](https://www.darkreading.com/cloud-security/startup-spotlight-rad-security-cloud-behavioral-profiling)
 - [Preparing for the Future of Post-Quantum Cryptography](https://www.darkreading.com/vulnerabilities-threats/future-of-post-quantum-cryptography)
-- [Rockwell PLC Security Bypass Threatens Manufacturing Processes](https://www.darkreading.com/ics-ot-security/rockwell-plc-security-bypass-threatens-manufacturing-processes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
