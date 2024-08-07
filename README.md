@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [BlankBot Trojan Targets Turkish Android Users](https://www.darkreading.com/vulnerabilities-threats/blankbot-trojan-targets-turkish-android-users)
 - [Attackers Use Multiple Techniques to Bypass Reputation-Based Security](https://www.darkreading.com/application-security/attackers-use-multiple-techniques-to-bypass-reputation-based-security)
 - [Cyberattack Strikes the Grand Palais RMN; Impact Appears Limited](https://www.darkreading.com/cyber-risk/cyberattack-strikes-grand-palais-rmn-impact-appears-limited)
 - [Russia&#39;s Priorities in Prisoner Swap Suggest Cyber Focus](https://www.darkreading.com/cyber-risk/russias-priorities-in-prisoner-swap-suggest-cyber-focus)
@@ -83,7 +84,6 @@
 - [Startup Spotlight: RAD Security Brings Behavioral Profiling to Cloud](https://www.darkreading.com/cloud-security/startup-spotlight-rad-security-cloud-behavioral-profiling)
 - [Preparing for the Future of Post-Quantum Cryptography](https://www.darkreading.com/vulnerabilities-threats/future-of-post-quantum-cryptography)
 - [Rockwell PLC Security Bypass Threatens Manufacturing Processes](https://www.darkreading.com/ics-ot-security/rockwell-plc-security-bypass-threatens-manufacturing-processes)
-- [Sophisticated Android Spyware Targets Users in Russia](https://www.darkreading.com/mobile-security/sophisticated-android-spyware-targets-users-in-russia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
