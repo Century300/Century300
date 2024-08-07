@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chameleon Banking Trojan Makes a Comeback Cloaked as CRM App](https://www.darkreading.com/endpoint-security/chameleon-banking-trojan-makes-a-comeback-cloaked-as-crm-app)
 - [The API Security Crisis: Why Your Company Could Be Next](https://www.darkreading.com/vulnerabilities-threats/api-security-crisis-why-your-company-could-be-next)
 - [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
 - [BlankBot Trojan Targets Turkish Android Users](https://www.darkreading.com/vulnerabilities-threats/blankbot-trojan-targets-turkish-android-users)
@@ -83,7 +84,6 @@
 - [Cyberattack Strikes the Grand Palais RMN; Impact Appears Limited](https://www.darkreading.com/cyber-risk/cyberattack-strikes-grand-palais-rmn-impact-appears-limited)
 - [Russia&#39;s Priorities in Prisoner Swap Suggest Cyber Focus](https://www.darkreading.com/cyber-risk/russias-priorities-in-prisoner-swap-suggest-cyber-focus)
 - [Hunters International Disguises SharpRhino RAT as Legitimate Network Admin Tool](https://www.darkreading.com/cyberattacks-data-breaches/hunters-international-disguises-novel-sharprhino-rat-as-legitimate-network-tool)
-- [Startup Spotlight: RAD Security Brings Behavioral Profiling to Cloud](https://www.darkreading.com/cloud-security/startup-spotlight-rad-security-cloud-behavioral-profiling)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
