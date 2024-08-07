@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Will Give Customers Control Over Falcon Sensor Updates](https://www.darkreading.com/cyber-risk/crowdstrike-will-give-customers-control-over-falcon-sensor-content-updates)
 - [Knostic Wins 2024 Black Hat Startup Spotlight Competition](https://www.darkreading.com/cybersecurity-operations/knostic-wins-2024-black-hat-startup-spotlight-competition)
 - [Chameleon Banking Trojan Makes a Comeback Cloaked as CRM App](https://www.darkreading.com/endpoint-security/chameleon-banking-trojan-makes-a-comeback-cloaked-as-crm-app)
 - [Creating Insecure AI Assistants With Microsoft Copilot Studio Is Easy](https://www.darkreading.com/application-security/creating-insecure-ai-assistants-microsoft-copilot-studio)
@@ -83,7 +84,6 @@
 - [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
 - [BlankBot Trojan Targets Turkish Android Users](https://www.darkreading.com/vulnerabilities-threats/blankbot-trojan-targets-turkish-android-users)
 - [Attackers Use Multiple Techniques to Bypass Reputation-Based Security](https://www.darkreading.com/application-security/attackers-use-multiple-techniques-to-bypass-reputation-based-security)
-- [Cyberattack Strikes the Grand Palais RMN; Impact Appears Limited](https://www.darkreading.com/cyber-risk/cyberattack-strikes-grand-palais-rmn-impact-appears-limited)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
