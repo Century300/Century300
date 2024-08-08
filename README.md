@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SaaS Apps Present an Abbreviated Kill Chain for Attackers](https://www.darkreading.com/application-security/saas-apps-present-abbreviated-kill-chain-for-attackers)
 - [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 - [Hazy Issue in Entra ID Allows Privileged Users to Become Global Admins](https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins)
 - [Monitoring Changes in KEV List Can Guide Security Teams](https://www.darkreading.com/cybersecurity-analytics/monitoring-kev-list-for-changes-can-guide-security-teams)
@@ -83,7 +84,6 @@
 - [Knostic Wins 2024 Black Hat Startup Spotlight Competition](https://www.darkreading.com/cybersecurity-operations/knostic-wins-2024-black-hat-startup-spotlight-competition)
 - [Chameleon Banking Trojan Makes a Comeback Cloaked as CRM App](https://www.darkreading.com/endpoint-security/chameleon-banking-trojan-makes-a-comeback-cloaked-as-crm-app)
 - [Creating Insecure AI Assistants With Microsoft Copilot Studio Is Easy](https://www.darkreading.com/application-security/creating-insecure-ai-assistants-microsoft-copilot-studio)
-- [The API Security Crisis: Why Your Company Could Be Next](https://www.darkreading.com/vulnerabilities-threats/api-security-crisis-why-your-company-could-be-next)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
