@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
 - [Building an Effective Strategy to Manage AI Risks](https://www.darkreading.com/cyber-risk/building-an-effective-strategy-to-manage-ai-risks)
 - [SaaS Apps Present an Abbreviated Kill Chain for Attackers](https://www.darkreading.com/application-security/saas-apps-present-abbreviated-kill-chain-for-attackers)
 - [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
@@ -83,7 +84,6 @@
 - [Monitoring Changes in KEV List Can Guide Security Teams](https://www.darkreading.com/cybersecurity-analytics/monitoring-kev-list-for-changes-can-guide-security-teams)
 - [CrowdStrike Will Give Customers Control Over Falcon Sensor Updates](https://www.darkreading.com/cyber-risk/crowdstrike-will-give-customers-control-over-falcon-sensor-content-updates)
 - [Knostic Wins 2024 Black Hat Startup Spotlight Competition](https://www.darkreading.com/cybersecurity-operations/knostic-wins-2024-black-hat-startup-spotlight-competition)
-- [Chameleon Banking Trojan Makes a Comeback Cloaked as CRM App](https://www.darkreading.com/endpoint-security/chameleon-banking-trojan-makes-a-comeback-cloaked-as-crm-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
