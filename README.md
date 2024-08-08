@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Weaponize Microsoft Copilot for Cyberattackers](https://www.darkreading.com/application-security/how-to-weaponize-microsoft-copilot-for-cyberattackers)
 - [Microsoft on CISOs: Thriving Community Means Stronger Security](https://www.darkreading.com/cybersecurity-operations/microsoft-on-cisos-thriving-community-means-stronger-security)
 - [&#39;0.0.0.0 Day&#39; Flaw Puts Chrome, Firefox, Mozilla Browsers at RCE Risk](https://www.darkreading.com/cyberattacks-data-breaches/0000-day-flaw-puts-chrome-firefox-mozilla-browsers-at-rce-risk)
 - [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
@@ -83,7 +84,6 @@
 - [SaaS Apps Present an Abbreviated Kill Chain for Attackers](https://www.darkreading.com/application-security/saas-apps-present-abbreviated-kill-chain-for-attackers)
 - [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
 - [Hazy Issue in Entra ID Allows Privileged Users to Become Global Admins](https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins)
-- [Monitoring Changes in KEV List Can Guide Security Teams](https://www.darkreading.com/cybersecurity-analytics/monitoring-kev-list-for-changes-can-guide-security-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
