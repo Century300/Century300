@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers](https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers)
 - [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
+- [Memory Safety Is Key to Preventing Hardware Hacks](https://www.darkreading.com/endpoint-security/memory-safety-is-key-to-preventing-hardware-hacks)
+- [CrowdStrike&#39;s Legal Pressures Mount, Could Blaze Path to Liability](https://www.darkreading.com/cyber-risk/crowdstrike-s-legal-pressures-mount-could-blaze-path-to-software-liability)
 - [How to Weaponize Microsoft Copilot for Cyberattackers](https://www.darkreading.com/application-security/how-to-weaponize-microsoft-copilot-for-cyberattackers)
 - [Microsoft on CISOs: Thriving Community Means Stronger Security](https://www.darkreading.com/cybersecurity-operations/microsoft-on-cisos-thriving-community-means-stronger-security)
 - [&#39;0.0.0.0 Day&#39; Flaw Puts Chrome, Firefox, Mozilla Browsers at RCE Risk](https://www.darkreading.com/cyberattacks-data-breaches/0000-day-flaw-puts-chrome-firefox-mozilla-browsers-at-rce-risk)
 - [Building an Effective Strategy to Manage AI Risks](https://www.darkreading.com/cyber-risk/building-an-effective-strategy-to-manage-ai-risks)
-- [SaaS Apps Present an Abbreviated Kill Chain for Attackers](https://www.darkreading.com/application-security/saas-apps-present-abbreviated-kill-chain-for-attackers)
-- [Critical AWS Vulnerabilities Allow S3 Attack Bonanza](https://www.darkreading.com/remote-workforce/critical-aws-vulnerabilities-allow-s3-attack-bonanza)
-- [Hazy Issue in Entra ID Allows Privileged Users to Become Global Admins](https://www.darkreading.com/application-security/hazy-issue-entra-id-privileged-users-become-global-admins)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
