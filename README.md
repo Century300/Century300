@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers](https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers)
+- [Vectra AI Expands XDR Platform to Deliver a Real-Time View of Active Posture to Monitor Exposure to Attackers](https://www.darkreading.com/endpoint-security/vectra-ai-expands-xdr-platform-to-deliver-a-real-time-view-of-active-posture-to-monitor-exposure-to-attackers)
+- [WiCyS and ISC2 Launch Fall Camp for Cybersecurity Certification](https://www.darkreading.com/cybersecurity-operations/wicys-and-isc2-launch-fall-camp-for-cybersecurity-certification)
 - [Solar Power Installations Worldwide Open to Cloud API Bugs](https://www.darkreading.com/ics-ot-security/solar-power-installations-worldwide-open-to-cloud-api-bugs)
 - [Anthropic: Expanding Our Model Safety Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/antrhopic-expanding-our-model-safety-bug-bounty-program)
 - [HPE Aruba Networking Strengthens Cyber Defenses With AI-Powered Network Detection and Response](https://www.darkreading.com/cyberattacks-data-breaches/hpe-aruba-networking-strengthens-cyber-defenses-with-ai-powered-network-detection-and-response)
 - [Entro Extends Industry-leading Non-Human Identity Security Platform](https://www.darkreading.com/endpoint-security/entro-extends-industry-leading-non-human-identity-security-platform)
 - [Progress Announces Conclusion of SEC Investigation into MOVEit](https://www.darkreading.com/cybersecurity-operations/progress-announces-conclusion-of-sec-investigation-into-moveit)
-- [Media &amp;amp; Victims Find Common Ground Against Hackers](https://www.darkreading.com/cyberattacks-data-breaches/media-and-victims-find-common-ground-against-hackers)
-- [Rubrik Partners With Mandiant for Cyber Resilience and Accelerated Incident Response Recovery](https://www.darkreading.com/cybersecurity-operations/rubrik-partners-with-mandiant-for-cyber-resilience-and-accelerated-incident-response-recovery)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
