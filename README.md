@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers](https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers)
+- [Anthropic: Expanding Our Model Safety Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/antrhopic-expanding-our-model-safety-bug-bounty-program)
+- [HPE Aruba Networking Strengthens Cyber Defenses With AI-Powered Network Detection and Response](https://www.darkreading.com/cyberattacks-data-breaches/hpe-aruba-networking-strengthens-cyber-defenses-with-ai-powered-network-detection-and-response)
+- [Entro Extends Industry-leading Non-Human Identity Security Platform](https://www.darkreading.com/endpoint-security/entro-extends-industry-leading-non-human-identity-security-platform)
+- [Progress Announces Conclusion of SEC Investigation into MOVEit](https://www.darkreading.com/cybersecurity-operations/progress-announces-conclusion-of-sec-investigation-into-moveit)
+- [Media &amp;amp; Victims Find Common Ground Against Hackers](https://www.darkreading.com/cyberattacks-data-breaches/media-and-victims-find-common-ground-against-hackers)
 - [Rubrik Partners With Mandiant for Cyber Resilience and Accelerated Incident Response Recovery](https://www.darkreading.com/cybersecurity-operations/rubrik-partners-with-mandiant-for-cyber-resilience-and-accelerated-incident-response-recovery)
 - [Tackling Vulnerabilities &amp;amp; Errors Head-on for Proactive Security](https://www.darkreading.com/vulnerabilities-threats/tackling-vulnerabilities-and-errors-head-on-for-proactive-security)
-- [Dark Reading News Desk Live From Black Hat USA 2024](https://www.darkreading.com/threat-intelligence/dark-reading-news-desk-live-at-black-hat-usa-2024)
-- [Memory Safety Is Key to Preventing Hardware Hacks](https://www.darkreading.com/endpoint-security/memory-safety-is-key-to-preventing-hardware-hacks)
-- [CrowdStrike&#39;s Legal Pressures Mount, Could Blaze Path to Liability](https://www.darkreading.com/cyber-risk/crowdstrike-s-legal-pressures-mount-could-blaze-path-to-software-liability)
-- [How to Weaponize Microsoft Copilot for Cyberattackers](https://www.darkreading.com/application-security/how-to-weaponize-microsoft-copilot-for-cyberattackers)
-- [Microsoft on CISOs: Thriving Community Means Stronger Security](https://www.darkreading.com/cybersecurity-operations/microsoft-on-cisos-thriving-community-means-stronger-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
