@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CLFS Bug Crashes Even Updated Windows 10, 11 Systems](https://www.darkreading.com/vulnerabilities-threats/clfs-bug-crashes-even-updated-windows-10-11-systems)
 - [A Lesson From the CrowdStrike Incident](https://www.darkreading.com/vulnerabilities-threats/lesson-from-crowdstrike-incident)
 - [Tennessee Man Helped DPRK Workers Get Jobs at US Orgs, Fund WMDs](https://www.darkreading.com/remote-workforce/tennessee-man-helped-dprk-workers-get-jobs-at-us-orgs-fund-wmds)
 - [Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers](https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers)
@@ -83,7 +84,6 @@
 - [WiCyS and ISC2 Launch Fall Camp for Cybersecurity Certification](https://www.darkreading.com/cybersecurity-operations/wicys-and-isc2-launch-fall-camp-for-cybersecurity-certification)
 - [Solar Power Installations Worldwide Open to Cloud API Bugs](https://www.darkreading.com/ics-ot-security/solar-power-installations-worldwide-open-to-cloud-api-bugs)
 - [Anthropic: Expanding Our Model Safety Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/antrhopic-expanding-our-model-safety-bug-bounty-program)
-- [HPE Aruba Networking Strengthens Cyber Defenses With AI-Powered Network Detection and Response](https://www.darkreading.com/cyberattacks-data-breaches/hpe-aruba-networking-strengthens-cyber-defenses-with-ai-powered-network-detection-and-response)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
