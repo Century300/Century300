@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Tries to Patch Things Up With Cybersecurity Industry](https://www.darkreading.com/cybersecurity-operations/crowdstrike-tries-patch-things-up-cybersecurity-industry)
 - [UN Approves Cybercrime Treaty Despite Major Tech, Privacy Concerns](https://www.darkreading.com/cyberattacks-data-breaches/un-approves-cybercrime-treaty-despite-major-tech-privacy-concerns)
 - [AMD Issues Updates for Silicon-Level &#39;SinkClose&#39; Processor Flaw](https://www.darkreading.com/remote-workforce/amd-issues-updates-for-silicon-level-sinkclose-flaw)
 - [Ukraine CERT: Mass Phishing Campaign Poses as Nation&#39;s Security Service](https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service)
@@ -83,7 +84,6 @@
 - [A Lesson From the CrowdStrike Incident](https://www.darkreading.com/vulnerabilities-threats/lesson-from-crowdstrike-incident)
 - [Tennessee Man Helped DPRK Workers Get Jobs at US Orgs, Fund WMDs](https://www.darkreading.com/remote-workforce/tennessee-man-helped-dprk-workers-get-jobs-at-us-orgs-fund-wmds)
 - [Healthcare Providers Must Plan for Ransomware Attacks on Third-Party Suppliers](https://www.darkreading.com/endpoint-security/healthcare-providers-must-plan-for-ransomware-attacks-on-third-party-suppliers)
-- [Vectra AI Expands XDR Platform to Deliver a Real-Time View of Active Posture to Monitor Exposure to Attackers](https://www.darkreading.com/endpoint-security/vectra-ai-expands-xdr-platform-to-deliver-a-real-time-view-of-active-posture-to-monitor-exposure-to-attackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
