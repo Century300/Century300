@@ -83,7 +83,7 @@
 - [AMD Issues Updates for Silicon-Level &#39;SinkClose&#39; Processor Flaw](https://www.darkreading.com/remote-workforce/amd-issues-updates-for-silicon-level-sinkclose-flaw)
 - [Ukraine CERT: Mass Phishing Campaign Poses as Nation&#39;s Security Service](https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service)
 - [CLFS Bug Crashes Even Updated Windows 10, 11 Systems](https://www.darkreading.com/vulnerabilities-threats/clfs-bug-crashes-even-updated-windows-10-11-systems)
-- [A Lesson From the CrowdStrike Incident](https://www.darkreading.com/vulnerabilities-threats/lesson-from-crowdstrike-incident)
+- [APT41 Spinoff Expands Chinese Actor&#39;s Scope Beyond Asia](https://www.darkreading.com/cyberattacks-data-breaches/apt41-spinoff-expands-chinese-actor-scope-beyond-asia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
