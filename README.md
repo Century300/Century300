@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Changing Expectations for Developers in an AI-Coding Future](https://www.darkreading.com/application-security/the-changing-expectations-for-developers-in-an-ai-coding-future)
 - [DARPA Aims to Ditch C Code, Move to Rust](https://www.darkreading.com/application-security/darpa-aims-to-ditch-c-code-move-to-rust)
 - [CrowdStrike Tries to Patch Things Up With Cybersecurity Industry](https://www.darkreading.com/cybersecurity-operations/crowdstrike-tries-patch-things-up-cybersecurity-industry)
 - [UN Approves Cybercrime Treaty Despite Major Tech, Privacy Concerns](https://www.darkreading.com/cyberattacks-data-breaches/un-approves-cybercrime-treaty-despite-major-tech-privacy-concerns)
@@ -83,7 +84,6 @@
 - [Ukraine CERT: Mass Phishing Campaign Poses as Nation&#39;s Security Service](https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service)
 - [CLFS Bug Crashes Even Updated Windows 10, 11 Systems](https://www.darkreading.com/vulnerabilities-threats/clfs-bug-crashes-even-updated-windows-10-11-systems)
 - [A Lesson From the CrowdStrike Incident](https://www.darkreading.com/vulnerabilities-threats/lesson-from-crowdstrike-incident)
-- [Tennessee Man Helped DPRK Workers Get Jobs at US Orgs, Fund WMDs](https://www.darkreading.com/remote-workforce/tennessee-man-helped-dprk-workers-get-jobs-at-us-orgs-fund-wmds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
