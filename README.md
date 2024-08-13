@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Azure AI Health Bot Infected With Critical Vulnerabilities](https://www.darkreading.com/application-security/microsoft-azure-ai-health-bot-infected-with-critical-vulnerabilities)
+- [APT41 Spinoff Expands Chinese Actor&#39;s Scope Beyond Asia](https://www.darkreading.com/cyberattacks-data-breaches/apt41-spinoff-expands-chinese-actor-scope-beyond-asia)
+- [FBI Shuts Down Dozens of Radar/Dispossessor Ransomware Servers](https://www.darkreading.com/cyberattacks-data-breaches/fbi-shuts-down-dozens-of-radar-dispossessor-ransomware-servers)
 - [The Changing Expectations for Developers in an AI-Coding Future](https://www.darkreading.com/application-security/the-changing-expectations-for-developers-in-an-ai-coding-future)
 - [DARPA Aims to Ditch C Code, Move to Rust](https://www.darkreading.com/application-security/darpa-aims-to-ditch-c-code-move-to-rust)
 - [CrowdStrike Tries to Patch Things Up With Cybersecurity Industry](https://www.darkreading.com/cybersecurity-operations/crowdstrike-tries-patch-things-up-cybersecurity-industry)
 - [UN Approves Cybercrime Treaty Despite Major Tech, Privacy Concerns](https://www.darkreading.com/cyberattacks-data-breaches/un-approves-cybercrime-treaty-despite-major-tech-privacy-concerns)
 - [AMD Issues Updates for Silicon-Level &#39;SinkClose&#39; Processor Flaw](https://www.darkreading.com/remote-workforce/amd-issues-updates-for-silicon-level-sinkclose-flaw)
-- [Ukraine CERT: Mass Phishing Campaign Poses as Nation&#39;s Security Service](https://www.darkreading.com/vulnerabilities-threats/ukraine-cert-phishing-campaign-poses-as-nations-security-service)
-- [CLFS Bug Crashes Even Updated Windows 10, 11 Systems](https://www.darkreading.com/vulnerabilities-threats/clfs-bug-crashes-even-updated-windows-10-11-systems)
-- [APT41 Spinoff Expands Chinese Actor&#39;s Scope Beyond Asia](https://www.darkreading.com/cyberattacks-data-breaches/apt41-spinoff-expands-chinese-actor-scope-beyond-asia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
