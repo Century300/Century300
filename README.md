@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UK Royal Family, Prime Minister Deepfakes Make Rounds on Meta](https://www.darkreading.com/vulnerabilities-threats/uk-royal-family-prime-minister-deepfakes-meta)
+- [GitHub Attack Vector Cracks Open Google, Microsoft, AWS Projects](https://www.darkreading.com/cloud-security/github-attack-vector-google-microsoft-aws-projects)
 - [Cybersecurity&#39;s Real Challenge Is Communication, Not Just Technology](https://www.darkreading.com/cybersecurity-operations/cybersecuritys-real-challenge-is-communication-not-just-technology)
 - [Cybercriminal Leader &#39;J.P.Morgan&#39; Busted for Pioneering RaaS Model](https://www.darkreading.com/cyber-risk/cybercriminal-leader-jp-morgan-busted-pioneering-raas)
 - [DNC Credentials Compromised by &#39;IntelFetch&#39; Telegram Bot](https://www.darkreading.com/cyberattacks-data-breaches/dnc-credentials-compromised-intelfetch-telegram-bot)
 - [Inc Ransomware Encryptor Contains Keys to Victim Data Recovery](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery)
 - [It&#39;s Time to Promote Security Talent From Within](https://www.darkreading.com/cybersecurity-operations/it-s-time-to-promote-security-talent-from-within)
 - [Gold Mining Company Struck by Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/gold-mining-company-struck-by-ransomware-attack)
-- [Microsoft Discloses 10 Zero-Day Bugs in Patch Tuesday Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-discloses-10-zero-day-bugs-in-pacth-tuesday-update)
-- [NIST Finalizes Post-Quantum Encryption Standards](https://www.darkreading.com/endpoint-security/nist-finalizes-post-quantum-encryption-standards)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
