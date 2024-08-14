@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Inc Ransomware Encryptor Contains Keys to Victim Data Recovery](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery)
+- [Cybersecurity&#39;s Real Challenge Is Communication, Not Just Technology](https://www.darkreading.com/cybersecurity-operations/cybersecuritys-real-challenge-is-communication-not-just-technology)
+- [Cybercriminal Leader &#39;J.P.Morgan&#39; Busted for Pioneering RaaS Model](https://www.darkreading.com/cyber-risk/cybercriminal-leader-jp-morgan-busted-pioneering-raas)
 - [DNC Credentials Compromised by &#39;IntelFetch&#39; Telegram Bot](https://www.darkreading.com/cyberattacks-data-breaches/dnc-credentials-compromised-intelfetch-telegram-bot)
+- [Inc Ransomware Encryptor Contains Keys to Victim Data Recovery](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery)
 - [It&#39;s Time to Promote Security Talent From Within](https://www.darkreading.com/cybersecurity-operations/it-s-time-to-promote-security-talent-from-within)
 - [Gold Mining Company Struck by Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/gold-mining-company-struck-by-ransomware-attack)
 - [Microsoft Discloses 10 Zero-Day Bugs in Patch Tuesday Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-discloses-10-zero-day-bugs-in-pacth-tuesday-update)
 - [NIST Finalizes Post-Quantum Encryption Standards](https://www.darkreading.com/endpoint-security/nist-finalizes-post-quantum-encryption-standards)
-- [Cybercriminal Duo Attracts FBI Notice by Spending Big &amp;amp; Living Large](https://www.darkreading.com/cybersecurity-operations/cybercriminal-duo-attract-fbi-by-spending-big-and-living-large)
-- [Critical Ivanti vTM Bug Allows Unauthorized Admin Access](https://www.darkreading.com/remote-workforce/critical-ivanti-vtm-bug-unauthorized-admin-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
