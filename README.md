@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DigiCert to Acquire Vercara](https://www.darkreading.com/cloud-security/digicert-to-acquire-vercara)
+- [Guardz Launches Free &#39;Community Shield&#39; Plan to Empower MSPs](https://www.darkreading.com/cybersecurity-operations/guardz-launches-free-community-shield-plan-to-empower-msps)
+- [Gcore Radar Report Shows 46% Increase in Number of DDoS Attacks in First Half of 2024](https://www.darkreading.com/cloud-security/gcore-radar-report-shows-46-increase-in-number-of-ddos-attacks-in-first-half-of-2024)
+- [Zimperium Teams Up With Okta to Enhance Zero-Trust Identity Threat Protection With AI-Driven Mobile Security Solutions](https://www.darkreading.com/cybersecurity-operations/zimperium-teams-up-with-okta-to-enhance-zero-trust-identity-threat-protection-with-ai-driven-mobile-security-solutions)
+- [Digital Align Inc. Achieves SOC 2 Type 2 Certification for Secure Automation Intelligence](https://www.darkreading.com/cybersecurity-operations/digital-align-inc-achieves-soc-2-type-2-certification-for-secure-automation-intelligence)
+- [Experian Acquires Behavioral Analytics Company NeuroID](https://www.darkreading.com/endpoint-security/experian-acquires-behavioral-analytics-company-neuroid)
 - [UK Royal Family, Prime Minister Deepfakes Make Rounds on Meta](https://www.darkreading.com/vulnerabilities-threats/uk-royal-family-prime-minister-deepfakes-meta)
 - [GitHub Attack Vector Cracks Open Google, Microsoft, AWS Projects](https://www.darkreading.com/cloud-security/github-attack-vector-google-microsoft-aws-projects)
-- [Cybersecurity&#39;s Real Challenge Is Communication, Not Just Technology](https://www.darkreading.com/cybersecurity-operations/cybersecuritys-real-challenge-is-communication-not-just-technology)
-- [Cybercriminal Leader &#39;J.P.Morgan&#39; Busted for Pioneering RaaS Model](https://www.darkreading.com/cyber-risk/cybercriminal-leader-jp-morgan-busted-pioneering-raas)
-- [DNC Credentials Compromised by &#39;IntelFetch&#39; Telegram Bot](https://www.darkreading.com/cyberattacks-data-breaches/dnc-credentials-compromised-intelfetch-telegram-bot)
-- [Inc Ransomware Encryptor Contains Keys to Victim Data Recovery](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-encryptor-contains-keys-to-victim-data-recovery)
-- [It&#39;s Time to Promote Security Talent From Within](https://www.darkreading.com/cybersecurity-operations/it-s-time-to-promote-security-talent-from-within)
-- [Gold Mining Company Struck by Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/gold-mining-company-struck-by-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
