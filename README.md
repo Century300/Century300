@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New ISAGCA Report Explores Zero-Trust Outcomes in OT Cybersecurity](https://www.darkreading.com/ics-ot-security/new-isagca-report-explores-zero-trust-outcomes-in-ot-cybersecurity)
+- [Mimecast Announces Acquisition of Aware, Doubles Down on AI-Powered Human Risk Management Capabilities](https://www.darkreading.com/endpoint-security/mimecast-announces-acquisition-of-aware-doubles-down-on-ai-powered-human-risk-management-capabilities)
 - [DigiCert to Acquire Vercara](https://www.darkreading.com/cloud-security/digicert-to-acquire-vercara)
 - [Guardz Launches Free &#39;Community Shield&#39; Plan to Empower MSPs](https://www.darkreading.com/cybersecurity-operations/guardz-launches-free-community-shield-plan-to-empower-msps)
 - [Gcore Radar Report Shows 46% Increase in Number of DDoS Attacks in First Half of 2024](https://www.darkreading.com/cloud-security/gcore-radar-report-shows-46-increase-in-number-of-ddos-attacks-in-first-half-of-2024)
 - [Zimperium Teams Up With Okta to Enhance Zero-Trust Identity Threat Protection With AI-Driven Mobile Security Solutions](https://www.darkreading.com/cybersecurity-operations/zimperium-teams-up-with-okta-to-enhance-zero-trust-identity-threat-protection-with-ai-driven-mobile-security-solutions)
 - [Digital Align Inc. Achieves SOC 2 Type 2 Certification for Secure Automation Intelligence](https://www.darkreading.com/cybersecurity-operations/digital-align-inc-achieves-soc-2-type-2-certification-for-secure-automation-intelligence)
 - [Experian Acquires Behavioral Analytics Company NeuroID](https://www.darkreading.com/endpoint-security/experian-acquires-behavioral-analytics-company-neuroid)
-- [UK Royal Family, Prime Minister Deepfakes Make Rounds on Meta](https://www.darkreading.com/vulnerabilities-threats/uk-royal-family-prime-minister-deepfakes-meta)
-- [GitHub Attack Vector Cracks Open Google, Microsoft, AWS Projects](https://www.darkreading.com/cloud-security/github-attack-vector-google-microsoft-aws-projects)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
