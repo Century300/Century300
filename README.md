@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [How Can Organizations Navigate SEC&#39;s Cyber Materiality Disclosures?](https://www.darkreading.com/cyber-risk/how-can-organizations-navigate-sec-cyber-materiality-disclosures)
-- [Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid Clouds](https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds)
+- [Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid IDs](https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds)
 - [SolarWinds: Critical RCE Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/solarwinds-critical-rce-bug-requires-urgent-patch)
 - [Google: Iran&#39;s Charming Kitten Targets US Presidential Elections, Israeli Military](https://www.darkreading.com/cyberattacks-data-breaches/google-iran-charming-kitten-targets-presidential-elections-israeli-military)
 - [Beyond the Hype: Unveiling the Realities of WormGPT in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/beyond-the-hype-unveiling-realities-of-wormgpt-in-cybersecurity)
