@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Group Behind Major Indonesian Attack Wears Many Masks](https://www.darkreading.com/threat-intelligence/ransomware-group-behind-major-indonesian-attack-wears-many-masks)
 - [New ISAGCA Report Explores Zero-Trust Outcomes in OT Cybersecurity](https://www.darkreading.com/ics-ot-security/new-isagca-report-explores-zero-trust-outcomes-in-ot-cybersecurity)
 - [&#39;EastWind&#39; Cyber-Spy Campaign Combines Various Chinese APT Tools](https://www.darkreading.com/cyberattacks-data-breaches/eastwind-cyber-spy-campaign-chinese-apt-tools)
 - [Mimecast Announces Acquisition of Aware, Doubles Down on AI-Powered Human Risk Management Capabilities](https://www.darkreading.com/endpoint-security/mimecast-announces-acquisition-of-aware-doubles-down-on-ai-powered-human-risk-management-capabilities)
@@ -83,7 +84,6 @@
 - [Guardz Launches Free &#39;Community Shield&#39; Plan to Empower MSPs](https://www.darkreading.com/cybersecurity-operations/guardz-launches-free-community-shield-plan-to-empower-msps)
 - [Gcore Radar Report Shows 46% Increase in Number of DDoS Attacks in First Half of 2024](https://www.darkreading.com/cloud-security/gcore-radar-report-shows-46-increase-in-number-of-ddos-attacks-in-first-half-of-2024)
 - [Zimperium Teams Up With Okta to Enhance Zero-Trust Identity Threat Protection With AI-Driven Mobile Security Solutions](https://www.darkreading.com/cybersecurity-operations/zimperium-teams-up-with-okta-to-enhance-zero-trust-identity-threat-protection-with-ai-driven-mobile-security-solutions)
-- [Digital Align Inc. Achieves SOC 2 Type 2 Certification for Secure Automation Intelligence](https://www.darkreading.com/cybersecurity-operations/digital-align-inc-achieves-soc-2-type-2-certification-for-secure-automation-intelligence)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
