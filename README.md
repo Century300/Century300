@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Pledges $10 Million for Open Source Initiative](https://www.darkreading.com/application-security/white-house-pledges-10-million-for-open-source-initiative)
+- [DARPA Announces AI Cyber Challenge Finalists](https://www.darkreading.com/application-security/darpa-announces-ai-cyber-challenge-finalists)
 - [How Can Organizations Navigate SEC&#39;s Cyber Materiality Disclosures?](https://www.darkreading.com/cyber-risk/how-can-organizations-navigate-sec-cyber-materiality-disclosures)
 - [Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid IDs](https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds)
 - [SolarWinds: Critical RCE Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/solarwinds-critical-rce-bug-requires-urgent-patch)
 - [Google: Iran&#39;s Charming Kitten Targets US Presidential Elections, Israeli Military](https://www.darkreading.com/cyberattacks-data-breaches/google-iran-charming-kitten-targets-presidential-elections-israeli-military)
 - [Beyond the Hype: Unveiling the Realities of WormGPT in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/beyond-the-hype-unveiling-realities-of-wormgpt-in-cybersecurity)
 - [Ransomware Group Behind Major Indonesian Attack Wears Many Masks](https://www.darkreading.com/threat-intelligence/ransomware-group-behind-major-indonesian-attack-wears-many-masks)
-- [New ISAGCA Report Explores Zero-Trust Outcomes in OT Cybersecurity](https://www.darkreading.com/ics-ot-security/new-isagca-report-explores-zero-trust-outcomes-in-ot-cybersecurity)
-- [&#39;EastWind&#39; Cyber-Spy Campaign Combines Various Chinese APT Tools](https://www.darkreading.com/cyberattacks-data-breaches/eastwind-cyber-spy-campaign-chinese-apt-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
