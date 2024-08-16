@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thousands of Oracle NetSuite E-Commerce Sites Expose Sensitive Customer Data](https://www.darkreading.com/application-security/oracle-netsuite-ecommerce-sites-expose-customer-data)
 - [Why Are Organizations Losing the Ransomware Battle?](https://www.darkreading.com/vulnerabilities-threats/why-are-organizations-losing-ransomware-battle)
 - [White House Pledges $10 Million for Open Source Initiative](https://www.darkreading.com/application-security/white-house-pledges-10-million-for-open-source-initiative)
 - [DARPA Announces AI Cyber Challenge Finalists](https://www.darkreading.com/application-security/darpa-announces-ai-cyber-challenge-finalists)
@@ -83,7 +84,6 @@
 - [Unfixed Microsoft Entra ID Authentication Bypass Threatens Hybrid IDs](https://www.darkreading.com/application-security/unfixed-microsoft-entra-id-authentication-bypass-threatens-hybrid-clouds)
 - [SolarWinds: Critical RCE Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/solarwinds-critical-rce-bug-requires-urgent-patch)
 - [Google: Iran&#39;s Charming Kitten Targets US Presidential Elections, Israeli Military](https://www.darkreading.com/cyberattacks-data-breaches/google-iran-charming-kitten-targets-presidential-elections-israeli-military)
-- [Beyond the Hype: Unveiling the Realities of WormGPT in Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/beyond-the-hype-unveiling-realities-of-wormgpt-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
