@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran Reportedly Grapples With Major Cyberattack on Banking Systems](https://www.darkreading.com/cyberattacks-data-breaches/iran-reportedly-grapples-with-major-cyberattack-on-banking-systems)
 - [Are 2024 US Political Campaigns Prepared for the Coming Cyber Threats?](https://www.darkreading.com/remote-workforce/2024-us-political-campaigns-prepared-cyber-threats)
 - [Thousands of Oracle NetSuite E-Commerce Sites Expose Sensitive Customer Data](https://www.darkreading.com/application-security/oracle-netsuite-ecommerce-sites-expose-customer-data)
 - [RansomHub Rolls Out Brand-New, EDR-Killing BYOVD Binary](https://www.darkreading.com/endpoint-security/ransomhub-rolls-out-brand-new-edr-killing-byovd-binary)
@@ -83,7 +84,6 @@
 - [Why Are Organizations Losing the Ransomware Battle?](https://www.darkreading.com/vulnerabilities-threats/why-are-organizations-losing-ransomware-battle)
 - [White House Pledges $10 Million for Open Source Initiative](https://www.darkreading.com/application-security/white-house-pledges-10-million-for-open-source-initiative)
 - [DARPA Announces AI Cyber Challenge Finalists](https://www.darkreading.com/application-security/darpa-announces-ai-cyber-challenge-finalists)
-- [How Can Organizations Navigate SEC&#39;s Cyber Materiality Disclosures?](https://www.darkreading.com/cyber-risk/how-can-organizations-navigate-sec-cyber-materiality-disclosures)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
