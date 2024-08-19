@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Human Nature Is Causing Our Cybersecurity Problem](https://www.darkreading.com/vulnerabilities-threats/human-nature-is-causing-our-cybersecurity-problem)
+- [Multiple Microsoft Apps for macOS Vulnerable to Library Injection Attacks](https://www.darkreading.com/remote-workforce/multiple-microsoft-apps-for-macos-vuln-to-malicious-library-injection-attacks)
 - [IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems](https://www.darkreading.com/cybersecurity-operations/ibm-skillsbuild-cybersecurity-and-data-analytics-certificates-to-be-deployed-in-community-college-systems-in-alabama-california-bay-area-colorado-louisiana)
 - [Every Google Pixel Phone Has a Verizon App that Doubles As a Backdoor](https://www.darkreading.com/remote-workforce/every-google-pixel-phone-has-a-verizon-app-backdoor)
 - [National Public Data Confirms Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/national-public-data-confirms-massive-breach)
 - [A Critical Look at the State Department&#39;s Risk Management Profile](https://www.darkreading.com/cyber-risk/a-critical-look-at-the-state-department-s-risk-management-profile)
 - [Assume Breach When Building AI Apps](https://www.darkreading.com/application-security/assume-breach-when-building-ai-apps)
 - [Iran Reportedly Grapples With Major Cyberattack on Banking Systems](https://www.darkreading.com/cyberattacks-data-breaches/iran-reportedly-grapples-with-major-cyberattack-on-banking-systems)
-- [Are 2024 US Political Campaigns Prepared for the Coming Cyber Threats?](https://www.darkreading.com/remote-workforce/2024-us-political-campaigns-prepared-cyber-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
