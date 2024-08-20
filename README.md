@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
+- [Azure Kubernetes Bug Lays Open Cluster Secrets](https://www.darkreading.com/application-security/azure-kubernetes-bug-lays-open-cluster-secrets)
 - [Toyota Customer, Employee Data Leaked in Confirmed Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/toyota-customer-employee-data-leaks-in-confirmed-data-breach)
 - [Name That Toon: Security Games](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-security-games)
 - [Human Nature Is Causing Our Cybersecurity Problem](https://www.darkreading.com/vulnerabilities-threats/human-nature-is-causing-our-cybersecurity-problem)
 - [US Intelligence Blames Iran for Hack on Trump Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-intelligence-blames-ira-for-hack-on-trump-campaign)
 - [IRGC-Linked Hackers Package Modular Malware in Monolithic Trojan](https://www.darkreading.com/threat-intelligence/irgc-linked-hackers-package-modular-malware-into-monolithic-trojan)
 - [Africa&#39;s Economies Feel Pain of Cybersecurity Deficit](https://www.darkreading.com/cyber-risk/africa-s-economies-feel-pain-of-cybersecurity-deficit)
-- [Multiple Microsoft Apps for macOS Vulnerable to Library Injection Attacks](https://www.darkreading.com/remote-workforce/multiple-microsoft-apps-for-macos-vuln-to-malicious-library-injection-attacks)
-- [IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems](https://www.darkreading.com/cybersecurity-operations/ibm-skillsbuild-cybersecurity-and-data-analytics-certificates-to-be-deployed-in-community-college-systems-in-alabama-california-bay-area-colorado-louisiana)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
