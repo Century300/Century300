@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Toon: Security Games](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-security-games)
 - [Human Nature Is Causing Our Cybersecurity Problem](https://www.darkreading.com/vulnerabilities-threats/human-nature-is-causing-our-cybersecurity-problem)
 - [US Intelligence Blames Iran for Hack on Trump Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-intelligence-blames-ira-for-hack-on-trump-campaign)
 - [IRGC-Linked Hackers Package Modular Malware in Monolithic Trojan](https://www.darkreading.com/threat-intelligence/irgc-linked-hackers-package-modular-malware-into-monolithic-trojan)
@@ -83,7 +84,6 @@
 - [Multiple Microsoft Apps for macOS Vulnerable to Library Injection Attacks](https://www.darkreading.com/remote-workforce/multiple-microsoft-apps-for-macos-vuln-to-malicious-library-injection-attacks)
 - [IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems](https://www.darkreading.com/cybersecurity-operations/ibm-skillsbuild-cybersecurity-and-data-analytics-certificates-to-be-deployed-in-community-college-systems-in-alabama-california-bay-area-colorado-louisiana)
 - [Microsoft Will Require MFA for Azure Services](https://www.darkreading.com/identity-access-management-security/microsoft-will-require-mfa-for-azure-services)
-- [Every Google Pixel Phone Has a Verizon App that Doubles As a Backdoor](https://www.darkreading.com/remote-workforce/every-google-pixel-phone-has-a-verizon-app-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
