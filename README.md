@@ -81,9 +81,9 @@
 - [Africa&#39;s Economies Feel Pain of Cybersecurity Deficit](https://www.darkreading.com/cyber-risk/africa-s-economies-feel-pain-of-cybersecurity-deficit)
 - [Multiple Microsoft Apps for macOS Vulnerable to Library Injection Attacks](https://www.darkreading.com/remote-workforce/multiple-microsoft-apps-for-macos-vuln-to-malicious-library-injection-attacks)
 - [IBM SkillsBuild Cybersecurity and Data Analytics Certificates to be Deployed in Community College Systems](https://www.darkreading.com/cybersecurity-operations/ibm-skillsbuild-cybersecurity-and-data-analytics-certificates-to-be-deployed-in-community-college-systems-in-alabama-california-bay-area-colorado-louisiana)
+- [Microsoft Will Require MFA for Azure Services](https://www.darkreading.com/identity-access-management-security/microsoft-will-require-mfa-for-azure-services)
 - [Every Google Pixel Phone Has a Verizon App that Doubles As a Backdoor](https://www.darkreading.com/remote-workforce/every-google-pixel-phone-has-a-verizon-app-backdoor)
 - [National Public Data Confirms Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/national-public-data-confirms-massive-breach)
-- [A Critical Look at the State Department&#39;s Risk Management Profile](https://www.darkreading.com/cyber-risk/a-critical-look-at-the-state-department-s-risk-management-profile)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
