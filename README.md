@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Thinking AI in Cybersecurity: A Stretch or a Possibility?](https://www.darkreading.com/cybersecurity-operations/critical-thinking-ai-in-cybersecurity-a-stretch-or-a-possibility)
 - [Researchers Highlight How Poisoned LLMs Can Suggest Vulnerable Code](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)
 - [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
 - [Azure Kubernetes Bug Lays Open Cluster Secrets](https://www.darkreading.com/application-security/azure-kubernetes-bug-lays-open-cluster-secrets)
@@ -83,7 +84,6 @@
 - [Name That Toon: Security Games](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-security-games)
 - [Human Nature Is Causing Our Cybersecurity Problem](https://www.darkreading.com/vulnerabilities-threats/human-nature-is-causing-our-cybersecurity-problem)
 - [US Intelligence Blames Iran for Hack on Trump Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-intelligence-blames-ira-for-hack-on-trump-campaign)
-- [IRGC-Linked Hackers Package Modular Malware in Monolithic Trojan](https://www.darkreading.com/threat-intelligence/irgc-linked-hackers-package-modular-malware-into-monolithic-trojan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
