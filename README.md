@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malicious Links, AI-Enabled Tools, and Attacks on SMBs Among Top Cybersecurity Threats in H1 Mimecast Global Threat Intelligence Report](https://www.darkreading.com/cyberattacks-data-breaches/malicious-links-ai-enabled-tools-and-attacks-on-smbs-among-top-cybersecurity-threats-in-h1-mimecast-global-threat-intelligence-report)
 - [&#39;Styx Stealer&#39; Blows Its Own Cover With Sloppy OpSec Mistake](https://www.darkreading.com/cyberattacks-data-breaches/styx-stealer-blows-its-own-cover-with-sloppy-opsec-mistake)
 - [Deadbeat Dad Hacks State Registry to Fake His Own Death](https://www.darkreading.com/cyberattacks-data-breaches/deadbeat-dad-hacks-state-registy-to-fake-his-own-death)
 - [Taiwan University Under Fire From Unique DLL Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-university-under-fire-from-unique-dll-backdoor)
@@ -83,7 +84,6 @@
 - [Microsoft Copilot Studio Exploit Leaks Sensitive Cloud Data](https://www.darkreading.com/remote-workforce/microsoft-copilot-studio-exploit-leaks-sensitive-cloud-data)
 - [Researchers Highlight How Poisoned LLMs Can Suggest Vulnerable Code](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)
 - [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
-- [Azure Kubernetes Bug Lays Open Cluster Secrets](https://www.darkreading.com/application-security/azure-kubernetes-bug-lays-open-cluster-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
