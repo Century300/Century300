@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Styx Stealer&#39; Blows Its Own Cover With Sloppy OpSec Mistake](https://www.darkreading.com/cyberattacks-data-breaches/styx-stealer-blows-its-own-cover-with-sloppy-opsec-mistake)
 - [Deadbeat Dad Hacks State Registry to Fake His Own Death](https://www.darkreading.com/cyberattacks-data-breaches/deadbeat-dad-hacks-state-registy-to-fake-his-own-death)
 - [Taiwan University Under Fire From Unique DLL Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-university-under-fire-from-unique-dll-backdoor)
 - [Critical Thinking AI in Cybersecurity: A Stretch or a Possibility?](https://www.darkreading.com/cybersecurity-operations/critical-thinking-ai-in-cybersecurity-a-stretch-or-a-possibility)
@@ -83,7 +84,6 @@
 - [Researchers Highlight How Poisoned LLMs Can Suggest Vulnerable Code](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)
 - [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
 - [Azure Kubernetes Bug Lays Open Cluster Secrets](https://www.darkreading.com/application-security/azure-kubernetes-bug-lays-open-cluster-secrets)
-- [Toyota Customer, Employee Data Leaked in Confirmed Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/toyota-customer-employee-data-leaks-in-confirmed-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
