@@ -81,9 +81,9 @@
 - [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
 - [Azure Kubernetes Bug Lays Open Cluster Secrets](https://www.darkreading.com/application-security/azure-kubernetes-bug-lays-open-cluster-secrets)
 - [Toyota Customer, Employee Data Leaked in Confirmed Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/toyota-customer-employee-data-leaks-in-confirmed-data-breach)
+- [Critical, Actively Exploited Jenkins RCE Bug Suffers Patch Lag](https://www.darkreading.com/vulnerabilities-threats/critical-actively-exploited-jenkins-rce-bug-patch-lag)
 - [Name That Toon: Security Games](https://www.darkreading.com/cyberattacks-data-breaches/name-that-toon-security-games)
 - [Human Nature Is Causing Our Cybersecurity Problem](https://www.darkreading.com/vulnerabilities-threats/human-nature-is-causing-our-cybersecurity-problem)
-- [US Intelligence Blames Iran for Hack on Trump Campaign](https://www.darkreading.com/cyberattacks-data-breaches/us-intelligence-blames-ira-for-hack-on-trump-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
