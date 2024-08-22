@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Threat Actors Use MSI Files to Bypass Windows, VT Detection](https://www.darkreading.com/threat-intelligence/chinese-threat-actors-msi-files-bypass-windows-vt-detection)
 - [Malicious Links, AI-Enabled Tools, and Attacks on SMBs Among Top Cybersecurity Threats in H1 Mimecast Global Threat Intelligence Report](https://www.darkreading.com/cyberattacks-data-breaches/malicious-links-ai-enabled-tools-and-attacks-on-smbs-among-top-cybersecurity-threats-in-h1-mimecast-global-threat-intelligence-report)
 - [&#39;Styx Stealer&#39; Blows Its Own Cover With Sloppy OpSec Mistake](https://www.darkreading.com/cyberattacks-data-breaches/styx-stealer-blows-its-own-cover-with-sloppy-opsec-mistake)
 - [Deadbeat Dad Hacks State Registry to Fake His Own Death](https://www.darkreading.com/cyberattacks-data-breaches/deadbeat-dad-hacks-state-registy-to-fake-his-own-death)
@@ -83,7 +84,6 @@
 - [Critical Thinking AI in Cybersecurity: A Stretch or a Possibility?](https://www.darkreading.com/cybersecurity-operations/critical-thinking-ai-in-cybersecurity-a-stretch-or-a-possibility)
 - [Microsoft Copilot Studio Exploit Leaks Sensitive Cloud Data](https://www.darkreading.com/remote-workforce/microsoft-copilot-studio-exploit-leaks-sensitive-cloud-data)
 - [Researchers Highlight How Poisoned LLMs Can Suggest Vulnerable Code](https://www.darkreading.com/application-security/researchers-turn-code-completion-llms-into-attack-tools)
-- [Chinese Wi-Fi Router Vendor Draws US Congressional Ire](https://www.darkreading.com/cyber-risk/chinese-wifi-router-vendor-draws-us-congressional-ire)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
