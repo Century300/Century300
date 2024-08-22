@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infostealers Waltz Through macOS to Grab Crypto Wallets, Browser Creds](https://www.darkreading.com/threat-intelligence/infostealers-waltz-through-macos-to-grab-crypto-wallets-browser-creds)
+- [Google Chrome Update Fixes Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/google-chrome-update-fixes-flaw-exploited-in-the-wild)
 - [Slack Patches AI Bug That Let Attackers Steal Data From Private Channels](https://www.darkreading.com/cyberattacks-data-breaches/slack-ai-patches-bug-that-let-attackers-steal-data-from-private-channels)
 - [Why End of Life for Applications Is the Beginning of Life for Hackers](https://www.darkreading.com/vulnerabilities-threats/why-end-of-life-for-applications-is-beginning-of-life-for-hackers)
 - [Chinese Threat Actors Use MSI Files to Bypass Windows, VT Detection](https://www.darkreading.com/threat-intelligence/chinese-threat-actors-msi-files-bypass-windows-vt-detection)
 - [The Silver Bullet of MFA Was Never Enough](https://www.darkreading.com/cybersecurity-operations/the-silver-bullet-of-mfa-was-never-enough)
 - [Malicious Links, AI-Enabled Tools, and Attacks on SMBs Among Top Cybersecurity Threats in H1 Mimecast Global Threat Intelligence Report](https://www.darkreading.com/cyberattacks-data-breaches/malicious-links-ai-enabled-tools-and-attacks-on-smbs-among-top-cybersecurity-threats-in-h1-mimecast-global-threat-intelligence-report)
 - [Gartner Spotlights AI, Security in 2024 Hype Cycle for Emerging Tech](https://www.darkreading.com/application-security/gartner-spotlights-ai-security-in-2024-hype-cycle-for-emerging-tech)
-- [&#39;Styx Stealer&#39; Blows Its Own Cover With Sloppy OpSec Mistake](https://www.darkreading.com/cyberattacks-data-breaches/styx-stealer-blows-its-own-cover-with-sloppy-opsec-mistake)
-- [Deadbeat Dad Hacks State Registry to Fake His Own Death](https://www.darkreading.com/cyberattacks-data-breaches/deadbeat-dad-hacks-state-registy-to-fake-his-own-death)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
