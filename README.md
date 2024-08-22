@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why End of Life for Applications Is the Beginning of Life for Hackers](https://www.darkreading.com/vulnerabilities-threats/why-end-of-life-for-applications-is-beginning-of-life-for-hackers)
 - [Chinese Threat Actors Use MSI Files to Bypass Windows, VT Detection](https://www.darkreading.com/threat-intelligence/chinese-threat-actors-msi-files-bypass-windows-vt-detection)
 - [The Silver Bullet of MFA Was Never Enough](https://www.darkreading.com/cybersecurity-operations/the-silver-bullet-of-mfa-was-never-enough)
 - [Malicious Links, AI-Enabled Tools, and Attacks on SMBs Among Top Cybersecurity Threats in H1 Mimecast Global Threat Intelligence Report](https://www.darkreading.com/cyberattacks-data-breaches/malicious-links-ai-enabled-tools-and-attacks-on-smbs-among-top-cybersecurity-threats-in-h1-mimecast-global-threat-intelligence-report)
@@ -83,7 +84,6 @@
 - [&#39;Styx Stealer&#39; Blows Its Own Cover With Sloppy OpSec Mistake](https://www.darkreading.com/cyberattacks-data-breaches/styx-stealer-blows-its-own-cover-with-sloppy-opsec-mistake)
 - [Deadbeat Dad Hacks State Registry to Fake His Own Death](https://www.darkreading.com/cyberattacks-data-breaches/deadbeat-dad-hacks-state-registy-to-fake-his-own-death)
 - [Taiwan University Under Fire From Unique DLL Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/taiwan-university-under-fire-from-unique-dll-backdoor)
-- [Critical Thinking AI in Cybersecurity: A Stretch or a Possibility?](https://www.darkreading.com/cybersecurity-operations/critical-thinking-ai-in-cybersecurity-a-stretch-or-a-possibility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
