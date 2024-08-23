@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pluralsight Releases Courses to Help Cyber Pros Defend Against Volt Typhoon Hacker Group](https://www.darkreading.com/cybersecurity-operations/pluralsight-releases-courses-to-help-cyber-pros-defend-against-volt-typhoon-hacker-group)
+- [NIST Hands Off Post-Quantum Cryptography Work to Cyber Teams](https://www.darkreading.com/cyber-risk/nist-post-quantum-cryptography-work-cyber-teams)
 - [Patch Now: Second SolarWinds Critical Bug in Web Help Desk](https://www.darkreading.com/remote-workforce/patch-now-second-solarwinds-critical-bug-in-web-help-desk)
 - [Liverpool Fans Take English Premier League Title for Ticket Scams](https://www.darkreading.com/cyber-risk/liverpool-fans-take-english-premier-league-title-for-ticket-scams)
 - [C-Suite Involvement in Cybersecurity Is Little More Than Lip Service](https://www.darkreading.com/vulnerabilities-threats/c-suite-involvement-in-cybersecurity-is-little-more-than-lip-service)
 - [NFC Traffic Stealer Targets Android Users &amp;amp; Their Banking Info](https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info)
 - [NSA Issues Tips for Better Logging, Threat Detection in LotL Incidents](https://www.darkreading.com/cybersecurity-operations/nsa-issues-tips-for-better-logging-threat-detection-in-lotl-incidents)
 - [Infostealers Waltz Through macOS to Grab Crypto Wallets, Browser Creds](https://www.darkreading.com/threat-intelligence/infostealers-waltz-through-macos-to-grab-crypto-wallets-browser-creds)
-- [Google Chrome Update Fixes Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/google-chrome-update-fixes-flaw-exploited-in-the-wild)
-- [Slack Patches AI Bug That Let Attackers Steal Data From Private Channels](https://www.darkreading.com/cyberattacks-data-breaches/slack-ai-patches-bug-that-let-attackers-steal-data-from-private-channels)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
