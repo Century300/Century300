@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [C-Suite Involvement in Cybersecurity Is Little More Than Lip Service](https://www.darkreading.com/vulnerabilities-threats/c-suite-involvement-in-cybersecurity-is-little-more-than-lip-service)
 - [NFC Traffic Stealer Targets Android Users &amp;amp; Their Banking Info](https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info)
 - [NSA Issues Tips for Better Logging, Threat Detection in LotL Incidents](https://www.darkreading.com/cybersecurity-operations/nsa-issues-tips-for-better-logging-threat-detection-in-lotl-incidents)
 - [Infostealers Waltz Through macOS to Grab Crypto Wallets, Browser Creds](https://www.darkreading.com/threat-intelligence/infostealers-waltz-through-macos-to-grab-crypto-wallets-browser-creds)
@@ -83,7 +84,6 @@
 - [Slack Patches AI Bug That Let Attackers Steal Data From Private Channels](https://www.darkreading.com/cyberattacks-data-breaches/slack-ai-patches-bug-that-let-attackers-steal-data-from-private-channels)
 - [Why End of Life for Applications Is the Beginning of Life for Hackers](https://www.darkreading.com/vulnerabilities-threats/why-end-of-life-for-applications-is-beginning-of-life-for-hackers)
 - [Chinese Threat Actors Use MSI Files to Bypass Windows, VT Detection](https://www.darkreading.com/threat-intelligence/chinese-threat-actors-msi-files-bypass-windows-vt-detection)
-- [The Silver Bullet of MFA Was Never Enough](https://www.darkreading.com/cybersecurity-operations/the-silver-bullet-of-mfa-was-never-enough)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
