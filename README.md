@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals Tap Greasy Opal to Create 750M Fake Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-tap-greasy-opal-to-create-750m-fake-microsoft-accounts)
 - [Seattle-Tacoma Airport Suffers System Outages Due to Possible Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/seattle-tacoma-airport-suffers-outages-due-to-possible-cyberattack)
 - [Aggressively Monitoring for Changes Is a Key Aspect of Cybersecurity](https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity)
 - [India&#39;s Critical Infrastructure Suffers Spike in Cyberattacks](https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks)
@@ -83,7 +84,6 @@
 - [Pluralsight Releases Courses to Help Cyber Pros Defend Against Volt Typhoon Hacker Group](https://www.darkreading.com/cybersecurity-operations/pluralsight-releases-courses-to-help-cyber-pros-defend-against-volt-typhoon-hacker-group)
 - [NIST Hands Off Post-Quantum Cryptography Work to Cyber Teams](https://www.darkreading.com/cyber-risk/nist-post-quantum-cryptography-work-cyber-teams)
 - [Patch Now: Second SolarWinds Critical Bug in Web Help Desk](https://www.darkreading.com/remote-workforce/patch-now-second-solarwinds-critical-bug-in-web-help-desk)
-- [Liverpool Fans Take English Premier League Title for Ticket Scams](https://www.darkreading.com/cyber-risk/liverpool-fans-take-english-premier-league-title-for-ticket-scams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
