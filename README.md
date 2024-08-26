@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Aggressively Monitoring for Changes Is a Key Aspect of Cybersecurity](https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity)
 - [India&#39;s Critical Infrastructure Suffers Spike in Cyberattacks](https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks)
 - [Constantly Evolving MoonPeak RAT Linked to North Korean Spying](https://www.darkreading.com/cyberattacks-data-breaches/constantly-evolving-moonpeak-rat-linked-to-north-korean-spying)
 - [Pluralsight Releases Courses to Help Cyber Pros Defend Against Volt Typhoon Hacker Group](https://www.darkreading.com/cybersecurity-operations/pluralsight-releases-courses-to-help-cyber-pros-defend-against-volt-typhoon-hacker-group)
@@ -83,7 +84,6 @@
 - [Patch Now: Second SolarWinds Critical Bug in Web Help Desk](https://www.darkreading.com/remote-workforce/patch-now-second-solarwinds-critical-bug-in-web-help-desk)
 - [Liverpool Fans Take English Premier League Title for Ticket Scams](https://www.darkreading.com/cyber-risk/liverpool-fans-take-english-premier-league-title-for-ticket-scams)
 - [C-Suite Involvement in Cybersecurity Is Little More Than Lip Service](https://www.darkreading.com/vulnerabilities-threats/c-suite-involvement-in-cybersecurity-is-little-more-than-lip-service)
-- [NFC Traffic Stealer Targets Android Users &amp;amp; Their Banking Info](https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
