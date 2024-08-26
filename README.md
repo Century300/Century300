@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India&#39;s Critical Infrastructure Suffers Spike in Cyberattacks](https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks)
 - [Constantly Evolving MoonPeak RAT Linked to North Korean Spying](https://www.darkreading.com/cyberattacks-data-breaches/constantly-evolving-moonpeak-rat-linked-to-north-korean-spying)
 - [Pluralsight Releases Courses to Help Cyber Pros Defend Against Volt Typhoon Hacker Group](https://www.darkreading.com/cybersecurity-operations/pluralsight-releases-courses-to-help-cyber-pros-defend-against-volt-typhoon-hacker-group)
 - [NIST Hands Off Post-Quantum Cryptography Work to Cyber Teams](https://www.darkreading.com/cyber-risk/nist-post-quantum-cryptography-work-cyber-teams)
@@ -83,7 +84,6 @@
 - [Liverpool Fans Take English Premier League Title for Ticket Scams](https://www.darkreading.com/cyber-risk/liverpool-fans-take-english-premier-league-title-for-ticket-scams)
 - [C-Suite Involvement in Cybersecurity Is Little More Than Lip Service](https://www.darkreading.com/vulnerabilities-threats/c-suite-involvement-in-cybersecurity-is-little-more-than-lip-service)
 - [NFC Traffic Stealer Targets Android Users &amp;amp; Their Banking Info](https://www.darkreading.com/mobile-security/nfc-traffic-stealer-targets-android-users-and-their-banking-info)
-- [NSA Issues Tips for Better Logging, Threat Detection in LotL Incidents](https://www.darkreading.com/cybersecurity-operations/nsa-issues-tips-for-better-logging-threat-detection-in-lotl-incidents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
