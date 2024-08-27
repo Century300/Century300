@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
+- [China&#39;s Volt Typhoon Exploits 0-day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
 - [Hackers Use Rare Stealth Techniques to Down Asian Military, Gov&#39;t Orgs](https://www.darkreading.com/application-security/hackers-use-rare-stealth-techniques-to-down-asian-military-govt-orgs)
 - [Microsoft to Host Windows Security Summit in CrowdStrike Outage Aftermath](https://www.darkreading.com/cybersecurity-operations/microsoft-to-host-windows-security-summit-post-crowdstrike-outage)
 - [Cybercriminals Tap Greasy Opal to Create 750M Fake Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-tap-greasy-opal-to-create-750m-fake-microsoft-accounts)
 - [Seattle-Tacoma Airport Suffers System Outages Due to Possible Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/seattle-tacoma-airport-suffers-outages-due-to-possible-cyberattack)
 - [Aggressively Monitoring for Changes Is a Key Aspect of Cybersecurity](https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity)
 - [India&#39;s Critical Infrastructure Suffers Spike in Cyberattacks](https://www.darkreading.com/cyber-risk/india-s-critical-infrastructure-suffers-spike-in-cyberattacks)
-- [Constantly Evolving MoonPeak RAT Linked to North Korean Spying](https://www.darkreading.com/cyberattacks-data-breaches/constantly-evolving-moonpeak-rat-linked-to-north-korean-spying)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
