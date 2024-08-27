@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [77% of Educational Institutions Spotted a Cyberattack Within the Last 12 Months](https://www.darkreading.com/cyberattacks-data-breaches/77-of-educational-institutions-spotted-a-cyberattack-within-the-last-12-months)
 - [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
 - [Microsoft&#39;s Sway Serves as Launchpad for &#39;Quishing&#39; Campaign](https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign)
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
@@ -83,7 +84,6 @@
 - [Threat Group &#39;Bling Libra&#39; Pivots to Extortion for Cloud Attacks](https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks)
 - [Hackers Use Rare Stealth Techniques to Down Asian Military, Gov&#39;t Orgs](https://www.darkreading.com/application-security/hackers-use-rare-stealth-techniques-to-down-asian-military-govt-orgs)
 - [Microsoft to Host Windows Security Summit in CrowdStrike Outage Aftermath](https://www.darkreading.com/cybersecurity-operations/microsoft-to-host-windows-security-summit-post-crowdstrike-outage)
-- [Cybercriminals Tap Greasy Opal to Create 750M Fake Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-tap-greasy-opal-to-create-750m-fake-microsoft-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
