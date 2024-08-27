@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft&#39;s Sway Serves as Launchpad for &#39;Quishing&#39; Campaign](https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign)
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
 - [China&#39;s Volt Typhoon Exploits 0-day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
 - [Threat Group &#39;Bling Libra&#39; Pivots to Extortion for Cloud Attacks](https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks)
@@ -83,7 +84,6 @@
 - [Microsoft to Host Windows Security Summit in CrowdStrike Outage Aftermath](https://www.darkreading.com/cybersecurity-operations/microsoft-to-host-windows-security-summit-post-crowdstrike-outage)
 - [Cybercriminals Tap Greasy Opal to Create 750M Fake Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-tap-greasy-opal-to-create-750m-fake-microsoft-accounts)
 - [Seattle-Tacoma Airport Suffers System Outages Due to Possible Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/seattle-tacoma-airport-suffers-outages-due-to-possible-cyberattack)
-- [Aggressively Monitoring for Changes Is a Key Aspect of Cybersecurity](https://www.darkreading.com/cyber-risk/aggressively-monitoring-for-changes-is-key-aspect-of-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
