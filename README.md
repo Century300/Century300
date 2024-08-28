@@ -82,7 +82,7 @@
 - [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
 - [Microsoft&#39;s Sway Serves as Launchpad for &#39;Quishing&#39; Campaign](https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign)
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
-- [China&#39;s Volt Typhoon Exploits 0-day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
+- [China&#39;s Volt Typhoon Exploits Zero-Day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
 - [Threat Group &#39;Bling Libra&#39; Pivots to Extortion for Cloud Attacks](https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks)
 <!-- DARKREADING:END -->
 
