@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Hitachi Energy Vulnerabilities Plague SCADA Power Systems](https://www.darkreading.com/ics-ot-security/hitachi-energy-vulnerabilities-plague-scada-power-systems)
+- [Manufacturing Sector Under Fire From Microsoft Credential Thieves](https://www.darkreading.com/ics-ot-security/manufacturing-sector-microsoft-credential-thieves)
 - [Why LLMs Are Just the Tip of the AI Security Iceberg](https://www.darkreading.com/vulnerabilities-threats/why-llms-are-just-the-tip-of-the-ai-security-iceberg)
 - [Hundreds of LLM Servers Expose Corporate, Health &amp;amp; Other Online Data](https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data)
 - [Zimbabwe Trains Government Officials in Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/zimbabwe-trains-government-officials-in-cybersecurity-skills)
 - [77% of Educational Institutions Spotted a Cyberattack Within the Last 12 Months](https://www.darkreading.com/cyberattacks-data-breaches/77-of-educational-institutions-spotted-a-cyberattack-within-the-last-12-months)
 - [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
 - [Microsoft&#39;s Sway Serves as Launchpad for &#39;Quishing&#39; Campaign](https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign)
-- [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
