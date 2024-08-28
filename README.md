@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CCTV Zero-Day Exposes Critical Infrastructure to Mirai Botnet](https://www.darkreading.com/ics-ot-security/cctv-zero-day-targeted-by-mirai-botnet-campaign)
+- [BlackByte Targets ESXi Bug With Ransomware to Access Virtual Assets](https://www.darkreading.com/cyberattacks-data-breaches/blackbyte-targets-esxi-bug-with-ransomeware-to-access-virtual-assets)
 - [Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking](https://www.darkreading.com/threat-intelligence/attackers-exploit-critical-atlassian-confluence-flaw-for-cryptojacking)
 - [Hitachi Energy Vulnerabilities Plague SCADA Power Systems](https://www.darkreading.com/ics-ot-security/hitachi-energy-vulnerabilities-plague-scada-power-systems)
 - [Manufacturing Sector Under Fire From Microsoft Credential Thieves](https://www.darkreading.com/ics-ot-security/manufacturing-sector-microsoft-credential-thieves)
 - [Why LLMs Are Just the Tip of the AI Security Iceberg](https://www.darkreading.com/vulnerabilities-threats/why-llms-are-just-the-tip-of-the-ai-security-iceberg)
 - [Hundreds of LLM Servers Expose Corporate, Health &amp;amp; Other Online Data](https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data)
 - [Zimbabwe Trains Government Officials in Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/zimbabwe-trains-government-officials-in-cybersecurity-skills)
-- [77% of Educational Institutions Spotted a Cyberattack Within the Last 12 Months](https://www.darkreading.com/cyberattacks-data-breaches/77-of-educational-institutions-spotted-a-cyberattack-within-the-last-12-months)
-- [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
