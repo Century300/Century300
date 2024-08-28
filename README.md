@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hundreds of LLM Servers Expose Corporate, Health &amp;amp; Other Online Data](https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data)
 - [Zimbabwe Trains Government Officials in Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/zimbabwe-trains-government-officials-in-cybersecurity-skills)
 - [77% of Educational Institutions Spotted a Cyberattack Within the Last 12 Months](https://www.darkreading.com/cyberattacks-data-breaches/77-of-educational-institutions-spotted-a-cyberattack-within-the-last-12-months)
 - [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
@@ -83,7 +84,6 @@
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
 - [China&#39;s Volt Typhoon Exploits 0-day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
 - [Threat Group &#39;Bling Libra&#39; Pivots to Extortion for Cloud Attacks](https://www.darkreading.com/threat-intelligence/threat-group-bling-libra-extortion-cloud-attacks)
-- [Hackers Use Rare Stealth Techniques to Down Asian Military, Gov&#39;t Orgs](https://www.darkreading.com/application-security/hackers-use-rare-stealth-techniques-to-down-asian-military-govt-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
