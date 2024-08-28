@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hitachi Energy Vulnerabilities Plague SCADA Power Systems](https://www.darkreading.com/ics-ot-security/hitachi-energy-vulnerabilities-plague-scada-power-systems)
 - [Why LLMs Are Just the Tip of the AI Security Iceberg](https://www.darkreading.com/vulnerabilities-threats/why-llms-are-just-the-tip-of-the-ai-security-iceberg)
 - [Hundreds of LLM Servers Expose Corporate, Health &amp;amp; Other Online Data](https://www.darkreading.com/application-security/hundreds-of-llm-servers-expose-corporate-health-and-other-online-data)
 - [Zimbabwe Trains Government Officials in Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/zimbabwe-trains-government-officials-in-cybersecurity-skills)
@@ -83,7 +84,6 @@
 - [PoC Exploit for Zero-Click Vulnerability Made Available to the Masses](https://www.darkreading.com/vulnerabilities-threats/poc-exploit-for-zero-click-vulnerability-made-available-to-the-masses)
 - [Microsoft&#39;s Sway Serves as Launchpad for &#39;Quishing&#39; Campaign](https://www.darkreading.com/vulnerabilities-threats/microsofts-sway-serves-as-launchpad-for-quishing-campaign)
 - [Why Every Business Should Prioritize Confidential Computing](https://www.darkreading.com/cyberattacks-data-breaches/why-every-business-should-prioritize-confidential-computing)
-- [China&#39;s Volt Typhoon Exploits Zero-Day in Versa&#39;s SD-WAN Director Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-s-volt-typhoon-actively-exploiting-now-patched-0-day-in-versa-director-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
