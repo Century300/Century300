@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top Travel Sites Have Some First-Class Security Issues to Clean Up](https://www.darkreading.com/threat-intelligence/top-travel-sites-have-some-first-class-security-issues-to-clean-up)
+- [Exploited: CISA Highlights Apache OFBiz Flaw After PoC Emerges](https://www.darkreading.com/threat-intelligence/cisa-highlights-apache-ofbiz-flaw-after-poc-open-access)
 - [How Telecom Vulnerabilities Can Be a Threat to Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-telecom-vulnerabilities-can-be-a-threat-to-cybersecurity-posture)
 - [Dragos Expands Asset Visibility in Latest Platform Update](https://www.darkreading.com/ics-ot-security/dragos-expands-asset-visibility-in-latest-platform-update)
 - [South Korean APT Exploits 1-Click WPS Office Bug, Nabs Chinese Intel](https://www.darkreading.com/vulnerabilities-threats/south-korean-apt-exploits-1-click-wps-office-bug-nabs-chinese-intel)
 - [CCTV Zero-Day Exposes Critical Infrastructure to Mirai Botnet](https://www.darkreading.com/ics-ot-security/cctv-zero-day-targeted-by-mirai-botnet-campaign)
 - [BlackByte Targets ESXi Bug With Ransomware to Access Virtual Assets](https://www.darkreading.com/cyberattacks-data-breaches/blackbyte-targets-esxi-bug-with-ransomeware-to-access-virtual-assets)
 - [Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking](https://www.darkreading.com/threat-intelligence/attackers-exploit-critical-atlassian-confluence-flaw-for-cryptojacking)
-- [Hitachi Energy Vulnerabilities Plague SCADA Power Systems](https://www.darkreading.com/ics-ot-security/hitachi-energy-vulnerabilities-plague-scada-power-systems)
-- [Manufacturing Sector Under Fire From Microsoft Credential Thieves](https://www.darkreading.com/ics-ot-security/manufacturing-sector-microsoft-credential-thieves)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
