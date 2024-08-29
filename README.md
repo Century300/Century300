@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Telecom Vulnerabilities Can Be a Threat to Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-telecom-vulnerabilities-can-be-a-threat-to-cybersecurity-posture)
 - [Dragos Expands Asset Visibility in Latest Platform Update](https://www.darkreading.com/ics-ot-security/dragos-expands-asset-visibility-in-latest-platform-update)
 - [South Korean APT Exploits 1-Click WPS Office Bug, Nabs Chinese Intel](https://www.darkreading.com/vulnerabilities-threats/south-korean-apt-exploits-1-click-wps-office-bug-nabs-chinese-intel)
 - [CCTV Zero-Day Exposes Critical Infrastructure to Mirai Botnet](https://www.darkreading.com/ics-ot-security/cctv-zero-day-targeted-by-mirai-botnet-campaign)
@@ -83,7 +84,6 @@
 - [Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking](https://www.darkreading.com/threat-intelligence/attackers-exploit-critical-atlassian-confluence-flaw-for-cryptojacking)
 - [Hitachi Energy Vulnerabilities Plague SCADA Power Systems](https://www.darkreading.com/ics-ot-security/hitachi-energy-vulnerabilities-plague-scada-power-systems)
 - [Manufacturing Sector Under Fire From Microsoft Credential Thieves](https://www.darkreading.com/ics-ot-security/manufacturing-sector-microsoft-credential-thieves)
-- [Why LLMs Are Just the Tip of the AI Security Iceberg](https://www.darkreading.com/vulnerabilities-threats/why-llms-are-just-the-tip-of-the-ai-security-iceberg)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
