@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AuthenticID Unveils Enhanced Smart ReAuth™  for Instant Biometric Reauthentication](https://www.darkreading.com/cybersecurity-operations/authenticid-unveils-enhanced-smart-reauth-for-instant-biometric-reauthentication)
+- [Brazilian Ad Fraud Network &#39;Camu&#39; Hits 2B+ Daily Bid Requests](https://www.darkreading.com/threat-intelligence/brazilian-ad-fraud-network-camu-hits-2-billion-daily-bid-requests)
+- [SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024](https://www.darkreading.com/cybersecurity-operations/sans-institute-unveils-critical-infrastructure-strategy-guide-for-2024)
 - [Top Travel Sites Have Some First-Class Security Issues to Clean Up](https://www.darkreading.com/threat-intelligence/top-travel-sites-have-some-first-class-security-issues-to-clean-up)
 - [Exploited: CISA Highlights Apache OFBiz Flaw After PoC Emerges](https://www.darkreading.com/threat-intelligence/cisa-highlights-apache-ofbiz-flaw-after-poc-open-access)
 - [How Telecom Vulnerabilities Can Be a Threat to Cybersecurity Posture](https://www.darkreading.com/vulnerabilities-threats/how-telecom-vulnerabilities-can-be-a-threat-to-cybersecurity-posture)
 - [Dragos Expands Asset Visibility in Latest Platform Update](https://www.darkreading.com/ics-ot-security/dragos-expands-asset-visibility-in-latest-platform-update)
 - [South Korean APT Exploits 1-Click WPS Office Bug, Nabs Chinese Intel](https://www.darkreading.com/vulnerabilities-threats/south-korean-apt-exploits-1-click-wps-office-bug-nabs-chinese-intel)
-- [CCTV Zero-Day Exposes Critical Infrastructure to Mirai Botnet](https://www.darkreading.com/ics-ot-security/cctv-zero-day-targeted-by-mirai-botnet-campaign)
-- [BlackByte Targets ESXi Bug With Ransomware to Access Virtual Assets](https://www.darkreading.com/cyberattacks-data-breaches/blackbyte-targets-esxi-bug-with-ransomeware-to-access-virtual-assets)
-- [Attackers Exploit Critical Atlassian Confluence Flaw for Cryptojacking](https://www.darkreading.com/threat-intelligence/attackers-exploit-critical-atlassian-confluence-flaw-for-cryptojacking)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
