@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Check Point, Cisco Boost AI Investments With Latest Deals](https://www.darkreading.com/cyber-risk/check-point-cisco-boost-ai-investments-with-latest-deals)
+- [Why Identity Teams Need to Start Reporting to the CISO](https://www.darkreading.com/cybersecurity-operations/why-identity-teams-need-to-start-reporting-to-the-ciso)
 - [Cyber Insurance: A Few Security Technologies, a Big Difference in Premiums](https://www.darkreading.com/threat-intelligence/cyber-insurance-security-technologies-premiums)
 - [Cobalt Appoints Sonali Shah as CEO](https://www.darkreading.com/cybersecurity-operations/cobalt-appoints-sonali-shah-as-ceo)
 - [Iran&#39;s &#39;Fox Kitten&#39; Group Aids Ransomware Attacks on US Targets](https://www.darkreading.com/threat-intelligence/irans-fox-kitten-group-aids-ransomware-attacks-on-us-targets)
 - [AuthenticID Unveils Enhanced Smart ReAuth™  for Instant Biometric Reauthentication](https://www.darkreading.com/cybersecurity-operations/authenticid-unveils-enhanced-smart-reauth-for-instant-biometric-reauthentication)
 - [Brazilian Ad Fraud Network &#39;Camu&#39; Hits 2B+ Daily Bid Requests](https://www.darkreading.com/threat-intelligence/brazilian-ad-fraud-network-camu-hits-2-billion-daily-bid-requests)
 - [SANS Institute Unveils Critical Infrastructure Strategy Guide for 2024](https://www.darkreading.com/cybersecurity-operations/sans-institute-unveils-critical-infrastructure-strategy-guide-for-2024)
-- [Top Travel Sites Have Some First-Class Security Issues to Clean Up](https://www.darkreading.com/threat-intelligence/top-travel-sites-have-some-first-class-security-issues-to-clean-up)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
