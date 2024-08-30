@@ -77,8 +77,8 @@
 
 <!-- DARKREADING:START -->
 - [Check Point, Cisco Boost AI Investments With Latest Deals](https://www.darkreading.com/cyber-risk/check-point-cisco-boost-ai-investments-with-latest-deals)
+- [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-have-a-copycat-in-top-russian-apt)
 - [&#39;Voldemort&#39; Malware Curses Orgs Using Global Tax Authorities](https://www.darkreading.com/threat-intelligence/voldemort-malware-curses-orgs-global-tax-authorities)
-- [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-copycat-russian-apt)
 - [NASA Focuses on Cybersecurity of its Mission-Critical Software](https://www.darkreading.com/ics-ot-security/nasa-focuses-on-cybersecurity-of-its-mission-critical-software)
 - [Why Identity Teams Need to Start Reporting to the CISO](https://www.darkreading.com/cybersecurity-operations/why-identity-teams-need-to-start-reporting-to-the-ciso)
 - [Cyber Insurance: A Few Security Technologies, a Big Difference in Premiums](https://www.darkreading.com/threat-intelligence/cyber-insurance-security-technologies-premiums)
