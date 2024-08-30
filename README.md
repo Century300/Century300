@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Check Point, Cisco Boost AI Investments With Latest Deals](https://www.darkreading.com/cyber-risk/check-point-cisco-boost-ai-investments-with-latest-deals)
+- [&#39;Voldemort&#39; Malware Curses Orgs Using Global Tax Authorities](https://www.darkreading.com/threat-intelligence/voldemort-malware-curses-orgs-global-tax-authorities)
+- [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-copycat-russian-apt)
 - [NASA Focuses on Cybersecurity of its Mission-Critical Software](https://www.darkreading.com/ics-ot-security/nasa-focuses-on-cybersecurity-of-its-mission-critical-software)
 - [Why Identity Teams Need to Start Reporting to the CISO](https://www.darkreading.com/cybersecurity-operations/why-identity-teams-need-to-start-reporting-to-the-ciso)
 - [Cyber Insurance: A Few Security Technologies, a Big Difference in Premiums](https://www.darkreading.com/threat-intelligence/cyber-insurance-security-technologies-premiums)
 - [Cobalt Appoints Sonali Shah as CEO](https://www.darkreading.com/cybersecurity-operations/cobalt-appoints-sonali-shah-as-ceo)
 - [Iran&#39;s &#39;Fox Kitten&#39; Group Aids Ransomware Attacks on US Targets](https://www.darkreading.com/threat-intelligence/irans-fox-kitten-group-aids-ransomware-attacks-on-us-targets)
-- [AuthenticID Unveils Enhanced Smart ReAuth™  for Instant Biometric Reauthentication](https://www.darkreading.com/cybersecurity-operations/authenticid-unveils-enhanced-smart-reauth-for-instant-biometric-reauthentication)
-- [Brazilian Ad Fraud Network &#39;Camu&#39; Hits 2B+ Daily Bid Requests](https://www.darkreading.com/threat-intelligence/brazilian-ad-fraud-network-camu-hits-2-billion-daily-bid-requests)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
