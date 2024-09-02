@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Gangs Pummel Southeast Asia](https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia)
 - [Check Point, Cisco Boost AI Investments With Latest Deals](https://www.darkreading.com/cyber-risk/check-point-cisco-boost-ai-investments-with-latest-deals)
 - [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-have-a-copycat-in-top-russian-apt)
 - [&#39;Voldemort&#39; Malware Curses Orgs Using Global Tax Authorities](https://www.darkreading.com/threat-intelligence/voldemort-malware-curses-orgs-global-tax-authorities)
@@ -83,7 +84,6 @@
 - [Why Identity Teams Need to Start Reporting to the CISO](https://www.darkreading.com/cybersecurity-operations/why-identity-teams-need-to-start-reporting-to-the-ciso)
 - [Cyber Insurance: A Few Security Technologies, a Big Difference in Premiums](https://www.darkreading.com/threat-intelligence/cyber-insurance-security-technologies-premiums)
 - [Cobalt Appoints Sonali Shah as CEO](https://www.darkreading.com/cybersecurity-operations/cobalt-appoints-sonali-shah-as-ceo)
-- [Iran&#39;s &#39;Fox Kitten&#39; Group Aids Ransomware Attacks on US Targets](https://www.darkreading.com/threat-intelligence/irans-fox-kitten-group-aids-ransomware-attacks-on-us-targets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
