@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Halliburton Data Stolen in Oil-Sector Cyberattack](https://www.darkreading.com/ics-ot-security/halliburton-data-stolen-oil-sector-attack)
-- [Evolving NPM Package Campaign Targets Roblox Devs, For Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
+- [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spin-off &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
 - [Improved Software Supply Chain Resilience Equals Increased Security](https://www.darkreading.com/vulnerabilities-threats/improved-software-supply-chain-resilience-equals-increased-security)
 - [Ransomware Gangs Pummel Southeast Asia](https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia)
