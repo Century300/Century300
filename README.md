@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Evolving NPM Package Campaign Targets Roblox Devs, For Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spinoff &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
 - [Improved Software Supply Chain Resilience Equals Increased Security](https://www.darkreading.com/vulnerabilities-threats/improved-software-supply-chain-resilience-equals-increased-security)
 - [Ransomware Gangs Pummel Southeast Asia](https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia)
@@ -83,7 +84,6 @@
 - [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-have-a-copycat-in-top-russian-apt)
 - [&#39;Voldemort&#39; Malware Curses Orgs Using Global Tax Authorities](https://www.darkreading.com/threat-intelligence/voldemort-malware-curses-orgs-global-tax-authorities)
 - [NASA Focuses on Cybersecurity of Its Mission-Critical Software](https://www.darkreading.com/ics-ot-security/nasa-focuses-on-cybersecurity-of-its-mission-critical-software)
-- [Why Identity Teams Need to Start Reporting to the CISO](https://www.darkreading.com/cybersecurity-operations/why-identity-teams-need-to-start-reporting-to-the-ciso)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
