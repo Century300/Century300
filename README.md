@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Spoof Palo Alto VPNs to Spread WikiLoader Variant](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-palo-alto-vpns-to-spread-wikiloader-variant)
 - [Halliburton Data Stolen in Oil-Sector Cyberattack](https://www.darkreading.com/ics-ot-security/halliburton-data-stolen-oil-sector-attack)
 - [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spin-off &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
@@ -83,7 +84,6 @@
 - [Ransomware Gangs Pummel Southeast Asia](https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia)
 - [Check Point, Cisco Boost AI Investments With Latest Deals](https://www.darkreading.com/cyber-risk/check-point-cisco-boost-ai-investments-with-latest-deals)
 - [Commercial Spyware Vendors Have a Copycat in Top Russian APT](https://www.darkreading.com/threat-intelligence/commercial-spyware-vendors-have-a-copycat-in-top-russian-apt)
-- [&#39;Voldemort&#39; Malware Curses Orgs Using Global Tax Authorities](https://www.darkreading.com/threat-intelligence/voldemort-malware-curses-orgs-global-tax-authorities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
