@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CEO&#39;s Arrest Will Likely Not Dampen Cybercriminal Interest in Telegram](https://www.darkreading.com/threat-intelligence/ceo-arrest-cybercriminal-interest-telegram)
 - [California Approves Privacy Bill Requiring Opt-Out Tools](https://www.darkreading.com/data-privacy/california-privacy-bill-require-opt-out-tools)
 - [North Korean APT Exploits Novel Chromium, Windows Bugs to Steal Crypto](https://www.darkreading.com/vulnerabilities-threats/north-korean-apt-exploits-novel-chromium-windows-bugs-steal-crypto)
 - [City of Columbus Sues Researcher After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/city-of-columbus-sues-researcher-after-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Halliburton Data Stolen in Oil-Sector Cyberattack](https://www.darkreading.com/ics-ot-security/halliburton-data-stolen-oil-sector-attack)
 - [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spin-off &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
-- [Improved Software Supply Chain Resilience Equals Increased Security](https://www.darkreading.com/vulnerabilities-threats/improved-software-supply-chain-resilience-equals-increased-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
