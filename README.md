@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [California Approves Privacy Bill Requiring Opt-Out Tools](https://www.darkreading.com/data-privacy/california-privacy-bill-require-opt-out-tools)
 - [North Korean APT Exploits Novel Chromium, Windows Bugs to Steal Crypto](https://www.darkreading.com/vulnerabilities-threats/north-korean-apt-exploits-novel-chromium-windows-bugs-steal-crypto)
 - [City of Columbus Sues Researcher After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/city-of-columbus-sues-researcher-after-ransomware-attack)
 - [Cyberattackers Spoof Palo Alto VPNs to Spread WikiLoader Variant](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-palo-alto-vpns-to-spread-wikiloader-variant)
@@ -83,7 +84,6 @@
 - [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spin-off &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
 - [Improved Software Supply Chain Resilience Equals Increased Security](https://www.darkreading.com/vulnerabilities-threats/improved-software-supply-chain-resilience-equals-increased-security)
-- [Name That Edge Toon: Bug Off](https://www.darkreading.com/application-security/name-that-edge-toon-bug-off)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
