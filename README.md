@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Revival Hijack&#39; on PyPI Disguises Malware with Legitimate File Names](https://www.darkreading.com/application-security/revival-hijack-on-pypi-disguises-malware-with-legitimate-file-names)
 - [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
 - [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
 - [CEO&#39;s Arrest Will Likely Not Dampen Cybercriminal Interest in Telegram](https://www.darkreading.com/threat-intelligence/ceo-arrest-cybercriminal-interest-telegram)
@@ -83,7 +84,6 @@
 - [North Korea&#39;s &#39;Citrine Sleet&#39; APT Exploits Zero-Day Chromium Bug](https://www.darkreading.com/vulnerabilities-threats/north-korean-apt-exploits-novel-chromium-windows-bugs-steal-crypto)
 - [City of Columbus Sues Researcher After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/city-of-columbus-sues-researcher-after-ransomware-attack)
 - [Cyberattackers Spoof Palo Alto VPNs to Spread WikiLoader Variant](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-palo-alto-vpns-to-spread-wikiloader-variant)
-- [Halliburton Data Stolen in Oil-Sector Cyberattack](https://www.darkreading.com/ics-ot-security/halliburton-data-stolen-oil-sector-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
