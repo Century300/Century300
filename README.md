@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
 - [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
 - [CEO&#39;s Arrest Will Likely Not Dampen Cybercriminal Interest in Telegram](https://www.darkreading.com/threat-intelligence/ceo-arrest-cybercriminal-interest-telegram)
 - [California Approves Privacy Bill Requiring Opt-Out Tools](https://www.darkreading.com/data-privacy/california-privacy-bill-require-opt-out-tools)
@@ -83,7 +84,6 @@
 - [City of Columbus Sues Researcher After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/city-of-columbus-sues-researcher-after-ransomware-attack)
 - [Cyberattackers Spoof Palo Alto VPNs to Spread WikiLoader Variant](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-palo-alto-vpns-to-spread-wikiloader-variant)
 - [Halliburton Data Stolen in Oil-Sector Cyberattack](https://www.darkreading.com/ics-ot-security/halliburton-data-stolen-oil-sector-attack)
-- [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
