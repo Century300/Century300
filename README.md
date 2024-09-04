@@ -83,7 +83,7 @@
 - [Evolving npm Package Campaign Targets Roblox Devs, for Years](https://www.darkreading.com/threat-intelligence/evolving-npm-package-campaign-roblox-devs)
 - [BlackCat Spin-off &#39;Cicada3301&#39; Uses Stolen Creds on the Fly, Skirts EDR](https://www.darkreading.com/threat-intelligence/blackcat-spinoff-cicada3301-stolen-creds-skirts-edr)
 - [Improved Software Supply Chain Resilience Equals Increased Security](https://www.darkreading.com/vulnerabilities-threats/improved-software-supply-chain-resilience-equals-increased-security)
-- [Ransomware Gangs Pummel Southeast Asia](https://www.darkreading.com/cyber-risk/ransomware-gangs-pummel-southeast-asia)
+- [Name That Edge Toon: Bug Off](https://www.darkreading.com/application-security/name-that-edge-toon-bug-off)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
