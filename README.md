@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Biden Admin Files Charges Against Election Meddlers From Russia](https://www.darkreading.com/cybersecurity-operations/biden-admin-files-charges-against-election-meddlers-from-russia)
 - [The Role of Trust Anchors in Modern IT Security](https://www.darkreading.com/cybersecurity-operations/trust-anchors-in-modern-it-security)
 - [Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts](https://www.darkreading.com/threat-intelligence/indian-army-propaganda-ai-powered-social-media-accounts)
 - [White House Unveils Road Map to Fix BGP](https://www.darkreading.com/cybersecurity-operations/white-house-unveils-roadmap-to-fix-bgp)
@@ -83,7 +84,6 @@
 - [Open Source Tool Allows Voters to Verify Election Results](https://www.darkreading.com/data-privacy/open-source-tool-allows-voters-to-verify-election-results)
 - [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
 - [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
-- [CEO&#39;s Arrest Will Likely Not Dampen Cybercriminal Interest in Telegram](https://www.darkreading.com/threat-intelligence/ceo-arrest-cybercriminal-interest-telegram)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
