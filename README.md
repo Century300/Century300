@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malvertising Campaign Builds a Phish for Lowe&#39;s Employees](https://www.darkreading.com/threat-intelligence/malvertising-campaign-phish-lowes-employees)
+- [Chinese &#39;Tropic Trooper&#39; APT Targets Mideast Governments](https://www.darkreading.com/cyberattacks-data-breaches/chinese-tropic-trooper-apt-targets-mideast-governments)
+- [China&#39;s &#39;Earth Lusca&#39; Propagates Multiplatform Backdoor](https://www.darkreading.com/threat-intelligence/chinas-earth-lusca-propagates-multiplatform-backdoor)
 - [Biden Admin Files Charges Against Election Meddlers From Russia](https://www.darkreading.com/cybersecurity-operations/biden-admin-files-charges-against-election-meddlers-from-russia)
 - [The Role of Trust Anchors in Modern IT Security](https://www.darkreading.com/cybersecurity-operations/trust-anchors-in-modern-it-security)
 - [Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts](https://www.darkreading.com/threat-intelligence/indian-army-propaganda-ai-powered-social-media-accounts)
 - [White House Unveils Road Map to Fix BGP](https://www.darkreading.com/cybersecurity-operations/white-house-unveils-roadmap-to-fix-bgp)
 - [&#39;Revival Hijack&#39; on PyPI Disguises Malware With Legitimate File Names](https://www.darkreading.com/application-security/revival-hijack-on-pypi-disguises-malware-with-legitimate-file-names)
-- [Open Source Tool Allows Voters to Verify Election Results](https://www.darkreading.com/data-privacy/open-source-tool-allows-voters-to-verify-election-results)
-- [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
-- [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
