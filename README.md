@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts](https://www.darkreading.com/threat-intelligence/indian-army-propaganda-ai-powered-social-media-accounts)
 - [&#39;Revival Hijack&#39; on PyPI Disguises Malware with Legitimate File Names](https://www.darkreading.com/application-security/revival-hijack-on-pypi-disguises-malware-with-legitimate-file-names)
 - [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
 - [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
@@ -83,7 +84,6 @@
 - [California Approves Privacy Bill Requiring Opt-Out Tools](https://www.darkreading.com/data-privacy/california-privacy-bill-require-opt-out-tools)
 - [North Korea&#39;s &#39;Citrine Sleet&#39; APT Exploits Zero-Day Chromium Bug](https://www.darkreading.com/vulnerabilities-threats/north-korean-apt-exploits-novel-chromium-windows-bugs-steal-crypto)
 - [City of Columbus Sues Researcher After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/city-of-columbus-sues-researcher-after-ransomware-attack)
-- [Cyberattackers Spoof Palo Alto VPNs to Spread WikiLoader Variant](https://www.darkreading.com/threat-intelligence/cyberattackers-spoof-palo-alto-vpns-to-spread-wikiloader-variant)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
