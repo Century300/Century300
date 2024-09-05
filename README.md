@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Indian Army Propaganda Spread by 1.4K AI-Powered Social Media Accounts](https://www.darkreading.com/threat-intelligence/indian-army-propaganda-ai-powered-social-media-accounts)
+- [White House Unveils Roadmap to Fix BGP](https://www.darkreading.com/cybersecurity-operations/white-house-unveils-roadmap-to-fix-bgp)
 - [&#39;Revival Hijack&#39; on PyPI Disguises Malware with Legitimate File Names](https://www.darkreading.com/application-security/revival-hijack-on-pypi-disguises-malware-with-legitimate-file-names)
 - [Open-Source Tool Allows Voters to Verify Election Results](https://www.darkreading.com/data-privacy/open-source-tool-allows-voters-to-verify-election-results)
 - [FBI: North Korean Actors Readying Aggressive Cyberattack Wave](https://www.darkreading.com/threat-intelligence/fbi-north-korean-actors-aggressive-cyberattack-wave)
 - [How CISOs Can Effectively Communicate Cyber-Risk](https://www.darkreading.com/cyber-risk/how-cisos-can-effectively-communicate-cyber-risk)
 - [CEO&#39;s Arrest Will Likely Not Dampen Cybercriminal Interest in Telegram](https://www.darkreading.com/threat-intelligence/ceo-arrest-cybercriminal-interest-telegram)
 - [California Approves Privacy Bill Requiring Opt-Out Tools](https://www.darkreading.com/data-privacy/california-privacy-bill-require-opt-out-tools)
-- [North Korea&#39;s &#39;Citrine Sleet&#39; APT Exploits Zero-Day Chromium Bug](https://www.darkreading.com/vulnerabilities-threats/north-korean-apt-exploits-novel-chromium-windows-bugs-steal-crypto)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
