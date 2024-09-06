@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [What is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
+- [What Is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
 - [HackerOne Appoints Kara Sprague As CEO](https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo)
 - [Kiteworks Bolsters Its Secure Data Collection Capabilities With 123FormBuilder Acquisition](https://www.darkreading.com/cloud-security/kiteworks-bolsters-its-secure-data-collection-capabilities-with-123formbuilder-acquisition)
 - [Palo Alto Networks® Closes Acquisition of IBM&#39;s QRadar SaaS Assets](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-closes-acquisition-of-ibm-s-qradar-saas-assets)
