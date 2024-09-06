@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
 - [HackerOne Appoints Kara Sprague As CEO](https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo)
 - [Kiteworks Bolsters Its Secure Data Collection Capabilities With 123FormBuilder Acquisition](https://www.darkreading.com/cloud-security/kiteworks-bolsters-its-secure-data-collection-capabilities-with-123formbuilder-acquisition)
 - [Palo Alto Networks® Closes Acquisition of IBM&#39;s QRadar SaaS Assets](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-closes-acquisition-of-ibm-s-qradar-saas-assets)
@@ -83,7 +84,6 @@
 - [Chinese &#39;Tropic Trooper&#39; APT Targets Mideast Governments](https://www.darkreading.com/cyberattacks-data-breaches/chinese-tropic-trooper-apt-targets-mideast-governments)
 - [China&#39;s &#39;Earth Lusca&#39; Propagates Multiplatform Backdoor](https://www.darkreading.com/threat-intelligence/chinas-earth-lusca-propagates-multiplatform-backdoor)
 - [Biden Admin Files Charges Against Election Meddlers From Russia](https://www.darkreading.com/cybersecurity-operations/biden-admin-files-charges-against-election-meddlers-from-russia)
-- [The Role of Trust Anchors in Modern IT Security](https://www.darkreading.com/cybersecurity-operations/trust-anchors-in-modern-it-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
