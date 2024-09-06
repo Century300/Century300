@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Talent Shortage Prompts White House Action](https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action)
 - [Using Transparency &amp;amp; Sharing to Defend Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/using-transparency-and-sharing-to-defend-critical-infrastructure)
 - [What Is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
 - [HackerOne Appoints Kara Sprague As CEO](https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo)
@@ -83,7 +84,6 @@
 - [Palo Alto Networks® Closes Acquisition of IBM&#39;s QRadar SaaS Assets](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-closes-acquisition-of-ibm-s-qradar-saas-assets)
 - [Malvertising Campaign Builds a Phish for Lowe&#39;s Employees](https://www.darkreading.com/threat-intelligence/malvertising-campaign-phish-lowes-employees)
 - [Chinese &#39;Tropic Trooper&#39; APT Targets Mideast Governments](https://www.darkreading.com/cyberattacks-data-breaches/chinese-tropic-trooper-apt-targets-mideast-governments)
-- [China&#39;s &#39;Earth Lusca&#39; Propagates Multiplatform Backdoor](https://www.darkreading.com/threat-intelligence/chinas-earth-lusca-propagates-multiplatform-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
