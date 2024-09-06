@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds Warn on Russian Actors Targeting Critical Infrastructure](https://www.darkreading.com/ics-ot-security/feds-warn-russian-actors-targeting-critical-infrastructure)
+- [CISA Flags ICS Bugs in Baxter, Mitsubishi Products](https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products)
+- [Commercial Spyware Use Roars Back Despite Sanctions](https://www.darkreading.com/threat-intelligence/commercial-spyware-use-roars-back-despite-sanctions)
 - [Cybersecurity Talent Shortage Prompts White House Action](https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action)
 - [Using Transparency &amp;amp; Sharing to Defend Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/using-transparency-and-sharing-to-defend-critical-infrastructure)
 - [What Is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
 - [HackerOne Appoints Kara Sprague As CEO](https://www.darkreading.com/vulnerabilities-threats/hackerone-appoints-kara-sprague-as-ceo)
 - [Kiteworks Bolsters Its Secure Data Collection Capabilities With 123FormBuilder Acquisition](https://www.darkreading.com/cloud-security/kiteworks-bolsters-its-secure-data-collection-capabilities-with-123formbuilder-acquisition)
-- [Palo Alto Networks® Closes Acquisition of IBM&#39;s QRadar SaaS Assets](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-closes-acquisition-of-ibm-s-qradar-saas-assets)
-- [Malvertising Campaign Builds a Phish for Lowe&#39;s Employees](https://www.darkreading.com/threat-intelligence/malvertising-campaign-phish-lowes-employees)
-- [Chinese &#39;Tropic Trooper&#39; APT Targets Mideast Governments](https://www.darkreading.com/cyberattacks-data-breaches/chinese-tropic-trooper-apt-targets-mideast-governments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
