@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
 - [&#39;TIDrone&#39; Cyberattackers Target Taiwan&#39;s Drone Manufacturers](https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers)
 - [Feds Warn on Russian Actors Targeting Critical Infrastructure](https://www.darkreading.com/ics-ot-security/feds-warn-russian-actors-targeting-critical-infrastructure)
 - [CISA Flags ICS Bugs in Baxter, Mitsubishi Products](https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products)
@@ -83,7 +84,6 @@
 - [Cybersecurity Talent Shortage Prompts White House Action](https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action)
 - [FreeBSD Gets €686,400 to Boost Security Features](https://www.darkreading.com/application-security/freebsd-gets-stf-funding-boost-security-features)
 - [Using Transparency &amp;amp; Sharing to Defend Critical Infrastructure](https://www.darkreading.com/vulnerabilities-threats/using-transparency-and-sharing-to-defend-critical-infrastructure)
-- [What Is the Shared Fate Model?](https://www.darkreading.com/cloud-security/what-is-the-shared-fate-model)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
