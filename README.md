@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
 - [300K Victims&#39; Data Compromised in Avis Car Rental Breach](https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach)
 - [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
 - [&#39;TIDrone&#39; Cyberattackers Target Taiwan&#39;s Drone Manufacturers](https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers)
@@ -83,7 +84,6 @@
 - [CISA Flags ICS Bugs in Baxter, Mitsubishi Products](https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products)
 - [Commercial Spyware Use Roars Back Despite Sanctions](https://www.darkreading.com/threat-intelligence/commercial-spyware-use-roars-back-despite-sanctions)
 - [Cybersecurity Talent Shortage Prompts White House Action](https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action)
-- [FreeBSD Gets €686,400 to Boost Security Features](https://www.darkreading.com/application-security/freebsd-gets-stf-funding-boost-security-features)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
