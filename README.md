@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Writing Tips for Cybersecurity Professionals](https://www.darkreading.com/cybersecurity-operations/how-to-get-published-regularly)
 - [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
 - [300K Victims&#39; Data Compromised in Avis Car Rental Breach](https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach)
 - [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
@@ -83,7 +84,6 @@
 - [Feds Warn on Russian Actors Targeting Critical Infrastructure](https://www.darkreading.com/ics-ot-security/feds-warn-russian-actors-targeting-critical-infrastructure)
 - [CISA Flags ICS Bugs in Baxter, Mitsubishi Products](https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products)
 - [Commercial Spyware Use Roars Back Despite Sanctions](https://www.darkreading.com/threat-intelligence/commercial-spyware-use-roars-back-despite-sanctions)
-- [Cybersecurity Talent Shortage Prompts White House Action](https://www.darkreading.com/cybersecurity-operations/cybersecurity-talent-shortage-prompts-white-house-action)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
