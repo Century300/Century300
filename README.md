@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Staffing Shortages Remain CISOs&#39; Biggest Challenge](https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge)
 - [Mustang Panda Feeds Worm-Driven USB Attack Strategy](https://www.darkreading.com/cyberattacks-data-breaches/mustang-panda-worm-driven-usb-attack)
 - [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
 - [Dark Reading Confidential: Pen Test Arrests, Five Years Later](https://www.darkreading.com/vulnerabilities-threats/dark-reading-confidential-pen-test-arrests-five-years-later)
@@ -83,7 +84,6 @@
 - [Chinese Tag Team APTs Keep Stealing Asian Gov&#39;t Secrets](https://www.darkreading.com/threat-intelligence/chinese-tag-team-apts-keep-stealing-asian-govt-secrets)
 - [10 Writing Tips for Cybersecurity Professionals](https://www.darkreading.com/cybersecurity-operations/how-to-get-published-regularly)
 - [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
-- [300K Victims&#39; Data Compromised in Avis Car Rental Breach](https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
