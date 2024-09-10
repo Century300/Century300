@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gallup Poll Bugs Open Door to Election Misinformation](https://www.darkreading.com/vulnerabilities-threats/gallup-poll-bugs-open-door-to-election-misinformation)
 - [Chinese Tag Team APTs Keep Stealing Asian Gov&#39;t Secrets](https://www.darkreading.com/threat-intelligence/chinese-tag-team-apts-keep-stealing-asian-govt-secrets)
 - [10 Writing Tips for Cybersecurity Professionals](https://www.darkreading.com/cybersecurity-operations/how-to-get-published-regularly)
 - [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
@@ -83,7 +84,6 @@
 - [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
 - [&#39;TIDrone&#39; Cyberattackers Target Taiwan&#39;s Drone Manufacturers](https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers)
 - [Feds Warn on Russian Actors Targeting Critical Infrastructure](https://www.darkreading.com/ics-ot-security/feds-warn-russian-actors-targeting-critical-infrastructure)
-- [CISA Flags ICS Bugs in Baxter, Mitsubishi Products](https://www.darkreading.com/ics-ot-security/cisa-flags-ics-bugs-in-baxter-mitsubishi-products)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
