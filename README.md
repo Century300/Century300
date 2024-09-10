@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
+- [Dark Reading Confidential: Pen Test Arrests, Five Years Later](https://www.darkreading.com/vulnerabilities-threats/dark-reading-confidential-pen-test-arrests-five-years-later)
 - [Gallup Poll Bugs Open Door to Election Misinformation](https://www.darkreading.com/vulnerabilities-threats/gallup-poll-bugs-open-door-to-election-misinformation)
 - [Chinese Tag Team APTs Keep Stealing Asian Gov&#39;t Secrets](https://www.darkreading.com/threat-intelligence/chinese-tag-team-apts-keep-stealing-asian-govt-secrets)
 - [10 Writing Tips for Cybersecurity Professionals](https://www.darkreading.com/cybersecurity-operations/how-to-get-published-regularly)
 - [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
 - [300K Victims&#39; Data Compromised in Avis Car Rental Breach](https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach)
 - [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
-- [&#39;TIDrone&#39; Cyberattackers Target Taiwan&#39;s Drone Manufacturers](https://www.darkreading.com/ics-ot-security/tidrone-cyberattackers-taiwan-drone-manufacturers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
