@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mustang Panda Feeds Worm-Driven USB Attack Strategy](https://www.darkreading.com/cyberattacks-data-breaches/mustang-panda-worm-driven-usb-attack)
 - [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
 - [Dark Reading Confidential: Pen Test Arrests, Five Years Later](https://www.darkreading.com/vulnerabilities-threats/dark-reading-confidential-pen-test-arrests-five-years-later)
 - [Gallup Poll Bugs Open Door to Election Misinformation](https://www.darkreading.com/vulnerabilities-threats/gallup-poll-bugs-open-door-to-election-misinformation)
@@ -83,7 +84,6 @@
 - [10 Writing Tips for Cybersecurity Professionals](https://www.darkreading.com/cybersecurity-operations/how-to-get-published-regularly)
 - [Akira Ransomware Actors Exploit SonicWall Bug for RCE](https://www.darkreading.com/ics-ot-security/akira-ransomware-actors-exploit-sonicwall-bug-for-rce)
 - [300K Victims&#39; Data Compromised in Avis Car Rental Breach](https://www.darkreading.com/cyberattacks-data-breaches/300k-victims-data-compromised-avis-car-rental-breach)
-- [How to Establish &amp;amp; Enhance Endpoint Security](https://www.darkreading.com/endpoint-security/how-to-establish-enhance-endpoint-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
