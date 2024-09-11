@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Needs Better Cybersecurity for Space, Critical Infrastructure](https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure)
+- [Wiz Launches Wiz Code Application Security Tool](https://www.darkreading.com/application-security/wiz-launches-wiz-code-application-security-tool)
 - [Microsoft Discloses 4 Zero-Days in September Update](https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update)
 - [How a Centuries-Old Company Reached Security Maturity](https://www.darkreading.com/cybersecurity-operations/how-a-centuries-old-company-reached-security-maturity)
 - [Cyber Staffing Shortages Remain CISOs&#39; Biggest Challenge](https://www.darkreading.com/cybersecurity-operations/cyber-staffing-shortages-remain-cisos-biggest-challenge)
 - [Mustang Panda Feeds Worm-Driven USB Attack Strategy](https://www.darkreading.com/cyberattacks-data-breaches/mustang-panda-worm-driven-usb-attack)
 - [Platform Engineering Is Security Engineering](https://www.darkreading.com/application-security/platform-engineering-is-security-engineering)
 - [Dark Reading Confidential: Pen Test Arrests, Five Years Later](https://www.darkreading.com/vulnerabilities-threats/dark-reading-confidential-pen-test-arrests-five-years-later)
-- [Gallup Poll Bugs Open Door to Election Misinformation](https://www.darkreading.com/vulnerabilities-threats/gallup-poll-bugs-open-door-to-election-misinformation)
-- [Chinese Tag Team APTs Keep Stealing Asian Gov&#39;t Secrets](https://www.darkreading.com/threat-intelligence/chinese-tag-team-apts-keep-stealing-asian-govt-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
