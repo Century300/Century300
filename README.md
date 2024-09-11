@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [SOAR Is Dead, Long Live SOAR](https://www.darkreading.com/cybersecurity-operations/soar-is-dead-long-live-soar)
 - [Remote Access Sprawl Strains Industrial OT Network Security](https://www.darkreading.com/ics-ot-security/remote-access-sprawl-industrial-ot-network-security)
+- [How Law Enforcement&#39;s Ransomware Strategies Are Evolving](https://www.darkreading.com/cybersecurity-operations/how-law-enforcement-ransomware-strategies-are-evolving)
 - [Air-Gapped Networks Vulnerable to Acoustic Attack via LCD Screens](https://www.darkreading.com/ics-ot-security/air-gapped-networks-vulnerable-to-acoustic-attack-via-lcd-screens)
 - [&#39;Ancient&#39; MSFT Word Bug Anchors Taiwanese Drone-Maker Attacks](https://www.darkreading.com/ics-ot-security/ancient-msft-word-bug-taiwanese-drone-maker-attacks)
 - [India Needs Better Cybersecurity for Space, Critical Infrastructure](https://www.darkreading.com/ics-ot-security/india-cybersecurity-space-critical-infrastructure)
 - [Google Updates Cloud Backup, Disaster Recovery Service](https://www.darkreading.com/cloud-security/google-updates-cloud-backup-disaster-recovery-service)
 - [Wiz Launches Wiz Code Application Security Tool](https://www.darkreading.com/application-security/wiz-launches-wiz-code-application-security-tool)
-- [Microsoft Discloses 4 Zero-Days in September Update](https://www.darkreading.com/application-security/microsoft-discloses-4-zero-days-in-september-update)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
