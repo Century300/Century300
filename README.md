@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Hackers Proxyjack &amp;amp; Cryptomine Selenium Grid Servers](https://www.darkreading.com/application-security/hackers-proxyjack-and-cryptomine-selenium-grid-servers)
 - [Amateurish &#39;CosmicBeetle&#39; Ransomware Stings SMBs in Turkey](https://www.darkreading.com/cyberattacks-data-breaches/amateurish-cosmicbeetle-ransomware-targets-smbs-turkey)
+- [UnDisruptable27 Project Wants to Shore Up Critical Infrastructure Security](https://www.darkreading.com/cybersecurity-operations/undisruptable27-project-seeks-to-shore-up-local-critical-infrastructure)
 - [Dark Reading Expands Its Coverage to the Asia-Pacific Region](https://www.darkreading.com/cybersecurity-operations/dark-reading-expands-its-coverage-to-the-asia-pacific)
 - [SOAR Is Dead, Long Live SOAR](https://www.darkreading.com/cybersecurity-operations/soar-is-dead-long-live-soar)
 - [AppCD Closes $12.3M Seed Round and Rebrands to StackGen](https://www.darkreading.com/cybersecurity-operations/appcd-closes-12-3m-seed-round-and-rebrands-to-stackgen)
 - [Xiphera Develops Quantum-Resilient Hardware Security Solutions for Space](https://www.darkreading.com/cybersecurity-operations/xiphera-develops-quantum-resilient-hardware-security-solutions-for-space)
 - [Poppy Gustafsson to Step Down As CEO of Darktrace; Jill Popelka Appointed Successor](https://www.darkreading.com/threat-intelligence/poppy-gustafsson-to-step-down-as-ceo-of-darktrace-jill-popelka-appointed-successor)
-- [Remote Access Sprawl Strains Industrial OT Network Security](https://www.darkreading.com/ics-ot-security/remote-access-sprawl-industrial-ot-network-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
