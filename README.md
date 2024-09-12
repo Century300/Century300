@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Army Selects QuSecure Solution for &#39;Enhanced Post-Quantum Cryptography Suite for Tactical Networks&#39; Project](https://www.darkreading.com/cybersecurity-operations/us-army-selects-qusecure-solution-for-enhanced-post-quantum-cryptography-suite-for-tactical-networks-project)
+- [Security Testing Market Worth $43.9B by 2029](https://www.darkreading.com/cybersecurity-operations/security-testing-market-worth-43-9b-by-2029)
+- [SCADA Market Is Set to Reach $18.7B by 2031](https://www.darkreading.com/ics-ot-security/scada-market-is-set-to-reach-18-7b-by-2031)
 - [Rising Tide of Software Supply Chain Attacks: An Urgent Problem](https://www.darkreading.com/vulnerabilities-threats/rising-tide-of-software-supply-chain-attacks)
 - [Hackers Proxyjack &amp;amp; Cryptomine Selenium Grid Servers](https://www.darkreading.com/application-security/hackers-proxyjack-and-cryptomine-selenium-grid-servers)
 - [Amateurish &#39;CosmicBeetle&#39; Ransomware Stings SMBs in Turkey](https://www.darkreading.com/cyberattacks-data-breaches/amateurish-cosmicbeetle-ransomware-targets-smbs-turkey)
 - [UnDisruptable27 Project Wants to Shore Up Critical Infrastructure Security](https://www.darkreading.com/cybersecurity-operations/undisruptable27-project-seeks-to-shore-up-local-critical-infrastructure)
 - [Dark Reading Expands Its Coverage to the Asia-Pacific Region](https://www.darkreading.com/cybersecurity-operations/dark-reading-expands-its-coverage-to-the-asia-pacific)
-- [SOAR Is Dead, Long Live SOAR](https://www.darkreading.com/cybersecurity-operations/soar-is-dead-long-live-soar)
-- [AppCD Closes $12.3M Seed Round and Rebrands to StackGen](https://www.darkreading.com/cybersecurity-operations/appcd-closes-12-3m-seed-round-and-rebrands-to-stackgen)
-- [Xiphera Develops Quantum-Resilient Hardware Security Solutions for Space](https://www.darkreading.com/cybersecurity-operations/xiphera-develops-quantum-resilient-hardware-security-solutions-for-space)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
