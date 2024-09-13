@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Compliance Automation Pays Off for a Growing Company](https://www.darkreading.com/cybersecurity-operations/compliance-automation-pays-off-for-a-growing-company)
+- [Over a Third of Cyberattacks Result in Job Losses](https://www.darkreading.com/cybersecurity-operations/over-a-third-of-cyberattacks-result-in-job-losses)
+- [Malicious Actors Sow Discord With False Election Compromise Claims](https://www.darkreading.com/threat-intelligence/malicious-actors-election-compromise-claims)
+- [99% of Business Leaders Have Concerns About the Trustworthiness of Internal Data](https://www.darkreading.com/cybersecurity-operations/99-of-business-leaders-have-concerns-about-the-trustworthiness-of-internal-data)
 - [Cloud-Native Network Security Up 17%, Hardware Down 2%](https://www.darkreading.com/cloud-security/cloud-native-network-security-up-17-hardware-down-2-)
 - [NFL Teams Block &amp;amp; Tackle Cyberattacks in a Digital World](https://www.darkreading.com/cybersecurity-operations/nfl-block-tackle-cyberattacks-digital-world)
 - [Hardware Supply Chain Threats Can Undermine Endpoint Infrastructure](https://www.darkreading.com/vulnerabilities-threats/hardware-supply-chain-threats-can-undermine-endpoint-infrastructure)
 - [Microsoft VS Code Undermined in Asian Spy Attack](https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack)
-- [For Just $20, Researchers Seize Part of Internet Infrastructure](https://www.darkreading.com/cyber-risk/researchers-seize-internet-infrastructure-for-20)
-- [&#39;Hadooken&#39; Malware Targets Oracle&#39;s WebLogic Servers](https://www.darkreading.com/cyberattacks-data-breaches/hadooken-malware-targets-weblogic-servers)
-- [Socially Savvy Scattered Spider Traps Cloud Admins in Web](https://www.darkreading.com/cloud-security/socially-savvy-scattered-spider-traps-cloud-admins-in-web)
-- [Singapore Arrests 6 Suspected Members of African Cybercrime Group](https://www.darkreading.com/threat-intelligence/singapore-arrests-6-suspected-members-of-african-cybercrime-group)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
