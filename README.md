@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft VS Code Undermined in Asian Spy Attack](https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack)
 - [For Just $20, Researchers Seize Part of Internet Infrastructure](https://www.darkreading.com/cyber-risk/researchers-seize-internet-infrastructure-for-20)
 - [&#39;Hadooken&#39; Malware Targets Oracle&#39;s WebLogic Servers](https://www.darkreading.com/cyberattacks-data-breaches/hadooken-malware-targets-weblogic-servers)
 - [Socially Savvy Scattered Spider Traps Cloud Admins in Web](https://www.darkreading.com/cloud-security/socially-savvy-scattered-spider-traps-cloud-admins-in-web)
@@ -83,7 +84,6 @@
 - [US Army Selects QuSecure Solution for &#39;Enhanced Post-Quantum Cryptography Suite for Tactical Networks&#39; Project](https://www.darkreading.com/cybersecurity-operations/us-army-selects-qusecure-solution-for-enhanced-post-quantum-cryptography-suite-for-tactical-networks-project)
 - [Security Testing Market Worth $43.9B by 2029](https://www.darkreading.com/cybersecurity-operations/security-testing-market-worth-43-9b-by-2029)
 - [SCADA Market Is Set to Reach $18.7B by 2031](https://www.darkreading.com/ics-ot-security/scada-market-is-set-to-reach-18-7b-by-2031)
-- [Rising Tide of Software Supply Chain Attacks: An Urgent Problem](https://www.darkreading.com/vulnerabilities-threats/rising-tide-of-software-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
