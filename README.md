@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortinet Confirms Customer Data Breach via Third Party](https://www.darkreading.com/cloud-security/fortinet-customer-data-breach-third-party)
 - [Compliance Automation Pays Off for a Growing Company](https://www.darkreading.com/cybersecurity-operations/compliance-automation-pays-off-for-a-growing-company)
 - [Over a Third of Cyberattacks Result in Job Losses](https://www.darkreading.com/cybersecurity-operations/over-a-third-of-cyberattacks-result-in-job-losses)
 - [Malicious Actors Sow Discord With False Election Compromise Claims](https://www.darkreading.com/threat-intelligence/malicious-actors-election-compromise-claims)
@@ -83,7 +84,6 @@
 - [Cloud-Native Network Security Up 17%, Hardware Down 2%](https://www.darkreading.com/cloud-security/cloud-native-network-security-up-17-hardware-down-2-)
 - [NFL Teams Block &amp;amp; Tackle Cyberattacks in a Digital World](https://www.darkreading.com/cybersecurity-operations/nfl-block-tackle-cyberattacks-digital-world)
 - [Hardware Supply Chain Threats Can Undermine Endpoint Infrastructure](https://www.darkreading.com/vulnerabilities-threats/hardware-supply-chain-threats-can-undermine-endpoint-infrastructure)
-- [Microsoft VS Code Undermined in Asian Spy Attack](https://www.darkreading.com/application-security/microsoft-vs-code-undermined-in-asian-spy-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
