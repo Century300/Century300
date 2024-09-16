@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity &amp;amp; the 2024 US Elections](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-2024-us-elections)
 - [South Korea Digital Forensics Market to Hit US $3.52B by 2031](https://www.darkreading.com/cyber-risk/south-korea-digital-forensics-market-to-hit-us-3-52b-by-2031)
 - [Cybersecurity Community Celebrates Documentary Premiere at Tampa Theatre](https://www.darkreading.com/cybersecurity-operations/cybersecurity-community-celebrates-documentary-premiere-at-tampa-theatre)
 - [Fortinet Confirms Customer Data Breach via Third Party](https://www.darkreading.com/cloud-security/fortinet-customer-data-breach-third-party)
@@ -83,7 +84,6 @@
 - [Over a Third of Cyberattacks Result in Job Losses](https://www.darkreading.com/cybersecurity-operations/over-a-third-of-cyberattacks-result-in-job-losses)
 - [Malicious Actors Sow Discord With False Election Compromise Claims](https://www.darkreading.com/threat-intelligence/malicious-actors-election-compromise-claims)
 - [99% of Business Leaders Have Concerns About the Trustworthiness of Internal Data](https://www.darkreading.com/cybersecurity-operations/99-of-business-leaders-have-concerns-about-the-trustworthiness-of-internal-data)
-- [Cloud-Native Network Security Up 17%, Hardware Down 2%](https://www.darkreading.com/cloud-security/cloud-native-network-security-up-17-hardware-down-2-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
