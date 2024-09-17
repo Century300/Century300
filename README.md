@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukraine, Gaza Wars Inspire DDoS Surge Against Finservs](https://www.darkreading.com/threat-intelligence/ukraine-gaza-wars-ddos-surge-finservs)
 - [&#39;Void Banshee&#39; Exploits Second Microsoft Zero-Day](https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day)
 - [Cambodian Tycoon Sanctioned for Forced Cyber Labor, Trafficking](https://www.darkreading.com/cyber-risk/cambodian-tycoon-sanctioned-forced-cyber-labor-trafficking)
 - [Ivanti Cloud Bug Goes Under Exploit After Alarms Are Raised](https://www.darkreading.com/threat-intelligence/ivanti-cloud-bug-exploit-alarms-raised)
@@ -83,7 +84,6 @@
 - [Cybersecurity &amp;amp; the 2024 US Elections](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-2024-us-elections)
 - [South Korea Digital Forensics Market to Hit US $3.52B by 2031](https://www.darkreading.com/cyber-risk/south-korea-digital-forensics-market-to-hit-us-3-52b-by-2031)
 - [Cybersecurity Community Celebrates Documentary Premiere at Tampa Theatre](https://www.darkreading.com/cybersecurity-operations/cybersecurity-community-celebrates-documentary-premiere-at-tampa-theatre)
-- [Fortinet Confirms Customer Data Breach via Third Party](https://www.darkreading.com/cloud-security/fortinet-customer-data-breach-third-party)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
