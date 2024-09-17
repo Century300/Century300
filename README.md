@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [The Current Cybersecurity Landscape: New Threats, Same Security Mistakes](https://www.darkreading.com/vulnerabilities-threats/current-cybersecurity-landscape-new-threats-same-security-mistakes)
 - [Ukraine, Gaza Wars Inspire DDoS Surge Against Finservs](https://www.darkreading.com/threat-intelligence/ukraine-gaza-wars-ddos-surge-finservs)
+- [&#39;CloudImposer&#39; Flaw in Google Cloud Affected Millions of Servers](https://www.darkreading.com/cloud-security/cloudimposer-flaw-google-cloud-affected-millions-servers)
 - [&#39;Void Banshee&#39; Exploits Second Microsoft Zero-Day](https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day)
 - [Cambodian Tycoon Sanctioned for Forced Cyber Labor, Trafficking](https://www.darkreading.com/cyber-risk/cambodian-tycoon-sanctioned-forced-cyber-labor-trafficking)
 - [Ivanti Cloud Bug Goes Under Exploit After Alarms Are Raised](https://www.darkreading.com/threat-intelligence/ivanti-cloud-bug-exploit-alarms-raised)
 - [Name That Toon: Tug of War](https://www.darkreading.com/ics-ot-security/name-that-toon-tug-of-war)
 - [Cybersecurity &amp;amp; the 2024 US Elections](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-2024-us-elections)
-- [South Korea Digital Forensics Market to Hit US $3.52B by 2031](https://www.darkreading.com/cyber-risk/south-korea-digital-forensics-market-to-hit-us-3-52b-by-2031)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
