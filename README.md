@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [QR Phishing Scams Gain Motorized Momentum in UK](https://www.darkreading.com/threat-intelligence/qr-phishing-scams-motorized-momentum-uk)
+- [FCC: AT&amp;amp;T Didn&#39;t Adequately Protect Customers&#39; Cloud Data](https://www.darkreading.com/cybersecurity-operations/fcc-att-did-not-protect-cloud-data)
 - [Thousands of ServiceNow KB Instances Expose Sensitive Corporate Data](https://www.darkreading.com/cloud-security/servicenow-kb-instances-expose-corporate-data)
 - [How Shifts in Cyber Insurance Are Affecting the Security Landscape](https://www.darkreading.com/cyber-risk/how-shifts-cyber-insurance-affecting-security-landscape)
 - [Infostealers: An Early Warning for Ransomware Attacks](https://www.darkreading.com/cybersecurity-analytics/infostealers-early-warning-ransomware-attacks)
 - [As Geopolitical Tensions Mount, Iran&#39;s Cyber Operations Grow](https://www.darkreading.com/cyberattacks-data-breaches/geopolitical-tensions-mount-iran-cyber-operations-grow)
 - [CISA Urges Software Makers to Eliminate XSS Flaws](https://www.darkreading.com/application-security/cisa-urges-software-makers-eliminate-xss-flaws)
 - [Zero-Click RCE Bug in macOS Calendar Exposes iCloud Data](https://www.darkreading.com/vulnerabilities-threats/zero-click-rce-bug-macos-calendar-exposes-icloud-data)
-- [&#39;Marko Polo&#39; Creates Globe-Spanning Cybercrime Juggernaut](https://www.darkreading.com/threat-intelligence/marko-polo-globe-spanning-cybercrime-juggernaut)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
