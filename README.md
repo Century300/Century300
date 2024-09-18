@@ -80,10 +80,10 @@
 - [Zero-Click RCE Bug in macOS Calendar Exposes iCloud Data](https://www.darkreading.com/vulnerabilities-threats/zero-click-rce-bug-macos-calendar-exposes-icloud-data)
 - [&#39;Marko Polo&#39; Creates Globe-Spanning Cybercrime Juggernaut](https://www.darkreading.com/threat-intelligence/marko-polo-globe-spanning-cybercrime-juggernaut)
 - [RT News Hosted Russian Cyber Spy Unit, US Says](https://www.darkreading.com/cyberattacks-data-breaches/rt-news-hosted-russian-cyber-spy)
+- [Startup Finds &#39;Hydden&#39; Identities in IT Environment](https://www.darkreading.com/identity-access-management-security/startup-finds-hydden-identities-it-environment)
 - [Apple Abandons Spyware Suit to Avoid Sharing Cyber Secrets](https://www.darkreading.com/cyber-risk/apple-abandons-spyware-lawsuit-avoid-cyber-secrets)
 - [The Current Cybersecurity Landscape: New Threats, Same Security Mistakes](https://www.darkreading.com/vulnerabilities-threats/current-cybersecurity-landscape-new-threats-same-security-mistakes)
 - [Ukraine, Gaza Wars Inspire DDoS Surge Against Finservs](https://www.darkreading.com/threat-intelligence/ukraine-gaza-wars-ddos-surge-finservs)
-- [&#39;CloudImposer&#39; Flaw in Google Cloud Affected Millions of Servers](https://www.darkreading.com/cloud-security/cloudimposer-flaw-google-cloud-affected-millions-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
