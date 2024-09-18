@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Shifts in Cyber Insurance Are Affecting the Security Landscape](https://www.darkreading.com/cyber-risk/how-shifts-cyber-insurance-affecting-security-landscape)
 - [Infostealers: An Early Warning for Ransomware Attacks](https://www.darkreading.com/cybersecurity-analytics/infostealers-early-warning-ransomware-attacks)
 - [As Geopolitical Tensions Mount, Iran&#39;s Cyber Operations Grow](https://www.darkreading.com/cyberattacks-data-breaches/geopolitical-tensions-mount-iran-cyber-operations-grow)
 - [CISA Urges Software Makers to Eliminate XSS Flaws](https://www.darkreading.com/application-security/cisa-urges-software-makers-eliminate-xss-flaws)
@@ -83,7 +84,6 @@
 - [&#39;Marko Polo&#39; Creates Globe-Spanning Cybercrime Juggernaut](https://www.darkreading.com/threat-intelligence/marko-polo-globe-spanning-cybercrime-juggernaut)
 - [RT News Hosted Russian Cyber Spy Unit, US Says](https://www.darkreading.com/cyberattacks-data-breaches/rt-news-hosted-russian-cyber-spy)
 - [Startup Finds &#39;Hydden&#39; Identities in IT Environment](https://www.darkreading.com/identity-access-management-security/startup-finds-hydden-identities-it-environment)
-- [Apple Abandons Spyware Suit to Avoid Sharing Cyber Secrets](https://www.darkreading.com/cyber-risk/apple-abandons-spyware-lawsuit-avoid-cyber-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
