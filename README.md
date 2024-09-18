@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Geopolitical Tensions Mount, Iran&#39;s Cyber Operations Grow](https://www.darkreading.com/cyberattacks-data-breaches/geopolitical-tensions-mount-iran-cyber-operations-grow)
 - [Zero-Click RCE Bug in macOS Calendar Exposes iCloud Data](https://www.darkreading.com/vulnerabilities-threats/zero-click-rce-bug-macos-calendar-exposes-icloud-data)
 - [&#39;Marko Polo&#39; Creates Globe-Spanning Cybercrime Juggernaut](https://www.darkreading.com/threat-intelligence/marko-polo-globe-spanning-cybercrime-juggernaut)
 - [RT News Hosted Russian Cyber Spy Unit, US Says](https://www.darkreading.com/cyberattacks-data-breaches/rt-news-hosted-russian-cyber-spy)
@@ -83,7 +84,6 @@
 - [The Current Cybersecurity Landscape: New Threats, Same Security Mistakes](https://www.darkreading.com/vulnerabilities-threats/current-cybersecurity-landscape-new-threats-same-security-mistakes)
 - [Ukraine, Gaza Wars Inspire DDoS Surge Against Finservs](https://www.darkreading.com/threat-intelligence/ukraine-gaza-wars-ddos-surge-finservs)
 - [&#39;CloudImposer&#39; Flaw in Google Cloud Affected Millions of Servers](https://www.darkreading.com/cloud-security/cloudimposer-flaw-google-cloud-affected-millions-servers)
-- [&#39;Void Banshee&#39; Exploits Second Microsoft Zero-Day](https://www.darkreading.com/application-security/void-banshee-exploits-second-microsoft-zero-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
