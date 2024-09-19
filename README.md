@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI Leads Takedown of Chinese Botnet Impacting 200K Devices](https://www.darkreading.com/vulnerabilities-threats/fbi-takedown-chinese-botnet-200k-devices)
 - [An AI-Driven Approach to Risk-Scoring Systems in Cybersecurity](https://www.darkreading.com/cyber-risk/ai-driven-approach-risk-scoring-systems-cybersecurity)
 - [Coalition for Secure AI Promotes Safe, Ethical AI Development](https://www.darkreading.com/threat-intelligence/coalition-for-secure-ai-safe-ethical-ai-development)
 - [Security Firm&#39;s North Korean Hacker Hire Not an Isolated Incident](https://www.darkreading.com/vulnerabilities-threats/security-hire-north-korean-hacker-not-isolated-incident)
@@ -83,7 +84,6 @@
 - [Contractor Software Targeted via Microsoft SQL Server Loophole](https://www.darkreading.com/application-security/contractor-software-targeted-mssql-loophole)
 - [Packed With Features, &#39;SambaSpy&#39; RAT Delivers Hefty Punch](https://www.darkreading.com/cyberattacks-data-breaches/sambaspy-rat-packs-hefty-punch)
 - [QR Phishing Scams Gain Motorized Momentum in UK](https://www.darkreading.com/threat-intelligence/qr-phishing-scams-motorized-momentum-uk)
-- [Ready to Rumble: US Women&#39;s Cyber Team Preps for Global CTF Contest](https://www.darkreading.com/cybersecurity-operations/us-women-cyber-team-global-ctf-contest)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
