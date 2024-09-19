@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [An AI-Driven Approach to Risk-Scoring Systems in Cybersecurity](https://www.darkreading.com/cyber-riskai-driven-approach-risk-scoring-systems-cybersecurity)
+- [An AI-Driven Approach to Risk-Scoring Systems in Cybersecurity](https://www.darkreading.com/cyber-risk/ai-driven-approach-risk-scoring-systems-cybersecurity)
 - [Coalition for Secure AI Promotes Safe, Ethical AI Development](https://www.darkreading.com/threat-intelligence/coalition-for-secure-ai-safe-ethical-ai-development)
 - [Security Firm&#39;s North Korean Hacker Hire Not an Isolated Incident](https://www.darkreading.com/vulnerabilities-threats/security-hire-north-korean-hacker-not-isolated-incident)
 - [Phishing Espionage Attack Targets US-Taiwan Defense Conference](https://www.darkreading.com/cyberattacks-data-breaches/espionage-attack-us-taiwan-defense-conference)
