@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Expands Cybersecurity Startup Accelerator With AWS and NVIDIA](https://www.darkreading.com/cloud-security/crowdstrike-expands-cybersecurity-startup-accelerator-with-aws-and-nvidia)
+- [Abstract Security Expands Multi-Cloud Security Operations](https://www.darkreading.com/cloud-security/abstract-security-expands-multi-cloud-security-operations)
+- [GitLab Warns of Max Severity Authentication Bypass Bug](https://www.darkreading.com/application-security/gitlab-warns-max-severity-authentication-bypass-bug)
+- [c/side Lands $6M to Combat Rising Browser Supply Chain Attacks](https://www.darkreading.com/cybersecurity-operations/c-side-lands-6m-to-combat-rising-browser-supply-chain-attacks)
 - [Vice Society Pivots to Inc Ransomware in Healthcare Attack](https://www.darkreading.com/threat-intelligence/vice-society-inc-ransomware-healthcare-attack)
 - [Concerns Over Supply Chain Attacks on US Seaports Grow](https://www.darkreading.com/ics-ot-security/concerns-supply-chain-attacks-us-seaports-grow)
 - [1 PoC Exploit for Critical RCE Flaw, but 2 Patches From Veeam](https://www.darkreading.com/application-security/poc-exploit-for-rce-flaw-but-patches-from-veeam)
 - [FBI Leads Takedown of Chinese Botnet Impacting 200K Devices](https://www.darkreading.com/vulnerabilities-threats/fbi-takedown-chinese-botnet-200k-devices)
-- [An AI-Driven Approach to Risk-Scoring Systems in Cybersecurity](https://www.darkreading.com/cyber-risk/ai-driven-approach-risk-scoring-systems-cybersecurity)
-- [Coalition for Secure AI Promotes Safe, Ethical AI Development](https://www.darkreading.com/threat-intelligence/coalition-for-secure-ai-safe-ethical-ai-development)
-- [Security Firm&#39;s North Korean Hacker Hire Not an Isolated Incident](https://www.darkreading.com/vulnerabilities-threats/security-hire-north-korean-hacker-not-isolated-incident)
-- [Phishing Espionage Attack Targets US-Taiwan Defense Conference](https://www.darkreading.com/cyberattacks-data-breaches/espionage-attack-us-taiwan-defense-conference)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
