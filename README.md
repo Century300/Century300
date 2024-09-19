@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [An AI-Driven Approach to Risk-Scoring Systems in Cybersecurity](https://www.darkreading.com/cyber-riskai-driven-approach-risk-scoring-systems-cybersecurity)
 - [Coalition for Secure AI Promotes Safe, Ethical AI Development](https://www.darkreading.com/threat-intelligence/coalition-for-secure-ai-safe-ethical-ai-development)
 - [Security Firm&#39;s North Korean Hacker Hire Not an Isolated Incident](https://www.darkreading.com/vulnerabilities-threats/security-hire-north-korean-hacker-not-isolated-incident)
 - [Phishing Espionage Attack Targets US-Taiwan Defense Conference](https://www.darkreading.com/cyberattacks-data-breaches/espionage-attack-us-taiwan-defense-conference)
@@ -83,7 +84,6 @@
 - [Packed With Features, &#39;SambaSpy&#39; RAT Delivers Hefty Punch](https://www.darkreading.com/cyberattacks-data-breaches/sambaspy-rat-packs-hefty-punch)
 - [QR Phishing Scams Gain Motorized Momentum in UK](https://www.darkreading.com/threat-intelligence/qr-phishing-scams-motorized-momentum-uk)
 - [Ready to Rumble: US Women&#39;s Cyber Team Preps for Global CTF Contest](https://www.darkreading.com/cybersecurity-operations/us-women-cyber-team-global-ctf-contest)
-- [FCC: AT&amp;amp;T Didn&#39;t Adequately Protect Customers&#39; Cloud Data](https://www.darkreading.com/cybersecurity-operations/fcc-att-did-not-protect-cloud-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
