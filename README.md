@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Click MediaTek Bug Opens Phones, Wi-Fi to Takeover](https://www.darkreading.com/vulnerabilities-threats/zero-click-mediatek-bug-phones-wifi-takeover)
 - [LinkedIn Addresses User Data Collection for AI Training](https://www.darkreading.com/cyber-risk/linkedin-user-data-collection-ai-training)
 - [GenAI in Cybersecurity: Insights Beyond the Verizon DBIR](https://www.darkreading.com/vulnerabilities-threats/genai-cybersecurity-insights-beyond-verizon-dbir)
 - [North Korean APT Bypasses DMARC Email Policies in Cyber-Espionage Attacks](https://www.darkreading.com/threat-intelligence/north-korean-apt-bypasses-dmarc-email-cyber-espionage-attacks)
@@ -83,7 +84,6 @@
 - [CrowdStrike Expands Cybersecurity Startup Accelerator With AWS and NVIDIA](https://www.darkreading.com/cloud-security/crowdstrike-expands-cybersecurity-startup-accelerator-with-aws-and-nvidia)
 - [Abstract Security Expands Multi-Cloud Security Operations](https://www.darkreading.com/cloud-security/abstract-security-expands-multi-cloud-security-operations)
 - [GitLab Warns of Max Severity Authentication Bypass Bug](https://www.darkreading.com/application-security/gitlab-warns-max-severity-authentication-bypass-bug)
-- [c/side Lands $6M to Combat Rising Browser Supply Chain Attacks](https://www.darkreading.com/cybersecurity-operations/c-side-lands-6m-to-combat-rising-browser-supply-chain-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
