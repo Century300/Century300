@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [North Korean APT Bypasses DMARC Email Policies in Cyber-Espionage Attacks](https://www.darkreading.com/threat-intelligence/north-korean-apt-bypasses-dmarc-email-cyber-espionage-attacks)
+- [Mastercard&#39;s Recorded Future Deal Furthers its AI Security Goals](https://www.darkreading.com/threat-intelligence/mastercard-boosts-ai-security-recorded-future)
 - [CrowdStrike Expands Cybersecurity Startup Accelerator With AWS and NVIDIA](https://www.darkreading.com/cloud-security/crowdstrike-expands-cybersecurity-startup-accelerator-with-aws-and-nvidia)
 - [Abstract Security Expands Multi-Cloud Security Operations](https://www.darkreading.com/cloud-security/abstract-security-expands-multi-cloud-security-operations)
 - [GitLab Warns of Max Severity Authentication Bypass Bug](https://www.darkreading.com/application-security/gitlab-warns-max-severity-authentication-bypass-bug)
 - [c/side Lands $6M to Combat Rising Browser Supply Chain Attacks](https://www.darkreading.com/cybersecurity-operations/c-side-lands-6m-to-combat-rising-browser-supply-chain-attacks)
 - [Vice Society Pivots to Inc Ransomware in Healthcare Attack](https://www.darkreading.com/threat-intelligence/vice-society-inc-ransomware-healthcare-attack)
 - [Concerns Over Supply Chain Attacks on US Seaports Grow](https://www.darkreading.com/ics-ot-security/concerns-supply-chain-attacks-us-seaports-grow)
-- [1 PoC Exploit for Critical RCE Flaw, but 2 Patches From Veeam](https://www.darkreading.com/application-security/poc-exploit-for-rce-flaw-but-patches-from-veeam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
