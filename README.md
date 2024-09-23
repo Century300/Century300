@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
 - [CISA Releases Plan to Align Cybersecurity Across Federal Agencies](https://www.darkreading.com/cybersecurity-operations/cisa-releases-plan-to-align-cybersecurity-across-federal-agencies)
 - [Ivanti&#39;s Cloud Service Appliance Attacked via Second Vuln](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-cloud-service-appliance-attacked-vuln)
 - [Citrine Sleet Poisons PyPI Packages With Mac &amp;amp; Linux Malware](https://www.darkreading.com/threat-intelligence/citrine-sleet-poisons-pypi-packages-mac-linux-malware)
@@ -83,7 +84,6 @@
 - [LinkedIn Addresses User Data Collection for AI Training](https://www.darkreading.com/cyber-risk/linkedin-user-data-collection-ai-training)
 - [GenAI in Cybersecurity: Insights Beyond the Verizon DBIR](https://www.darkreading.com/vulnerabilities-threats/genai-cybersecurity-insights-beyond-verizon-dbir)
 - [North Korean APT Bypasses DMARC Email Policies in Cyber-Espionage Attacks](https://www.darkreading.com/threat-intelligence/north-korean-apt-bypasses-dmarc-email-cyber-espionage-attacks)
-- [Mastercard&#39;s Recorded Future Deal Furthers Its AI Security Goals](https://www.darkreading.com/threat-intelligence/mastercard-boosts-ai-security-recorded-future)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
