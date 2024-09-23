@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Trims Cloud Cyberattack Surface in Security Push](https://www.darkreading.com/cloud-security/microsoft-trims-cloud-cyberattack-surface-security-push)
 - [Kaspersky Rolls Back for US Customers, Makes Way for UltraAV](https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav)
 - [Mastercard&#39;s Bet on Recorded Future a Win for Cyber Threat Intel](https://www.darkreading.com/threat-intelligence/mastercard-bet-recorded-future-win-cti)
 - [Target Practice: Honing Critical Skills on Cyber Ranges](https://www.darkreading.com/threat-intelligence/head-to-a-cyber-range-to-brush-up-skills)
@@ -83,7 +84,6 @@
 - [Data Security Posture Management: Accelerating Time to Value](https://www.darkreading.com/vulnerabilities-threats/data-security-posture-management-accelerating-time-value)
 - [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
 - [CISA Releases Plan to Align Cybersecurity Across Federal Agencies](https://www.darkreading.com/cybersecurity-operations/cisa-releases-plan-to-align-cybersecurity-across-federal-agencies)
-- [Ivanti&#39;s Cloud Service Appliance Attacked via Second Vuln](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-cloud-service-appliance-attacked-vuln)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
