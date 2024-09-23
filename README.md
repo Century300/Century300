@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Target Practice: Honing Critical Skills on Cyber Ranges](https://www.darkreading.com/threat-intelligence/head-to-a-cyber-range-to-brush-up-skills)
 - [Commerce Dept. Proposes Ban on Automotive Software &amp;amp; Hardware From China, Russia](https://www.darkreading.com/cyberattacks-data-breaches/us-ban-automotive-software-hardware-china-russia)
 - [Data Security Posture Management: Accelerating Time to Value](https://www.darkreading.com/vulnerabilities-threats/data-security-posture-management-accelerating-time-value)
 - [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
@@ -83,7 +84,6 @@
 - [Ivanti&#39;s Cloud Service Appliance Attacked via Second Vuln](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-cloud-service-appliance-attacked-vuln)
 - [Citrine Sleet Poisons PyPI Packages With Mac &amp;amp; Linux Malware](https://www.darkreading.com/threat-intelligence/citrine-sleet-poisons-pypi-packages-mac-linux-malware)
 - [Zero-Click MediaTek Bug Opens Phones, Wi-Fi to Takeover](https://www.darkreading.com/vulnerabilities-threats/zero-click-mediatek-bug-phones-wifi-takeover)
-- [LinkedIn Addresses User Data Collection for AI Training](https://www.darkreading.com/cyber-risk/linkedin-user-data-collection-ai-training)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
