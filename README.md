@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kaspersky Rolls Back for US Customers, Makes Way for UltraAV](https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav)
+- [Mastercard&#39;s Bet on Recorded Future a Win for Cyber Threat Intel](https://www.darkreading.com/threat-intelligence/mastercard-bet-recorded-future-win-cti)
 - [Target Practice: Honing Critical Skills on Cyber Ranges](https://www.darkreading.com/threat-intelligence/head-to-a-cyber-range-to-brush-up-skills)
 - [Commerce Dept. Proposes Ban on Automotive Software &amp;amp; Hardware From China, Russia](https://www.darkreading.com/cyberattacks-data-breaches/us-ban-automotive-software-hardware-china-russia)
 - [Data Security Posture Management: Accelerating Time to Value](https://www.darkreading.com/vulnerabilities-threats/data-security-posture-management-accelerating-time-value)
 - [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
 - [CISA Releases Plan to Align Cybersecurity Across Federal Agencies](https://www.darkreading.com/cybersecurity-operations/cisa-releases-plan-to-align-cybersecurity-across-federal-agencies)
 - [Ivanti&#39;s Cloud Service Appliance Attacked via Second Vuln](https://www.darkreading.com/cyberattacks-data-breaches/ivanti-cloud-service-appliance-attacked-vuln)
-- [Citrine Sleet Poisons PyPI Packages With Mac &amp;amp; Linux Malware](https://www.darkreading.com/threat-intelligence/citrine-sleet-poisons-pypi-packages-mac-linux-malware)
-- [Zero-Click MediaTek Bug Opens Phones, Wi-Fi to Takeover](https://www.darkreading.com/vulnerabilities-threats/zero-click-mediatek-bug-phones-wifi-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
