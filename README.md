@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Commerce Dept. Proposes Ban on Automotive Software &amp;amp; Hardware From China, Russia](https://www.darkreading.com/cyberattacks-data-breaches/us-ban-automotive-software-hardware-china-russia)
 - [Data Security Posture Management: Accelerating Time to Value](https://www.darkreading.com/vulnerabilities-threats/data-security-posture-management-accelerating-time-value)
 - [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
 - [CISA Releases Plan to Align Cybersecurity Across Federal Agencies](https://www.darkreading.com/cybersecurity-operations/cisa-releases-plan-to-align-cybersecurity-across-federal-agencies)
@@ -83,7 +84,6 @@
 - [Citrine Sleet Poisons PyPI Packages With Mac &amp;amp; Linux Malware](https://www.darkreading.com/threat-intelligence/citrine-sleet-poisons-pypi-packages-mac-linux-malware)
 - [Zero-Click MediaTek Bug Opens Phones, Wi-Fi to Takeover](https://www.darkreading.com/vulnerabilities-threats/zero-click-mediatek-bug-phones-wifi-takeover)
 - [LinkedIn Addresses User Data Collection for AI Training](https://www.darkreading.com/cyber-risk/linkedin-user-data-collection-ai-training)
-- [GenAI in Cybersecurity: Insights Beyond the Verizon DBIR](https://www.darkreading.com/vulnerabilities-threats/genai-cybersecurity-insights-beyond-verizon-dbir)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
