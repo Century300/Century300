@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Telegram to Share User Info With Law Enforcement in Policy Shift](https://www.darkreading.com/cybersecurity-operations/telegram-sahe-user-info-policy-shift)
+- [Critical Automated Tank Gauge Bugs Threaten Critical Infrastructure](https://www.darkreading.com/ics-ot-security/critical-automated-tank-gauge-bugs-critical-infrastructure)
 - [MoneyGram Goes Offline After Vague Cyber Woes](https://www.darkreading.com/cyber-risk/moneygram-offline-cyber-woes)
 - [Managing Cyber-Risk Is No Different Than Managing Any Business Risk](https://www.darkreading.com/cyber-risk/managing-cyber-risk-different-managing-business-risk)
 - [RomCom Malware Resurfaces With SnipBot Variant](https://www.darkreading.com/threat-intelligence/romcom-malware-resurfaces-snipbot-variant)
 - [Meet UNC1860: Iran&#39;s Low-Key Access Broker for State Hackers](https://www.darkreading.com/threat-intelligence/meet-unc1860-irans-access-broker-state-hackers)
 - [Microsoft Trims Cloud Cyberattack Surface in Security Push](https://www.darkreading.com/cloud-security/microsoft-trims-cloud-cyberattack-surface-security-push)
 - [Kaspersky Rolls Back for US Customers, Makes Way for UltraAV](https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav)
-- [Mastercard&#39;s Bet on Recorded Future a Win for Cyber-Threat Intel](https://www.darkreading.com/threat-intelligence/mastercard-bet-recorded-future-win-cti)
-- [Target Practice: Honing Critical Skills on Cyber Ranges](https://www.darkreading.com/threat-intelligence/head-to-a-cyber-range-to-brush-up-skills)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
