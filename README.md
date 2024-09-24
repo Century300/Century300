@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RomCom Malware Resurfaces With SnipBot Variant](https://www.darkreading.com/threat-intelligence/romcom-malware-resurfaces-snipbot-variant)
 - [Meet UNC1860: Iran&#39;s Low-Key Access Broker for State Hackers](https://www.darkreading.com/threat-intelligence/meet-unc1860-irans-access-broker-state-hackers)
 - [Microsoft Trims Cloud Cyberattack Surface in Security Push](https://www.darkreading.com/cloud-security/microsoft-trims-cloud-cyberattack-surface-security-push)
 - [Kaspersky Rolls Back for US Customers, Makes Way for UltraAV](https://www.darkreading.com/application-security/kaspersky-rolls-back-us-customers-ultraav)
@@ -83,7 +84,6 @@
 - [Target Practice: Honing Critical Skills on Cyber Ranges](https://www.darkreading.com/threat-intelligence/head-to-a-cyber-range-to-brush-up-skills)
 - [Commerce Dept. Proposes Ban on Automotive Software &amp;amp; Hardware From China, Russia](https://www.darkreading.com/cyberattacks-data-breaches/us-ban-automotive-software-hardware-china-russia)
 - [Data Security Posture Management: Accelerating Time to Value](https://www.darkreading.com/vulnerabilities-threats/data-security-posture-management-accelerating-time-value)
-- [China&#39;s &#39;Earth Baxia&#39; Spies Exploit Geoserver to Target APAC Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-earth-baxia-spies-geoserver-apac-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
