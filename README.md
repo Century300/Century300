@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s &#39;Salt Typhoon&#39; Cooks Up Cyberattacks on US ISPs](https://www.darkreading.com/cyberattacks-data-breaches/chinas-salt-typhoon-cyberattacks-us-isps)
 - [Third Ivanti Bug Comes Under Active Exploit, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-patched-ivanti-bug-kev-catalog)
 - [How Russia, China &amp;amp; Iran Are Targeting US Elections](https://www.darkreading.com/vulnerabilities-threats/russia-china-iran-targeting-us-election)
 - [Sophisticated RAT Hides Behind P. Diddy Scandal Lures](https://www.darkreading.com/endpoint-security/sophisticated-rat-p-diddy-scandal-lures)
@@ -83,7 +84,6 @@
 - [Keep Tier-One Applications Out of Virtual Environments](https://www.darkreading.com/application-security/keep-tier-one-applications-out-of-virtual-environments)
 - [6 Cybersecurity Headaches That Sports Organizations Have to Worry About](https://www.darkreading.com/cybersecurity-operations/6-cybersecurity-headaches-sports-organizations-have-to-worry-about)
 - [Security Concerns Plague Emerging Chip Architecture](https://www.darkreading.com/endpoint-security/security-concerns-dog-emerging-chip-architecture)
-- [Kansas Water Plant Pivots to Analog After Cyber Event](https://www.darkreading.com/ics-ot-security/kansas-water-plant-pivots-analog-cyber-event)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
