@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Russia, China &amp;amp; Iran Are Targeting US Elections](https://www.darkreading.com/vulnerabilities-threats/russia-china-iran-targeting-us-election)
+- [Sophisticated RAT Hides Behind P. Diddy Scandal Lures](https://www.darkreading.com/endpoint-security/sophisticated-rat-p-diddy-scandal-lures)
 - [US May Be Losing the Race for Global AI Leadership](https://www.darkreading.com/cybersecurity-operations/us-losing-race-global-ai-leadership)
 - [Keep Tier-One Applications Out of Virtual Environments](https://www.darkreading.com/application-security/keep-tier-one-applications-out-of-virtual-environments)
 - [6 Cybersecurity Headaches That Sports Organizations Have to Worry About](https://www.darkreading.com/cybersecurity-operations/6-cybersecurity-headaches-sports-organizations-have-to-worry-about)
 - [Security Concerns Plague Emerging Chip Architecture](https://www.darkreading.com/endpoint-security/security-concerns-dog-emerging-chip-architecture)
 - [Kansas Water Plant Pivots to Analog After Cyber Event](https://www.darkreading.com/ics-ot-security/kansas-water-plant-pivots-analog-cyber-event)
 - [Telegram to Share User Info With Law Enforcement in Policy Shift](https://www.darkreading.com/cybersecurity-operations/telegram-sahe-user-info-policy-shift)
-- [Critical Automated Tank Gauge Bugs Threaten Gas Infrastructure](https://www.darkreading.com/ics-ot-security/critical-automated-tank-gauge-bugs-critical-infrastructure)
-- [MoneyGram Goes Offline After Vague Cyber Woes](https://www.darkreading.com/cyber-risk/moneygram-offline-cyber-woes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
