@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [CISA Adds Patched Ivanti Bug to KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-patched-ivanti-bug-kev-catalog)
+- [Third Ivanti Bug Comes Under Active Exploit, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-patched-ivanti-bug-kev-catalog)
 - [How Russia, China &amp;amp; Iran Are Targeting US Elections](https://www.darkreading.com/vulnerabilities-threats/russia-china-iran-targeting-us-election)
 - [Sophisticated RAT Hides Behind P. Diddy Scandal Lures](https://www.darkreading.com/endpoint-security/sophisticated-rat-p-diddy-scandal-lures)
 - [US May Be Losing the Race for Global AI Leadership](https://www.darkreading.com/cybersecurity-operations/us-losing-race-global-ai-leadership)
