@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 Cybersecurity Headaches Sports Organizations Have to Worry About](https://www.darkreading.com/cybersecurity-operations/6-cybersecurity-headaches-sports-organizations-have-to-worry-about)
 - [Kansas Water Plant Pivots to Analog After Cyber Event](https://www.darkreading.com/ics-ot-security/kansas-water-plant-pivots-analog-cyber-event)
 - [Telegram to Share User Info With Law Enforcement in Policy Shift](https://www.darkreading.com/cybersecurity-operations/telegram-sahe-user-info-policy-shift)
 - [Critical Automated Tank Gauge Bugs Threaten Critical Infrastructure](https://www.darkreading.com/ics-ot-security/critical-automated-tank-gauge-bugs-critical-infrastructure)
@@ -83,7 +84,6 @@
 - [Managing Cyber-Risk Is No Different Than Managing Any Business Risk](https://www.darkreading.com/cyber-risk/managing-cyber-risk-different-managing-business-risk)
 - [RomCom Malware Resurfaces With SnipBot Variant](https://www.darkreading.com/threat-intelligence/romcom-malware-resurfaces-snipbot-variant)
 - [Meet UNC1860: Iran&#39;s Low-Key Access Broker for State Hackers](https://www.darkreading.com/threat-intelligence/meet-unc1860-irans-access-broker-state-hackers)
-- [Microsoft Trims Cloud Cyberattack Surface in Security Push](https://www.darkreading.com/cloud-security/microsoft-trims-cloud-cyberattack-surface-security-push)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
