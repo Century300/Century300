@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Congress Advances Bill to Add AI to National Vulnerability Database](https://www.darkreading.com/application-security/congress-advances-bill-add-ai-nvd)
+- [Public Wi-Fi Compromised in UK Train Stations](https://www.darkreading.com/cyberattacks-data-breaches/public-wi-fi-compromised-uk-train-stations)
 - [Hurricane Helene Prompts CISA Fraud Warning](https://www.darkreading.com/cyber-risk/hurricane-helene-cisa-fraud-warning)
 - [Moving DevOps Security Out of the &#39;Stone Age&#39;](https://www.darkreading.com/application-security/managing-devops-security-posture-escape-stone-age)
 - [Boredom Is the Silent Killer in Your IT Systems](https://www.darkreading.com/vulnerabilities-threats/boredom-silent-killer-it-systems)
 - [GenAI Writes Malicious Code to Spread AsyncRAT](https://www.darkreading.com/cyber-risk/genai-writes-malicious-code-spread-asyncrat)
 - [&#39;SloppyLemming&#39; APT Abuses Cloudflare Service in Pakistan Attacks](https://www.darkreading.com/cloud-security/sloppylemming-apt-cloudflare-pakistan-attacks)
 - [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
-- [CrowdStrike Offers Mea Culpa to House Committee](https://www.darkreading.com/cyberattacks-data-breaches/crowdstrike-offers-mea-culpa-house-committee)
-- [Pwn2Own Auto Offers $500K for Tesla Hacks](https://www.darkreading.com/endpoint-security/pwn2own-auto-500k-tesla-hacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
