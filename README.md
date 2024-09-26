@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Stellar Cyber Secures National &#39;Don&#39;t Click It&#39; Day](https://www.darkreading.com/cybersecurity-operations/stellar-cyber-secures-national-don-t-click-it-day)
+- [Cybersecurity Success Hinges on Full Organizational Support, New CompTIA Report Asserts](https://www.darkreading.com/cyber-risk/cybersecurity-success-hinges-on-full-organizational-support-new-comptia-report-asserts)
+- [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.darkreading.com/cyber-risk/onetrust-automates-dora-ict-risk-management-and-compliance)
+- [Security Upgrades Available for 3 HPE Aruba Networking Bugs](https://www.darkreading.com/vulnerabilities-threats/security-upgrades-available-hpe-aruba-networking-bugs)
+- [Transport, Logistics Orgs Hit by Stealthy Phishing Gambit](https://www.darkreading.com/threat-intelligence/transport-logistics-stealthy-phishing)
+- [Torq Announces $70M Series C Bringing Total 2024 Funding to $112M](https://www.darkreading.com/cybersecurity-operations/torq-announces-70m-series-c)
+- [5 Cyber Strategies Research Universities Can Adopt to Lead in Global Research](https://www.darkreading.com/cyberattacks-data-breaches/5-cyber-strategies-research-universities-can-adopt-to-lead-in-global-research)
 - [Congress Advances Bill to Add AI to National Vulnerability Database](https://www.darkreading.com/application-security/congress-advances-bill-add-ai-nvd)
-- [Public Wi-Fi Compromised in UK Train Stations](https://www.darkreading.com/cyberattacks-data-breaches/public-wi-fi-compromised-uk-train-stations)
-- [Hurricane Helene Prompts CISA Fraud Warning](https://www.darkreading.com/cyber-risk/hurricane-helene-cisa-fraud-warning)
-- [Moving DevOps Security Out of the &#39;Stone Age&#39;](https://www.darkreading.com/application-security/managing-devops-security-posture-escape-stone-age)
-- [Boredom Is the Silent Killer in Your IT Systems](https://www.darkreading.com/vulnerabilities-threats/boredom-silent-killer-it-systems)
-- [GenAI Writes Malicious Code to Spread AsyncRAT](https://www.darkreading.com/cyber-risk/genai-writes-malicious-code-spread-asyncrat)
-- [&#39;SloppyLemming&#39; APT Abuses Cloudflare Service in Pakistan Attacks](https://www.darkreading.com/cloud-security/sloppylemming-apt-cloudflare-pakistan-attacks)
-- [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
