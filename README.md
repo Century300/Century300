@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Boredom Is the Silent Killer in Your IT Systems](https://www.darkreading.com/vulnerabilities-threats/boredom-silent-killer-it-systems)
 - [NIST Drops Password Complexity, Mandatory Reset Rules](https://www.darkreading.com/identity-access-management-security/nist-drops-password-complexity-mandatory-reset-rules)
 - [GenAI Writes Malicious Code to Spread AsyncRAT](https://www.darkreading.com/cyber-risk/genai-writes-malicious-code-spread-asyncrat)
 - [&#39;SloppyLemming&#39; APT Abuses Cloudflare Service in Pakistan Attacks](https://www.darkreading.com/cloud-security/sloppylemming-apt-cloudflare-pakistan-attacks)
@@ -83,7 +84,6 @@
 - [Pwn2Own Auto Offers $500K for Tesla Hacks](https://www.darkreading.com/endpoint-security/pwn2own-auto-500k-tesla-hacks)
 - [China&#39;s &#39;Salt Typhoon&#39; Cooks Up Cyberattacks on US ISPs](https://www.darkreading.com/cyberattacks-data-breaches/chinas-salt-typhoon-cyberattacks-us-isps)
 - [Third Ivanti Bug Comes Under Active Exploit, CISA Warns](https://www.darkreading.com/vulnerabilities-threats/cisa-adds-patched-ivanti-bug-kev-catalog)
-- [How Russia, China &amp;amp; Iran Are Targeting US Elections](https://www.darkreading.com/vulnerabilities-threats/russia-china-iran-targeting-us-election)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
