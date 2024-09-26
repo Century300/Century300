@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Memory-Safe Code Adoption Has Made Android Safer](https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer)
 - [Stellar Cyber Secures National &#39;Don&#39;t Click It&#39; Day](https://www.darkreading.com/cybersecurity-operations/stellar-cyber-secures-national-don-t-click-it-day)
 - [Cybersecurity Success Hinges on Full Organizational Support, New CompTIA Report Asserts](https://www.darkreading.com/cyber-risk/cybersecurity-success-hinges-on-full-organizational-support-new-comptia-report-asserts)
 - [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.darkreading.com/cyber-risk/onetrust-automates-dora-ict-risk-management-and-compliance)
@@ -83,7 +84,6 @@
 - [Transport, Logistics Orgs Hit by Stealthy Phishing Gambit](https://www.darkreading.com/threat-intelligence/transport-logistics-stealthy-phishing)
 - [Torq Announces $70M Series C Bringing Total 2024 Funding to $112M](https://www.darkreading.com/cybersecurity-operations/torq-announces-70m-series-c)
 - [5 Cyber Strategies Research Universities Can Adopt to Lead in Global Research](https://www.darkreading.com/cyberattacks-data-breaches/5-cyber-strategies-research-universities-can-adopt-to-lead-in-global-research)
-- [Congress Advances Bill to Add AI to National Vulnerability Database](https://www.darkreading.com/application-security/congress-advances-bill-add-ai-nvd)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
