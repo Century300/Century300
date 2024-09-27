@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top Allies Executives &amp;amp; Boards Should Leverage During a Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/allies-executives-boards-leverage-during-cyber-crisis)
 - [Could Security Misconfigurations Become No. 1 in OWASP Top 10?](https://www.darkreading.com/vulnerabilities-threats/could-security-misconfigurations-become-no-1-owasp-top-10)
 - [Memory-Safe Code Adoption Has Made Android Safer](https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer)
 - [Stellar Cyber Secures National &#39;Don&#39;t Click It&#39; Day](https://www.darkreading.com/cybersecurity-operations/stellar-cyber-secures-national-don-t-click-it-day)
@@ -83,7 +84,6 @@
 - [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.darkreading.com/cyber-risk/onetrust-automates-dora-ict-risk-management-and-compliance)
 - [Security Upgrades Available for 3 HPE Aruba Networking Bugs](https://www.darkreading.com/vulnerabilities-threats/security-upgrades-available-hpe-aruba-networking-bugs)
 - [Transport, Logistics Orgs Hit by Stealthy Phishing Gambit](https://www.darkreading.com/threat-intelligence/transport-logistics-stealthy-phishing)
-- [Torq Announces $70M Series C Bringing Total 2024 Funding to $112M](https://www.darkreading.com/cybersecurity-operations/torq-announces-70m-series-c)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
