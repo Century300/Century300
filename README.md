@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Should CISOs Navigate the SEC Cybersecurity and Disclosure Rules?](https://www.darkreading.com/cyber-risk/how-to-navigate-sec-cybersecurity-disclosure-rules)
+- [Novel Exploit Chain Enables Windows UAC Bypass](https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass)
 - [Top Allies Executives &amp;amp; Boards Should Leverage During a Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/allies-executives-boards-leverage-during-cyber-crisis)
 - [Could Security Misconfigurations Become No. 1 in OWASP Top 10?](https://www.darkreading.com/vulnerabilities-threats/could-security-misconfigurations-become-no-1-owasp-top-10)
 - [Memory-Safe Code Adoption Has Made Android Safer](https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer)
 - [Stellar Cyber Secures National &#39;Don&#39;t Click It&#39; Day](https://www.darkreading.com/cybersecurity-operations/stellar-cyber-secures-national-don-t-click-it-day)
 - [Cybersecurity Success Hinges on Full Organizational Support, New CompTIA Report Asserts](https://www.darkreading.com/cyber-risk/cybersecurity-success-hinges-on-full-organizational-support-new-comptia-report-asserts)
 - [OneTrust Automates DORA ICT Risk Management and Compliance](https://www.darkreading.com/cyber-risk/onetrust-automates-dora-ict-risk-management-and-compliance)
-- [Security Upgrades Available for 3 HPE Aruba Networking Bugs](https://www.darkreading.com/vulnerabilities-threats/security-upgrades-available-hpe-aruba-networking-bugs)
-- [Transport, Logistics Orgs Hit by Stealthy Phishing Gambit](https://www.darkreading.com/threat-intelligence/transport-logistics-stealthy-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
