@@ -81,9 +81,9 @@
 - [Millions of Kia Vehicles Open to Remote Hacks via License Plate](https://www.darkreading.com/endpoint-security/millions-kia-vehicles-remote-hacks-license-plate)
 - [How Should CISOs Navigate the SEC Cybersecurity and Disclosure Rules?](https://www.darkreading.com/cyber-risk/how-to-navigate-sec-cybersecurity-disclosure-rules)
 - [Novel Exploit Chain Enables Windows UAC Bypass](https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass)
+- [Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware](https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware)
 - [Top Allies for Executives &amp;amp; Boards to Leverage During a Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/allies-executives-boards-leverage-during-cyber-crisis)
 - [Could Security Misconfigurations Become No. 1 in OWASP Top 10?](https://www.darkreading.com/vulnerabilities-threats/could-security-misconfigurations-become-no-1-owasp-top-10)
-- [Memory-Safe Code Adoption Has Made Android Safer](https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
