@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
 - [Overtaxed State CISOs Struggle With Budgeting, Staffing](https://www.darkreading.com/cyber-risk/state-cisos-struggle-budgeting-staffing)
 - [DoJ Charges 3 Iranian Hackers in Political &#39;Hack &amp;amp; Leak&#39; Campaign](https://www.darkreading.com/cyberattacks-data-breaches/doj-charges-iranian-hackers-political-hack-leak-campaign)
 - [Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware](https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware)
@@ -83,7 +84,6 @@
 - [Treat Your Enterprise Data Like a Digital Nomad](https://www.darkreading.com/cybersecurity-operations/treat-enterprise-data-digital-nomad)
 - [Shadow AI, Data Exposure Plague Workplace Chatbot Use](https://www.darkreading.com/cyber-risk/shadow-ai-sensitive-data-exposure-workplace-chatbot-use)
 - [Millions of Kia Vehicles Open to Remote Hacks via License Plate](https://www.darkreading.com/endpoint-security/millions-kia-vehicles-remote-hacks-license-plate)
-- [How Should CISOs Navigate the SEC Cybersecurity and Disclosure Rules?](https://www.darkreading.com/cyber-risk/how-to-navigate-sec-cybersecurity-disclosure-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
