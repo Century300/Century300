@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Shadow AI, Sensitive Data Exposure &amp;amp; More Plague Workplace Chatbot Use](https://www.darkreading.com/cyber-risk/shadow-ai-sensitive-data-exposure-workplace-chatbot-use)
 - [Millions of Kia Vehicles Open to Remote Hacks via License Plate](https://www.darkreading.com/endpoint-security/millions-kia-vehicles-remote-hacks-license-plate)
 - [How Should CISOs Navigate the SEC Cybersecurity and Disclosure Rules?](https://www.darkreading.com/cyber-risk/how-to-navigate-sec-cybersecurity-disclosure-rules)
 - [Novel Exploit Chain Enables Windows UAC Bypass](https://www.darkreading.com/vulnerabilities-threats/exploit-chain-windows-uac-bypass)
@@ -83,7 +84,6 @@
 - [Could Security Misconfigurations Become No. 1 in OWASP Top 10?](https://www.darkreading.com/vulnerabilities-threats/could-security-misconfigurations-become-no-1-owasp-top-10)
 - [Memory-Safe Code Adoption Has Made Android Safer](https://www.darkreading.com/application-security/memory-safe-code-adoption-android-safer)
 - [Stellar Cyber Secures National &#39;Don&#39;t Click It&#39; Day](https://www.darkreading.com/cybersecurity-operations/stellar-cyber-secures-national-don-t-click-it-day)
-- [Cybersecurity Success Hinges on Full Organizational Support, New CompTIA Report Asserts](https://www.darkreading.com/cyber-risk/cybersecurity-success-hinges-on-full-organizational-support-new-comptia-report-asserts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
