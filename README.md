@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UAE, Saudi Arabia Become Plum Cyberattack Targets](https://www.darkreading.com/cyberattacks-data-breaches/uae-saudi-arabia-cyberattack-targets)
 - [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
 - [Overtaxed State CISOs Struggle With Budgeting, Staffing](https://www.darkreading.com/cyber-risk/state-cisos-struggle-budgeting-staffing)
 - [DoJ Charges 3 Iranian Hackers in Political &#39;Hack &amp;amp; Leak&#39; Campaign](https://www.darkreading.com/cyberattacks-data-breaches/doj-charges-iranian-hackers-political-hack-leak-campaign)
@@ -83,7 +84,6 @@
 - [Reachability Analysis Pares Down Static Security-Testing Overload](https://www.darkreading.com/application-security/reachability-analysis-static-security-testing-overload)
 - [Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware](https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware)
 - [Elaborate Deepfake Operation Takes a Meeting With US Senator](https://www.darkreading.com/cyberattacks-data-breaches/elaborate-deepfake-operation-meeting-us-senator)
-- [Treat Your Enterprise Data Like a Digital Nomad](https://www.darkreading.com/cybersecurity-operations/treat-enterprise-data-digital-nomad)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
