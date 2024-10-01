@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zimbra RCE Vuln Under Attack Needs Immediate Patching](https://www.darkreading.com/cyberattacks-data-breaches/recent-zimbra-rce-under-attack-patch-now)
+- [Kevin Mandia Joins Expel&#39;s Board of Directors](https://www.darkreading.com/cybersecurity-operations/kevin-mandia-joins-expel-s-board-of-directors)
+- [Bishop Fox Announces Cosmos Integration With ServiceNow](https://www.darkreading.com/cybersecurity-operations/bishop-fox-announces-cosmos-integration-with-servicenow)
+- [Retail &amp;amp; Hospitality ISAC Announces Pam Lindemoen As New CSO and VP](https://www.darkreading.com/cyberattacks-data-breaches/retail-hospitality-isac-announces-pam-lindemoen-as-new-cso-and-vp)
+- [Gov&#39;t, Judicial IT Systems Beset by Access Control Bugs](https://www.darkreading.com/vulnerabilities-threats/govt-judicial-it-systems-control-bugs)
+- [Darktrace Announces Formal Completion of its Acquisition by Thoma Bravo](https://www.darkreading.com/threat-intelligence/darktrace-announces-formal-completion-of-its-acquisition-by-thoma-bravo)
 - [Apono Raises $15.5M Series A Funding for AI-driven, Least Privilege Solution Set](https://www.darkreading.com/cloud-security/apono-raises-15-5m-series-a-funding-for-ai-driven-least-privilege-solution-set)
 - [Palo Alto Networks and Deloitte Expand Strategic Alliance Globally](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-deloitte-expand-strategic-alliance-globally)
-- [LockBit Associates Arrested, Evil Corp Bigwig Outed](https://www.darkreading.com/threat-intelligence/lockbit-associates-arrested-evil-corp-bigwig-outed)
-- [Cyberattackers Use HR Targets to Lay More_Eggs Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-targeting-recruiters-more_eggs-backdoor)
-- [Infrastructure vs. Runtime — Where Are Your Priorities?](https://www.darkreading.com/vulnerabilities-threats/infrastructure-vs-runtime-where-are-your-priorities)
-- [UAE, Saudi Arabia Become Plum Cyberattack Targets](https://www.darkreading.com/cyberattacks-data-breaches/uae-saudi-arabia-cyberattack-targets)
-- [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
-- [Overtaxed State CISOs Struggle With Budgeting, Staffing](https://www.darkreading.com/cyber-risk/state-cisos-struggle-budgeting-staffing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
