@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apono Raises $15.5M Series A Funding for AI-driven, Least Privilege Solution Set](https://www.darkreading.com/cloud-security/apono-raises-15-5m-series-a-funding-for-ai-driven-least-privilege-solution-set)
+- [Palo Alto Networks and Deloitte Expand Strategic Alliance Globally](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-deloitte-expand-strategic-alliance-globally)
+- [LockBit Associates Arrested, Evil Corp Bigwig Outed](https://www.darkreading.com/threat-intelligence/lockbit-associates-arrested-evil-corp-bigwig-outed)
 - [Cyberattackers Use HR Targets to Lay More_Eggs Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-targeting-recruiters-more_eggs-backdoor)
 - [Infrastructure vs. Runtime — Where Are Your Priorities?](https://www.darkreading.com/vulnerabilities-threats/infrastructure-vs-runtime-where-are-your-priorities)
 - [UAE, Saudi Arabia Become Plum Cyberattack Targets](https://www.darkreading.com/cyberattacks-data-breaches/uae-saudi-arabia-cyberattack-targets)
 - [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
 - [Overtaxed State CISOs Struggle With Budgeting, Staffing](https://www.darkreading.com/cyber-risk/state-cisos-struggle-budgeting-staffing)
-- [DoJ Charges 3 Iranian Hackers in Political &#39;Hack &amp;amp; Leak&#39; Campaign](https://www.darkreading.com/cyberattacks-data-breaches/doj-charges-iranian-hackers-political-hack-leak-campaign)
-- [FERC Outlines Supply Chain Security Rules for Power Plants](https://www.darkreading.com/cyber-risk/ferc-updates-supply-chain-security-power-plants)
-- [Reachability Analysis Pares Down Static Security-Testing Overload](https://www.darkreading.com/application-security/reachability-analysis-static-security-testing-overload)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
