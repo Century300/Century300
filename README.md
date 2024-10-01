@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Use HR Targets to Lay More_Eggs Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/attackers-targeting-recruiters-more_eggs-backdoor)
 - [Infrastructure vs. Runtime — Where Are Your Priorities?](https://www.darkreading.com/vulnerabilities-threats/infrastructure-vs-runtime-where-are-your-priorities)
 - [UAE, Saudi Arabia Become Plum Cyberattack Targets](https://www.darkreading.com/cyberattacks-data-breaches/uae-saudi-arabia-cyberattack-targets)
 - [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
@@ -83,7 +84,6 @@
 - [DoJ Charges 3 Iranian Hackers in Political &#39;Hack &amp;amp; Leak&#39; Campaign](https://www.darkreading.com/cyberattacks-data-breaches/doj-charges-iranian-hackers-political-hack-leak-campaign)
 - [FERC Outlines Supply Chain Security Rules for Power Plants](https://www.darkreading.com/cyber-risk/ferc-updates-supply-chain-security-power-plants)
 - [Reachability Analysis Pares Down Static Security-Testing Overload](https://www.darkreading.com/application-security/reachability-analysis-static-security-testing-overload)
-- [Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware](https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
