@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infrastructure vs. Runtime — Where Are Your Priorities?](https://www.darkreading.com/vulnerabilities-threats/infrastructure-vs-runtime-where-are-your-priorities)
 - [UAE, Saudi Arabia Become Plum Cyberattack Targets](https://www.darkreading.com/cyberattacks-data-breaches/uae-saudi-arabia-cyberattack-targets)
 - [Calif. Gov. Vetoes AI Safety Bill Aimed at Big Tech Players](https://www.darkreading.com/application-security/calif-gov-vetoes-ai-safety-bill)
 - [Overtaxed State CISOs Struggle With Budgeting, Staffing](https://www.darkreading.com/cyber-risk/state-cisos-struggle-budgeting-staffing)
@@ -83,7 +84,6 @@
 - [FERC Outlines Supply Chain Security Rules for Power Plants](https://www.darkreading.com/cyber-risk/ferc-updates-supply-chain-security-power-plants)
 - [Reachability Analysis Pares Down Static Security-Testing Overload](https://www.darkreading.com/application-security/reachability-analysis-static-security-testing-overload)
 - [Sloppy Entra ID Credentials Attract Hybrid Cloud Ransomware](https://www.darkreading.com/application-security/sloppy-entra-id-credentials-hybrid-cloud-ransomware)
-- [Elaborate Deepfake Operation Takes a Meeting With US Senator](https://www.darkreading.com/cyberattacks-data-breaches/elaborate-deepfake-operation-meeting-us-senator)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
