@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dragos Expands ICS Platform with New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
+- [Normalizing Security Culture: Don’t Have to Get Ready If You Stay Ready](https://www.darkreading.com/cybersecurity-operations/normalizing-security-culture-get-ready)
 - [Zimbra RCE Vuln Under Attack Needs Immediate Patching](https://www.darkreading.com/cyberattacks-data-breaches/recent-zimbra-rce-under-attack-patch-now)
 - [Kevin Mandia Joins Expel&#39;s Board of Directors](https://www.darkreading.com/cybersecurity-operations/kevin-mandia-joins-expel-s-board-of-directors)
 - [Bishop Fox Announces Cosmos Integration With ServiceNow](https://www.darkreading.com/cybersecurity-operations/bishop-fox-announces-cosmos-integration-with-servicenow)
 - [Retail &amp;amp; Hospitality ISAC Announces Pam Lindemoen As New CSO and VP](https://www.darkreading.com/cyberattacks-data-breaches/retail-hospitality-isac-announces-pam-lindemoen-as-new-cso-and-vp)
 - [Gov&#39;t, Judicial IT Systems Beset by Access Control Bugs](https://www.darkreading.com/vulnerabilities-threats/govt-judicial-it-systems-control-bugs)
 - [Darktrace Announces Formal Completion of its Acquisition by Thoma Bravo](https://www.darkreading.com/threat-intelligence/darktrace-announces-formal-completion-of-its-acquisition-by-thoma-bravo)
-- [Apono Raises $15.5M Series A Funding for AI-driven, Least Privilege Solution Set](https://www.darkreading.com/cloud-security/apono-raises-15-5m-series-a-funding-for-ai-driven-least-privilege-solution-set)
-- [Palo Alto Networks and Deloitte Expand Strategic Alliance Globally](https://www.darkreading.com/cybersecurity-operations/palo-alto-networks-and-deloitte-expand-strategic-alliance-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
