@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top 5 Myths of AI &amp;amp; Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/top-5-myths-ai-cybersecurity)
 - [Manufacturers Rank as Ransomware&#39;s Biggest Target](https://www.darkreading.com/vulnerabilities-threats/manufacturers-ransomwares-biggest-target)
 - [Dragos Expands ICS Platform With New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
 - [Normalizing Security Culture: You Don&#39;t Have to Get Ready If You Stay Ready](https://www.darkreading.com/cybersecurity-operations/normalizing-security-culture-get-ready)
@@ -83,7 +84,6 @@
 - [Kevin Mandia Joins Expel&#39;s Board of Directors](https://www.darkreading.com/cybersecurity-operations/kevin-mandia-joins-expel-s-board-of-directors)
 - [Bishop Fox Announces Cosmos Integration With ServiceNow](https://www.darkreading.com/cybersecurity-operations/bishop-fox-announces-cosmos-integration-with-servicenow)
 - [Retail &amp;amp; Hospitality ISAC Announces Pam Lindemoen As New CSO and VP](https://www.darkreading.com/cyberattacks-data-breaches/retail-hospitality-isac-announces-pam-lindemoen-as-new-cso-and-vp)
-- [Gov&#39;t, Judicial IT Systems Beset by Access Control Bugs](https://www.darkreading.com/vulnerabilities-threats/govt-judicial-it-systems-control-bugs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
