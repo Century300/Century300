@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Dragos Expands ICS Platform with New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
-- [Normalizing Security Culture: Don’t Have to Get Ready If You Stay Ready](https://www.darkreading.com/cybersecurity-operations/normalizing-security-culture-get-ready)
+- [Manufacturers Rank as Ransomware&#39;s Biggest Target](https://www.darkreading.com/vulnerabilities-threats/manufacturers-ransomwares-biggest-target)
+- [Dragos Expands ICS Platform With New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
+- [Normalizing Security Culture: You Don&#39;t Have to Get Ready If You Stay Ready](https://www.darkreading.com/cybersecurity-operations/normalizing-security-culture-get-ready)
 - [Zimbra RCE Vuln Under Attack Needs Immediate Patching](https://www.darkreading.com/cyberattacks-data-breaches/recent-zimbra-rce-under-attack-patch-now)
 - [Kevin Mandia Joins Expel&#39;s Board of Directors](https://www.darkreading.com/cybersecurity-operations/kevin-mandia-joins-expel-s-board-of-directors)
 - [Bishop Fox Announces Cosmos Integration With ServiceNow](https://www.darkreading.com/cybersecurity-operations/bishop-fox-announces-cosmos-integration-with-servicenow)
 - [Retail &amp;amp; Hospitality ISAC Announces Pam Lindemoen As New CSO and VP](https://www.darkreading.com/cyberattacks-data-breaches/retail-hospitality-isac-announces-pam-lindemoen-as-new-cso-and-vp)
 - [Gov&#39;t, Judicial IT Systems Beset by Access Control Bugs](https://www.darkreading.com/vulnerabilities-threats/govt-judicial-it-systems-control-bugs)
-- [Darktrace Announces Formal Completion of its Acquisition by Thoma Bravo](https://www.darkreading.com/threat-intelligence/darktrace-announces-formal-completion-of-its-acquisition-by-thoma-bravo)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
