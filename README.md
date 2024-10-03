@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [4 Ways to Fight AI-Based Fraud](https://www.darkreading.com/cyber-risk/4-ways-fight-ai-based-fraud)
 - [North Korea&#39;s &#39;Stonefly&#39; APT Swarms US Private Co&#39;s. for Profit](https://www.darkreading.com/vulnerabilities-threats/stonefly-apt-us-private-cos-north-korean-profit)
+- [NSA Releases 6 Principles of OT Cybersecurity](https://www.darkreading.com/ics-ot-security/nsa-releases-6-principles-ot-cybersecurity)
 - [Unix Printing Vulnerabilities Enable Easy DDoS Attacks](https://www.darkreading.com/vulnerabilities-threats/unix-printing-vulnerabilities-easy-ddos-attacks)
 - [Python-Based Malware Slithers Into Systems via Legit VS Code](https://www.darkreading.com/endpoint-security/python-malware-slithers-legit-vs-code)
 - [Top 5 Myths of AI &amp;amp; Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/top-5-myths-ai-cybersecurity)
 - [Manufacturers Rank as Ransomware&#39;s Biggest Target](https://www.darkreading.com/vulnerabilities-threats/manufacturers-ransomwares-biggest-target)
 - [Dragos Expands ICS Platform With New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
-- [Normalizing Security Culture: You Don&#39;t Have to Get Ready If You Stay Ready](https://www.darkreading.com/cybersecurity-operations/normalizing-security-culture-get-ready)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
