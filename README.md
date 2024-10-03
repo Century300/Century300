@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Backed APT Group Culling Thai Government Data](https://www.darkreading.com/cyberattacks-data-breaches/new-china-backed-apt-group-culling-thai-government-data)
 - [4 Ways to Fight AI-Based Fraud](https://www.darkreading.com/cyber-risk/4-ways-fight-ai-based-fraud)
 - [North Korea&#39;s &#39;Stonefly&#39; APT Swarms US Private Co&#39;s. for Profit](https://www.darkreading.com/vulnerabilities-threats/stonefly-apt-us-private-cos-north-korean-profit)
 - [NSA Releases 6 Principles of OT Cybersecurity](https://www.darkreading.com/ics-ot-security/nsa-releases-6-principles-ot-cybersecurity)
@@ -83,7 +84,6 @@
 - [Python-Based Malware Slithers Into Systems via Legit VS Code](https://www.darkreading.com/endpoint-security/python-malware-slithers-legit-vs-code)
 - [Top 5 Myths of AI &amp;amp; Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/top-5-myths-ai-cybersecurity)
 - [Manufacturers Rank as Ransomware&#39;s Biggest Target](https://www.darkreading.com/vulnerabilities-threats/manufacturers-ransomwares-biggest-target)
-- [Dragos Expands ICS Platform With New Acquisition](https://www.darkreading.com/endpoint-security/dragos-expands-ics-platform-acquisition)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
