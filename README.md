@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukraine-Russia Cyber Battles Tip Over Into the Real World](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-russia-cyber-battles-tip-over-into-real-world)
 - [The Future of AI Safety: California&#39;s Vetoed Bill &amp;amp; What Comes Next](https://www.darkreading.com/vulnerabilities-threats/future-ai-safety-california-vetoed-bill)
 - [Navigating the Complexities &amp;amp; Security Risks of Multicloud Management](https://www.darkreading.com/vulnerabilities-threats/navigating-complexities-security-risks-multicloud-management)
 - [What Communications Companies Need to Know Before Q-Day](https://www.darkreading.com/ics-ot-security/communications-ict-q-day)
@@ -83,7 +84,6 @@
 - [China-Backed APT Group Culling Thai Government Data](https://www.darkreading.com/cyberattacks-data-breaches/new-china-backed-apt-group-culling-thai-government-data)
 - [Near-&#39;perfctl&#39; Fileless Malware Targets Millions of Linux Servers](https://www.darkreading.com/threat-intelligence/perfctl-fileless-malware-targets-millions-linux-servers)
 - [4 Ways to Fight AI-Based Fraud](https://www.darkreading.com/cyber-risk/4-ways-fight-ai-based-fraud)
-- [North Korea&#39;s &#39;Stonefly&#39; APT Swarms US Private Co&#39;s. for Profit](https://www.darkreading.com/vulnerabilities-threats/stonefly-apt-us-private-cos-north-korean-profit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
