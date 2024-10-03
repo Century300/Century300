@@ -79,11 +79,11 @@
 - [Navigating the Complexities &amp;amp; Security Risks of Multicloud Management](https://www.darkreading.com/vulnerabilities-threats/navigating-complexities-security-risks-multicloud-management)
 - [What Communications Companies Need to Know Before Q-Day](https://www.darkreading.com/ics-ot-security/communications-ict-q-day)
 - [China-Backed APT Group Culling Thai Government Data](https://www.darkreading.com/cyberattacks-data-breaches/new-china-backed-apt-group-culling-thai-government-data)
+- [Near-&#39;perfctl&#39; Fileless Malware Targets Millions of Linux Servers](https://www.darkreading.com/threat-intelligence/perfctl-fileless-malware-targets-millions-linux-servers)
 - [4 Ways to Fight AI-Based Fraud](https://www.darkreading.com/cyber-risk/4-ways-fight-ai-based-fraud)
 - [North Korea&#39;s &#39;Stonefly&#39; APT Swarms US Private Co&#39;s. for Profit](https://www.darkreading.com/vulnerabilities-threats/stonefly-apt-us-private-cos-north-korean-profit)
 - [NSA Releases 6 Principles of OT Cybersecurity](https://www.darkreading.com/ics-ot-security/nsa-releases-6-principles-ot-cybersecurity)
 - [Unix Printing Vulnerabilities Enable Easy DDoS Attacks](https://www.darkreading.com/vulnerabilities-threats/unix-printing-vulnerabilities-easy-ddos-attacks)
-- [Python-Based Malware Slithers Into Systems via Legit VS Code](https://www.darkreading.com/endpoint-security/python-malware-slithers-legit-vs-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
