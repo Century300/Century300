@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Is Serious — but It Doesn&#39;t Have to Be Boring](https://www.darkreading.com/cybersecurity-operations/cybersecurity-serious-not-boring)
 - [Criminals Are Testing Their Ransomware Campaigns in Africa](https://www.darkreading.com/cyberattacks-data-breaches/criminals-test-ransomware-africa)
 - [DPRK&#39;s APT37 Targets Cambodia With Khmer, &#39;VeilShell&#39; Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprk-apt37-cambodia-khmer-veilshell-backdoor)
 - [Thousands of DrayTek Routers at Risk From 14 Vulnerabilities](https://www.darkreading.com/endpoint-security/thousands-draytek-routers-at-risk-14-new-vulnerabilities)
@@ -83,7 +84,6 @@
 - [Ukraine-Russia Cyber Battles Tip Over Into the Real World](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-russia-cyber-battles-tip-over-into-real-world)
 - [The Future of AI Safety: California&#39;s Vetoed Bill &amp;amp; What Comes Next](https://www.darkreading.com/vulnerabilities-threats/future-ai-safety-california-vetoed-bill)
 - [Navigating the Complexities &amp;amp; Security Risks of Multicloud Management](https://www.darkreading.com/vulnerabilities-threats/navigating-complexities-security-risks-multicloud-management)
-- [What Communications Companies Need to Know Before Q-Day](https://www.darkreading.com/ics-ot-security/communications-ict-q-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
