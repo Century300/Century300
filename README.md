@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DPRK&#39;s APT37 Targets Cambodia With Khmer, &#39;VeilShell&#39; Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/dprk-apt37-cambodia-khmer-veilshell-backdoor)
 - [Thousands of DrayTek Routers at Risk From 14 Vulnerabilities](https://www.darkreading.com/endpoint-security/thousands-draytek-routers-at-risk-14-new-vulnerabilities)
 - [CISA Adds High-Severity Ivanti Vulnerability to KEV Catalog](https://www.darkreading.com/threat-intelligence/cisa-high-severity-ivanti-vulnerability-kev-catalog)
 - [Ukraine-Russia Cyber Battles Tip Over Into the Real World](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-russia-cyber-battles-tip-over-into-real-world)
@@ -83,7 +84,6 @@
 - [Navigating the Complexities &amp;amp; Security Risks of Multicloud Management](https://www.darkreading.com/vulnerabilities-threats/navigating-complexities-security-risks-multicloud-management)
 - [What Communications Companies Need to Know Before Q-Day](https://www.darkreading.com/ics-ot-security/communications-ict-q-day)
 - [AI &#39;Nude Photo Generator&#39; Delivers Infostealers Instead of Images](https://www.darkreading.com/endpoint-security/ai-nude-photo-generator-delivers-infostealers)
-- [China-Backed APT Group Culling Thai Government Data](https://www.darkreading.com/cyberattacks-data-breaches/new-china-backed-apt-group-culling-thai-government-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
