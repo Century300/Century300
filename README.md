@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [What the White House Should Do Next for Cyber Regulation](https://www.darkreading.com/vulnerabilities-threats/what-white-house-next-cyber-regulation)
 - [Name That Edge Toon: And For My Next Trick ...](https://www.darkreading.com/cyber-risk/name-that-edge-toon-for-my-next-trick)
+- [Single HTTP Request Can Exploit 6M WordPress Sites](https://www.darkreading.com/endpoint-security/single-http-request-exploit-6m-wordpress)
 - [MITRE Launches AI Incident Sharing Initiative](https://www.darkreading.com/threat-intelligence/mitre-launches-ai-incident-sharing-initiative)
+- [Malicious Chrome Extensions Skate Past Google&#39;s Updated Security](https://www.darkreading.com/cyber-risk/malicious-chrome-extensions-past-google-updated-security)
 - [iPhone &#39;VoiceOver&#39; Feature Could Read Passwords Aloud](https://www.darkreading.com/cyber-risk/iphone-voiceover-feature-read-passwords-aloud)
 - [Insider Threat Damage Balloons as Visibility Gaps Widen](https://www.darkreading.com/threat-intelligence/insider-threat-damage-balloons-amid-evolving-cyber-environments)
 - [Microsoft, DOJ Dismantle Russian Hacker Group Star Blizzard](https://www.darkreading.com/threat-intelligence/microsoft-doj-dismantle-russian-hacker-group-star-blizzard)
-- [Cybersecurity Is Serious — but It Doesn&#39;t Have to Be Boring](https://www.darkreading.com/cybersecurity-operations/cybersecurity-serious-not-boring)
-- [Criminals Are Testing Their Ransomware Campaigns in Africa](https://www.darkreading.com/cyberattacks-data-breaches/criminals-test-ransomware-africa)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
