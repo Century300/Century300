@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ex-Uber CISO Requests a New, &#39;Fair&#39; Trial](https://www.darkreading.com/cyberattacks-data-breaches/joe-sullivan-former-uber-ciso-requests-new-fair-trial)
+- [5 CVEs in Microsoft&#39;s October Update to Patch Immediately](https://www.darkreading.com/vulnerabilities-threats/5-cves-microsofts-october-2024-update-patch-now)
 - [Healthcare&#39;s Grim Cyber Prognosis Requires Security Booster](https://www.darkreading.com/threat-intelligence/healthcare-cyber-prognosis-security-booster)
 - [How Major Companies Are Honoring Cybersecurity Awareness Month](https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month)
 - [The Perils of Ignoring Cybersecurity Basics](https://www.darkreading.com/cybersecurity-operations/perils-ignoring-cybersecurity-101)
 - [Your IT Systems Are Being Attacked. Are You Prepared?](https://www.darkreading.com/cyberattacks-data-breaches/it-systems-being-attacked-prepared)
 - [American Water Suffers Network Disruptions After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/american-water-network-disruptions-cyberattack)
 - [Mideast, Turkey Cyber Threats Spike, Prompting Defense Changes](https://www.darkreading.com/cyber-risk/mideast-turkey-cyber-threats-spike-defense-changes)
-- [GorillaBot Goes Ape With 300K Cyberattacks Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/gorillabot-goes-ape-cyberattacks-worldwide)
-- [Salt Typhoon APT Subverts Law Enforcement Wiretapping: Report](https://www.darkreading.com/cyber-risk/salt-typhoon-apt-subverts-law-enforcement-wiretapping)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
