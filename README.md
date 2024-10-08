@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mideast, Turkey Cyber Threats Spike, Prompting Defense Changes](https://www.darkreading.com/cyber-risk/mideast-turkey-cyber-threats-spike-defense-changes)
 - [GorillaBot Goes Ape With 300K Cyberattacks Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/gorillabot-goes-ape-cyberattacks-worldwide)
 - [Salt Typhoon APT Subverts Law Enforcement Wiretapping: Report](https://www.darkreading.com/cyber-risk/salt-typhoon-apt-subverts-law-enforcement-wiretapping)
 - [CISO Paychecks: Worth the Growing Security Headaches?](https://www.darkreading.com/cyber-risk/ciso-paychecks-worth-growing-security-headaches)
@@ -83,7 +84,6 @@
 - [What the White House Should Do Next for Cyber Regulation](https://www.darkreading.com/vulnerabilities-threats/what-white-house-next-cyber-regulation)
 - [Name That Edge Toon: And For My Next Trick ...](https://www.darkreading.com/cyber-risk/name-that-edge-toon-for-my-next-trick)
 - [Single HTTP Request Can Exploit 6M WordPress Sites](https://www.darkreading.com/endpoint-security/single-http-request-exploit-6m-wordpress)
-- [MITRE Launches AI Incident Sharing Initiative](https://www.darkreading.com/threat-intelligence/mitre-launches-ai-incident-sharing-initiative)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
