@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [How Major Companies Are Honoring Cybersecurity Awareness Month](https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month)
+- [The Perils of Ignoring Cybersecurity Basics](https://www.darkreading.com/cybersecurity-operations/perils-ignoring-cybersecurity-101)
 - [Your IT Systems Are Being Attacked. Are You Prepared?](https://www.darkreading.com/cyberattacks-data-breaches/it-systems-being-attacked-prepared)
 - [American Water Suffers Network Disruptions After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/american-water-network-disruptions-cyberattack)
 - [Mideast, Turkey Cyber Threats Spike, Prompting Defense Changes](https://www.darkreading.com/cyber-risk/mideast-turkey-cyber-threats-spike-defense-changes)
 - [GorillaBot Goes Ape With 300K Cyberattacks Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/gorillabot-goes-ape-cyberattacks-worldwide)
 - [Salt Typhoon APT Subverts Law Enforcement Wiretapping: Report](https://www.darkreading.com/cyber-risk/salt-typhoon-apt-subverts-law-enforcement-wiretapping)
 - [CISO Paychecks: Worth the Growing Security Headaches?](https://www.darkreading.com/cyber-risk/ciso-paychecks-worth-growing-security-headaches)
-- [Malicious Chrome Extensions Skate Past Google&#39;s Updated Security](https://www.darkreading.com/cyber-risk/malicious-chrome-extensions-past-google-updated-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
