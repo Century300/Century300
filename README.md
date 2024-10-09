@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Building Cyber Resilience in SMBs ​With ​Limited Resources](https://www.darkreading.com/vulnerabilities-threats/building-cyber-resilience-smbs-limited-resources)
 - [Microsoft: Creative Abuse of Cloud Files Bolsters BEC Attacks](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-creative-abuse-cloud-files-bec-attacks)
 - [Despite Prevalence of Online Threats, Users Aren&#39;t Changing Behavior](https://www.darkreading.com/endpoint-security/despite-online-threats-users-are-not-changing-behavior)
 - [Ex-Uber CISO Requests a New, &#39;Fair&#39; Trial](https://www.darkreading.com/cyberattacks-data-breaches/joe-sullivan-former-uber-ciso-requests-new-fair-trial)
@@ -83,7 +84,6 @@
 - [Healthcare&#39;s Grim Cyber Prognosis Requires Security Booster](https://www.darkreading.com/threat-intelligence/healthcare-cyber-prognosis-security-booster)
 - [How Major Companies Are Honoring Cybersecurity Awareness Month](https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month)
 - [The Perils of Ignoring Cybersecurity Basics](https://www.darkreading.com/cybersecurity-operations/perils-ignoring-cybersecurity-101)
-- [Your IT Systems Are Being Attacked. Are You Prepared?](https://www.darkreading.com/cyberattacks-data-breaches/it-systems-being-attacked-prepared)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
