@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud, AI Talent Gaps Plague Cybersecurity Teams](https://www.darkreading.com/cloud-security/cloud-ai-talent-gaps-cybersecurity-teams)
 - [AI-Augmented Email Analysis Spots Latest Scams, Bad Content](https://www.darkreading.com/cybersecurity-operations/ai-augmented-email-analysis-spots-latest-scams)
 - [Building Cyber Resilience in SMBs ​With ​Limited Resources](https://www.darkreading.com/vulnerabilities-threats/building-cyber-resilience-smbs-limited-resources)
 - [Microsoft: Creative Abuse of Cloud Files Bolsters BEC Attacks](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-creative-abuse-cloud-files-bec-attacks)
@@ -83,7 +84,6 @@
 - [Ex-Uber CISO Requests a New, &#39;Fair&#39; Trial](https://www.darkreading.com/cyberattacks-data-breaches/joe-sullivan-former-uber-ciso-requests-new-fair-trial)
 - [5 Zero-Days in Microsoft&#39;s October Update to Patch Immediately](https://www.darkreading.com/vulnerabilities-threats/5-cves-microsofts-october-2024-update-patch-now)
 - [Healthcare&#39;s Grim Cyber Prognosis Requires Security Booster](https://www.darkreading.com/threat-intelligence/healthcare-cyber-prognosis-security-booster)
-- [How Major Companies Are Honoring Cybersecurity Awareness Month](https://www.darkreading.com/vulnerabilities-threats/major-companies-honoring-cybersecurity-awareness-month)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
