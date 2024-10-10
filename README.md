@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI-Powered Cybercrime Cartels on the Rise in Asia](https://www.darkreading.com/threat-intelligence/ai-powered-cybercrime-cartels-asia)
 - [Introducing Mayhem: ForAllSecure Unveils New Name and Company Focus](https://www.darkreading.com/application-security/introducing-mayhem-forallsecure-unveils-new-name-and-company-focus)
 - [CYRISMA Secures $7M Growth Equity Financing led by Blueprint Equity](https://www.darkreading.com/cyber-risk/cyrisma-secures-7m-growth-equity-financing-led-by-blueprint-equity)
 - [OpenGradient Raises $8.5M to Decentralize AI Infrastructure and Accelerate Secure, Open-Source AI](https://www.darkreading.com/application-security/opengradient-raises-8-5m-to-decentralize-ai-infrastructure-and-accelerate-secure-open-source-ai)
@@ -83,7 +84,6 @@
 - [90% of Successful Attacks Seen in the Wild Resulted in Leaked Sensitive Data](https://www.darkreading.com/cyberattacks-data-breaches/90-of-successful-attacks-seen-in-the-wild-resulted-in-leaked-sensitive-data)
 - [Australia Intros Its First National Cyber Legislation](https://www.darkreading.com/cybersecurity-operations/australia-intros-first-national-cyber-legislation)
 - [Mamba 2FA Cybercrime Kit Targets Microsoft 365 Users](https://www.darkreading.com/cyberattacks-data-breaches/mamba-2fa-cybercrime-kit-microsoft-365-users)
-- [3 More Ivanti Cloud Vulns Exploited in the Wild](https://www.darkreading.com/cyberattacks-data-breaches/three-more-ivanti-cloud-vulns-exploited)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
