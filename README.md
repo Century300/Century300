@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerability Prioritization &amp;amp; the Magic 8 Ball](https://www.darkreading.com/vulnerabilities-threats/vulnerability-prioritization-magic-8-ball)
+- [Microsoft: BYOD, QR Codes Lead Rampant Education Attacks](https://www.darkreading.com/threat-intelligence/byod-qr-codes-education-attacks)
 - [AI-Powered Cybercrime Cartels on the Rise in Asia](https://www.darkreading.com/threat-intelligence/ai-powered-cybercrime-cartels-asia)
 - [Introducing Mayhem: ForAllSecure Unveils New Name and Company Focus](https://www.darkreading.com/application-security/introducing-mayhem-forallsecure-unveils-new-name-and-company-focus)
 - [CYRISMA Secures $7M Growth Equity Financing led by Blueprint Equity](https://www.darkreading.com/cyber-risk/cyrisma-secures-7m-growth-equity-financing-led-by-blueprint-equity)
 - [OpenGradient Raises $8.5M to Decentralize AI Infrastructure and Accelerate Secure, Open-Source AI](https://www.darkreading.com/application-security/opengradient-raises-8-5m-to-decentralize-ai-infrastructure-and-accelerate-secure-open-source-ai)
 - [Hackers Hide Remcos RAT in GitHub Repository Comments](https://www.darkreading.com/vulnerabilities-threats/hackers-hide-remcos-rat-github-comments)
 - [90% of Successful Attacks Seen in the Wild Resulted in Leaked Sensitive Data](https://www.darkreading.com/cyberattacks-data-breaches/90-of-successful-attacks-seen-in-the-wild-resulted-in-leaked-sensitive-data)
-- [Australia Intros Its First National Cyber Legislation](https://www.darkreading.com/cybersecurity-operations/australia-intros-first-national-cyber-legislation)
-- [Mamba 2FA Cybercrime Kit Targets Microsoft 365 Users](https://www.darkreading.com/cyberattacks-data-breaches/mamba-2fa-cybercrime-kit-microsoft-365-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
