@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Retail CISOs Take on More Risk to Foster Innovation](https://www.darkreading.com/cybersecurity-operations/cisos-risky-retail-other-industries-follow)
 - [The Invisible Army of Non-Human Identities](https://www.darkreading.com/vulnerabilities-threats/invisible-army-non-human-identities)
+- [Retail CISOs Take on More Risk to Foster Innovation](https://www.darkreading.com/cybersecurity-operations/cisos-risky-retail-other-industries-follow)
 - [Critical Mozilla Firefox Zero-Day Allows Code Execution](https://www.darkreading.com/cyberattacks-data-breaches/critical-mozilla-firefox-zero-day-code-execution)
 - [Fidelity Notifies 77K Customers of Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/fidelity-notifies-77k-customers-data-breach)
 - [EU Plans Sanctions for Cyberattackers Acting on Behalf of Russia](https://www.darkreading.com/cyber-risk/eu-sanctions-sabotage-cyberattacks-russia)
