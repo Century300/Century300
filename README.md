@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Critical Mozilla Firefox Zero-Day Allows Code Execution](https://www.darkreading.com/cyberattacks-data-breaches/critical-mozilla-firefox-zero-day-code-execution)
 - [Fidelity Notifies 77K Customers of Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/fidelity-notifies-77k-customers-data-breach)
+- [EU Plans Sanctions for Cyberattackers Acting on Behalf of Russia](https://www.darkreading.com/cyber-risk/eu-sanctions-sabotage-cyberattacks-russia)
 - [Microsoft Previews New Windows Feature to Limit Admin Privileges](https://www.darkreading.com/endpoint-security/windows-preview-limit-administrator-privileges)
 - [Walking the Tightrope Between Innovation &amp;amp; Risk](https://www.darkreading.com/vulnerabilities-threats/walking-tightrope-innovation-risk)
 - [Vulnerability Prioritization &amp;amp; the Magic 8 Ball](https://www.darkreading.com/vulnerabilities-threats/vulnerability-prioritization-magic-8-ball)
 - [Microsoft: BYOD, QR Codes Lead Rampant Education Attacks](https://www.darkreading.com/threat-intelligence/byod-qr-codes-education-attacks)
 - [AI-Powered Cybercrime Cartels on the Rise in Asia](https://www.darkreading.com/threat-intelligence/ai-powered-cybercrime-cartels-asia)
-- [Google Launches Data-Sharing Initiative to Fight Fraud](https://www.darkreading.com/cyber-risk/google-data-sharing-initiative-fight-fraud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
