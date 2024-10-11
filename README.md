@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the Enterprise](https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise)
+- [Marriott &amp;amp; Starwood Face $52M Settlement After Security Breaches](https://www.darkreading.com/cyberattacks-data-breaches/marriot-starwood-52m-settlement-security-breaches)
+- [American Water Reconnects Its Network Taps After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/american-water-reconnects-network-taps-cyber-incident)
 - [The Invisible Army of Non-Human Identities](https://www.darkreading.com/vulnerabilities-threats/invisible-army-non-human-identities)
 - [Retail CISOs Take on More Risk to Foster Innovation](https://www.darkreading.com/cybersecurity-operations/cisos-risky-retail-other-industries-follow)
 - [Critical Mozilla Firefox Zero-Day Allows Code Execution](https://www.darkreading.com/cyberattacks-data-breaches/critical-mozilla-firefox-zero-day-code-execution)
 - [Fidelity Notifies 77K Customers of Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/fidelity-notifies-77k-customers-data-breach)
 - [EU Plans Sanctions for Cyberattackers Acting on Behalf of Russia](https://www.darkreading.com/cyber-risk/eu-sanctions-sabotage-cyberattacks-russia)
-- [Microsoft Previews New Windows Feature to Limit Admin Privileges](https://www.darkreading.com/endpoint-security/windows-preview-limit-administrator-privileges)
-- [Walking the Tightrope Between Innovation &amp;amp; Risk](https://www.darkreading.com/vulnerabilities-threats/walking-tightrope-innovation-risk)
-- [Vulnerability Prioritization &amp;amp; the Magic 8 Ball](https://www.darkreading.com/vulnerabilities-threats/vulnerability-prioritization-magic-8-ball)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
