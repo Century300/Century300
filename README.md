@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Hype Drives Demand For ML SecOps Skills](https://www.darkreading.com/cybersecurity-careers/ai-hype-drives-demand-ml-secops-skills)
 - [SOC Teams: Threat Detection Tools Are Stifling Us](https://www.darkreading.com/vulnerabilities-threats/soc-teams-threat-detection-tools-stifling)
 - [Certificate Authority Market Size to Surpass $485M by 2033](https://www.darkreading.com/application-security/certificate-authority-market-size-to-surpass-usd-485-13m-by-2033)
 - [Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the Enterprise](https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise)
@@ -83,7 +84,6 @@
 - [American Water Reconnects Its Network Taps After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/american-water-reconnects-network-taps-cyber-incident)
 - [The Invisible Army of Non-Human Identities](https://www.darkreading.com/vulnerabilities-threats/invisible-army-non-human-identities)
 - [Retail CISOs Take on More Risk to Foster Innovation](https://www.darkreading.com/cybersecurity-operations/cisos-risky-retail-other-industries-follow)
-- [Critical Mozilla Firefox Zero-Day Allows Code Execution](https://www.darkreading.com/cyberattacks-data-breaches/critical-mozilla-firefox-zero-day-code-execution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
