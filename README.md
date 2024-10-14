@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ConfusedPilot Attack Can Manipulate RAG-Based AI Systems](https://www.darkreading.com/cyberattacks-data-breaches/confusedpilot-attack-manipulate-rag-based-ai-systems)
 - [Fighting Crime With Technology: Safety First](https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first)
 - [Why Your Identity Is the Key to Modernizing Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/why-identity-key-modernizing-cybersecurity)
 - [AI Hype Drives Demand For ML SecOps Skills](https://www.darkreading.com/cybersecurity-careers/ai-hype-drives-demand-ml-secops-skills)
@@ -83,7 +84,6 @@
 - [Certificate Authority Market Size to Surpass $485M by 2033](https://www.darkreading.com/application-security/certificate-authority-market-size-to-surpass-usd-485-13m-by-2033)
 - [Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the Enterprise](https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise)
 - [Marriott &amp;amp; Starwood Face $52M Settlement After Security Breaches](https://www.darkreading.com/cyberattacks-data-breaches/marriot-starwood-52m-settlement-security-breaches)
-- [American Water Reconnects Its Network Taps After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/american-water-reconnects-network-taps-cyber-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
