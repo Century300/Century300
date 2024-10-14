@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fighting Crime With Technology: Safety First](https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first)
 - [Why Your Identity Is the Key to Modernizing Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/why-identity-key-modernizing-cybersecurity)
 - [AI Hype Drives Demand For ML SecOps Skills](https://www.darkreading.com/cybersecurity-careers/ai-hype-drives-demand-ml-secops-skills)
 - [SOC Teams: Threat Detection Tools Are Stifling Us](https://www.darkreading.com/vulnerabilities-threats/soc-teams-threat-detection-tools-stifling)
@@ -83,7 +84,6 @@
 - [Relyance AI Raises $32M Series B Funding to Safeguard AI Innovation in the Enterprise](https://www.darkreading.com/application-security/relyance-ai-raises-32m-series-b-funding-to-safeguard-ai-innovation-in-the-enterprise)
 - [Marriott &amp;amp; Starwood Face $52M Settlement After Security Breaches](https://www.darkreading.com/cyberattacks-data-breaches/marriot-starwood-52m-settlement-security-breaches)
 - [American Water Reconnects Its Network Taps After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/american-water-reconnects-network-taps-cyber-incident)
-- [The Invisible Army of Non-Human Identities](https://www.darkreading.com/vulnerabilities-threats/invisible-army-non-human-identities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
