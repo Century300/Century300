@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Southeast Asian Cybercrime Profits Fuel Shadow Economy](https://www.darkreading.com/cyber-risk/southeast-asian-cybercrime-profits-fuel-shadow-economy)
 - [Serious Adversaries Circle Ivanti CSA Zero-Day Flaws](https://www.darkreading.com/cyberattacks-data-breaches/serious-adversaries-circle-ivanti-csa-flaws)
 - [Pokémon Gaming Company Employee Info Leaked in Hack](https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack)
+- [The Lingering Beige Desktop Paradox](https://www.darkreading.com/endpoint-security/the-lingering-beige-desktop-paradox)
 - [Microsoft: Schools Grapple With Thousands of Cyberattacks Weekly](https://www.darkreading.com/cybersecurity-operations/microsoft-k-12-universities-grapple-with-thousands-attacks-weekly)
 - [ConfusedPilot Attack Can Manipulate RAG-Based AI Systems](https://www.darkreading.com/cyberattacks-data-breaches/confusedpilot-attack-manipulate-rag-based-ai-systems)
 - [Fighting Crime With Technology: Safety First](https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first)
 - [Why Your Identity Is the Key to Modernizing Cybersecurity](https://www.darkreading.com/vulnerabilities-threats/why-identity-key-modernizing-cybersecurity)
-- [AI Hype Drives Demand For ML SecOps Skills](https://www.darkreading.com/cybersecurity-careers/ai-hype-drives-demand-ml-secops-skills)
-- [SOC Teams: Threat Detection Tools Are Stifling Us](https://www.darkreading.com/vulnerabilities-threats/soc-teams-threat-detection-tools-stifling)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
