@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea Hackers Get Cash Fast in Linux Cyber Heists](https://www.darkreading.com/cyber-risk/north-korea-hackers-cash-linux-cyber-heists)
 - [Cyberattackers Unleash Flood of Potentially Disruptive Election-Related Activity](https://www.darkreading.com/cyberattacks-data-breaches/attackers-unleash-flood-potentially-disruptive-election-related-activity)
 - [LLMs Are a New Type of Insider Adversary](https://www.darkreading.com/vulnerabilities-threats/llms-are-new-type-insider-adversary)
 - [WP Engine Accuses WordPress of &#39;Forcibly&#39; Taking Over Its Plug-in](https://www.darkreading.com/application-security/wp-engine-accuses-wordpress-forcibily-taking-over-plug-in)
@@ -83,7 +84,6 @@
 - [Even Orgs With SSO Are Vulnerable to Identity-Based Attacks](https://www.darkreading.com/identity-access-management-security/even-orgs-with-sso-are-vulnerable-to-identity-based-attacks)
 - [Southeast Asian Cybercrime Profits Fuel Shadow Economy](https://www.darkreading.com/cyber-risk/southeast-asian-cybercrime-profits-fuel-shadow-economy)
 - [Serious Adversaries Circle Ivanti CSA Zero-Day Flaws](https://www.darkreading.com/cyberattacks-data-breaches/serious-adversaries-circle-ivanti-csa-flaws)
-- [Pokémon Gaming Company Employee Info Leaked in Hack](https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
