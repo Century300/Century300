@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Unleash Flood of Potentially Disruptive Election-Related Activity](https://www.darkreading.com/cyberattacks-data-breaches/attackers-unleash-flood-potentially-disruptive-election-related-activity)
+- [LLMs Are a New Type of Insider Adversary](https://www.darkreading.com/vulnerabilities-threats/llms-are-new-type-insider-adversary)
+- [WP Engine Accuses WordPress of &#39;Forcibly&#39; Taking Over Its Plug-in](https://www.darkreading.com/application-security/wp-engine-accuses-wordpress-forcibily-taking-over-plug-in)
+- [CISOs&#39; Privacy Responsibilities Keep Growing](https://www.darkreading.com/cybersecurity-operations/cisos-privacy-responsibilities-keep-growing)
 - [Even Orgs With SSO Are Vulnerable to Identity-Based Attacks](https://www.darkreading.com/identity-access-management-security/even-orgs-with-sso-are-vulnerable-to-identity-based-attacks)
 - [Southeast Asian Cybercrime Profits Fuel Shadow Economy](https://www.darkreading.com/cyber-risk/southeast-asian-cybercrime-profits-fuel-shadow-economy)
 - [Serious Adversaries Circle Ivanti CSA Zero-Day Flaws](https://www.darkreading.com/cyberattacks-data-breaches/serious-adversaries-circle-ivanti-csa-flaws)
 - [Pokémon Gaming Company Employee Info Leaked in Hack](https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack)
-- [The Lingering &#39;Beige Desktop&#39; Paradox](https://www.darkreading.com/endpoint-security/the-lingering-beige-desktop-paradox)
-- [Microsoft: Schools Grapple With Thousands of Cyberattacks Weekly](https://www.darkreading.com/cybersecurity-operations/microsoft-k-12-universities-grapple-with-thousands-attacks-weekly)
-- [ConfusedPilot Attack Can Manipulate RAG-Based AI Systems](https://www.darkreading.com/cyberattacks-data-breaches/confusedpilot-attack-manipulate-rag-based-ai-systems)
-- [Fighting Crime With Technology: Safety First](https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
