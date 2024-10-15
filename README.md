@@ -80,7 +80,7 @@
 - [Southeast Asian Cybercrime Profits Fuel Shadow Economy](https://www.darkreading.com/cyber-risk/southeast-asian-cybercrime-profits-fuel-shadow-economy)
 - [Serious Adversaries Circle Ivanti CSA Zero-Day Flaws](https://www.darkreading.com/cyberattacks-data-breaches/serious-adversaries-circle-ivanti-csa-flaws)
 - [Pokémon Gaming Company Employee Info Leaked in Hack](https://www.darkreading.com/cyberattacks-data-breaches/insider-info-pokemon-allegedly-leaked-gaming-hack)
-- [The Lingering Beige Desktop Paradox](https://www.darkreading.com/endpoint-security/the-lingering-beige-desktop-paradox)
+- [The Lingering &#39;Beige Desktop&#39; Paradox](https://www.darkreading.com/endpoint-security/the-lingering-beige-desktop-paradox)
 - [Microsoft: Schools Grapple With Thousands of Cyberattacks Weekly](https://www.darkreading.com/cybersecurity-operations/microsoft-k-12-universities-grapple-with-thousands-attacks-weekly)
 - [ConfusedPilot Attack Can Manipulate RAG-Based AI Systems](https://www.darkreading.com/cyberattacks-data-breaches/confusedpilot-attack-manipulate-rag-based-ai-systems)
 - [Fighting Crime With Technology: Safety First](https://www.darkreading.com/cloud-security/fighting-crime-with-technology-safety-first)
