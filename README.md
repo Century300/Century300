@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [North Korea Hackers Get Cash Fast in Linux Cyber Heists](https://www.darkreading.com/cyber-risk/north-korea-hackers-cash-linux-cyber-heists)
+- [FHE Consortium Pushes for Quantum-Resilient Cryptography Standards](https://www.darkreading.com/data-privacy/fhe-consortium-quantum-resilient-cryptography-standards)
 - [Cyberattackers Unleash Flood of Potentially Disruptive Election-Related Activity](https://www.darkreading.com/cyberattacks-data-breaches/attackers-unleash-flood-potentially-disruptive-election-related-activity)
 - [LLMs Are a New Type of Insider Adversary](https://www.darkreading.com/vulnerabilities-threats/llms-are-new-type-insider-adversary)
 - [WP Engine Accuses WordPress of &#39;Forcibly&#39; Taking Over Its Plug-in](https://www.darkreading.com/application-security/wp-engine-accuses-wordpress-forcibily-taking-over-plug-in)
 - [CISOs&#39; Privacy Responsibilities Keep Growing](https://www.darkreading.com/cybersecurity-operations/cisos-privacy-responsibilities-keep-growing)
 - [Even Orgs With SSO Are Vulnerable to Identity-Based Attacks](https://www.darkreading.com/identity-access-management-security/even-orgs-with-sso-are-vulnerable-to-identity-based-attacks)
 - [Southeast Asian Cybercrime Profits Fuel Shadow Economy](https://www.darkreading.com/cyber-risk/southeast-asian-cybercrime-profits-fuel-shadow-economy)
-- [Serious Adversaries Circle Ivanti CSA Zero-Day Flaws](https://www.darkreading.com/cyberattacks-data-breaches/serious-adversaries-circle-ivanti-csa-flaws)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
