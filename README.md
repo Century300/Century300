@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bad Actors Manipulate Red-Team Tools to Evade Detection](https://www.darkreading.com/endpoint-security/bad-actors-manipulate-red-team-tools-evade-detection)
+- [Hybrid Work Exposes New Vulnerabilities in Print Security](https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security)
 - [Cyber Gangs Aren&#39;t Afraid of Prosecution](https://www.darkreading.com/cyberattacks-data-breaches/cyber-gangs-aren-t-afraid-of-prosecution)
 - [What Cybersecurity Leaders Can Learn From the Game of Golf](https://www.darkreading.com/vulnerabilities-threats/what-cybersecurity-leaders-learn-golf)
 - [Sidewinder Casts Wide Geographic Net in Latest Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-wide-geographic-net-attack-spree)
 - [North Korea Hackers Get Cash Fast in Linux Cyber Heists](https://www.darkreading.com/cyber-risk/north-korea-hackers-cash-linux-cyber-heists)
 - [FHE Consortium Pushes for Quantum-Resilient Cryptography Standards](https://www.darkreading.com/data-privacy/fhe-consortium-quantum-resilient-cryptography-standards)
 - [Cyberattackers Unleash Flood of Potentially Disruptive Election-Related Activity](https://www.darkreading.com/cyberattacks-data-breaches/attackers-unleash-flood-potentially-disruptive-election-related-activity)
-- [LLMs Are a New Type of Insider Adversary](https://www.darkreading.com/vulnerabilities-threats/llms-are-new-type-insider-adversary)
-- [WP Engine Accuses WordPress of &#39;Forcibly&#39; Taking Over Its Plug-in](https://www.darkreading.com/application-security/wp-engine-accuses-wordpress-forcibily-taking-over-plug-in)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
