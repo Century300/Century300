@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran&#39;s APT34 Abuses MS Exchange to Spy on Gulf Gov&#39;ts](https://www.darkreading.com/cyberattacks-data-breaches/iran-apt34-ms-exchange-spy-gulf-govts)
 - [Chinese Researchers Tap Quantum to Break Encryption](https://www.darkreading.com/application-security/chinese-researchers-unveil-quantum-technique-to-break-encryption)
 - [71% of Hackers Believe AI Technologies Increase the Value of Hacking](https://www.darkreading.com/vulnerabilities-threats/71-of-hackers-believe-ai-technologies-increase-the-value-of-hacking)
 - [Port Raises $35M for its End-to-End Internal Developer Portal](https://www.darkreading.com/cybersecurity-operations/port-raises-35m-for-its-end-to-end-internal-developer-portal)
@@ -83,7 +84,6 @@
 - [Hybrid Work Exposes New Vulnerabilities in Print Security](https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security)
 - [Cyber Gangs Aren&#39;t Afraid of Prosecution](https://www.darkreading.com/cyberattacks-data-breaches/cyber-gangs-aren-t-afraid-of-prosecution)
 - [What Cybersecurity Leaders Can Learn From the Game of Golf](https://www.darkreading.com/vulnerabilities-threats/what-cybersecurity-leaders-learn-golf)
-- [Sidewinder Casts Wide Geographic Net in Latest Attack Spree](https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-wide-geographic-net-attack-spree)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
