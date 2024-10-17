@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is a CPO Still a CPO? The Evolving Role of Privacy Leadership](https://www.darkreading.com/cyber-risk/cpo-still-cpo-evolving-role-privacy-leadership)
 - [Iran&#39;s APT34 Abuses MS Exchange to Spy on Gulf Gov&#39;ts](https://www.darkreading.com/cyberattacks-data-breaches/iran-apt34-ms-exchange-spy-gulf-govts)
 - [Chinese Researchers Tap Quantum to Break Encryption](https://www.darkreading.com/application-security/chinese-researchers-unveil-quantum-technique-to-break-encryption)
 - [71% of Hackers Believe AI Technologies Increase the Value of Hacking](https://www.darkreading.com/vulnerabilities-threats/71-of-hackers-believe-ai-technologies-increase-the-value-of-hacking)
@@ -83,7 +84,6 @@
 - [Bad Actors Manipulate Red-Team Tools to Evade Detection](https://www.darkreading.com/endpoint-security/bad-actors-manipulate-red-team-tools-evade-detection)
 - [Hybrid Work Exposes New Vulnerabilities in Print Security](https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security)
 - [Cyber Gangs Aren&#39;t Afraid of Prosecution](https://www.darkreading.com/cyberattacks-data-breaches/cyber-gangs-aren-t-afraid-of-prosecution)
-- [What Cybersecurity Leaders Can Learn From the Game of Golf](https://www.darkreading.com/vulnerabilities-threats/what-cybersecurity-leaders-learn-golf)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
