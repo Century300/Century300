@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Internet Archive Slowly Revives After DDoS Barrage](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-slowly-revives-ddos-barrage)
 - [4 Ways to Address Zero-Days in AI/ML Security](https://www.darkreading.com/vulnerabilities-threats/4-ways-address-zero-days-ai-ml-security)
 - [Anonymous Sudan Unmasked as Leaders Face Life in Prison](https://www.darkreading.com/threat-intelligence/leader-anonymous-sudan-caught-life-prison)
 - [Is a CPO Still a CPO? The Evolving Role of Privacy Leadership](https://www.darkreading.com/cyber-risk/cpo-still-cpo-evolving-role-privacy-leadership)
@@ -83,7 +84,6 @@
 - [Chinese Researchers Tap Quantum to Break Encryption](https://www.darkreading.com/application-security/chinese-researchers-unveil-quantum-technique-to-break-encryption)
 - [71% of Hackers Believe AI Technologies Increase the Value of Hacking](https://www.darkreading.com/vulnerabilities-threats/71-of-hackers-believe-ai-technologies-increase-the-value-of-hacking)
 - [Port Raises $35M for its End-to-End Internal Developer Portal](https://www.darkreading.com/cybersecurity-operations/port-raises-35m-for-its-end-to-end-internal-developer-portal)
-- [Bad Actors Manipulate Red-Team Tools to Evade Detection](https://www.darkreading.com/endpoint-security/bad-actors-manipulate-red-team-tools-evade-detection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
