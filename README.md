@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Ways to Address Zero-Days in AI/ML Security](https://www.darkreading.com/vulnerabilities-threats/4-ways-address-zero-days-ai-ml-security)
 - [Is a CPO Still a CPO? The Evolving Role of Privacy Leadership](https://www.darkreading.com/cyber-risk/cpo-still-cpo-evolving-role-privacy-leadership)
 - [Iran&#39;s APT34 Abuses MS Exchange to Spy on Gulf Gov&#39;ts](https://www.darkreading.com/cyberattacks-data-breaches/iran-apt34-ms-exchange-spy-gulf-govts)
 - [Chinese Researchers Tap Quantum to Break Encryption](https://www.darkreading.com/application-security/chinese-researchers-unveil-quantum-technique-to-break-encryption)
@@ -83,7 +84,6 @@
 - [Port Raises $35M for its End-to-End Internal Developer Portal](https://www.darkreading.com/cybersecurity-operations/port-raises-35m-for-its-end-to-end-internal-developer-portal)
 - [Bad Actors Manipulate Red-Team Tools to Evade Detection](https://www.darkreading.com/endpoint-security/bad-actors-manipulate-red-team-tools-evade-detection)
 - [Hybrid Work Exposes New Vulnerabilities in Print Security](https://www.darkreading.com/vulnerabilities-threats/hybrid-work-vulnerabilities-print-security)
-- [Cyber Gangs Aren&#39;t Afraid of Prosecution](https://www.darkreading.com/cyberattacks-data-breaches/cyber-gangs-aren-t-afraid-of-prosecution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
