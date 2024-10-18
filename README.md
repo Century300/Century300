@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MacOS Safari &#39;HM Surf&#39; Exploit Exposes Camera, Mic, Browser Data](https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data)
 - [Time to Get Strict With DMARC](https://www.darkreading.com/cybersecurity-operations/time-get-strict-dmarc)
 - [ESET-Branded Wiper Attack Targets Israel; Firm Denies Compromise](https://www.darkreading.com/cyberattacks-data-breaches/eset-wiper-attack-targets-israel)
 - [CISOs: Throwing Cash at Tools Isn&#39;t Helping Detect Breaches](https://www.darkreading.com/cloud-security/cisos-throwing-cash-tools-detect-breaches)
@@ -83,7 +84,6 @@
 - [Supply Chain Cybersecurity Beyond Traditional Vendor Risk Management](https://www.darkreading.com/cyber-risk/supply-chain-cybersecurity-traditional-vendor-risk-management)
 - [Ex-Oracle, Google Engineers Raise $7m From Accel for Public Launch of Simplismart to Empower AI Adoption](https://www.darkreading.com/cybersecurity-operations/ex-oracle-google-engineers-raise-7m-from-accel-for-public-launch-of-simplismart-to-empower-ai-adoption)
 - [Illinois Joins CoSN&#39;s Trusted Learning Environment &lpar;TLE&rpar; State Partnership Program for Student Data Privacy](https://www.darkreading.com/cyber-risk/illinois-joins-cosn-s-trusted-learning-environment-tle-state-partnership-program-for-student-data-privacy)
-- [Swift to Launch AI-Powered Fraud Defence to Enhance Cross-Border Payments](https://www.darkreading.com/cyber-risk/swift-to-launch-ai-powered-fraud-defence-to-enhance-cross-border-payments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
