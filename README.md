@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Supply Chain Cybersecurity Beyond Traditional Vendor Risk Management](https://www.darkreading.com/cyber-risk/supply-chain-cybersecurity-traditional-vendor-risk-management)
 - [Ex-Oracle, Google Engineers Raise $7m From Accel for Public Launch of Simplismart to Empower AI Adoption](https://www.darkreading.com/cybersecurity-operations/ex-oracle-google-engineers-raise-7m-from-accel-for-public-launch-of-simplismart-to-empower-ai-adoption)
 - [Illinois Joins CoSN&#39;s Trusted Learning Environment &lpar;TLE&rpar; State Partnership Program for Student Data Privacy](https://www.darkreading.com/cyber-risk/illinois-joins-cosn-s-trusted-learning-environment-tle-state-partnership-program-for-student-data-privacy)
 - [Swift to Launch AI-Powered Fraud Defence to Enhance Cross-Border Payments](https://www.darkreading.com/cyber-risk/swift-to-launch-ai-powered-fraud-defence-to-enhance-cross-border-payments)
 - [Hong Kong Crime Ring Swindles Victims Out of $46M](https://www.darkreading.com/cyberattacks-data-breaches/hong-kong-crime-ring-swindles-victims-out-of-46m)
 - [Internet Archive Slowly Revives After DDoS Barrage](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-slowly-revives-ddos-barrage)
 - [4 Ways to Address Zero-Days in AI/ML Security](https://www.darkreading.com/vulnerabilities-threats/4-ways-address-zero-days-ai-ml-security)
-- [Anonymous Sudan Unmasked as Leaders Face Life in Prison](https://www.darkreading.com/threat-intelligence/leader-anonymous-sudan-caught-life-prison)
-- [Is a CPO Still a CPO? The Evolving Role of Privacy Leadership](https://www.darkreading.com/cyber-risk/cpo-still-cpo-evolving-role-privacy-leadership)
+- [Anonymous Sudan Unmasked as Leader Faces Life in Prison](https://www.darkreading.com/threat-intelligence/leader-anonymous-sudan-caught-life-prison)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
