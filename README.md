@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unmanaged Cloud Credentials Pose Risk to Half of Orgs](https://www.darkreading.com/cloud-security/unmanaged-cloud-credentials-risk-half-orgs)
 - [Cisco Disables DevHub Access After Security Breach](https://www.darkreading.com/cloud-security/cisco-disables-access-devhub-site-security-breach)
 - [Internet Archive Gets Pummeled in Round 2 Breach](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-pummeled-round-2-breach)
 - [Anti-Bot Services Help Cybercrooks Bypass Google &#39;Red Page&#39;](https://www.darkreading.com/threat-intelligence/anti-bot-services-cybercrooks-bypass-google-red-page)
@@ -83,7 +84,6 @@
 - [DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks](https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks)
 - [EU Adopts Cyber Resilience Act to Regulate Internet of Things](https://www.darkreading.com/ics-ot-security/eu-cyber-resilience-act-regulate-internet-of-things)
 - [MacOS Safari &#39;HM Surf&#39; Exploit Exposes Camera, Mic, Browser Data](https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data)
-- [Time to Get Strict With DMARC](https://www.darkreading.com/cybersecurity-operations/time-get-strict-dmarc)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
