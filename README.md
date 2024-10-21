@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why I&#39;m Excited About the Future of Application Security](https://www.darkreading.com/application-security/excited-future-application-security)
 - [DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks](https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks)
 - [EU Adopts Cyber Resilience Act to Regulate Internet of Things](https://www.darkreading.com/ics-ot-security/eu-cyber-resilience-act-regulate-internet-of-things)
 - [MacOS Safari &#39;HM Surf&#39; Exploit Exposes Camera, Mic, Browser Data](https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data)
@@ -83,7 +84,6 @@
 - [ESET-Branded Wiper Attack Targets Israel; Firm Denies Compromise](https://www.darkreading.com/cyberattacks-data-breaches/eset-wiper-attack-targets-israel)
 - [CISOs: Throwing Cash at Tools Isn&#39;t Helping Detect Breaches](https://www.darkreading.com/cloud-security/cisos-throwing-cash-tools-detect-breaches)
 - [Vulnerabilities, AI Compete for Software Developers&#39; Attention](https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention)
-- [Supply Chain Cybersecurity Beyond Traditional Vendor Risk Management](https://www.darkreading.com/cyber-risk/supply-chain-cybersecurity-traditional-vendor-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
