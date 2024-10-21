@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Disables DevHub Access After Security Breach](https://www.darkreading.com/cloud-security/cisco-disables-access-devhub-site-security-breach)
+- [Internet Archive Gets Pummeled in Round 2 Breach](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-pummeled-round-2-breach)
 - [Anti-Bot Services Help Cybercrooks Bypass Google &#39;Red Page&#39;](https://www.darkreading.com/threat-intelligence/anti-bot-services-cybercrooks-bypass-google-red-page)
 - [Why I&#39;m Excited About the Future of Application Security](https://www.darkreading.com/application-security/excited-future-application-security)
 - [DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks](https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks)
 - [EU Adopts Cyber Resilience Act to Regulate Internet of Things](https://www.darkreading.com/ics-ot-security/eu-cyber-resilience-act-regulate-internet-of-things)
 - [MacOS Safari &#39;HM Surf&#39; Exploit Exposes Camera, Mic, Browser Data](https://www.darkreading.com/vulnerabilities-threats/macos-safari-exploit-camera-mic-browser-data)
 - [Time to Get Strict With DMARC](https://www.darkreading.com/cybersecurity-operations/time-get-strict-dmarc)
-- [ESET-Branded Wiper Attack Targets Israel; Firm Denies Compromise](https://www.darkreading.com/cyberattacks-data-breaches/eset-wiper-attack-targets-israel)
-- [CISOs: Throwing Cash at Tools Isn&#39;t Helping Detect Breaches](https://www.darkreading.com/cloud-security/cisos-throwing-cash-tools-detect-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
