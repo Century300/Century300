@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anti-Bot Services Help Cybercrooks Bypass Google &#39;Red Page&#39;](https://www.darkreading.com/threat-intelligence/anti-bot-services-cybercrooks-bypass-google-red-page)
 - [Why I&#39;m Excited About the Future of Application Security](https://www.darkreading.com/application-security/excited-future-application-security)
 - [DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks](https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks)
 - [EU Adopts Cyber Resilience Act to Regulate Internet of Things](https://www.darkreading.com/ics-ot-security/eu-cyber-resilience-act-regulate-internet-of-things)
@@ -83,7 +84,6 @@
 - [Time to Get Strict With DMARC](https://www.darkreading.com/cybersecurity-operations/time-get-strict-dmarc)
 - [ESET-Branded Wiper Attack Targets Israel; Firm Denies Compromise](https://www.darkreading.com/cyberattacks-data-breaches/eset-wiper-attack-targets-israel)
 - [CISOs: Throwing Cash at Tools Isn&#39;t Helping Detect Breaches](https://www.darkreading.com/cloud-security/cisos-throwing-cash-tools-detect-breaches)
-- [Vulnerabilities, AI Compete for Software Developers&#39; Attention](https://www.darkreading.com/application-security/vulnerabilities-ai-compete-software-developers-attention)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
