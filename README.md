@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What Today&#39;s SOC Teams Can Learn From Baseball](https://www.darkreading.com/cybersecurity-operations/what-soc-teams-can-learn-from-baseball)
 - [Name That Toon: The Big Jump](https://www.darkreading.com/remote-workforce/name-that-toon-the-big-jump)
 - [Russia-Linked Hackers Attack Japan&#39;s Govt, Ports](https://www.darkreading.com/cyberattacks-data-breaches/russia-linked-hackers-attack-japan-govt-ports)
 - [Unmanaged Cloud Credentials Pose Risk to Half of Orgs](https://www.darkreading.com/cloud-security/unmanaged-cloud-credentials-risk-half-orgs)
@@ -83,7 +84,6 @@
 - [Internet Archive Gets Pummeled in Round 2 Breach](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-pummeled-round-2-breach)
 - [Anti-Bot Services Help Cybercrooks Bypass Google &#39;Red Page&#39;](https://www.darkreading.com/threat-intelligence/anti-bot-services-cybercrooks-bypass-google-red-page)
 - [Why I&#39;m Excited About the Future of Application Security](https://www.darkreading.com/application-security/excited-future-application-security)
-- [DPRK Uses Microsoft Zero-Day in No-Click Toast Attacks](https://www.darkreading.com/vulnerabilities-threats/dprk-microsoft-zero-day-no-click-toast-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
