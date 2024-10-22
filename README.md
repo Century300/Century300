@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Samsung Zero-Day Vuln Under Active Exploit, Google Warns](https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns)
+- [Honeywell and Google Cloud to Accelerate Auto Operations With AI Agents for the Industrial Sector](https://www.darkreading.com/ics-ot-security/honeywell-and-google-cloud-to-accelerate-auto-operations-with-ai-agents-for-the-industrial-sector)
+- [OPA for Windows Vulnerability Exposes NTLM Hashes](https://www.darkreading.com/vulnerabilities-threats/opa-windows-vulnerability-exposes-ntlm-hashes)
+- [SoftwareOne Launches Cloud Competency Centre in Malaysia](https://www.darkreading.com/cloud-security/softwareone-launches-cloud-competency-centre-in-malaysia)
 - [Retail &amp;amp; Hospitality ISAC Launches Program Aimed at Securing Supply Chains](https://www.darkreading.com/cybersecurity-operations/retail-hospitality-isac-launches-program-aimed-at-securing-supply-chains)
 - [Most US Political Campaigns Lack DMARC Email Protection](https://www.darkreading.com/cyber-risk/most-us-political-campaigns-lack-dmarc-email-protection)
 - [Swarms of Fake WordPress Plug-ins Infect Sites With Infostealers](https://www.darkreading.com/endpoint-security/swarms-fake-wordpress-plug-ins-infect-sites-infostealers)
 - [Tricky CAPTCHA Caught Dropping Lumma Stealer Malware](https://www.darkreading.com/cyberattacks-data-breaches/trick-captcha-lumma-stealer-malware)
-- [What Today&#39;s SOC Teams Can Learn From Baseball](https://www.darkreading.com/cybersecurity-operations/what-soc-teams-can-learn-from-baseball)
-- [Name That Toon: The Big Jump](https://www.darkreading.com/remote-workforce/name-that-toon-the-big-jump)
-- [Russia-Linked Hackers Attack Japan&#39;s Govt, Ports](https://www.darkreading.com/cyberattacks-data-breaches/russia-linked-hackers-attack-japan-govt-ports)
-- [Unmanaged Cloud Credentials Pose Risk to Half of Orgs](https://www.darkreading.com/cloud-security/unmanaged-cloud-credentials-risk-half-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
