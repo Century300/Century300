@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Swarms of Fake WordPress Plug-ins Infect Sites With Infostealers](https://www.darkreading.com/endpoint-security/swarms-fake-wordpress-plug-ins-infect-sites-infostealers)
+- [Tricky CAPTCHA Caught Dropping Lumma Stealer Malware](https://www.darkreading.com/cyberattacks-data-breaches/trick-captcha-lumma-stealer-malware)
 - [What Today&#39;s SOC Teams Can Learn From Baseball](https://www.darkreading.com/cybersecurity-operations/what-soc-teams-can-learn-from-baseball)
 - [Name That Toon: The Big Jump](https://www.darkreading.com/remote-workforce/name-that-toon-the-big-jump)
 - [Russia-Linked Hackers Attack Japan&#39;s Govt, Ports](https://www.darkreading.com/cyberattacks-data-breaches/russia-linked-hackers-attack-japan-govt-ports)
 - [Unmanaged Cloud Credentials Pose Risk to Half of Orgs](https://www.darkreading.com/cloud-security/unmanaged-cloud-credentials-risk-half-orgs)
 - [Cisco Disables DevHub Access After Security Breach](https://www.darkreading.com/cloud-security/cisco-disables-access-devhub-site-security-breach)
 - [Internet Archive Gets Pummeled in Round 2 Breach](https://www.darkreading.com/cyberattacks-data-breaches/internet-archive-pummeled-round-2-breach)
-- [Anti-Bot Services Help Cybercrooks Bypass Google &#39;Red Page&#39;](https://www.darkreading.com/threat-intelligence/anti-bot-services-cybercrooks-bypass-google-red-page)
-- [Why I&#39;m Excited About the Future of Application Security](https://www.darkreading.com/application-security/excited-future-application-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
