@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Trolls Pose as Reputable Media to Sow US Election Chaos](https://www.darkreading.com/vulnerabilities-threats/russians-pose-reputable-media-us-election-chaos)
+- [Microsoft SharePoint Vuln Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-sharepoint-vuln-active-exploit)
 - [Mobile Apps With Millions of Downloads Expose Cloud Credentials](https://www.darkreading.com/cloud-security/mobile-apps-millions-downloads-expose-cloud-credentials)
 - [The US Needs a Better Energy Grid to Win the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/us-needs-better-energy-grid-win-ai-arms-race)
 - [Bumblebee Malware Is Buzzing Back to Life](https://www.darkreading.com/threat-intelligence/bumblebee-malware-buzzing-back)
 - [Samsung Zero-Day Vuln Under Active Exploit, Google Warns](https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns)
 - [Honeywell and Google Cloud to Accelerate Auto Operations With AI Agents for the Industrial Sector](https://www.darkreading.com/ics-ot-security/honeywell-and-google-cloud-to-accelerate-auto-operations-with-ai-agents-for-the-industrial-sector)
 - [OPA for Windows Vulnerability Exposes NTLM Hashes](https://www.darkreading.com/vulnerabilities-threats/opa-windows-vulnerability-exposes-ntlm-hashes)
-- [SoftwareOne Launches Cloud Competency Centre in Malaysia](https://www.darkreading.com/cloud-security/softwareone-launches-cloud-competency-centre-in-malaysia)
-- [Retail &amp;amp; Hospitality ISAC Launches Program Aimed at Securing Supply Chains](https://www.darkreading.com/cybersecurity-operations/retail-hospitality-isac-launches-program-aimed-at-securing-supply-chains)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
