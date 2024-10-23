@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bumblebee Malware Is Buzzing Back to Life](https://www.darkreading.com/threat-intelligence/bumblebee-malware-buzzing-back)
 - [Samsung Zero-Day Vuln Under Active Exploit, Google Warns](https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns)
 - [Honeywell and Google Cloud to Accelerate Auto Operations With AI Agents for the Industrial Sector](https://www.darkreading.com/ics-ot-security/honeywell-and-google-cloud-to-accelerate-auto-operations-with-ai-agents-for-the-industrial-sector)
 - [OPA for Windows Vulnerability Exposes NTLM Hashes](https://www.darkreading.com/vulnerabilities-threats/opa-windows-vulnerability-exposes-ntlm-hashes)
 - [SoftwareOne Launches Cloud Competency Centre in Malaysia](https://www.darkreading.com/cloud-security/softwareone-launches-cloud-competency-centre-in-malaysia)
 - [Retail &amp;amp; Hospitality ISAC Launches Program Aimed at Securing Supply Chains](https://www.darkreading.com/cybersecurity-operations/retail-hospitality-isac-launches-program-aimed-at-securing-supply-chains)
-- [Breaking Barriers: Making Cybersecurity Accessible For Neurodiverse Professionals](https://www.darkreading.com/cybersecurity-careers/breaking-barriers-making-cybersecurity-accessible-for-neurodiverse-professionals)
+- [Breaking Barriers: Making Cybersecurity Accessible for Neurodiverse Professionals](https://www.darkreading.com/cybersecurity-careers/breaking-barriers-making-cybersecurity-accessible-for-neurodiverse-professionals)
 - [Most US Political Campaigns Lack DMARC Email Protection](https://www.darkreading.com/cyber-risk/most-us-political-campaigns-lack-dmarc-email-protection)
-- [Swarms of Fake WordPress Plug-ins Infect Sites With Infostealers](https://www.darkreading.com/endpoint-security/swarms-fake-wordpress-plug-ins-infect-sites-infostealers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
