@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Prometei&#39; Botnet Spreads Its Cryptojacker Worldwide](https://www.darkreading.com/threat-intelligence/prometei-botnet-cryptojacker-worldwide)
 - [Lazarus Group Exploits Chrome Zero-Day in Latest Campaign](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign)
 - [Russian Trolls Pose as Reputable Media to Sow US Election Chaos](https://www.darkreading.com/vulnerabilities-threats/russians-pose-reputable-media-us-election-chaos)
 - [Microsoft SharePoint Vuln Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-sharepoint-vuln-active-exploit)
@@ -83,7 +84,6 @@
 - [The US Needs a Better Energy Grid to Win the AI Arms Race](https://www.darkreading.com/vulnerabilities-threats/us-needs-better-energy-grid-win-ai-arms-race)
 - [Bumblebee Malware Is Buzzing Back to Life](https://www.darkreading.com/threat-intelligence/bumblebee-malware-buzzing-back)
 - [Samsung Zero-Day Vuln Under Active Exploit, Google Warns](https://www.darkreading.com/endpoint-security/samsung-zero-day-vuln-under-active-exploit-google-warns)
-- [Honeywell and Google Cloud to Accelerate Auto Operations With AI Agents for the Industrial Sector](https://www.darkreading.com/ics-ot-security/honeywell-and-google-cloud-to-accelerate-auto-operations-with-ai-agents-for-the-industrial-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
