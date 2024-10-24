@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Bug Exploited in Fortinet&#39;s Management Console](https://www.darkreading.com/vulnerabilities-threats/critical-bug-exploited-fortinet-management-console)
 - [Cisco ASA, FTD Software Under Active VPN Exploitation](https://www.darkreading.com/application-security/cisco-asa-ftd-software-active-vpn-exploitation)
 - [AI Chatbots Ditch Guardrails After &#39;Deceptive Delight&#39; Cocktail](https://www.darkreading.com/vulnerabilities-threats/ai-chatbots-ditch-guardrails-deceptive-delight-cocktail)
 - [Why Cybersecurity Acumen Matters in the C-Suite](https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-acumen-matters-c-suite)
@@ -83,7 +84,6 @@
 - [Lazarus Group Exploits Chrome Zero-Day in Latest Campaign](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign)
 - [Codasip Donates Tools to Develop Memory-Safe Chips](https://www.darkreading.com/endpoint-security/codasip-donates-tools-develop-memory-safe-chips)
 - [Russian Trolls Pose as Reputable Media to Sow US Election Chaos](https://www.darkreading.com/vulnerabilities-threats/russians-pose-reputable-media-us-election-chaos)
-- [Microsoft SharePoint Vuln Is Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/microsoft-sharepoint-vuln-active-exploit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
