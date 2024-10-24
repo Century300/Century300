@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AWS&#39;s Predictable Bucket Names Make Accounts Easier to Crack](https://www.darkreading.com/threat-intelligence/aws-cdk-default-s3-bucket-naming-pattern-lets-adversaries-waltz-into-admin-access)
+- [Grip Security Releases 2025 SaaS Security Risks Report](https://www.darkreading.com/vulnerabilities-threats/grip-security-releases-2025-saas-security-risks-report)
+- [Jake Williams Joins Hunter Strategy As VP of RND &amp;amp; Managing Director of Hunter Labs](https://www.darkreading.com/threat-intelligence/jake-williams-joins-hunter-strategy-as-vp-of-rnd-managing-director-of-hunter-labs)
+- [American Water Under Investigation for Cyberattack Potentially Affecting 14M Customers](https://www.darkreading.com/cyberattacks-data-breaches/american-water-under-investigation-for-cyberattack-potentially-affecting-14m-customers)
+- [Microsoft: Healthcare Sees 300% Surge in Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-healthcare-300-percent-surge-ransomware-attacks)
 - [Critical Bug Exploited in Fortinet&#39;s Management Console](https://www.darkreading.com/vulnerabilities-threats/critical-bug-exploited-fortinet-management-console)
 - [Cisco ASA, FTD Software Under Active VPN Exploitation](https://www.darkreading.com/application-security/cisco-asa-ftd-software-active-vpn-exploitation)
 - [AI Chatbots Ditch Guardrails After &#39;Deceptive Delight&#39; Cocktail](https://www.darkreading.com/vulnerabilities-threats/ai-chatbots-ditch-guardrails-deceptive-delight-cocktail)
-- [Why Cybersecurity Acumen Matters in the C-Suite](https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-acumen-matters-c-suite)
-- [&#39;Prometei&#39; Botnet Spreads Its Cryptojacker Worldwide](https://www.darkreading.com/threat-intelligence/prometei-botnet-cryptojacker-worldwide)
-- [Lazarus Group Exploits Chrome Zero-Day in Latest Campaign](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-exploits-chrome-zero-day-campaign)
-- [Codasip Donates Tools to Develop Memory-Safe Chips](https://www.darkreading.com/endpoint-security/codasip-donates-tools-develop-memory-safe-chips)
-- [Russian Trolls Pose as Reputable Media to Sow US Election Chaos](https://www.darkreading.com/vulnerabilities-threats/russians-pose-reputable-media-us-election-chaos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
