@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [My Journey From the Air Force to Cybersecurity](https://www.darkreading.com/cybersecurity-operations/my-journey-air-force-cybersecurity)
 - [Cybersecurity Isn&#39;t Easy When You&#39;re Trying to Be Green](https://www.darkreading.com/cyber-risk/cybersecurity-is-not-easy-when-you-are-green)
 - [Open Source LLM Tool Sniffs Out Python Zero-Days](https://www.darkreading.com/application-security/open-source-llm-tool-finds-python-zero-days)
 - [AWS&#39;s Predictable Bucket Names Make Accounts Easier to Crack](https://www.darkreading.com/threat-intelligence/aws-cdk-default-s3-bucket-naming-pattern-lets-adversaries-waltz-into-admin-access)
@@ -83,7 +84,6 @@
 - [Jake Williams Joins Hunter Strategy As VP of RND &amp;amp; Managing Director of Hunter Labs](https://www.darkreading.com/threat-intelligence/jake-williams-joins-hunter-strategy-as-vp-of-rnd-managing-director-of-hunter-labs)
 - [American Water Under Investigation for Cyberattack Potentially Affecting 14M Customers](https://www.darkreading.com/cyberattacks-data-breaches/american-water-under-investigation-for-cyberattack-potentially-affecting-14m-customers)
 - [Microsoft: Healthcare Sees 300% Surge in Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-healthcare-300-percent-surge-ransomware-attacks)
-- [Critical Bug Exploited in Fortinet&#39;s Management Console](https://www.darkreading.com/vulnerabilities-threats/critical-bug-exploited-fortinet-management-console)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
