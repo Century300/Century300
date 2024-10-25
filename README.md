@@ -82,8 +82,8 @@
 - [American Water Under Investigation for Cyberattack Potentially Affecting 14M Customers](https://www.darkreading.com/cyberattacks-data-breaches/american-water-under-investigation-for-cyberattack-potentially-affecting-14m-customers)
 - [Microsoft: Healthcare Sees 300% Surge in Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-healthcare-300-percent-surge-ransomware-attacks)
 - [Critical Bug Exploited in Fortinet&#39;s Management Console](https://www.darkreading.com/vulnerabilities-threats/critical-bug-exploited-fortinet-management-console)
+- [&#39;Shift Left&#39; Gets Pushback, Triggers Security Soul Searching](https://www.darkreading.com/application-security/shift-left-pushback-triggers-security-soul-searching)
 - [Cisco ASA, FTD Software Under Active VPN Exploitation](https://www.darkreading.com/application-security/cisco-asa-ftd-software-active-vpn-exploitation)
-- [AI Chatbots Ditch Guardrails After &#39;Deceptive Delight&#39; Cocktail](https://www.darkreading.com/vulnerabilities-threats/ai-chatbots-ditch-guardrails-deceptive-delight-cocktail)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
