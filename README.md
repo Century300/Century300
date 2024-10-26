@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [LinkedIn Hit With $335M Fine for Data Privacy Violations](https://www.darkreading.com/cyber-risk/linkedin-hit-335m-fine-data-privacy-violations)
-- [Russia&#39;s APT29 Mimics AWS to Steal Windows Credentials](https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials)
+- [Russia&#39;s APT29 Mimics AWS Domains to Steal Windows Credentials](https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials)
 - [SEC Fines Companies Millions for Downplaying SolarWinds Breach](https://www.darkreading.com/cyberattacks-data-breaches/sec-fines-companies-millions-downplaying-solarwinds-breach)
 - [UnitedHealth Reveals 100M Compromised in Change Healthcare Breach](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-reveals-100m-compromised-change-healthcare-breach)
 - [My Journey From the Air Force to Cybersecurity](https://www.darkreading.com/cybersecurity-operations/my-journey-air-force-cybersecurity)
