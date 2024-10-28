@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Put End-of-Life Software to Rest](https://www.darkreading.com/vulnerabilities-threats/put-end-life-software-rest)
 - [LinkedIn Hit With $335M Fine for Data Privacy Violations](https://www.darkreading.com/cyber-risk/linkedin-hit-335m-fine-data-privacy-violations)
 - [Russia&#39;s APT29 Mimics AWS Domains to Steal Windows Credentials](https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials)
 - [SEC Fines Companies Millions for Downplaying SolarWinds Breach](https://www.darkreading.com/cyberattacks-data-breaches/sec-fines-companies-millions-downplaying-solarwinds-breach)
@@ -83,7 +84,6 @@
 - [My Journey From the Air Force to Cybersecurity](https://www.darkreading.com/cybersecurity-operations/my-journey-air-force-cybersecurity)
 - [Cybersecurity Isn&#39;t Easy When You&#39;re Trying to Be Green](https://www.darkreading.com/cyber-risk/cybersecurity-is-not-easy-when-you-are-green)
 - [Open Source LLM Tool Sniffs Out Python Zero-Days](https://www.darkreading.com/application-security/open-source-llm-tool-finds-python-zero-days)
-- [AWS&#39;s Predictable Bucket Names Make Accounts Easier to Crack](https://www.darkreading.com/threat-intelligence/aws-cdk-default-s3-bucket-naming-pattern-lets-adversaries-waltz-into-admin-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
