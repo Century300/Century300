@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Windows &#39;Downdate&#39; Attack Reverts Patched PCs to a Vulnerable State](https://www.darkreading.com/application-security/windows-downdate-attack-patched-pcs-vulnerable-state)
+- [Delta Launches $500M Lawsuit Against CrowdStrike](https://www.darkreading.com/cyberattacks-data-breaches/delta-launches-500m-lawsuit-crowdstrike)
 - [Russia Kneecaps Ukraine Army Recruitment With Spoofed &#39;Civil Defense&#39; App](https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app)
 - [Mozilla: ChatGPT Can Be Manipulated Using Hex Code](https://www.darkreading.com/application-security/chatgpt-manipulated-hex-code)
 - [Put End-of-Life Software to Rest](https://www.darkreading.com/vulnerabilities-threats/put-end-life-software-rest)
 - [LinkedIn Hit With $335M Fine for Data Privacy Violations](https://www.darkreading.com/cyber-risk/linkedin-hit-335m-fine-data-privacy-violations)
 - [Russia&#39;s APT29 Mimics AWS Domains to Steal Windows Credentials](https://www.darkreading.com/cyberattacks-data-breaches/russias-apt29-aws-windows-credentials)
 - [SEC Fines Companies Millions for Downplaying SolarWinds Breach](https://www.darkreading.com/cyberattacks-data-breaches/sec-fines-companies-millions-downplaying-solarwinds-breach)
-- [UnitedHealth Reveals 100M Compromised in Change Healthcare Breach](https://www.darkreading.com/cyberattacks-data-breaches/unitedhealth-reveals-100m-compromised-change-healthcare-breach)
-- [My Journey From the Air Force to Cybersecurity](https://www.darkreading.com/cybersecurity-operations/my-journey-air-force-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
