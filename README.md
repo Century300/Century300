@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI, Partners Disrupt RedLine, Meta Stealer Operations](https://www.darkreading.com/threat-intelligence/fbi-partners-disrupt-redline-meta-stealer-operations)
 - [How to Find the Right CISO](https://www.darkreading.com/cybersecurity-operations/how-find-right-ciso)
 - [Sophos-SecureWorks Deal Focuses on Building Advanced MDR, XDR Platform](https://www.darkreading.com/identity-access-management-security/sophos-secureworks-deal-focuses-on-building-advanced-mdr-xdr-platform)
 - [Windows &#39;Downdate&#39; Attack Reverts Patched PCs to a Vulnerable State](https://www.darkreading.com/application-security/windows-downdate-attack-patched-pcs-vulnerable-state)
@@ -83,7 +84,6 @@
 - [Delta Launches $500M Lawsuit Against CrowdStrike](https://www.darkreading.com/cyberattacks-data-breaches/delta-launches-500m-lawsuit-crowdstrike)
 - [Russia Kneecaps Ukraine Army Recruitment With Spoofed &#39;Civil Defense&#39; App](https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app)
 - [Mozilla: ChatGPT Can Be Manipulated Using Hex Code](https://www.darkreading.com/application-security/chatgpt-manipulated-hex-code)
-- [Put End-of-Life Software to Rest](https://www.darkreading.com/vulnerabilities-threats/put-end-life-software-rest)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
