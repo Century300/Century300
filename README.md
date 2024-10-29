@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s &#39;Evasive Panda&#39; APT Debuts High-End Cloud Hijacking](https://www.darkreading.com/cloud-security/china-evasive-panda-apt-cloud-hijacking)
 - [French ISP Confirms Cyberattack, Data Breach Affecting 19M](https://www.darkreading.com/cyberattacks-data-breaches/french-isp-cyberattack-data-breach)
 - [FBI, Partners Disrupt RedLine, Meta Stealer Operations](https://www.darkreading.com/threat-intelligence/fbi-partners-disrupt-redline-meta-stealer-operations)
 - [How to Find the Right CISO](https://www.darkreading.com/cybersecurity-operations/how-find-right-ciso)
@@ -83,7 +84,6 @@
 - [Windows &#39;Downdate&#39; Attack Reverts Patched PCs to a Vulnerable State](https://www.darkreading.com/application-security/windows-downdate-attack-patched-pcs-vulnerable-state)
 - [China&#39;s Elite Cyber Corps Hone Skills on Virtual Battlefields](https://www.darkreading.com/threat-intelligence/china-cyber-corps-hone-skills-virtual-battlefields)
 - [Delta Launches $500M Lawsuit Against CrowdStrike](https://www.darkreading.com/cyberattacks-data-breaches/delta-launches-500m-lawsuit-crowdstrike)
-- [Russia Kneecaps Ukraine Army Recruitment With Spoofed &#39;Civil Defense&#39; App](https://www.darkreading.com/threat-intelligence/russia-kneecaps-ukraine-army-recruitment-spoofed-civil-defense-app)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
