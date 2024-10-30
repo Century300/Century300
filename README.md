@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ex-Disney Employee Charged With Hacking Menu Database](https://www.darkreading.com/cyberattacks-data-breaches/ex-disney-employee-charged-hacking-menu-database)
+- [Zenity Raises $38M Series B Funding Round to Secure Agentic AI](https://www.darkreading.com/application-security/zenity-raises-38m-series-b-funding-round-to-secure-agentic-ai)
+- [Norton Report Reveals Nearly Half of US Consumers Were Targeted by a Scam While Online Shopping](https://www.darkreading.com/cyberattacks-data-breaches/norton-report-reveals-nearly-half-of-us-consumers-were-targeted-by-a-scam-while-online-shopping)
+- [The Open Source Initiative Announces Open Source AI Definition](https://www.darkreading.com/cybersecurity-operations/the-open-source-initiative-announces-open-source-ai-definition)
+- [Business Email Compromise &lpar;BEC&rpar; Impersonation: The Weapon of Choice of Cybercriminals](https://www.darkreading.com/cloud-security/business-email-compromise-bec-impersonation-the-weapon-of-choice-of-cybercriminals)
+- [Casap Secures $8.5M in Funding](https://www.darkreading.com/cyber-risk/casap-secures-8-5m-in-funding)
 - [Cybersecurity Training Resources Often Limited to Developers](https://www.darkreading.com/endpoint-security/cybersecurity-training-resources-limited-developers)
 - [Vishing, Mishing Go Next-Level With FakeCall Android Malware](https://www.darkreading.com/cyberattacks-data-breaches/vishing-mishing-fakecall-android-malware)
-- [When Cybersecurity Tools Backfire](https://www.darkreading.com/vulnerabilities-threats/when-cybersecurity-tools-backfire)
-- [&#39;CrossBarking&#39; Attack Targets Secret APIs, Exposes Opera Browser Users](https://www.darkreading.com/vulnerabilities-threats/crossbarking-attack-secret-apis-expose-opera-browser-users)
-- [Recurring Windows Flaw Could Expose User Credentials](https://www.darkreading.com/vulnerabilities-threats/recurring-windows-flaw-could-expose-user-credentials)
-- [China&#39;s &#39;Evasive Panda&#39; APT Debuts High-End Cloud Hijacking](https://www.darkreading.com/cloud-security/china-evasive-panda-apt-cloud-hijacking)
-- [French ISP Confirms Cyberattack, Data Breach Affecting 19M](https://www.darkreading.com/cyberattacks-data-breaches/french-isp-cyberattack-data-breach)
-- [FBI, Partners Disrupt RedLine, Meta Stealer Operations](https://www.darkreading.com/threat-intelligence/fbi-partners-disrupt-redline-meta-stealer-operations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
