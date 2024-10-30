@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;CrossBarking&#39; Attack Targets Secret APIs, Exposes Opera Browser Users](https://www.darkreading.com/vulnerabilities-threats/crossbarking-attack-secret-apis-expose-opera-browser-users)
 - [Recurring Windows Flaw Could Expose User Credentials](https://www.darkreading.com/vulnerabilities-threats/recurring-windows-flaw-could-expose-user-credentials)
 - [China&#39;s &#39;Evasive Panda&#39; APT Debuts High-End Cloud Hijacking](https://www.darkreading.com/cloud-security/china-evasive-panda-apt-cloud-hijacking)
 - [French ISP Confirms Cyberattack, Data Breach Affecting 19M](https://www.darkreading.com/cyberattacks-data-breaches/french-isp-cyberattack-data-breach)
@@ -83,7 +84,6 @@
 - [How to Find the Right CISO](https://www.darkreading.com/cybersecurity-operations/how-find-right-ciso)
 - [Sophos-SecureWorks Deal Focuses on Building Advanced MDR, XDR Platform](https://www.darkreading.com/identity-access-management-security/sophos-secureworks-deal-focuses-on-building-advanced-mdr-xdr-platform)
 - [Windows &#39;Downdate&#39; Attack Reverts Patched PCs to a Vulnerable State](https://www.darkreading.com/application-security/windows-downdate-attack-patched-pcs-vulnerable-state)
-- [China&#39;s Elite Cyber Corps Hone Skills on Virtual Battlefields](https://www.darkreading.com/threat-intelligence/china-cyber-corps-hone-skills-virtual-battlefields)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
