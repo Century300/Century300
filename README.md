@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Midnight Blizzard&#39; Targets Networks With Signed RDP Files](https://www.darkreading.com/cyberattacks-data-breaches/midnight-blizzard-targets-networks-signed-rdp-files)
 - [15 Leading Technology and Service Providers Achieve SASE Certification](https://www.darkreading.com/cybersecurity-operations/15-leading-technology-and-service-providers-achieve-sase-certification)
 - [Ex-Disney Employee Charged With Hacking Menu Database](https://www.darkreading.com/cyberattacks-data-breaches/ex-disney-employee-charged-hacking-menu-database)
 - [Zenity Raises $38M Series B Funding Round to Secure Agentic AI](https://www.darkreading.com/application-security/zenity-raises-38m-series-b-funding-round-to-secure-agentic-ai)
@@ -83,7 +84,6 @@
 - [The Open Source Initiative Announces Open Source AI Definition](https://www.darkreading.com/cybersecurity-operations/the-open-source-initiative-announces-open-source-ai-definition)
 - [Business Email Compromise &lpar;BEC&rpar; Impersonation: The Weapon of Choice of Cybercriminals](https://www.darkreading.com/cloud-security/business-email-compromise-bec-impersonation-the-weapon-of-choice-of-cybercriminals)
 - [Casap Secures $8.5M in Funding](https://www.darkreading.com/cyber-risk/casap-secures-8-5m-in-funding)
-- [Cybersecurity Training Resources Often Limited to Developers](https://www.darkreading.com/endpoint-security/cybersecurity-training-resources-limited-developers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
