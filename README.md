@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Job Market Stagnates, Dissatisfaction Abounds](https://www.darkreading.com/application-security/cybersecurity-job-market-stagnates-dissatisfaction-abounds)
 - [Canada Grapples With &#39;Second-to-None&#39; PRC-Backed Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/canada-prc-backed-threat-actors)
 - [North Korea&#39;s Andariel Pivots to &#39;Play&#39; Ransomware Games](https://www.darkreading.com/endpoint-security/north-korea-andariel-play-ransomware)
 - [Noma Launches With Plans to Secure Data, AI Life Cycle](https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle)
@@ -83,7 +84,6 @@
 - [China Says Seabed Sentinels Are Spying, After Trump Taps](https://www.darkreading.com/cyberattacks-data-breaches/china-seabed-sentinels-spying-trump-taps)
 - [Regulators Combat Deepfakes With Anti-Fraud Rules](https://www.darkreading.com/data-privacy/regulators-combat-deepfakes-anti-fraud-rules)
 - [MIND Launches &#39;Intelligent&#39; DLP Platform](https://www.darkreading.com/cyberattacks-data-breaches/mind-launches-intelligent-dlp-platform)
-- [White House Outlines AI&#39;s Role in National Security](https://www.darkreading.com/cyber-risk/white-house-outlines-ai-role-national-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
