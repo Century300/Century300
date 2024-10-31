@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [White House Outlines AI&#39;s Role in National Security](https://www.darkreading.com/cyber-risk/white-house-outlines-ai-role-national-security)
 - [&#39;Midnight Blizzard&#39; Targets Networks With Signed RDP Files](https://www.darkreading.com/cyberattacks-data-breaches/midnight-blizzard-targets-networks-signed-rdp-files)
 - [15 Leading Technology and Service Providers Achieve SASE Certification](https://www.darkreading.com/cybersecurity-operations/15-leading-technology-and-service-providers-achieve-sase-certification)
 - [Ex-Disney Employee Charged With Hacking Menu Database](https://www.darkreading.com/cyberattacks-data-breaches/ex-disney-employee-charged-hacking-menu-database)
@@ -83,7 +84,6 @@
 - [Norton Report Reveals Nearly Half of US Consumers Were Targeted by a Scam While Online Shopping](https://www.darkreading.com/cyberattacks-data-breaches/norton-report-reveals-nearly-half-of-us-consumers-were-targeted-by-a-scam-while-online-shopping)
 - [The Open Source Initiative Announces Open Source AI Definition](https://www.darkreading.com/cybersecurity-operations/the-open-source-initiative-announces-open-source-ai-definition)
 - [Business Email Compromise &lpar;BEC&rpar; Impersonation: The Weapon of Choice of Cybercriminals](https://www.darkreading.com/cloud-security/business-email-compromise-bec-impersonation-the-weapon-of-choice-of-cybercriminals)
-- [Casap Secures $8.5M in Funding](https://www.darkreading.com/cyber-risk/casap-secures-8-5m-in-funding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
