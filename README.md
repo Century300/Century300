@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Noma Launches With Plans to Secure Data, AI Life Cycle](https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle)
+- [The Case Against Abandoning CrowdStrike Post-Outage](https://www.darkreading.com/vulnerabilities-threats/case-against-abandoning-crowdstrike-post-outage)
+- [China Says Seabed Sentinels Are Spying, After Trump Taps](https://www.darkreading.com/cyberattacks-data-breaches/china-seabed-sentinels-spying-trump-taps)
 - [Regulators Combat Deepfakes With Anti-Fraud Rules](https://www.darkreading.com/data-privacy/regulators-combat-deepfakes-anti-fraud-rules)
-- [MIND Launches &amp;quot;Intelligent&amp;quot; DLP Platform](https://www.darkreading.com/cyberattacks-data-breaches/mind-launches-intelligent-dlp-platform)
+- [MIND Launches &#39;Intelligent&#39; DLP Platform](https://www.darkreading.com/cyberattacks-data-breaches/mind-launches-intelligent-dlp-platform)
 - [White House Outlines AI&#39;s Role in National Security](https://www.darkreading.com/cyber-risk/white-house-outlines-ai-role-national-security)
 - [&#39;Midnight Blizzard&#39; Targets Networks With Signed RDP Files](https://www.darkreading.com/cyberattacks-data-breaches/midnight-blizzard-targets-networks-signed-rdp-files)
 - [15 Leading Technology and Service Providers Achieve SASE Certification](https://www.darkreading.com/cybersecurity-operations/15-leading-technology-and-service-providers-achieve-sase-certification)
-- [Ex-Disney Employee Charged With Hacking Menu Database](https://www.darkreading.com/cyberattacks-data-breaches/ex-disney-employee-charged-hacking-menu-database)
-- [Zenity Raises $38M Series B Funding Round to Secure Agentic AI](https://www.darkreading.com/application-security/zenity-raises-38m-series-b-funding-round-to-secure-agentic-ai)
-- [Norton Report Reveals Nearly Half of US Consumers Were Targeted by a Scam While Online Shopping](https://www.darkreading.com/cyberattacks-data-breaches/norton-report-reveals-nearly-half-of-us-consumers-were-targeted-by-a-scam-while-online-shopping)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
