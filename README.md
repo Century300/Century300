@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Auth Bugs Expose Smart Factory Gear to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack)
 - [IT Security Centralization Makes the Use of Industrial Spies More Profitable](https://www.darkreading.com/vulnerabilities-threats/it-security-centralization-industrial-spies-profitable)
 - [Developer Velocity &amp;amp; Security: Can You Get Out of the Way in Time?](https://www.darkreading.com/cybersecurity-operations/developer-velocity-security-out-the-way-time)
 - [The Overlooked Importance of Identifying Riskiest Users](https://www.darkreading.com/threat-intelligence/the-overlooked-importance-of-identifying-riskiest-users)
@@ -83,7 +84,6 @@
 - [Cybersecurity Job Market Stagnates, Dissatisfaction Abounds](https://www.darkreading.com/application-security/cybersecurity-job-market-stagnates-dissatisfaction-abounds)
 - [Canada Grapples With &#39;Second-to-None&#39; PRC-Backed Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/canada-prc-backed-threat-actors)
 - [North Korea&#39;s Andariel Pivots to &#39;Play&#39; Ransomware Games](https://www.darkreading.com/endpoint-security/north-korea-andariel-play-ransomware)
-- [Noma Launches With Plans to Secure Data, AI Life Cycle](https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
