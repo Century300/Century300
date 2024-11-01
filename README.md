@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EmeraldWhale&#39;s Massive Git Breach Highlights Config Gaps](https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps)
+- [AU10TIX Q3 2024 Global Identity Fraud Report Detects Skyrocketing Social Media Attacks](https://www.darkreading.com/cyber-risk/au10tix-q3-2024-global-identity-fraud-report-detects-skyrocketing-social-media-attacks)
+- [SOFTSWISS Expands Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/softswiss-expands-bug-bounty-program)
+- [Privacy Anxiety Pushes Microsoft Recall AI Release Again](https://www.darkreading.com/application-security/privacy-anxiety-pushes-microsoft-recall-release-again)
 - [Chinese APTs Cash In on Years of Edge Device Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-edge-device-attacks)
 - [Critical Auth Bugs Expose Smart Factory Gear to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack)
 - [IT Security Centralization Makes the Use of Industrial Spies More Profitable](https://www.darkreading.com/vulnerabilities-threats/it-security-centralization-industrial-spies-profitable)
 - [Developer Velocity &amp;amp; Security: Can You Get Out of the Way in Time?](https://www.darkreading.com/cybersecurity-operations/developer-velocity-security-out-the-way-time)
-- [The Overlooked Importance of Identifying Riskiest Users](https://www.darkreading.com/threat-intelligence/the-overlooked-importance-of-identifying-riskiest-users)
-- [Taiwanese Facebook Biz Pages Fall to Infostealer Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/facebook-businesses-targeted-infostealer-phishing-campaign)
-- [Cybersecurity Job Market Stagnates, Dissatisfaction Abounds](https://www.darkreading.com/application-security/cybersecurity-job-market-stagnates-dissatisfaction-abounds)
-- [Canada Grapples With &#39;Second-to-None&#39; PRC-Backed Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/canada-prc-backed-threat-actors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
