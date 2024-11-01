@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Overlooked Importance of Identifying Riskiest Users](https://www.darkreading.com/threat-intelligence/the-overlooked-importance-of-identifying-riskiest-users)
 - [Facebook Businesses Targeted in Infostealer Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/facebook-businesses-targeted-infostealer-phishing-campaign)
 - [Cybersecurity Job Market Stagnates, Dissatisfaction Abounds](https://www.darkreading.com/application-security/cybersecurity-job-market-stagnates-dissatisfaction-abounds)
 - [Canada Grapples With &#39;Second-to-None&#39; PRC-Backed Threat Actors](https://www.darkreading.com/cyberattacks-data-breaches/canada-prc-backed-threat-actors)
@@ -83,7 +84,6 @@
 - [Noma Launches With Plans to Secure Data, AI Life Cycle](https://www.darkreading.com/application-security/noma-launches-secure-data-ai-lifecycle)
 - [The Case Against Abandoning CrowdStrike Post-Outage](https://www.darkreading.com/vulnerabilities-threats/case-against-abandoning-crowdstrike-post-outage)
 - [China Says Seabed Sentinels Are Spying, After Trump Taps](https://www.darkreading.com/cyberattacks-data-breaches/china-seabed-sentinels-spying-trump-taps)
-- [Regulators Combat Deepfakes With Anti-Fraud Rules](https://www.darkreading.com/data-privacy/regulators-combat-deepfakes-anti-fraud-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
