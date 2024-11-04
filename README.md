@@ -80,10 +80,10 @@
 - [AU10TIX Q3 2024 Global Identity Fraud Report Detects Skyrocketing Social Media Attacks](https://www.darkreading.com/cyber-risk/au10tix-q3-2024-global-identity-fraud-report-detects-skyrocketing-social-media-attacks)
 - [SOFTSWISS Expands Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/softswiss-expands-bug-bounty-program)
 - [Privacy Anxiety Pushes Microsoft Recall AI Release Again](https://www.darkreading.com/application-security/privacy-anxiety-pushes-microsoft-recall-release-again)
+- [OWASP Releases AI Security Guidance](https://www.darkreading.com/application-security/owasp-releases-ai-security-guidance)
 - [Chinese APTs Cash In on Years of Edge Device Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-edge-device-attacks)
 - [Critical Auth Bugs Expose Smart Factory Gear to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack)
 - [IT Security Centralization Makes the Use of Industrial Spies More Profitable](https://www.darkreading.com/vulnerabilities-threats/it-security-centralization-industrial-spies-profitable)
-- [Developer Velocity &amp;amp; Security: Can You Get Out of the Way in Time?](https://www.darkreading.com/cybersecurity-operations/developer-velocity-security-out-the-way-time)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
