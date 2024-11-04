@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OWASP Beefs Up GenAI Security Guidance Amid Growing Deepfakes](https://www.darkreading.com/vulnerabilities-threats/owasp-genai-security-guidance-growing-deepfakes)
 - [Google: Big Sleep AI Agent Puts SQLite Software Bug to Bed](https://www.darkreading.com/application-security/google-big-sleep-ai-agent-sqlite-software-bug)
 - [Name That Edge Toon: Aerialist&#39;s Choice](https://www.darkreading.com/mobile-security/name-that-edge-toon-aerialist-choice)
 - [Can Automatic Updates for Critical Infrastructure Be Trusted?](https://www.darkreading.com/vulnerabilities-threats/can-automatic-updates-critical-infrastructure-be-trusted)
@@ -83,7 +84,6 @@
 - [AU10TIX Q3 2024 Global Identity Fraud Report Detects Skyrocketing Social Media Attacks](https://www.darkreading.com/cyber-risk/au10tix-q3-2024-global-identity-fraud-report-detects-skyrocketing-social-media-attacks)
 - [SOFTSWISS Expands Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/softswiss-expands-bug-bounty-program)
 - [Privacy Anxiety Pushes Microsoft Recall AI Release Again](https://www.darkreading.com/application-security/privacy-anxiety-pushes-microsoft-recall-release-again)
-- [OWASP Releases AI Security Guidance](https://www.darkreading.com/application-security/owasp-releases-ai-security-guidance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
