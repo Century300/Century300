@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [APT36 Refines Tools in Attacks on Indian Targets](https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets)
 - [Okta Fixes Auth Bypass Bug After 3-Month Lull](https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull)
 - [OWASP Beefs Up GenAI Security Guidance Amid Growing Deepfakes](https://www.darkreading.com/vulnerabilities-threats/owasp-genai-security-guidance-growing-deepfakes)
 - [Google: Big Sleep AI Agent Puts SQLite Software Bug to Bed](https://www.darkreading.com/application-security/google-big-sleep-ai-agent-sqlite-software-bug)
@@ -83,7 +84,6 @@
 - [Can Automatic Updates for Critical Infrastructure Be Trusted?](https://www.darkreading.com/vulnerabilities-threats/can-automatic-updates-critical-infrastructure-be-trusted)
 - [EmeraldWhale&#39;s Massive Git Breach Highlights Config Gaps](https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps)
 - [AU10TIX Q3 2024 Global Identity Fraud Report Detects Skyrocketing Social Media Attacks](https://www.darkreading.com/cyber-risk/au10tix-q3-2024-global-identity-fraud-report-detects-skyrocketing-social-media-attacks)
-- [SOFTSWISS Expands Bug Bounty Program](https://www.darkreading.com/cybersecurity-operations/softswiss-expands-bug-bounty-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
