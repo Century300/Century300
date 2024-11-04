@@ -82,8 +82,8 @@
 - [Privacy Anxiety Pushes Microsoft Recall AI Release Again](https://www.darkreading.com/application-security/privacy-anxiety-pushes-microsoft-recall-release-again)
 - [OWASP Releases AI Security Guidance](https://www.darkreading.com/application-security/owasp-releases-ai-security-guidance)
 - [Chinese APTs Cash In on Years of Edge Device Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-edge-device-attacks)
+- [4 Main API Security Risks Organizations Need to Address](https://www.darkreading.com/application-security/main-api-security-risks-manage)
 - [Critical Auth Bugs Expose Smart Factory Gear to Cyberattack](https://www.darkreading.com/vulnerabilities-threats/critical-auth-bugs-smart-factory-cyberattack)
-- [IT Security Centralization Makes the Use of Industrial Spies More Profitable](https://www.darkreading.com/vulnerabilities-threats/it-security-centralization-industrial-spies-profitable)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
