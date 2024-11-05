@@ -83,7 +83,7 @@
 - [On Election Day, Disinformation Worries Security Pros the Most](https://www.darkreading.com/vulnerabilities-threats/election-day-disinformation-security-pros)
 - [Iranian APT Group Targets IP Cameras, Extends Attacks Beyond Israel](https://www.darkreading.com/vulnerabilities-threats/iranian-group-targets-ip-cameras-extends-attacks-beyond-israel)
 - [APT36 Refines Tools in Attacks on Indian Targets](https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets)
-- [Okta Fixes Auth Bypass Bug After 3-Month Lull](https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull)
+- [City of Columbus Drops Case on Cyberattack Whistleblower](https://www.darkreading.com/cloud-security/city-of-columbus-drops-case-on-cyberattack-whistleblower)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
