@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iranian APT Group Targets IP Cameras, Extends Attacks Beyond Israel](https://www.darkreading.com/vulnerabilities-threats/iranian-group-targets-ip-cameras-extends-attacks-beyond-israel)
 - [APT36 Refines Tools in Attacks on Indian Targets](https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets)
 - [Okta Fixes Auth Bypass Bug After 3-Month Lull](https://www.darkreading.com/vulnerabilities-threats/okta-fixes-auth-bypass-bug-three-month-lull)
 - [Antivirus, Anti-Malware Lead Demand for AI/ML Tools](https://www.darkreading.com/cybersecurity-operations/antivirus-antimalware-demand-ai-ml-tools)
@@ -83,7 +84,6 @@
 - [Google: Big Sleep AI Agent Puts SQLite Software Bug to Bed](https://www.darkreading.com/application-security/google-big-sleep-ai-agent-sqlite-software-bug)
 - [Name That Edge Toon: Aerialist&#39;s Choice](https://www.darkreading.com/mobile-security/name-that-edge-toon-aerialist-choice)
 - [Can Automatic Updates for Critical Infrastructure Be Trusted?](https://www.darkreading.com/vulnerabilities-threats/can-automatic-updates-critical-infrastructure-be-trusted)
-- [EmeraldWhale&#39;s Massive Git Breach Highlights Config Gaps](https://www.darkreading.com/cloud-security/emeraldwhale-massive-git-breach-config-gaps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
