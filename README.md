@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Schneider Electric Clawed by &#39;Hellcat&#39; Ransomware Gang](https://www.darkreading.com/cyberattacks-data-breaches/schneider-electric-clawed-by-hellcat-ransomware-gang)
 - [Docusign API Abused in Widescale, Novel Invoice Attack](https://www.darkreading.com/cloud-security/docusign-api-abused-invoice-attack)
 - [Oh, the Humanity! How to Make Humans Part of Cybersecurity Design](https://www.darkreading.com/cybersecurity-operations/how-to-make-humans-part-of-cybersecurity-design)
 - [How to Win at Cyber by Influencing People](https://www.darkreading.com/vulnerabilities-threats/how-win-cyber-influencing-people)
@@ -83,7 +84,6 @@
 - [On Election Day, Disinformation Worries Security Pros the Most](https://www.darkreading.com/vulnerabilities-threats/election-day-disinformation-security-pros)
 - [Iranian APT Group Targets IP Cameras, Extends Attacks Beyond Israel](https://www.darkreading.com/vulnerabilities-threats/iranian-group-targets-ip-cameras-extends-attacks-beyond-israel)
 - [APT36 Refines Tools in Attacks on Indian Targets](https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets)
-- [City of Columbus Drops Case on Cyberattack Whistleblower](https://www.darkreading.com/cloud-security/city-of-columbus-drops-case-on-cyberattack-whistleblower)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
