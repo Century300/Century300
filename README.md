@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Android Botnet &#39;ToxicPanda&#39; Bashes Banks Across Europe, Latin America](https://www.darkreading.com/application-security/android-botnet-toxicpanda-bashes-banks-europe-latin-america)
 - [Schneider Electric Clawed by &#39;Hellcat&#39; Ransomware Gang](https://www.darkreading.com/cyberattacks-data-breaches/schneider-electric-clawed-by-hellcat-ransomware-gang)
 - [Docusign API Abused in Widescale, Novel Invoice Attack](https://www.darkreading.com/cloud-security/docusign-api-abused-invoice-attack)
 - [Oh, the Humanity! How to Make Humans Part of Cybersecurity Design](https://www.darkreading.com/cybersecurity-operations/how-to-make-humans-part-of-cybersecurity-design)
@@ -83,7 +84,6 @@
 - [Dark Reading Confidential: Quantum Has Landed, So Now What?](https://www.darkreading.com/cyber-risk/dark-reading-confidential-quantum)
 - [On Election Day, Disinformation Worries Security Pros the Most](https://www.darkreading.com/vulnerabilities-threats/election-day-disinformation-security-pros)
 - [Iranian APT Group Targets IP Cameras, Extends Attacks Beyond Israel](https://www.darkreading.com/vulnerabilities-threats/iranian-group-targets-ip-cameras-extends-attacks-beyond-israel)
-- [APT36 Refines Tools in Attacks on Indian Targets](https://www.darkreading.com/cyberattacks-data-breaches/apt36-refines-tools-attacks-indian-targets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
