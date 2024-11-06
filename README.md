@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake Copyright Infringement Emails Spread Rhadamanthys](https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys)
+- [Chinese Gamers Targeted in Winos4.0 Framework Scam](https://www.darkreading.com/threat-intelligence/chinese-gamers-targeted-winos40-framework-scam)
 - [German Law Could Protect Researchers Reporting Vulns](https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns)
 - [Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems](https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network)
 - [International Police Effort Obliterates Cybercrime Network](https://www.darkreading.com/cyberattacks-data-breaches/international-police-effort-obliterates-cybercrime-network)
 - [Despite Emerging Regulations, Mobile Device, IoT Security Requires More Industry Attention](https://www.darkreading.com/iot/mobile-device-iot-security-requires-more-industry-attention)
 - [Nokia: No Evidence So Far That Hackers Breached Company Data](https://www.darkreading.com/cyberattacks-data-breaches/nokia-no-evidence-so-far-hackers-breached-company-data)
 - [How to Outsmart Stealthy E-Crime and Nation-State Threats](https://www.darkreading.com/vulnerabilities-threats/how-outsmart-stealthy-ecrime-nation-state-threats)
-- [Canadian Authorities Arrest Attacker Who Stole Snowflake Data](https://www.darkreading.com/cyberattacks-data-breaches/canadian-authorities-arrest-snowflake-data-thief)
-- [Attacker Hides Malicious Activity in Emulated Linux Environment](https://www.darkreading.com/cyberattacks-data-breaches/attacker-hides-malicious-activity-emulated-linux-environment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
