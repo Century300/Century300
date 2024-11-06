@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems](https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network)
 - [Canadian Authorities Arrest Attacker Who Stole Snowflake Data](https://www.darkreading.com/cyberattacks-data-breaches/canadian-authorities-arrest-snowflake-data-thief)
 - [Attacker Hides Malicious Activity in Emulated Linux Environment](https://www.darkreading.com/cyberattacks-data-breaches/attacker-hides-malicious-activity-emulated-linux-environment)
 - [Android Botnet &#39;ToxicPanda&#39; Bashes Banks Across Europe, Latin America](https://www.darkreading.com/application-security/android-botnet-toxicpanda-bashes-banks-europe-latin-america)
@@ -83,7 +84,6 @@
 - [Docusign API Abused in Widescale, Novel Invoice Attack](https://www.darkreading.com/cloud-security/docusign-api-abused-invoice-attack)
 - [Oh, the Humanity! How to Make Humans Part of Cybersecurity Design](https://www.darkreading.com/cybersecurity-operations/how-to-make-humans-part-of-cybersecurity-design)
 - [How to Win at Cyber by Influencing People](https://www.darkreading.com/vulnerabilities-threats/how-win-cyber-influencing-people)
-- [Dark Reading Confidential: Quantum Has Landed, So Now What?](https://www.darkreading.com/cyber-risk/dark-reading-confidential-quantum)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
