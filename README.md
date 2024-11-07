@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;SteelFox&#39; Malware Blitz Infects 11K Victims With Bundle of Pain](https://www.darkreading.com/cloud-security/steelfox-malware-blitz-infects-11k)
 - [The Power of Process in Creating a Successful Security Posture](https://www.darkreading.com/cybersecurity-operations/process-in-creating-successful-security-posture)
 - [Symbiotic Security Launches Scanning Tool to Help Fix Flaws in Code](https://www.darkreading.com/application-security/symbiotic-code-security-tool-fix-flaws)
 - [Fake Copyright Infringement Emails Spread Rhadamanthys](https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys)
@@ -83,7 +84,6 @@
 - [Google Cloud to Enforce MFA on Accounts in 2025](https://www.darkreading.com/identity-access-management-security/google-cloud-enforce-mfa-2025)
 - [German Law Could Protect Researchers Reporting Vulns](https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns)
 - [Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems](https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network)
-- [International Police Effort Obliterates Cybercrime Network](https://www.darkreading.com/cyberattacks-data-breaches/international-police-effort-obliterates-cybercrime-network)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
