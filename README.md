@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Power of Process in Creating a Successful Security Posture](https://www.darkreading.com/cybersecurity-operations/process-in-creating-successful-security-posture)
 - [Symbiotic Security Launches Scanning Tool to Help Fix Flaws in Code](https://www.darkreading.com/application-security/symbiotic-code-security-tool-fix-flaws)
 - [Fake Copyright Infringement Emails Spread Rhadamanthys](https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys)
 - [Chinese Gamers Targeted in Winos4.0 Framework Scam](https://www.darkreading.com/threat-intelligence/chinese-gamers-targeted-winos40-framework-scam)
@@ -83,7 +84,6 @@
 - [German Law Could Protect Researchers Reporting Vulns](https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns)
 - [Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems](https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network)
 - [International Police Effort Obliterates Cybercrime Network](https://www.darkreading.com/cyberattacks-data-breaches/international-police-effort-obliterates-cybercrime-network)
-- [Despite Emerging Regulations, Mobile Device, IoT Security Requires More Industry Attention](https://www.darkreading.com/iot/mobile-device-iot-security-requires-more-industry-attention)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
