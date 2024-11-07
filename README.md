@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Symbiotic Security Launches Scanning Tool to Help Fix Flaws in Code](https://www.darkreading.com/application-security/symbiotic-code-security-tool-fix-flaws)
 - [Fake Copyright Infringement Emails Spread Rhadamanthys](https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys)
 - [Chinese Gamers Targeted in Winos4.0 Framework Scam](https://www.darkreading.com/threat-intelligence/chinese-gamers-targeted-winos40-framework-scam)
 - [Google Cloud to Enforce MFA on Accounts in 2025](https://www.darkreading.com/identity-access-management-security/google-cloud-enforce-mfa-2025)
@@ -83,7 +84,6 @@
 - [Attackers Breach IT-Based Networks Before Jumping to ICS/OT Systems](https://www.darkreading.com/ics-ot-security/attackers-breach-network-provider-ot-ics-network)
 - [International Police Effort Obliterates Cybercrime Network](https://www.darkreading.com/cyberattacks-data-breaches/international-police-effort-obliterates-cybercrime-network)
 - [Despite Emerging Regulations, Mobile Device, IoT Security Requires More Industry Attention](https://www.darkreading.com/iot/mobile-device-iot-security-requires-more-industry-attention)
-- [Nokia: No Evidence So Far That Hackers Breached Company Data](https://www.darkreading.com/cyberattacks-data-breaches/nokia-no-evidence-so-far-hackers-breached-company-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
