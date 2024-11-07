@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
+- [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
+- [Canadians Expected to Lose More Than $569M to Scams in 2024](https://www.darkreading.com/cyber-risk/canadians-expected-to-lose-more-than-569m-to-scams-in-2024)
+- [Canada Closes TikTok Offices, Citing National Security](https://www.darkreading.com/cyber-risk/canada-closes-tiktok-offices-national-security)
 - [Cisco Bug Could Lead to Command Injection Attacks](https://www.darkreading.com/vulnerabilities-threats/cisco-bug-command-injection-attacks)
 - [&#39;SteelFox&#39; Malware Blitz Infects 11K Victims With Bundle of Pain](https://www.darkreading.com/cloud-security/steelfox-malware-blitz-infects-11k)
 - [The Power of Process in Creating a Successful Security Posture](https://www.darkreading.com/cybersecurity-operations/process-in-creating-successful-security-posture)
 - [Symbiotic Security Launches Scanning Tool to Help Fix Flaws in Code](https://www.darkreading.com/application-security/symbiotic-code-security-tool-fix-flaws)
-- [Fake Copyright Infringement Emails Spread Rhadamanthys](https://www.darkreading.com/cyberattacks-data-breaches/fake-copyright-infringement-emails-rhadamanthys)
-- [Chinese Gamers Targeted in Winos4.0 Framework Scam](https://www.darkreading.com/threat-intelligence/chinese-gamers-targeted-winos40-framework-scam)
-- [Google Cloud to Enforce MFA on Accounts in 2025](https://www.darkreading.com/identity-access-management-security/google-cloud-enforce-mfa-2025)
-- [German Law Could Protect Researchers Reporting Vulns](https://www.darkreading.com/cybersecurity-operations/germany-law-protect-researchers-reporting-vulns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
