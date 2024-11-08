@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mystery Hackers Target Texas Oilfield Supplier in Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/mystery-hackers-texas-oilfield-supplier-ransomware-attack)
 - [Preparing for DORA Amid Technical Controls Ambiguity](https://www.darkreading.com/cyber-risk/preparing-for-dora-amidst-technical-controls-ambiguity)
 - [How Developers Drive Security Professionals Crazy](https://www.darkreading.com/cybersecurity-operations/how-developers-drive-security-professionals-crazy)
 - [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
@@ -83,7 +84,6 @@
 - [China-Backed MirrorFace Trains Sights on EU Diplomatic Corps](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-mirrorface-trains-sights-on-eu-diplomatic-corps)
 - [Canadians Expected to Lose More Than $569M to Scams in 2024](https://www.darkreading.com/cyber-risk/canadians-expected-to-lose-more-than-569m-to-scams-in-2024)
 - [Canada Closes TikTok Offices, Citing National Security](https://www.darkreading.com/cyber-risk/canada-closes-tiktok-offices-national-security)
-- [Max-Critical Cisco Bug Enables Command-Injection Attacks](https://www.darkreading.com/vulnerabilities-threats/cisco-bug-command-injection-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
