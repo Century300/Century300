@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Developers Drive Security Professionals Crazy](https://www.darkreading.com/cybersecurity-operations/how-developers-drive-security-professionals-crazy)
 - [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
 - [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
 - [China-Backed MirrorFace Trains Sights on EU Diplomatic Corps](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-mirrorface-trains-sights-on-eu-diplomatic-corps)
@@ -83,7 +84,6 @@
 - [Canada Closes TikTok Offices, Citing National Security](https://www.darkreading.com/cyber-risk/canada-closes-tiktok-offices-national-security)
 - [Cisco Bug Could Lead to Command Injection Attacks](https://www.darkreading.com/vulnerabilities-threats/cisco-bug-command-injection-attacks)
 - [&#39;SteelFox&#39; Malware Blitz Infects 11K Victims With Bundle of Pain](https://www.darkreading.com/cloud-security/steelfox-malware-blitz-infects-11k)
-- [The Power of Process in Creating a Successful Security Posture](https://www.darkreading.com/cybersecurity-operations/process-in-creating-successful-security-posture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
