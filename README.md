@@ -81,9 +81,9 @@
 - [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
 - [China-Backed MirrorFace Trains Sights on EU Diplomatic Corps](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-mirrorface-trains-sights-on-eu-diplomatic-corps)
 - [Canadians Expected to Lose More Than $569M to Scams in 2024](https://www.darkreading.com/cyber-risk/canadians-expected-to-lose-more-than-569m-to-scams-in-2024)
+- [Gootloader Cyberattackers Target Bengal-Cat Aficionados in Oz](https://www.darkreading.com/cyberattacks-data-breaches/gootloader-cyberattackers-bengal-cat-aficionados-oz)
 - [Canada Closes TikTok Offices, Citing National Security](https://www.darkreading.com/cyber-risk/canada-closes-tiktok-offices-national-security)
-- [Cisco Bug Could Lead to Command Injection Attacks](https://www.darkreading.com/vulnerabilities-threats/cisco-bug-command-injection-attacks)
-- [&#39;SteelFox&#39; Malware Blitz Infects 11K Victims With Bundle of Pain](https://www.darkreading.com/cloud-security/steelfox-malware-blitz-infects-11k)
+- [Max-Critical Cisco Bug Enables Command-Injection Attacks](https://www.darkreading.com/vulnerabilities-threats/cisco-bug-command-injection-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
