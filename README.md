@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Facebook Asks Supreme Court to Dismiss Cambridge Analytica Lawsuit](https://www.darkreading.com/application-security/facebook-supreme-court-dismiss-cambridge-analytica-lawsuit)
 - [Open Source Security Incidents Aren&#39;t Going Away](https://www.darkreading.com/vulnerabilities-threats/open-source-security-incidents-aren-t-going-away)
 - [AI &amp;amp; LLMs Show Promise in Squashing Software Bugs](https://www.darkreading.com/application-security/ai-llms-show-promise-squashing-software-bugs)
 - [6 Infotainment Bugs Allow Mazdas to Be Hacked With USBs](https://www.darkreading.com/vulnerabilities-threats/6-infotainment-bugs-mazda-usbs)
@@ -83,7 +84,6 @@
 - [Preparing for DORA Amid Technical Controls Ambiguity](https://www.darkreading.com/cyber-risk/preparing-for-dora-amidst-technical-controls-ambiguity)
 - [How Developers Drive Security Professionals Crazy](https://www.darkreading.com/cybersecurity-operations/how-developers-drive-security-professionals-crazy)
 - [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
-- [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
