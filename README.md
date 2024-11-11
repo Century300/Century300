@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Open Source Security Incidents Aren&#39;t Going Away](https://www.darkreading.com/vulnerabilities-threats/open-source-security-incidents-aren-t-going-away)
 - [AI &amp;amp; LLMs Show Promise in Squashing Software Bugs](https://www.darkreading.com/application-security/ai-llms-show-promise-squashing-software-bugs)
 - [6 Infotainment Bugs Allow Mazdas to Be Hacked With USBs](https://www.darkreading.com/vulnerabilities-threats/6-infotainment-bugs-mazda-usbs)
 - [Mystery Hackers Target Texas Oilfield Supplier in Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/mystery-hackers-texas-oilfield-supplier-ransomware-attack)
@@ -83,7 +84,6 @@
 - [How Developers Drive Security Professionals Crazy](https://www.darkreading.com/cybersecurity-operations/how-developers-drive-security-professionals-crazy)
 - [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
 - [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
-- [China-Backed MirrorFace Trains Sights on EU Diplomatic Corps](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-mirrorface-trains-sights-on-eu-diplomatic-corps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
