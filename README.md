@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI &amp;amp; LLMs Show Promise in Squashing Software Bugs](https://www.darkreading.com/application-security/ai-llms-show-promise-squashing-software-bugs)
 - [6 Infotainment Bugs Allow Mazdas to Be Hacked With USBs](https://www.darkreading.com/vulnerabilities-threats/6-infotainment-bugs-mazda-usbs)
 - [Mystery Hackers Target Texas Oilfield Supplier in Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/mystery-hackers-texas-oilfield-supplier-ransomware-attack)
 - [Preparing for DORA Amid Technical Controls Ambiguity](https://www.darkreading.com/cyber-risk/preparing-for-dora-amidst-technical-controls-ambiguity)
@@ -83,7 +84,6 @@
 - [Business Leaders Shift to Tangible AI Results, Finds New TeamViewer Study](https://www.darkreading.com/application-security/business-leaders-shift-to-tangible-ai-results-finds-new-teamviewer-study)
 - [Xiphera &amp;amp; Crypto Quantique Announce Partnership](https://www.darkreading.com/endpoint-security/xiphera-crypto-quantique-announce-partnership)
 - [China-Backed MirrorFace Trains Sights on EU Diplomatic Corps](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-mirrorface-trains-sights-on-eu-diplomatic-corps)
-- [Canadians Expected to Lose More Than $569M to Scams in 2024](https://www.darkreading.com/cyber-risk/canadians-expected-to-lose-more-than-569m-to-scams-in-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
