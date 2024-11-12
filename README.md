@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Halliburton Remains Optimistic Amid $35M Data Breach Losses](https://www.darkreading.com/cybersecurity-operations/halliburton-optimistic-35m-data-breach-losses)
 - [Revamped Remcos RAT Deployed Against Microsoft Windows Users](https://www.darkreading.com/application-security/revamped-remcos-rat-microsoft-windows-users)
+- [What Listening to My Father Taught Me About Cybersecurity](https://www.darkreading.com/cybersecurity-operations/what-listening-to-my-father-taught-me-about-cybersecurity)
 - [Flexible Structure of Zip Archives Exploited to Hide Malware Undetected](https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected)
 - [Facebook Asks Supreme Court to Dismiss Cambridge Analytica Lawsuit](https://www.darkreading.com/application-security/facebook-supreme-court-dismiss-cambridge-analytica-lawsuit)
 - [Open Source Security Incidents Aren&#39;t Going Away](https://www.darkreading.com/vulnerabilities-threats/open-source-security-incidents-aren-t-going-away)
 - [AI &amp;amp; LLMs Show Promise in Squashing Software Bugs](https://www.darkreading.com/application-security/ai-llms-show-promise-squashing-software-bugs)
 - [6 Infotainment Bugs Allow Mazdas to Be Hacked With USBs](https://www.darkreading.com/vulnerabilities-threats/6-infotainment-bugs-mazda-usbs)
-- [Mystery Hackers Target Texas Oilfield Supplier in Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/mystery-hackers-texas-oilfield-supplier-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
