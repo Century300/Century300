@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;GoIssue&#39; Cybercrime Tool Targets GitHub Developers En Masse](https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse)
+- [Citrix Issues Patches for Zero-Day Recording Manager Bugs](https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs)
 - [Citrix &#39;Recording Manager&#39; Zero-Day Bug Allows Unauthenticated RCE](https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce)
 - [The Power of the Purse: How to Ensure Security by Design](https://www.darkreading.com/vulnerabilities-threats/power-purse-ensure-security-by-design)
 - [Incident Response, Anomaly Detection Rank High on Planned ICS Security Spending](https://www.darkreading.com/ics-ot-security/incident-response-anomaly-detection-rank-high-on-planned-ics-security-spending)
 - [Halliburton Optimistic Amid $35M Data Breach Loss](https://www.darkreading.com/cybersecurity-operations/halliburton-optimistic-35m-data-breach-losses)
 - [Revamped Remcos RAT Deployed Against Microsoft Windows Users](https://www.darkreading.com/application-security/revamped-remcos-rat-microsoft-windows-users)
 - [What Listening to My Father Taught Me About Cybersecurity](https://www.darkreading.com/cybersecurity-operations/what-listening-to-my-father-taught-me-about-cybersecurity)
-- [Flexible Structure of Zip Archives Exploited to Hide Malware Undetected](https://www.darkreading.com/threat-intelligence/flexible-structure-zip-archives-exploited-hide-malware-undetected)
-- [Facebook Asks Supreme Court to Dismiss Cambridge Analytica Lawsuit](https://www.darkreading.com/application-security/facebook-supreme-court-dismiss-cambridge-analytica-lawsuit)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
