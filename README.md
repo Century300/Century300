@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CrowdStrike Spends to Boost Identity Threat Detection](https://www.darkreading.com/identity-access-management-security/crowdstrike-spends-boost-identity-threat-detection)
 - [&#39;GoIssue&#39; Cybercrime Tool Targets GitHub Developers En Masse](https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse)
 - [Citrix Issues Patches for Zero-Day Recording Manager Bugs](https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs)
 - [Citrix &#39;Recording Manager&#39; Zero-Day Bug Allows Unauthenticated RCE](https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce)
@@ -83,7 +84,6 @@
 - [Incident Response, Anomaly Detection Rank High on Planned ICS Security Spending](https://www.darkreading.com/ics-ot-security/incident-response-anomaly-detection-rank-high-on-planned-ics-security-spending)
 - [Halliburton Optimistic Amid $35M Data Breach Loss](https://www.darkreading.com/cybersecurity-operations/halliburton-optimistic-35m-data-breach-losses)
 - [Revamped Remcos RAT Deployed Against Microsoft Windows Users](https://www.darkreading.com/application-security/revamped-remcos-rat-microsoft-windows-users)
-- [What Listening to My Father Taught Me About Cybersecurity](https://www.darkreading.com/cybersecurity-operations/what-listening-to-my-father-taught-me-about-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
