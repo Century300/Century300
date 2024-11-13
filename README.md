@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Middle East Cybersecurity Efforts Catch Up After Late Start](https://www.darkreading.com/cyber-risk/middle-east-cybersecurity-efforts-catch-up)
 - [2 Zero-Day Bugs in Microsoft&#39;s Nov. Update Under Active Exploit](https://www.darkreading.com/cloud-security/2-zero-day-bugs-microsoft-nov-update-active-exploit)
 - [Amazon Employee Data Compromised in MOVEit Breach](https://www.darkreading.com/cloud-security/amazon-employee-data-compromised-moveit-breach)
 - [CrowdStrike Spends to Boost Identity Threat Detection](https://www.darkreading.com/identity-access-management-security/crowdstrike-spends-boost-identity-threat-detection)
@@ -83,7 +84,6 @@
 - [Citrix Issues Patches for Zero-Day Recording Manager Bugs](https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs)
 - [Citrix &#39;Recording Manager&#39; Zero-Day Bug Allows Unauthenticated RCE](https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce)
 - [The Power of the Purse: How to Ensure Security by Design](https://www.darkreading.com/vulnerabilities-threats/power-purse-ensure-security-by-design)
-- [Incident Response, Anomaly Detection Rank High on Planned ICS Security Spending](https://www.darkreading.com/ics-ot-security/incident-response-anomaly-detection-rank-high-on-planned-ics-security-spending)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
