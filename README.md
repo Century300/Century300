@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenText Cybersecurity Unveils 2024&#39;s Nastiest Malware](https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware)
+- [Toolkit Vastly Expands APT41&#39;s Surveillance Powers](https://www.darkreading.com/cyberattacks-data-breaches/toolkit-expands-apt41s-surveillance-powers)
+- [Lacoste First to Use AI-Powered Anti-counterfeiting Solution](https://www.darkreading.com/cybersecurity-operations/lacoste-first-to-use-new-ai-powered-anti-counterfeiting-solution)
+- [Zero-Days Win the Prize for Most Exploited Vulns](https://www.darkreading.com/cyberattacks-data-breaches/zero-days-wins-superlative-most-exploited-vulns)
+- [CISA Releases Its First Ever International Strategic Plan](https://www.darkreading.com/cybersecurity-operations/cisa-releases-its-first-ever-international-strategic-plan)
+- [20% of Industrial Manufacturers Are Using Network Security as a First Line of Defense](https://www.darkreading.com/ics-ot-security/20-of-industrial-manufacturers-are-using-network-security-as-a-first-line-of-defense)
 - [5 Ways to Save Your Organization From Cloud Security Threats](https://www.darkreading.com/cloud-security/5-ways-save-organization-cloud-security-threats)
 - [Iranian Cybercriminals Target Aerospace Workers via LinkedIn](https://www.darkreading.com/cyberattacks-data-breaches/iranian-cybercriminals-aerospace-workers-linkedin)
-- [Google AI Platform Bugs Leak Proprietary Enterprise LLMs](https://www.darkreading.com/cloud-security/google-ai-platform-bugs-proprietary-enterprise-llms)
-- [How CISOs Can Lead the Responsible AI Charge](https://www.darkreading.com/vulnerabilities-threats/how-cisos-can-lead-responsible-ai-charge)
-- [Middle East Cybersecurity Efforts Catch Up After Late Start](https://www.darkreading.com/cyber-risk/middle-east-cybersecurity-efforts-catch-up)
-- [2 Zero-Day Bugs in Microsoft&#39;s Nov. Update Under Active Exploit](https://www.darkreading.com/cloud-security/2-zero-day-bugs-microsoft-nov-update-active-exploit)
-- [Amazon Employee Data Compromised in MOVEit Breach](https://www.darkreading.com/cloud-security/amazon-employee-data-compromised-moveit-breach)
-- [New Essay Competition Explores AI&#39;s Role in Cybersecurity](https://www.darkreading.com/remote-workforce/new-essay-competition-explores-ai-role-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
