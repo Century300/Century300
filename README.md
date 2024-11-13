@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [5 Ways to Save Your Organization From Cloud Security Threats](https://www.darkreading.com/cloud-security/5-ways-save-organization-cloud-security-threats)
 - [Iranian Cybercriminals Target Aerospace Workers via LinkedIn](https://www.darkreading.com/cyberattacks-data-breaches/iranian-cybercriminals-aerospace-workers-linkedin)
 - [Google AI Platform Bugs Leak Proprietary Enterprise LLMs](https://www.darkreading.com/cloud-security/google-ai-platform-bugs-proprietary-enterprise-llms)
 - [How CISOs Can Lead the Responsible AI Charge](https://www.darkreading.com/vulnerabilities-threats/how-cisos-can-lead-responsible-ai-charge)
@@ -83,7 +84,6 @@
 - [2 Zero-Day Bugs in Microsoft&#39;s Nov. Update Under Active Exploit](https://www.darkreading.com/cloud-security/2-zero-day-bugs-microsoft-nov-update-active-exploit)
 - [Amazon Employee Data Compromised in MOVEit Breach](https://www.darkreading.com/cloud-security/amazon-employee-data-compromised-moveit-breach)
 - [New Essay Competition Explores AI&#39;s Role in Cybersecurity](https://www.darkreading.com/remote-workforce/new-essay-competition-explores-ai-role-cybersecurity)
-- [CrowdStrike Spends to Boost Identity Threat Detection](https://www.darkreading.com/identity-access-management-security/crowdstrike-spends-boost-identity-threat-detection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
