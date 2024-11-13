@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How CISOs Can Lead the Responsible AI Charge](https://www.darkreading.com/vulnerabilities-threats/how-cisos-can-lead-responsible-ai-charge)
 - [Middle East Cybersecurity Efforts Catch Up After Late Start](https://www.darkreading.com/cyber-risk/middle-east-cybersecurity-efforts-catch-up)
 - [2 Zero-Day Bugs in Microsoft&#39;s Nov. Update Under Active Exploit](https://www.darkreading.com/cloud-security/2-zero-day-bugs-microsoft-nov-update-active-exploit)
 - [Amazon Employee Data Compromised in MOVEit Breach](https://www.darkreading.com/cloud-security/amazon-employee-data-compromised-moveit-breach)
@@ -83,7 +84,6 @@
 - [CrowdStrike Spends to Boost Identity Threat Detection](https://www.darkreading.com/identity-access-management-security/crowdstrike-spends-boost-identity-threat-detection)
 - [&#39;GoIssue&#39; Cybercrime Tool Targets GitHub Developers En Masse](https://www.darkreading.com/cloud-security/goissue-cybercrime-tool-github-developers-en-masse)
 - [Citrix Issues Patches for Zero-Day Recording Manager Bugs](https://www.darkreading.com/cloud-security/citrix-patches-zero-day-recording-manager-bugs)
-- [Citrix &#39;Recording Manager&#39; Zero-Day Bug Allows Unauthenticated RCE](https://www.darkreading.com/cloud-security/citrix-recording-manager-zero-day-bug-unauthenticated-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
