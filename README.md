@@ -83,7 +83,7 @@
 - [Lacoste First to Use AI-Powered Anti-counterfeiting Solution](https://www.darkreading.com/cybersecurity-operations/lacoste-first-to-use-new-ai-powered-anti-counterfeiting-solution)
 - [Zero-Days Win the Prize for Most Exploited Vulns](https://www.darkreading.com/cyberattacks-data-breaches/zero-days-wins-superlative-most-exploited-vulns)
 - [CISA Releases Its First Ever International Strategic Plan](https://www.darkreading.com/cybersecurity-operations/cisa-releases-its-first-ever-international-strategic-plan)
-- [Trustwave-Cybereason Merger Boost MDR Portfolio](https://www.darkreading.com/endpoint-security/trustwave-cybereason-merger-boost-mdr-portfolio)
+- [Trustwave-Cybereason Merger Boosts MDR Portfolio](https://www.darkreading.com/endpoint-security/trustwave-cybereason-merger-boost-mdr-portfolio)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
