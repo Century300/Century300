@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Washington&#39;s Cybersecurity Storm of Complacency](https://www.darkreading.com/vulnerabilities-threats/washingtons-cybersecurity-storm-complacency)
 - [Microsoft Power Pages Leak Millions of Private Records](https://www.darkreading.com/cybersecurity-operations/microsoft-power-pages-millions-private-records)
 - [Hamas Hackers Spy on Mideast Gov&#39;ts, Disrupt Israel](https://www.darkreading.com/threat-intelligence/hamas-hackers-spy-mideast-govts-disrupt-israel)
 - [OpenText Cybersecurity Unveils 2024&#39;s Nastiest Malware](https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware)
@@ -83,7 +84,6 @@
 - [Lacoste First to Use AI-Powered Anti-counterfeiting Solution](https://www.darkreading.com/cybersecurity-operations/lacoste-first-to-use-new-ai-powered-anti-counterfeiting-solution)
 - [Zero-Days Win the Prize for Most Exploited Vulns](https://www.darkreading.com/cyberattacks-data-breaches/zero-days-wins-superlative-most-exploited-vulns)
 - [CISA Releases Its First Ever International Strategic Plan](https://www.darkreading.com/cybersecurity-operations/cisa-releases-its-first-ever-international-strategic-plan)
-- [Trustwave-Cybereason Merger Boosts MDR Portfolio](https://www.darkreading.com/endpoint-security/trustwave-cybereason-merger-boost-mdr-portfolio)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
