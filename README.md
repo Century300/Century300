@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Idaho Man Gets 10 Years for Hacking, Cyber Extortion](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
+- [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
+- [Idaho Man Turns to RaaS to Extort Orthodontist](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
 - [The Vendor&#39;s Role in Combating Alert Fatigue](https://www.darkreading.com/vulnerabilities-threats/vendors-role-combating-alert-fatigue)
+- [Cloud Ransomware Flexes Fresh Scripts Against Web Apps](https://www.darkreading.com/cloud-security/cloud-ransomware-scripts-web-applications)
 - [Washington&#39;s Cybersecurity Storm of Complacency](https://www.darkreading.com/vulnerabilities-threats/washingtons-cybersecurity-storm-complacency)
 - [Microsoft Power Pages Leak Millions of Private Records](https://www.darkreading.com/cybersecurity-operations/microsoft-power-pages-millions-private-records)
 - [Hamas Hackers Spy on Mideast Gov&#39;ts, Disrupt Israel](https://www.darkreading.com/threat-intelligence/hamas-hackers-spy-mideast-govts-disrupt-israel)
-- [Cloud Ransomware Flexes Fresh Scripts Against Web Apps](https://www.darkreading.com/cloud-security/cloud-ransomware-scripts-web-applications)
 - [OpenText Cybersecurity Unveils 2024&#39;s Nastiest Malware](https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware)
-- [Toolkit Vastly Expands APT41&#39;s Surveillance Powers](https://www.darkreading.com/cyberattacks-data-breaches/toolkit-expands-apt41s-surveillance-powers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
