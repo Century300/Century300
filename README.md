@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Pulls Exchange Patches Amid Mail Flow Issues](https://www.darkreading.com/cloud-security/microsoft-pulls-exchange-patches-amid-mail-flow-issues)
+- [ChatGPT Exposes Its Instructions, Knowledge &amp;amp; OS Files](https://www.darkreading.com/cloud-security/chatgpt-exposes-instructions-knowledge-os-files)
 - [Combating the Rise of Federally Aimed Malicious Intent](https://www.darkreading.com/vulnerabilities-threats/combating-rise-federally-aimed-malicious-intent)
 - [Lessons From OSC&amp;amp;R on Protecting the Software Supply Chain](https://www.darkreading.com/application-security/lessons-from-osc-r-on-protecting-the-software-supply-chain)
 - [Trump 2.0 May Mean Fewer Cybersecurity Regs, Shift in Threats](https://www.darkreading.com/cloud-security/trump-20-mean-cybersecurity-regs-shift-threats)
 - [TSA Proposes Cyber-Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
 - [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
 - [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
-- [Idaho Man Turns to RaaS to Extort Orthodontist](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
-- [The Vendor&#39;s Role in Combating Alert Fatigue](https://www.darkreading.com/vulnerabilities-threats/vendors-role-combating-alert-fatigue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
