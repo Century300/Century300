@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Trump 2.0 May Mean Fewer Cybersecurity Regs, Shift in Threats](https://www.darkreading.com/cloud-security/trump-20-mean-cybersecurity-regs-shift-threats)
-- [TSA Proposes Cyber Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
+- [TSA Proposes Cyber-Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
 - [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
 - [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
 - [Idaho Man Turns to RaaS to Extort Orthodontist](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
