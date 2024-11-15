@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TSA Proposes Cyber Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
 - [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
 - [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
 - [Idaho Man Turns to RaaS to Extort Orthodontist](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
@@ -83,7 +84,6 @@
 - [Cloud Ransomware Flexes Fresh Scripts Against Web Apps](https://www.darkreading.com/cloud-security/cloud-ransomware-scripts-web-applications)
 - [Washington&#39;s Cybersecurity Storm of Complacency](https://www.darkreading.com/vulnerabilities-threats/washingtons-cybersecurity-storm-complacency)
 - [Microsoft Power Pages Leak Millions of Private Records](https://www.darkreading.com/cybersecurity-operations/microsoft-power-pages-millions-private-records)
-- [Hamas Hackers Spy on Mideast Gov&#39;ts, Disrupt Israel](https://www.darkreading.com/threat-intelligence/hamas-hackers-spy-mideast-govts-disrupt-israel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
