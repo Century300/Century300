@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trump 2.0 May Mean Fewer Cybersecurity Regs, Shift in Threats](https://www.darkreading.com/cloud-security/trump-20-mean-cybersecurity-regs-shift-threats)
 - [TSA Proposes Cyber Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
 - [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
 - [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
@@ -83,7 +84,6 @@
 - [The Vendor&#39;s Role in Combating Alert Fatigue](https://www.darkreading.com/vulnerabilities-threats/vendors-role-combating-alert-fatigue)
 - [Cloud Ransomware Flexes Fresh Scripts Against Web Apps](https://www.darkreading.com/cloud-security/cloud-ransomware-scripts-web-applications)
 - [Washington&#39;s Cybersecurity Storm of Complacency](https://www.darkreading.com/vulnerabilities-threats/washingtons-cybersecurity-storm-complacency)
-- [Microsoft Power Pages Leak Millions of Private Records](https://www.darkreading.com/cybersecurity-operations/microsoft-power-pages-millions-private-records)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
