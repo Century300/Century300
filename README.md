@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
 - [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
 - [Idaho Man Turns to RaaS to Extort Orthodontist](https://www.darkreading.com/cyber-risk/idaho-man-10-years-hacking-cyber-extortion)
 - [The Vendor&#39;s Role in Combating Alert Fatigue](https://www.darkreading.com/vulnerabilities-threats/vendors-role-combating-alert-fatigue)
@@ -83,7 +84,6 @@
 - [Washington&#39;s Cybersecurity Storm of Complacency](https://www.darkreading.com/vulnerabilities-threats/washingtons-cybersecurity-storm-complacency)
 - [Microsoft Power Pages Leak Millions of Private Records](https://www.darkreading.com/cybersecurity-operations/microsoft-power-pages-millions-private-records)
 - [Hamas Hackers Spy on Mideast Gov&#39;ts, Disrupt Israel](https://www.darkreading.com/threat-intelligence/hamas-hackers-spy-mideast-govts-disrupt-israel)
-- [OpenText Cybersecurity Unveils 2024&#39;s Nastiest Malware](https://www.darkreading.com/cyberattacks-data-breaches/opentext-cybersecurity-unveils-2024-s-nastiest-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
