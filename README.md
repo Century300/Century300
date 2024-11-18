@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Akira Ransomware Racks Up 30+ Victims in a Single Day](https://www.darkreading.com/cyberattacks-data-breaches/akira-ransomware-30-victims-single-day)
 - [Palo Alto Networks Patches Critical Zero-Day Firewall Bug](https://www.darkreading.com/cyberattacks-data-breaches/palo-alto-networks-patches-critical-zero-day-bug-firewalls)
 - [Why the Demand for Cybersecurity Innovation Is Surging](https://www.darkreading.com/cyberattacks-data-breaches/why-demand-cybersecurity-innovation-is-surging)
 - [DHS Releases Secure AI Framework for Critical Infrastructure](https://www.darkreading.com/cloud-security/dhs-releases-secure-ai-framework-critical-infrastructure)
@@ -83,7 +84,6 @@
 - [ChatGPT Exposes Its Instructions, Knowledge &amp;amp; OS Files](https://www.darkreading.com/cloud-security/chatgpt-exposes-instructions-knowledge-os-files)
 - [Combating the Rise of Federally Aimed Malicious Intent](https://www.darkreading.com/vulnerabilities-threats/combating-rise-federally-aimed-malicious-intent)
 - [Lessons From OSC&amp;amp;R on Protecting the Software Supply Chain](https://www.darkreading.com/application-security/lessons-from-osc-r-on-protecting-the-software-supply-chain)
-- [Trump 2.0 May Mean Fewer Cybersecurity Regs, Shift in Threats](https://www.darkreading.com/cloud-security/trump-20-mean-cybersecurity-regs-shift-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
