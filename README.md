@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WhatsApp: NSO Group Operates Pegasus Spyware for Customers](https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware)
+- [Security Industry Association Announces SIA RISE Scholarship Awardees](https://www.darkreading.com/vulnerabilities-threats/security-industry-association-announces-sia-rise-scholarship-awardees)
+- [AI About-Face: &#39;Mantis&#39; Turns LLM Attackers Into Prey](https://www.darkreading.com/cybersecurity-operations/deceptive-framework-defense-mislead-attacking-ai)
+- [Kyndryl &amp;amp; Microsoft Unveil New Services to Advance Cyber Resilience for Customers](https://www.darkreading.com/cybersecurity-operations/kyndryl-microsoft-unveil-new-services-to-advance-cyber-resilience-for-customers)
 - [Akamai Reports Third Quarter 2024 Financial Results](https://www.darkreading.com/cloud-security/akamai-reports-third-quarter-2024-financial-results)
 - [Bugcrowd Names Trey Ford as CISO](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-trey-ford-as-ciso)
 - [Jen Easterly, CISA Director, to Step Down on Inauguration Day](https://www.darkreading.com/vulnerabilities-threats/jen-easterly-cisa-director-resign-inauguration-day)
 - [Critical WordPress Plug-in Flaw Exposes 4M Sites to Takeover](https://www.darkreading.com/cloud-security/critical-wordpress-plugin-flaw-4m-sites-takeover)
-- [Akira Ransomware Racks Up 30+ Victims in a Single Day](https://www.darkreading.com/cyberattacks-data-breaches/akira-ransomware-30-victims-single-day)
-- [Palo Alto Networks Patches Critical Zero-Day Firewall Bug](https://www.darkreading.com/cyberattacks-data-breaches/palo-alto-networks-patches-critical-zero-day-bug-firewalls)
-- [Why the Demand for Cybersecurity Innovation Is Surging](https://www.darkreading.com/cyberattacks-data-breaches/why-demand-cybersecurity-innovation-is-surging)
-- [DHS Releases Secure AI Framework for Critical Infrastructure](https://www.darkreading.com/cloud-security/dhs-releases-secure-ai-framework-critical-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
