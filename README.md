@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DHS Releases Secure AI Framework for Critical Infrastructure](https://www.darkreading.com/cloud-security/dhs-releases-secure-ai-framework-critical-infrastructure)
 - [Microsoft Pulls Exchange Patches Amid Mail Flow Issues](https://www.darkreading.com/cloud-security/microsoft-pulls-exchange-patches-amid-mail-flow-issues)
 - [ChatGPT Exposes Its Instructions, Knowledge &amp;amp; OS Files](https://www.darkreading.com/cloud-security/chatgpt-exposes-instructions-knowledge-os-files)
 - [Combating the Rise of Federally Aimed Malicious Intent](https://www.darkreading.com/vulnerabilities-threats/combating-rise-federally-aimed-malicious-intent)
@@ -83,7 +84,6 @@
 - [Trump 2.0 May Mean Fewer Cybersecurity Regs, Shift in Threats](https://www.darkreading.com/cloud-security/trump-20-mean-cybersecurity-regs-shift-threats)
 - [TSA Proposes Cyber-Risk Mandates for Pipelines, Transportation Systems](https://www.darkreading.com/cyber-risk/tsa-proposes-cyber-risk-mandates-pipelines-transportation)
 - [Frenos Takes Home the Prize at 2024 DataTribe Challenge](https://www.darkreading.com/ics-ot-security/frenos-takes-home-prize-2024-datatribe-challenge)
-- [Varonis Warns of Bug Discovered in PostgreSQL PL/Perl](https://www.darkreading.com/vulnerabilities-threats/varonis-warns-bug-discovered-postgresql-pl-perl)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
