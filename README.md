@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Salt Typhoon Hits T-Mobile as Part of Telecom Attack Spree](https://www.darkreading.com/cloud-security/salt-typhoon-tmobile-telecom-attack-spree)
 - [We Can Do Better Than Free Credit Monitoring After a Breach](https://www.darkreading.com/cyberattacks-data-breaches/we-can-do-better-than-free-credit-monitoring-after-breach)
 - [WhatsApp: NSO Group Operates Pegasus Spyware for Customers](https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware)
 - [Security Industry Association Announces SIA RISE Scholarship Awardees](https://www.darkreading.com/vulnerabilities-threats/security-industry-association-announces-sia-rise-scholarship-awardees)
@@ -83,7 +84,6 @@
 - [Kyndryl &amp;amp; Microsoft Unveil New Services to Advance Cyber Resilience for Customers](https://www.darkreading.com/cybersecurity-operations/kyndryl-microsoft-unveil-new-services-to-advance-cyber-resilience-for-customers)
 - [Akamai Reports Third Quarter 2024 Financial Results](https://www.darkreading.com/cloud-security/akamai-reports-third-quarter-2024-financial-results)
 - [Bugcrowd Names Trey Ford as CISO](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-trey-ford-as-ciso)
-- [Jen Easterly, CISA Director, to Step Down on Inauguration Day](https://www.darkreading.com/vulnerabilities-threats/jen-easterly-cisa-director-resign-inauguration-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
