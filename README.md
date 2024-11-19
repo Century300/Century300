@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [We Can Do Better Than Free Credit Monitoring After a Breach](https://www.darkreading.com/cyberattacks-data-breaches/we-can-do-better-than-free-credit-monitoring-after-breach)
 - [WhatsApp: NSO Group Operates Pegasus Spyware for Customers](https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware)
 - [Security Industry Association Announces SIA RISE Scholarship Awardees](https://www.darkreading.com/vulnerabilities-threats/security-industry-association-announces-sia-rise-scholarship-awardees)
 - [AI About-Face: &#39;Mantis&#39; Turns LLM Attackers Into Prey](https://www.darkreading.com/cybersecurity-operations/deceptive-framework-defense-mislead-attacking-ai)
@@ -83,7 +84,6 @@
 - [Akamai Reports Third Quarter 2024 Financial Results](https://www.darkreading.com/cloud-security/akamai-reports-third-quarter-2024-financial-results)
 - [Bugcrowd Names Trey Ford as CISO](https://www.darkreading.com/vulnerabilities-threats/bugcrowd-names-trey-ford-as-ciso)
 - [Jen Easterly, CISA Director, to Step Down on Inauguration Day](https://www.darkreading.com/vulnerabilities-threats/jen-easterly-cisa-director-resign-inauguration-day)
-- [Critical WordPress Plug-in Flaw Exposes 4M Sites to Takeover](https://www.darkreading.com/cloud-security/critical-wordpress-plugin-flaw-4m-sites-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
