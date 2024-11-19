@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Linux Variant of Helldown Ransomware Targets VMware ESxi Systems](https://www.darkreading.com/cyberattacks-data-breaches/linux-variant-helldown-ransomware-targets-vmware)
 - [Russian Ransomware Gangs on the Hunt for Pen Testers](https://www.darkreading.com/vulnerabilities-threats/russian-ransomware-gangs-hunt-pen-testers)
 - [&#39;Phobos&#39; Ransomware Cybercriminal Extradited From South Korea](https://www.darkreading.com/cyberattacks-data-breaches/phobos-ransomware-cybercriminal-extradited-south-korea)
 - [Salt Typhoon Hits T-Mobile as Part of Telecom Attack Spree](https://www.darkreading.com/cloud-security/salt-typhoon-tmobile-telecom-attack-spree)
@@ -83,7 +84,6 @@
 - [WhatsApp: NSO Group Operates Pegasus Spyware for Customers](https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware)
 - [Security Industry Association Announces SIA RISE Scholarship Awardees](https://www.darkreading.com/vulnerabilities-threats/security-industry-association-announces-sia-rise-scholarship-awardees)
 - [AI About-Face: &#39;Mantis&#39; Turns LLM Attackers Into Prey](https://www.darkreading.com/cybersecurity-operations/deceptive-framework-defense-mislead-attacking-ai)
-- [Kyndryl &amp;amp; Microsoft Unveil New Services to Advance Cyber Resilience for Customers](https://www.darkreading.com/cybersecurity-operations/kyndryl-microsoft-unveil-new-services-to-advance-cyber-resilience-for-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
