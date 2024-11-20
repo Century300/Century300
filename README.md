@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [It&#39;s Near-Unanimous: AI, ML Make the SOC Better](https://www.darkreading.com/cybersecurity-operations/survey-report-ai-ml-make-soc-better)
 - [China&#39;s &#39;Liminal Panda&#39; APT Attacks Telcos, Steals Phone Data](https://www.darkreading.com/threat-intelligence/china-liminal-panda-telcos-phone-data)
 - [Alleged Ford &#39;Breach&#39; Encompasses Auto Dealer Info](https://www.darkreading.com/cyberattacks-data-breaches/alleged-ford-breach-auto-dealer-info)
 - [Apple Urgently Patches Actively Exploited Zero-Days](https://www.darkreading.com/cyberattacks-data-breaches/apple-patches-actively-exploited-zero-days)
@@ -83,7 +84,6 @@
 - [&#39;Water Barghest&#39; Sells Hijacked IoT Devices for Proxy Botnet Misuse](https://www.darkreading.com/cloud-security/water-barghest-sells-hijacked-iot-devices-proxy-botnet-misuse)
 - [African Reliance on Foreign Suppliers Boosts Insecurity Concerns](https://www.darkreading.com/cyber-risk/african-reliance-on-foreign-suppliers-boosts-insecurity)
 - [DeepTempo Launches AI-Based Security App for Snowflake](https://www.darkreading.com/cybersecurity-operations/untitled)
-- [RIIG Launches With Risk Intelligence Solutions](https://www.darkreading.com/cyber-risk/riig-launches-risk-intelligence-solutions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
