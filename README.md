@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s &#39;Liminal Panda&#39; APT Attacks Telcos, Steals Phone Data](https://www.darkreading.com/threat-intelligence/china-liminal-panda-telcos-phone-data)
 - [Alleged Ford &#39;Breach&#39; Encompasses Auto Dealer Info](https://www.darkreading.com/cyberattacks-data-breaches/alleged-ford-breach-auto-dealer-info)
 - [Apple Urgently Patches Actively Exploited Zero-Days](https://www.darkreading.com/cyberattacks-data-breaches/apple-patches-actively-exploited-zero-days)
 - [Small US Cyber Agencies Are Underfunded &amp;amp; That&#39;s a Problem](https://www.darkreading.com/vulnerabilities-threats/us-cyber-agencies-underfunded-problem)
@@ -83,7 +84,6 @@
 - [African Reliance on Foreign Suppliers Boosts Insecurity Concerns](https://www.darkreading.com/cyber-risk/african-reliance-on-foreign-suppliers-boosts-insecurity)
 - [DeepTempo Launches AI-Based Security App for Snowflake](https://www.darkreading.com/cybersecurity-operations/untitled)
 - [RIIG Launches With Risk Intelligence Solutions](https://www.darkreading.com/cyber-risk/riig-launches-risk-intelligence-solutions)
-- [SWEEPS Educational Initiative Offers Application Security Training](https://www.darkreading.com/application-security/sweeps-educational-initiative-application-security-training)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
