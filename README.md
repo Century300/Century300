@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Urgently Patches Actively Exploited Zero-Days](https://www.darkreading.com/cyberattacks-data-breaches/apple-patches-actively-exploited-zero-days)
 - [Small US Cyber Agencies Are Underfunded &amp;amp; That&#39;s a Problem](https://www.darkreading.com/vulnerabilities-threats/us-cyber-agencies-underfunded-problem)
 - [&#39;Water Barghest&#39; Sells Hijacked IoT Devices for Proxy Botnet Misuse](https://www.darkreading.com/cloud-security/water-barghest-sells-hijacked-iot-devices-proxy-botnet-misuse)
 - [African Reliance on Foreign Suppliers Boosts Insecurity Concerns](https://www.darkreading.com/cyber-risk/african-reliance-on-foreign-suppliers-boosts-insecurity)
@@ -83,7 +84,6 @@
 - [RIIG Launches With Risk Intelligence Solutions](https://www.darkreading.com/cyber-risk/riig-launches-risk-intelligence-solutions)
 - [SWEEPS Educational Initiative Offers Application Security Training](https://www.darkreading.com/application-security/sweeps-educational-initiative-application-security-training)
 - [Linux Variant of Helldown Ransomware Targets VMware ESXi Systems](https://www.darkreading.com/cyberattacks-data-breaches/linux-variant-helldown-ransomware-targets-vmware)
-- [Russian Ransomware Gangs on the Hunt for Pen Testers](https://www.darkreading.com/vulnerabilities-threats/russian-ransomware-gangs-hunt-pen-testers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
