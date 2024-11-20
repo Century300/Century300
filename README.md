@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RIIG Launches With Risk Intelligence Solutions](https://www.darkreading.com/cyber-risk/riig-launches-risk-intelligence-solutions)
 - [SWEEPS Educational Initiative Offers Application Security Training](https://www.darkreading.com/application-security/sweeps-educational-initiative-application-security-training)
 - [Linux Variant of Helldown Ransomware Targets VMware ESxi Systems](https://www.darkreading.com/cyberattacks-data-breaches/linux-variant-helldown-ransomware-targets-vmware)
 - [Russian Ransomware Gangs on the Hunt for Pen Testers](https://www.darkreading.com/vulnerabilities-threats/russian-ransomware-gangs-hunt-pen-testers)
@@ -83,7 +84,6 @@
 - [Salt Typhoon Hits T-Mobile as Part of Telecom Attack Spree](https://www.darkreading.com/cloud-security/salt-typhoon-tmobile-telecom-attack-spree)
 - [We Can Do Better Than Free Credit Monitoring After a Breach](https://www.darkreading.com/cyberattacks-data-breaches/we-can-do-better-than-free-credit-monitoring-after-breach)
 - [WhatsApp: NSO Group Operates Pegasus Spyware for Customers](https://www.darkreading.com/endpoint-security/whatsapp-nso-group-operates-pegasus-spyware)
-- [Security Industry Association Announces SIA RISE Scholarship Awardees](https://www.darkreading.com/vulnerabilities-threats/security-industry-association-announces-sia-rise-scholarship-awardees)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
