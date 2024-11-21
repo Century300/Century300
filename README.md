@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VISO TRUST Secures $24M to Accelerate Innovation in AI-Powered Third-Party Risk Management](https://www.darkreading.com/cyber-risk/viso-trust-secures-24m-to-accelerate-innovation-in-ai-powered-third-party-risk-management)
 - [Cloud Security Startup Wiz to Acquire Dazz in Risk Management Play](https://www.darkreading.com/cloud-security/cloud-security-startup-wiz-to-acquire-dazz-in-risk-management-play)
 - [Chinese APT Gelsemium Deploys &#39;Wolfsbane&#39; Linux Variant](https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant)
 - [Scattered Spider Cybercrime Members Face Prison Time](https://www.darkreading.com/cybersecurity-operations/scattered-spider-cybercrime-members-face-prison-time)
@@ -83,7 +84,6 @@
 - [How Can PR Protect Companies During a Cyberattack?](https://www.darkreading.com/cyberattacks-data-breaches/how-can-pr-protect-companies-during-a-cyberattack-)
 - [It&#39;s Near-Unanimous: AI, ML Make the SOC Better](https://www.darkreading.com/cybersecurity-operations/survey-report-ai-ml-make-soc-better)
 - [China&#39;s &#39;Liminal Panda&#39; APT Attacks Telcos, Steals Phone Data](https://www.darkreading.com/threat-intelligence/china-liminal-panda-telcos-phone-data)
-- [Alleged Ford &#39;Breach&#39; Encompasses Auto Dealer Info](https://www.darkreading.com/cyberattacks-data-breaches/alleged-ford-breach-auto-dealer-info)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
