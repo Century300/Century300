@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloud Security Startup Wiz to Acquire Dazz in Risk Management Play](https://www.darkreading.com/cloud-security/cloud-security-startup-wiz-to-acquire-dazz-in-risk-management-play)
+- [Chinese APT Gelsemium Deploys &#39;Wolfsbane&#39; Linux Variant](https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant)
 - [Scattered Spider Cybercrime Members Face Prison Time](https://www.darkreading.com/cybersecurity-operations/scattered-spider-cybercrime-members-face-prison-time)
 - [Cybersecurity Is Critical, but Breaches Don&#39;t Have to Be Disasters](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-critical-breaches-disasters)
 - [How Can PR Protect Companies During a Cyberattack?](https://www.darkreading.com/cyberattacks-data-breaches/how-can-pr-protect-companies-during-a-cyberattack-)
 - [It&#39;s Near-Unanimous: AI, ML Make the SOC Better](https://www.darkreading.com/cybersecurity-operations/survey-report-ai-ml-make-soc-better)
 - [China&#39;s &#39;Liminal Panda&#39; APT Attacks Telcos, Steals Phone Data](https://www.darkreading.com/threat-intelligence/china-liminal-panda-telcos-phone-data)
 - [Alleged Ford &#39;Breach&#39; Encompasses Auto Dealer Info](https://www.darkreading.com/cyberattacks-data-breaches/alleged-ford-breach-auto-dealer-info)
-- [Apple Urgently Patches Actively Exploited Zero-Days](https://www.darkreading.com/cyberattacks-data-breaches/apple-patches-actively-exploited-zero-days)
-- [Small US Cyber Agencies Are Underfunded &amp;amp; That&#39;s a Problem](https://www.darkreading.com/vulnerabilities-threats/us-cyber-agencies-underfunded-problem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
