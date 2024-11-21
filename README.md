@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Study Finds 76% of Cybersecurity Professionals Believe AI Should Be Heavily Regulated](https://www.darkreading.com/cloud-security/study-finds-76-of-cybersecurity-professionals-believe-ai-should-be-heavily-regulated)
+- [Endace Establishes Middle East Regional Headquarters in Saudi Arabia](https://www.darkreading.com/cybersecurity-operations/endace-establishes-middle-east-regional-headquarters-in-saudi-arabia)
+- [Norton Introduces Small Business Premium for Business-Grade Security](https://www.darkreading.com/endpoint-security/norton-introduces-small-business-premium-for-business-grade-security)
+- [Microsoft Takes Action Against Phishing-as-a-Service Platform](https://www.darkreading.com/cybersecurity-operations/microsoft-takes-action-against-phishing-service-platform)
+- [Apono Enhances Platform Enabling Permission Revocation and Automated Access](https://www.darkreading.com/cloud-security/apono-enhances-platform-enabling-permission-revocation-and-automated-access)
+- [RSA Conference 2025 Innovation Sandbox Contest Celebrates 20th Anniversary](https://www.darkreading.com/cybersecurity-operations/rsa-conference-2025-innovation-sandbox-contest-celebrates-20th-anniversary)
 - [VISO TRUST Secures $24M to Accelerate Innovation in AI-Powered Third-Party Risk Management](https://www.darkreading.com/cyber-risk/viso-trust-secures-24m-to-accelerate-innovation-in-ai-powered-third-party-risk-management)
 - [Cloud Security Startup Wiz to Acquire Dazz in Risk Management Play](https://www.darkreading.com/cloud-security/cloud-security-startup-wiz-to-acquire-dazz-in-risk-management-play)
-- [Chinese APT Gelsemium Deploys &#39;Wolfsbane&#39; Linux Variant](https://www.darkreading.com/threat-intelligence/chinese-apt-gelsemium-wolfsbane-linux-variant)
-- [Scattered Spider Cybercrime Members Face Prison Time](https://www.darkreading.com/cybersecurity-operations/scattered-spider-cybercrime-members-face-prison-time)
-- [Cybersecurity Is Critical, but Breaches Don&#39;t Have to Be Disasters](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-critical-breaches-disasters)
-- [How Can PR Protect Companies During a Cyberattack?](https://www.darkreading.com/cyberattacks-data-breaches/how-can-pr-protect-companies-during-a-cyberattack-)
-- [It&#39;s Near-Unanimous: AI, ML Make the SOC Better](https://www.darkreading.com/cybersecurity-operations/survey-report-ai-ml-make-soc-better)
-- [China&#39;s &#39;Liminal Panda&#39; APT Attacks Telcos, Steals Phone Data](https://www.darkreading.com/threat-intelligence/china-liminal-panda-telcos-phone-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
