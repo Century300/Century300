@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider Cybercrime Members Face Prison Time](https://www.darkreading.com/cybersecurity-operations/scattered-spider-cybercrime-members-face-prison-time)
 - [Cybersecurity Is Critical, but Breaches Don&#39;t Have to Be Disasters](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-critical-breaches-disasters)
 - [How Can PR Protect Companies During a Cyberattack?](https://www.darkreading.com/cyberattacks-data-breaches/how-can-pr-protect-companies-during-a-cyberattack-)
 - [It&#39;s Near-Unanimous: AI, ML Make the SOC Better](https://www.darkreading.com/cybersecurity-operations/survey-report-ai-ml-make-soc-better)
@@ -83,7 +84,6 @@
 - [Alleged Ford &#39;Breach&#39; Encompasses Auto Dealer Info](https://www.darkreading.com/cyberattacks-data-breaches/alleged-ford-breach-auto-dealer-info)
 - [Apple Urgently Patches Actively Exploited Zero-Days](https://www.darkreading.com/cyberattacks-data-breaches/apple-patches-actively-exploited-zero-days)
 - [Small US Cyber Agencies Are Underfunded &amp;amp; That&#39;s a Problem](https://www.darkreading.com/vulnerabilities-threats/us-cyber-agencies-underfunded-problem)
-- [&#39;Water Barghest&#39; Sells Hijacked IoT Devices for Proxy Botnet Misuse](https://www.darkreading.com/cloud-security/water-barghest-sells-hijacked-iot-devices-proxy-botnet-misuse)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
