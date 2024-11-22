@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s Cyber Offensives Built in Lockstep With Private Firms, Academia](https://www.darkreading.com/cyber-risk/private-firms-academia-china-cyber-offense-strategy)
 - [Microsoft Highlights Security Exposure Management at Ignite](https://www.darkreading.com/cloud-security/microsoft-highlights-security-exposure-management-ignite)
 - [Cross-Site Scripting Is 2024&#39;s Most Dangerous Software Weakness](https://www.darkreading.com/application-security/cross-site-scripting-is-2024-most-dangerous-software-weakness)
 - [Study Finds 76% of Cybersecurity Professionals Believe AI Should Be Heavily Regulated](https://www.darkreading.com/cloud-security/study-finds-76-of-cybersecurity-professionals-believe-ai-should-be-heavily-regulated)
@@ -83,7 +84,6 @@
 - [Norton Introduces Small Business Premium for Business-Grade Security](https://www.darkreading.com/endpoint-security/norton-introduces-small-business-premium-for-business-grade-security)
 - [Microsoft Takes Action Against Phishing-as-a-Service Platform](https://www.darkreading.com/cybersecurity-operations/microsoft-takes-action-against-phishing-service-platform)
 - [Apono Enhances Platform Enabling Permission Revocation and Automated Access](https://www.darkreading.com/cloud-security/apono-enhances-platform-enabling-permission-revocation-and-automated-access)
-- [RSA Conference 2025 Innovation Sandbox Contest Celebrates 20th Anniversary](https://www.darkreading.com/cybersecurity-operations/rsa-conference-2025-innovation-sandbox-contest-celebrates-20th-anniversary)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
