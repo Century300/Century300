@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [China&#39;s Cyber Offensives Built in Lockstep With Private Firms, Academia](https://www.darkreading.com/cyber-risk/private-firms-academia-china-cyber-offense-strategy)
 - [Microsoft Highlights Security Exposure Management at Ignite](https://www.darkreading.com/cloud-security/microsoft-highlights-security-exposure-management-ignite)
-- [Cross-Site Scripting Is 2024&#39;s Most Dangerous Software Weakness](https://www.darkreading.com/application-security/cross-site-scripting-is-2024-most-dangerous-software-weakness)
+- [MITRE: Cross-Site Scripting Is 2024&#39;s Most Dangerous Software Weakness](https://www.darkreading.com/application-security/cross-site-scripting-is-2024-most-dangerous-software-weakness)
 - [Study Finds 76% of Cybersecurity Professionals Believe AI Should Be Heavily Regulated](https://www.darkreading.com/cloud-security/study-finds-76-of-cybersecurity-professionals-believe-ai-should-be-heavily-regulated)
 - [Endace Establishes Middle East Regional Headquarters in Saudi Arabia](https://www.darkreading.com/cybersecurity-operations/endace-establishes-middle-east-regional-headquarters-in-saudi-arabia)
 - [Norton Introduces Small Business Premium for Business-Grade Security](https://www.darkreading.com/endpoint-security/norton-introduces-small-business-premium-for-business-grade-security)
