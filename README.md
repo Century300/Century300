@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phishing Prevention Framework Reduces Incidents by Half](https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half)
+- [BlackBasta Ransomware Brand Picks Up Where Conti Left Off](https://www.darkreading.com/vulnerabilities-threats/blackbasta-ransomware-group-conti)
 - [Fancy Bear &#39;Nearest Neighbor&#39; Attack Uses Nearby Wi-Fi Network](https://www.darkreading.com/cyberattacks-data-breaches/fancy-bear-nearest-neighbor-attack-wi-fi)
 - [Closing the Cybersecurity Career Diversity Gap](https://www.darkreading.com/cybersecurity-operations/closing-cybersecurity-career-diversity-gap)
 - [Faux ChatGPT, Claude API Packages Deliver JarkaStealer](https://www.darkreading.com/application-security/faux-chatgpt-claude-api-packages-jarkastealer)
 - [Yakuza Victim Data Leaked in Japanese Agency Attack](https://www.darkreading.com/cyberattacks-data-breaches/yakuza-victim-data-leaked-japanese-attack)
 - [What Talent Gap? Hiring Practices Are the Real Problem](https://www.darkreading.com/cybersecurity-operations/hiring-gap-not-talent-gap)
 - [Leaky Cybersecurity Holes Put Water Systems at Risk](https://www.darkreading.com/vulnerabilities-threats/leaky-cybersecurity-holes-water-systems-risk)
-- [Going Beyond Secure by Demand](https://www.darkreading.com/vulnerabilities-threats/going-beyond-secure-by-demand)
-- [China&#39;s Cyber Offensives Built in Lockstep With Private Firms, Academia](https://www.darkreading.com/cyber-risk/private-firms-academia-china-cyber-offense-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
