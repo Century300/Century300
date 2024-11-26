@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [My Car Knows My Secrets, and I&#39;m &lpar;Mostly&rpar; OK With That](https://www.darkreading.com/vulnerabilities-threats/my-car-knows-my-secrets)
 - [Ransomware Attack on Blue Yonder Hits Starbucks, Supermarkets](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-blue-yonder-starbucks-supermarkets)
 - [Phishing Prevention Framework Reduces Incidents by Half](https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half)
 - [BlackBasta Ransomware Brand Picks Up Where Conti Left Off](https://www.darkreading.com/vulnerabilities-threats/blackbasta-ransomware-group-conti)
@@ -83,7 +84,6 @@
 - [Closing the Cybersecurity Career Diversity Gap](https://www.darkreading.com/cybersecurity-operations/closing-cybersecurity-career-diversity-gap)
 - [Faux ChatGPT, Claude API Packages Deliver JarkaStealer](https://www.darkreading.com/application-security/faux-chatgpt-claude-api-packages-jarkastealer)
 - [Yakuza Victim Data Leaked in Japanese Agency Attack](https://www.darkreading.com/cyberattacks-data-breaches/yakuza-victim-data-leaked-japanese-attack)
-- [What Talent Gap? Hiring Practices Are the Real Problem](https://www.darkreading.com/cybersecurity-operations/hiring-gap-not-talent-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
