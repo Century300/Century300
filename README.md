@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Salt Typhoon Builds Out Malware Arsenal With GhostSpider](https://www.darkreading.com/application-security/salt-typhoon-malware-arsenal-ghostspider)
 - [AWS Rolls Out Updates to Amazon Cognito](https://www.darkreading.com/identity-access-management-security/aws-rolls-out-updates-to-amazon-cognito)
 - [OpenSea Phishers Aim to Drain Crypto Wallets of NFT Enthusiasts](https://www.darkreading.com/application-security/opensea-phishers-aim-drain-crypto-wallets-nft-enthusiasts)
 - [CyberRatings.org Announces Test Results for Cloud Service Provider Native Firewalls](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-cloud-service-provider-native-firewalls)
@@ -83,7 +84,6 @@
 - [My Car Knows My Secrets, and I&#39;m &lpar;Mostly&rpar; OK With That](https://www.darkreading.com/vulnerabilities-threats/my-car-knows-my-secrets)
 - [Ransomware Attack on Blue Yonder Hits Starbucks, Supermarkets](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-blue-yonder-starbucks-supermarkets)
 - [Phishing Prevention Framework Reduces Incidents by Half](https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half)
-- [BlackBasta Ransomware Brand Picks Up Where Conti Left Off](https://www.darkreading.com/vulnerabilities-threats/blackbasta-ransomware-group-conti)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
