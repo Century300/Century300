@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;RomCom&#39; APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor](https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor)
+- [Geico, Travelers Fined $11.3M for Lax Data Security](https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security)
 - [Salt Typhoon Builds Out Malware Arsenal With GhostSpider](https://www.darkreading.com/application-security/salt-typhoon-malware-arsenal-ghostspider)
 - [AWS Rolls Out Updates to Amazon Cognito](https://www.darkreading.com/identity-access-management-security/aws-rolls-out-updates-to-amazon-cognito)
 - [OpenSea Phishers Aim to Drain Crypto Wallets of NFT Enthusiasts](https://www.darkreading.com/application-security/opensea-phishers-aim-drain-crypto-wallets-nft-enthusiasts)
 - [CyberRatings.org Announces Test Results for Cloud Service Provider Native Firewalls](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-cloud-service-provider-native-firewalls)
 - [CyCognito Report Highlights Rising Cybersecurity Risks in Holiday E-Commerce](https://www.darkreading.com/application-security/cycognito-report-highlights-rising-cybersecurity-risks-holiday-e-commerce)
 - [My Car Knows My Secrets, and I&#39;m &lpar;Mostly&rpar; OK With That](https://www.darkreading.com/vulnerabilities-threats/my-car-knows-my-secrets)
-- [Ransomware Attack on Blue Yonder Hits Starbucks, Supermarkets](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-blue-yonder-starbucks-supermarkets)
-- [Phishing Prevention Framework Reduces Incidents by Half](https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
