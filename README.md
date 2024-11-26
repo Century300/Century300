@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenSea Phishers Aim to Drain Crypto Wallets of NFT Enthusiasts](https://www.darkreading.com/application-security/opensea-phishers-aim-drain-crypto-wallets-nft-enthusiasts)
 - [CyberRatings.org Announces Test Results for Cloud Service Provider Native Firewalls](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-cloud-service-provider-native-firewalls)
 - [CyCognito Report Highlights Rising Cybersecurity Risks in Holiday E-Commerce](https://www.darkreading.com/application-security/cycognito-report-highlights-rising-cybersecurity-risks-holiday-e-commerce)
 - [My Car Knows My Secrets, and I&#39;m &lpar;Mostly&rpar; OK With That](https://www.darkreading.com/vulnerabilities-threats/my-car-knows-my-secrets)
@@ -83,7 +84,6 @@
 - [Phishing Prevention Framework Reduces Incidents by Half](https://www.darkreading.com/cybersecurity-operations/phishing-prevention-framework-reduces-incidents-by-half)
 - [BlackBasta Ransomware Brand Picks Up Where Conti Left Off](https://www.darkreading.com/vulnerabilities-threats/blackbasta-ransomware-group-conti)
 - [Fancy Bear &#39;Nearest Neighbor&#39; Attack Uses Nearby Wi-Fi Network](https://www.darkreading.com/cyberattacks-data-breaches/fancy-bear-nearest-neighbor-attack-wi-fi)
-- [Closing the Cybersecurity Career Diversity Gap](https://www.darkreading.com/cybersecurity-operations/closing-cybersecurity-career-diversity-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
