@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [8 Tips for Hiring and Training Neurodivergent Talent](https://www.darkreading.com/cybersecurity-careers/8-tips-hiring-training-neurodivergent-talent)
 - [&#39;RomCom&#39; APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor](https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor)
 - [Geico, Travelers Fined $11.3M for Lax Data Security](https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security)
 - [Salt Typhoon Builds Out Malware Arsenal With GhostSpider](https://www.darkreading.com/application-security/salt-typhoon-malware-arsenal-ghostspider)
@@ -83,7 +84,6 @@
 - [OpenSea Phishers Aim to Drain Crypto Wallets of NFT Enthusiasts](https://www.darkreading.com/application-security/opensea-phishers-aim-drain-crypto-wallets-nft-enthusiasts)
 - [CyberRatings.org Announces Test Results for Cloud Service Provider Native Firewalls](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-cloud-service-provider-native-firewalls)
 - [CyCognito Report Highlights Rising Cybersecurity Risks in Holiday E-Commerce](https://www.darkreading.com/application-security/cycognito-report-highlights-rising-cybersecurity-risks-holiday-e-commerce)
-- [My Car Knows My Secrets, and I&#39;m &lpar;Mostly&rpar; OK With That](https://www.darkreading.com/vulnerabilities-threats/my-car-knows-my-secrets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
