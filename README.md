@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Israel Defies VC Downturn With More Cybersecurity Investments](https://www.darkreading.com/application-security/israel-defies-downturn-security-funding)
 - [8 Tips for Hiring and Training Neurodivergent Talent](https://www.darkreading.com/cybersecurity-careers/8-tips-hiring-training-neurodivergent-talent)
 - [&#39;RomCom&#39; APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor](https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor)
 - [Geico, Travelers Fined $11.3M for Lax Data Security](https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security)
@@ -83,7 +84,6 @@
 - [AWS Rolls Out Updates to Amazon Cognito](https://www.darkreading.com/identity-access-management-security/aws-rolls-out-updates-to-amazon-cognito)
 - [OpenSea Phishers Aim to Drain Crypto Wallets of NFT Enthusiasts](https://www.darkreading.com/application-security/opensea-phishers-aim-drain-crypto-wallets-nft-enthusiasts)
 - [CyberRatings.org Announces Test Results for Cloud Service Provider Native Firewalls](https://www.darkreading.com/cloud-security/cyberratings-org-announces-test-results-cloud-service-provider-native-firewalls)
-- [CyCognito Report Highlights Rising Cybersecurity Risks in Holiday E-Commerce](https://www.darkreading.com/application-security/cycognito-report-highlights-rising-cybersecurity-risks-holiday-e-commerce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
