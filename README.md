@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sneaky Skimmer Malware Targets Magento Sites Ahead of Black Friday](https://www.darkreading.com/application-security/sneaky-skimmer-malware-magento-sites-black-friday)
 - [How Learning to Fly Made Me a Better Cybersecurity CEO](https://www.darkreading.com/cybersecurity-operations/how-learning-fly-made-better-cybersecurity-ceo)
 - [Russian Script Kiddie Assembles Massive DDoS Botnet](https://www.darkreading.com/cyberattacks-data-breaches/russian-script-kiddie-assembles-massive-ddos-botnet)
 - [News Desk 2024: The Rise of Cybersecurity Platforms](https://www.darkreading.com/cloud-security/rise-of-cybersecurity-platform-news-desk-black-hat-2024)
@@ -83,7 +84,6 @@
 - [Microsoft Finally Releases Recall as Part of Windows Insider Preview](https://www.darkreading.com/endpoint-security/microsoft-releases-recall-windows-insider-preview)
 - [Israel Defies VC Downturn With More Cybersecurity Investments](https://www.darkreading.com/application-security/israel-defies-downturn-security-funding)
 - [8 Tips for Hiring and Training Neurodivergent Talent](https://www.darkreading.com/cybersecurity-careers/8-tips-hiring-training-neurodivergent-talent)
-- [&#39;RomCom&#39; APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor](https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
