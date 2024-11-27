@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Script Kiddie Assembles Massive DDoS Botnet](https://www.darkreading.com/cyberattacks-data-breaches/russian-script-kiddie-assembles-massive-ddos-botnet)
+- [News Desk 2024: The Rise of Cybersecurity Platforms](https://www.darkreading.com/cloud-security/rise-of-cybersecurity-platform-news-desk-black-hat-2024)
 - [News Desk 2024: Can GenAI Write Secure Code?](https://www.darkreading.com/application-security/can-genai-write-secure-code-news-desk-black-hat-2024)
 - [Microsoft Finally Releases Recall as Part of Windows Insider Preview](https://www.darkreading.com/endpoint-security/microsoft-releases-recall-windows-insider-preview)
 - [Israel Defies VC Downturn With More Cybersecurity Investments](https://www.darkreading.com/application-security/israel-defies-downturn-security-funding)
 - [8 Tips for Hiring and Training Neurodivergent Talent](https://www.darkreading.com/cybersecurity-careers/8-tips-hiring-training-neurodivergent-talent)
 - [&#39;RomCom&#39; APT Mounts Zero-Day, Zero-Click Browser Escapes in Firefox, Tor](https://www.darkreading.com/application-security/romcom-apt-zero-day-zero-click-browser-escapes-firefox-tor)
 - [Geico, Travelers Fined $11.3M for Lax Data Security](https://www.darkreading.com/cybersecurity-operations/geico-travelers-fined-lax-data-security)
-- [Salt Typhoon Builds Out Malware Arsenal With GhostSpider](https://www.darkreading.com/application-security/salt-typhoon-malware-arsenal-ghostspider)
-- [AWS Rolls Out Updates to Amazon Cognito](https://www.darkreading.com/identity-access-management-security/aws-rolls-out-updates-to-amazon-cognito)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
