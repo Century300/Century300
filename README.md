@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Gangs Seek Pen Testers to Boost Quality](https://www.darkreading.com/threat-intelligence/ransomware-gangs-seek-pen-testers-boost-professionalism)
 - [&#39;Operation Undercut&#39; Adds to Russia Malign Influence Campaigns](https://www.darkreading.com/cybersecurity-operations/operation-undercut-russia-malign-influence-campaigns)
 - [Sneaky Skimmer Malware Targets Magento Sites Ahead of Black Friday](https://www.darkreading.com/application-security/sneaky-skimmer-malware-magento-sites-black-friday)
 - [How Learning to Fly Made Me a Better Cybersecurity CEO](https://www.darkreading.com/cybersecurity-operations/how-learning-fly-made-better-cybersecurity-ceo)
@@ -83,7 +84,6 @@
 - [News Desk 2024: The Rise of Cybersecurity Platforms](https://www.darkreading.com/cloud-security/rise-of-cybersecurity-platform-news-desk-black-hat-2024)
 - [News Desk 2024: Can GenAI Write Secure Code?](https://www.darkreading.com/application-security/can-genai-write-secure-code-news-desk-black-hat-2024)
 - [Microsoft Finally Releases Recall as Part of Windows Insider Preview](https://www.darkreading.com/endpoint-security/microsoft-releases-recall-windows-insider-preview)
-- [Israel Defies VC Downturn With More Cybersecurity Investments](https://www.darkreading.com/application-security/israel-defies-downturn-security-funding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
