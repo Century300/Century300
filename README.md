@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2 UK Hospitals Targeted in Separate Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/two-nhs-hospitals-targeted-in-separate-cyberattacks)
 - [Incident Response Playbooks: Are You Prepared?](https://www.darkreading.com/cyberattacks-data-breaches/incident-response-playbooks-prepared)
 - [Microsoft Boosts Device Security With Windows Resiliency Initiative](https://www.darkreading.com/endpoint-security/microsoft-boosts-device-security-windows-resiliency-initiative)
 - [How AI Is Enhancing Security in Ridesharing](https://www.darkreading.com/vulnerabilities-threats/ai-enhancing-ridesharing-security)
@@ -83,7 +84,6 @@
 - [&#39;Operation Undercut&#39; Adds to Russia Malign Influence Campaigns](https://www.darkreading.com/cybersecurity-operations/operation-undercut-russia-malign-influence-campaigns)
 - [Sneaky Skimmer Malware Targets Magento Sites Ahead of Black Friday](https://www.darkreading.com/application-security/sneaky-skimmer-malware-magento-sites-black-friday)
 - [How Learning to Fly Made Me a Better Cybersecurity CEO](https://www.darkreading.com/cybersecurity-operations/how-learning-fly-made-better-cybersecurity-ceo)
-- [Russian Script Kiddie Assembles Massive DDoS Botnet](https://www.darkreading.com/cyberattacks-data-breaches/russian-script-kiddie-assembles-massive-ddos-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
