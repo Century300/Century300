@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Boosts Device Security With Windows Resiliency Initiative](https://www.darkreading.com/endpoint-security/microsoft-boosts-device-security-windows-resiliency-initiative)
 - [How AI Is Enhancing Security in Ridesharing](https://www.darkreading.com/vulnerabilities-threats/ai-enhancing-ridesharing-security)
 - [Ransomware Gangs Seek Pen Testers to Boost Quality](https://www.darkreading.com/threat-intelligence/ransomware-gangs-seek-pen-testers-boost-professionalism)
 - [&#39;Operation Undercut&#39; Adds to Russia Malign Influence Campaigns](https://www.darkreading.com/cybersecurity-operations/operation-undercut-russia-malign-influence-campaigns)
@@ -83,7 +84,6 @@
 - [How Learning to Fly Made Me a Better Cybersecurity CEO](https://www.darkreading.com/cybersecurity-operations/how-learning-fly-made-better-cybersecurity-ceo)
 - [Russian Script Kiddie Assembles Massive DDoS Botnet](https://www.darkreading.com/cyberattacks-data-breaches/russian-script-kiddie-assembles-massive-ddos-botnet)
 - [News Desk 2024: The Rise of Cybersecurity Platforms](https://www.darkreading.com/cloud-security/rise-of-cybersecurity-platform-news-desk-black-hat-2024)
-- [News Desk 2024: Can GenAI Write Secure Code?](https://www.darkreading.com/application-security/can-genai-write-secure-code-news-desk-black-hat-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
