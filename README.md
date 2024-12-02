@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Name That Edge Toon: Shackled!](https://www.darkreading.com/endpoint-security/name-that-edge-toon-shackled)
 - [Does Your Company Need a Virtual CISO?](https://www.darkreading.com/cybersecurity-operations/does-your-company-need-virtual-ciso)
 - [2 UK Hospitals Targeted in Separate Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/two-nhs-hospitals-targeted-in-separate-cyberattacks)
 - [Incident Response Playbooks: Are You Prepared?](https://www.darkreading.com/cyberattacks-data-breaches/incident-response-playbooks-prepared)
@@ -83,7 +84,6 @@
 - [How AI Is Enhancing Security in Ridesharing](https://www.darkreading.com/vulnerabilities-threats/ai-enhancing-ridesharing-security)
 - [Ransomware Gangs Seek Pen Testers to Boost Quality](https://www.darkreading.com/threat-intelligence/ransomware-gangs-seek-pen-testers-boost-professionalism)
 - [&#39;Operation Undercut&#39; Adds to Russia Malign Influence Campaigns](https://www.darkreading.com/cybersecurity-operations/operation-undercut-russia-malign-influence-campaigns)
-- [Sneaky Skimmer Malware Targets Magento Sites Ahead of Black Friday](https://www.darkreading.com/application-security/sneaky-skimmer-malware-magento-sites-black-friday)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
