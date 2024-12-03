@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Decade-Old Cisco Vulnerability Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/decade-old-cisco-vulnerability-exploit)
 - [Cyber-Unsafe Employees Increasingly Put Orgs at Risk](https://www.darkreading.com/vulnerabilities-threats/cyber-unsafe-employees-orgs-risk)
 - [Venom Spider Spins Web of New Malware for MaaS Platform](https://www.darkreading.com/cyberattacks-data-breaches/venom-spider-malware-maas-platform)
 - [Ransomware&#39;s Grip on Healthcare](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-grip-healthcare)
@@ -83,7 +84,6 @@
 - [&#39;White FAANG&#39; Data Export Attack: A Gold Mine for PII Threats](https://www.darkreading.com/cyber-risk/white-faang-data-export-attack-pii-threats)
 - [&#39;Bootkitty&#39; First Bootloader to Take Aim at Linux](https://www.darkreading.com/cyber-risk/bootkitty-first-bootloader-target-linux-systems)
 - [Interpol Cyber-Fraud Action Nets More Than 5K Arrests](https://www.darkreading.com/cybersecurity-operations/interpol-cyber-fraud-action-5k-arrests)
-- [AWS Launches New Incident Response Service](https://www.darkreading.com/threat-intelligence/aws-launches-new-incident-response-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
