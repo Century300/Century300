@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware&#39;s Grip on Healthcare](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-grip-healthcare)
 - [Note From the Editor-in-Chief](https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief)
 - [&#39;White FAANG&#39; Data Export Attack: A Gold Mine for PII Threats](https://www.darkreading.com/cyber-risk/white-faang-data-export-attack-pii-threats)
 - [&#39;Bootkitty&#39; First Bootloader to Take Aim at Linux](https://www.darkreading.com/cyber-risk/bootkitty-first-bootloader-target-linux-systems)
@@ -83,7 +84,6 @@
 - [AWS Launches New Incident Response Service](https://www.darkreading.com/threat-intelligence/aws-launches-new-incident-response-service)
 - [Name That Edge Toon: Shackled!](https://www.darkreading.com/endpoint-security/name-that-edge-toon-shackled)
 - [Does Your Company Need a Virtual CISO?](https://www.darkreading.com/cybersecurity-operations/does-your-company-need-virtual-ciso)
-- [2 UK Hospitals Targeted in Separate Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/two-nhs-hospitals-targeted-in-separate-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
