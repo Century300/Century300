@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Venom Spider Spins Web of New Malware for MaaS Platform](https://www.darkreading.com/cyberattacks-data-breaches/venom-spider-malware-maas-platform)
 - [Ransomware&#39;s Grip on Healthcare](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-grip-healthcare)
 - [Note From the Editor-in-Chief](https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief)
 - [&#39;White FAANG&#39; Data Export Attack: A Gold Mine for PII Threats](https://www.darkreading.com/cyber-risk/white-faang-data-export-attack-pii-threats)
@@ -83,7 +84,6 @@
 - [Interpol Cyber-Fraud Action Nets More Than 5K Arrests](https://www.darkreading.com/cybersecurity-operations/interpol-cyber-fraud-action-5k-arrests)
 - [AWS Launches New Incident Response Service](https://www.darkreading.com/threat-intelligence/aws-launches-new-incident-response-service)
 - [Name That Edge Toon: Shackled!](https://www.darkreading.com/endpoint-security/name-that-edge-toon-shackled)
-- [Does Your Company Need a Virtual CISO?](https://www.darkreading.com/cybersecurity-operations/does-your-company-need-virtual-ciso)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
