@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Veeam Urges Updates After Discovering Critical Vulnerability](https://www.darkreading.com/vulnerabilities-threats/veeam-urges-updates-after-discovering-critical-vulnerability)
 - [Pegasus Spyware Infections Proliferate Across iOS, Android Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-infections-ios-android-devices)
 - [Navigating the Changing Landscape of Cybersecurity Regulations](https://www.darkreading.com/vulnerabilities-threats/navigating-changing-landscape-cybersecurity-regulations)
 - [Digital Certificates With Shorter Lifespans Reduce Security Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/digital-certificate-shorter-lifespan-reduces-security-vulnerabilities)
@@ -83,7 +84,6 @@
 - [Misconfigured WAFs Heighten DoS, Breach Risks](https://www.darkreading.com/application-security/misconfigured-wafs-heighten-dos-breach-risks)
 - [BigID Releases Data Activity Monitoring to Extend DDR, Detect Malicious Actors, and Strengthen Data Security Posture](https://www.darkreading.com/threat-intelligence/bigid-releases-data-activity-monitoring-to-extend-ddr-detect-malicious-actors-and-strengthen-data-security-posture)
 - [KnowBe4 Releases the Latest Phishing Trends in Q3 2024 Phishing Report](https://www.darkreading.com/vulnerabilities-threats/knowbe4-releases-the-latest-phishing-trends-in-q3-2024-phishing-report)
-- [Note From the Editor-in-Chief](https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
