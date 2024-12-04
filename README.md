@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Navigating the Changing Landscape of Cybersecurity Regulations](https://www.darkreading.com/vulnerabilities-threats/navigating-changing-landscape-cybersecurity-regulations)
 - [Digital Certificates With Shorter Lifespans Reduce Security Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/digital-certificate-shorter-lifespan-reduces-security-vulnerabilities)
 - [SecureG, CTIA Project Secures Business Phone Calls](https://www.darkreading.com/mobile-security/secureg-ctia-secures-business-phone-calls)
 - [Misconfigured WAFs Heighten DoS, Breach Risks](https://www.darkreading.com/application-security/misconfigured-wafs-heighten-dos-breach-risks)
@@ -83,7 +84,6 @@
 - [KnowBe4 Releases the Latest Phishing Trends in Q3 2024 Phishing Report](https://www.darkreading.com/vulnerabilities-threats/knowbe4-releases-the-latest-phishing-trends-in-q3-2024-phishing-report)
 - [Note From the Editor-in-Chief](https://www.darkreading.com/cybersecurity-operations/note-from-editor-in-chief)
 - [Decade-Old Cisco Vulnerability Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/decade-old-cisco-vulnerability-exploit)
-- [Cyber-Unsafe Employees Increasingly Put Orgs at Risk](https://www.darkreading.com/vulnerabilities-threats/cyber-unsafe-employees-orgs-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
