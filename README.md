@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Onapsis Expands Code Security Capabilities to Accelerate and De-Risk SAP BTP Development Projects](https://www.darkreading.com/application-security/onapsis-expands-code-security-capabilities-to-accelerate-and-de-risk-sap-btp-development-projects)
+- [Wyden and Schmitt Call for Investigation of Pentagon&#39;s Phone Systems](https://www.darkreading.com/endpoint-security/wyden-and-schmitt-call-for-investigation-of-the-pentagon-s-failure-to-secure-its-phone-systems-against-foreign-spies)
 - [CISA Issues Guidance to Telecom Sector on Salt Typhoon Threat](https://www.darkreading.com/cyberattacks-data-breaches/cisa-issue-guidance-telecoms-salt-typhoon-threat)
+- [Russian FSB Hackers Breach Pakistan&#39;s APT Storm-0156](https://www.darkreading.com/threat-intelligence/russian-fsb-hackers-breach-pakistan-storm-0156)
 - [Veeam Urges Updates After Discovering Critical Vulnerability](https://www.darkreading.com/vulnerabilities-threats/veeam-urges-updates-after-discovering-critical-vulnerability)
 - [Pegasus Spyware Infections Proliferate Across iOS, Android Devices](https://www.darkreading.com/endpoint-security/pegasus-spyware-infections-ios-android-devices)
 - [Navigating the Changing Landscape of Cybersecurity Regulations](https://www.darkreading.com/vulnerabilities-threats/navigating-changing-landscape-cybersecurity-regulations)
 - [Digital Certificates With Shorter Lifespans Reduce Security Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/digital-certificate-shorter-lifespan-reduces-security-vulnerabilities)
-- [SecureG, CTIA Project Secures Business Phone Calls](https://www.darkreading.com/mobile-security/secureg-ctia-secures-business-phone-calls)
-- [Misconfigured WAFs Heighten DoS, Breach Risks](https://www.darkreading.com/application-security/misconfigured-wafs-heighten-dos-breach-risks)
-- [BigID Releases Data Activity Monitoring to Extend DDR, Detect Malicious Actors, and Strengthen Data Security Posture](https://www.darkreading.com/threat-intelligence/bigid-releases-data-activity-monitoring-to-extend-ddr-detect-malicious-actors-and-strengthen-data-security-posture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
