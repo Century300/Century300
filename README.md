@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trojan-as-a-Service Hits Euro Banks, Crypto Exchanges](https://www.darkreading.com/threat-intelligence/trojan-service-hits-euro-banks-crypto-exchanges)
 - [&#39;Earth Minotaur&#39; Exploits WeChat Bugs, Sends Spyware to Uyghurs](https://www.darkreading.com/cyberattacks-data-breaches/earth-minotaur-exploits-wechat-bugs-spyware-uyghurs)
 - [Vulnerability Management Challenges in IoT &amp;amp; OT Environments](https://www.darkreading.com/vulnerabilities-threats/vulnerability-management-challenges-iot-ot-environments)
 - [African Law Enforcement Nabs 1,000+ Cybercrime Suspects](https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-cybercrime-suspects)
@@ -83,7 +84,6 @@
 - [Wyden and Schmitt Call for Investigation of Pentagon&#39;s Phone Systems](https://www.darkreading.com/endpoint-security/wyden-and-schmitt-call-for-investigation-of-the-pentagon-s-failure-to-secure-its-phone-systems-against-foreign-spies)
 - [CISA Issues Guidance to Telecom Sector on Salt Typhoon Threat](https://www.darkreading.com/cyberattacks-data-breaches/cisa-issue-guidance-telecoms-salt-typhoon-threat)
 - [Russian FSB Hackers Breach Pakistani APT Storm-0156](https://www.darkreading.com/threat-intelligence/russian-fsb-hackers-breach-pakistan-storm-0156)
-- [Veeam Urges Updates After Discovering Critical Vulnerability](https://www.darkreading.com/vulnerabilities-threats/veeam-urges-updates-after-discovering-critical-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
