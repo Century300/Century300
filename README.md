@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why SOC Roles Need to Evolve to Attract a New Generation](https://www.darkreading.com/cybersecurity-operations/soc-roles-evolve-attract-new-generation)
+- [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
 - [Library of Congress Offers AI Legal Guidance to Researchers](https://www.darkreading.com/cyber-risk/library-congress-ai-legal-guidance-researchers)
 - [Russia&#39;s &#39;BlueAlpha&#39; APT Hides in Cloudflare Tunnels](https://www.darkreading.com/cloud-security/russias-bluealpha-apt-cloudflare-tunnels)
 - [Bypass Bug Revives Critical N-Day in Mitel MiCollab](https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab)
 - [Trojan-as-a-Service Hits Euro Banks, Crypto Exchanges](https://www.darkreading.com/threat-intelligence/trojan-service-hits-euro-banks-crypto-exchanges)
 - [LLMs Raise Efficiency, Productivity of Cybersecurity Teams](https://www.darkreading.com/vulnerabilities-threats/llms-raise-efficiency-productivity-of-cybersecurity-teams)
 - [&#39;Earth Minotaur&#39; Exploits WeChat Bugs, Sends Spyware to Uyghurs](https://www.darkreading.com/cyberattacks-data-breaches/earth-minotaur-exploits-wechat-bugs-spyware-uyghurs)
-- [Vulnerability Management Challenges in IoT &amp;amp; OT Environments](https://www.darkreading.com/vulnerabilities-threats/vulnerability-management-challenges-iot-ot-environments)
-- [African Law Enforcement Nabs 1,000+ Cybercrime Suspects](https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-cybercrime-suspects)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
