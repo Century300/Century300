@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Texas Teen Arrested for Scattered Spider Telecom Hacks](https://www.darkreading.com/cyberattacks-data-breaches/texas-teen-arrested-scattered-spider-telecom-hacks)
 - [Microsoft Expands Access to Windows Recall AI Feature](https://www.darkreading.com/application-security/microsoft-expands-access-windows-recall-ai-feature)
 - [Why SOC Roles Need to Evolve to Attract a New Generation](https://www.darkreading.com/cybersecurity-operations/soc-roles-evolve-attract-new-generation)
 - [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
@@ -83,7 +84,6 @@
 - [Russia&#39;s &#39;BlueAlpha&#39; APT Hides in Cloudflare Tunnels](https://www.darkreading.com/cloud-security/russias-bluealpha-apt-cloudflare-tunnels)
 - [Bypass Bug Revives Critical N-Day in Mitel MiCollab](https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab)
 - [Trojan-as-a-Service Hits Euro Banks, Crypto Exchanges](https://www.darkreading.com/threat-intelligence/trojan-service-hits-euro-banks-crypto-exchanges)
-- [LLMs Raise Efficiency, Productivity of Cybersecurity Teams](https://www.darkreading.com/vulnerabilities-threats/llms-raise-efficiency-productivity-of-cybersecurity-teams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
