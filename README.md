@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Expands Access to Windows Recall AI Feature](https://www.darkreading.com/application-security/microsoft-expands-access-windows-recall-ai-feature)
 - [Why SOC Roles Need to Evolve to Attract a New Generation](https://www.darkreading.com/cybersecurity-operations/soc-roles-evolve-attract-new-generation)
 - [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
 - [Library of Congress Offers AI Legal Guidance to Researchers](https://www.darkreading.com/cyber-risk/library-congress-ai-legal-guidance-researchers)
@@ -83,7 +84,6 @@
 - [Bypass Bug Revives Critical N-Day in Mitel MiCollab](https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab)
 - [Trojan-as-a-Service Hits Euro Banks, Crypto Exchanges](https://www.darkreading.com/threat-intelligence/trojan-service-hits-euro-banks-crypto-exchanges)
 - [LLMs Raise Efficiency, Productivity of Cybersecurity Teams](https://www.darkreading.com/vulnerabilities-threats/llms-raise-efficiency-productivity-of-cybersecurity-teams)
-- [&#39;Earth Minotaur&#39; Exploits WeChat Bugs, Sends Spyware to Uyghurs](https://www.darkreading.com/cyberattacks-data-breaches/earth-minotaur-exploits-wechat-bugs-spyware-uyghurs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
