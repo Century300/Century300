@@ -80,10 +80,10 @@
 - [Microsoft Expands Access to Windows Recall AI Feature](https://www.darkreading.com/application-security/microsoft-expands-access-windows-recall-ai-feature)
 - [Why SOC Roles Need to Evolve to Attract a New Generation](https://www.darkreading.com/cybersecurity-operations/soc-roles-evolve-attract-new-generation)
 - [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
+- [Compromised Software Code Poses New Systemic Risk to U.S. Critical Infrastructure](https://www.darkreading.com/application-security/compromised-software-code-poses-systemic-risks-to-critical-infrastructure)
 - [Library of Congress Offers AI Legal Guidance to Researchers](https://www.darkreading.com/cyber-risk/library-congress-ai-legal-guidance-researchers)
 - [Russia&#39;s &#39;BlueAlpha&#39; APT Hides in Cloudflare Tunnels](https://www.darkreading.com/cloud-security/russias-bluealpha-apt-cloudflare-tunnels)
 - [Bypass Bug Revives Critical N-Day in Mitel MiCollab](https://www.darkreading.com/vulnerabilities-threats/bypass-bug-critical-n-day-mitel-micollab)
-- [Trojan-as-a-Service Hits Euro Banks, Crypto Exchanges](https://www.darkreading.com/threat-intelligence/trojan-service-hits-euro-banks-crypto-exchanges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
