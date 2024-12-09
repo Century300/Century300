@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Genetec Physical Security Report Shows Accelerating Hybrid Cloud Adoption](https://www.darkreading.com/physical-security/genetec-physical-security-report-shows-accelerating-hybrid-cloud-adoption)
 - [Large-Scale Incidents &amp;amp; the Art of Vulnerability Prioritization](https://www.darkreading.com/vulnerabilities-threats/large-scale-incidents-art-vulnerability-prioritization)
 - [Texas Teen Arrested for Scattered Spider Telecom Hacks](https://www.darkreading.com/cyberattacks-data-breaches/texas-teen-arrested-scattered-spider-telecom-hacks)
 - [Microsoft Expands Access to Windows Recall AI Feature](https://www.darkreading.com/application-security/microsoft-expands-access-windows-recall-ai-feature)
@@ -83,7 +84,6 @@
 - [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
 - [Compromised Software Code Poses New Systemic Risk to U.S. Critical Infrastructure](https://www.darkreading.com/application-security/compromised-software-code-poses-systemic-risks-to-critical-infrastructure)
 - [Library of Congress Offers AI Legal Guidance to Researchers](https://www.darkreading.com/cyber-risk/library-congress-ai-legal-guidance-researchers)
-- [Russia&#39;s &#39;BlueAlpha&#39; APT Hides in Cloudflare Tunnels](https://www.darkreading.com/cloud-security/russias-bluealpha-apt-cloudflare-tunnels)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
