@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Can Use QR Codes to Bypass Browser Isolation](https://www.darkreading.com/endpoint-security/attackers-qr-codes-bypass-browser-isolation)
 - [Genetec Physical Security Report Shows Accelerating Hybrid Cloud Adoption](https://www.darkreading.com/physical-security/genetec-physical-security-report-shows-accelerating-hybrid-cloud-adoption)
 - [Large-Scale Incidents &amp;amp; the Art of Vulnerability Prioritization](https://www.darkreading.com/vulnerabilities-threats/large-scale-incidents-art-vulnerability-prioritization)
 - [Texas Teen Arrested for Scattered Spider Telecom Hacks](https://www.darkreading.com/cyberattacks-data-breaches/texas-teen-arrested-scattered-spider-telecom-hacks)
@@ -83,7 +84,6 @@
 - [Why SOC Roles Need to Evolve to Attract a New Generation](https://www.darkreading.com/cybersecurity-operations/soc-roles-evolve-attract-new-generation)
 - [Open Source Security Priorities Get a Reshuffle](https://www.darkreading.com/application-security/critical-open-source-rankings-shuffle-popularity-python-cloud-grows)
 - [Compromised Software Code Poses New Systemic Risk to U.S. Critical Infrastructure](https://www.darkreading.com/application-security/compromised-software-code-poses-systemic-risks-to-critical-infrastructure)
-- [Library of Congress Offers AI Legal Guidance to Researchers](https://www.darkreading.com/cyber-risk/library-congress-ai-legal-guidance-researchers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
