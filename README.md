@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sprawling &#39;Operation Digital Eye&#39; Attack Targets European IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/operation-digital-eye-attack-targets-european-it-orgs)
 - [Microsoft NTLM Zero-Day to Remain Unpatched Until April](https://www.darkreading.com/application-security/microsoft-ntlm-zero-day-remain-unpatched-april)
 - [Millionaire Airbnb Phishing Ring Busted Up by Police](https://www.darkreading.com/cyberattacks-data-breaches/millionaire-airbnb-phishing-ring-busted-police)
 - [Attackers Can Use QR Codes to Bypass Browser Isolation](https://www.darkreading.com/endpoint-security/attackers-qr-codes-bypass-browser-isolation)
@@ -83,7 +84,6 @@
 - [How Art Appreciation Supplements Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/how-art-appreciation-supplements-cybersecurity-skills)
 - [Google Launches Open-Source Patch Validation Tool](https://www.darkreading.com/vulnerabilities-threats/google-open-source-patch-validation-tool)
 - [Large-Scale Incidents &amp;amp; the Art of Vulnerability Prioritization](https://www.darkreading.com/vulnerabilities-threats/large-scale-incidents-art-vulnerability-prioritization)
-- [Texas Teen Arrested for Scattered Spider Telecom Hacks](https://www.darkreading.com/cyberattacks-data-breaches/texas-teen-arrested-scattered-spider-telecom-hacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
