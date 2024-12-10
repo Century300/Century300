@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Actively Exploited Zero-Day, Critical RCEs Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/microsoft-zero-day-critical-rces-patch-tuesday)
 - [&#39;Termite&#39; Ransomware Likely Behind Cleo Zero-Day Attacks](https://www.darkreading.com/cyberattacks-data-breaches/termite-ransomware-behind-cleo-zero-day-attacks)
 - [Scottish Parliament TV at Risk From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes)
 - [Cybercrime Gangs Abscond With Thousands of AWS Credentials](https://www.darkreading.com/endpoint-security/cybercrime-gangs-steal-thousands-aws-credentials)
@@ -83,7 +84,6 @@
 - [Sprawling &#39;Operation Digital Eye&#39; Attack Targets European IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/operation-digital-eye-attack-targets-european-it-orgs)
 - [Microsoft NTLM Zero-Day to Remain Unpatched Until April](https://www.darkreading.com/application-security/microsoft-ntlm-zero-day-remain-unpatched-april)
 - [Millionaire Airbnb Phishing Ring Busted Up by Police](https://www.darkreading.com/cyberattacks-data-breaches/millionaire-airbnb-phishing-ring-busted-police)
-- [Attackers Can Use QR Codes to Bypass Browser Isolation](https://www.darkreading.com/endpoint-security/attackers-qr-codes-bypass-browser-isolation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
