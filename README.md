@@ -82,7 +82,7 @@
 - [Attackers Can Use QR Codes to Bypass Browser Isolation](https://www.darkreading.com/endpoint-security/attackers-qr-codes-bypass-browser-isolation)
 - [Genetec Physical Security Report Shows Accelerating Hybrid Cloud Adoption](https://www.darkreading.com/physical-security/genetec-physical-security-report-shows-accelerating-hybrid-cloud-adoption)
 - [How Art Appreciation Supplements Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/how-art-appreciation-supplements-cybersecurity-skills)
-- [Google Launches Open-Source Patch Validation Tool](https://www.darkreading.com/vulnerabilities-threats/google-open-source-patch-validation-tool)
+- [Google Launches Open Source Patch Validation Tool](https://www.darkreading.com/vulnerabilities-threats/google-open-source-patch-validation-tool)
 - [Large-Scale Incidents &amp;amp; the Art of Vulnerability Prioritization](https://www.darkreading.com/vulnerabilities-threats/large-scale-incidents-art-vulnerability-prioritization)
 <!-- DARKREADING:END -->
 
