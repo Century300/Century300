@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scottish Parliament TV at Risk From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes)
 - [Cybercrime Gangs Abscond With Thousands of AWS Credentials](https://www.darkreading.com/endpoint-security/cybercrime-gangs-steal-thousands-aws-credentials)
 - [Lessons From the Largest Software Supply Chain Incidents](https://www.darkreading.com/vulnerabilities-threats/lessons-largest-software-supply-chain-incidents)
 - [Sprawling &#39;Operation Digital Eye&#39; Attack Targets European IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/operation-digital-eye-attack-targets-european-it-orgs)
@@ -83,7 +84,6 @@
 - [Millionaire Airbnb Phishing Ring Busted Up by Police](https://www.darkreading.com/cyberattacks-data-breaches/millionaire-airbnb-phishing-ring-busted-police)
 - [Attackers Can Use QR Codes to Bypass Browser Isolation](https://www.darkreading.com/endpoint-security/attackers-qr-codes-bypass-browser-isolation)
 - [Genetec Physical Security Report Shows Accelerating Hybrid Cloud Adoption](https://www.darkreading.com/physical-security/genetec-physical-security-report-shows-accelerating-hybrid-cloud-adoption)
-- [How Art Appreciation Supplements Cybersecurity Skills](https://www.darkreading.com/cybersecurity-operations/how-art-appreciation-supplements-cybersecurity-skills)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
