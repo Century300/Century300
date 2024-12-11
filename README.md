@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Lessons From 3 Public Breaches](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-lessons-from-3-public-breaches)
 - [Tips for Preventing Breaches in 2025](https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025)
 - [Governments, Telcos Ward Off China&#39;s Hacking Typhoons](https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons)
 - [Snowflake Rolls Out Mandatory MFA Plan](https://www.darkreading.com/identity-access-management-security/snowflake-rolls-out-mandatory-mfa-plan)
@@ -83,7 +84,6 @@
 - [Actively Exploited Zero-Day, Critical RCEs Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/microsoft-zero-day-critical-rces-patch-tuesday)
 - [&#39;Termite&#39; Ransomware Likely Behind Cleo Zero-Day Attacks](https://www.darkreading.com/cyberattacks-data-breaches/termite-ransomware-behind-cleo-zero-day-attacks)
 - [Scottish Parliament TV at Risk From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes)
-- [Cybercrime Gangs Abscond With Thousands of AWS Credentials](https://www.darkreading.com/endpoint-security/cybercrime-gangs-steal-thousands-aws-credentials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
