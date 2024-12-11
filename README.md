@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Governments, Telcos Ward Off China&#39;s Hacking Typhoons](https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons)
+- [Snowflake Rolls Out Mandatory MFA Plan](https://www.darkreading.com/identity-access-management-security/snowflake-rolls-out-mandatory-mfa-plan)
 - [FCC Proposes New Cybersecurity Rules for Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/fcc-new-cybersecurity-rules-telecoms)
 - [Actively Exploited Zero-Day, Critical RCEs Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/microsoft-zero-day-critical-rces-patch-tuesday)
 - [&#39;Termite&#39; Ransomware Likely Behind Cleo Zero-Day Attacks](https://www.darkreading.com/cyberattacks-data-breaches/termite-ransomware-behind-cleo-zero-day-attacks)
 - [Scottish Parliament TV at Risk From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes)
 - [Cybercrime Gangs Abscond With Thousands of AWS Credentials](https://www.darkreading.com/endpoint-security/cybercrime-gangs-steal-thousands-aws-credentials)
 - [Lessons From the Largest Software Supply Chain Incidents](https://www.darkreading.com/vulnerabilities-threats/lessons-largest-software-supply-chain-incidents)
-- [Sprawling &#39;Operation Digital Eye&#39; Attack Targets European IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/operation-digital-eye-attack-targets-european-it-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
