@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researchers Crack Microsoft Azure MFA in an Hour](https://www.darkreading.com/cyberattacks-data-breaches/researchers-crack-microsoft-azure-mfa-hour)
 - [Cybersecurity Lessons From 3 Public Breaches](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-lessons-from-3-public-breaches)
 - [Tips for Preventing Breaches in 2025](https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025)
 - [Governments, Telcos Ward Off China&#39;s Hacking Typhoons](https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons)
@@ -83,7 +84,6 @@
 - [FCC Proposes New Cybersecurity Rules for Telecoms](https://www.darkreading.com/cyberattacks-data-breaches/fcc-new-cybersecurity-rules-telecoms)
 - [Actively Exploited Zero-Day, Critical RCEs Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/microsoft-zero-day-critical-rces-patch-tuesday)
 - [&#39;Termite&#39; Ransomware Likely Behind Cleo Zero-Day Attacks](https://www.darkreading.com/cyberattacks-data-breaches/termite-ransomware-behind-cleo-zero-day-attacks)
-- [Scottish Parliament TV at Risk From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/scottish-parliament-tv-risk-deepfakes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
