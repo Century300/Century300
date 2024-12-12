@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cultivating a Hacker Mindset in Cybersecurity Defense](https://www.darkreading.com/cyberattacks-data-breaches/cultivating-hacker-mindset-cybersecurity-defense)
 - [Chinese Hacker Pwns 81K Sophos Devices With Zero-Day Bug](https://www.darkreading.com/cyberattacks-data-breaches/chinese-hacker-pwns-81k-sophos-devices-with-zero-day-bug)
 - [Krispy Kreme Doughnut Delivery Gets Cooked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/krispy-kreme-doughnut-delivery-cooked-cyberattack)
 - [Symmetrical Cryptography Pioneer Targets the Post-Quantum Era](https://www.darkreading.com/cyber-risk/symmetrical-cryptography-post-quantum-era)
@@ -83,7 +84,6 @@
 - [Cybersecurity Lessons From 3 Public Breaches](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-lessons-from-3-public-breaches)
 - [Tips for Preventing Breaches in 2025](https://www.darkreading.com/cyberattacks-data-breaches/tips-preventing-breaches-2025)
 - [Governments, Telcos Ward Off China&#39;s Hacking Typhoons](https://www.darkreading.com/cyberattacks-data-breaches/governments-telcos-chinas-hacking-typhoons)
-- [Snowflake Rolls Out Mandatory MFA Plan](https://www.darkreading.com/identity-access-management-security/snowflake-rolls-out-mandatory-mfa-plan)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
