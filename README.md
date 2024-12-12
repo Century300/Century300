@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [IoT Cloud Cracked by &#39;Open Sesame&#39; Over-the-Air Attack](https://www.darkreading.com/ics-ot-security/iot-cloud-cracked-open-sesame-attack)
 - [Europol Cracks Down on Holiday DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks)
 - [Efforts to Secure US Telcos Beset by Salt Typhoon Might Fall Flat](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
 - [Cultivating a Hacker Mindset in Cybersecurity Defense](https://www.darkreading.com/cyberattacks-data-breaches/cultivating-hacker-mindset-cybersecurity-defense)
@@ -83,7 +84,6 @@
 - [Krispy Kreme Doughnut Delivery Gets Cooked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/krispy-kreme-doughnut-delivery-cooked-cyberattack)
 - [Symmetrical Cryptography Pioneer Targets the Post-Quantum Era](https://www.darkreading.com/cyber-risk/symmetrical-cryptography-post-quantum-era)
 - [Researchers Crack Microsoft Azure MFA in an Hour](https://www.darkreading.com/cyberattacks-data-breaches/researchers-crack-microsoft-azure-mfa-hour)
-- [Cybersecurity Lessons From 3 Public Breaches](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-lessons-from-3-public-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
