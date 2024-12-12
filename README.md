@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Cops Caught Using Android Spyware to Track Mobile Devices](https://www.darkreading.com/cyberattacks-data-breaches/chinese-cops-using-android-spyware-track-mobile-devices)
 - [IoT Cloud Cracked by &#39;Open Sesame&#39; Over-the-Air Attack](https://www.darkreading.com/ics-ot-security/iot-cloud-cracked-open-sesame-attack)
 - [Europol Cracks Down on Holiday DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks)
 - [Efforts to Secure US Telcos Beset by Salt Typhoon Might Fall Flat](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
@@ -83,7 +84,6 @@
 - [Chinese Hacker Pwns 81K Sophos Devices With Zero-Day Bug](https://www.darkreading.com/cyberattacks-data-breaches/chinese-hacker-pwns-81k-sophos-devices-with-zero-day-bug)
 - [Krispy Kreme Doughnut Delivery Gets Cooked in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/krispy-kreme-doughnut-delivery-cooked-cyberattack)
 - [Symmetrical Cryptography Pioneer Targets the Post-Quantum Era](https://www.darkreading.com/cyber-risk/symmetrical-cryptography-post-quantum-era)
-- [Researchers Crack Microsoft Azure MFA in an Hour](https://www.darkreading.com/cyberattacks-data-breaches/researchers-crack-microsoft-azure-mfa-hour)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
