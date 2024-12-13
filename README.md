@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OData Injection Risk in Low-Code/No-Code Environments](https://www.darkreading.com/vulnerabilities-threats/odata-injection-risk-low-code-no-code-environments)
 - [&#39;Dubai Police&#39; Lures Anchor Wave of UAE Mobile Attacks](https://www.darkreading.com/cyberattacks-data-breaches/dubai-police-lures-uae-mobile-attacks)
 - [Lloyd&#39;s of London Launches New Cyber Insurance Consortium](https://www.darkreading.com/cyber-risk/lloyd-s-of-london-launches-new-cyber-insurance-consortium)
 - [336K Prometheus Instances Exposed to DoS, &#39;Repojacking&#39;](https://www.darkreading.com/cloud-security/336k-prometheus-instances-exposed-dos-repojacking)
@@ -83,7 +84,6 @@
 - [IoT Cloud Cracked by &#39;Open Sesame&#39; Over-the-Air Attack](https://www.darkreading.com/ics-ot-security/iot-cloud-cracked-open-sesame-attack)
 - [Europol Cracks Down on Holiday DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks)
 - [Efforts to Secure US Telcos Beset by Salt Typhoon Might Fall Flat](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
-- [Cultivating a Hacker Mindset in Cybersecurity Defense](https://www.darkreading.com/cyberattacks-data-breaches/cultivating-hacker-mindset-cybersecurity-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
