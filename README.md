@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Generative AI Security Tools Go Open Source](https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source)
+- [With &#39;TPUXtract,&#39; Attackers Can Steal Orgs&#39; AI Models](https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models)
 - [Test Your Cyber Skills With the SANS Holiday Hack Challenge](https://www.darkreading.com/endpoint-security/test-your-cyber-skills-with-the-sans-holiday-hack-challenge)
 - [OData Injection Risk in Low-Code/No-Code Environments](https://www.darkreading.com/vulnerabilities-threats/odata-injection-risk-low-code-no-code-environments)
 - [&#39;Dubai Police&#39; Lures Anchor Wave of UAE Mobile Attacks](https://www.darkreading.com/cyberattacks-data-breaches/dubai-police-lures-uae-mobile-attacks)
 - [Lloyd&#39;s of London Launches New Cyber Insurance Consortium](https://www.darkreading.com/cyber-risk/lloyd-s-of-london-launches-new-cyber-insurance-consortium)
 - [336K Prometheus Instances Exposed to DoS, &#39;Repojacking&#39;](https://www.darkreading.com/cloud-security/336k-prometheus-instances-exposed-dos-repojacking)
 - [Chinese Cops Caught Using Android Spyware to Track Mobile Devices](https://www.darkreading.com/cyberattacks-data-breaches/chinese-cops-using-android-spyware-track-mobile-devices)
-- [IoT Cloud Cracked by &#39;Open Sesame&#39; Over-the-Air Attack](https://www.darkreading.com/ics-ot-security/iot-cloud-cracked-open-sesame-attack)
-- [Europol Cracks Down on Holiday DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europol-holiday-ddos-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
