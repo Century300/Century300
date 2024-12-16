@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Does Desktop AI Come With a Side of Risk?](https://www.darkreading.com/application-security/does-desktop-ai-risk)
 - [Citizen Development Moves Too Fast for Its Own Good](https://www.darkreading.com/application-security/citizen-development-moves-too-fast-for-its-own-good)
 - [The Education Industry: Why Its Data Must Be Protected](https://www.darkreading.com/vulnerabilities-threats/education-industry-data-must-be-protected)
 - [Microsoft Teams Vishing Spreads DarkGate RAT](https://www.darkreading.com/cyberattacks-data-breaches/vishing-via-microsoft-teams-spreads-darkgate-rat)
@@ -83,7 +84,6 @@
 - [Versa Introduces Integrated Endpoint Data Loss Prevention in SASE Solution](https://www.darkreading.com/endpoint-security/versa-introduces-integrated-endpoint-data-loss-prevention-in-sase-solution)
 - [Cleo MFT Zero-Day Exploits Are About to Escalate, Analysts Warn](https://www.darkreading.com/application-security/cleo-mft-zero-day-exploits-escalate-analysts-warn)
 - [Generative AI Security Tools Go Open Source](https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source)
-- [With &#39;TPUXtract,&#39; Attackers Can Steal Orgs&#39; AI Models](https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
