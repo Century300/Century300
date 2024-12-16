@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Education Industry: Why Its Data Must Be Protected](https://www.darkreading.com/vulnerabilities-threats/education-industry-data-must-be-protected)
+- [Microsoft Teams Vishing Spreads DarkGate RAT](https://www.darkreading.com/cyberattacks-data-breaches/vishing-via-microsoft-teams-spreads-darkgate-rat)
 - [Zerto Introduces Cloud Vault Solution for Enhanced Cyber Resilience Through MSPs](https://www.darkreading.com/cloud-security/zerto-introduces-cloud-vault-solution-for-enhanced-cyber-resilience-through-msps)
 - [Versa Introduces Integrated Endpoint Data Loss Prevention in SASE Solution](https://www.darkreading.com/endpoint-security/versa-introduces-integrated-endpoint-data-loss-prevention-in-sase-solution)
 - [Cleo MFT Zero-Day Exploits Are About to Escalate, Analysts Warn](https://www.darkreading.com/application-security/cleo-mft-zero-day-exploits-escalate-analysts-warn)
 - [Generative AI Security Tools Go Open Source](https://www.darkreading.com/application-security/generative-ai-breaking-tools-go-open-source)
 - [With &#39;TPUXtract,&#39; Attackers Can Steal Orgs&#39; AI Models](https://www.darkreading.com/vulnerabilities-threats/tpuxtract-attackers-steal-ai-models)
 - [Test Your Cyber Skills With the SANS Holiday Hack Challenge](https://www.darkreading.com/endpoint-security/test-your-cyber-skills-with-the-sans-holiday-hack-challenge)
-- [OData Injection Risk in Low-Code/No-Code Environments](https://www.darkreading.com/vulnerabilities-threats/odata-injection-risk-low-code-no-code-environments)
-- [&#39;Dubai Police&#39; Lures Anchor Wave of UAE Mobile Attacks](https://www.darkreading.com/cyberattacks-data-breaches/dubai-police-lures-uae-mobile-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
