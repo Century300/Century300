@@ -82,8 +82,8 @@
 - [Azure Data Factory Bugs Expose Cloud Infrastructure](https://www.darkreading.com/cloud-security/azure-data-factory-bugs-expose-cloud-infrastructure)
 - [CompTIA Xpert Series Expands With SecurityX Professional Certification](https://www.darkreading.com/cybersecurity-careers/comptia-xpert-series-expands-securityx-professional-certification)
 - [To Defeat Cybercriminals, Understand How They Think](https://www.darkreading.com/vulnerabilities-threats/defeat-cybercriminals-understand-how-they-think)
+- [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
 - [BlackBerry to Sell Cylance to Arctic Wolf](https://www.darkreading.com/endpoint-security/blackberry-sell-cylance-arctic-wolf)
-- [Does Desktop AI Come With a Side of Risk?](https://www.darkreading.com/application-security/does-desktop-ai-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
