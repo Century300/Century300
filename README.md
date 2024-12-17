@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Azure Data Factory Bugs Expose Cloud Infrastructure](https://www.darkreading.com/cloud-security/azure-data-factory-bugs-expose-cloud-infrastructure)
 - [CompTIA Xpert Series Expands With SecurityX Professional Certification](https://www.darkreading.com/cybersecurity-careers/comptia-xpert-series-expands-securityx-professional-certification)
 - [To Defeat Cybercriminals, Understand How They Think](https://www.darkreading.com/vulnerabilities-threats/defeat-cybercriminals-understand-how-they-think)
 - [BlackBerry to Sell Cylance to Arctic Wolf](https://www.darkreading.com/endpoint-security/blackberry-sell-cylance-arctic-wolf)
@@ -83,7 +84,6 @@
 - [Citizen Development Moves Too Fast for Its Own Good](https://www.darkreading.com/application-security/citizen-development-moves-too-fast-for-its-own-good)
 - [The Education Industry: Why Its Data Must Be Protected](https://www.darkreading.com/vulnerabilities-threats/education-industry-data-must-be-protected)
 - [Microsoft Teams Vishing Spreads DarkGate RAT](https://www.darkreading.com/cyberattacks-data-breaches/vishing-via-microsoft-teams-spreads-darkgate-rat)
-- [Zerto Introduces Cloud Vault Solution for Enhanced Cyber Resilience Through MSPs](https://www.darkreading.com/cloud-security/zerto-introduces-cloud-vault-solution-for-enhanced-cyber-resilience-through-msps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
