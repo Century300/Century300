@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Texas Tech Fumbles Medical Data in Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/texas-tech-medical-data-breach)
 - [CISA Directs Federal Agencies to Secure Cloud Environments](https://www.darkreading.com/cloud-security/cisa-directs-federal-agencies-secure-cloud-environments)
 - [Delinea Joins CVE Numbering Authority Program](https://www.darkreading.com/application-security/delinea-joins-cve-numbering-authority-program)
 - [Azure Data Factory Bugs Expose Cloud Infrastructure](https://www.darkreading.com/cloud-security/azure-data-factory-bugs-expose-cloud-infrastructure)
@@ -83,7 +84,6 @@
 - [To Defeat Cybercriminals, Understand How They Think](https://www.darkreading.com/vulnerabilities-threats/defeat-cybercriminals-understand-how-they-think)
 - [BlackBerry to Sell Cylance to Arctic Wolf](https://www.darkreading.com/endpoint-security/blackberry-sell-cylance-arctic-wolf)
 - [Does Desktop AI Come With a Side of Risk?](https://www.darkreading.com/application-security/does-desktop-ai-risk)
-- [Citizen Development Moves Too Fast for Its Own Good](https://www.darkreading.com/application-security/citizen-development-moves-too-fast-for-its-own-good)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
