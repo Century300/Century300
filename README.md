@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thai Police Systems Under Fire From &#39;Yokai&#39; Backdoor](https://www.darkreading.com/threat-intelligence/thai-police-systems-yokai-backdoor)
 - [Texas Tech Fumbles Medical Data in Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/texas-tech-medical-data-breach)
 - [CISA Directs Federal Agencies to Secure Cloud Environments](https://www.darkreading.com/cloud-security/cisa-directs-federal-agencies-secure-cloud-environments)
 - [Delinea Joins CVE Numbering Authority Program](https://www.darkreading.com/application-security/delinea-joins-cve-numbering-authority-program)
@@ -83,7 +84,6 @@
 - [CompTIA Xpert Series Expands With SecurityX Professional Certification](https://www.darkreading.com/cybersecurity-careers/comptia-xpert-series-expands-securityx-professional-certification)
 - [To Defeat Cybercriminals, Understand How They Think](https://www.darkreading.com/vulnerabilities-threats/defeat-cybercriminals-understand-how-they-think)
 - [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
-- [BlackBerry to Sell Cylance to Arctic Wolf](https://www.darkreading.com/endpoint-security/blackberry-sell-cylance-arctic-wolf)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
