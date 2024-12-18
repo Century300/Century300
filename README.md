@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Phishers Spoof Google Calendar Invites in Fast-Spreading, Global Campaign](https://www.darkreading.com/cyberattacks-data-breaches/phishers-spoof-google-calendar-invites-global-campaign)
+- [Manufacturers Lose Azure Creds to HubSpot Phishing Attack](https://www.darkreading.com/cloud-security/manufacturing-orgs-azure-creds-hubspot-phishing-attack)
 - [Wallarm Releases API Honeypot Report Highlighting API Attack Trends](https://www.darkreading.com/cyberattacks-data-breaches/wallarm-releases-api-honeypot-report-highlighting-api-attack-trends)
 - [The Importance of Empowering CFOs Against Cyber Threats](https://www.darkreading.com/vulnerabilities-threats/empowering-cfos-against-cyber-threats)
 - [Midnight Blizzard Taps Phishing Emails, Rogue RDP Nets](https://www.darkreading.com/threat-intelligence/midnight-blizzard-taps-phishing-email-rogue-rdp-nets)
 - [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
 - [Thai Police Systems Under Fire From &#39;Yokai&#39; Backdoor](https://www.darkreading.com/threat-intelligence/thai-police-systems-yokai-backdoor)
 - [Texas Tech Fumbles Medical Data in Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/texas-tech-medical-data-breach)
-- [CISA Directs Federal Agencies to Secure Cloud Environments](https://www.darkreading.com/cloud-security/cisa-directs-federal-agencies-secure-cloud-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
