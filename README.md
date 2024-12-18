@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
 - [Thai Police Systems Under Fire From &#39;Yokai&#39; Backdoor](https://www.darkreading.com/threat-intelligence/thai-police-systems-yokai-backdoor)
 - [Texas Tech Fumbles Medical Data in Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/texas-tech-medical-data-breach)
 - [CISA Directs Federal Agencies to Secure Cloud Environments](https://www.darkreading.com/cloud-security/cisa-directs-federal-agencies-secure-cloud-environments)
@@ -83,7 +84,6 @@
 - [Azure Data Factory Bugs Expose Cloud Infrastructure](https://www.darkreading.com/cloud-security/azure-data-factory-bugs-expose-cloud-infrastructure)
 - [CompTIA Xpert Series Expands With SecurityX Professional Certification](https://www.darkreading.com/cybersecurity-careers/comptia-xpert-series-expands-securityx-professional-certification)
 - [To Defeat Cybercriminals, Understand How They Think](https://www.darkreading.com/vulnerabilities-threats/defeat-cybercriminals-understand-how-they-think)
-- [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
