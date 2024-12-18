@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phishers Spoof Google Calendar Invites in Fast-Spreading, Global Campaign](https://www.darkreading.com/cyberattacks-data-breaches/phishers-spoof-google-calendar-invites-global-campaign)
 - [Wallarm Releases API Honeypot Report Highlighting API Attack Trends](https://www.darkreading.com/cyberattacks-data-breaches/wallarm-releases-api-honeypot-report-highlighting-api-attack-trends)
 - [The Importance of Empowering CFOs Against Cyber Threats](https://www.darkreading.com/vulnerabilities-threats/empowering-cfos-against-cyber-threats)
 - [Midnight Blizzard Taps Phishing Emails, Rogue RDP Nets](https://www.darkreading.com/threat-intelligence/midnight-blizzard-taps-phishing-email-rogue-rdp-nets)
@@ -83,7 +84,6 @@
 - [Thai Police Systems Under Fire From &#39;Yokai&#39; Backdoor](https://www.darkreading.com/threat-intelligence/thai-police-systems-yokai-backdoor)
 - [Texas Tech Fumbles Medical Data in Massive Breach](https://www.darkreading.com/cyberattacks-data-breaches/texas-tech-medical-data-breach)
 - [CISA Directs Federal Agencies to Secure Cloud Environments](https://www.darkreading.com/cloud-security/cisa-directs-federal-agencies-secure-cloud-environments)
-- [Delinea Joins CVE Numbering Authority Program](https://www.darkreading.com/application-security/delinea-joins-cve-numbering-authority-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
