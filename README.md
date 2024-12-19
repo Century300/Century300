@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Orgs Scramble to Fix Actively Exploited Bug in Apache Struts 2](https://www.darkreading.com/application-security/actively-exploited-bug-struts-2)
 - [Bridging the &#39;Keyboard-to-Chair&#39; Gap With Identity Verification](https://www.darkreading.com/identity-access-management-security/bridging-the-keyboard-to-chair-gap-with-identity-verification)
 - [Vendors Chase Potential of Non-Human Identity Management](https://www.darkreading.com/identity-access-management-security/vendors-attackers-chase-potential-of-non-human-identities)
 - [Malvertisers Fool Google With AI-Generated Decoy Content](https://www.darkreading.com/cloud-security/malvertisers-fool-google-ai-generated-decoy-content)
@@ -83,7 +84,6 @@
 - [Supply Chain Risk Mitigation Must Be a Priority in 2025](https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025)
 - [India Sees Surge in API Attacks, Especially in Banking, Utilities](https://www.darkreading.com/cyber-risk/india-surge-api-attacks-banking-utilities)
 - [Interpol: Can We Drop the Term &#39;Pig Butchering&#39;?](https://www.darkreading.com/cyberattacks-data-breaches/interpol-time-drop-term-pig-butchering)
-- [Recorded Future: Russia&#39;s &#39;Undesirable&#39; Designation Is a Compliment](https://www.darkreading.com/threat-intelligence/recorded-future-russias-undesirable-designation-compliment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
