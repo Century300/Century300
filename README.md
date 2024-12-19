@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Sees Surge in API Attacks, Especially in Banking, Utilities](https://www.darkreading.com/cyber-risk/india-surge-api-attacks-banking-utilities)
 - [Interpol: Can We Drop the Term &#39;Pig Butchering&#39;?](https://www.darkreading.com/cyberattacks-data-breaches/interpol-time-drop-term-pig-butchering)
 - [Recorded Future: Russia&#39;s &#39;Undesirable&#39; Designation Is a Compliment](https://www.darkreading.com/threat-intelligence/recorded-future-russias-undesirable-designation-compliment)
 - [Phishers Spoof Google Calendar Invites in Fast-Spreading, Global Campaign](https://www.darkreading.com/cyberattacks-data-breaches/phishers-spoof-google-calendar-invites-global-campaign)
@@ -83,7 +84,6 @@
 - [Wallarm Releases API Honeypot Report Highlighting API Attack Trends](https://www.darkreading.com/cyberattacks-data-breaches/wallarm-releases-api-honeypot-report-highlighting-api-attack-trends)
 - [The Importance of Empowering CFOs Against Cyber Threats](https://www.darkreading.com/vulnerabilities-threats/empowering-cfos-against-cyber-threats)
 - [Midnight Blizzard Taps Phishing Emails, Rogue RDP Nets](https://www.darkreading.com/threat-intelligence/midnight-blizzard-taps-phishing-email-rogue-rdp-nets)
-- [Wald.ai Launches Data Loss Protection for AI Platforms](https://www.darkreading.com/data-privacy/wald-launches-data-loss-protection-for-ai-platforms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
