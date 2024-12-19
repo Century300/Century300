@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Bridging the &#39;Keyboard-to-Chair&#39; Gap With Identity Verification](https://www.darkreading.com/identity-access-management-security/bridging-the-keyboard-to-chair-gap-with-identity-verification)
+- [Malvertisers Fool Google With AI-Generated Decoy Content](https://www.darkreading.com/cloud-security/malvertisers-fool-google-ai-generated-decoy-content)
 - [CISA Releases Draft of National Cyber Incident Response Plan](https://www.darkreading.com/cyberattacks-data-breaches/cisa-releases-draft-of-national-cyber-incident-response-plan)
 - [Supply Chain Risk Mitigation Must Be a Priority in 2025](https://www.darkreading.com/cyberattacks-data-breaches/supply-chain-risk-mitigation-priority-2025)
 - [Vendors, Attackers Chase Potential of Non-Human ID Mgmt](https://www.darkreading.com/identity-access-management-security/vendors-attackers-chase-potential-of-non-human-identities)
 - [India Sees Surge in API Attacks, Especially in Banking, Utilities](https://www.darkreading.com/cyber-risk/india-surge-api-attacks-banking-utilities)
 - [Interpol: Can We Drop the Term &#39;Pig Butchering&#39;?](https://www.darkreading.com/cyberattacks-data-breaches/interpol-time-drop-term-pig-butchering)
 - [Recorded Future: Russia&#39;s &#39;Undesirable&#39; Designation Is a Compliment](https://www.darkreading.com/threat-intelligence/recorded-future-russias-undesirable-designation-compliment)
-- [Phishers Spoof Google Calendar Invites in Fast-Spreading, Global Campaign](https://www.darkreading.com/cyberattacks-data-breaches/phishers-spoof-google-calendar-invites-global-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
