@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Ban on TP-Link Routers More About Politics Than Exploitation Risk](https://www.darkreading.com/endpoint-security/us-ban-tp-link-routers-politics-exploitation-risk)
 - [How Nation-State Cybercriminals Are Targeting the Enterprise](https://www.darkreading.com/vulnerabilities-threats/how-nation-state-cybercriminals-target-enterprise)
 - [Managing Threats When Most of the Security Team Is Out of the Office](https://www.darkreading.com/cybersecurity-operations/managing-threats-when-security-on-vacation)
 - [OT/ICS Engineering Workstations Face Barrage of Fresh Malware](https://www.darkreading.com/vulnerabilities-threats/ot-ics-engineering-workstations-malware)
@@ -83,7 +84,6 @@
 - [Orgs Scramble to Fix Actively Exploited Bug in Apache Struts 2](https://www.darkreading.com/application-security/actively-exploited-bug-struts-2)
 - [Bridging the &#39;Keyboard-to-Chair&#39; Gap With Identity Verification](https://www.darkreading.com/identity-access-management-security/bridging-the-keyboard-to-chair-gap-with-identity-verification)
 - [Vendors Chase Potential of Non-Human Identity Management](https://www.darkreading.com/identity-access-management-security/vendors-attackers-chase-potential-of-non-human-identities)
-- [Malvertisers Fool Google With AI-Generated Decoy Content](https://www.darkreading.com/cloud-security/malvertisers-fool-google-ai-generated-decoy-content)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
