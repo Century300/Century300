@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [How to Protect Your Environment from the NTLM Vulnerability](https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability)
+- [How to Protect Your Environment From the NTLM Vulnerability](https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability)
 - [LockBit Ransomware Developer Arrested in Israel](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-ransomware-developer-arrested-israel)
 - [US Ban on TP-Link Routers More About Politics Than Exploitation Risk](https://www.darkreading.com/endpoint-security/us-ban-tp-link-routers-politics-exploitation-risk)
 - [How Nation-State Cybercriminals Are Targeting the Enterprise](https://www.darkreading.com/vulnerabilities-threats/how-nation-state-cybercriminals-target-enterprise)
