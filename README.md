@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Non-Human Identities Gain Momentum, Requires Both Management, Security](https://www.darkreading.com/cybersecurity-operations/non-human-identities-gain-momentum-requires-both-management-security)
 - [How CISOs Can Communicate With Their Boards Effectively](https://www.darkreading.com/cybersecurity-operations/how-cisos-communicate-boards-effectively)
 - [Middle East Cyberwar Rages On, With No End in Sight](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyberwar-rages-no-end-sight)
 - [Name That Toon: Sneaking Around](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-sneaking-around)
@@ -83,7 +84,6 @@
 - [LockBit Ransomware Developer Arrested in Israel](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-ransomware-developer-arrested-israel)
 - [US Ban on TP-Link Routers More About Politics Than Exploitation Risk](https://www.darkreading.com/endpoint-security/us-ban-tp-link-routers-politics-exploitation-risk)
 - [How Nation-State Cybercriminals Are Targeting the Enterprise](https://www.darkreading.com/vulnerabilities-threats/how-nation-state-cybercriminals-target-enterprise)
-- [Managing Threats When Most of the Security Team Is Out of the Office](https://www.darkreading.com/cybersecurity-operations/managing-threats-when-security-on-vacation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
