@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [How CISOs Can Communicate With Their Boards Effectively](https://www.darkreading.com/cybersecurity-operations/how-cisos-communicate-boards-effectively)
 - [Middle East Cyberwar Rages On, With No End in Sight](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyberwar-rages-no-end-sight)
+- [Name That Toon: Sneaking Around](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-sneaking-around)
 - [How to Protect Your Environment From the NTLM Vulnerability](https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability)
 - [LockBit Ransomware Developer Arrested in Israel](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-ransomware-developer-arrested-israel)
 - [US Ban on TP-Link Routers More About Politics Than Exploitation Risk](https://www.darkreading.com/endpoint-security/us-ban-tp-link-routers-politics-exploitation-risk)
 - [How Nation-State Cybercriminals Are Targeting the Enterprise](https://www.darkreading.com/vulnerabilities-threats/how-nation-state-cybercriminals-target-enterprise)
 - [Managing Threats When Most of the Security Team Is Out of the Office](https://www.darkreading.com/cybersecurity-operations/managing-threats-when-security-on-vacation)
-- [OT/ICS Engineering Workstations Face Barrage of Fresh Malware](https://www.darkreading.com/vulnerabilities-threats/ot-ics-engineering-workstations-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
