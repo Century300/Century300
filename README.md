@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Too Much &#39;Trust,&#39; Not Enough &#39;Verify&#39;](https://www.darkreading.com/cyberattacks-data-breaches/too-much-trust-not-enough-verify)
 - [Trump 2.0 Portends Big Shift in Cybersecurity Policies](https://www.darkreading.com/cybersecurity-operations/trump-20-portends-shift-cybersecurity-policies)
 - [DNSSEC Denial-of-Service Attacks Show Technology&#39;s Fragility](https://www.darkreading.com/cloud-security/dnssec-denial-of-service-attacks-show-fragility)
 - [Non-Human Identities Gain Momentum, Requires Both Management, Security](https://www.darkreading.com/cybersecurity-operations/non-human-identities-gain-momentum-requires-both-management-security)
@@ -83,7 +84,6 @@
 - [Middle East Cyberwar Rages On, With No End in Sight](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyberwar-rages-no-end-sight)
 - [Name That Toon: Sneaking Around](https://www.darkreading.com/vulnerabilities-threats/name-that-toon-sneaking-around)
 - [How to Protect Your Environment From the NTLM Vulnerability](https://www.darkreading.com/endpoint-security/how-to-protect-your-environment-from-the-ntlm-vulnerability)
-- [LockBit Ransomware Developer Arrested in Israel](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-ransomware-developer-arrested-israel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
