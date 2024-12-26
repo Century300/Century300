@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SEC Disclosures Up, But Not Enough Details Provided](https://www.darkreading.com/cyber-risk/sec-disclosures-up-but-not-enough-details)
 - [Emerging Threats &amp;amp; Vulnerabilities to Prepare for in 2025](https://www.darkreading.com/vulnerabilities-threats/emerging-threats-vulnerabilities-prepare-2025)
 - [DDoS Attacks Surge as Africa Expands Its Digital Footprint](https://www.darkreading.com/cloud-security/ddos-attacks-surge-africa-digital-footprint)
 - [Too Much &#39;Trust,&#39; Not Enough &#39;Verify&#39;](https://www.darkreading.com/cyberattacks-data-breaches/too-much-trust-not-enough-verify)
@@ -83,7 +84,6 @@
 - [DNSSEC Denial-of-Service Attacks Show Technology&#39;s Fragility](https://www.darkreading.com/cloud-security/dnssec-denial-of-service-attacks-show-fragility)
 - [Non-Human Identities Gain Momentum, Requires Both Management, Security](https://www.darkreading.com/cybersecurity-operations/non-human-identities-gain-momentum-requires-both-management-security)
 - [How CISOs Can Communicate With Their Boards Effectively](https://www.darkreading.com/cybersecurity-operations/how-cisos-communicate-boards-effectively)
-- [Middle East Cyberwar Rages On, With No End in Sight](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyberwar-rages-no-end-sight)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
