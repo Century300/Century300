@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Hackers Are Hot for Water Utilities](https://www.darkreading.com/ics-ot-security/hackers-hot-water-utilities)
+- [Deepfakes, Quantum Attacks Loom Over APAC in 2025](https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-quantum-attacks-apac-2025)
 - [Defining &amp;amp; Defying Cybersecurity Staff Burnout](https://www.darkreading.com/vulnerabilities-threats/defining-defying-cybersecurity-staff-burnout)
+- [Hackers Are Hot for Water Utilities](https://www.darkreading.com/ics-ot-security/hackers-hot-water-utilities)
 - [Quantum Computing Advances in 2024 Put Security In Spotlight](https://www.darkreading.com/cyber-risk/quantum-computing-advances-2024-security-spotlight)
 - [SEC Disclosures Up, But Not Enough Details Provided](https://www.darkreading.com/cyber-risk/sec-disclosures-up-but-not-enough-details)
 - [Emerging Threats &amp;amp; Vulnerabilities to Prepare for in 2025](https://www.darkreading.com/vulnerabilities-threats/emerging-threats-vulnerabilities-prepare-2025)
 - [DDoS Attacks Surge as Africa Expands Its Digital Footprint](https://www.darkreading.com/cloud-security/ddos-attacks-surge-africa-digital-footprint)
 - [Too Much &#39;Trust,&#39; Not Enough &#39;Verify&#39;](https://www.darkreading.com/cyberattacks-data-breaches/too-much-trust-not-enough-verify)
-- [Trump 2.0 Portends Big Shift in Cybersecurity Policies](https://www.darkreading.com/cybersecurity-operations/trump-20-portends-shift-cybersecurity-policies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
