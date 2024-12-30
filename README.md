@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Get the Most Out of Cyber Insurance](https://www.darkreading.com/cyber-risk/get-most-out-cyber-insurance)
 - [What Security Lessons Did We Learn in 2024?](https://www.darkreading.com/cyber-risk/security-lessons-learn-2024)
 - [Deepfakes, Quantum Attacks Loom Over APAC in 2025](https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-quantum-attacks-apac-2025)
 - [Defining &amp;amp; Defying Cybersecurity Staff Burnout](https://www.darkreading.com/vulnerabilities-threats/defining-defying-cybersecurity-staff-burnout)
@@ -83,7 +84,6 @@
 - [Quantum Computing Advances in 2024 Put Security In Spotlight](https://www.darkreading.com/cyber-risk/quantum-computing-advances-2024-security-spotlight)
 - [SEC Disclosures Up, But Not Enough Details Provided](https://www.darkreading.com/cyber-risk/sec-disclosures-up-but-not-enough-details)
 - [Emerging Threats &amp;amp; Vulnerabilities to Prepare for in 2025](https://www.darkreading.com/vulnerabilities-threats/emerging-threats-vulnerabilities-prepare-2025)
-- [DDoS Attacks Surge as Africa Expands Its Digital Footprint](https://www.darkreading.com/cloud-security/ddos-attacks-surge-africa-digital-footprint)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
