@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [6 AI-Related Security Trends to Watch in 2025](https://www.darkreading.com/cyber-risk/6-ai-related-security-trends-watch-2025)
 - [Chinese State Hackers Breach US Treasury Department](https://www.darkreading.com/cyberattacks-data-breaches/chinese-state-hackers-breach-us-treasury-department)
 - [How to Get the Most Out of Cyber Insurance](https://www.darkreading.com/cyber-risk/get-most-out-cyber-insurance)
 - [What Security Lessons Did We Learn in 2024?](https://www.darkreading.com/cyber-risk/security-lessons-learn-2024)
@@ -83,7 +84,6 @@
 - [Hackers Are Hot for Water Utilities](https://www.darkreading.com/ics-ot-security/hackers-hot-water-utilities)
 - [Defining &amp;amp; Defying Cybersecurity Staff Burnout](https://www.darkreading.com/vulnerabilities-threats/defining-defying-cybersecurity-staff-burnout)
 - [Quantum Computing Advances in 2024 Put Security In Spotlight](https://www.darkreading.com/cyber-risk/quantum-computing-advances-2024-security-spotlight)
-- [SEC Disclosures Up, But Not Enough Details Provided](https://www.darkreading.com/cyber-risk/sec-disclosures-up-but-not-enough-details)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
