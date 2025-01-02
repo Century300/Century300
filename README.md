@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [VicOne and Zero Day Initiative &lpar;ZDI&rpar; to Lead Pwn2Own Automotive](https://www.darkreading.com/application-security/vicone-and-zero-day-initiative-zdi-to-lead-pwn2own-automotive)
+- [US Soldier Arrested in Verizon, AT&amp;amp;T Hacks](https://www.darkreading.com/cyberattacks-data-breaches/us-soldier-arrested-in-verizon-at-t-hack)
+- [Unpatched Active Directory Flaw Can Crash Any Microsoft Server](https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet)
 - [Volkswagen Breach Exposes Data of 800K EV Customers](https://www.darkreading.com/cyberattacks-data-breaches/volkswagen-breach-exposes-data-of-800k-customers)
 - [&#39;Bad Likert Judge&#39; Jailbreak Bypasses Guardrails of OpenAI, Other Top LLMs](https://www.darkreading.com/cyberattacks-data-breaches/bad-likert-judge-jailbreak-bypasses-guardrails-openai-other-llms)
 - [Managing Cloud Risks Gave Security Teams a Big Headache in 2024](https://www.darkreading.com/cloud-security/managing-cloud-risks-big-headache-2024)
 - [Cybersecurity Lags in Middle East Business Development](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lags-middle-east-business-development)
 - [6 AI-Related Security Trends to Watch in 2025](https://www.darkreading.com/cyber-risk/6-ai-related-security-trends-watch-2025)
-- [Chinese State Hackers Breach US Treasury Department](https://www.darkreading.com/cyberattacks-data-breaches/chinese-state-hackers-breach-us-treasury-department)
-- [How to Get the Most Out of Cyber Insurance](https://www.darkreading.com/cyber-risk/get-most-out-cyber-insurance)
-- [What Security Lessons Did We Learn in 2024?](https://www.darkreading.com/cyber-risk/security-lessons-learn-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
