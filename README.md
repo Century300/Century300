@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Volkswagen Breach Exposes Data of 800K EV Customers](https://www.darkreading.com/cyberattacks-data-breaches/volkswagen-breach-exposes-data-of-800k-customers)
 - [&#39;Bad Likert Judge&#39; Jailbreak Bypasses Guardrails of OpenAI, Other Top LLMs](https://www.darkreading.com/cyberattacks-data-breaches/bad-likert-judge-jailbreak-bypasses-guardrails-openai-other-llms)
 - [Managing Cloud Risks Gave Security Teams a Big Headache in 2024](https://www.darkreading.com/cloud-security/managing-cloud-risks-big-headache-2024)
 - [Cybersecurity Lags in Middle East Business Development](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lags-middle-east-business-development)
@@ -83,7 +84,6 @@
 - [Chinese State Hackers Breach US Treasury Department](https://www.darkreading.com/cyberattacks-data-breaches/chinese-state-hackers-breach-us-treasury-department)
 - [How to Get the Most Out of Cyber Insurance](https://www.darkreading.com/cyber-risk/get-most-out-cyber-insurance)
 - [What Security Lessons Did We Learn in 2024?](https://www.darkreading.com/cyber-risk/security-lessons-learn-2024)
-- [Deepfakes, Quantum Attacks Loom Over APAC in 2025](https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-quantum-attacks-apac-2025)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
