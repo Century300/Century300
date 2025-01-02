@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Managing Cloud Risks Gave Security Teams a Big Headache in 2024](https://www.darkreading.com/cloud-security/managing-cloud-risks-big-headache-2024)
 - [Cybersecurity Lags in Middle East Business Development](https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lags-middle-east-business-development)
 - [6 AI-Related Security Trends to Watch in 2025](https://www.darkreading.com/cyber-risk/6-ai-related-security-trends-watch-2025)
 - [Chinese State Hackers Breach US Treasury Department](https://www.darkreading.com/cyberattacks-data-breaches/chinese-state-hackers-breach-us-treasury-department)
@@ -83,7 +84,6 @@
 - [What Security Lessons Did We Learn in 2024?](https://www.darkreading.com/cyber-risk/security-lessons-learn-2024)
 - [Deepfakes, Quantum Attacks Loom Over APAC in 2025](https://www.darkreading.com/cyberattacks-data-breaches/deepfakes-quantum-attacks-apac-2025)
 - [Hackers Are Hot for Water Utilities](https://www.darkreading.com/ics-ot-security/hackers-hot-water-utilities)
-- [Defining &amp;amp; Defying Cybersecurity Staff Burnout](https://www.darkreading.com/vulnerabilities-threats/defining-defying-cybersecurity-staff-burnout)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
