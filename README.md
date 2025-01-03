@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Small Businesses Can&#39;t Rely Solely on AI to Combat Threats](https://www.darkreading.com/vulnerabilities-threats/why-small-businesses-cant-rely-solely-ai-combat-threats)
 - [Chrome Extension Compromises Highlight Software Supply Challenges](https://www.darkreading.com/application-security/chrome-extension-compromises-highlight-software-supply-challenges)
 - [Proposed HIPAA Amendments Will Close Healthcare Security Gaps](https://www.darkreading.com/cyber-risk/proposed-hipaa-amendments-close-healthcare-security-gaps)
 - [CDAO Sponsors Crowdsourced AI Assurance Pilot in the Context of Military Medicine](https://www.darkreading.com/application-security/cdao-sponsors-crowdsourced-ai-assurance-pilot-in-the-context-of-military-medicine)
@@ -83,7 +84,6 @@
 - [UN General Assembly Adopts Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/un-general-assembly-adopts-cybercrime-treaty)
 - [VicOne and Zero Day Initiative &lpar;ZDI&rpar; to Lead Pwn2Own Automotive](https://www.darkreading.com/application-security/vicone-and-zero-day-initiative-zdi-to-lead-pwn2own-automotive)
 - [US Soldier Arrested in Verizon, AT&amp;amp;T Hacks](https://www.darkreading.com/cyberattacks-data-breaches/us-soldier-arrested-in-verizon-at-t-hack)
-- [Volkswagen Breach Exposes Data of 800K EV Customers](https://www.darkreading.com/cyberattacks-data-breaches/volkswagen-breach-exposes-data-of-800k-customers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
