@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New HIPAA Cybersecurity Rules Pull No Punches](https://www.darkreading.com/vulnerabilities-threats/hipaa-security-rules-pull-no-punches)
 - [Treasury Dept. Sanctions Chinese Tech Vendor for Complicity](https://www.darkreading.com/cybersecurity-operations/treasury-department-sanctions-chinese-tech-vendor)
 - [Apple Offers $95M to Settle Siri Privacy Lawsuit](https://www.darkreading.com/cyber-risk/apple-offers-95m-to-settle-siri-privacy-lawsuit)
 - [Why Small Businesses Can&#39;t Rely Solely on AI to Combat Threats](https://www.darkreading.com/vulnerabilities-threats/why-small-businesses-cant-rely-solely-ai-combat-threats)
@@ -83,7 +84,6 @@
 - [Proposed HIPAA Amendments Will Close Healthcare Security Gaps](https://www.darkreading.com/cyber-risk/proposed-hipaa-amendments-close-healthcare-security-gaps)
 - [CDAO Sponsors Crowdsourced AI Assurance Pilot in the Context of Military Medicine](https://www.darkreading.com/application-security/cdao-sponsors-crowdsourced-ai-assurance-pilot-in-the-context-of-military-medicine)
 - [Unpatched Active Directory Flaw Can Crash Any Microsoft Server](https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet)
-- [UN General Assembly Adopts Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/un-general-assembly-adopts-cybercrime-treaty)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
