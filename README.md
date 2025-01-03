@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proposed HIPAA Amendments Will Close Healthcare Security Gaps](https://www.darkreading.com/cyber-risk/proposed-hipaa-amendments-close-healthcare-security-gaps)
 - [CDAO Sponsors Crowdsourced AI Assurance Pilot in the Context of Military Medicine](https://www.darkreading.com/application-security/cdao-sponsors-crowdsourced-ai-assurance-pilot-in-the-context-of-military-medicine)
 - [Unpatched Active Directory Flaw Can Crash Any Microsoft Server](https://www.darkreading.com/vulnerabilities-threats/active-directory-flaw-can-crash-any-microsoft-server-connected-to-the-internet)
 - [UN General Assembly Adopts Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/un-general-assembly-adopts-cybercrime-treaty)
@@ -83,7 +84,6 @@
 - [US Soldier Arrested in Verizon, AT&amp;amp;T Hacks](https://www.darkreading.com/cyberattacks-data-breaches/us-soldier-arrested-in-verizon-at-t-hack)
 - [Volkswagen Breach Exposes Data of 800K EV Customers](https://www.darkreading.com/cyberattacks-data-breaches/volkswagen-breach-exposes-data-of-800k-customers)
 - [&#39;Bad Likert Judge&#39; Jailbreak Bypasses Guardrails of OpenAI, Other Top LLMs](https://www.darkreading.com/cyberattacks-data-breaches/bad-likert-judge-jailbreak-bypasses-guardrails-openai-other-llms)
-- [Managing Cloud Risks Gave Security Teams a Big Headache in 2024](https://www.darkreading.com/cloud-security/managing-cloud-risks-big-headache-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
