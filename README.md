@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s Salt Typhoon Adds Charter, Windstream to Telecom Victim List](https://www.darkreading.com/cyberattacks-data-breaches/china-salt-typhoon-charter-windstream-telecom-victims)
+- [FireScam Android Spyware Campaign Poses &#39;Significant Threat Worldwide&#39;](https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide)
 - [EagerBee Backdoor Takes Flight Against Mideast ISPs, Government Targets](https://www.darkreading.com/cyberattacks-data-breaches/eagerbee-backdoor-middle-east-isps-government-targets)
 - [IoT&#39;s Regulatory Reckoning Is Overdue](https://www.darkreading.com/ics-ot-security/iot-regulatory-reckoning-overdue)
 - [Thousands of BeyondTrust Systems Remain Exposed](https://www.darkreading.com/threat-intelligence/thousands-of-buggy-beyondtrust-systems-still-exposed)
 - [New HIPAA Cybersecurity Rules Pull No Punches](https://www.darkreading.com/vulnerabilities-threats/hipaa-security-rules-pull-no-punches)
 - [Treasury Dept. Sanctions Chinese Tech Vendor for Complicity](https://www.darkreading.com/cybersecurity-operations/treasury-department-sanctions-chinese-tech-vendor)
 - [Apple Offers $95M to Settle Siri Privacy Lawsuit](https://www.darkreading.com/cyber-risk/apple-offers-95m-to-settle-siri-privacy-lawsuit)
-- [Why Small Businesses Can&#39;t Rely Solely on AI to Combat Threats](https://www.darkreading.com/vulnerabilities-threats/why-small-businesses-cant-rely-solely-ai-combat-threats)
-- [Chrome Extension Compromises Highlight Software Supply Challenges](https://www.darkreading.com/application-security/chrome-extension-compromises-highlight-software-supply-challenges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
