@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Thousands of Buggy BeyondTrust Systems Remain Exposed](https://www.darkreading.com/threat-intelligence/thousands-of-buggy-beyondtrust-systems-still-exposed)
+- [Thousands of BeyondTrust Systems Remain Exposed](https://www.darkreading.com/threat-intelligence/thousands-of-buggy-beyondtrust-systems-still-exposed)
 - [New HIPAA Cybersecurity Rules Pull No Punches](https://www.darkreading.com/vulnerabilities-threats/hipaa-security-rules-pull-no-punches)
 - [Treasury Dept. Sanctions Chinese Tech Vendor for Complicity](https://www.darkreading.com/cybersecurity-operations/treasury-department-sanctions-chinese-tech-vendor)
 - [Apple Offers $95M to Settle Siri Privacy Lawsuit](https://www.darkreading.com/cyber-risk/apple-offers-95m-to-settle-siri-privacy-lawsuit)
