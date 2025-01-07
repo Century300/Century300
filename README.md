@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA: Third-Party Data Breach Limited to Treasury Dept.](https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept)
 - [PhishWP Plug-in Hijacks WordPress E-Commerce Checkouts](https://www.darkreading.com/threat-intelligence/phishwp-plugin-hijacks-wordpress-e-commerce-checkouts)
 - [Name That Edge Toon: Greetings and Salutations](https://www.darkreading.com/identity-access-management-security/name-that-edge-toon-greetings-and-salutations)
 - [Cybercriminals Don&#39;t Care About National Cyber Policy](https://www.darkreading.com/vulnerabilities-threats/cybercriminals-dont-care-national-cyber-policy)
@@ -83,7 +84,6 @@
 - [In Appreciation: Amit Yoran, Tenable CEO, Passes Away](https://www.darkreading.com/cloud-security/amit-yoran-tenable-passes-away)
 - [China&#39;s Salt Typhoon Adds Charter, Windstream to Telecom Victim List](https://www.darkreading.com/cyberattacks-data-breaches/china-salt-typhoon-charter-windstream-telecom-victims)
 - [FireScam Android Spyware Campaign Poses &#39;Significant Threat Worldwide&#39;](https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide)
-- [EagerBee Backdoor Takes Flight Against Mideast ISPs, Government Targets](https://www.darkreading.com/cyberattacks-data-breaches/eagerbee-backdoor-middle-east-isps-government-targets)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
