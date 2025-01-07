@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PhishWP Plug-in Hijacks WordPress E-Commerce Checkouts](https://www.darkreading.com/threat-intelligence/phishwp-plugin-hijacks-wordpress-e-commerce-checkouts)
+- [Name That Edge Toon: Greetings and Salutations](https://www.darkreading.com/identity-access-management-security/name-that-edge-toon-greetings-and-salutations)
 - [Cybercriminals Don&#39;t Care About National Cyber Policy](https://www.darkreading.com/vulnerabilities-threats/cybercriminals-dont-care-national-cyber-policy)
 - [Veracode Buys Package Analysis Technology From Phylum](https://www.darkreading.com/application-security/veracode-buys-package-analysis-technology-phylum)
 - [In Appreciation: Amit Yoran, Tenable CEO, Passes Away](https://www.darkreading.com/cloud-security/amit-yoran-tenable-passes-away)
 - [China&#39;s Salt Typhoon Adds Charter, Windstream to Telecom Victim List](https://www.darkreading.com/cyberattacks-data-breaches/china-salt-typhoon-charter-windstream-telecom-victims)
 - [FireScam Android Spyware Campaign Poses &#39;Significant Threat Worldwide&#39;](https://www.darkreading.com/cyberattacks-data-breaches/firescam-android-spyware-campaign-significant-threat-worldwide)
 - [EagerBee Backdoor Takes Flight Against Mideast ISPs, Government Targets](https://www.darkreading.com/cyberattacks-data-breaches/eagerbee-backdoor-middle-east-isps-government-targets)
-- [IoT&#39;s Regulatory Reckoning Is Overdue](https://www.darkreading.com/ics-ot-security/iot-regulatory-reckoning-overdue)
-- [Will AI Code Generators Overcome Their Insecurities This Year?](https://www.darkreading.com/application-security/will-ai-code-generators-overcome-their-insecurities-2025)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
