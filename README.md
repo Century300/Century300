@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Targeting Infrastructure Hits Telecom Namibia](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-targeting-infrastructure-telecom-namibia)
 - [Sharing of Telegram User Data Surged After CEO Arrest](https://www.darkreading.com/cybersecurity-operations/sharing-telegram-user-data-surged-after-ceo-arrest)
 - [Pentagon Adds Chinese Gaming Giant Tencent to Federal Ban](https://www.darkreading.com/cybersecurity-operations/pentagon-chinese-gaming-giant-tencent-federal-ban)
 - [CISA: Third-Party Data Breach Limited to Treasury Dept.](https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept)
@@ -83,7 +84,6 @@
 - [Name That Edge Toon: Greetings and Salutations](https://www.darkreading.com/identity-access-management-security/name-that-edge-toon-greetings-and-salutations)
 - [Cybercriminals Don&#39;t Care About National Cyber Policy](https://www.darkreading.com/vulnerabilities-threats/cybercriminals-dont-care-national-cyber-policy)
 - [Veracode Buys Package Analysis Technology From Phylum](https://www.darkreading.com/application-security/veracode-buys-package-analysis-technology-phylum)
-- [In Appreciation: Amit Yoran, Tenable CEO, Passes Away](https://www.darkreading.com/cloud-security/amit-yoran-tenable-passes-away)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
