@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fed &#39;Cyber Trust&#39; Label: Good Intentions That Fall Short](https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program)
+- [CrowdStrike Achieves FedRAMP Authorization for New Modules](https://www.darkreading.com/cyber-risk/crowdstrike-achieves-fedramp-authorization-for-new-modules)
+- [Trend Micro and Intel Innovate to Weed Out Covert Threats](https://www.darkreading.com/endpoint-security/trend-micro-and-intel-innovate-to-weed-out-covert-threats)
+- [Zivver Report Reveals Critical Challenges in Email Security for 2025](https://www.darkreading.com/endpoint-security/zivver-report-reveals-critical-challenges-in-email-security-for-2025)
 - [Palindrome Technologies Approved as Cybersecurity Label Administrator for FCC&#39;s IoT Program](https://www.darkreading.com/ics-ot-security/palindrome-technologies-approved-as-cybersecurity-label-administrator-for-fcc-s-iot-program)
+- [Green Bay Packers&#39; Online Pro Shop Sacked by Payment Skimmer](https://www.darkreading.com/cyberattacks-data-breaches/green-bay-packers-online-pro-shop-payment-skimmer)
 - [New Docuseries Spotlights Hackers Who Shaped Cybersecurity](https://www.darkreading.com/cybersecurity-careers/where-warlocks-stay-up-late-unearthing-the-stories-of-cybersecurity-trailblazers)
 - [Unconventional Cyberattacks Aim to Take Over PayPal Accounts](https://www.darkreading.com/threat-intelligence/unconventional-cyberattacks-take-over-paypal-accounts)
-- [Best Practices &amp;amp; Risks Considerations in LCNC and RPA Automation](https://www.darkreading.com/vulnerabilities-threats/best-practices-risks-considerations-lcnc-rpa-automation)
-- [Ransomware Targeting Infrastructure Hits Telecom Namibia](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-targeting-infrastructure-telecom-namibia)
-- [1Password Acquires SaaS Access Management Provider Trelica](https://www.darkreading.com/identity-access-management-security/1password-acqiures-saas-access-management-trelica)
-- [Sharing of Telegram User Data Surges After CEO Arrest](https://www.darkreading.com/cybersecurity-operations/sharing-telegram-user-data-surged-after-ceo-arrest)
-- [Pentagon Adds Chinese Gaming Giant Tencent to Federal Ban](https://www.darkreading.com/cybersecurity-operations/pentagon-chinese-gaming-giant-tencent-federal-ban)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
