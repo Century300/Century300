@@ -79,7 +79,7 @@
 - [Best Practices &amp;amp; Risks Considerations in LCNC and RPA Automation](https://www.darkreading.com/vulnerabilities-threats/best-practices-risks-considerations-lcnc-rpa-automation)
 - [Ransomware Targeting Infrastructure Hits Telecom Namibia](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-targeting-infrastructure-telecom-namibia)
 - [1Password Acquires SaaS Access Management Provider Trelica](https://www.darkreading.com/identity-access-management-security/1password-acqiures-saas-access-management-trelica)
-- [Sharing of Telegram User Data Surged After CEO Arrest](https://www.darkreading.com/cybersecurity-operations/sharing-telegram-user-data-surged-after-ceo-arrest)
+- [Sharing of Telegram User Data Surges After CEO Arrest](https://www.darkreading.com/cybersecurity-operations/sharing-telegram-user-data-surged-after-ceo-arrest)
 - [Pentagon Adds Chinese Gaming Giant Tencent to Federal Ban](https://www.darkreading.com/cybersecurity-operations/pentagon-chinese-gaming-giant-tencent-federal-ban)
 - [CISA: Third-Party Data Breach Limited to Treasury Dept.](https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept)
 - [PhishWP Plug-in Hijacks WordPress E-Commerce Checkouts](https://www.darkreading.com/threat-intelligence/phishwp-plugin-hijacks-wordpress-e-commerce-checkouts)
