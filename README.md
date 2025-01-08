@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Docuseries Spotlights Hackers Who Shaped Cybersecurity](https://www.darkreading.com/cybersecurity-careers/where-warlocks-stay-up-late-unearthing-the-stories-of-cybersecurity-trailblazers)
 - [Unconventional Cyberattacks Aim to Take Over PayPal Accounts](https://www.darkreading.com/threat-intelligence/unconventional-cyberattacks-take-over-paypal-accounts)
 - [Best Practices &amp;amp; Risks Considerations in LCNC and RPA Automation](https://www.darkreading.com/vulnerabilities-threats/best-practices-risks-considerations-lcnc-rpa-automation)
 - [Ransomware Targeting Infrastructure Hits Telecom Namibia](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-targeting-infrastructure-telecom-namibia)
@@ -83,7 +84,6 @@
 - [Sharing of Telegram User Data Surges After CEO Arrest](https://www.darkreading.com/cybersecurity-operations/sharing-telegram-user-data-surged-after-ceo-arrest)
 - [Pentagon Adds Chinese Gaming Giant Tencent to Federal Ban](https://www.darkreading.com/cybersecurity-operations/pentagon-chinese-gaming-giant-tencent-federal-ban)
 - [CISA: Third-Party Data Breach Limited to Treasury Dept.](https://www.darkreading.com/cyberattacks-data-breaches/cisa-third-party-data-breach-limited-treasury-dept)
-- [PhishWP Plug-in Hijacks WordPress E-Commerce Checkouts](https://www.darkreading.com/threat-intelligence/phishwp-plugin-hijacks-wordpress-e-commerce-checkouts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
