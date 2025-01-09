@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Readies Overhauled National Data Privacy Rules](https://www.darkreading.com/cybersecurity-operations/india-overhauled-national-data-privacy-rules)
 - [Fed &#39;Cyber Trust&#39; Label: Good Intentions That Fall Short](https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program)
 - [CrowdStrike Achieves FedRAMP Authorization for New Modules](https://www.darkreading.com/cyber-risk/crowdstrike-achieves-fedramp-authorization-for-new-modules)
 - [Trend Micro and Intel Innovate to Weed Out Covert Threats](https://www.darkreading.com/endpoint-security/trend-micro-and-intel-innovate-to-weed-out-covert-threats)
@@ -83,7 +84,6 @@
 - [Palindrome Technologies Approved as Cybersecurity Label Administrator for FCC&#39;s IoT Program](https://www.darkreading.com/ics-ot-security/palindrome-technologies-approved-as-cybersecurity-label-administrator-for-fcc-s-iot-program)
 - [Green Bay Packers&#39; Online Pro Shop Sacked by Payment Skimmer](https://www.darkreading.com/cyberattacks-data-breaches/green-bay-packers-online-pro-shop-payment-skimmer)
 - [New Docuseries Spotlights Hackers Who Shaped Cybersecurity](https://www.darkreading.com/cybersecurity-careers/where-warlocks-stay-up-late-unearthing-the-stories-of-cybersecurity-trailblazers)
-- [Unconventional Cyberattacks Aim to Take Over PayPal Accounts](https://www.darkreading.com/threat-intelligence/unconventional-cyberattacks-take-over-paypal-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
