@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese APT Group Is Ransacking Japan&#39;s Secrets](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-group-ransacking-japans-secrets)
 - [Banshee 2.0 Malware Steals Apple&#39;s Encryption to Hide on Macs](https://www.darkreading.com/threat-intelligence/banshee-malware-steals-apple-encryption-macs)
 - [Hacking Group &#39;Silk Typhoon&#39; Linked to US Treasury Breach](https://www.darkreading.com/cyberattacks-data-breaches/hacking-group-silk-typhoon-linked-us-treasury-breach)
 - [New AI Challenges Will Test CISOs &amp;amp; Their Teams in 2025](https://www.darkreading.com/vulnerabilities-threats/new-ai-challenges-test-ciso-teams-2025)
@@ -83,7 +84,6 @@
 - [Fed &#39;Cyber Trust&#39; Label: Good Intentions That Fall Short](https://www.darkreading.com/cybersecurity-operations/white-house-launches-cyber-trust-mark-label-in-voluntary-cybersecurity-program)
 - [CrowdStrike Achieves FedRAMP Authorization for New Modules](https://www.darkreading.com/cyber-risk/crowdstrike-achieves-fedramp-authorization-for-new-modules)
 - [Trend Micro and Intel Innovate to Weed Out Covert Threats](https://www.darkreading.com/endpoint-security/trend-micro-and-intel-innovate-to-weed-out-covert-threats)
-- [Zivver Report Reveals Critical Challenges in Email Security for 2025](https://www.darkreading.com/endpoint-security/zivver-report-reveals-critical-challenges-in-email-security-for-2025)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
