@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China&#39;s UNC5337 Exploits a Critical Ivanti RCE Bug, Again](https://www.darkreading.com/vulnerabilities-threats/china-unc5337-critical-ivanti-rce-bug)
 - [Fake CrowdStrike &#39;Job Interviews&#39; Become Latest Hacker Tactic](https://www.darkreading.com/threat-intelligence/crowdstrike-job-interviews-hacker-tactic)
 - [Russia Carves Out Commercial Surveillance Success Globally](https://www.darkreading.com/threat-intelligence/russia-commercial-surveillance-success-globally)
 - [The Path Toward Championing Diversity in Cybersecurity Education](https://www.darkreading.com/cybersecurity-operations/championing-diversity-cybersecurity-education)
@@ -83,7 +84,6 @@
 - [Banshee 2.0 Malware Steals Apple&#39;s Encryption to Hide on Macs](https://www.darkreading.com/threat-intelligence/banshee-malware-steals-apple-encryption-macs)
 - [Hacking Group &#39;Silk Typhoon&#39; Linked to US Treasury Breach](https://www.darkreading.com/cyberattacks-data-breaches/hacking-group-silk-typhoon-linked-us-treasury-breach)
 - [New AI Challenges Will Test CISOs &amp;amp; Their Teams in 2025](https://www.darkreading.com/vulnerabilities-threats/new-ai-challenges-test-ciso-teams-2025)
-- [India Readies Overhauled National Data Privacy Rules](https://www.darkreading.com/cybersecurity-operations/india-overhauled-national-data-privacy-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
