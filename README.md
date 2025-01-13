@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Releases the Cybersecurity Performance Goals Adoption Report](https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report)
+- [K2 Secures Navy SeaPort Next Generation Contract](https://www.darkreading.com/ics-ot-security/k2-secures-navy-seaport-next-generation-contract)
+- [Grupo Bimbo Ventures Announces Investment in NanoLock Security](https://www.darkreading.com/ics-ot-security/grupo-bimbo-ventures-announces-investment-in-nanolock-security)
+- [Microsoft Cracks Down on Malicious Copilot AI Use](https://www.darkreading.com/application-security/microsoft-cracks-down-malicious-copilot-ai-use)
 - [Cloud Attackers Exploit Max-Critical Aviatrix RCE Flaw](https://www.darkreading.com/cloud-security/cloud-attackers-exploit-max-critical-aviatrix-rce-flaw)
 - [Cyberattackers Hide Infostealers in YouTube Comments, Google Search Results](https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search)
 - [Telefonica Breach Exposes Jira Tickets, Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data)
 - [The Shifting Landscape of Open Source Security](https://www.darkreading.com/vulnerabilities-threats/shifting-landscape-open-source-security)
-- [Threat Actors Exploit a Critical Ivanti RCE Bug, Again](https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug)
-- [Fake CrowdStrike &#39;Job Interviews&#39; Become Latest Hacker Tactic](https://www.darkreading.com/threat-intelligence/crowdstrike-job-interviews-hacker-tactic)
-- [Russia Carves Out Commercial Surveillance Success Globally](https://www.darkreading.com/threat-intelligence/russia-commercial-surveillance-success-globally)
-- [The Path Toward Championing Diversity in Cybersecurity Education](https://www.darkreading.com/cybersecurity-operations/championing-diversity-cybersecurity-education)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
