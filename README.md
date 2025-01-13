@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyberattackers Hide Infostealers in YouTube Comments, Google Search Results](https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search)
 - [Telefonica Breach Exposes Jira Tickets, Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data)
 - [The Shifting Landscape of Open Source Security](https://www.darkreading.com/vulnerabilities-threats/shifting-landscape-open-source-security)
 - [Threat Actors Exploit a Critical Ivanti RCE Bug, Again](https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug)
@@ -83,7 +84,6 @@
 - [Russia Carves Out Commercial Surveillance Success Globally](https://www.darkreading.com/threat-intelligence/russia-commercial-surveillance-success-globally)
 - [The Path Toward Championing Diversity in Cybersecurity Education](https://www.darkreading.com/cybersecurity-operations/championing-diversity-cybersecurity-education)
 - [Chinese APT Group Is Ransacking Japan&#39;s Secrets](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-group-ransacking-japans-secrets)
-- [Banshee 2.0 Malware Steals Apple&#39;s Encryption to Hide on Macs](https://www.darkreading.com/threat-intelligence/banshee-malware-steals-apple-encryption-macs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
