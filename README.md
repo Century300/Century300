@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Telefonica Breach Exposes Jira Tickets, Customer Data](https://www.darkreading.com/cyberattacks-data-breaches/telefonica-breach-exposes-jira-tickets-customer-data)
 - [The Shifting Landscape of Open Source Security](https://www.darkreading.com/vulnerabilities-threats/shifting-landscape-open-source-security)
 - [Threat Actors Exploit a Critical Ivanti RCE Bug, Again](https://www.darkreading.com/vulnerabilities-threats/critical-ivanti-rce-bug)
 - [Fake CrowdStrike &#39;Job Interviews&#39; Become Latest Hacker Tactic](https://www.darkreading.com/threat-intelligence/crowdstrike-job-interviews-hacker-tactic)
@@ -83,7 +84,6 @@
 - [The Path Toward Championing Diversity in Cybersecurity Education](https://www.darkreading.com/cybersecurity-operations/championing-diversity-cybersecurity-education)
 - [Chinese APT Group Is Ransacking Japan&#39;s Secrets](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-group-ransacking-japans-secrets)
 - [Banshee 2.0 Malware Steals Apple&#39;s Encryption to Hide on Macs](https://www.darkreading.com/threat-intelligence/banshee-malware-steals-apple-encryption-macs)
-- [Hacking Group &#39;Silk Typhoon&#39; Linked to US Treasury Breach](https://www.darkreading.com/cyberattacks-data-breaches/hacking-group-silk-typhoon-linked-us-treasury-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
