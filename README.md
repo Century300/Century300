@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Bug Allows Root Protections Bypass Without Physical Access](https://www.darkreading.com/vulnerabilities-threats/apple-bug-root-protections-bypass-physical-access)
+- [FBI Wraps Up Eradication Effort of Chinese &#39;PlugX&#39; Malware](https://www.darkreading.com/cybersecurity-operations/fbi-wraps-up-eradication-chinese-plugx-malware)
 - [Zero-Day Security Bug Likely Fueling Fortinet Firewall Attacks](https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks)
 - [New Startups Focus on Deepfakes, Data-in-Motion &amp;amp; Model Security](https://www.darkreading.com/cybersecurity-operations/startups-focus-deepfakes-data-motion-model-security)
 - [CISA Releases the Cybersecurity Performance Goals Adoption Report](https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report)
 - [K2 Secures Navy SeaPort Next Generation Contract](https://www.darkreading.com/ics-ot-security/k2-secures-navy-seaport-next-generation-contract)
 - [Grupo Bimbo Ventures Announces Investment in NanoLock Security](https://www.darkreading.com/ics-ot-security/grupo-bimbo-ventures-announces-investment-in-nanolock-security)
 - [Microsoft Cracks Down on Malicious Copilot AI Use](https://www.darkreading.com/application-security/microsoft-cracks-down-malicious-copilot-ai-use)
-- [Cloud Attackers Exploit Max-Critical Aviatrix RCE Flaw](https://www.darkreading.com/cloud-security/cloud-attackers-exploit-max-critical-aviatrix-rce-flaw)
-- [Cyberattackers Hide Infostealers in YouTube Comments, Google Search Results](https://www.darkreading.com/threat-intelligence/cyberattackers-infostealers-youtube-comments-google-search)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
