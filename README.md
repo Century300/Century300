@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Hijack Google Advertiser Accounts to Spread Malware](https://www.darkreading.com/vulnerabilities-threats/attackers-hijack-google-advertiser-accounts-malware)
 - [CISA: Second BeyondTrust Vulnerability Added to KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-of-second-vuln-found-in-beyondtrust-breach-investigation)
 - [Extension Poisoning Campaign Highlights Gaps in Browser Security](https://www.darkreading.com/endpoint-security/extension-poisoning-campaign-gaps-browser-security)
 - [North Korea&#39;s Lazarus APT Evolves Developer-Recruitment Attacks](https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks)
@@ -83,7 +84,6 @@
 - [As Tensions Mount With China, Taiwan Sees Surge in Cyberattacks](https://www.darkreading.com/cyber-risk/as-tensions-with-china-mount-taiwan-sees-surge-in-cyberattacks)
 - [Microsoft Rings in 2025 With Record Security Update](https://www.darkreading.com/application-security/microsoft-january-2025-record-security-update)
 - [1Password&#39;s Trelica Buy Part of Broader Shadow IT Play](https://www.darkreading.com/identity-access-management-security/1password-trelica-buy-shadow-it-play)
-- [Apple Bug Allows Root Protections Bypass Without Physical Access](https://www.darkreading.com/vulnerabilities-threats/apple-bug-root-protections-bypass-physical-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
