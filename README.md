@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [As Tensions Mount With China, Taiwan Sees Surge in Cyberattacks](https://www.darkreading.com/cyber-risk/as-tensions-with-china-mount-taiwan-sees-surge-in-cyberattacks)
 - [Microsoft Rings in 2025 With Record Security Update](https://www.darkreading.com/application-security/microsoft-january-2025-record-security-update)
+- [1Password&#39;s Trelica Buy Part of Broader Shadow IT Play](https://www.darkreading.com/identity-access-management-security/1password-trelica-buy-shadow-it-play)
 - [Apple Bug Allows Root Protections Bypass Without Physical Access](https://www.darkreading.com/vulnerabilities-threats/apple-bug-root-protections-bypass-physical-access)
 - [FBI Wraps Up Eradication Effort of Chinese &#39;PlugX&#39; Malware](https://www.darkreading.com/cybersecurity-operations/fbi-wraps-up-eradication-chinese-plugx-malware)
 - [Zero-Day Security Bug Likely Fueling Fortinet Firewall Attacks](https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks)
 - [New Startups Focus on Deepfakes, Data-in-Motion &amp;amp; Model Security](https://www.darkreading.com/cybersecurity-operations/startups-focus-deepfakes-data-motion-model-security)
 - [CISA Releases the Cybersecurity Performance Goals Adoption Report](https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report)
-- [K2 Secures Navy SeaPort Next Generation Contract](https://www.darkreading.com/ics-ot-security/k2-secures-navy-seaport-next-generation-contract)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
