@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Tensions Mount With China, Taiwan Sees Surge in Cyberattacks](https://www.darkreading.com/cyber-risk/as-tensions-with-china-mount-taiwan-sees-surge-in-cyberattacks)
 - [Microsoft Rings in 2025 With Record Security Update](https://www.darkreading.com/application-security/microsoft-january-2025-record-security-update)
 - [Apple Bug Allows Root Protections Bypass Without Physical Access](https://www.darkreading.com/vulnerabilities-threats/apple-bug-root-protections-bypass-physical-access)
 - [FBI Wraps Up Eradication Effort of Chinese &#39;PlugX&#39; Malware](https://www.darkreading.com/cybersecurity-operations/fbi-wraps-up-eradication-chinese-plugx-malware)
@@ -83,7 +84,6 @@
 - [New Startups Focus on Deepfakes, Data-in-Motion &amp;amp; Model Security](https://www.darkreading.com/cybersecurity-operations/startups-focus-deepfakes-data-motion-model-security)
 - [CISA Releases the Cybersecurity Performance Goals Adoption Report](https://www.darkreading.com/cybersecurity-operations/cisa-releases-the-cybersecurity-performance-goals-adoption-report)
 - [K2 Secures Navy SeaPort Next Generation Contract](https://www.darkreading.com/ics-ot-security/k2-secures-navy-seaport-next-generation-contract)
-- [Grupo Bimbo Ventures Announces Investment in NanoLock Security](https://www.darkreading.com/ics-ot-security/grupo-bimbo-ventures-announces-investment-in-nanolock-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
