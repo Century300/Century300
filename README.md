@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea&#39;s Lazarus APT Evolves Developer-Recruitment Attacks](https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks)
 - [OWASP&#39;s New LLM Top 10 Shows Emerging AI Threats](https://www.darkreading.com/vulnerabilities-threats/owasps-llm-top-10-shows-emerging-ai-threats)
 - [As Tensions Mount With China, Taiwan Sees Surge in Cyberattacks](https://www.darkreading.com/cyber-risk/as-tensions-with-china-mount-taiwan-sees-surge-in-cyberattacks)
 - [Microsoft Rings in 2025 With Record Security Update](https://www.darkreading.com/application-security/microsoft-january-2025-record-security-update)
@@ -83,7 +84,6 @@
 - [Apple Bug Allows Root Protections Bypass Without Physical Access](https://www.darkreading.com/vulnerabilities-threats/apple-bug-root-protections-bypass-physical-access)
 - [FBI Wraps Up Eradication Effort of Chinese &#39;PlugX&#39; Malware](https://www.darkreading.com/cybersecurity-operations/fbi-wraps-up-eradication-chinese-plugx-malware)
 - [Zero-Day Security Bug Likely Fueling Fortinet Firewall Attacks](https://www.darkreading.com/threat-intelligence/zero-day-security-bug-fortinet-firewall-attacks)
-- [New Startups Focus on Deepfakes, Data-in-Motion &amp;amp; Model Security](https://www.darkreading.com/cybersecurity-operations/startups-focus-deepfakes-data-motion-model-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
