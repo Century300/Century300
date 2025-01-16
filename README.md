@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Trusted Apps Sneak a Bug Into the UEFI Boot Process](https://www.darkreading.com/vulnerabilities-threats/trusted-apps-bug-uefi-boot-process)
+- [CISA&#39;s AI Playbook Pushes For More Information Sharing](https://www.darkreading.com/cyber-risk/cisa-s-ai-playbook-pushes-for-more-information-sharing)
 - [Attackers Hijack Google Advertiser Accounts to Spread Malware](https://www.darkreading.com/vulnerabilities-threats/attackers-hijack-google-advertiser-accounts-malware)
 - [CISA: Second BeyondTrust Vulnerability Added to KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-of-second-vuln-found-in-beyondtrust-breach-investigation)
 - [Extension Poisoning Campaign Highlights Gaps in Browser Security](https://www.darkreading.com/endpoint-security/extension-poisoning-campaign-gaps-browser-security)
 - [North Korea&#39;s Lazarus APT Evolves Developer-Recruitment Attacks](https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks)
 - [OWASP&#39;s New LLM Top 10 Shows Emerging AI Threats](https://www.darkreading.com/vulnerabilities-threats/owasps-llm-top-10-shows-emerging-ai-threats)
 - [As Tensions Mount With China, Taiwan Sees Surge in Cyberattacks](https://www.darkreading.com/cyber-risk/as-tensions-with-china-mount-taiwan-sees-surge-in-cyberattacks)
-- [Microsoft Rings in 2025 With Record Security Update](https://www.darkreading.com/application-security/microsoft-january-2025-record-security-update)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
