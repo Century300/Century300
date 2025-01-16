@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Biden&#39;s Cybersecurity EO Leaves Trump a Comprehensive Blueprint for Defense](https://www.darkreading.com/threat-intelligence/biden-cybersecurity-eo-trump-blueprint-defense)
+- [Karl Triebes Joins Ivanti as Chief Product Officer](https://www.darkreading.com/cybersecurity-operations/karl-triebes-joins-ivanti-as-chief-product-officer)
+- [CISA and US and International Partners Publish Guidance for OT Owners and Operators](https://www.darkreading.com/ics-ot-security/cisa-and-us-and-international-partners-publish-guidance-for-ot-owners-and-operators)
+- [SEALSQ in Cooperation With WISeKey Expands Post-Quantum Footprint in Saudi Arabia](https://www.darkreading.com/cybersecurity-operations/sealsq-in-cooperation-with-wisekey-expands-post-quantum-footprint-in-saudi-arabia)
+- [FTC Orders GoDaddy to Fix Inadequate Security Practices](https://www.darkreading.com/cyber-risk/ftc-orders-godaddy-inadequate-security-practices)
 - [Strategic Approaches to Threat Detection, Investigation &amp;amp; Response](https://www.darkreading.com/vulnerabilities-threats/strategic-approaches-threat-detection-investigation-response)
 - [Risk, Reputational Scores Enjoy Mixed Success as Security Tools](https://www.darkreading.com/cyber-risk/risk-reputational-scoring-services-enjoy-mixed-success)
 - [Trusted Apps Sneak a Bug Into the UEFI Boot Process](https://www.darkreading.com/vulnerabilities-threats/trusted-apps-bug-uefi-boot-process)
-- [CISA&#39;s AI Playbook Pushes For More Information Sharing](https://www.darkreading.com/cyber-risk/cisa-s-ai-playbook-pushes-for-more-information-sharing)
-- [Attackers Hijack Google Advertiser Accounts to Spread Malware](https://www.darkreading.com/vulnerabilities-threats/attackers-hijack-google-advertiser-accounts-malware)
-- [CISA: Second BeyondTrust Vulnerability Added to KEV Catalog](https://www.darkreading.com/vulnerabilities-threats/cisa-warns-of-second-vuln-found-in-beyondtrust-breach-investigation)
-- [Extension Poisoning Campaign Highlights Gaps in Browser Security](https://www.darkreading.com/endpoint-security/extension-poisoning-campaign-gaps-browser-security)
-- [North Korea&#39;s Lazarus APT Evolves Developer-Recruitment Attacks](https://www.darkreading.com/threat-intelligence/north-korea-lazarus-apt-developer-recruitment-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
