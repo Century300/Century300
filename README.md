@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian APT Phishes Kazakh Gov&#39;t for Strategic Intel](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-phishes-kazakh-govt-strategic-intel)
 - [Biden&#39;s Cybersecurity EO Leaves Trump a Comprehensive Blueprint for Defense](https://www.darkreading.com/threat-intelligence/biden-cybersecurity-eo-trump-blueprint-defense)
 - [183M Patient Records Exposed: Fortified Health Security Releases 2025 Healthcare Cybersecurity Report](https://www.darkreading.com/cyberattacks-data-breaches/183m-patient-records-exposed-fortified-health-security-releases-2025-healthcare-cybersecurity-report)
 - [Karl Triebes Joins Ivanti as Chief Product Officer](https://www.darkreading.com/cybersecurity-operations/karl-triebes-joins-ivanti-as-chief-product-officer)
@@ -83,7 +84,6 @@
 - [SEALSQ in Cooperation With WISeKey Expands Post-Quantum Footprint in Saudi Arabia](https://www.darkreading.com/cybersecurity-operations/sealsq-in-cooperation-with-wisekey-expands-post-quantum-footprint-in-saudi-arabia)
 - [FTC Orders GoDaddy to Fix Inadequate Security Practices](https://www.darkreading.com/cyber-risk/ftc-orders-godaddy-inadequate-security-practices)
 - [Strategic Approaches to Threat Detection, Investigation &amp;amp; Response](https://www.darkreading.com/vulnerabilities-threats/strategic-approaches-threat-detection-investigation-response)
-- [Risk, Reputational Scores Enjoy Mixed Success as Security Tools](https://www.darkreading.com/cyber-risk/risk-reputational-scoring-services-enjoy-mixed-success)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
