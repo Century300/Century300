@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 - [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 - [15K Fortinet Device Configs Leaked to the Dark Web](https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web)
 - [US Sanctions Chinese Hacker &amp;amp; Firm for Treasury, Critical Infrastructure Breaches](https://www.darkreading.com/threat-intelligence/us-sanctions-chinese-hacker-treasury-critical-infrastructure-breaches)
@@ -83,7 +84,6 @@
 - [Russian APT Phishes Kazakh Gov&#39;t for Strategic Intel](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-phishes-kazakh-govt-strategic-intel)
 - [Biden&#39;s Cybersecurity EO Leaves Trump a Comprehensive Blueprint for Defense](https://www.darkreading.com/threat-intelligence/biden-cybersecurity-eo-trump-blueprint-defense)
 - [183M Patient Records Exposed: Fortified Health Security Releases 2025 Healthcare Cybersecurity Report](https://www.darkreading.com/cyberattacks-data-breaches/183m-patient-records-exposed-fortified-health-security-releases-2025-healthcare-cybersecurity-report)
-- [Karl Triebes Joins Ivanti as Chief Product Officer](https://www.darkreading.com/cybersecurity-operations/karl-triebes-joins-ivanti-as-chief-product-officer)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
