@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
+- [Phishing Attacks Are the Most Common Smartphone Security Issue for Consumers](https://www.darkreading.com/mobile-security/phishing-attacks-are-most-common-smartphone-security-consumer-issue)
 - [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 - [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 - [15K Fortinet Device Configs Leaked to the Dark Web](https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web)
 - [US Sanctions Chinese Hacker &amp;amp; Firm for Treasury, Critical Infrastructure Breaches](https://www.darkreading.com/threat-intelligence/us-sanctions-chinese-hacker-treasury-critical-infrastructure-breaches)
 - [Leveraging Behavioral Insights to Counter LLM-Enabled Hacking](https://www.darkreading.com/vulnerabilities-threats/leveraging-behavioral-insights-counter-llm-enabled-hacking)
 - [Russian APT Phishes Kazakh Gov&#39;t for Strategic Intel](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-phishes-kazakh-govt-strategic-intel)
-- [Biden&#39;s Cybersecurity EO Leaves Trump a Comprehensive Blueprint for Defense](https://www.darkreading.com/threat-intelligence/biden-cybersecurity-eo-trump-blueprint-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
