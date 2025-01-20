@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
 - [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 - [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 - [15K Fortinet Device Configs Leaked to the Dark Web](https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web)
@@ -83,7 +84,6 @@
 - [Leveraging Behavioral Insights to Counter LLM-Enabled Hacking](https://www.darkreading.com/vulnerabilities-threats/leveraging-behavioral-insights-counter-llm-enabled-hacking)
 - [Russian APT Phishes Kazakh Gov&#39;t for Strategic Intel](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-phishes-kazakh-govt-strategic-intel)
 - [Biden&#39;s Cybersecurity EO Leaves Trump a Comprehensive Blueprint for Defense](https://www.darkreading.com/threat-intelligence/biden-cybersecurity-eo-trump-blueprint-defense)
-- [183M Patient Records Exposed: Fortified Health Security Releases 2025 Healthcare Cybersecurity Report](https://www.darkreading.com/cyberattacks-data-breaches/183m-patient-records-exposed-fortified-health-security-releases-2025-healthcare-cybersecurity-report)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
