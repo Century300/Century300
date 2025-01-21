@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Email Bombing, &#39;Vishing&#39; Tactics Abound in Microsoft 365 Attacks](https://www.darkreading.com/cyberattacks-data-breaches/email-bombing-vishing-tactics-abound-microsoft-365-attacks)
+- [DONOT Group Deploys Malicious Android Apps in India](https://www.darkreading.com/cyberattacks-data-breaches/donot-group-malicious-android-apps-india)
 - [HPE Investigates After Alleged Data Breach](https://www.darkreading.com/threat-intelligence/hpe-investigates-alleged-data-breach)
 - [Mirai Botnet Spinoffs Unleash Global Wave of DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks)
 - [Why CISOs Must Think Clearly Amid Regulatory Chaos](https://www.darkreading.com/cybersecurity-operations/cisos-must-think-clearly-amid-regulatory-chaos)
 - [Name That Toon: Incentives](https://www.darkreading.com/remote-workforce/name-that-toon-incentives)
 - [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
 - [Phishing Attacks Are the Most Common Smartphone Security Issue for Consumers](https://www.darkreading.com/mobile-security/phishing-attacks-are-most-common-smartphone-security-consumer-issue)
-- [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
-- [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
