@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mirai Botnet Spinoffs Unleash Global Wave of DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks)
 - [Why CISOs Must Think Clearly Amid Regulatory Chaos](https://www.darkreading.com/cybersecurity-operations/cisos-must-think-clearly-amid-regulatory-chaos)
 - [Name That Toon: Incentives](https://www.darkreading.com/remote-workforce/name-that-toon-incentives)
 - [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
@@ -83,7 +84,6 @@
 - [Has the TikTok Ban Already Backfired on US Cybersecurity?](https://www.darkreading.com/threat-intelligence/tiktok-ban-backfired-us-cybersecurity)
 - [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 - [15K Fortinet Device Configs Leaked to the Dark Web](https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web)
-- [US Sanctions Chinese Hacker &amp;amp; Firm for Treasury, Critical Infrastructure Breaches](https://www.darkreading.com/threat-intelligence/us-sanctions-chinese-hacker-treasury-critical-infrastructure-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
