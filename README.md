@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why CISOs Must Think Clearly Amid Regulatory Chaos](https://www.darkreading.com/cybersecurity-operations/cisos-must-think-clearly-amid-regulatory-chaos)
 - [Name That Toon: Incentives](https://www.darkreading.com/remote-workforce/name-that-toon-incentives)
 - [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
 - [Phishing Attacks Are the Most Common Smartphone Security Issue for Consumers](https://www.darkreading.com/mobile-security/phishing-attacks-are-most-common-smartphone-security-consumer-issue)
@@ -83,7 +84,6 @@
 - [Employees Enter Sensitive Data Into GenAI Prompts Far Too Often](https://www.darkreading.com/threat-intelligence/employees-sensitive-data-genai-prompts)
 - [15K Fortinet Device Configs Leaked to the Dark Web](https://www.darkreading.com/endpoint-security/15k-fortinet-device-configs-leaked-dark-web)
 - [US Sanctions Chinese Hacker &amp;amp; Firm for Treasury, Critical Infrastructure Breaches](https://www.darkreading.com/threat-intelligence/us-sanctions-chinese-hacker-treasury-critical-infrastructure-breaches)
-- [Leveraging Behavioral Insights to Counter LLM-Enabled Hacking](https://www.darkreading.com/vulnerabilities-threats/leveraging-behavioral-insights-counter-llm-enabled-hacking)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
