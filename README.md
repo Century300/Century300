@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trump Fires Cyber Safety Board Investigating Salt Typhoon Hackers](https://www.darkreading.com/threat-intelligence/trump-fires-cyber-safety-board-salt-typhoon-hackers)
 - [Email Bombing, &#39;Vishing&#39; Tactics Abound in Microsoft 365 Attacks](https://www.darkreading.com/cyberattacks-data-breaches/email-bombing-vishing-tactics-abound-microsoft-365-attacks)
 - [DONOT Group Deploys Malicious Android Apps in India](https://www.darkreading.com/cyberattacks-data-breaches/donot-group-malicious-android-apps-india)
 - [HPE Investigates After Alleged Data Breach](https://www.darkreading.com/threat-intelligence/hpe-investigates-alleged-data-breach)
@@ -83,7 +84,6 @@
 - [Why CISOs Must Think Clearly Amid Regulatory Chaos](https://www.darkreading.com/cybersecurity-operations/cisos-must-think-clearly-amid-regulatory-chaos)
 - [Name That Toon: Incentives](https://www.darkreading.com/remote-workforce/name-that-toon-incentives)
 - [US Ban on Automotive Components Could Curb Supply Chain](https://www.darkreading.com/vulnerabilities-threats/us-ban-automotive-components-supply-chain)
-- [Phishing Attacks Are the Most Common Smartphone Security Issue for Consumers](https://www.darkreading.com/mobile-security/phishing-attacks-are-most-common-smartphone-security-consumer-issue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
