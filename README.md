@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trump Pardons &#39;Silk Road&#39; Dark Web Drug Market Creator](https://www.darkreading.com/threat-intelligence/trump-pardons-silk-road-dark-web-drug-market-creator)
 - [Will 2025 See a Rise of NHI Attacks?](https://www.darkreading.com/vulnerabilities-threats/will-2025-see-rise-nhi-attacks)
 - [Mandatory MFA, Biometrics Make Headway in Middle East, Africa](https://www.darkreading.com/cybersecurity-operations/mfa-biometrics-make-headway-middle-east-africa)
 - [[Virtual Event]: Cybersecurity&#39;s Most Promising New and Emerging Technologies](https://www.darkreading.com/events/cybersecurity-most-promising-and-emerging-technologies)
@@ -83,7 +84,6 @@
 - [Email Bombing, &#39;Vishing&#39; Tactics Abound in Microsoft 365 Attacks](https://www.darkreading.com/cyberattacks-data-breaches/email-bombing-vishing-tactics-abound-microsoft-365-attacks)
 - [DONOT Group Deploys Malicious Android Apps in India](https://www.darkreading.com/cyberattacks-data-breaches/donot-group-malicious-android-apps-india)
 - [HPE Investigates After Alleged Data Breach](https://www.darkreading.com/threat-intelligence/hpe-investigates-alleged-data-breach)
-- [Mirai Botnet Spinoffs Unleash Global Wave of DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
