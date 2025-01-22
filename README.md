@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Will 2025 See a Rise of NHI Attacks?](https://www.darkreading.com/vulnerabilities-threats/will-2025-see-rise-nhi-attacks)
 - [Mandatory MFA, Biometrics Make Headway in Middle East, Africa](https://www.darkreading.com/cybersecurity-operations/mfa-biometrics-make-headway-middle-east-africa)
 - [[Virtual Event]: Cybersecurity&#39;s Most Promising New and Emerging Technologies](https://www.darkreading.com/events/cybersecurity-most-promising-and-emerging-technologies)
 - [Trump Fires Cyber Safety Board Investigating Salt Typhoon Hackers](https://www.darkreading.com/threat-intelligence/trump-fires-cyber-safety-board-salt-typhoon-hackers)
@@ -83,7 +84,6 @@
 - [DONOT Group Deploys Malicious Android Apps in India](https://www.darkreading.com/cyberattacks-data-breaches/donot-group-malicious-android-apps-india)
 - [HPE Investigates After Alleged Data Breach](https://www.darkreading.com/threat-intelligence/hpe-investigates-alleged-data-breach)
 - [Mirai Botnet Spinoffs Unleash Global Wave of DDoS Attacks](https://www.darkreading.com/cyberattacks-data-breaches/mirai-botnet-spinoffs-global-wave-ddos-attacks)
-- [Cisco Previews AI Defenses to Cloud Security Platform](https://www.darkreading.com/cloud-security/cisco-previews-ai-defense-cloud-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
