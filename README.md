@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA: Ivanti Vulns Chained Together in Cyberattack Onslaught](https://www.darkreading.com/vulnerabilities-threats/cisa-ivanti-vulns-chained-attacks)
 - [Black &#39;Magic&#39; Targets Enterprise Juniper Routers With Backdoor](https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor)
 - [The Security Risk of Rampant Shadow AI](https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai)
 - [Doti AI Launches Platform to Securely Find Enterprise Data](https://www.darkreading.com/cybersecurity-operations/doti-ai-launches-platform-to-securely-find-enterprise-data)
@@ -83,7 +84,6 @@
 - [Trump Overturns Biden Rules on AI Development, Security](https://www.darkreading.com/threat-intelligence/trump-overturns-biden-rules-on-ai-development-security)
 - [Chinese Cyberspies Target South Korean VPN in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack)
 - [Trump Pardons &#39;Silk Road&#39; Dark Web Drug Market Creator](https://www.darkreading.com/threat-intelligence/trump-pardons-silk-road-dark-web-drug-market-creator)
-- [Will 2025 See a Rise of NHI Attacks?](https://www.darkreading.com/vulnerabilities-threats/will-2025-see-rise-nhi-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
