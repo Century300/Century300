@@ -77,8 +77,8 @@
 
 <!-- DARKREADING:START -->
 - [CISA: Ivanti Vulns Chained Together in Cyberattack Onslaught](https://www.darkreading.com/vulnerabilities-threats/cisa-ivanti-vulns-chained-attacks)
-- [Black &#39;Magic&#39; Targets Enterprise Juniper Routers With Backdoor](https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor)
 - [The Security Risk of Rampant Shadow AI](https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai)
+- [Black &#39;Magic&#39; Targets Enterprise Juniper Routers With Backdoor](https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor)
 - [Doti AI Launches Platform to Securely Find Enterprise Data](https://www.darkreading.com/cybersecurity-operations/doti-ai-launches-platform-to-securely-find-enterprise-data)
 - [Security Needs to Start Saying &#39;No&#39; Again](https://www.darkreading.com/cyber-risk/security-needs-start-saying-no-again)
 - [Trump Overturns Biden Rules on AI Development, Security](https://www.darkreading.com/threat-intelligence/trump-overturns-biden-rules-on-ai-development-security)
