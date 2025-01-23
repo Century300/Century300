@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cloudflare CDN Bug Outs User Locations on Signal, Discord](https://www.darkreading.com/threat-intelligence/cloudflare-cdn-bug-outs-user-locations-signal-discord)
 - [CISA: Ivanti Vulns Chained Together in Cyberattack Onslaught](https://www.darkreading.com/vulnerabilities-threats/cisa-ivanti-vulns-chained-attacks)
 - [The Security Risk of Rampant Shadow AI](https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai)
 - [Black &#39;Magic&#39; Targets Enterprise Juniper Routers With Backdoor](https://www.darkreading.com/endpoint-security/black-magic-enterprise-juniper-routers-backdoor)
@@ -83,7 +84,6 @@
 - [Security Needs to Start Saying &#39;No&#39; Again](https://www.darkreading.com/cyber-risk/security-needs-start-saying-no-again)
 - [Trump Overturns Biden Rules on AI Development, Security](https://www.darkreading.com/threat-intelligence/trump-overturns-biden-rules-on-ai-development-security)
 - [Chinese Cyberspies Target South Korean VPN in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack)
-- [Trump Pardons &#39;Silk Road&#39; Dark Web Drug Market Creator](https://www.darkreading.com/threat-intelligence/trump-pardons-silk-road-dark-web-drug-market-creator)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
