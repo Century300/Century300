@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [84% of Healthcare Organizations Spotted a Cyberattack in the Late Year](https://www.darkreading.com/threat-intelligence/84-of-healthcare-organizations-spotted-a-cyberattack-in-the-late-year)
 - [Cloudflare CDN Bug Outs User Locations on Signal, Discord](https://www.darkreading.com/threat-intelligence/cloudflare-cdn-bug-outs-user-locations-signal-discord)
 - [CISA: Ivanti Vulns Chained Together in Cyberattack Onslaught](https://www.darkreading.com/vulnerabilities-threats/cisa-ivanti-vulns-chained-attacks)
 - [The Security Risk of Rampant Shadow AI](https://www.darkreading.com/vulnerabilities-threats/security-risk-rampant-shadow-ai)
@@ -83,7 +84,6 @@
 - [Doti AI Launches Platform to Securely Find Enterprise Data](https://www.darkreading.com/cybersecurity-operations/doti-ai-launches-platform-to-securely-find-enterprise-data)
 - [Security Needs to Start Saying &#39;No&#39; Again](https://www.darkreading.com/cyber-risk/security-needs-start-saying-no-again)
 - [Trump Overturns Biden Rules on AI Development, Security](https://www.darkreading.com/threat-intelligence/trump-overturns-biden-rules-on-ai-development-security)
-- [Chinese Cyberspies Target South Korean VPN in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
