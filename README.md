@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Doti AI Launches Platform to Securely Find Enterprise Data](https://www.darkreading.com/cybersecurity-operations/doti-ai-launches-platform-to-securely-find-enterprise-data)
 - [Security Needs to Start Saying &#39;No&#39; Again](https://www.darkreading.com/cyber-risk/security-needs-start-saying-no-again)
 - [Trump Overturns Biden Rules on AI Development, Security](https://www.darkreading.com/threat-intelligence/trump-overturns-biden-rules-on-ai-development-security)
 - [Chinese Cyberspies Target South Korean VPN in Supply Chain Attack](https://www.darkreading.com/threat-intelligence/chinese-cyberspies-target-south-korean-vpn-supply-chain-attack)
@@ -83,7 +84,6 @@
 - [Will 2025 See a Rise of NHI Attacks?](https://www.darkreading.com/vulnerabilities-threats/will-2025-see-rise-nhi-attacks)
 - [Mandatory MFA, Biometrics Make Headway in Middle East, Africa](https://www.darkreading.com/cybersecurity-operations/mfa-biometrics-make-headway-middle-east-africa)
 - [[Virtual Event]: Cybersecurity&#39;s Most Promising New and Emerging Technologies](https://www.darkreading.com/events/cybersecurity-most-promising-and-emerging-technologies)
-- [Trump Fires Cyber Safety Board Investigating Salt Typhoon Hackers](https://www.darkreading.com/threat-intelligence/trump-fires-cyber-safety-board-salt-typhoon-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
