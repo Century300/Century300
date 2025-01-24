@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MITRE&#39;s Latest ATT&amp;amp;CK Simulations Tackles Cloud Defenses](https://www.darkreading.com/cybersecurity-operations/mitre-simuluations-shine-light-on-attackers-techniques)
 - [Cisco: Critical Meeting Management Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/cisco-critical-meeting-management-bug-urgent-patch)
 - [3 Use Cases for Third-Party API Security](https://www.darkreading.com/cloud-security/3-use-cases-for-third-party-api-security)
 - [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
@@ -83,7 +84,6 @@
 - [Tesla Gear Gets Hacked Multiple Times in Pwn2Own Contests](https://www.darkreading.com/vulnerabilities-threats/tesla-gear-hacked-multiple-times-pwn2own-contests)
 - [CISA Calls For Action to Close the Software Understanding Gap](https://www.darkreading.com/application-security/cisa-calls-for-action-to-close-the-software-understanding-gap)
 - [Omdia Finds Phishing Attacks Top Smartphone Security Concern for Consumers](https://www.darkreading.com/endpoint-security/omdia-finds-phishing-attacks-top-smartphone-security-concern-for-consumers)
-- [Automox Releases Endpoint Management With FastAgent](https://www.darkreading.com/endpoint-security/automox-releases-endpoint-management-with-fastagent)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
