@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
 - [War Game Pits China Against Taiwan in All-Out Cyberwar](https://www.darkreading.com/threat-intelligence/war-game-pits-china-against-taiwan-cyberwar)
 - [Tesla Gear Gets Hacked Multiple Times in Pwn2Own Contests](https://www.darkreading.com/vulnerabilities-threats/tesla-gear-hacked-multiple-times-pwn2own-contests)
 - [CISA Calls For Action to Close the Software Understanding Gap](https://www.darkreading.com/application-security/cisa-calls-for-action-to-close-the-software-understanding-gap)
@@ -83,7 +84,6 @@
 - [Automox Releases Endpoint Management With FastAgent](https://www.darkreading.com/endpoint-security/automox-releases-endpoint-management-with-fastagent)
 - [84% of Healthcare Organizations Spotted a Cyberattack in the Late Year](https://www.darkreading.com/threat-intelligence/84-of-healthcare-organizations-spotted-a-cyberattack-in-the-late-year)
 - [Cloudflare CDN Bug Outs User Locations on Signal, Discord](https://www.darkreading.com/threat-intelligence/cloudflare-cdn-bug-outs-user-locations-signal-discord)
-- [CISA: Ivanti Vulns Chained Together in Cyberattack Onslaught](https://www.darkreading.com/vulnerabilities-threats/cisa-ivanti-vulns-chained-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
