@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco: Critical Meeting Management Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/cisco-critical-meeting-management-bug-urgent-patch)
+- [3 Use Cases for Third-Party API Security](https://www.darkreading.com/cloud-security/3-use-cases-for-third-party-api-security)
 - [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
 - [War Game Pits China Against Taiwan in All-Out Cyberwar](https://www.darkreading.com/threat-intelligence/war-game-pits-china-against-taiwan-cyberwar)
 - [Tesla Gear Gets Hacked Multiple Times in Pwn2Own Contests](https://www.darkreading.com/vulnerabilities-threats/tesla-gear-hacked-multiple-times-pwn2own-contests)
 - [CISA Calls For Action to Close the Software Understanding Gap](https://www.darkreading.com/application-security/cisa-calls-for-action-to-close-the-software-understanding-gap)
 - [Omdia Finds Phishing Attacks Top Smartphone Security Concern for Consumers](https://www.darkreading.com/endpoint-security/omdia-finds-phishing-attacks-top-smartphone-security-concern-for-consumers)
 - [Automox Releases Endpoint Management With FastAgent](https://www.darkreading.com/endpoint-security/automox-releases-endpoint-management-with-fastagent)
-- [84% of Healthcare Organizations Spotted a Cyberattack in the Late Year](https://www.darkreading.com/threat-intelligence/84-of-healthcare-organizations-spotted-a-cyberattack-in-the-late-year)
-- [Cloudflare CDN Bug Outs User Locations on Signal, Discord](https://www.darkreading.com/threat-intelligence/cloudflare-cdn-bug-outs-user-locations-signal-discord)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
