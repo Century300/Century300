@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code](https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code)
+- [Apple Patches Actively Exploited Zero-Day Vulnerability](https://www.darkreading.com/endpoint-security/apple-patches-actively-exploited-zero-day-vulnerability)
+- [IT-Harvest Launches HarvestIQ.ai](https://www.darkreading.com/cybersecurity-operations/it-harvest-launches-harvestiq-ai)
+- [Spectral Capital Files Quantum Cybersecurity Patent](https://www.darkreading.com/application-security/spectral-capital-files-critical-quantum-cybersecurity-patent)
+- [Change Healthcare Breach Impact Doubles to 190M People](https://www.darkreading.com/cloud-security/change-healthcare-breach-190m-people)
+- [USPS Impersonators Tap Trust in PDFs in Smishing Attack Wave](https://www.darkreading.com/endpoint-security/usps-impersonators-pdfs-smishing-campaign)
 - [Crisis Simulations: A Top 2025 Concern for CISOs](https://www.darkreading.com/endpoint-security/crisis-simulations-2025-concern-cisos)
 - [The Case for Proactive, Scalable Data Protection](https://www.darkreading.com/cloud-security/case-proactive-scalable-data-protection)
-- [CISOs Are Gaining C-Suite Swagger, but Has It Come With a Cost?](https://www.darkreading.com/threat-intelligence/cisos-gaining-c-suite-swagger)
-- [DoJ Busts Up Another Multinational DPRK IT Worker Scam](https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam)
-- [MITRE&#39;s Latest ATT&amp;amp;CK Simulations Tackle Cloud Defenses](https://www.darkreading.com/cybersecurity-operations/mitre-simuluations-shine-light-on-attackers-techniques)
-- [Cisco: Critical Meeting Management Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/cisco-critical-meeting-management-bug-urgent-patch)
-- [3 Use Cases for Third-Party API Security](https://www.darkreading.com/cloud-security/3-use-cases-for-third-party-api-security)
-- [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
