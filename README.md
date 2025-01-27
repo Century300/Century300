@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Case for Proactive, Scalable Data Protection](https://www.darkreading.com/cloud-security/case-proactive-scalable-data-protection)
 - [CISOs Are Gaining C-Suite Swagger, but Has It Come With a Cost?](https://www.darkreading.com/threat-intelligence/cisos-gaining-c-suite-swagger)
 - [DoJ Busts Up Another Multinational DPRK IT Worker Scam](https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam)
 - [MITRE&#39;s Latest ATT&amp;amp;CK Simulations Tackle Cloud Defenses](https://www.darkreading.com/cybersecurity-operations/mitre-simuluations-shine-light-on-attackers-techniques)
@@ -83,7 +84,6 @@
 - [3 Use Cases for Third-Party API Security](https://www.darkreading.com/cloud-security/3-use-cases-for-third-party-api-security)
 - [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
 - [War Game Pits China Against Taiwan in All-Out Cyberwar](https://www.darkreading.com/threat-intelligence/war-game-pits-china-against-taiwan-cyberwar)
-- [Tesla Gear Gets Hacked Multiple Times in Pwn2Own Contests](https://www.darkreading.com/vulnerabilities-threats/tesla-gear-hacked-multiple-times-pwn2own-contests)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
