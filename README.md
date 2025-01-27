@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Crisis Simulations: A Top 2025 Concern for CISOs](https://www.darkreading.com/endpoint-security/crisis-simulations-2025-concern-cisos)
 - [The Case for Proactive, Scalable Data Protection](https://www.darkreading.com/cloud-security/case-proactive-scalable-data-protection)
 - [CISOs Are Gaining C-Suite Swagger, but Has It Come With a Cost?](https://www.darkreading.com/threat-intelligence/cisos-gaining-c-suite-swagger)
 - [DoJ Busts Up Another Multinational DPRK IT Worker Scam](https://www.darkreading.com/threat-intelligence/doj-multinational-dprk-it-worker-scam)
@@ -83,7 +84,6 @@
 - [Cisco: Critical Meeting Management Bug Requires Urgent Patch](https://www.darkreading.com/vulnerabilities-threats/cisco-critical-meeting-management-bug-urgent-patch)
 - [3 Use Cases for Third-Party API Security](https://www.darkreading.com/cloud-security/3-use-cases-for-third-party-api-security)
 - [Strengthening Our National Security in the AI Era](https://www.darkreading.com/vulnerabilities-threats/strengthening-national-security-ai-era)
-- [War Game Pits China Against Taiwan in All-Out Cyberwar](https://www.darkreading.com/threat-intelligence/war-game-pits-china-against-taiwan-cyberwar)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
