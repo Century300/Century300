@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Super Bowl LIX Could Be a Magnet for Cyberattacks](https://www.darkreading.com/endpoint-security/super-bowl-lix-magnet-cyberattacks)
 - [Cryptographic Agility&#39;s Legislative Possibilities &amp;amp; Business Benefits](https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits)
 - [Actively Exploited Fortinet Zero-Day Gives Attackers Super-Admin Privileges](https://www.darkreading.com/cloud-security/actively-exploited-fortinet-zero-day-attackers-super-admin-privileges)
 - [For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code](https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code)
@@ -83,7 +84,6 @@
 - [IT-Harvest Launches HarvestIQ.ai](https://www.darkreading.com/cybersecurity-operations/it-harvest-launches-harvestiq-ai)
 - [Spectral Capital Files Quantum Cybersecurity Patent](https://www.darkreading.com/application-security/spectral-capital-files-critical-quantum-cybersecurity-patent)
 - [Change Healthcare Breach Impact Doubles to 190M People](https://www.darkreading.com/cloud-security/change-healthcare-breach-190m-people)
-- [USPS Impersonators Tap Trust in PDFs in Smishing Attack Wave](https://www.darkreading.com/endpoint-security/usps-impersonators-pdfs-smishing-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
