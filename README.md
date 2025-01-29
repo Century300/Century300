@@ -83,7 +83,7 @@
 - [OAuth Flaw Exposed Millions of Airline Users to Account Takeovers](https://www.darkreading.com/application-security/oauth-flaw-exposed-millions-airline-users-account-takeovers)
 - [Phishing Campaign Baits Hook With Malicious Amazon PDFs](https://www.darkreading.com/cyberattacks-data-breaches/phishing-campaign-malicious-amazon-pdfs)
 - [Super Bowl LIX Could Be a Magnet for Cyberattacks](https://www.darkreading.com/endpoint-security/super-bowl-lix-magnet-cyberattacks)
-- [Reporting a Breach or Vuln? Be Sure Your Lawyer&#39;s on Call](https://www.darkreading.com/cyber-risk/security-researchers-whistleblowers-face-crackdowns-globally)
+- [Data Privacy Day 2025: Time for Data Destruction to Become Standard Business Practice](https://www.darkreading.com/data-privacy/data-privacy-day-2025-time-for-data-destruction-to-become-standard-business-practice)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
