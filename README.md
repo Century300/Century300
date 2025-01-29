@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Old Ways of Vendor Risk Management Are No Longer Good Enough](https://www.darkreading.com/vulnerabilities-threats/old-ways-vendor-risk-management-no-longer-good-enough)
 - [7 Tips for Strategically Saying &amp;quot;No&amp;quot; in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/7-tips-for-strategically-saying-no-in-cybersecurity)
 - [CrowdStrike Highlights Magnitude of Insider Risk](https://www.darkreading.com/insider-threats/crowdstrike-highlights-magnitude-of-insider-risk)
 - [Lynx Ransomware Group &#39;Industrializes&#39; Cybercrime With Affiliates](https://www.darkreading.com/threat-intelligence/lynx-raas-group-industrializes-cybercrime-with-affiliate-operations)
@@ -83,7 +84,6 @@
 - [Phishing Campaign Baits Hook With Malicious Amazon PDFs](https://www.darkreading.com/cyberattacks-data-breaches/phishing-campaign-malicious-amazon-pdfs)
 - [Super Bowl LIX Could Be a Magnet for Cyberattacks](https://www.darkreading.com/endpoint-security/super-bowl-lix-magnet-cyberattacks)
 - [Reporting a Breach or Vuln? Be Sure Your Lawyer&#39;s on Call](https://www.darkreading.com/cyber-risk/security-researchers-whistleblowers-face-crackdowns-globally)
-- [Cryptographic Agility&#39;s Legislative Possibilities &amp;amp; Business Benefits](https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
