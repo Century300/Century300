@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Tips for Strategically Saying &amp;quot;No&amp;quot; in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/7-tips-for-strategically-saying-no-in-cybersecurity)
+- [CrowdStrike Highlights Magnitude of Insider Risk](https://www.darkreading.com/insider-threats/crowdstrike-highlights-magnitude-of-insider-risk)
 - [Lynx Ransomware Group &#39;Industrializes&#39; Cybercrime With Affiliates](https://www.darkreading.com/threat-intelligence/lynx-raas-group-industrializes-cybercrime-with-affiliate-operations)
 - [OAuth Flaw Exposed Millions of Airline Users to Account Takeovers](https://www.darkreading.com/application-security/oauth-flaw-exposed-millions-airline-users-account-takeovers)
 - [Phishing Campaign Baits Hook With Malicious Amazon PDFs](https://www.darkreading.com/cyberattacks-data-breaches/phishing-campaign-malicious-amazon-pdfs)
 - [Super Bowl LIX Could Be a Magnet for Cyberattacks](https://www.darkreading.com/endpoint-security/super-bowl-lix-magnet-cyberattacks)
 - [Reporting a Breach or Vuln? Be Sure Your Lawyer&#39;s on Call](https://www.darkreading.com/cyber-risk/security-researchers-whistleblowers-face-crackdowns-globally)
 - [Cryptographic Agility&#39;s Legislative Possibilities &amp;amp; Business Benefits](https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits)
-- [Data Privacy Day 2025: Time for Data Destruction to Become Standard Business Practice](https://www.darkreading.com/data-privacy/data-privacy-day-2025-time-for-data-destruction-to-become-standard-business-practice)
-- [Actively Exploited Fortinet Zero-Day Gives Attackers Super-Admin Privileges](https://www.darkreading.com/cloud-security/actively-exploited-fortinet-zero-day-attackers-super-admin-privileges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
