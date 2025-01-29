@@ -82,8 +82,8 @@
 - [Super Bowl LIX Could Be a Magnet for Cyberattacks](https://www.darkreading.com/endpoint-security/super-bowl-lix-magnet-cyberattacks)
 - [Reporting a Breach or Vuln? Be Sure Your Lawyer&#39;s on Call](https://www.darkreading.com/cyber-risk/security-researchers-whistleblowers-face-crackdowns-globally)
 - [Cryptographic Agility&#39;s Legislative Possibilities &amp;amp; Business Benefits](https://www.darkreading.com/vulnerabilities-threats/cryptographic-agility-legislative-possibilities-benefits)
+- [Data Privacy Day 2025: Time for Data Destruction to Become Standard Business Practice](https://www.darkreading.com/data-privacy/data-privacy-day-2025-time-for-data-destruction-to-become-standard-business-practice)
 - [Actively Exploited Fortinet Zero-Day Gives Attackers Super-Admin Privileges](https://www.darkreading.com/cloud-security/actively-exploited-fortinet-zero-day-attackers-super-admin-privileges)
-- [For $50, Cyberattackers Can Use GhostGPT to Write Malicious Code](https://www.darkreading.com/cloud-security/cyberattackers-ghostgpt-write-malicious-code)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
