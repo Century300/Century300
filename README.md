@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Exposure Management Provider CYE Acquires Solvo](https://www.darkreading.com/cloud-security/exposure-management-provider-cye-acquires-solvo)
 - [Fake Videos of Former First Lady Scam Namibians](https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians)
 - [PrintNightmare Aftermath: Windows Print Spooler is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
 - [Researchers Uncover Lazarus Group Admin Layer for C2 Servers](https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers)
@@ -83,7 +84,6 @@
 - [Mirai Variant &#39;Aquabot&#39; Exploits Mitel Device Flaws](https://www.darkreading.com/endpoint-security/mirai-variant-aquabot-exploits-mitel-phone-flaws)
 - [The Old Ways of Vendor Risk Management Are No Longer Good Enough](https://www.darkreading.com/vulnerabilities-threats/old-ways-vendor-risk-management-no-longer-good-enough)
 - [7 Tips for Strategically Saying &#39;No&#39; in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/7-tips-for-strategically-saying-no-in-cybersecurity)
-- [CrowdStrike Highlights Magnitude of Insider Risk](https://www.darkreading.com/insider-threats/crowdstrike-highlights-magnitude-of-insider-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
