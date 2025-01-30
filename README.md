@@ -78,7 +78,7 @@
 <!-- DARKREADING:START -->
 - [Exposure Management Provider CYE Acquires Solvo](https://www.darkreading.com/cloud-security/exposure-management-provider-cye-acquires-solvo)
 - [Fake Videos of Former First Lady Scam Namibians](https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians)
-- [PrintNightmare Aftermath: Windows Print Spooler is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
+- [PrintNightmare Aftermath: Windows Print Spooler Is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
 - [Researchers Uncover Lazarus Group Admin Layer for C2 Servers](https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers)
 - [Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers](https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers)
 - [Mirai Variant &#39;Aquabot&#39; Exploits Mitel Device Flaws](https://www.darkreading.com/endpoint-security/mirai-variant-aquabot-exploits-mitel-phone-flaws)
