@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Jailbreaks Allow Users to Manipulate GitHub Copilot](https://www.darkreading.com/vulnerabilities-threats/new-jailbreaks-manipulate-github-copilot)
 - [Exposure Management Provider CYE Acquires Solvo](https://www.darkreading.com/cloud-security/exposure-management-provider-cye-acquires-solvo)
 - [Fake Videos of Former First Lady Scam Namibians](https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians)
 - [PrintNightmare Aftermath: Windows Print Spooler Is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
@@ -83,7 +84,6 @@
 - [Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers](https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers)
 - [Mirai Variant &#39;Aquabot&#39; Exploits Mitel Device Flaws](https://www.darkreading.com/endpoint-security/mirai-variant-aquabot-exploits-mitel-phone-flaws)
 - [The Old Ways of Vendor Risk Management Are No Longer Good Enough](https://www.darkreading.com/vulnerabilities-threats/old-ways-vendor-risk-management-no-longer-good-enough)
-- [7 Tips for Strategically Saying &#39;No&#39; in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/7-tips-for-strategically-saying-no-in-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
