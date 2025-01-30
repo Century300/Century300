@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PrintNightmare Aftermath: Windows Print Spooler is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
 - [Researchers Uncover Lazarus Group Admin Layer for C2 Servers](https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers)
 - [Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers](https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers)
 - [Mirai Variant &#39;Aquabot&#39; Exploits Mitel Device Flaws](https://www.darkreading.com/endpoint-security/mirai-variant-aquabot-exploits-mitel-phone-flaws)
@@ -83,7 +84,6 @@
 - [7 Tips for Strategically Saying &#39;No&#39; in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/7-tips-for-strategically-saying-no-in-cybersecurity)
 - [CrowdStrike Highlights Magnitude of Insider Risk](https://www.darkreading.com/insider-threats/crowdstrike-highlights-magnitude-of-insider-risk)
 - [Lynx Ransomware Group &#39;Industrializes&#39; Cybercrime With Affiliates](https://www.darkreading.com/threat-intelligence/lynx-raas-group-industrializes-cybercrime-with-affiliate-operations)
-- [OAuth Flaw Exposed Millions of Airline Users to Account Takeovers](https://www.darkreading.com/application-security/oauth-flaw-exposed-millions-airline-users-account-takeovers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
