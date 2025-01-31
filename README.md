@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Can AI &amp;amp; the Cyber Trust Mark Rebuild Endpoint Confidence?](https://www.darkreading.com/endpoint-security/can-ai-cyber-trust-mark-rebuild-endpoint-confidence)
 - [Healthcare Sector Charts 2 More Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/two-attacks-target-healthcare-sector-adds-growing-list-ransomware-threats)
 - [New Jailbreaks Allow Users to Manipulate GitHub Copilot](https://www.darkreading.com/vulnerabilities-threats/new-jailbreaks-manipulate-github-copilot)
 - [Automated Pen Testing Is Improving — Slowly](https://www.darkreading.com/vulnerabilities-threats/automated-pen-testing-improving-slowly)
@@ -83,7 +84,6 @@
 - [Fake Videos of Former First Lady Scam Namibians](https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians)
 - [PrintNightmare Aftermath: Windows Print Spooler Is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
 - [Researchers Uncover Lazarus Group Admin Layer for C2 Servers](https://www.darkreading.com/cyberattacks-data-breaches/researchers-uncover-lazarus-admin-layer-c2-servers)
-- [Unpatched Zyxel CPE Zero-Day Pummeled by Cyberattackers](https://www.darkreading.com/endpoint-security/unpatched-zyxel-cpe-zero-day-cyberattackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
