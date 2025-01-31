@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [State Data Privacy Regulators Are Coming. What Story Will You Tell Them?](https://www.darkreading.com/data-privacy/states-move-to-enforce-data-security-regulation)
+- [Tenable to Acquire Vulcan Cyber to Boost Exposure Management Focus](https://www.darkreading.com/cloud-security/tenable-acquire-vulcan-cyber-expand-exposure-management)
 - [Code-Scanning Tool&#39;s License at Heart of Security Breakup](https://www.darkreading.com/application-security/code-scanning-tool-s-license-at-heart-of-security-breakup)
 - [Can AI &amp;amp; the Cyber Trust Mark Rebuild Endpoint Confidence?](https://www.darkreading.com/endpoint-security/can-ai-cyber-trust-mark-rebuild-endpoint-confidence)
 - [Healthcare Sector Charts 2 More Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/two-attacks-target-healthcare-sector-adds-growing-list-ransomware-threats)
 - [New Jailbreaks Allow Users to Manipulate GitHub Copilot](https://www.darkreading.com/vulnerabilities-threats/new-jailbreaks-manipulate-github-copilot)
 - [Automated Pen Testing Is Improving — Slowly](https://www.darkreading.com/vulnerabilities-threats/automated-pen-testing-improving-slowly)
 - [Exposure Management Provider CYE Acquires Solvo](https://www.darkreading.com/cloud-security/exposure-management-provider-cye-acquires-solvo)
-- [Fake Videos of Former First Lady Scam Namibians](https://www.darkreading.com/threat-intelligence/fake-videos-former-first-lady-scam-namibians)
-- [PrintNightmare Aftermath: Windows Print Spooler Is Better. What&#39;s Next?](https://www.darkreading.com/endpoint-security/windows-print-spooler-security-improves-in-wake-of-printnightmare-scare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
