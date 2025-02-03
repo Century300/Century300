@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ransomware Groups Weathered Raids, Profited in 2024](https://www.darkreading.com/endpoint-security/ransomware-weathered-raids-profited-2024)
 - [1-Click Phishing Campaign Targets High-Profile X Accounts](https://www.darkreading.com/endpoint-security/one-click-phishing-campaign-high-profile-x-accounts)
 - [Proactive Vulnerability Management for Engineering Success](https://www.darkreading.com/vulnerabilities-threats/proactive-vulnerability-management-engineering-success)
 - [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
@@ -83,7 +84,6 @@
 - [Community Health Center Data Breach Affects 1M Patients](https://www.darkreading.com/cyberattacks-data-breaches/community-health-center-notifies-1m-stolen-data-breach)
 - [DoJ Shutters Cybercrime Forums Behind Attacks on 17M Americans](https://www.darkreading.com/cybersecurity-operations/doj-cybercrime-forums-attacks-17m-americans)
 - [State Data Privacy Regulators Are Coming. What Story Will You Tell Them?](https://www.darkreading.com/data-privacy/states-move-to-enforce-data-security-regulation)
-- [Tenable to Acquire Vulcan Cyber to Boost Exposure Management Focus](https://www.darkreading.com/cloud-security/tenable-acquire-vulcan-cyber-expand-exposure-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
