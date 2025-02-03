@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
+- [Interactive Online Training for Cybersecurity Professionals; Earn CPE Credits](https://www.darkreading.com/cybersecurity-operations/interactive-online-training-for-cybersecurity-professionals-earn-cpe-credits)
+- [&#39;Constitutional Classifiers&#39; Technique Mitigates GenAI Jailbreaks](https://www.darkreading.com/application-security/constitutional-classifiers-mitigate-genai-jailbreaks)
+- [Name That Edge Toon: In the Cloud](https://www.darkreading.com/cloud-security/name-that-edge-toon-in-the-cloud)
+- [Microsoft Sets End Date for Defender VPN](https://www.darkreading.com/mobile-security/microsoft-sets-end-date-for-defender-vpn)
+- [AI Malware Dressed Up as DeepSeek Packages Lurk in PyPi](https://www.darkreading.com/application-security/ai-malware-deepseek-packages-pypi)
 - [Ransomware Groups Weathered Raids, Profited in 2024](https://www.darkreading.com/endpoint-security/ransomware-weathered-raids-profited-2024)
 - [1-Click Phishing Campaign Targets High-Profile X Accounts](https://www.darkreading.com/endpoint-security/one-click-phishing-campaign-high-profile-x-accounts)
-- [Proactive Vulnerability Management for Engineering Success](https://www.darkreading.com/vulnerabilities-threats/proactive-vulnerability-management-engineering-success)
-- [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
-- [Black Hat USA 2024 Highlights](https://www.darkreading.com/cyber-risk/untitled)
-- [Community Health Center Data Breach Affects 1M Patients](https://www.darkreading.com/cyberattacks-data-breaches/community-health-center-notifies-1m-stolen-data-breach)
-- [DoJ Shutters Cybercrime Forums Behind Attacks on 17M Americans](https://www.darkreading.com/cybersecurity-operations/doj-cybercrime-forums-attacks-17m-americans)
-- [State Data Privacy Regulators Are Coming. What Story Will You Tell Them?](https://www.darkreading.com/data-privacy/states-move-to-enforce-data-security-regulation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
