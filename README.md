@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proactive Vulnerability Management for Engineering Success](https://www.darkreading.com/vulnerabilities-threats/proactive-vulnerability-management-engineering-success)
 - [DeepSeek Jailbreak Reveals Its Entire System Prompt](https://www.darkreading.com/application-security/deepseek-jailbreak-system-prompt)
 - [Community Health Center Data Breach Affects 1M Patients](https://www.darkreading.com/cyberattacks-data-breaches/community-health-center-notifies-1m-stolen-data-breach)
 - [DoJ Shutters Cybercrime Forums Behind Attacks on 17M Americans](https://www.darkreading.com/cybersecurity-operations/doj-cybercrime-forums-attacks-17m-americans)
@@ -83,7 +84,6 @@
 - [Tenable to Acquire Vulcan Cyber to Boost Exposure Management Focus](https://www.darkreading.com/cloud-security/tenable-acquire-vulcan-cyber-expand-exposure-management)
 - [Code-Scanning Tool&#39;s License at Heart of Security Breakup](https://www.darkreading.com/application-security/code-scanning-tool-s-license-at-heart-of-security-breakup)
 - [Can AI &amp;amp; the Cyber Trust Mark Rebuild Endpoint Confidence?](https://www.darkreading.com/endpoint-security/can-ai-cyber-trust-mark-rebuild-endpoint-confidence)
-- [Healthcare Sector Charts 2 More Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/two-attacks-target-healthcare-sector-adds-growing-list-ransomware-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
