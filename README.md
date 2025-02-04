@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
+- [Chinese &#39;Infrastructure Laundering&#39; Abuses AWS, Microsoft Cloud](https://www.darkreading.com/cloud-security/chinese-infrastructure-laundering-abuses-aws-microsoft-cloud)
 - [Managing Software Risk in a World of Exploding Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/managing-software-risk-world-exploding-vulnerabilities)
 - [DNSFilter&#39;s Annual Security Report Reveals Worrisome Spike in Malicious DNS Requests](https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests)
 - [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
 - [Interactive Online Training for Cybersecurity Professionals; Earn CPE Credits](https://www.darkreading.com/cybersecurity-operations/interactive-online-training-for-cybersecurity-professionals-earn-cpe-credits)
 - [&#39;Constitutional Classifiers&#39; Technique Mitigates GenAI Jailbreaks](https://www.darkreading.com/application-security/constitutional-classifiers-mitigate-genai-jailbreaks)
 - [Name That Edge Toon: In the Cloud](https://www.darkreading.com/cloud-security/name-that-edge-toon-in-the-cloud)
-- [Microsoft Sets End Date for Defender VPN](https://www.darkreading.com/mobile-security/microsoft-sets-end-date-for-defender-vpn)
-- [AI Malware Dressed Up as DeepSeek Packages Lurk in PyPi](https://www.darkreading.com/application-security/ai-malware-deepseek-packages-pypi)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
