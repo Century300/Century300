@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Credential Theft Becomes Cybercriminals&#39; Favorite Target](https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target)
 - [Ferret Malware Added to &#39;Contagious Interview&#39; Campaign](https://www.darkreading.com/threat-intelligence/ferret-malware-added-contagious-interview-threat-campaign)
 - [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
 - [Chinese &#39;Infrastructure Laundering&#39; Abuses AWS, Microsoft Cloud](https://www.darkreading.com/cloud-security/chinese-infrastructure-laundering-abuses-aws-microsoft-cloud)
@@ -83,7 +84,6 @@
 - [DNSFilter&#39;s Annual Security Report Reveals Worrisome Spike in Malicious DNS Requests](https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests)
 - [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
 - [Interactive Online Training for Cybersecurity Professionals; Earn CPE Credits](https://www.darkreading.com/cybersecurity-operations/interactive-online-training-for-cybersecurity-professionals-earn-cpe-credits)
-- [&#39;Constitutional Classifiers&#39; Technique Mitigates GenAI Jailbreaks](https://www.darkreading.com/application-security/constitutional-classifiers-mitigate-genai-jailbreaks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
