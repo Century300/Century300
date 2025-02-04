@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DNSFilter&#39;s Annual Security Report Reveals Worrisome Spike in Malicious DNS Requests](https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests)
 - [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
 - [Interactive Online Training for Cybersecurity Professionals; Earn CPE Credits](https://www.darkreading.com/cybersecurity-operations/interactive-online-training-for-cybersecurity-professionals-earn-cpe-credits)
 - [&#39;Constitutional Classifiers&#39; Technique Mitigates GenAI Jailbreaks](https://www.darkreading.com/application-security/constitutional-classifiers-mitigate-genai-jailbreaks)
@@ -83,7 +84,6 @@
 - [Microsoft Sets End Date for Defender VPN](https://www.darkreading.com/mobile-security/microsoft-sets-end-date-for-defender-vpn)
 - [AI Malware Dressed Up as DeepSeek Packages Lurk in PyPi](https://www.darkreading.com/application-security/ai-malware-deepseek-packages-pypi)
 - [Ransomware Groups Weathered Raids, Profited in 2024](https://www.darkreading.com/endpoint-security/ransomware-weathered-raids-profited-2024)
-- [1-Click Phishing Campaign Targets High-Profile X Accounts](https://www.darkreading.com/endpoint-security/one-click-phishing-campaign-high-profile-x-accounts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
