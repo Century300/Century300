@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Cybersecurity Needs Probability — Not Predictions](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-needs-probability-not-predictions)
+- [Abandoned AWS Cloud Storage: A Major Cyberattack Vector](https://www.darkreading.com/remote-workforce/abandoned-aws-cloud-storage-cyberattack-vector)
 - [Attackers Target Education Sector, Hijack Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/attackers-education-sector-hijack-microsoft-accounts)
 - [Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa](https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises)
 - [How Are Modern Fraud Groups Using GenAI and Deepfakes?](https://www.darkreading.com/vulnerabilities-threats/how-are-modern-fraud-groups-using-gen-ai-and-deepfakes)
 - [Backline Tackles Enterprise Security Backlogs With AI](https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai)
 - [Credential Theft Becomes Cybercriminals&#39; Favorite Target](https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target)
 - [Ferret Malware Added to &#39;Contagious Interview&#39; Campaign](https://www.darkreading.com/threat-intelligence/ferret-malware-added-contagious-interview-threat-campaign)
-- [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
-- [Chinese &#39;Infrastructure Laundering&#39; Abuses AWS, Microsoft Cloud](https://www.darkreading.com/cloud-security/chinese-infrastructure-laundering-abuses-aws-microsoft-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
