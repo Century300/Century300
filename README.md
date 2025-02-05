@@ -81,9 +81,9 @@
 - [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
 - [Chinese &#39;Infrastructure Laundering&#39; Abuses AWS, Microsoft Cloud](https://www.darkreading.com/cloud-security/chinese-infrastructure-laundering-abuses-aws-microsoft-cloud)
 - [Managing Software Risk in a World of Exploding Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/managing-software-risk-world-exploding-vulnerabilities)
+- [Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa](https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises)
 - [DNSFilter&#39;s Annual Security Report Reveals Worrisome Spike in Malicious DNS Requests](https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests)
 - [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
-- [Interactive Online Training for Cybersecurity Professionals; Earn CPE Credits](https://www.darkreading.com/cybersecurity-operations/interactive-online-training-for-cybersecurity-professionals-earn-cpe-credits)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
