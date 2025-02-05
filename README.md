@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Backline Tackles Enterprise Security Backlogs With AI](https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai)
 - [Credential Theft Becomes Cybercriminals&#39; Favorite Target](https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target)
 - [Ferret Malware Added to &#39;Contagious Interview&#39; Campaign](https://www.darkreading.com/threat-intelligence/ferret-malware-added-contagious-interview-threat-campaign)
 - [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
@@ -83,7 +84,6 @@
 - [Managing Software Risk in a World of Exploding Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/managing-software-risk-world-exploding-vulnerabilities)
 - [Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa](https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises)
 - [DNSFilter&#39;s Annual Security Report Reveals Worrisome Spike in Malicious DNS Requests](https://www.darkreading.com/cyberattacks-data-breaches/dnsfilter-s-annual-security-report-reveals-worrisome-spike-in-malicious-dns-requests)
-- [EMEA CISOs Plan 2025 Cloud Security Investment](https://www.darkreading.com/cloud-security/emea-cisos-plan-2025-cloud-security-investment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
