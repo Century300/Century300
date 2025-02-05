@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Target Education Sector, Hijack Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/attackers-education-sector-hijack-microsoft-accounts)
 - [Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa](https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises)
 - [How Are Modern Fraud Groups Using GenAI and Deepfakes?](https://www.darkreading.com/vulnerabilities-threats/how-are-modern-fraud-groups-using-gen-ai-and-deepfakes)
 - [Backline Tackles Enterprise Security Backlogs With AI](https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai)
@@ -83,7 +84,6 @@
 - [Ferret Malware Added to &#39;Contagious Interview&#39; Campaign](https://www.darkreading.com/threat-intelligence/ferret-malware-added-contagious-interview-threat-campaign)
 - [Cybercriminals Court Traitorous Insiders via Ransom Notes](https://www.darkreading.com/threat-intelligence/cybercriminals-traitorous-insiders-ransom-notes)
 - [Chinese &#39;Infrastructure Laundering&#39; Abuses AWS, Microsoft Cloud](https://www.darkreading.com/cloud-security/chinese-infrastructure-laundering-abuses-aws-microsoft-cloud)
-- [Managing Software Risk in a World of Exploding Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/managing-software-risk-world-exploding-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
