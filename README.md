@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Basket of Bank Trojans Defraud Citizens of East India](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india)
 - [Why Cybersecurity Needs Probability — Not Predictions](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-needs-probability-not-predictions)
 - [Abandoned AWS Cloud Storage: A Major Cyberattack Vector](https://www.darkreading.com/remote-workforce/abandoned-aws-cloud-storage-cyberattack-vector)
 - [Attackers Target Education Sector, Hijack Microsoft Accounts](https://www.darkreading.com/cyberattacks-data-breaches/attackers-education-sector-hijack-microsoft-accounts)
@@ -83,7 +84,6 @@
 - [How Are Modern Fraud Groups Using GenAI and Deepfakes?](https://www.darkreading.com/vulnerabilities-threats/how-are-modern-fraud-groups-using-gen-ai-and-deepfakes)
 - [Backline Tackles Enterprise Security Backlogs With AI](https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai)
 - [Credential Theft Becomes Cybercriminals&#39; Favorite Target](https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target)
-- [Ferret Malware Added to &#39;Contagious Interview&#39; Campaign](https://www.darkreading.com/threat-intelligence/ferret-malware-added-contagious-interview-threat-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
