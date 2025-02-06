@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Cyber Savanna: A Rigged Race You Can&#39;t Win, but Must Run Anyway](https://www.darkreading.com/vulnerabilities-threats/cyber-savanna-rigged-race-you-cant-win-must-run-anyway)
 - [Basket of Bank Trojans Defraud Citizens of East India](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india)
 - [Why Cybersecurity Needs Probability — Not Predictions](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-needs-probability-not-predictions)
 - [Abandoned AWS Cloud Storage: A Major Cyberattack Vector](https://www.darkreading.com/remote-workforce/abandoned-aws-cloud-storage-cyberattack-vector)
@@ -83,7 +84,6 @@
 - [Nigeria Touts Cyber Success, Even as Cybercrime Rises in Africa](https://www.darkreading.com/cyber-risk/nigeria-touts-cyber-success-african-cybercrime-rises)
 - [How Are Modern Fraud Groups Using GenAI and Deepfakes?](https://www.darkreading.com/vulnerabilities-threats/how-are-modern-fraud-groups-using-gen-ai-and-deepfakes)
 - [Backline Tackles Enterprise Security Backlogs With AI](https://www.darkreading.com/vulnerabilities-threats/backline-tackles-enterprise-security-backlogs-with-ai)
-- [Credential Theft Becomes Cybercriminals&#39; Favorite Target](https://www.darkreading.com/threat-intelligence/credential-theft-cybercriminals-favorite-target)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
