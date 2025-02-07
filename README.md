@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LLM Hijackers Quickly Incorporate DeepSeek API Keys](https://www.darkreading.com/application-security/llm-hijackers-deepseek-api-keys)
+- [SolarWinds to Go Private for $4.4B](https://www.darkreading.com/cybersecurity-operations/solarwinds-private-billions)
 - [Microsoft: Thousands of Public ASP.NET Keys Allow Web Server RCE](https://www.darkreading.com/remote-workforce/microsoft-public-asp-net-keys-web-server-rce)
 - [Canadian Man Charged in $65M Cryptocurrency Hacking Schemes](https://www.darkreading.com/cyberattacks-data-breaches/canadian-man-charged-in-65m-cryptocurrency-hacking-schemes)
 - [2024 Breaks Records With Highest Ever Ransomware Attacks](https://www.darkreading.com/threat-intelligence/2024-breaks-records-with-highest-ever-ransomware-attacks)
 - [Databarracks Launches Air Gap Recover](https://www.darkreading.com/cloud-security/databarracks-launches-air-gap-recover)
 - [Google&#39;s DMARC Push Pays Off, but Email Security Challenges Remain](https://www.darkreading.com/remote-workforce/google-dmarc-push-email-security-challenges)
 - [Behavioral Analytics in Cybersecurity: Who Benefits Most?](https://www.darkreading.com/cyberattacks-data-breaches/behavioral-analytics-cybersecurity-who-benefits-most)
-- [Cybercrime Forces Local Law Enforcement to Shift Focus](https://www.darkreading.com/cyberattacks-data-breaches/cybercrime-forces-local-law-enforcement-to-shift-focus)
-- [7AI Streamlines Security Operations With Autonomous AI Agents](https://www.darkreading.com/cybersecurity-operations/7ai-streamlines-security-operations-with-autonomous-ai-agents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
