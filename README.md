@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google&#39;s DMARC Push Pays Off, but Email Security Challenges Remain](https://www.darkreading.com/remote-workforce/google-dmarc-push-email-security-challenges)
 - [Behavioral Analytics in Cybersecurity: Who Benefits Most?](https://www.darkreading.com/cyberattacks-data-breaches/behavioral-analytics-cybersecurity-who-benefits-most)
 - [Cybercrime Forces Local Law Enforcement to Shift Focus](https://www.darkreading.com/cyberattacks-data-breaches/cybercrime-forces-local-law-enforcement-to-shift-focus)
 - [7AI Streamlines Security Operations With Autonomous AI Agents](https://www.darkreading.com/cybersecurity-operations/7ai-streamlines-security-operations-with-autonomous-ai-agents)
@@ -83,7 +84,6 @@
 - [US Cybersecurity Efforts for Spacecraft Are Up in the Air](https://www.darkreading.com/threat-intelligence/us-cybersecurity-spacecraft)
 - [DeepSeek Phishing Sites Pursue User Data, Crypto Wallets](https://www.darkreading.com/cyber-risk/deepseek-phishing-sites-pursue-user-data-crypto-wallets)
 - [Agencies Sound Alarm on Patient Monitors With Hardcoded Backdoor](https://www.darkreading.com/vulnerabilities-threats/agencies-sound-alarm-patient-monitors-hardcoded-backdoor)
-- [The Cyber Savanna: A Rigged Race You Can&#39;t Win, but Must Run Anyway](https://www.darkreading.com/vulnerabilities-threats/cyber-savanna-rigged-race-you-cant-win-must-run-anyway)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
