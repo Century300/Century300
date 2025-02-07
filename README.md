@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybercrime Forces Local Law Enforcement to Shift Focus](https://www.darkreading.com/cyberattacks-data-breaches/cybercrime-forces-local-law-enforcement-to-shift-focus)
+- [7AI Streamlines Security Operations With Autonomous AI Agents](https://www.darkreading.com/cybersecurity-operations/7ai-streamlines-security-operations-with-autonomous-ai-agents)
 - [Researcher Outsmarts, Jailbreaks OpenAI&#39;s New o3-mini](https://www.darkreading.com/application-security/researcher-jailbreaks-openai-o3-mini)
 - [US Cybersecurity Efforts for Spacecraft Are Up in the Air](https://www.darkreading.com/threat-intelligence/us-cybersecurity-spacecraft)
 - [DeepSeek Phishing Sites Pursue User Data, Crypto Wallets](https://www.darkreading.com/cyber-risk/deepseek-phishing-sites-pursue-user-data-crypto-wallets)
 - [Agencies Sound Alarm on Patient Monitors With Hardcoded Backdoor](https://www.darkreading.com/vulnerabilities-threats/agencies-sound-alarm-patient-monitors-hardcoded-backdoor)
 - [The Cyber Savanna: A Rigged Race You Can&#39;t Win, but Must Run Anyway](https://www.darkreading.com/vulnerabilities-threats/cyber-savanna-rigged-race-you-cant-win-must-run-anyway)
 - [Basket of Bank Trojans Defraud Citizens of East India](https://www.darkreading.com/cyberattacks-data-breaches/bank-trojans-defraud-citizens-east-india)
-- [Why Cybersecurity Needs Probability — Not Predictions](https://www.darkreading.com/cyberattacks-data-breaches/why-cybersecurity-needs-probability-not-predictions)
-- [Abandoned AWS Cloud Storage: A Major Cyberattack Vector](https://www.darkreading.com/remote-workforce/abandoned-aws-cloud-storage-cyberattack-vector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
