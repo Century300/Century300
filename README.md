@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2024 Breaks Records With Highest Ever Ransomware Attacks](https://www.darkreading.com/threat-intelligence/2024-breaks-records-with-highest-ever-ransomware-attacks)
+- [Databarracks Launches Air Gap Recover](https://www.darkreading.com/cloud-security/databarracks-launches-air-gap-recover)
 - [Google&#39;s DMARC Push Pays Off, but Email Security Challenges Remain](https://www.darkreading.com/remote-workforce/google-dmarc-push-email-security-challenges)
 - [Behavioral Analytics in Cybersecurity: Who Benefits Most?](https://www.darkreading.com/cyberattacks-data-breaches/behavioral-analytics-cybersecurity-who-benefits-most)
 - [Cybercrime Forces Local Law Enforcement to Shift Focus](https://www.darkreading.com/cyberattacks-data-breaches/cybercrime-forces-local-law-enforcement-to-shift-focus)
 - [7AI Streamlines Security Operations With Autonomous AI Agents](https://www.darkreading.com/cybersecurity-operations/7ai-streamlines-security-operations-with-autonomous-ai-agents)
 - [Researcher Outsmarts, Jailbreaks OpenAI&#39;s New o3-mini](https://www.darkreading.com/application-security/researcher-jailbreaks-openai-o3-mini)
 - [US Cybersecurity Efforts for Spacecraft Are Up in the Air](https://www.darkreading.com/threat-intelligence/us-cybersecurity-spacecraft)
-- [DeepSeek Phishing Sites Pursue User Data, Crypto Wallets](https://www.darkreading.com/cyber-risk/deepseek-phishing-sites-pursue-user-data-crypto-wallets)
-- [Agencies Sound Alarm on Patient Monitors With Hardcoded Backdoor](https://www.darkreading.com/vulnerabilities-threats/agencies-sound-alarm-patient-monitors-hardcoded-backdoor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
