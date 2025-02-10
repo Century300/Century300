@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [XE Group Shifts From Card Skimming to Supply Chain Attacks](https://www.darkreading.com/cyber-risk/xe-group-shifts-card-skimming-supply-chain-attacks)
 - [120K Victims Compromised in Memorial Hospital Ransomware Attack](https://www.darkreading.com/cyber-risk/120k-victims-compromised-memorial-hospital-ransomware)
 - [Guilty Plea in Hacking of the SEC&#39;s X Account That Caused Bitcoin Value Spike](https://www.darkreading.com/cyber-risk/guilty-plea-in-hacking-of-the-sec-s-x-account-that-caused-bitcoin-value-spike)
 - [Newspaper Giant Lee Enterprises Reels From Cyberattack](https://www.darkreading.com/cyber-risk/newspaper-giant-lee-enterprise-cyberattack)
@@ -83,7 +84,6 @@
 - [Analyst Burnout Is an Advanced Persistent Threat](https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat)
 - [LLM Hijackers Quickly Incorporate DeepSeek API Keys](https://www.darkreading.com/application-security/llm-hijackers-deepseek-api-keys)
 - [SolarWinds to Go Private for $4.4B](https://www.darkreading.com/cybersecurity-operations/solarwinds-private-billions)
-- [Microsoft: Thousands of Public ASP.NET Keys Allow Web Server RCE](https://www.darkreading.com/remote-workforce/microsoft-public-asp-net-keys-web-server-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
