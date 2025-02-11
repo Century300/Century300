@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Releases Urgent Patch for USB Vulnerability](https://www.darkreading.com/endpoint-security/apple-releases-urgent-patch-usb-vulnerability)
 - [CISA Places Election Security Staffers on Leave](https://www.darkreading.com/cyber-risk/cisa-election-security-staffers-on-leave)
 - [Data Leaks Happen Most Often in These States — Here&#39;s Why](https://www.darkreading.com/cyber-risk/business-cybersecurity-weakest-states)
 - [Salt Typhoon&#39;s Impact on the US &amp;amp; Beyond](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoons-impact-us-beyond)
@@ -83,7 +84,6 @@
 - [Ransomware Groups Made Less Money in 2024](https://www.darkreading.com/cybersecurity-operations/ransomware-groups-made-less-money-in-2024)
 - [XE Group Shifts From Card Skimming to Supply Chain Attacks](https://www.darkreading.com/cyber-risk/xe-group-shifts-card-skimming-supply-chain-attacks)
 - [120K Victims Compromised in Memorial Hospital Ransomware Attack](https://www.darkreading.com/cyber-risk/120k-victims-compromised-memorial-hospital-ransomware)
-- [Guilty Plea in Hacking of the SEC&#39;s X Account That Caused Bitcoin Value Spike](https://www.darkreading.com/cyber-risk/guilty-plea-in-hacking-of-the-sec-s-x-account-that-caused-bitcoin-value-spike)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
