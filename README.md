@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft&#39;s February Patch a Lighter Lift Than January&#39;s](https://www.darkreading.com/application-security/microsofts-february-patch-lighter-lift-januarys)
 - [Apple Releases Urgent Patch for USB Vulnerability](https://www.darkreading.com/endpoint-security/apple-releases-urgent-patch-usb-vulnerability)
 - [CISA Places Election Security Staffers on Leave](https://www.darkreading.com/cyber-risk/cisa-election-security-staffers-on-leave)
 - [Data Leaks Happen Most Often in These States — Here&#39;s Why](https://www.darkreading.com/cyber-risk/business-cybersecurity-weakest-states)
@@ -83,7 +84,6 @@
 - [DeepSeek AI Fails Multiple Security Tests, Raising Red Flag for Businesses](https://www.darkreading.com/cyber-risk/deepseek-fails-multiple-security-tests-business-use)
 - [Ransomware Groups Made Less Money in 2024](https://www.darkreading.com/cybersecurity-operations/ransomware-groups-made-less-money-in-2024)
 - [XE Group Shifts From Card Skimming to Supply Chain Attacks](https://www.darkreading.com/cyber-risk/xe-group-shifts-card-skimming-supply-chain-attacks)
-- [120K Victims Compromised in Memorial Hospital Ransomware Attack](https://www.darkreading.com/cyber-risk/120k-victims-compromised-memorial-hospital-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
