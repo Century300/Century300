@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DeepSeek AI Fails Multiple Security Tests, Raising Red Flag for Businesses](https://www.darkreading.com/cyber-risk/deepseek-fails-multiple-security-tests-business-use)
 - [Ransomware Groups Made Less Money in 2024](https://www.darkreading.com/cybersecurity-operations/ransomware-groups-made-less-money-in-2024)
 - [XE Group Shifts From Card Skimming to Supply Chain Attacks](https://www.darkreading.com/cyber-risk/xe-group-shifts-card-skimming-supply-chain-attacks)
 - [120K Victims Compromised in Memorial Hospital Ransomware Attack](https://www.darkreading.com/cyber-risk/120k-victims-compromised-memorial-hospital-ransomware)
@@ -83,7 +84,6 @@
 - [Newspaper Giant Lee Enterprises Reels From Cyberattack](https://www.darkreading.com/cyber-risk/newspaper-giant-lee-enterprise-cyberattack)
 - [Magecart Attackers Abuse Google Ad Tool to Steal Data](https://www.darkreading.com/cyberattacks-data-breaches/magecart-attackers-abuse-google-ad-tool-steal-data)
 - [Analyst Burnout Is an Advanced Persistent Threat](https://www.darkreading.com/cybersecurity-operations/analyst-burnout-is-advanced-persistent-threat)
-- [LLM Hijackers Quickly Incorporate DeepSeek API Keys](https://www.darkreading.com/application-security/llm-hijackers-deepseek-api-keys)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
