@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
 - [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
 - [Is AI a Friend or Foe of Healthcare Security?](https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security)
 - [India&#39;s Cybercrime Problems Grow as Nation Digitizes](https://www.darkreading.com/cyber-risk/indias-cybercrime-problems-nation-digitizes)
@@ -83,7 +84,6 @@
 - [Drata Acquires SafeBase to Strengthen GRC Portfolio](https://www.darkreading.com/cyber-risk/drata-acquires-safebase-strengthen-grc-portfolio)
 - [Microsoft&#39;s February Patch a Lighter Lift Than January&#39;s](https://www.darkreading.com/application-security/microsofts-february-patch-lighter-lift-januarys)
 - [Apple Releases Urgent Patch for USB Vulnerability](https://www.darkreading.com/endpoint-security/apple-releases-urgent-patch-usb-vulnerability)
-- [CISA Places Election Security Staffers on Leave](https://www.darkreading.com/cyber-risk/cisa-election-security-staffers-on-leave)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
