@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [India&#39;s Cybercrime Problems Grow as Nation Digitizes](https://www.darkreading.com/cyber-risk/indias-cybercrime-problems-nation-digitizes)
+- [Gartner: Most Security Leaders Cannot Balance Data Security, Business Goals](https://www.darkreading.com/cybersecurity-operations/gartner-most-security-leaders-cannot-balance-data-security-business-goals)
 - [Drata Acquires SafeBase to Strengthen GRC Portfolio](https://www.darkreading.com/cyber-risk/drata-acquires-safebase-strengthen-grc-portfolio)
 - [Microsoft&#39;s February Patch a Lighter Lift Than January&#39;s](https://www.darkreading.com/application-security/microsofts-february-patch-lighter-lift-januarys)
 - [Apple Releases Urgent Patch for USB Vulnerability](https://www.darkreading.com/endpoint-security/apple-releases-urgent-patch-usb-vulnerability)
 - [CISA Places Election Security Staffers on Leave](https://www.darkreading.com/cyber-risk/cisa-election-security-staffers-on-leave)
 - [Data Leaks Happen Most Often in These States — Here&#39;s Why](https://www.darkreading.com/cyber-risk/business-cybersecurity-weakest-states)
 - [Salt Typhoon&#39;s Impact on the US &amp;amp; Beyond](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoons-impact-us-beyond)
-- [DeepSeek AI Fails Multiple Security Tests, Raising Red Flag for Businesses](https://www.darkreading.com/cyber-risk/deepseek-fails-multiple-security-tests-business-use)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
