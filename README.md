@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
 - [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
 - [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
 - [Is AI a Friend or Foe of Healthcare Security?](https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security)
@@ -83,7 +84,6 @@
 - [Gartner: Most Security Leaders Cannot Balance Data Security, Business Goals](https://www.darkreading.com/cybersecurity-operations/gartner-most-security-leaders-cannot-balance-data-security-business-goals)
 - [Drata Acquires SafeBase to Strengthen GRC Portfolio](https://www.darkreading.com/cyber-risk/drata-acquires-safebase-strengthen-grc-portfolio)
 - [Microsoft&#39;s February Patch a Lighter Lift Than January&#39;s](https://www.darkreading.com/application-security/microsofts-february-patch-lighter-lift-januarys)
-- [Apple Releases Urgent Patch for USB Vulnerability](https://www.darkreading.com/endpoint-security/apple-releases-urgent-patch-usb-vulnerability)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
