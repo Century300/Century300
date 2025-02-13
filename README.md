@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Roundtable: Is DOGE Flouting Cybersecurity for US Data?](https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data)
 - [Chinese APT &#39;Emperor Dragonfly&#39; Moonlights With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-emperor-dragonfly-ransomware-attack)
 - [How Public &amp;amp; Private Sectors Can Better Align Cyber Defense](https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense)
 - [Japan Goes on Offense With New &#39;Active Cyber Defense&#39; Bill](https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill)
@@ -83,7 +84,6 @@
 - [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
 - [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
 - [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
-- [Is AI a Friend or Foe of Healthcare Security?](https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
