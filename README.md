@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Japan Goes on Offense With New &#39;Active Cyber Defense&#39; Bill](https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill)
 - [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
+- [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
 - [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
 - [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
 - [Is AI a Friend or Foe of Healthcare Security?](https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security)
 - [India&#39;s Cybercrime Problems Grow as Nation Digitizes](https://www.darkreading.com/cyber-risk/indias-cybercrime-problems-nation-digitizes)
 - [Gartner: Most Security Leaders Cannot Balance Data Security, Business Goals](https://www.darkreading.com/cybersecurity-operations/gartner-most-security-leaders-cannot-balance-data-security-business-goals)
-- [Drata Acquires SafeBase to Strengthen GRC Portfolio](https://www.darkreading.com/cyber-risk/drata-acquires-safebase-strengthen-grc-portfolio)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
