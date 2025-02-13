@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Public &amp;amp; Private Sectors Can Better Align Cyber Defense](https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense)
 - [Japan Goes on Offense With New &#39;Active Cyber Defense&#39; Bill](https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill)
 - [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
 - [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
@@ -83,7 +84,6 @@
 - [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
 - [Is AI a Friend or Foe of Healthcare Security?](https://www.darkreading.com/vulnerabilities-threats/is-ai-friend-foe-healthcare-security)
 - [India&#39;s Cybercrime Problems Grow as Nation Digitizes](https://www.darkreading.com/cyber-risk/indias-cybercrime-problems-nation-digitizes)
-- [Gartner: Most Security Leaders Cannot Balance Data Security, Business Goals](https://www.darkreading.com/cybersecurity-operations/gartner-most-security-leaders-cannot-balance-data-security-business-goals)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
