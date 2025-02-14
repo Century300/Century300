@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [This Security Firm&#39;s &#39;Bias&#39; Is Also Its Superpower](https://www.darkreading.com/cyber-risk/diverse-backgrounds-security-superpower)
 - [How Banks Can Adapt to the Rising Threat of Financial Crime](https://www.darkreading.com/cyber-risk/how-banks-adapt-rising-threat-financial-crime)
 - [Open Source AI Models: Perfect Storm for Malicious Code, Vulnerabilities](https://www.darkreading.com/cyber-risk/open-source-ai-models-pose-risks-of-malicious-code-vulnerabilities)
 - [Salt Typhoon Exploits Cisco Devices in Telco Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-exploits-cisco-devices-telco-infrastructure)
@@ -83,7 +84,6 @@
 - [CyberArk Makes Identity Security Play With Zilla Acquisition](https://www.darkreading.com/identity-access-management-security/cyberark-makes-identity-security-play-zilla-acquisition)
 - [Roundtable: Is DOGE Flouting Cybersecurity for US Data?](https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data)
 - [Chinese APT &#39;Emperor Dragonfly&#39; Moonlights With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-emperor-dragonfly-ransomware-attack)
-- [How Public &amp;amp; Private Sectors Can Better Align Cyber Defense](https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
