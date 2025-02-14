@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CyberArk Makes Identity Security Play With Zilla Acquisition](https://www.darkreading.com/identity-access-management-security/cyberark-makes-identity-security-play-zilla-acquisition)
 - [Roundtable: Is DOGE Flouting Cybersecurity for US Data?](https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data)
 - [Chinese APT &#39;Emperor Dragonfly&#39; Moonlights With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-emperor-dragonfly-ransomware-attack)
 - [How Public &amp;amp; Private Sectors Can Better Align Cyber Defense](https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense)
@@ -83,7 +84,6 @@
 - [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
 - [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
 - [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
-- [Microsoft: Russia&#39;s Sandworm APT Exploits Edge Bugs Globally](https://www.darkreading.com/threat-intelligence/microsoft-russian-sandworm-apt-exploits-edge-bugs-globally)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
