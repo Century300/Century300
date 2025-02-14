@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Warning: Tunnel of Love Leads to Scams](https://www.darkreading.com/cyber-risk/warning-tunnel-of-love-leads-to-scams)
 - [CyberArk Makes Identity Security Play With Zilla Acquisition](https://www.darkreading.com/identity-access-management-security/cyberark-makes-identity-security-play-zilla-acquisition)
 - [Roundtable: Is DOGE Flouting Cybersecurity for US Data?](https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data)
 - [Chinese APT &#39;Emperor Dragonfly&#39; Moonlights With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-emperor-dragonfly-ransomware-attack)
@@ -83,7 +84,6 @@
 - [Japan Goes on Offense With New &#39;Active Cyber Defense&#39; Bill](https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill)
 - [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
 - [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
-- [Feds Sanction Russian Hosting Provider for Supporting LockBit Attacks](https://www.darkreading.com/cyber-risk/feds-sanction-russian-hosting-provider-lockbit-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
