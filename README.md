@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How Banks Can Adapt to the Rising Threat of Financial Crime](https://www.darkreading.com/cyber-risk/how-banks-adapt-rising-threat-financial-crime)
+- [Open Source AI Models: Perfect Storm for Malicious Code, Vulnerabilities](https://www.darkreading.com/cyber-risk/open-source-ai-models-pose-risks-of-malicious-code-vulnerabilities)
+- [Salt Typhoon Exploits Cisco Devices in Telco Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-exploits-cisco-devices-telco-infrastructure)
 - [Warning: Tunnel of Love Leads to Scams](https://www.darkreading.com/cyber-risk/warning-tunnel-of-love-leads-to-scams)
 - [CyberArk Makes Identity Security Play With Zilla Acquisition](https://www.darkreading.com/identity-access-management-security/cyberark-makes-identity-security-play-zilla-acquisition)
 - [Roundtable: Is DOGE Flouting Cybersecurity for US Data?](https://www.darkreading.com/cyber-risk/doge-flouting-cybersecurity-us-data)
 - [Chinese APT &#39;Emperor Dragonfly&#39; Moonlights With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-emperor-dragonfly-ransomware-attack)
 - [How Public &amp;amp; Private Sectors Can Better Align Cyber Defense](https://www.darkreading.com/cyber-risk/how-public-private-sectors-better-align-cyber-defense)
-- [Japan Goes on Offense With New &#39;Active Cyber Defense&#39; Bill](https://www.darkreading.com/cybersecurity-operations/japan-offense-new-cyber-defense-bill)
-- [President Trump to Nominate Former RNC Official as National Cyber Director](https://www.darkreading.com/cyber-risk/president-trump-nominate-former-rnc-official-national-cyber-director)
-- [Content Credentials Technology Verifies Image, Video Authenticity](https://www.darkreading.com/cyber-risk/content-credentials-aim-to-tame-disinformation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
