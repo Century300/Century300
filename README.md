@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: CISA Warns of Palo Alto Flaw Exploited in the Wild](https://www.darkreading.com/remote-workforce/patch-now-cisa-researchers-warn-palo-alto-flaw-exploited-wild)
 - [What Is the Board&#39;s Role in Cyber-Risk Management in OT Environments?](https://www.darkreading.com/cyber-risk/board-role-cyber-risk-management-ot-environments)
 - [North Korea&#39;s Kimsuky Taps Trusted Platforms to Attack South Korea](https://www.darkreading.com/cyberattacks-data-breaches/north-koreans-kimsuky-attacks-rivals-trusted-platforms)
 - [Deepwatch Acquires Dassana to Boost Cyber Resilience With AI](https://www.darkreading.com/vulnerabilities-threats/deepwatch-acquires-dassana-to-boost-cyber-resilience-with-ai)
@@ -83,7 +84,6 @@
 - [China-Linked Threat Group Targets Japanese Orgs&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-group-japanese-orgs-servers)
 - [Thrive Acquires Secured Network Services](https://www.darkreading.com/cloud-security/thrive-acquires-secured-network-services)
 - [SANS Institute Launches AI Cybersecurity Hackathon](https://www.darkreading.com/cybersecurity-operations/sans-institute-launches-ai-cybersecurity-hackathon)
-- [Microsoft: New Variant of macOS Threat XCSSET Spotted in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-variant-macos-threat-xcsset)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
