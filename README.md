@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [North Korea&#39;s Kimsuky Taps Trusted Platforms to Attack South Korea](https://www.darkreading.com/cyberattacks-data-breaches/north-koreans-kimsuky-attacks-rivals-trusted-platforms)
+- [Deepwatch Acquires Dassana to Boost Cyber Resilience With AI](https://www.darkreading.com/vulnerabilities-threats/deepwatch-acquires-dassana-to-boost-cyber-resilience-with-ai)
 - [Xerox Printer Vulnerabilities Enable Credential Capture](https://www.darkreading.com/iot/xerox-printer-vulnerabilities-credential-capture)
 - [China-Linked Threat Group Targets Japanese Orgs&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-group-japanese-orgs-servers)
 - [Thrive Acquires Secured Network Services](https://www.darkreading.com/cloud-security/thrive-acquires-secured-network-services)
 - [SANS Institute Launches AI Cybersecurity Hackathon](https://www.darkreading.com/cybersecurity-operations/sans-institute-launches-ai-cybersecurity-hackathon)
 - [Microsoft: New Variant of macOS Threat XCSSET Spotted in the Wild](https://www.darkreading.com/vulnerabilities-threats/microsoft-variant-macos-threat-xcsset)
 - [Introducing enQase for Quantum-Safe Security](https://www.darkreading.com/endpoint-security/introducing-enqase-for-quantum-safe-security)
-- [This Security Firm&#39;s &#39;Bias&#39; Is Also Its Superpower](https://www.darkreading.com/cyber-risk/diverse-backgrounds-security-superpower)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
