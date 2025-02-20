@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Adds Quantum-Resistant Digital Signatures to Cloud KMS](https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms)
 - [ZEST Security&#39;s Cloud Risk Exposure Impact Report Reveals 62% of Incidents are Related to Risks Known to the Organization](https://www.darkreading.com/cloud-security/zest-security-s-cloud-risk-exposure-impact-report-reveals-62-of-incidents-are-related-to-risks-known-to-the-organization)
 - [When Brand Loyalty Trumps Data Security](https://www.darkreading.com/cyberattacks-data-breaches/when-brand-loyalty-trumps-data-security)
 - [Signs Your Organization&#39;s Culture Is Hurting Your Cybersecurity](https://www.darkreading.com/cybersecurity-operations/signs-organization-culture-hurting-cybersecurity)
@@ -83,7 +84,6 @@
 - [Australian Critical Infrastructure Faces &#39;Acute&#39; Foreign Threats](https://www.darkreading.com/ics-ot-security/australian-critical-infrastructure-acute-foreign-threats)
 - [Insight Partners, VC Giant, Falls to Social Engineering](https://www.darkreading.com/cyber-risk/insight-partners-vc-giant-social-engineering)
 - [Russian Groups Target Signal Messenger in Spy Campaign](https://www.darkreading.com/mobile-security/russian-groups-target-signal-messenger-in-spy-campaign)
-- [Content Credentials Show Promise, but Ecosystem Still Young](https://www.darkreading.com/mobile-security/content-credentials-show-promise-but-ecosystem-still-young)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
