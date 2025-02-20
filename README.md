@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Brand Loyalty Trumps Data Security](https://www.darkreading.com/cyberattacks-data-breaches/when-brand-loyalty-trumps-data-security)
 - [Signs Your Organization&#39;s Culture Is Hurting Your Cybersecurity](https://www.darkreading.com/cybersecurity-operations/signs-organization-culture-hurting-cybersecurity)
 - [&#39;Darcula&#39; Phishing Kit Can Now Impersonate Any Brand](https://www.darkreading.com/threat-intelligence/darcula-phishing-kit-impersonate-brand)
 - [Australian Critical Infrastructure Faces &#39;Acute&#39; Foreign Threats](https://www.darkreading.com/ics-ot-security/australian-critical-infrastructure-acute-foreign-threats)
@@ -83,7 +84,6 @@
 - [Russian Groups Target Signal Messenger in Spy Campaign](https://www.darkreading.com/mobile-security/russian-groups-target-signal-messenger-in-spy-campaign)
 - [Content Credentials Show Promise, but Ecosystem Still Young](https://www.darkreading.com/mobile-security/content-credentials-show-promise-but-ecosystem-still-young)
 - [Patch Now: CISA Warns of Palo Alto Flaw Exploited in the Wild](https://www.darkreading.com/remote-workforce/patch-now-cisa-researchers-warn-palo-alto-flaw-exploited-wild)
-- [What Is the Board&#39;s Role in Cyber-Risk Management in OT Environments?](https://www.darkreading.com/cyber-risk/board-role-cyber-risk-management-ot-environments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
