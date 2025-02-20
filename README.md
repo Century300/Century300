@@ -79,11 +79,11 @@
 - [Australian Critical Infrastructure Faces &#39;Acute&#39; Foreign Threats](https://www.darkreading.com/ics-ot-security/australian-critical-infrastructure-acute-foreign-threats)
 - [Insight Partners, VC Giant, Falls to Social Engineering](https://www.darkreading.com/cyber-risk/insight-partners-vc-giant-social-engineering)
 - [Russian Groups Target Signal Messenger in Spy Campaign](https://www.darkreading.com/mobile-security/russian-groups-target-signal-messenger-in-spy-campaign)
+- [Content Credentials Show Promise, But Ecosystem Still Young](https://www.darkreading.com/mobile-security/content-credentials-show-promise-but-ecosystem-still-young)
 - [Patch Now: CISA Warns of Palo Alto Flaw Exploited in the Wild](https://www.darkreading.com/remote-workforce/patch-now-cisa-researchers-warn-palo-alto-flaw-exploited-wild)
 - [What Is the Board&#39;s Role in Cyber-Risk Management in OT Environments?](https://www.darkreading.com/cyber-risk/board-role-cyber-risk-management-ot-environments)
 - [North Korea&#39;s Kimsuky Taps Trusted Platforms to Attack South Korea](https://www.darkreading.com/cyberattacks-data-breaches/north-koreans-kimsuky-attacks-rivals-trusted-platforms)
 - [Deepwatch Acquires Dassana to Boost Cyber-Resilience With AI](https://www.darkreading.com/vulnerabilities-threats/deepwatch-acquires-dassana-to-boost-cyber-resilience-with-ai)
-- [Xerox Printer Vulnerabilities Enable Credential Capture](https://www.darkreading.com/iot/xerox-printer-vulnerabilities-credential-capture)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
