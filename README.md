@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Australian Critical Infrastructure Faces &#39;Acute&#39; Foreign Threats](https://www.darkreading.com/ics-ot-security/australian-critical-infrastructure-acute-foreign-threats)
 - [Insight Partners, VC Giant, Falls to Social Engineering](https://www.darkreading.com/cyber-risk/insight-partners-vc-giant-social-engineering)
 - [Russian Groups Target Signal Messenger in Spy Campaign](https://www.darkreading.com/mobile-security/russian-groups-target-signal-messenger-in-spy-campaign)
 - [Patch Now: CISA Warns of Palo Alto Flaw Exploited in the Wild](https://www.darkreading.com/remote-workforce/patch-now-cisa-researchers-warn-palo-alto-flaw-exploited-wild)
@@ -83,7 +84,6 @@
 - [North Korea&#39;s Kimsuky Taps Trusted Platforms to Attack South Korea](https://www.darkreading.com/cyberattacks-data-breaches/north-koreans-kimsuky-attacks-rivals-trusted-platforms)
 - [Deepwatch Acquires Dassana to Boost Cyber-Resilience With AI](https://www.darkreading.com/vulnerabilities-threats/deepwatch-acquires-dassana-to-boost-cyber-resilience-with-ai)
 - [Xerox Printer Vulnerabilities Enable Credential Capture](https://www.darkreading.com/iot/xerox-printer-vulnerabilities-credential-capture)
-- [China-Linked Threat Group Targets Japanese Orgs&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-threat-group-japanese-orgs-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
