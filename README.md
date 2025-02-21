@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Data Suggests It&#39;s Time to Rethink Cloud Permissions](https://www.darkreading.com/cloud-security/data-suggests-time-to-rethink-cloud-permissions)
 - [Ghost Ransomware Targets Orgs in 70+ Countries](https://www.darkreading.com/cyberattacks-data-breaches/ghost-ransomware-targets-orgs-70-countries)
 - [Google Adds Quantum-Resistant Digital Signatures to Cloud KMS](https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms)
 - [ZEST Security&#39;s Cloud Risk Exposure Impact Report Reveals 62% of Incidents are Related to Risks Known to the Organization](https://www.darkreading.com/cloud-security/zest-security-s-cloud-risk-exposure-impact-report-reveals-62-of-incidents-are-related-to-risks-known-to-the-organization)
@@ -83,7 +84,6 @@
 - [Signs Your Organization&#39;s Culture Is Hurting Your Cybersecurity](https://www.darkreading.com/cybersecurity-operations/signs-organization-culture-hurting-cybersecurity)
 - [&#39;Darcula&#39; Phishing Kit Can Now Impersonate Any Brand](https://www.darkreading.com/threat-intelligence/darcula-phishing-kit-impersonate-brand)
 - [Australian Critical Infrastructure Faces &#39;Acute&#39; Foreign Threats](https://www.darkreading.com/ics-ot-security/australian-critical-infrastructure-acute-foreign-threats)
-- [Insight Partners, VC Giant, Falls to Social Engineering](https://www.darkreading.com/cyber-risk/insight-partners-vc-giant-social-engineering)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
