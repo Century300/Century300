@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Confirms Salt Typhoon Exploitation in Telecom Hits](https://www.darkreading.com/cyber-risk/cisco-salt-typhoon-exploitation-telecom)
 - [Nations Open &#39;Data Embassies&#39; to Protect Critical Info](https://www.darkreading.com/cyber-risk/nations-data-embassies-protect-critical-info)
 - [4 Low-Cost Ways to Defend Your Organization Against Deepfakes](https://www.darkreading.com/vulnerabilities-threats/4-low-cost-ways-defend-organization-against-deepfakes)
 - [Data Suggests It&#39;s Time to Rethink Cloud Permissions](https://www.darkreading.com/cloud-security/data-suggests-time-to-rethink-cloud-permissions)
@@ -83,7 +84,6 @@
 - [Google Adds Quantum-Resistant Digital Signatures to Cloud KMS](https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms)
 - [ZEST Security&#39;s Cloud Risk Exposure Impact Report Reveals 62% of Incidents are Related to Risks Known to the Organization](https://www.darkreading.com/cloud-security/zest-security-s-cloud-risk-exposure-impact-report-reveals-62-of-incidents-are-related-to-risks-known-to-the-organization)
 - [When Brand Loyalty Trumps Data Security](https://www.darkreading.com/cyberattacks-data-breaches/when-brand-loyalty-trumps-data-security)
-- [Signs Your Organization&#39;s Culture Is Hurting Your Cybersecurity](https://www.darkreading.com/cybersecurity-operations/signs-organization-culture-hurting-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
