@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Thailand Targets Cyber Sweatshops to Free 1,000s of Captives](https://www.darkreading.com/cyber-risk/thailand-cyber-sweatshops-free-captives)
 - [Black Basta Goes Dark Amid Infighting, Chat Leaks Show](https://www.darkreading.com/threat-intelligence/black-basta-goes-dark-infighting-chat-leaks)
 - [Cisco Confirms Salt Typhoon Exploitation in Telecom Hits](https://www.darkreading.com/cyber-risk/cisco-salt-typhoon-exploitation-telecom)
 - [Nations Open &#39;Data Embassies&#39; to Protect Critical Info](https://www.darkreading.com/cyber-risk/nations-data-embassies-protect-critical-info)
@@ -83,7 +84,6 @@
 - [Data Suggests It&#39;s Time to Rethink Cloud Permissions](https://www.darkreading.com/cloud-security/data-suggests-time-to-rethink-cloud-permissions)
 - [Ghost Ransomware Targets Orgs in 70+ Countries](https://www.darkreading.com/cyberattacks-data-breaches/ghost-ransomware-targets-orgs-70-countries)
 - [Google Adds Quantum-Resistant Digital Signatures to Cloud KMS](https://www.darkreading.com/cloud-security/google-quantum-resistant-digital-signatures-cloud-kms)
-- [ZEST Security&#39;s Cloud Risk Exposure Impact Report Reveals 62% of Incidents are Related to Risks Known to the Organization](https://www.darkreading.com/cloud-security/zest-security-s-cloud-risk-exposure-impact-report-reveals-62-of-incidents-are-related-to-risks-known-to-the-organization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
