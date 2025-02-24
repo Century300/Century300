@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DeepSeek&#39;s ByteDance Data-Sharing Raises Fresh Security Concerns](https://www.darkreading.com/cyber-risk/deepseek-bytedance-data-sharing-security-concerns)
+- [Could the Plot of Netflix&#39;s &#39;Zero Day&#39; Occur IRL?](https://www.darkreading.com/cyber-risk/netflix-zero-day-irl)
 - [How APT Naming Conventions Make Us Less Safe](https://www.darkreading.com/cyber-risk/how-apt-naming-conventions-make-us-less-safe)
 - [Thailand Targets Cyber Sweatshops to Free 1,000s of Captives](https://www.darkreading.com/cyber-risk/thailand-cyber-sweatshops-free-captives)
 - [Black Basta Goes Dark Amid Infighting, Chat Leaks Show](https://www.darkreading.com/threat-intelligence/black-basta-goes-dark-infighting-chat-leaks)
 - [Cisco Confirms Salt Typhoon Exploitation in Telecom Hits](https://www.darkreading.com/cyber-risk/cisco-salt-typhoon-exploitation-telecom)
 - [Nations Open &#39;Data Embassies&#39; to Protect Critical Info](https://www.darkreading.com/cyber-risk/nations-data-embassies-protect-critical-info)
 - [4 Low-Cost Ways to Defend Your Organization Against Deepfakes](https://www.darkreading.com/vulnerabilities-threats/4-low-cost-ways-defend-organization-against-deepfakes)
-- [Data Suggests It&#39;s Time to Rethink Cloud Permissions](https://www.darkreading.com/cloud-security/data-suggests-time-to-rethink-cloud-permissions)
-- [Ghost Ransomware Targets Orgs in 70+ Countries](https://www.darkreading.com/cyberattacks-data-breaches/ghost-ransomware-targets-orgs-70-countries)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
