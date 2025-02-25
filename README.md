@@ -79,11 +79,11 @@
 - [Industrial System Cyberattacks Surge as OT Stays Vulnerable](https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable)
 - [Zero-Day Bug Pops Up in Parallels Desktop for Mac](https://www.darkreading.com/application-security/zero-day-bug-parallels-desktop-mac)
 - [Australia Latest Domino to Fall in Gov&#39;t Kaspersky Bans](https://www.darkreading.com/remote-workforce/australia-domino-fall-government-kaspersky-ban)
+- [25 Years On, Active Directory Is Still a Prime Attack Target](https://www.darkreading.com/identity-access-management-security/25-years-active-directory-prime-attack-target)
 - [DeepSeek&#39;s ByteDance Data-Sharing Raises Fresh Security Concerns](https://www.darkreading.com/cyber-risk/deepseek-bytedance-data-sharing-security-concerns)
 - [Could the Plot of Netflix&#39;s &#39;Zero Day&#39; Occur IRL?](https://www.darkreading.com/cyber-risk/netflix-zero-day-irl)
 - [How APT Naming Conventions Make Us Less Safe](https://www.darkreading.com/cyber-risk/how-apt-naming-conventions-make-us-less-safe)
 - [Thailand Targets Cyber Sweatshops to Free 1,000s of Captives](https://www.darkreading.com/cyber-risk/thailand-cyber-sweatshops-free-captives)
-- [Black Basta Goes Dark Amid Infighting, Chat Leaks Show](https://www.darkreading.com/threat-intelligence/black-basta-goes-dark-infighting-chat-leaks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
