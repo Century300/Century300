@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Unmanaged Devices: The Overlooked Threat CISOs Must Confront](https://www.darkreading.com/remote-workforce/unmanaged-devices-overlooked-threat-cisos-must-confront)
 - [Industrial System Cyberattacks Surge as OT Stays Vulnerable](https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable)
 - [Betting &lpar;and Losing&rpar; the Farm on Traditional Cybersecurity](https://www.darkreading.com/cloud-security/betting-losing-farm-traditional-cybersecurity)
 - [Zero-Day Bug Pops Up in Parallels Desktop for Mac](https://www.darkreading.com/application-security/zero-day-bug-parallels-desktop-mac)
@@ -83,7 +84,6 @@
 - [25 Years On, Active Directory Is Still a Prime Attack Target](https://www.darkreading.com/identity-access-management-security/25-years-active-directory-prime-attack-target)
 - [DeepSeek&#39;s ByteDance Data-Sharing Raises Fresh Security Concerns](https://www.darkreading.com/cyber-risk/deepseek-bytedance-data-sharing-security-concerns)
 - [Could the Plot of Netflix&#39;s &#39;Zero Day&#39; Occur IRL?](https://www.darkreading.com/cyber-risk/netflix-zero-day-irl)
-- [How APT Naming Conventions Make Us Less Safe](https://www.darkreading.com/cyber-risk/how-apt-naming-conventions-make-us-less-safe)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
