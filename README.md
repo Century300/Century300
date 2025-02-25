@@ -76,9 +76,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea&#39;s Lazarus Pulls Off Biggest Crypto Heist in History](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-lazarus-crypto-heist)
 - [Unmanaged Devices: The Overlooked Threat CISOs Must Confront](https://www.darkreading.com/remote-workforce/unmanaged-devices-overlooked-threat-cisos-must-confront)
 - [Industrial System Cyberattacks Surge as OT Stays Vulnerable](https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable)
-- [North Korea&#39;s Lazarus Pulls Off Biggest Crypto Heist in History](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-lazarus-crypto-heist)
 - [Betting &lpar;and Losing&rpar; the Farm on Traditional Cybersecurity](https://www.darkreading.com/cloud-security/betting-losing-farm-traditional-cybersecurity)
 - [Zero-Day Bug Pops Up in Parallels Desktop for Mac](https://www.darkreading.com/application-security/zero-day-bug-parallels-desktop-mac)
 - [Australia Latest Domino to Fall in Gov&#39;t Kaspersky Bans](https://www.darkreading.com/remote-workforce/australia-domino-fall-government-kaspersky-ban)
