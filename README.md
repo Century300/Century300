@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Industrial System Cyberattacks Surge as OT Stays Vulnerable](https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable)
 - [Zero-Day Bug Pops Up in Parallels Desktop for Mac](https://www.darkreading.com/application-security/zero-day-bug-parallels-desktop-mac)
 - [Australia Latest Domino to Fall in Gov&#39;t Kaspersky Bans](https://www.darkreading.com/remote-workforce/australia-domino-fall-government-kaspersky-ban)
 - [DeepSeek&#39;s ByteDance Data-Sharing Raises Fresh Security Concerns](https://www.darkreading.com/cyber-risk/deepseek-bytedance-data-sharing-security-concerns)
@@ -83,7 +84,6 @@
 - [How APT Naming Conventions Make Us Less Safe](https://www.darkreading.com/cyber-risk/how-apt-naming-conventions-make-us-less-safe)
 - [Thailand Targets Cyber Sweatshops to Free 1,000s of Captives](https://www.darkreading.com/cyber-risk/thailand-cyber-sweatshops-free-captives)
 - [Black Basta Goes Dark Amid Infighting, Chat Leaks Show](https://www.darkreading.com/threat-intelligence/black-basta-goes-dark-infighting-chat-leaks)
-- [Cisco Confirms Salt Typhoon Exploitation in Telecom Hits](https://www.darkreading.com/cyber-risk/cisco-salt-typhoon-exploitation-telecom)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
