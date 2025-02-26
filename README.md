@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Water Utility Co. Still Paying the Breach Price a Year Later](https://www.darkreading.com/cyberattacks-data-breaches/water-utility-paying-breach-price-year-later)
+- [&#39;Silver Fox&#39; APT Skirts Windows Blocklist in BYOVD Attack](https://www.darkreading.com/cyber-risk/silver-fox-byovd-attack-windows-blocklist)
 - [Name That Toon: Ka-Ching!](https://www.darkreading.com/threat-intelligence/name-that-toon-ka-ching)
 - [Machine Unlearning: The Lobotomization of LLMs](https://www.darkreading.com/vulnerabilities-threats/machine-unlearning-lobotomization-llms)
 - [Fortanix Tackles Quantum Computing Threats With New Algorithms](https://www.darkreading.com/data-privacy/fortanix-tackles-quantum-computing-threats-algorithms)
 - [Stealthy Linux &#39;Auto-color&#39; Backdoor Paints US Institutions With Malware](https://www.darkreading.com/threat-intelligence/stealthy-linux-auto-color-backdoor-us-institutions-malware)
-- [&#39;Silver Fox&#39; APT Skirts Windows Blocklist in BYOVD Attack](https://www.darkreading.com/cyber-risk/silver-fox-byovd-attack-windows-blocklist)
 - [How to Rein in Identity Session Security Risk With CAEP](https://www.darkreading.com/identity-access-management-security/rein-in-identity-session-security-risk-caep)
 - [AI Tricksters Spin Up Fake DeepSeek Sites to Steal Crypto](https://www.darkreading.com/threat-intelligence/ai-tricksters-spin-up-fake-deepseek-sites-steal-crypto)
-- [Microsoft 365 Accounts Get Sprayed by Mega-Botnet](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-365-accounts-sprayed-mega-botnet)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
