@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Rein in Identity Session Security Risk With CAEP](https://www.darkreading.com/identity-access-management-security/rein-in-identity-session-security-risk-caep)
 - [AI Tricksters Spin Up Fake DeepSeek Sites to Steal Crypto](https://www.darkreading.com/threat-intelligence/ai-tricksters-spin-up-fake-deepseek-sites-steal-crypto)
 - [Microsoft 365 Accounts Get Sprayed by Mega-Botnet](https://www.darkreading.com/cyberattacks-data-breaches/microsoft-365-accounts-sprayed-mega-botnet)
 - [Max Severity RCE Vuln in All Versions of MITRE Caldera](https://www.darkreading.com/application-security/max-severity-rce-vuln-all-versions-mitre-caldera)
@@ -83,7 +84,6 @@
 - [Unmanaged Devices: The Overlooked Threat CISOs Must Confront](https://www.darkreading.com/remote-workforce/unmanaged-devices-overlooked-threat-cisos-must-confront)
 - [Industrial System Cyberattacks Surge as OT Stays Vulnerable](https://www.darkreading.com/cyber-risk/industrial-system-cyberattacks-surge-ot-vulnerable)
 - [Betting &lpar;and Losing&rpar; the Farm on Traditional Cybersecurity](https://www.darkreading.com/cloud-security/betting-losing-farm-traditional-cybersecurity)
-- [Zero-Day Bug Pops Up in Parallels Desktop for Mac](https://www.darkreading.com/application-security/zero-day-bug-parallels-desktop-mac)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
