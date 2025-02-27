@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese APT Uses VPN Bug to Exploit Worldwide OT Orgs](https://www.darkreading.com/ics-ot-security/chinese-apt-vpn-bug-worldwide-ot-orgs)
+- [Generative AI Shows Promise for Faster Triage of Vulnerabilities](https://www.darkreading.com/application-security/gen-ai-accelerates-triage-of-software-vulnerabilities)
+- [Hackers Can Crack Into Car Cameras in Minutes Flat](https://www.darkreading.com/vulnerabilities-threats/hackers-can-crack-car-cameras-minutes)
+- [OpenSSF Sets Minimum Security Baselines for Open Source Projects](https://www.darkreading.com/application-security/openssf-minimum-security-baselines-open-source-projects)
 - [AI-Fueled Tax Scams on the Rise](https://www.darkreading.com/cyberattacks-data-breaches/ai-fueled-tax-scams-on-the-rise)
 - [How Hackers Make Salesforce More Secure in the Agentic AI Era](https://www.darkreading.com/cybersecurity-operations/how-hackers-make-salesforce-more-secure-in-the-agentic-ai-era)
 - [Menlo Security Acquires Votiro](https://www.darkreading.com/cyber-risk/menlo-security-acquires-votiro)
 - [Onapsis Introduces Control Central for New Era of RISE With SAP](https://www.darkreading.com/application-security/onapsis-introduces-control-central-for-new-era-of-rise-with-sap)
-- [Anubis Threat Group Seeks Out Critical Industry Victims](https://www.darkreading.com/cyber-risk/anubis-threat-group-seeks-out-critical-industry-victims)
-- [Water Utility Co. Still Paying the Breach Price a Year Later](https://www.darkreading.com/cyberattacks-data-breaches/water-utility-paying-breach-price-year-later)
-- [&#39;Silver Fox&#39; APT Skirts Windows Blocklist in BYOVD Attack](https://www.darkreading.com/cyber-risk/silver-fox-byovd-attack-windows-blocklist)
-- [Name That Toon: Ka-Ching!](https://www.darkreading.com/threat-intelligence/name-that-toon-ka-ching)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
