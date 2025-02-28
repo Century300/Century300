@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Top 10 Most Probable Ways a Company Can Be Hacked](https://www.darkreading.com/vulnerabilities-threats/top-10-most-probable-ways-company-can-be-hacked)
 - [Targeted by Ransomware, Middle East Banks Shore Up Security](https://www.darkreading.com/cyber-risk/targeted-ransomware-middle-east-banks-security)
 - [Cleveland Municipal Court Remains Closed After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-municipal-court-remains-closed-after-cyber-incident)
 - [Nakivo Fixes Critical Flaw in Backup &amp;amp; Replication Tool](https://www.darkreading.com/application-security/nakivo-fixes-critical-flaw-backup-replication-tool)
@@ -83,7 +84,6 @@
 - [3 Things to Know About AI Data Poisoning](https://www.darkreading.com/vulnerabilities-threats/3-things-about-ai-data-poisoning)
 - [Chinese APT Uses VPN Bug to Exploit Worldwide OT Orgs](https://www.darkreading.com/ics-ot-security/chinese-apt-vpn-bug-worldwide-ot-orgs)
 - [Generative AI Shows Promise for Faster Triage of Vulnerabilities](https://www.darkreading.com/application-security/gen-ai-accelerates-triage-of-software-vulnerabilities)
-- [Hackers Can Crack Into Car Cameras in Minutes Flat](https://www.darkreading.com/vulnerabilities-threats/hackers-can-crack-car-cameras-minutes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
