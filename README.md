@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Microsoft Busts Hackers Selling Illegal Azure AI Access](https://www.darkreading.com/application-security/microsoft-openai-hackers-selling-illicit-access-azure-llm-services)
 - [US Soldier Intends to Admit Hacking 15 Telecom Carriers](https://www.darkreading.com/cyber-risk/us-soldier-admits-hacking-15-telecom-carriers)
+- [Third-Party Risk Top Cybersecurity Claims](https://www.darkreading.com/cyber-risk/third-party-risk-top-cybersecurity-claims)
 - [Top 10 Most Probable Ways a Company Can Be Hacked](https://www.darkreading.com/vulnerabilities-threats/top-10-most-probable-ways-company-can-be-hacked)
 - [Targeted by Ransomware, Middle East Banks Shore Up Security](https://www.darkreading.com/cyber-risk/targeted-ransomware-middle-east-banks-security)
 - [Cleveland Municipal Court Remains Closed After Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/cleveland-municipal-court-remains-closed-after-cyber-incident)
 - [Nakivo Fixes Critical Flaw in Backup &amp;amp; Replication Tool](https://www.darkreading.com/application-security/nakivo-fixes-critical-flaw-backup-replication-tool)
 - [Microsoft Rolls Out Fresh Outlook Fix After Faulty Windows Update](https://www.darkreading.com/application-security/microsoft-rolls-out-fresh-outlook-fix-after-faulty-windows-update)
-- [3 Things to Know About AI Data Poisoning](https://www.darkreading.com/vulnerabilities-threats/3-things-about-ai-data-poisoning)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
