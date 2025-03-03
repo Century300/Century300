@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TikTok&#39;s Teen Data Use Probed by UK Regulators](https://www.darkreading.com/application-security/tiktok-teen-data-use-probed-regulators)
+- [Qilin Cybercrime Ring Claims Credit for Lee Newspaper Breach](https://www.darkreading.com/cyberattacks-data-breaches/qilin-cyber-gang-credit-lee-newspaper-breach)
+- [Phishers Wreak &#39;Havoc,&#39; Disguising Attack Inside SharePoint](https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint)
 - [EU&#39;s New Product Liability Directive &amp;amp; Its Cybersecurity Impact](https://www.darkreading.com/cybersecurity-operations/eus-new-product-liability-directive-cybersecurity-impact)
 - [Latin American Orgs Face 40% More Attacks Than Global Average](https://www.darkreading.com/cybersecurity-analytics/latin-american-orgs-more-cyberattacks-global-average)
 - [Cisco&#39;s SnapAttack Deal Expands Splunk&#39;s Capabilities](https://www.darkreading.com/threat-intelligence/cisco-snapattack-deal-expands-splunk-capabilities)
 - [Microsoft Busts Hackers Selling Illegal Azure AI Access](https://www.darkreading.com/application-security/microsoft-openai-hackers-selling-illicit-access-azure-llm-services)
 - [US Soldier Intends to Admit Hacking 15 Telecom Carriers](https://www.darkreading.com/cyber-risk/us-soldier-admits-hacking-15-telecom-carriers)
-- [Third-Party Risk Top Cybersecurity Claims](https://www.darkreading.com/cyber-risk/third-party-risk-top-cybersecurity-claims)
-- [Top 10 Most Probable Ways a Company Can Be Hacked](https://www.darkreading.com/vulnerabilities-threats/top-10-most-probable-ways-company-can-be-hacked)
-- [Targeted by Ransomware, Middle East Banks Shore Up Security](https://www.darkreading.com/cyber-risk/targeted-ransomware-middle-east-banks-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
