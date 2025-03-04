@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Rapid7 Delivers Command Platform Offerings for Exposure Management](https://www.darkreading.com/cyber-risk/rapid7-delivers-command-platform-offerings-for-exposure-management)
+- [3 VMware Zero-Day Bugs Allow Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/vmware-zero-day-bugs-sandbox-escape)
+- [GreyNoise Intelligence Releases New Research on Cybersecurity Vulns](https://www.darkreading.com/cyberattacks-data-breaches/greynoise-intelligence-releases-new-research-on-cybersecurity-vulns)
+- [Glide Identity Partners With Google Cloud and Major Telcos](https://www.darkreading.com/cloud-security/glide-identity-partners-with-google-cloud-and-major-telcos)
+- [BeyondTrust Pathfinder Delivers a One-Platform Approach to Identity-Centric Security](https://www.darkreading.com/endpoint-security/beyondtrust-pathfinder-delivers-a-one-platform-approach-to-identity-centric-security)
 - [Threat Actor &#39;JavaGhost&#39; Targets AWS Environments in Phishing Scheme](https://www.darkreading.com/cloud-security/threat-actor-javaghost-targets-aws-environments-phishing-scheme)
 - [Serbian Police Hack Protester&#39;s Phone With Cellebrite Exploit Chain](https://www.darkreading.com/cyberattacks-data-breaches/serbian-police-hack-protester-phone-cellebrite-exploit-chain)
 - [North Korea&#39;s Latest &#39;IT Worker&#39; Scheme Seeks Nuclear Funds](https://www.darkreading.com/remote-workforce/north-korea-it-worker-scheme-nuclear-funds)
-- [Pentagon, CISA Deny Change in US Cyber Policy on Russia](https://www.darkreading.com/threat-intelligence/pentagon-cisa-deny-change-us-cyber-policy-russia)
-- [Why Cybersecurity Jobs Are Hard to Find Amid a Worker Shortage](https://www.darkreading.com/cybersecurity-operations/cybersecurity-jobs-hard-find-amid-worker-shortage)
-- [Name That Edge Toon: On the Precipice](https://www.darkreading.com/remote-workforce/name-that-edge-toon-on-the-precipice)
-- [TikTok&#39;s Teen Data Use Probed by UK Regulators](https://www.darkreading.com/application-security/tiktok-teen-data-use-probed-regulators)
-- [Qilin Cybercrime Ring Claims Credit for Lee Newspaper Breach](https://www.darkreading.com/cyberattacks-data-breaches/qilin-cyber-gang-credit-lee-newspaper-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
