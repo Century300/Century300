@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pentagon, CISA Deny Change in US Cyber Policy on Russia](https://www.darkreading.com/threat-intelligence/pentagon-cisa-deny-change-us-cyber-policy-russia)
 - [Why Cybersecurity Jobs Are Hard to Find Amid a Worker Shortage](https://www.darkreading.com/cybersecurity-operations/cybersecurity-jobs-hard-find-amid-worker-shortage)
 - [Name That Edge Toon: On the Precipice](https://www.darkreading.com/remote-workforce/name-that-edge-toon-on-the-precipice)
 - [TikTok&#39;s Teen Data Use Probed by UK Regulators](https://www.darkreading.com/application-security/tiktok-teen-data-use-probed-regulators)
@@ -83,7 +84,6 @@
 - [Phishers Wreak &#39;Havoc,&#39; Disguising Attack Inside SharePoint](https://www.darkreading.com/cyberattacks-data-breaches/phishers-wreak-havoc-disguising-attack-inside-sharepoint)
 - [EU&#39;s New Product Liability Directive &amp;amp; Its Cybersecurity Impact](https://www.darkreading.com/cybersecurity-operations/eus-new-product-liability-directive-cybersecurity-impact)
 - [Latin American Orgs Face 40% More Attacks Than Global Average](https://www.darkreading.com/cybersecurity-analytics/latin-american-orgs-more-cyberattacks-global-average)
-- [Cisco&#39;s SnapAttack Deal Expands Splunk&#39;s Capabilities](https://www.darkreading.com/threat-intelligence/cisco-snapattack-deal-expands-splunk-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
