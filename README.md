@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Crafty Camel&#39; APT Targets Aviation, OT With Polygot Files](https://www.darkreading.com/ics-ot-security/crafty-camel-apt-aviation-ot-polygot-files)
 - [Bogus &#39;BianLian&#39; Gang Sends Snail-Mail Extortion Letters](https://www.darkreading.com/threat-intelligence/bogus-bianlian-snail-mail-extortion-letters)
 - [Why Security Leaders Are Opting for Consulting Gigs](https://www.darkreading.com/cybersecurity-operations/why-security-leaders-opting-consulting-gigs)
 - [Black Basta Pivots to Cactus Ransomware Group](https://www.darkreading.com/threat-intelligence/black-basta-pivots-cactus-ransomware-group)
@@ -83,7 +84,6 @@
 - [Rapid7 Delivers Command Platform Offerings for Exposure Management](https://www.darkreading.com/cyber-risk/rapid7-delivers-command-platform-offerings-for-exposure-management)
 - [3 VMware Zero-Day Bugs Allow Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/vmware-zero-day-bugs-sandbox-escape)
 - [GreyNoise Intelligence Releases New Research on Cybersecurity Vulns](https://www.darkreading.com/cyberattacks-data-breaches/greynoise-intelligence-releases-new-research-on-cybersecurity-vulns)
-- [Glide Identity Partners With Google Cloud and Major Telcos](https://www.darkreading.com/cloud-security/glide-identity-partners-with-google-cloud-and-major-telcos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
