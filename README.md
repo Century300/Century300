@@ -83,7 +83,7 @@
 - [BeyondTrust Pathfinder Delivers a One-Platform Approach to Identity-Centric Security](https://www.darkreading.com/endpoint-security/beyondtrust-pathfinder-delivers-a-one-platform-approach-to-identity-centric-security)
 - [Threat Actor &#39;JavaGhost&#39; Targets AWS Environments in Phishing Scheme](https://www.darkreading.com/cloud-security/threat-actor-javaghost-targets-aws-environments-phishing-scheme)
 - [Serbian Police Hack Protester&#39;s Phone With Cellebrite Exploit Chain](https://www.darkreading.com/cyberattacks-data-breaches/serbian-police-hack-protester-phone-cellebrite-exploit-chain)
-- [North Korea&#39;s Latest &#39;IT Worker&#39; Scheme Seeks Nuclear Funds](https://www.darkreading.com/remote-workforce/north-korea-it-worker-scheme-nuclear-funds)
+- [Jamf Buys Identity Automation, Expands IAM Capabilities](https://www.darkreading.com/identity-access-management-security/jamf-buys-identity-automation-expands-iam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
