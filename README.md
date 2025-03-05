@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Black Basta Pivots to Cactus Ransomware Group](https://www.darkreading.com/threat-intelligence/black-basta-pivots-cactus-ransomware-group)
+- [Thinking Outside the Box on Cyber-Risk](https://www.darkreading.com/cyber-risk/thinking-outside-box-cyber-risk)
 - [Rapid7 Delivers Command Platform Offerings for Exposure Management](https://www.darkreading.com/cyber-risk/rapid7-delivers-command-platform-offerings-for-exposure-management)
 - [3 VMware Zero-Day Bugs Allow Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/vmware-zero-day-bugs-sandbox-escape)
 - [GreyNoise Intelligence Releases New Research on Cybersecurity Vulns](https://www.darkreading.com/cyberattacks-data-breaches/greynoise-intelligence-releases-new-research-on-cybersecurity-vulns)
 - [Glide Identity Partners With Google Cloud and Major Telcos](https://www.darkreading.com/cloud-security/glide-identity-partners-with-google-cloud-and-major-telcos)
 - [BeyondTrust Pathfinder Delivers a One-Platform Approach to Identity-Centric Security](https://www.darkreading.com/endpoint-security/beyondtrust-pathfinder-delivers-a-one-platform-approach-to-identity-centric-security)
 - [Threat Actor &#39;JavaGhost&#39; Targets AWS Environments in Phishing Scheme](https://www.darkreading.com/cloud-security/threat-actor-javaghost-targets-aws-environments-phishing-scheme)
-- [Serbian Police Hack Protester&#39;s Phone With Cellebrite Exploit Chain](https://www.darkreading.com/cyberattacks-data-breaches/serbian-police-hack-protester-phone-cellebrite-exploit-chain)
-- [Jamf Buys Identity Automation, Expands IAM Capabilities](https://www.darkreading.com/identity-access-management-security/jamf-buys-identity-automation-expands-iam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
