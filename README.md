@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bogus &#39;BianLian&#39; Gang Sends Snail-Mail Extortion Letters](https://www.darkreading.com/threat-intelligence/bogus-bianlian-snail-mail-extortion-letters)
 - [Why Security Leaders Are Opting for Consulting Gigs](https://www.darkreading.com/cybersecurity-operations/why-security-leaders-opting-consulting-gigs)
 - [Black Basta Pivots to Cactus Ransomware Group](https://www.darkreading.com/threat-intelligence/black-basta-pivots-cactus-ransomware-group)
 - [&#39;Cocktail of Cyber-Risk&#39; Should Stir Concerns Among CISOs](https://www.darkreading.com/cyber-risk/thinking-outside-box-cyber-risk)
@@ -83,7 +84,6 @@
 - [3 VMware Zero-Day Bugs Allow Sandbox Escape](https://www.darkreading.com/vulnerabilities-threats/vmware-zero-day-bugs-sandbox-escape)
 - [GreyNoise Intelligence Releases New Research on Cybersecurity Vulns](https://www.darkreading.com/cyberattacks-data-breaches/greynoise-intelligence-releases-new-research-on-cybersecurity-vulns)
 - [Glide Identity Partners With Google Cloud and Major Telcos](https://www.darkreading.com/cloud-security/glide-identity-partners-with-google-cloud-and-major-telcos)
-- [BeyondTrust Pathfinder Delivers a One-Platform Approach to Identity-Centric Security](https://www.darkreading.com/endpoint-security/beyondtrust-pathfinder-delivers-a-one-platform-approach-to-identity-centric-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
