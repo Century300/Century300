@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Women Faced the Brunt of Cybersecurity Cutbacks in 2024](https://www.darkreading.com/remote-workforce/women-cyber-cutbacks-2024)
+- [Enterprise AI Through a Data Security Lens: Balancing Productivity With Safety](https://www.darkreading.com/cyber-risk/enterprise-ai-through-data-security-lens-balancing-productivity-safety)
 - [CISA Cuts: A Dangerous Gamble in a Dangerous World](https://www.darkreading.com/cyberattacks-data-breaches/cisa-cuts-dangerous-gamble-dangerous-world)
 - [Deepfake Videos of YouTube CEO Phish Creators](https://www.darkreading.com/remote-workforce/deepfake-videos-youtube-phish-creators)
 - [Ransomware Attacks Build Against Saudi Construction Firms](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-saudi-construction-firms)
 - [Cybersecurity&#39;s Future Is All About Governance, Not More Tools](https://www.darkreading.com/cyber-risk/cybersecurity-future-governance-not-more-tools)
 - [Espionage Actor &#39;Lotus Blossom&#39; Targets Southeast Asia](https://www.darkreading.com/threat-intelligence/espionage-lotus-blossom-south-east-asia)
 - [China&#39;s Silk Typhoon APT Shifts to IT Supply Chain Attacks](https://www.darkreading.com/remote-workforce/china-silk-typhoon-it-supply-chain-attacks)
-- [Aryon Security Launches to Tackle Cloud Misconfigurations](https://www.darkreading.com/cloud-security/aryon-security-claims-to-bring-new-approach-to-cloud-security)
-- [Qualcomm, MediaTek Release Security Fix Bonanza](https://www.darkreading.com/remote-workforce/qualcomm-mediatek-security-fix-bonanza)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
