@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Espionage Actor &#39;Lotus Blossom&#39; Targets South East Asia](https://www.darkreading.com/threat-intelligence/espionage-lotus-blossom-south-east-asia)
 - [China&#39;s Silk Typhoon APT Shifts to IT Supply Chain Attacks](https://www.darkreading.com/remote-workforce/china-silk-typhoon-it-supply-chain-attacks)
 - [Qualcomm, MediaTek Release Security Fix Bonanza](https://www.darkreading.com/remote-workforce/qualcomm-mediatek-security-fix-bonanza)
 - [&#39;Crafty Camel&#39; APT Targets Aviation, OT With Polygot Files](https://www.darkreading.com/ics-ot-security/crafty-camel-apt-aviation-ot-polygot-files)
@@ -83,7 +84,6 @@
 - [Why Security Leaders Are Opting for Consulting Gigs](https://www.darkreading.com/cybersecurity-operations/why-security-leaders-opting-consulting-gigs)
 - [Black Basta Pivots to Cactus Ransomware Group](https://www.darkreading.com/threat-intelligence/black-basta-pivots-cactus-ransomware-group)
 - [&#39;Cocktail of Cyber-Risk&#39; Should Stir Concerns Among CISOs](https://www.darkreading.com/cyber-risk/thinking-outside-box-cyber-risk)
-- [Rapid7 Delivers Command Platform Offerings for Exposure Management](https://www.darkreading.com/cyber-risk/rapid7-delivers-command-platform-offerings-for-exposure-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
