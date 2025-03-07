@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Taylor Swift Ticket Thieves Charged in Court for Resale Operation](https://www.darkreading.com/cyberattacks-data-breaches/taylor-swift-ticket-thieves-charged)
 - [How Cyberattacks Affect Your Staff](https://www.darkreading.com/cyberattacks-data-breaches/how-cyberattacks-affect-your-staff)
 - [Intel Maps New vPro Chips to MITRE&#39;s ATT&amp;amp;CK Framework](https://www.darkreading.com/endpoint-security/intel-maps-new-vpro-chips-mitre-attck)
 - [Armis Acquires Otorio to Expand OT Exposure Management Platform](https://www.darkreading.com/ics-ot-security/armis-acquires-otorio-expand-ot-exposure-management-platform)
@@ -83,7 +84,6 @@
 - [Under Pressure: US Charges China&#39;s APT-for-Hire Hackers](https://www.darkreading.com/threat-intelligence/us-charges-china-apt-for-hire-hackers)
 - [Women Faced the Brunt of Cybersecurity Cutbacks in 2024](https://www.darkreading.com/remote-workforce/women-cyber-cutbacks-2024)
 - [Enterprise AI Through a Data Security Lens: Balancing Productivity With Safety](https://www.darkreading.com/cyber-risk/enterprise-ai-through-data-security-lens-balancing-productivity-safety)
-- [CISA Cuts: A Dangerous Gamble in a Dangerous World](https://www.darkreading.com/cyberattacks-data-breaches/cisa-cuts-dangerous-gamble-dangerous-world)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
