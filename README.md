@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Armis Acquires OTORIO to Expand OT Exposure Management Platform](https://www.darkreading.com/ics-ot-security/armis-acquires-otorio-expand-ot-exposure-management-platform)
 - [&#39;EncryptHub&#39; OPSEC Failures Reveal TTPs &amp;amp; Big Plans](https://www.darkreading.com/threat-intelligence/encrypthub-opsec-failures-ttps-big-plans)
 - [Under Pressure: US Charges China&#39;s APT-for-Hire Hackers](https://www.darkreading.com/threat-intelligence/us-charges-china-apt-for-hire-hackers)
 - [Women Faced the Brunt of Cybersecurity Cutbacks in 2024](https://www.darkreading.com/remote-workforce/women-cyber-cutbacks-2024)
@@ -83,7 +84,6 @@
 - [CISA Cuts: A Dangerous Gamble in a Dangerous World](https://www.darkreading.com/cyberattacks-data-breaches/cisa-cuts-dangerous-gamble-dangerous-world)
 - [Deepfake Videos of YouTube CEO Phish Creators](https://www.darkreading.com/remote-workforce/deepfake-videos-youtube-phish-creators)
 - [Ransomware Attacks Build Against Saudi Construction Firms](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-saudi-construction-firms)
-- [Cybersecurity&#39;s Future Is All About Governance, Not More Tools](https://www.darkreading.com/cyber-risk/cybersecurity-future-governance-not-more-tools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
