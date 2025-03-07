@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Static Scans, Red Teams and Frameworks Aim to Find Bad AI Models](https://www.darkreading.com/application-security/static-scans-red-teams-frameworks-aim-find-bad-ai-models)
 - [Cybercrime&#39;s Cobalt Strike Use Plummets 80% Worldwide](https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide)
 - [Zero-Days Put Tens of 1,000s of Orgs at Risk for VM Escape Attacks](https://www.darkreading.com/remote-workforce/zero-days-risk-vm-escape-attacks)
 - [Taylor Swift Ticket Thieves Charged in Court for Resale Operation](https://www.darkreading.com/cyberattacks-data-breaches/taylor-swift-ticket-thieves-charged)
@@ -83,7 +84,6 @@
 - [Intel Maps New vPro Chips to MITRE&#39;s ATT&amp;amp;CK Framework](https://www.darkreading.com/endpoint-security/intel-maps-new-vpro-chips-mitre-attck)
 - [Armis Acquires Otorio to Expand OT Exposure Management Platform](https://www.darkreading.com/ics-ot-security/armis-acquires-otorio-expand-ot-exposure-management-platform)
 - [&#39;EncryptHub&#39; OPSEC Failures Reveal TTPs &amp;amp; Big Plans](https://www.darkreading.com/threat-intelligence/encrypthub-opsec-failures-ttps-big-plans)
-- [Under Pressure: US Charges China&#39;s APT-for-Hire Hackers](https://www.darkreading.com/threat-intelligence/us-charges-china-apt-for-hire-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
