@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [APT &#39;Blind Eagle&#39; Targets Colombian Government](https://www.darkreading.com/cyberattacks-data-breaches/apt-blind-eagle-targets-colombian-government)
 - [Ex-Employee Found Guilty in Revenge Kill-Switch Scheme](https://www.darkreading.com/cyberattacks-data-breaches/ex-employee-guilty-revenge-kill-switch-scheme)
 - [When Seconds Count: How to Survive Fast-and-Furious DDoS Microbursts](https://www.darkreading.com/cyberattacks-data-breaches/survive-fast-furious-ddos-microbursts)
 - [GitHub-Hosted Malware Infects 1M Windows Users](https://www.darkreading.com/endpoint-security/github-hosted-malware-1m-windows-users)
@@ -83,7 +84,6 @@
 - [MITRE EMB3D for OT &amp;amp; ICS Threat Modeling Takes Flight](https://www.darkreading.com/threat-intelligence/mitre-emb3d-ot-ics-threat-modeling)
 - [Static Scans, Red Teams, and Frameworks Aim to Find Bad AI Models](https://www.darkreading.com/application-security/static-scans-red-teams-frameworks-aim-find-bad-ai-models)
 - [Cybercrime&#39;s Cobalt Strike Use Plummets 80% Worldwide](https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide)
-- [Zero-Days Put Tens of 1,000s of Orgs at Risk for VM Escape Attacks](https://www.darkreading.com/remote-workforce/zero-days-risk-vm-escape-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
