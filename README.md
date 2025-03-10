@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;SideWinder&#39; Intensifies Attacks on Maritime Sector](https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-intensifies-attacks-maritime-sector)
 - [Google Pays Out Nearly $12M in 2024 Bug Bounty Program](https://www.darkreading.com/vulnerabilities-threats/google-pays-nearly-12m-2024-bug-bounty-program)
 - [APT &#39;Blind Eagle&#39; Targets Colombian Government](https://www.darkreading.com/cyberattacks-data-breaches/apt-blind-eagle-targets-colombian-government)
 - [Ex-Employee Found Guilty in Revenge Kill-Switch Scheme](https://www.darkreading.com/cyberattacks-data-breaches/ex-employee-guilty-revenge-kill-switch-scheme)
@@ -83,7 +84,6 @@
 - [GitHub-Hosted Malware Infects 1M Windows Users](https://www.darkreading.com/endpoint-security/github-hosted-malware-1m-windows-users)
 - [&#39;Spearwing&#39; RaaS Group Ruffles Feathers in Cyber-Threat Scene](https://www.darkreading.com/cyberattacks-data-breaches/spearwing-raas-cyber-threat-scene)
 - [MITRE EMB3D for OT &amp;amp; ICS Threat Modeling Takes Flight](https://www.darkreading.com/threat-intelligence/mitre-emb3d-ot-ics-threat-modeling)
-- [Static Scans, Red Teams, and Frameworks Aim to Find Bad AI Models](https://www.darkreading.com/application-security/static-scans-red-teams-frameworks-aim-find-bad-ai-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
