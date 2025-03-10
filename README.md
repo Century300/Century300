@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [&#39;Spearwing&#39; RaaS Group Ruffles Feathers in Cyber Threat Scene](https://www.darkreading.com/cyberattacks-data-breaches/spearwing-raas-cyber-threat-scene)
+- [&#39;Spearwing&#39; RaaS Group Ruffles Feathers in Cyber-Threat Scene](https://www.darkreading.com/cyberattacks-data-breaches/spearwing-raas-cyber-threat-scene)
 - [MITRE EMB3D for OT &amp;amp; ICS Threat Modeling Takes Flight](https://www.darkreading.com/threat-intelligence/mitre-emb3d-ot-ics-threat-modeling)
 - [Static Scans, Red Teams, and Frameworks Aim to Find Bad AI Models](https://www.darkreading.com/application-security/static-scans-red-teams-frameworks-aim-find-bad-ai-models)
 - [Cybercrime&#39;s Cobalt Strike Use Plummets 80% Worldwide](https://www.darkreading.com/threat-intelligence/cybercrime-cobalt-strike-use-plummets-worldwide)
