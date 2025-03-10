@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When Seconds Count: How to Survive Fast-and-Furious DDoS Microbursts](https://www.darkreading.com/cyberattacks-data-breaches/survive-fast-furious-ddos-microbursts)
 - [&#39;Spearwing&#39; RaaS Group Ruffles Feathers in Cyber-Threat Scene](https://www.darkreading.com/cyberattacks-data-breaches/spearwing-raas-cyber-threat-scene)
 - [MITRE EMB3D for OT &amp;amp; ICS Threat Modeling Takes Flight](https://www.darkreading.com/threat-intelligence/mitre-emb3d-ot-ics-threat-modeling)
 - [Static Scans, Red Teams, and Frameworks Aim to Find Bad AI Models](https://www.darkreading.com/application-security/static-scans-red-teams-frameworks-aim-find-bad-ai-models)
@@ -83,7 +84,6 @@
 - [Zero-Days Put Tens of 1,000s of Orgs at Risk for VM Escape Attacks](https://www.darkreading.com/remote-workforce/zero-days-risk-vm-escape-attacks)
 - [Taylor Swift Ticket Thieves Charged in Court for Resale Operation](https://www.darkreading.com/cyberattacks-data-breaches/taylor-swift-ticket-thieves-charged)
 - [How Cyberattacks Affect Your Staff](https://www.darkreading.com/cyberattacks-data-breaches/how-cyberattacks-affect-your-staff)
-- [Intel Maps New vPro Chips to MITRE&#39;s ATT&amp;amp;CK Framework](https://www.darkreading.com/endpoint-security/intel-maps-new-vpro-chips-mitre-attck)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
