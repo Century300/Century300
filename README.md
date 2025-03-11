@@ -83,7 +83,7 @@
 - [Ex-Employee Found Guilty in Revenge Kill-Switch Scheme](https://www.darkreading.com/cyberattacks-data-breaches/ex-employee-guilty-revenge-kill-switch-scheme)
 - [When Seconds Count: How to Survive Fast-and-Furious DDoS Microbursts](https://www.darkreading.com/cyberattacks-data-breaches/survive-fast-furious-ddos-microbursts)
 - [GitHub-Hosted Malware Infects 1M Windows Users](https://www.darkreading.com/endpoint-security/github-hosted-malware-1m-windows-users)
-- [&#39;Spearwing&#39; RaaS Group Ruffles Feathers in Cyber-Threat Scene](https://www.darkreading.com/cyberattacks-data-breaches/spearwing-raas-cyber-threat-scene)
+- [Balancing Cybersecurity Accountability &amp;amp; Deregulation](https://www.darkreading.com/vulnerabilities-threats/balancing-cybersecurity-accountability-deregulation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
