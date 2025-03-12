@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Volt Typhoon Strikes Massachusetts Power Utility](https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility)
 - [&#39;Ballista&#39; Botnet Exploits 2023 Vulnerability in TP-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers)
 - [The CISO as Business Resilience Architect](https://www.darkreading.com/vulnerabilities-threats/ciso-business-resilience-architect)
 - [Whopping Number of Microsoft Zero-Days Under Attack](https://www.darkreading.com/application-security/whopping-number-microsoft-zero-days-under-attack)
@@ -83,7 +84,6 @@
 - [&#39;Desert Dexter&#39; Hot Button Facebook Ads Tag Mideast Victims](https://www.darkreading.com/cyberattacks-data-breaches/hot-button-facebook-ads-middle-east-africa-victims)
 - [Balancing Cybersecurity Accountability &amp;amp; Deregulation](https://www.darkreading.com/vulnerabilities-threats/balancing-cybersecurity-accountability-deregulation)
 - [Democratizing Security to Improve Security Posture](https://www.darkreading.com/cybersecurity-operations/democratizing-cybersecurity-improve-security-posture)
-- [Binance Spoofers Compromise PCs in &#39;TRUMP&#39; Crypto Scam](https://www.darkreading.com/cyberattacks-data-breaches/binance-spoofers-compromise-pcs-trump-crypto-scam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
