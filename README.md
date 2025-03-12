@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [China-Backed Hackers Backdoor US Carrier-Grade Juniper MX Routers](https://www.darkreading.com/cyberattacks-data-breaches/china-hackers-backdoor-carrier-grade-juniper-mx-routers)
+- [NIST Finalizes Differential Privacy Rules to Protect Data](https://www.darkreading.com/data-privacy/nist-finalizes-differential-privacy-rules-to-protect-data)
 - [Apple Drops Another WebKit Zero-Day Bug](https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug)
 - [Volt Typhoon Strikes Massachusetts Power Utility](https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility)
 - [&#39;Ballista&#39; Botnet Exploits 2023 Vulnerability in TP-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers)
 - [The CISO as Business Resilience Architect](https://www.darkreading.com/vulnerabilities-threats/ciso-business-resilience-architect)
 - [Whopping Number of Microsoft Zero-Days Under Attack](https://www.darkreading.com/application-security/whopping-number-microsoft-zero-days-under-attack)
 - [Trump Taps Sean Plankey to Fill Empty CISA Director Chair](https://www.darkreading.com/cybersecurity-operations/trump-sean-plankey-cisa-director)
-- [&#39;Desert Dexter&#39; Hot Button Facebook Ads Tag Mideast Victims](https://www.darkreading.com/cyberattacks-data-breaches/hot-button-facebook-ads-middle-east-africa-victims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
