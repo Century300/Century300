@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Backed Hackers Backdoor US Carrier-Grade Juniper MX Routers](https://www.darkreading.com/cyberattacks-data-breaches/china-hackers-backdoor-carrier-grade-juniper-mx-routers)
 - [Apple Drops Another WebKit Zero-Day Bug](https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug)
 - [Volt Typhoon Strikes Massachusetts Power Utility](https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility)
 - [&#39;Ballista&#39; Botnet Exploits 2023 Vulnerability in TP-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers)
@@ -83,7 +84,6 @@
 - [Whopping Number of Microsoft Zero-Days Under Attack](https://www.darkreading.com/application-security/whopping-number-microsoft-zero-days-under-attack)
 - [Trump Taps Sean Plankey to Fill Empty CISA Director Chair](https://www.darkreading.com/cybersecurity-operations/trump-sean-plankey-cisa-director)
 - [&#39;Desert Dexter&#39; Hot Button Facebook Ads Tag Mideast Victims](https://www.darkreading.com/cyberattacks-data-breaches/hot-button-facebook-ads-middle-east-africa-victims)
-- [Balancing Cybersecurity Accountability &amp;amp; Deregulation](https://www.darkreading.com/vulnerabilities-threats/balancing-cybersecurity-accountability-deregulation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
