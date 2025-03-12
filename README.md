@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The CISO as Business Resilience Architect](https://www.darkreading.com/vulnerabilities-threats/ciso-business-resilience-architect)
 - [Whopping Number of Microsoft Zero-Days Under Attack](https://www.darkreading.com/application-security/whopping-number-microsoft-zero-days-under-attack)
 - [Trump Taps Sean Plankey to Fill Empty CISA Director Chair](https://www.darkreading.com/cybersecurity-operations/trump-sean-plankey-cisa-director)
 - [&#39;Desert Dexter&#39; Hot Button Facebook Ads Tag Mideast Victims](https://www.darkreading.com/cyberattacks-data-breaches/hot-button-facebook-ads-middle-east-africa-victims)
@@ -83,7 +84,6 @@
 - [Democratizing Security to Improve Security Posture](https://www.darkreading.com/cybersecurity-operations/democratizing-cybersecurity-improve-security-posture)
 - [Binance Spoofers Compromise PCs in &#39;TRUMP&#39; Crypto Scam](https://www.darkreading.com/cyberattacks-data-breaches/binance-spoofers-compromise-pcs-trump-crypto-scam)
 - [&#39;SideWinder&#39; Intensifies Attacks on Maritime Sector](https://www.darkreading.com/cyberattacks-data-breaches/sidewinder-intensifies-attacks-maritime-sector)
-- [Google Pays Out Nearly $12M in 2024 Bug Bounty Program](https://www.darkreading.com/vulnerabilities-threats/google-pays-nearly-12m-2024-bug-bounty-program)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
