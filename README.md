@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Car Exploit Allows You to Spy on Drivers in Real Time](https://www.darkreading.com/vulnerabilities-threats/car-exploit-spy-drivers-real-time)
 - [Salt Typhoon: A Wake-up Call for Critical Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-wake-up-call-critical-infrastructure)
 - [F5 Integrates API Security and Networking to Address AI Onslaught](https://www.darkreading.com/endpoint-security/f5-api-security-networking-ai-onslaught)
 - [OpenAI Operator Agent Used in Proof-of-Concept Phishing Attack](https://www.darkreading.com/threat-intelligence/openai-operator-agent-proof-concept-phishing-attack)
@@ -83,7 +84,6 @@
 - [China-Backed Hackers Backdoor US Carrier-Grade Juniper MX Routers](https://www.darkreading.com/cyberattacks-data-breaches/china-hackers-backdoor-carrier-grade-juniper-mx-routers)
 - [NIST Finalizes Differential Privacy Rules to Protect Data](https://www.darkreading.com/data-privacy/nist-finalizes-differential-privacy-rules-to-protect-data)
 - [Apple Drops Another WebKit Zero-Day Bug](https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug)
-- [Volt Typhoon Strikes Massachusetts Power Utility](https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
