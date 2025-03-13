@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [F5 Integrates API Security and Networking to Address AI Onslaught](https://www.darkreading.com/endpoint-security/f5-api-security-networking-ai-onslaught)
 - [OpenAI Operator Agent Used in Proof-of-Concept Phishing Attack](https://www.darkreading.com/threat-intelligence/openai-operator-agent-proof-concept-phishing-attack)
 - [Abu Dhabi Guidelines Offer Blueprint for Cybersecurity in Health](https://www.darkreading.com/cyber-risk/abu-dhabi-guidelines-offer-blueprint-cybersecurity-health)
 - [China-Backed Hackers Backdoor US Carrier-Grade Juniper MX Routers](https://www.darkreading.com/cyberattacks-data-breaches/china-hackers-backdoor-carrier-grade-juniper-mx-routers)
@@ -83,7 +84,6 @@
 - [Apple Drops Another WebKit Zero-Day Bug](https://www.darkreading.com/mobile-security/apple-drops-another-webkit-zero-day-bug)
 - [Volt Typhoon Strikes Massachusetts Power Utility](https://www.darkreading.com/cyberattacks-data-breaches/volt-typhoon-strikes-massachusetts-power-utility)
 - [&#39;Ballista&#39; Botnet Exploits 2023 Vulnerability in TP-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/ballista-botnet-campaign-exploits-2023-vuln-tp-link-routers)
-- [The CISO as Business Resilience Architect](https://www.darkreading.com/vulnerabilities-threats/ciso-business-resilience-architect)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
