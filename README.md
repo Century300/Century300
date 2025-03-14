@@ -76,13 +76,13 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Biggest Cyber Threats to the Healthcare Industry Today](https://www.darkreading.com/vulnerabilities-threats/biggest-cyber-threats-healthcare-industry-today)
 - [Remote Access Infra Remains Riskiest Corp. Attack Surface](https://www.darkreading.com/cyber-risk/remote-access-infra-remains-riskiest-corp-attack-surface)
 - [OBSCURE#BAT Malware Highlights Risks of API Hooking](https://www.darkreading.com/vulnerabilities-threats/obscurebat-malware-highlights-api-hooking)
 - [FBI, CISA Raise Alarms As Medusa Ransomware Attacks Grow](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisa-alarmed-medusa-ransomware-attacks-grow)
-- [Consumer Groups Push IoT Security Bill to Address EoL Concerns](https://www.darkreading.com/iot/consumer-groups-rally-to-address-iot-security-concerns)
+- [Consumer Groups Push IoT Security Bill to Address End-of-Life Concerns](https://www.darkreading.com/iot/consumer-groups-rally-to-address-iot-security-concerns)
 - [Car Exploit Allows You to Spy on Drivers in Real Time](https://www.darkreading.com/vulnerabilities-threats/car-exploit-spy-drivers-real-time)
 - [Salt Typhoon: A Wake-up Call for Critical Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-wake-up-call-critical-infrastructure)
-- [F5 Integrates API Security and Networking to Address AI Onslaught](https://www.darkreading.com/endpoint-security/f5-api-security-networking-ai-onslaught)
 - [OpenAI Operator Agent Used in Proof-of-Concept Phishing Attack](https://www.darkreading.com/threat-intelligence/openai-operator-agent-proof-concept-phishing-attack)
 <!-- DARKREADING:END -->
 
