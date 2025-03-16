@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intel’s Secure Data Tunnel Moves AI Training Models to Data Sources](https://www.darkreading.com/cloud-security/intel-s-secure-data-tunnel-moves-ai-training-models-to-data-sources)
 - [Threat Actor Impersonates Booking.com in Phishing Scheme](https://www.darkreading.com/threat-intelligence/threat-actor-booking-com-clickfix-phishing-scheme)
 - [Man-in-the-Middle Vulns Provide New Research Opportunities for Car Security](https://www.darkreading.com/cybersecurity-operations/mitm-vulns-research-opportunities-car-security)
 - [Ransomware Developer Extradited, Admits Working for LockBit](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-developer-extradited-admits-working-ransomware-group)
@@ -83,7 +84,6 @@
 - [CISA Cuts $10M in ISAC Funding &amp;amp; 100s of Employees](https://www.darkreading.com/remote-workforce/cisa-cuts-isac-funding-employees)
 - [Biggest Cyber Threats to the Healthcare Industry Today](https://www.darkreading.com/vulnerabilities-threats/biggest-cyber-threats-healthcare-industry-today)
 - [Remote Access Infra Remains Riskiest Corp. Attack Surface](https://www.darkreading.com/cyber-risk/remote-access-infra-remains-riskiest-corp-attack-surface)
-- [OBSCURE#BAT Malware Highlights Risks of API Hooking](https://www.darkreading.com/vulnerabilities-threats/obscurebat-malware-highlights-api-hooking)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
