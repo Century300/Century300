@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RansomHub Taps FakeUpdates to Target US Government Sector](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-fakeupdates-government-sector)
 - [How &#39;Open Innovation&#39; Can Help Solve Problems Faster, Better &amp;amp; Cheaper](https://www.darkreading.com/vulnerabilities-threats/how-open-innovation-can-help-solve-problems-faster-better-cheaper)
 - [How Economic Headwinds Influence the Ransomware Ecosystem](https://www.darkreading.com/cyberattacks-data-breaches/how-economic-headwinds-influence-ransomware-ecosystem)
 - [Intel&#39;s Secure Data Tunnel Moves AI Training Models to Data Sources](https://www.darkreading.com/cloud-security/intel-s-secure-data-tunnel-moves-ai-training-models-to-data-sources)
@@ -83,7 +84,6 @@
 - [Man-in-the-Middle Vulns Threaten Car Security](https://www.darkreading.com/cybersecurity-operations/mitm-vulns-research-opportunities-car-security)
 - [Ransomware Developer Extradited, Admits Working for LockBit](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-developer-extradited-admits-working-ransomware-group)
 - [Threat Actor Tied to LockBit Ransomware Targets Fortinet Users](https://www.darkreading.com/cyberattacks-data-breaches/actor-tied-lockbit-ransomware-targets-fortinet-users)
-- [CISA Cuts $10M in ISAC Funding &amp;amp; 100s of Employees](https://www.darkreading.com/remote-workforce/cisa-cuts-isac-funding-employees)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
