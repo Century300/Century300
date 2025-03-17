@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apache Tomcat RCE Vulnerability Under Fire With 2-Step Exploit](https://www.darkreading.com/vulnerabilities-threats/apache-tomcat-rce-vulnerability-exploit)
 - [RansomHub Taps FakeUpdates to Target US Government Sector](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-fakeupdates-government-sector)
 - [How &#39;Open Innovation&#39; Can Help Solve Problems Faster, Better &amp;amp; Cheaper](https://www.darkreading.com/vulnerabilities-threats/how-open-innovation-can-help-solve-problems-faster-better-cheaper)
 - [How Economic Headwinds Influence the Ransomware Ecosystem](https://www.darkreading.com/cyberattacks-data-breaches/how-economic-headwinds-influence-ransomware-ecosystem)
@@ -83,7 +84,6 @@
 - [Threat Actor Impersonates Booking.com in Phishing Scheme](https://www.darkreading.com/threat-intelligence/threat-actor-booking-com-clickfix-phishing-scheme)
 - [Man-in-the-Middle Vulns Threaten Car Security](https://www.darkreading.com/cybersecurity-operations/mitm-vulns-research-opportunities-car-security)
 - [Ransomware Developer Extradited, Admits Working for LockBit](https://www.darkreading.com/cyberattacks-data-breaches/lockbit-developer-extradited-admits-working-ransomware-group)
-- [Threat Actor Tied to LockBit Ransomware Targets Fortinet Users](https://www.darkreading.com/cyberattacks-data-breaches/actor-tied-lockbit-ransomware-targets-fortinet-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
