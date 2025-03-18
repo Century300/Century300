@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 AI-Driven Roles in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/3-ai-driven-roles-cybersecurity)
 - [OAuth Attacks Target Microsoft 365, GitHub](https://www.darkreading.com/application-security/oauth-attacks-target-microsoft-365-github)
 - [ClickFix Attack Compromises 100+ Car Dealership Sites](https://www.darkreading.com/cyberattacks-data-breaches/compromised-car-dealership-websites-clickfix-breach)
 - [Lexmark Expands Print Security Services Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/lexmark-expands-print-security-services-worldwide)
@@ -83,7 +84,6 @@
 - [Denmark Warns of Increased Cyber Espionage Against Telecom Sector](https://www.darkreading.com/threat-intelligence/denmark-warns-increased-cyber-espionage-telecom-sector)
 - [Apache Tomcat RCE Vulnerability Under Fire With 2-Step Exploit](https://www.darkreading.com/vulnerabilities-threats/apache-tomcat-rce-vulnerability-exploit)
 - [RansomHub Taps FakeUpdates to Target US Government Sector](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-fakeupdates-government-sector)
-- [How &#39;Open Innovation&#39; Can Help Solve Problems Faster, Better &amp;amp; Cheaper](https://www.darkreading.com/vulnerabilities-threats/how-open-innovation-can-help-solve-problems-faster-better-cheaper)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
