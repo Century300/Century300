@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Wireless Airspace Defense Firm Bastille Reveals Top Threats of 2025](https://www.darkreading.com/threat-intelligence/wireless-airspace-defense-firm-bastille-reveals-top-threats-of-2025)
+- [Automox Demonstrates IT and Security Impact With Launch of Precision Analytics](https://www.darkreading.com/cybersecurity-analytics/automox-it-and-security-launch-precision-analytics)
+- [Fujifilm Signs Strategic Collaboration Agreement With Amazon Web Services](https://www.darkreading.com/cloud-security/fujifilm-agreement-amazon-web-services)
+- [Duke University &amp;amp; GCF Partner to Identify Pathways for Advancing Women&#39;s Careers in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/duke-university-gcf-partner-advancing-women-in-cyber)
+- [Google to Acquire Wiz for $32B in Multicloud Security Play](https://www.darkreading.com/cloud-security/google-acquire-wiz-32b-multicloud-security-play)
 - [Microsoft Sounds Warning on Multifunctional &#39;StilachiRAT&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-sounds-warning-on-multifunctional-stilachirat)
 - [Black Basta Leader in League With Russian Officials, Chat Logs Show](https://www.darkreading.com/threat-intelligence/black-basta-league-russian-officials-chat-logs)
 - [Extortion Reboot: Ransomware Crew Threatens Leak to Snowden](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-crew-leak-snowden-extortion-tactic)
-- [Actively Exploited ChatGPT Bug Puts Organizations at Risk](https://www.darkreading.com/cyberattacks-data-breaches/actively-exploited-chatgpt-bug-organizations-risk)
-- [Orion Security Startup Tackles Insider Threats With AI](https://www.darkreading.com/insider-threats/orion-security-startup-minimize-insider-threats)
-- [3 AI-Driven Roles in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/3-ai-driven-roles-cybersecurity)
-- [OAuth Attacks Target Microsoft 365, GitHub](https://www.darkreading.com/application-security/oauth-attacks-target-microsoft-365-github)
-- [ClickFix Attack Compromises 100+ Car Dealership Sites](https://www.darkreading.com/cyberattacks-data-breaches/compromised-car-dealership-websites-clickfix-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
