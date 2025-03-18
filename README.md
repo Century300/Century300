@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Actively Exploited ChatGPT Bug Puts Organizations at Risk](https://www.darkreading.com/cyberattacks-data-breaches/actively-exploited-chatgpt-bug-organizations-risk)
+- [Orion Security Startup Tackles Insider Threats With AI](https://www.darkreading.com/insider-threats/orion-security-startup-minimize-insider-threats)
 - [3 AI-Driven Roles in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/3-ai-driven-roles-cybersecurity)
 - [OAuth Attacks Target Microsoft 365, GitHub](https://www.darkreading.com/application-security/oauth-attacks-target-microsoft-365-github)
 - [ClickFix Attack Compromises 100+ Car Dealership Sites](https://www.darkreading.com/cyberattacks-data-breaches/compromised-car-dealership-websites-clickfix-breach)
 - [Lexmark Expands Print Security Services Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/lexmark-expands-print-security-services-worldwide)
 - [Varonis Acquires Cyral to Reinvent Database Activity Monitoring](https://www.darkreading.com/application-security/varonis-acquires-cyral-to-reinvent-database-activity-monitoring)
 - [Denmark Warns of Increased Cyber Espionage Against Telecom Sector](https://www.darkreading.com/threat-intelligence/denmark-warns-increased-cyber-espionage-telecom-sector)
-- [Apache Tomcat RCE Vulnerability Under Fire With 2-Step Exploit](https://www.darkreading.com/vulnerabilities-threats/apache-tomcat-rce-vulnerability-exploit)
-- [RansomHub Taps FakeUpdates to Target US Government Sector](https://www.darkreading.com/cyberattacks-data-breaches/ransomhub-fakeupdates-government-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
