@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Sounds Warning on Multifunctional &#39;StilachiRAT&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-sounds-warning-on-multifunctional-stilachirat)
+- [Black Basta Leader in League With Russian Officials, Chat Logs Show](https://www.darkreading.com/threat-intelligence/black-basta-league-russian-officials-chat-logs)
 - [Extortion Reboot: Ransomware Crew Threatens Leak to Snowden](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-crew-leak-snowden-extortion-tactic)
 - [Actively Exploited ChatGPT Bug Puts Organizations at Risk](https://www.darkreading.com/cyberattacks-data-breaches/actively-exploited-chatgpt-bug-organizations-risk)
 - [Orion Security Startup Tackles Insider Threats With AI](https://www.darkreading.com/insider-threats/orion-security-startup-minimize-insider-threats)
 - [3 AI-Driven Roles in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/3-ai-driven-roles-cybersecurity)
 - [OAuth Attacks Target Microsoft 365, GitHub](https://www.darkreading.com/application-security/oauth-attacks-target-microsoft-365-github)
 - [ClickFix Attack Compromises 100+ Car Dealership Sites](https://www.darkreading.com/cyberattacks-data-breaches/compromised-car-dealership-websites-clickfix-breach)
-- [Lexmark Expands Print Security Services Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/lexmark-expands-print-security-services-worldwide)
-- [Varonis Acquires Cyral to Reinvent Database Activity Monitoring](https://www.darkreading.com/application-security/varonis-acquires-cyral-to-reinvent-database-activity-monitoring)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
