@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Knostic Nabs $11M to Eliminate Enterprise AI Data Leaks](https://www.darkreading.com/cybersecurity-operations/knostic-nabs-millions-eliminate-enterprise-ai-data-leaks)
 - [Wireless Airspace Defense Firm Bastille Reveals Top Threats of 2025](https://www.darkreading.com/threat-intelligence/wireless-airspace-defense-firm-bastille-reveals-top-threats-of-2025)
 - [Automox Demonstrates IT and Security Impact With Launch of Precision Analytics](https://www.darkreading.com/cybersecurity-analytics/automox-it-and-security-launch-precision-analytics)
 - [Fujifilm Signs Strategic Collaboration Agreement With Amazon Web Services](https://www.darkreading.com/cloud-security/fujifilm-agreement-amazon-web-services)
@@ -83,7 +84,6 @@
 - [Google to Acquire Wiz for $32B in Multicloud Security Play](https://www.darkreading.com/cloud-security/google-acquire-wiz-32b-multicloud-security-play)
 - [Microsoft Sounds Warning on Multifunctional &#39;StilachiRAT&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-sounds-warning-on-multifunctional-stilachirat)
 - [Black Basta Leader in League With Russian Officials, Chat Logs Show](https://www.darkreading.com/threat-intelligence/black-basta-league-russian-officials-chat-logs)
-- [Extortion Reboot: Ransomware Crew Threatens Leak to Snowden](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-crew-leak-snowden-extortion-tactic)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
