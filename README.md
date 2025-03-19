@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Cloud Adoption Is Rife With Cyber Mistakes](https://www.darkreading.com/cloud-security/ai-cloud-adoption-cyber-mistakes)
 - [Why Cybersecurity Needs More Business-Minded Leaders](https://www.darkreading.com/cybersecurity-operations/why-cybersecurity-needs-more-business-minded-leaders)
 - [Knostic Nabs $11M to Eliminate Enterprise AI Data Leaks](https://www.darkreading.com/cybersecurity-operations/knostic-nabs-millions-eliminate-enterprise-ai-data-leaks)
 - [Wireless Airspace Defense Firm Bastille Reveals Top Threats of 2025](https://www.darkreading.com/threat-intelligence/wireless-airspace-defense-firm-bastille-reveals-top-threats-of-2025)
@@ -83,7 +84,6 @@
 - [Fujifilm Signs Strategic Collaboration Agreement With Amazon Web Services](https://www.darkreading.com/cloud-security/fujifilm-agreement-amazon-web-services)
 - [Duke University &amp;amp; GCF Partner to Identify Pathways for Advancing Women&#39;s Careers in Cybersecurity](https://www.darkreading.com/cybersecurity-operations/duke-university-gcf-partner-advancing-women-in-cyber)
 - [Google to Acquire Wiz for $32B in Multicloud Security Play](https://www.darkreading.com/cloud-security/google-acquire-wiz-32b-multicloud-security-play)
-- [Microsoft Sounds Warning on Multifunctional &#39;StilachiRAT&#39;](https://www.darkreading.com/vulnerabilities-threats/microsoft-sounds-warning-on-multifunctional-stilachirat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
