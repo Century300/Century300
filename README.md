@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [India Is Top Global Target for Hacktivists, Regional APTs](https://www.darkreading.com/cyber-risk/india-tops-global-targets-hactivists-regional-apt)
 - [Critical Fortinet Vulnerability Draws Fresh Attention](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-vulnerability-draws-fresh-attention)
 - [Nation-State Groups Abuse Microsoft Windows Shortcut Exploit](https://www.darkreading.com/cyber-risk/nation-state-groups-abuse-microsoft-windows-shortcut-exploit)
 - [Cytex Unveils AICenturion](https://www.darkreading.com/cybersecurity-operations/cytex-unveils-aicenturion)
@@ -83,7 +84,6 @@
 - [Infosys Settles $17.5M Class Action Lawsuit After Sprawling Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/infosys-settles-175m-class-action-lawsuit-third-party-breach)
 - [Women in CyberSecurity and ISC2 Announce the WiCyS + ISC2 Certified in CybersecuritySM Certification Spring Camp](https://www.darkreading.com/cybersecurity-operations/women-in-cybersecurity-and-isc2-announce-the-wicys-isc2-certified-in-cybersecuritysm-certification-spring-camp)
 - [AI Cloud Adoption Is Rife With Cyber Mistakes](https://www.darkreading.com/cloud-security/ai-cloud-adoption-cyber-mistakes)
-- [Why Cybersecurity Needs More Business-Minded Leaders](https://www.darkreading.com/cybersecurity-operations/why-cybersecurity-needs-more-business-minded-leaders)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
