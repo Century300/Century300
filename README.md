@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Are We Closing the Gender Gap in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/are-we-closing-gender-gap-cybersecurity)
+- [HP Brings Quantum-Safe Encryption to Printers](https://www.darkreading.com/endpoint-security/hp-brings-quantum-safe-encryption-printers)
 - [Mobile Jailbreaks Exponentially Increase Corporate Risk](https://www.darkreading.com/endpoint-security/mobile-jailbreaks-corporate-risk)
 - [India Is Top Global Target for Hacktivists, Regional APTs](https://www.darkreading.com/cyber-risk/india-tops-global-targets-hactivists-regional-apt)
 - [Critical Fortinet Vulnerability Draws Fresh Attention](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-vulnerability-draws-fresh-attention)
 - [Nation-State Groups Abuse Microsoft Windows Shortcut Exploit](https://www.darkreading.com/cyber-risk/nation-state-groups-abuse-microsoft-windows-shortcut-exploit)
 - [Cytex Unveils AICenturion](https://www.darkreading.com/cybersecurity-operations/cytex-unveils-aicenturion)
 - [Enterprises Gain Control Over LLM Oversharing With Prompt Security&#39;s GenAI Authorization](https://www.darkreading.com/application-security/control-over-llm-oversharing-genai-authorization)
-- [Infosys Settles $17.5M Class Action Lawsuit After Sprawling Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/infosys-settles-175m-class-action-lawsuit-third-party-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
