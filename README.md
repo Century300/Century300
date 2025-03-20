@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why It&#39;s So Hard to Stop Rising Malicious TDS Traffic](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
 - [Ukraine Defense Sector Under Attack Via Dark Crystal RAT](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-defense-sector-attack-dark-crystal-rat)
 - [Are We Closing the Gender Gap in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/are-we-closing-gender-gap-cybersecurity)
 - [HP Brings Quantum-Safe Encryption to Printers](https://www.darkreading.com/endpoint-security/hp-brings-quantum-safe-encryption-printers)
@@ -83,7 +84,6 @@
 - [India Is Top Global Target for Hacktivists, Regional APTs](https://www.darkreading.com/cyber-risk/india-tops-global-targets-hactivists-regional-apt)
 - [Critical Fortinet Vulnerability Draws Fresh Attention](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-vulnerability-draws-fresh-attention)
 - [Nation-State Groups Abuse Microsoft Windows Shortcut Exploit](https://www.darkreading.com/cyber-risk/nation-state-groups-abuse-microsoft-windows-shortcut-exploit)
-- [Cytex Unveils AICenturion](https://www.darkreading.com/cybersecurity-operations/cytex-unveils-aicenturion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
