@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mobile Jailbreaks Exponentially Increase Corporate Risk](https://www.darkreading.com/endpoint-security/mobile-jailbreaks-corporate-risk)
 - [India Is Top Global Target for Hacktivists, Regional APTs](https://www.darkreading.com/cyber-risk/india-tops-global-targets-hactivists-regional-apt)
 - [Critical Fortinet Vulnerability Draws Fresh Attention](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-vulnerability-draws-fresh-attention)
 - [Nation-State Groups Abuse Microsoft Windows Shortcut Exploit](https://www.darkreading.com/cyber-risk/nation-state-groups-abuse-microsoft-windows-shortcut-exploit)
@@ -83,7 +84,6 @@
 - [Enterprises Gain Control Over LLM Oversharing With Prompt Security&#39;s GenAI Authorization](https://www.darkreading.com/application-security/control-over-llm-oversharing-genai-authorization)
 - [Infosys Settles $17.5M Class Action Lawsuit After Sprawling Third-Party Breach](https://www.darkreading.com/cyberattacks-data-breaches/infosys-settles-175m-class-action-lawsuit-third-party-breach)
 - [Women in CyberSecurity and ISC2 Announce the WiCyS + ISC2 Certified in CybersecuritySM Certification Spring Camp](https://www.darkreading.com/cybersecurity-operations/women-in-cybersecurity-and-isc2-announce-the-wicys-isc2-certified-in-cybersecuritysm-certification-spring-camp)
-- [AI Cloud Adoption Is Rife With Cyber Mistakes](https://www.darkreading.com/cloud-security/ai-cloud-adoption-cyber-mistakes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
