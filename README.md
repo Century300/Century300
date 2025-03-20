@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ukraine Defense Sector Under Attack Via Dark Crystal RAT](https://www.darkreading.com/cyberattacks-data-breaches/ukraine-defense-sector-attack-dark-crystal-rat)
 - [Are We Closing the Gender Gap in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/are-we-closing-gender-gap-cybersecurity)
 - [HP Brings Quantum-Safe Encryption to Printers](https://www.darkreading.com/endpoint-security/hp-brings-quantum-safe-encryption-printers)
 - [Mobile Jailbreaks Exponentially Increase Corporate Risk](https://www.darkreading.com/endpoint-security/mobile-jailbreaks-corporate-risk)
@@ -83,7 +84,6 @@
 - [Critical Fortinet Vulnerability Draws Fresh Attention](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-vulnerability-draws-fresh-attention)
 - [Nation-State Groups Abuse Microsoft Windows Shortcut Exploit](https://www.darkreading.com/cyber-risk/nation-state-groups-abuse-microsoft-windows-shortcut-exploit)
 - [Cytex Unveils AICenturion](https://www.darkreading.com/cybersecurity-operations/cytex-unveils-aicenturion)
-- [Enterprises Gain Control Over LLM Oversharing With Prompt Security&#39;s GenAI Authorization](https://www.darkreading.com/application-security/control-over-llm-oversharing-genai-authorization)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
