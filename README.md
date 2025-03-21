@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Cyber Quality Is the Key to Security](https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security)
 - [VexTrio Using 20,000 Hacked WordPress Sites in Traffic Redirect Scheme](https://www.darkreading.com/cyberattacks-data-breaches/vextrio-20000-hacked-wordpress-sites-traffic-redirect-scheme)
 - [University Competition Focuses on Solving Generative AI Challenges](https://www.darkreading.com/application-security/university-competition-solving-generative-ai-challenges)
 - [Why It&#39;s So Hard to Stop Rising Malicious TDS Traffic](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
@@ -83,7 +84,6 @@
 - [Are We Closing the Gender Gap in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/are-we-closing-gender-gap-cybersecurity)
 - [HP Brings Quantum-Safe Encryption to Printers](https://www.darkreading.com/endpoint-security/hp-brings-quantum-safe-encryption-printers)
 - [Mobile Jailbreaks Exponentially Increase Corporate Risk](https://www.darkreading.com/endpoint-security/mobile-jailbreaks-corporate-risk)
-- [India Is Top Global Target for Hacktivists, Regional APTs](https://www.darkreading.com/cyber-risk/india-tops-global-targets-hactivists-regional-apt)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
