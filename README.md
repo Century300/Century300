@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Oracle Denies Claim of Oracle Cloud Breach of 6M Records](https://www.darkreading.com/cyberattacks-data-breaches/oracle-denies-claim-oracle-cloud-breach-6m-records)
 - [Is the Middle East&#39;s Race to Digitize a Threat to Infrastructure?](https://www.darkreading.com/cyberattacks-data-breaches/middle-easts-race-digitize-threat-infrastructure)
 - [What CISA&#39;s Red Team Disarray Means for US Cyber Defenses](https://www.darkreading.com/threat-intelligence/cisa-red-team-disarray-cyber-defenses)
 - [Attackers Pivot to SEMrush Spoof to Steal Google Credentials](https://www.darkreading.com/cyberattacks-data-breaches/attackers-semrush-steal-google-credentials)
@@ -83,7 +84,6 @@
 - [Why Cyber Quality Is the Key to Security](https://www.darkreading.com/cyberattacks-data-breaches/why-cyber-quality-key-security)
 - [VexTrio Using 20,000 Hacked WordPress Sites in Traffic Redirect Scheme](https://www.darkreading.com/cyberattacks-data-breaches/vextrio-20000-hacked-wordpress-sites-traffic-redirect-scheme)
 - [University Competition Focuses on Solving Generative AI Challenges](https://www.darkreading.com/application-security/university-competition-solving-generative-ai-challenges)
-- [Why It&#39;s So Hard to Stop Rising Malicious TDS Traffic](https://www.darkreading.com/cyberattacks-data-breaches/why-hard-stop-rising-malicious-tds-traffic)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
