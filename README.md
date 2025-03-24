@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Hacker Group Tracked Back to iSoon APT Operation](https://www.darkreading.com/cyberattacks-data-breaches/chinese-espionage-hacker-group-isoon-apt-operation)
 - [FBI Warns of Document Converter Tools Due to Uptick in Scams](https://www.darkreading.com/cyberattacks-data-breaches/fbi-document-converter-tools-scam)
 - [Critical &#39;IngressNightmare&#39; Vulns Imperil Kubernetes Environments](https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments)
 - [China-Nexus APT &#39;Weaver Ant&#39; Caught in Yearslong Web Shell Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-apt-weaver-ant-caught-yearslong-web-shell-attack)
@@ -83,7 +84,6 @@
 - [FCC Investigates China-Backed Tech Suppliers for Evading US Operations Ban](https://www.darkreading.com/cybersecurity-operations/fcc-investigates-chinese-telecom-providers-evading-operations-ban)
 - [Oracle Denies Claim of Oracle Cloud Breach of 6M Records](https://www.darkreading.com/cyberattacks-data-breaches/oracle-denies-claim-oracle-cloud-breach-6m-records)
 - [Is the Middle East&#39;s Race to Digitize a Threat to Infrastructure?](https://www.darkreading.com/cyberattacks-data-breaches/middle-easts-race-digitize-threat-infrastructure)
-- [What CISA&#39;s Red Team Disarray Means for US Cyber Defenses](https://www.darkreading.com/threat-intelligence/cisa-red-team-disarray-cyber-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
