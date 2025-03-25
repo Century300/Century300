@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Gives Security Copilot Some Autonomy](https://www.darkreading.com/cybersecurity-operations/microsoft-gives-security-copilot-autonomy)
 - [Chinese Hacker Group Tracked Back to iSoon APT Operation](https://www.darkreading.com/cyberattacks-data-breaches/chinese-espionage-hacker-group-isoon-apt-operation)
 - [FBI Warns of Document Converter Tools Due to Uptick in Scams](https://www.darkreading.com/cyberattacks-data-breaches/fbi-document-converter-tools-scam)
 - [Critical &#39;IngressNightmare&#39; Vulns Imperil Kubernetes Environments](https://www.darkreading.com/application-security/critical-ingressnightmare-vulns-kubernetes-environments)
 - [China-Nexus APT &#39;Weaver Ant&#39; Caught in Yearslong Web Shell Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-apt-weaver-ant-caught-yearslong-web-shell-attack)
 - [US Weakens Disinformation Defenses, as Russia &amp;amp; China Ramp Up](https://www.darkreading.com/threat-intelligence/us-weakens-disinformation-defenses-russia-china-ramp-up)
 - [FCC Investigates China-Backed Tech Suppliers for Evading US Operations Ban](https://www.darkreading.com/cybersecurity-operations/fcc-investigates-chinese-telecom-providers-evading-operations-ban)
-- [Oracle Denies Claim of Oracle Cloud Breach of 6M Records](https://www.darkreading.com/cyberattacks-data-breaches/oracle-denies-claim-oracle-cloud-breach-6m-records)
-- [Is the Middle East&#39;s Race to Digitize a Threat to Infrastructure?](https://www.darkreading.com/cyberattacks-data-breaches/middle-easts-race-digitize-threat-infrastructure)
+- [Meet the Low-Key Access Broker Supercharging Russian State Cybercrime](https://www.darkreading.com/cyberattacks-data-breaches/access-broker-russian-state-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
