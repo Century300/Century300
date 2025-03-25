@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [South African Poultry Company Reports $1M Loss After Cyber Intrusion](https://www.darkreading.com/cyberattacks-data-breaches/south-african-poultry-company-1m-loss-cyber-intrusion)
 - [Accused Snowflake Attacker &#39;Judische&#39; Agrees to US Extradition](https://www.darkreading.com/cyberattacks-data-breaches/snowflake-attacker-judische-agrees-us-extradition)
 - [5 Considerations for a Data Loss Prevention Rollout](https://www.darkreading.com/vulnerabilities-threats/5-considerations-data-loss-prevention-rollout)
 - [Meet the Low-Key Access Broker Supercharging Russian State Cybercrime](https://www.darkreading.com/cyberattacks-data-breaches/access-broker-russian-state-cybercrime)
@@ -83,7 +84,6 @@
 - [Windows 10 End-of-Life Puts SMB at Risk](https://www.darkreading.com/endpoint-security/windows-10-end-of-life-puts-smb-at-risk)
 - [Microsoft Gives Security Copilot Some Autonomy](https://www.darkreading.com/cybersecurity-operations/microsoft-gives-security-copilot-autonomy)
 - [Chinese Hacker Group Tracked Back to iSoon APT Operation](https://www.darkreading.com/cyberattacks-data-breaches/chinese-espionage-hacker-group-isoon-apt-operation)
-- [FBI Warns of Document Converter Tools Due to Uptick in Scams](https://www.darkreading.com/cyberattacks-data-breaches/fbi-document-converter-tools-scam)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
