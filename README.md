@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
+- [Cybersecurity Gaps Leave Doors Wide Open](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-gaps-leave-doors-wide-open)
 - [Beyond STIX: Next-Level Cyber-Threat Intelligence](https://www.darkreading.com/threat-intelligence/beyond-stix-next-level-cyber-threat-intelligence)
+- [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
 - [New Testing Framework Helps Evaluate Sandboxes](https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox)
 - [Google Hastily Patches Chrome Zero-Day Exploited by APT](https://www.darkreading.com/cyberattacks-data-breaches/google-patches-chrome-zero-day-exploited-apt)
 - [Public-Private Ops Net Big Wins Against African Cybercrime](https://www.darkreading.com/threat-intelligence/public-private-ops-big-wins-african-cybercrime)
 - [Security Tech That Can Make a Difference During an Attack](https://www.darkreading.com/cybersecurity-operations/east-west-monitoring-visibility-critical-apt-detection)
 - [OPSEC Nightmare: Leaking US Military Plans to a Reporter](https://www.darkreading.com/cybersecurity-operations/opsec-nightmare-leaking-us-military-plans-reporter)
-- [South African Poultry Company Reports $1M Loss After Cyber Intrusion](https://www.darkreading.com/cyberattacks-data-breaches/south-african-poultry-company-1m-loss-cyber-intrusion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
