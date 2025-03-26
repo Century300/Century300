@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Expert Troy Hunt Lured in by Mailchimp Phish](https://www.darkreading.com/cyberattacks-data-breaches/security-expert-troy-hunt-lured-mailchimp-phish)
 - [Cybersecurity Gaps Leave Doors Wide Open](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-gaps-leave-doors-wide-open)
 - [Beyond STIX: Next-Level Cyber-Threat Intelligence](https://www.darkreading.com/threat-intelligence/beyond-stix-next-level-cyber-threat-intelligence)
 - [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
@@ -83,7 +84,6 @@
 - [Google Hastily Patches Chrome Zero-Day Exploited by APT](https://www.darkreading.com/cyberattacks-data-breaches/google-patches-chrome-zero-day-exploited-apt)
 - [Public-Private Ops Net Big Wins Against African Cybercrime](https://www.darkreading.com/threat-intelligence/public-private-ops-big-wins-african-cybercrime)
 - [Security Tech That Can Make a Difference During an Attack](https://www.darkreading.com/cybersecurity-operations/east-west-monitoring-visibility-critical-apt-detection)
-- [OPSEC Nightmare: Leaking US Military Plans to a Reporter](https://www.darkreading.com/cybersecurity-operations/opsec-nightmare-leaking-us-military-plans-reporter)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
