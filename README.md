@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
 - [New Testing Framework Helps Evaluate Sandboxes](https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox)
 - [Public-Private Ops Net Big Wins Against African Cybercrime](https://www.darkreading.com/threat-intelligence/public-private-ops-big-wins-african-cybercrime)
 - [Security Tech That Can Make a Difference During an Attack](https://www.darkreading.com/cybersecurity-operations/east-west-monitoring-visibility-critical-apt-detection)
@@ -83,7 +84,6 @@
 - [South African Poultry Company Reports $1M Loss After Cyber Intrusion](https://www.darkreading.com/cyberattacks-data-breaches/south-african-poultry-company-1m-loss-cyber-intrusion)
 - [Accused Snowflake Attacker &#39;Judische&#39; Agrees to US Extradition](https://www.darkreading.com/cyberattacks-data-breaches/snowflake-attacker-judische-agrees-us-extradition)
 - [5 Considerations for a Data Loss Prevention Rollout](https://www.darkreading.com/vulnerabilities-threats/5-considerations-data-loss-prevention-rollout)
-- [Meet the Low-Key Access Broker Supercharging Russian State Cybercrime](https://www.darkreading.com/cyberattacks-data-breaches/access-broker-russian-state-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
