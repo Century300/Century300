@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hoff&#39;s Rule: People First](https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first)
 - [DoJ Recovers $5M Lost in BEC Fraud Against Workers&#39; Union](https://www.darkreading.com/cyberattacks-data-breaches/doj-secures-5m-bec-fraud-workers-union)
 - [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
 - [High-Severity Cloud Security Alerts Tripled in 2024](https://www.darkreading.com/cyber-risk/high-severity-cloud-security-alerts-tripled-2024)
@@ -83,7 +84,6 @@
 - [Cybersecurity Gaps Leave Doors Wide Open](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-gaps-leave-doors-wide-open)
 - [Beyond STIX: Next-Level Cyber-Threat Intelligence](https://www.darkreading.com/threat-intelligence/beyond-stix-next-level-cyber-threat-intelligence)
 - [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
-- [New Testing Framework Helps Evaluate Sandboxes](https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
