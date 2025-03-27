@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
 - [High-Severity Cloud Security Alerts Tripled in 2024](https://www.darkreading.com/cyber-risk/high-severity-cloud-security-alerts-tripled-2024)
 - [Security Expert Troy Hunt Lured in by Mailchimp Phish](https://www.darkreading.com/cyberattacks-data-breaches/security-expert-troy-hunt-lured-mailchimp-phish)
 - [Cybersecurity Gaps Leave Doors Wide Open](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-gaps-leave-doors-wide-open)
@@ -83,7 +84,6 @@
 - [&#39;Lucid&#39; Phishing-as-a-Service Exploits Faults in iMessage, Android RCS](https://www.darkreading.com/threat-intelligence/lucid-phishing-exploits-imessage-android-rcs)
 - [New Testing Framework Helps Evaluate Sandboxes](https://www.darkreading.com/application-security/testing-framework-evaluate-sandbox)
 - [Google Hastily Patches Chrome Zero-Day Exploited by APT](https://www.darkreading.com/cyberattacks-data-breaches/google-patches-chrome-zero-day-exploited-apt)
-- [Public-Private Ops Net Big Wins Against African Cybercrime](https://www.darkreading.com/threat-intelligence/public-private-ops-big-wins-african-cybercrime)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
