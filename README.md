@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Navigating Cyber-Risks and New Defenses](https://www.darkreading.com/vulnerabilities-threats/navigating-cyber-risks-new-defenses)
 - [Iran&#39;s MOIS-Linked APT34 Spies on Allies Iraq &amp;amp; Yemen](https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen)
 - [Hoff&#39;s Rule: People First](https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first)
 - [How CISA Cuts Impact Election Security](https://www.darkreading.com/cyber-risk/how-cisa-cuts-impact-election-security)
@@ -83,7 +84,6 @@
 - [DoJ Recovers $5M Lost in BEC Fraud Against Workers&#39; Union](https://www.darkreading.com/cyberattacks-data-breaches/doj-secures-5m-bec-fraud-workers-union)
 - [Student-Powered SOCs Train Security&#39;s Next Generation](https://www.darkreading.com/cybersecurity-operations/student-powered-socs-train-security-next-generation)
 - [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
-- [High-Severity Cloud Security Alerts Tripled in 2024](https://www.darkreading.com/cyber-risk/high-severity-cloud-security-alerts-tripled-2024)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
