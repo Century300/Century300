@@ -81,9 +81,9 @@
 - [How CISA Cuts Impact Election Security](https://www.darkreading.com/cyber-risk/how-cisa-cuts-impact-election-security)
 - [OpenAI Bumps Up Bug Bounty Reward to $100K in Security Update](https://www.darkreading.com/cybersecurity-operations/openai-bug-bounty-reward-100k)
 - [DoJ Recovers $5M Lost in BEC Fraud Against Workers&#39; Union](https://www.darkreading.com/cyberattacks-data-breaches/doj-secures-5m-bec-fraud-workers-union)
+- [Student-Powered SOCs Train Security&#39;s Next Generation](https://www.darkreading.com/cybersecurity-operations/student-powered-socs-train-security-next-generation)
 - [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
 - [High-Severity Cloud Security Alerts Tripled in 2024](https://www.darkreading.com/cyber-risk/high-severity-cloud-security-alerts-tripled-2024)
-- [Security Expert Troy Hunt Lured in by Mailchimp Phish](https://www.darkreading.com/cyberattacks-data-breaches/security-expert-troy-hunt-lured-mailchimp-phish)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
