@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iran&#39;s MOIS-Linked APT34 Spies on Allies Iraq &amp;amp; Yemen](https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen)
 - [Hoff&#39;s Rule: People First](https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first)
 - [How CISA Cuts Impact Election Security](https://www.darkreading.com/cyber-risk/how-cisa-cuts-impact-election-security)
 - [OpenAI Bumps Up Bug Bounty Reward to $100K in Security Update](https://www.darkreading.com/cybersecurity-operations/openai-bug-bounty-reward-100k)
@@ -83,7 +84,6 @@
 - [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
 - [High-Severity Cloud Security Alerts Tripled in 2024](https://www.darkreading.com/cyber-risk/high-severity-cloud-security-alerts-tripled-2024)
 - [Security Expert Troy Hunt Lured in by Mailchimp Phish](https://www.darkreading.com/cyberattacks-data-breaches/security-expert-troy-hunt-lured-mailchimp-phish)
-- [Cybersecurity Gaps Leave Doors Wide Open](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-gaps-leave-doors-wide-open)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
