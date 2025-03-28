@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Harmonic Security Raises $17.5M Series A to Accelerate Zero-Touch Data Protection to Market](https://www.darkreading.com/cybersecurity-operations/harmonic-security-raises-17-5m-zero-touch-data-protection)
+- [Traditional Data Loss Prevention Solutions Are Not Working for Most Organizations](https://www.darkreading.com/cyberattacks-data-breaches/traditional-data-loss-prevention-solutions-not-working-organizations)
+- [SecurityScorecard 2025 Global Third-Party Breach Report Reveals Surge in Vendor-Driven Attacks](https://www.darkreading.com/cyberattacks-data-breaches/securityscorecard-2025-report-surge-vendor-driven-attacks)
+- [Malaysia PM Refuses to Pay $10M Ransomware Demand](https://www.darkreading.com/cyberattacks-data-breaches/malaysia-refuses-10m-ransom-airport-cyber-breach)
+- [Concord Orthopaedic Notifies Individuals of Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/concord-orthopaedic-notifies-individuals-security-incident)
 - [Navigating Cyber-Risks and New Defenses](https://www.darkreading.com/vulnerabilities-threats/navigating-cyber-risks-new-defenses)
 - [Iran&#39;s MOIS-Linked APT34 Spies on Allies Iraq &amp;amp; Yemen](https://www.darkreading.com/cyberattacks-data-breaches/irans-mois-linked-apt34-spies-allies-iraq-yemen)
 - [Hoff&#39;s Rule: People First](https://www.darkreading.com/cyberattacks-data-breaches/dark-reading-confidential-hoff-rule-people-first)
-- [How CISA Cuts Impact Election Security](https://www.darkreading.com/cyber-risk/how-cisa-cuts-impact-election-security)
-- [OpenAI Bumps Up Bug Bounty Reward to $100K in Security Update](https://www.darkreading.com/cybersecurity-operations/openai-bug-bounty-reward-100k)
-- [DoJ Recovers $5M Lost in BEC Fraud Against Workers&#39; Union](https://www.darkreading.com/cyberattacks-data-breaches/doj-secures-5m-bec-fraud-workers-union)
-- [Student-Powered SOCs Train Security&#39;s Next Generation](https://www.darkreading.com/cybersecurity-operations/student-powered-socs-train-security-next-generation)
-- [Fake DeepSeek Ads Spread Malware to Google Users](https://www.darkreading.com/vulnerabilities-threats/fake-deepseek-ads-spread-malware-google)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
