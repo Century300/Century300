@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qakbot Resurfaces in Fresh Wave of ClickFix Attacks](https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks)
 - [GSA Plans FedRAMP Revamp](https://www.darkreading.com/cloud-security/gsa-plans-fedramp-revamp)
 - [Evilginx Tool &lpar;Still&rpar; Bypasses MFA](https://www.darkreading.com/endpoint-security/evilginx-bypasses-mfa)
 - [Oracle Still Denies Breach as Researchers Persist](https://www.darkreading.com/cyberattacks-data-breaches/oracle-still-denies-breach-researchers-persist)
@@ -83,7 +84,6 @@
 - [Traditional Data Loss Prevention Solutions Are Not Working for Most Organizations](https://www.darkreading.com/cyberattacks-data-breaches/traditional-data-loss-prevention-solutions-not-working-organizations)
 - [SecurityScorecard 2025 Global Third-Party Breach Report Reveals Surge in Vendor-Driven Attacks](https://www.darkreading.com/cyberattacks-data-breaches/securityscorecard-2025-report-surge-vendor-driven-attacks)
 - [Malaysia PM Refuses to Pay $10M Ransomware Demand](https://www.darkreading.com/cyberattacks-data-breaches/malaysia-refuses-10m-ransom-airport-cyber-breach)
-- [Concord Orthopaedic Notifies Individuals of Security Incident](https://www.darkreading.com/cyberattacks-data-breaches/concord-orthopaedic-notifies-individuals-security-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
