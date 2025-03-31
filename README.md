@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Warns of Resurge Malware Connected to Ivanti Vuln](https://www.darkreading.com/cyberattacks-data-breaches/cisa-warns-resurge-malware-ivanti-vuln)
 - [Bridging the Gap Between the CISO &amp;amp; the Board of Directors](https://www.darkreading.com/cybersecurity-operations/bridging-gap-between-ciso-board)
 - [Qakbot Resurfaces in Fresh Wave of ClickFix Attacks](https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks)
 - [GSA Plans FedRAMP Revamp](https://www.darkreading.com/cloud-security/gsa-plans-fedramp-revamp)
@@ -83,7 +84,6 @@
 - [Oracle Still Denies Breach as Researchers Persist](https://www.darkreading.com/cyberattacks-data-breaches/oracle-still-denies-breach-researchers-persist)
 - [Harmonic Security Raises $17.5M Series A to Accelerate Zero-Touch Data Protection to Market](https://www.darkreading.com/cybersecurity-operations/harmonic-security-raises-17-5m-zero-touch-data-protection)
 - [Traditional Data Loss Prevention Solutions Are Not Working for Most Organizations](https://www.darkreading.com/cyberattacks-data-breaches/traditional-data-loss-prevention-solutions-not-working-organizations)
-- [SecurityScorecard 2025 Global Third-Party Breach Report Reveals Surge in Vendor-Driven Attacks](https://www.darkreading.com/cyberattacks-data-breaches/securityscorecard-2025-report-surge-vendor-driven-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
