@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [DoJ Seizes Over $8M from Sprawling Pig Butchering Scheme](https://www.darkreading.com/cyber-risk/doj-seizes-8m-pig-butchering-scheme)
+- [Oracle Cloud Users Urged to Take Action](https://www.darkreading.com/application-security/oracle-cloud-users-urged-take-action)
+- [CoffeeLoader Malware Is Stacked With Vicious Evasion Tricks](https://www.darkreading.com/threat-intelligence/coffeeloader-malware-evasion-tricks)
+- [DoJ Seizes Over $8M From Sprawling Pig Butchering Scheme](https://www.darkreading.com/cyber-risk/doj-seizes-8m-pig-butchering-scheme)
 - [CISA Warns of Resurge Malware Connected to Ivanti Vuln](https://www.darkreading.com/cyberattacks-data-breaches/cisa-warns-resurge-malware-ivanti-vuln)
 - [Bridging the Gap Between the CISO &amp;amp; the Board of Directors](https://www.darkreading.com/cybersecurity-operations/bridging-gap-between-ciso-board)
 - [Qakbot Resurfaces in Fresh Wave of ClickFix Attacks](https://www.darkreading.com/endpoint-security/qakbot-resurfaces-fresh-wave-clickfix-attacks)
 - [GSA Plans FedRAMP Revamp](https://www.darkreading.com/cloud-security/gsa-plans-fedramp-revamp)
 - [Evilginx Tool &lpar;Still&rpar; Bypasses MFA](https://www.darkreading.com/endpoint-security/evilginx-bypasses-mfa)
-- [Oracle Still Denies Breach as Researchers Persist](https://www.darkreading.com/cyberattacks-data-breaches/oracle-still-denies-breach-researchers-persist)
-- [Harmonic Security Raises $17.5M Series A to Accelerate Zero-Touch Data Protection to Market](https://www.darkreading.com/cybersecurity-operations/harmonic-security-raises-17-5m-zero-touch-data-protection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
