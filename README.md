@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Surge in Scans on PAN GlobalProtect VPNs Hints at Attacks](https://www.darkreading.com/perimeter/scans-pan-globalprotect-vpns-attacks)
 - [As CISA Downsizes, Where Can Enterprises Get Support?](https://www.darkreading.com/cybersecurity-operations/roundtable-cisa-downsizes-where-can-enterprises-look-support)
 - [Japan Bolsters Cybersecurity Safeguards With Cyber Defense Bill](https://www.darkreading.com/cybersecurity-operations/japan-passes-cyber-defense-bill)
 - [Check Point Disputes Hacker&#39;s Breach Claims](https://www.darkreading.com/cyberattacks-data-breaches/check-point-hacker-breach-claims)
@@ -83,7 +84,6 @@
 - [Google &#39;ImageRunner&#39; Bug Enabled Privilege Escalation](https://www.darkreading.com/cloud-security/google-imagerunner-bug-enabled-privilege-escalation)
 - [Lazarus APT Jumps on ClickFix Bandwagon in Recent Attacks](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-apt-clickfix-bandwagon-attacks)
 - [Oracle Cloud Users Urged to Take Action](https://www.darkreading.com/application-security/oracle-cloud-users-urged-take-action)
-- [CoffeeLoader Malware Is Stacked With Vicious Evasion Tricks](https://www.darkreading.com/threat-intelligence/coffeeloader-malware-evasion-tricks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
