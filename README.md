@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Japan Bolsters Cybersecurity Safeguards With Cyber Defense Bill](https://www.darkreading.com/cybersecurity-operations/japan-passes-cyber-defense-bill)
 - [FDA&#39;s Critical Role in Keeping Medical Devices Secure](https://www.darkreading.com/vulnerabilities-threats/fdas-critical-role-keeping-medical-devices-secure)
 - [Google &#39;ImageRunner&#39; Bug Enabled Privilege Escalation](https://www.darkreading.com/cloud-security/google-imagerunner-bug-enabled-privilege-escalation)
 - [Lazarus APT Jumps on ClickFix Bandwagon in Recent Attacks](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-apt-clickfix-bandwagon-attacks)
@@ -83,7 +84,6 @@
 - [CoffeeLoader Malware Is Stacked With Vicious Evasion Tricks](https://www.darkreading.com/threat-intelligence/coffeeloader-malware-evasion-tricks)
 - [Top 10 Most-Used RDP Passwords Are Not Complex Enough](https://www.darkreading.com/endpoint-security/top-10-rdp-passwords-not-complex)
 - [DoJ Seizes Over $8M From Sprawling Pig Butchering Scheme](https://www.darkreading.com/cyber-risk/doj-seizes-8m-pig-butchering-scheme)
-- [CISA Warns of Resurge Malware Connected to Ivanti Vuln](https://www.darkreading.com/cyberattacks-data-breaches/cisa-warns-resurge-malware-ivanti-vuln)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
