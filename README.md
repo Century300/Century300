@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As CISA Downsizes, Where Can Enterprises Get Support?](https://www.darkreading.com/cybersecurity-operations/roundtable-cisa-downsizes-where-can-enterprises-look-support)
 - [Japan Bolsters Cybersecurity Safeguards With Cyber Defense Bill](https://www.darkreading.com/cybersecurity-operations/japan-passes-cyber-defense-bill)
 - [Check Point Disputes Hacker&#39;s Breach Claims](https://www.darkreading.com/cyberattacks-data-breaches/check-point-hacker-breach-claims)
 - [FDA&#39;s Critical Role in Keeping Medical Devices Secure](https://www.darkreading.com/vulnerabilities-threats/fdas-critical-role-keeping-medical-devices-secure)
@@ -83,7 +84,6 @@
 - [Lazarus APT Jumps on ClickFix Bandwagon in Recent Attacks](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-apt-clickfix-bandwagon-attacks)
 - [Oracle Cloud Users Urged to Take Action](https://www.darkreading.com/application-security/oracle-cloud-users-urged-take-action)
 - [CoffeeLoader Malware Is Stacked With Vicious Evasion Tricks](https://www.darkreading.com/threat-intelligence/coffeeloader-malware-evasion-tricks)
-- [Top 10 Most-Used RDP Passwords Are Not Complex Enough](https://www.darkreading.com/endpoint-security/top-10-rdp-passwords-not-complex)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
