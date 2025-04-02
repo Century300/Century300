@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DPRK &#39;IT Workers&#39; Pivot to Europe for Employment Scams](https://www.darkreading.com/threat-intelligence/dprk-it-workers-europe-employment)
+- [In Salt Typhoon&#39;s Wake, Congress Mulls Potential Options](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoons-wake-congress-potential-options)
 - [How an Interdiction Mindset Can Help Win War on Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/how-interdiction-mindset-cyberattacks)
 - [Gootloader Malware Resurfaces in Google Ads for Legal Docs](https://www.darkreading.com/cyberattacks-data-breaches/gootloader-malware-google-ads-legal-docs)
 - [Malaysian Airport&#39;s Cyber Disruption a Warning for Asia](https://www.darkreading.com/cyberattacks-data-breaches/malaysian-airport-cyber-disruption-warning-asia)
 - [Google Brings End-to-End Encryption to Gmail](https://www.darkreading.com/data-privacy/google-end-to-end-encryption-gmail)
 - [Visibility, Monitoring Key to Enterprise Endpoint Strategy](https://www.darkreading.com/endpoint-security/visibility-monitoring-key-to-enterprise-endpoint-strategy)
 - [Surge in Scans on PAN GlobalProtect VPNs Hints at Attacks](https://www.darkreading.com/perimeter/scans-pan-globalprotect-vpns-attacks)
-- [As CISA Downsizes, Where Can Enterprises Get Support?](https://www.darkreading.com/cybersecurity-operations/roundtable-cisa-downsizes-where-can-enterprises-look-support)
-- [Japan Bolsters Cybersecurity Safeguards With Cyber Defense Bill](https://www.darkreading.com/cybersecurity-operations/japan-passes-cyber-defense-bill)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
