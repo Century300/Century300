@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Google Brings End-to-End Encryption to Gmail](https://www.darkreading.com/data-privacy/google-end-to-end-encryption-gmail)
 - [Surge in Scans on PAN GlobalProtect VPNs Hints at Attacks](https://www.darkreading.com/perimeter/scans-pan-globalprotect-vpns-attacks)
 - [As CISA Downsizes, Where Can Enterprises Get Support?](https://www.darkreading.com/cybersecurity-operations/roundtable-cisa-downsizes-where-can-enterprises-look-support)
 - [Japan Bolsters Cybersecurity Safeguards With Cyber Defense Bill](https://www.darkreading.com/cybersecurity-operations/japan-passes-cyber-defense-bill)
@@ -83,7 +84,6 @@
 - [FDA&#39;s Critical Role in Keeping Medical Devices Secure](https://www.darkreading.com/vulnerabilities-threats/fdas-critical-role-keeping-medical-devices-secure)
 - [Google &#39;ImageRunner&#39; Bug Enabled Privilege Escalation](https://www.darkreading.com/cloud-security/google-imagerunner-bug-enabled-privilege-escalation)
 - [Lazarus APT Jumps on ClickFix Bandwagon in Recent Attacks](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-apt-clickfix-bandwagon-attacks)
-- [Oracle Cloud Users Urged to Take Action](https://www.darkreading.com/application-security/oracle-cloud-users-urged-take-action)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
