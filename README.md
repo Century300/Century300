@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Runtime Ventures Launches New Fund for Seed, Pre-Seed Startups](https://www.darkreading.com/endpoint-security/runtime-ventures-launches-new-fund-for-seed-pre-seed-startups)
 - [Social Engineering Just Got Smarter](https://www.darkreading.com/vulnerabilities-threats/social-engineering-smarter)
 - [Emerging Risks Require IT/OT Collaboration to Secure Physical Systems](https://www.darkreading.com/ics-ot-security/experts-discuss-current-and-emerging-ics-security-risks)
 - [Google Quick Share Bug Bypasses Allow Zero-Click File Transfer](https://www.darkreading.com/application-security/google-quick-share-bug-bypasses-zero-click-file-transfer)
@@ -83,7 +84,6 @@
 - [DPRK &#39;IT Workers&#39; Pivot to Europe for Employment Scams](https://www.darkreading.com/threat-intelligence/dprk-it-workers-europe-employment)
 - [SolarWinds Adds Incident Management Tool From Squadcast](https://www.darkreading.com/cyberattacks-data-breaches/solarwinds-adds-incident-management-tool-from-squadcast)
 - [In Salt Typhoon&#39;s Wake, Congress Mulls Potential Options](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoons-wake-congress-potential-options)
-- [New PCI DSS Rules Say Merchants on Hook for Compliance, Not Providers](https://www.darkreading.com/cyber-risk/new-pci-dss-rules-merchants-on-hook-compliance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
