@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Minnesota Tribe Struggles After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/minnesota-tribe-operations-ransomware-attack)
 - [Medusa Rides Momentum From Ransomware-as-a-Service Pivot](https://www.darkreading.com/threat-intelligence/medusa-momentum-ransomware-as-a-service-pivot)
 - [CISA Layoffs Are a Momentary Disruption, Not a Threat](https://www.darkreading.com/vulnerabilities-threats/cisa-layoffs-momentary-disruption-not-threat)
 - [Secure Communications Evolve Beyond End-to-End Encryption](https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption)
@@ -83,7 +84,6 @@
 - [Microsoft Boosts Email Sender Rules for Outlook](https://www.darkreading.com/cloud-security/microsoft-boosts-email-sender-rules-outlook)
 - [China-Linked Threat Group Exploits Ivanti Bug](https://www.darkreading.com/vulnerabilities-threats/china-linked-threat-group-exploits-ivanti-bug)
 - [Disclosure Drama Clouds CrushFTP Vulnerability Exploitation](https://www.darkreading.com/vulnerabilities-threats/disclosure-drama-clouds-crushftp-vulnerability-exploitation)
-- [Counterfeit Phones Carrying Hidden Revamped Triada Malware](https://www.darkreading.com/endpoint-security/counterfeit-phones-infected-triada-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
