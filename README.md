@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Secure Communications Evolve Beyond End-to-End Encryption](https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption)
 - [China-Linked Threat Group Exploits Ivanti Bug](https://www.darkreading.com/vulnerabilities-threats/china-linked-threat-group-exploits-ivanti-bug)
 - [Disclosure Drama Clouds CrushFTP Vulnerability Exploitation](https://www.darkreading.com/vulnerabilities-threats/disclosure-drama-clouds-crushftp-vulnerability-exploitation)
 - [Counterfeit Phones Carrying Hidden Revamped Triada Malware](https://www.darkreading.com/endpoint-security/counterfeit-phones-infected-triada-malware)
@@ -83,7 +84,6 @@
 - [Social Engineering Just Got Smarter](https://www.darkreading.com/vulnerabilities-threats/social-engineering-smarter)
 - [Emerging Risks Require IT/OT Collaboration to Secure Physical Systems](https://www.darkreading.com/ics-ot-security/experts-discuss-current-and-emerging-ics-security-risks)
 - [Google Quick Share Bug Bypasses Allow Zero-Click File Transfer](https://www.darkreading.com/application-security/google-quick-share-bug-bypasses-zero-click-file-transfer)
-- [Israel Enters &#39;Stage 3&#39; of Cyber Wars With Iran Proxies](https://www.darkreading.com/threat-intelligence/israel-stage-3-cyber-wars-with-iran-proxies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
