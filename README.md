@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gmail Is Not a Secure Way to Send Sensitive Comms: A Friendly Reminder](https://www.darkreading.com/application-security/gmail-not-secure-way-send-sensitive-comms)
+- [RSAC Unveils Keynote Speaker Slate for RSAC &lpar;TM&rpar; 2025 Conference](https://www.darkreading.com/cybersecurity-operations/rsac-unveils-keynote-speaker-slate)
+- [CISA Warns: Old DNS Trick &#39;Fast Flux&#39; Is Still Thriving](https://www.darkreading.com/cyber-risk/cisa-dns-trick-fast-flux-thriving)
 - [Minnesota Tribe Struggles After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/minnesota-tribe-operations-ransomware-attack)
 - [Medusa Rides Momentum From Ransomware-as-a-Service Pivot](https://www.darkreading.com/threat-intelligence/medusa-momentum-ransomware-as-a-service-pivot)
 - [CISA Layoffs Are a Momentary Disruption, Not a Threat](https://www.darkreading.com/vulnerabilities-threats/cisa-layoffs-momentary-disruption-not-threat)
 - [Secure Communications Evolve Beyond End-to-End Encryption](https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption)
 - [Rafts of Security Bugs Could Rain Out Solar Grids](https://www.darkreading.com/vulnerabilities-threats/security-bugs-could-rain-out-solar-grids)
-- [Microsoft Boosts Email Sender Rules for Outlook](https://www.darkreading.com/cloud-security/microsoft-boosts-email-sender-rules-outlook)
-- [China-Linked Threat Group Exploits Ivanti Bug](https://www.darkreading.com/vulnerabilities-threats/china-linked-threat-group-exploits-ivanti-bug)
-- [Disclosure Drama Clouds CrushFTP Vulnerability Exploitation](https://www.darkreading.com/vulnerabilities-threats/disclosure-drama-clouds-crushftp-vulnerability-exploitation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
