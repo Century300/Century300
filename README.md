@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider&#39;s &#39;King Bob&#39; Pleads Guilty to Cyber Charges](https://www.darkreading.com/vulnerabilities-threats/scattered-spider-king-bob-pleads-guilty-charges)
 - [Autonomous, GenAI-Driven Attacker Platform Enters the Chat](https://www.darkreading.com/threat-intelligence/autonomous-genai-attacker-platform-chat)
 - [Intergenerational Mentoring: Key to Cybersecurity&#39;s AI Future](https://www.darkreading.com/cybersecurity-operations/intergenerational-mentoring-key-cybersecuritys-ai-future)
 - [Gmail Is Not a Secure Way to Send Sensitive Comms: A Friendly Reminder](https://www.darkreading.com/application-security/gmail-not-secure-way-send-sensitive-comms)
@@ -83,7 +84,6 @@
 - [CISA Warns: Old DNS Trick &#39;Fast Flux&#39; Is Still Thriving](https://www.darkreading.com/cyber-risk/cisa-dns-trick-fast-flux-thriving)
 - [Minnesota Tribe Struggles After Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/minnesota-tribe-operations-ransomware-attack)
 - [Medusa Rides Momentum From Ransomware-as-a-Service Pivot](https://www.darkreading.com/threat-intelligence/medusa-momentum-ransomware-as-a-service-pivot)
-- [CISA Layoffs Are a Momentary Disruption, Not a Threat](https://www.darkreading.com/vulnerabilities-threats/cisa-layoffs-momentary-disruption-not-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
