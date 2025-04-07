@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Intergenerational Mentoring: Key to Cybersecurity&#39;s AI Future](https://www.darkreading.com/cybersecurity-operations/intergenerational-mentoring-key-cybersecuritys-ai-future)
 - [Gmail Is Not a Secure Way to Send Sensitive Comms: A Friendly Reminder](https://www.darkreading.com/application-security/gmail-not-secure-way-send-sensitive-comms)
 - [RSAC Unveils Keynote Speaker Slate for RSAC &lpar;TM&rpar; 2025 Conference](https://www.darkreading.com/cybersecurity-operations/rsac-unveils-keynote-speaker-slate)
 - [CISA Warns: Old DNS Trick &#39;Fast Flux&#39; Is Still Thriving](https://www.darkreading.com/cyber-risk/cisa-dns-trick-fast-flux-thriving)
@@ -83,7 +84,6 @@
 - [Medusa Rides Momentum From Ransomware-as-a-Service Pivot](https://www.darkreading.com/threat-intelligence/medusa-momentum-ransomware-as-a-service-pivot)
 - [CISA Layoffs Are a Momentary Disruption, Not a Threat](https://www.darkreading.com/vulnerabilities-threats/cisa-layoffs-momentary-disruption-not-threat)
 - [Secure Communications Evolve Beyond End-to-End Encryption](https://www.darkreading.com/cybersecurity-operations/secure-communications-evolve-beyond-end-to-end-encryption)
-- [Rafts of Security Bugs Could Rain Out Solar Grids](https://www.darkreading.com/vulnerabilities-threats/security-bugs-could-rain-out-solar-grids)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
