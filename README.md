@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Drops Another Massive Patch Update](https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update)
 - [UK Orgs Pull Back Digital Projects With Looming Threat of Cyberwarfare](https://www.darkreading.com/threat-intelligence/uk-orgs-pull-back-digital-projects-cyberwarfare)
 - [2 Android Zero-Day Bugs Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/android-zero-day-bugs-active-exploit)
 - [Dangerous, Windows-Hijacking Neptune RAT Scurries Into Telegram, YouTube](https://www.darkreading.com/cloud-security/windows-hijacking-neptune-rat-telegram-youtube)
@@ -83,7 +84,6 @@
 - [Experts Optimistic About Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
 - [Palo Alto Networks Begins Unified Security Rollout](https://www.darkreading.com/cloud-security/palo-alto-networks-begins-unified-security-rollout)
 - [ToddyCat APT Targets ESET Bug to Load Silent Malware](https://www.darkreading.com/vulnerabilities-threats/toddycat-apt-eset-bug-silent-malware)
-- [NIST to Implement &#39;Deferred&#39; Status to Dated Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-deferred-status-dated-vulnerabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
