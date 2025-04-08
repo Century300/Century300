@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [2 Android Zero-Day Bugs Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/android-zero-day-bugs-active-exploit)
 - [Dangerous, Windows-Hijacking Neptune RAT Scurries Into Telegram, YouTube](https://www.darkreading.com/cloud-security/windows-hijacking-neptune-rat-telegram-youtube)
 - [How Democratized Development Creates a Security Nightmare](https://www.darkreading.com/cyber-risk/democratized-development-security-nightmare)
 - [Experts Optimistic About Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
@@ -83,7 +84,6 @@
 - [ToddyCat APT Targets ESET Bug to Load Silent Malware](https://www.darkreading.com/vulnerabilities-threats/toddycat-apt-eset-bug-silent-malware)
 - [NIST to Implement &#39;Deferred&#39; Status to Dated Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-deferred-status-dated-vulnerabilities)
 - [Scattered Spider&#39;s &#39;King Bob&#39; Pleads Guilty to Cyber Charges](https://www.darkreading.com/vulnerabilities-threats/scattered-spider-king-bob-pleads-guilty-charges)
-- [Autonomous, GenAI-Driven Attacker Platform Enters the Chat](https://www.darkreading.com/threat-intelligence/autonomous-genai-attacker-platform-chat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
