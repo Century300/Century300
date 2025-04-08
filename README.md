@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Experts Optimistic about Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
+- [Palo Alto Networks Begins Unified Security Rollout](https://www.darkreading.com/cloud-security/palo-alto-networks-begins-unified-security-rollout)
 - [ToddyCat APT Targets ESET Bug to Load Silent Malware](https://www.darkreading.com/vulnerabilities-threats/toddycat-apt-eset-bug-silent-malware)
 - [NIST to Implement &#39;Deferred&#39; Status to Dated Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-deferred-status-dated-vulnerabilities)
 - [Scattered Spider&#39;s &#39;King Bob&#39; Pleads Guilty to Cyber Charges](https://www.darkreading.com/vulnerabilities-threats/scattered-spider-king-bob-pleads-guilty-charges)
 - [Autonomous, GenAI-Driven Attacker Platform Enters the Chat](https://www.darkreading.com/threat-intelligence/autonomous-genai-attacker-platform-chat)
 - [Intergenerational Mentoring: Key to Cybersecurity&#39;s AI Future](https://www.darkreading.com/cybersecurity-operations/intergenerational-mentoring-key-cybersecuritys-ai-future)
 - [Gmail Is Not a Secure Way to Send Sensitive Comms: A Friendly Reminder](https://www.darkreading.com/application-security/gmail-not-secure-way-send-sensitive-comms)
-- [RSAC Unveils Keynote Speaker Slate for RSAC &lpar;TM&rpar; 2025 Conference](https://www.darkreading.com/cybersecurity-operations/rsac-unveils-keynote-speaker-slate)
-- [CISA Warns: Old DNS Trick &#39;Fast Flux&#39; Is Still Thriving](https://www.darkreading.com/cyber-risk/cisa-dns-trick-fast-flux-thriving)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
