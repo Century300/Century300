@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Experts Optimistic about Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
+- [Experts Optimistic About Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
 - [Palo Alto Networks Begins Unified Security Rollout](https://www.darkreading.com/cloud-security/palo-alto-networks-begins-unified-security-rollout)
 - [ToddyCat APT Targets ESET Bug to Load Silent Malware](https://www.darkreading.com/vulnerabilities-threats/toddycat-apt-eset-bug-silent-malware)
 - [NIST to Implement &#39;Deferred&#39; Status to Dated Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/nist-deferred-status-dated-vulnerabilities)
