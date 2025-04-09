@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Using Post-Quantum Planning to Improve Security Hygiene](https://www.darkreading.com/vulnerabilities-threats/post-quantum-planning-security-hygiene)
 - [Microsoft Drops Another Massive Patch Update](https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update)
 - [Industry Asks for Clarity on Proposed HIPAA Cybersecurity Rules](https://www.darkreading.com/cyber-risk/industry-asks-clarity-proposed-hipaa-rules)
 - [Aurascape Brings Visibility, Security Controls to Manage AI Applications](https://www.darkreading.com/cyber-risk/aurascape-brings-visibility-security-controls-ai-applications)
@@ -83,7 +84,6 @@
 - [2 Android Zero-Day Bugs Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/android-zero-day-bugs-active-exploit)
 - [Dangerous, Windows-Hijacking Neptune RAT Scurries Into Telegram, YouTube](https://www.darkreading.com/cloud-security/windows-hijacking-neptune-rat-telegram-youtube)
 - [How Democratized Development Creates a Security Nightmare](https://www.darkreading.com/cyber-risk/democratized-development-security-nightmare)
-- [Experts Optimistic About Secure by Design Progress](https://www.darkreading.com/application-security/optimism-about-secure-by-design-progress)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
