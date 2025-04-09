@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Comptroller Cyber &#39;Incident&#39; Compromises Org&#39;s Emails](https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails)
+- [CrushFTP Exploitation Continues Amid Disclosure Dispute](https://www.darkreading.com/vulnerabilities-threats/crushftp-exploitation-disclosure-dispute)
 - [Tariffs May Prompt Increase in Global Cyberattacks](https://www.darkreading.com/cyber-risk/tariffs-increase-global-cyberattacks)
 - [Oracle Appears to Admit Breach of 2 &#39;Obsolete&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/oracle-breach-2-obsolete-servers)
 - [China-Linked Hackers Continue Harassing Ethnic Groups With Spyware](https://www.darkreading.com/vulnerabilities-threats/china-continues-harassing-ethnic-groups-spyware)
 - [Using Post-Quantum Planning to Improve Security Hygiene](https://www.darkreading.com/vulnerabilities-threats/post-quantum-planning-security-hygiene)
 - [Microsoft Drops Another Massive Patch Update](https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update)
 - [Industry Asks for Clarity on Proposed HIPAA Cybersecurity Rules](https://www.darkreading.com/cyber-risk/industry-asks-clarity-proposed-hipaa-rules)
-- [Aurascape Brings Visibility, Security Controls to Manage AI Applications](https://www.darkreading.com/cyber-risk/aurascape-brings-visibility-security-controls-ai-applications)
-- [UK Orgs Pull Back Digital Projects With Looming Threat of Cyberwarfare](https://www.darkreading.com/threat-intelligence/uk-orgs-pull-back-digital-projects-cyberwarfare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
