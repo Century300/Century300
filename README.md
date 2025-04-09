@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Linked Hackers Continue Harassing Ethnic Groups With Spyware](https://www.darkreading.com/vulnerabilities-threats/china-continues-harassing-ethnic-groups-spyware)
 - [Using Post-Quantum Planning to Improve Security Hygiene](https://www.darkreading.com/vulnerabilities-threats/post-quantum-planning-security-hygiene)
 - [Microsoft Drops Another Massive Patch Update](https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update)
 - [Industry Asks for Clarity on Proposed HIPAA Cybersecurity Rules](https://www.darkreading.com/cyber-risk/industry-asks-clarity-proposed-hipaa-rules)
@@ -83,7 +84,6 @@
 - [UK Orgs Pull Back Digital Projects With Looming Threat of Cyberwarfare](https://www.darkreading.com/threat-intelligence/uk-orgs-pull-back-digital-projects-cyberwarfare)
 - [2 Android Zero-Day Bugs Under Active Exploit](https://www.darkreading.com/vulnerabilities-threats/android-zero-day-bugs-active-exploit)
 - [Dangerous, Windows-Hijacking Neptune RAT Scurries Into Telegram, YouTube](https://www.darkreading.com/cloud-security/windows-hijacking-neptune-rat-telegram-youtube)
-- [How Democratized Development Creates a Security Nightmare](https://www.darkreading.com/cyber-risk/democratized-development-security-nightmare)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
