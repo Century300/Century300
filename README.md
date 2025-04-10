@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actors Use &#39;Spam Bombing&#39; Technique to Hide Malicious Motives](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-spam-bombing-malicious-motives)
+- [Google Merges Security Offerings Into a Cohesive Suite](https://www.darkreading.com/cloud-security/google-merges-security-offerings-cohesive-suite)
+- [Advanced Preparation Was Key to a Secure Paris Olympics](https://www.darkreading.com/cybersecurity-operations/advanced-preparation-key-secure-paris-olympics)
 - [US Comptroller Cyber &#39;Incident&#39; Compromises Org&#39;s Emails](https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails)
 - [CrushFTP Exploitation Continues Amid Disclosure Dispute](https://www.darkreading.com/vulnerabilities-threats/crushftp-exploitation-disclosure-dispute)
 - [Tariffs May Prompt Increase in Global Cyberattacks](https://www.darkreading.com/cyber-risk/tariffs-increase-global-cyberattacks)
 - [Oracle Appears to Admit Breach of 2 &#39;Obsolete&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/oracle-breach-2-obsolete-servers)
 - [China-Linked Hackers Continue Harassing Ethnic Groups With Spyware](https://www.darkreading.com/vulnerabilities-threats/china-continues-harassing-ethnic-groups-spyware)
-- [Using Post-Quantum Planning to Improve Security Hygiene](https://www.darkreading.com/vulnerabilities-threats/post-quantum-planning-security-hygiene)
-- [Microsoft Drops Another Massive Patch Update](https://www.darkreading.com/application-security/microsoft-drops-another-massive-patch-update)
-- [Industry Asks for Clarity on Proposed HIPAA Cybersecurity Rules](https://www.darkreading.com/cyber-risk/industry-asks-clarity-proposed-hipaa-rules)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
