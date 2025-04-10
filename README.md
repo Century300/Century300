@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Open Source Poisoned Patches Infect Local Software](https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software)
 - [Why Data Privacy Isn&#39;t the Same as Data Security](https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security)
 - [Threat Actors Use &#39;Spam Bombing&#39; Technique to Hide Malicious Motives](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-spam-bombing-malicious-motives)
 - [Google Merges Security Offerings Into a Cohesive Suite](https://www.darkreading.com/cloud-security/google-merges-security-offerings-cohesive-suite)
@@ -83,7 +84,6 @@
 - [US Comptroller Cyber &#39;Incident&#39; Compromises Org&#39;s Emails](https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails)
 - [CrushFTP Exploitation Continues Amid Disclosure Dispute](https://www.darkreading.com/vulnerabilities-threats/crushftp-exploitation-disclosure-dispute)
 - [Tariffs May Prompt Increase in Global Cyberattacks](https://www.darkreading.com/cyber-risk/tariffs-increase-global-cyberattacks)
-- [Oracle Appears to Admit Breach of 2 &#39;Obsolete&#39; Servers](https://www.darkreading.com/cyberattacks-data-breaches/oracle-breach-2-obsolete-servers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
