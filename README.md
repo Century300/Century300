@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Zero-Day in CentreStack File Sharing Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack)
 - [AuthZEN Aims to Harmonize Fractured Authorization Controls](https://www.darkreading.com/cloud-security/authzen-aims-harmonize-fractured-authorization-controls)
 - [Ping Identity Doubles Down on Partner Strategy with New Partner Program and Advisory Board](https://www.darkreading.com/cybersecurity-operations/ping-identity-reveals-partner-program-and-advisory-board)
 - [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
@@ -83,7 +84,6 @@
 - [What Should the US Do About Salt Typhoon?](https://www.darkreading.com/cyberattacks-data-breaches/what-should-us-do-salt-typhoon)
 - [Open Source Poisoned Patches Infect Local Software](https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software)
 - [Why Data Privacy Isn&#39;t the Same as Data Security](https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security)
-- [Threat Actors Use &#39;Spam Bombing&#39; Technique to Hide Malicious Motives](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-spam-bombing-malicious-motives)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
