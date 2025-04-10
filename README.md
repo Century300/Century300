@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AuthZEN Aims to Harmonize Fractured Authorization Controls](https://www.darkreading.com/cloud-security/authzen-aims-harmonize-fractured-authorization-controls)
 - [Ping Identity Doubles Down on Partner Strategy with New Partner Program and Advisory Board](https://www.darkreading.com/cybersecurity-operations/ping-identity-reveals-partner-program-and-advisory-board)
 - [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
 - [Trump&#39;s DoJ Targets Krebs, Revokes SentinelOne Security Clearance](https://www.darkreading.com/threat-intelligence/trump-doj-krebs-revokes-sentinelone-security-clearance)
@@ -83,7 +84,6 @@
 - [Open Source Poisoned Patches Infect Local Software](https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software)
 - [Why Data Privacy Isn&#39;t the Same as Data Security](https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security)
 - [Threat Actors Use &#39;Spam Bombing&#39; Technique to Hide Malicious Motives](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-spam-bombing-malicious-motives)
-- [Google Merges Security Offerings Into a Cohesive Suite](https://www.darkreading.com/cloud-security/google-merges-security-offerings-cohesive-suite)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
