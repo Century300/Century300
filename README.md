@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ping Identity Doubles Down on Partner Strategy with New Partner Program and Advisory Board](https://www.darkreading.com/cybersecurity-operations/ping-identity-reveals-partner-program-and-advisory-board)
+- [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
+- [Trump&#39;s DoJ Targets Krebs, Revokes SentinelOne Security Clearance](https://www.darkreading.com/threat-intelligence/trump-doj-krebs-revokes-sentinelone-security-clearance)
+- [What Should the US Do About Salt Typhoon?](https://www.darkreading.com/cyberattacks-data-breaches/what-should-us-do-salt-typhoon)
 - [Open Source Poisoned Patches Infect Local Software](https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software)
 - [Why Data Privacy Isn&#39;t the Same as Data Security](https://www.darkreading.com/cyber-risk/data-privacy-versus-data-security)
 - [Threat Actors Use &#39;Spam Bombing&#39; Technique to Hide Malicious Motives](https://www.darkreading.com/cyberattacks-data-breaches/threat-actors-spam-bombing-malicious-motives)
 - [Google Merges Security Offerings Into a Cohesive Suite](https://www.darkreading.com/cloud-security/google-merges-security-offerings-cohesive-suite)
-- [Advanced Preparation Was Key to a Secure Paris Olympics](https://www.darkreading.com/cybersecurity-operations/advanced-preparation-key-secure-paris-olympics)
-- [US Comptroller Cyber &#39;Incident&#39; Compromises Org&#39;s Emails](https://www.darkreading.com/vulnerabilities-threats/occ-major-cyber-incident-executive-employee-emails)
-- [CrushFTP Exploitation Continues Amid Disclosure Dispute](https://www.darkreading.com/vulnerabilities-threats/crushftp-exploitation-disclosure-dispute)
-- [Tariffs May Prompt Increase in Global Cyberattacks](https://www.darkreading.com/cyber-risk/tariffs-increase-global-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
