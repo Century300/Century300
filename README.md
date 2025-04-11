@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Using Third-Party ID Providers Without Losing Zero Trust](https://www.darkreading.com/cyber-risk/using-third-party-id-providers-zero-trust)
 - [Organizations Lack Incident Response Plans, But Answers Are on the Way](https://www.darkreading.com/cyberattacks-data-breaches/shortcomings-improvements-incident-response-plans)
 - [11 Bugs Found in Perplexity AI&#39;s Chatbot Android App](https://www.darkreading.com/application-security/11-bugs-found-perplexity-chatbots-android-app)
 - [Zero-Day in CentreStack File-Sharing Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack)
@@ -83,7 +84,6 @@
 - [Ping Identity Doubles Down on Partner Strategy with New Partner Program and Advisory Board](https://www.darkreading.com/cybersecurity-operations/ping-identity-reveals-partner-program-and-advisory-board)
 - [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
 - [Trump&#39;s DoJ Targets Krebs, Revokes SentinelOne Security Clearance](https://www.darkreading.com/threat-intelligence/trump-doj-krebs-revokes-sentinelone-security-clearance)
-- [What Should the US Do About Salt Typhoon?](https://www.darkreading.com/cyberattacks-data-breaches/what-should-us-do-salt-typhoon)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
