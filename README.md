@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Organizations Lack Incident Response Plans, But Answers Are on the Way](https://www.darkreading.com/cyberattacks-data-breaches/shortcomings-improvements-incident-response-plans)
 - [11 Bugs Found in Perplexity AI&#39;s Chatbot Android App](https://www.darkreading.com/application-security/11-bugs-found-perplexity-chatbots-android-app)
 - [Zero-Day in CentreStack File-Sharing Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack)
 - [AuthZEN Aims to Harmonize Fractured Authorization Controls](https://www.darkreading.com/cloud-security/authzen-aims-harmonize-fractured-authorization-controls)
@@ -83,7 +84,6 @@
 - [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
 - [Trump&#39;s DoJ Targets Krebs, Revokes SentinelOne Security Clearance](https://www.darkreading.com/threat-intelligence/trump-doj-krebs-revokes-sentinelone-security-clearance)
 - [What Should the US Do About Salt Typhoon?](https://www.darkreading.com/cyberattacks-data-breaches/what-should-us-do-salt-typhoon)
-- [Open Source Poisoned Patches Infect Local Software](https://www.darkreading.com/cloud-security/open-source-poisoned-patches-infect-local-software)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
