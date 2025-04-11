@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Paper Werewolf Threat Actor Targets Flash Drives With New Malware](https://www.darkreading.com/threat-intelligence/paper-werewolf-targets-flash-drives-new-malware)
 - [Financial Fraud, With a Third-Party Twist, Dominates Cyber Claims](https://www.darkreading.com/threat-intelligence/financial-fraud-third-party-cyber-claims)
 - [Using Third-Party ID Providers Without Losing Zero Trust](https://www.darkreading.com/cyber-risk/using-third-party-id-providers-zero-trust)
 - [Organizations Lack Incident Response Plans, But Answers Are on the Way](https://www.darkreading.com/cyberattacks-data-breaches/shortcomings-improvements-incident-response-plans)
@@ -83,7 +84,6 @@
 - [Zero-Day in CentreStack File-Sharing Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack)
 - [AuthZEN Aims to Harmonize Fractured Authorization Controls](https://www.darkreading.com/cloud-security/authzen-aims-harmonize-fractured-authorization-controls)
 - [Ping Identity Doubles Down on Partner Strategy with New Partner Program and Advisory Board](https://www.darkreading.com/cybersecurity-operations/ping-identity-reveals-partner-program-and-advisory-board)
-- [Digital Asset Management Platform Liminal Raises $4.7M Funding Led by Elevation Capital](https://www.darkreading.com/cybersecurity-operations/liminal-raises-4m-funding)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
