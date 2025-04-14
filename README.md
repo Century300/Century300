@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortinet Zero-Day Bug May Lead to Arbitrary Code Execution](https://www.darkreading.com/vulnerabilities-threats/fortinet-zero-day-arbitrary-code-execution)
 - [Chinese APTs Exploit EDR &#39;Visibility Gap&#39; for Cyber Espionage](https://www.darkreading.com/threat-intelligence/chinese-apt-exploit-edr-visibility-gap-cyber-espionage)
 - [A New &#39;It RAT&#39;: Stealthy &#39;Resolver&#39; Malware Burrows In](https://www.darkreading.com/cloud-security/it-rat-stealthy-resolver-malware)
 - [7 RSAC 2025 Cloud Security Sessions You Don&#39;t Want to Miss](https://www.darkreading.com/cloud-security/7-rsac-2025-cloud-security-sessions)
@@ -83,7 +84,6 @@
 - [Morocco Investigates Social Security Agency Data Leak](https://www.darkreading.com/threat-intelligence/morocco-investigates-social-security-agency-data-leak)
 - [Pall Mall Process Progresses but Leads to More Questions](https://www.darkreading.com/cyberattacks-data-breaches/pall-mall)
 - [Paper Werewolf Threat Actor Targets Flash Drives With New Malware](https://www.darkreading.com/threat-intelligence/paper-werewolf-targets-flash-drives-new-malware)
-- [Financial Fraud, With a Third-Party Twist, Dominates Cyber Claims](https://www.darkreading.com/threat-intelligence/financial-fraud-third-party-cyber-claims)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
