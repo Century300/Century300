@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Morocco Investigates Social Security Agency Data Leak](https://www.darkreading.com/threat-intelligence/morocco-investigates-social-security-agency-data-leak)
 - [Pall Mall Process Progresses but Leads to More Questions](https://www.darkreading.com/cyberattacks-data-breaches/pall-mall)
 - [Paper Werewolf Threat Actor Targets Flash Drives With New Malware](https://www.darkreading.com/threat-intelligence/paper-werewolf-targets-flash-drives-new-malware)
 - [Financial Fraud, With a Third-Party Twist, Dominates Cyber Claims](https://www.darkreading.com/threat-intelligence/financial-fraud-third-party-cyber-claims)
@@ -83,7 +84,6 @@
 - [Organizations Lack Incident Response Plans, but Answers Are on the Way](https://www.darkreading.com/cyberattacks-data-breaches/shortcomings-improvements-incident-response-plans)
 - [10 Bugs Found in Perplexity AI&#39;s Chatbot Android App](https://www.darkreading.com/application-security/11-bugs-found-perplexity-chatbots-android-app)
 - [Zero-Day in CentreStack File-Sharing Platform Under Attack](https://www.darkreading.com/vulnerabilities-threats/zero-day-centrestack-platform-under-attack)
-- [AuthZEN Aims to Harmonize Fractured Authorization Controls](https://www.darkreading.com/cloud-security/authzen-aims-harmonize-fractured-authorization-controls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
