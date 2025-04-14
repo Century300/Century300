@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Intel Firm Offers Crypto in Exchange for Dark Web Accounts](https://www.darkreading.com/threat-intelligence/threat-intel-firm-crypto-dark-web-accounts)
 - [Fortinet Zero-Day Bug May Lead to Arbitrary Code Execution](https://www.darkreading.com/vulnerabilities-threats/fortinet-zero-day-arbitrary-code-execution)
 - [Chinese APTs Exploit EDR &#39;Visibility Gap&#39; for Cyber Espionage](https://www.darkreading.com/threat-intelligence/chinese-apt-exploit-edr-visibility-gap-cyber-espionage)
 - [A New &#39;It RAT&#39;: Stealthy &#39;Resolver&#39; Malware Burrows In](https://www.darkreading.com/cloud-security/it-rat-stealthy-resolver-malware)
@@ -83,7 +84,6 @@
 - [How DigitalOcean Moved Away From Manual Identity Management](https://www.darkreading.com/identity-access-management-security/how-digitalocean-moved-away-from-manual-identity-management)
 - [Morocco Investigates Social Security Agency Data Leak](https://www.darkreading.com/threat-intelligence/morocco-investigates-social-security-agency-data-leak)
 - [Pall Mall Process Progresses but Leads to More Questions](https://www.darkreading.com/cyberattacks-data-breaches/pall-mall)
-- [Paper Werewolf Threat Actor Targets Flash Drives With New Malware](https://www.darkreading.com/threat-intelligence/paper-werewolf-targets-flash-drives-new-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
