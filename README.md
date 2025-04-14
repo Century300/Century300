@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Code Tools Widely Hallucinate Packages](https://www.darkreading.com/application-security/ai-code-tools-widely-hallucinate-packages)
 - [Threat Intel Firm Offers Crypto in Exchange for Dark Web Accounts](https://www.darkreading.com/threat-intelligence/threat-intel-firm-crypto-dark-web-accounts)
 - [Fortinet Zero-Day Bug May Lead to Arbitrary Code Execution](https://www.darkreading.com/vulnerabilities-threats/fortinet-zero-day-arbitrary-code-execution)
 - [Chinese APTs Exploit EDR &#39;Visibility Gap&#39; for Cyber Espionage](https://www.darkreading.com/threat-intelligence/chinese-apt-exploit-edr-visibility-gap-cyber-espionage)
@@ -83,7 +84,6 @@
 - [7 RSAC 2025 Cloud Security Sessions You Don&#39;t Want to Miss](https://www.darkreading.com/cloud-security/7-rsac-2025-cloud-security-sessions)
 - [How DigitalOcean Moved Away From Manual Identity Management](https://www.darkreading.com/identity-access-management-security/how-digitalocean-moved-away-from-manual-identity-management)
 - [Morocco Investigates Social Security Agency Data Leak](https://www.darkreading.com/threat-intelligence/morocco-investigates-social-security-agency-data-leak)
-- [Pall Mall Process Progresses but Leads to More Questions](https://www.darkreading.com/cyberattacks-data-breaches/pall-mall)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
