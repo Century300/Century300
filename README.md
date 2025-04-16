@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: NVDIA Flaws Expose AI Models, Critical Infrastructure](https://www.darkreading.com/cloud-security/buggy-nvdia-patch-exposes-ai-models-critical-infrastructure)
 - [Cloud, Cryptography Flaws in Mobile Apps Leak Enterprise Data](https://www.darkreading.com/endpoint-security/cloud-cryptography-flaws-mobile-apps-expose-enterprise-data)
 - [Active Directory Recovery Can&#39;t Be an Afterthought](https://www.darkreading.com/vulnerabilities-threats/active-directory-recovery-afterthought)
 - [Accounting Firms Can&#39;t Skimp on Cybersecurity](https://www.darkreading.com/cloud-security/accounting-firms-cannot-skimp-cybersecurity)
@@ -83,7 +84,6 @@
 - [With AI&#39;s Help, Bad Bots Are Taking Over the Web](https://www.darkreading.com/vulnerabilities-threats/ai-bad-bots-are-taking-over-web)
 - [AI-Powered Presentation Tool Leveraged in Phishing Attacks](https://www.darkreading.com/threat-intelligence/ai-powered-presentation-tool-leveraged-phishing-attacks)
 - [Hertz Falls Victim to Cleo Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/hertz-falls-victim-cleo-zero-day-attacks)
-- [Wave of Wine-Inspired Phishing Attacks Targets EU Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/wine-inspired-phishing-eu-diplomats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
