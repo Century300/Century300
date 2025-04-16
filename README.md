@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Accounting Firms Can&#39;t Skimp on Cybersecurity](https://www.darkreading.com/cloud-security/accounting-firms-cannot-skimp-cybersecurity)
 - [Max Severity Bug in Apache Roller Enabled Persistent Access](https://www.darkreading.com/vulnerabilities-threats/max-severity-bug-apache-roller-persistent-access)
 - [With AI&#39;s Help, Bad Bots Are Taking Over the Web](https://www.darkreading.com/vulnerabilities-threats/ai-bad-bots-are-taking-over-web)
 - [AI-Powered Presentation Tool Leveraged in Phishing Attacks](https://www.darkreading.com/threat-intelligence/ai-powered-presentation-tool-leveraged-phishing-attacks)
@@ -83,7 +84,6 @@
 - [Wave of Wine-Inspired Phishing Attacks Targets EU Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/wine-inspired-phishing-eu-diplomats)
 - [China-Backed Threat Actor &#39;UNC5174&#39; Using Open Source Tools in Stealthy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-threat-actor-unc5174-open-source-stealthy-attacks)
 - [Are We Prioritizing the Wrong Security Metrics?](https://www.darkreading.com/cyber-risk/are-we-prioritizing-wrong-security-metrics)
-- [AI Code Tools Widely Hallucinate Packages](https://www.darkreading.com/application-security/ai-code-tools-widely-hallucinate-packages)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
