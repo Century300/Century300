@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Active Directory Recovery Can&#39;t Be an Afterthought](https://www.darkreading.com/vulnerabilities-threats/active-directory-recovery-afterthought)
 - [Accounting Firms Can&#39;t Skimp on Cybersecurity](https://www.darkreading.com/cloud-security/accounting-firms-cannot-skimp-cybersecurity)
 - [Max Severity Bug in Apache Roller Enabled Persistent Access](https://www.darkreading.com/vulnerabilities-threats/max-severity-bug-apache-roller-persistent-access)
 - [With AI&#39;s Help, Bad Bots Are Taking Over the Web](https://www.darkreading.com/vulnerabilities-threats/ai-bad-bots-are-taking-over-web)
@@ -83,7 +84,6 @@
 - [Hertz Falls Victim to Cleo Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/hertz-falls-victim-cleo-zero-day-attacks)
 - [Wave of Wine-Inspired Phishing Attacks Targets EU Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/wine-inspired-phishing-eu-diplomats)
 - [China-Backed Threat Actor &#39;UNC5174&#39; Using Open Source Tools in Stealthy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-threat-actor-unc5174-open-source-stealthy-attacks)
-- [Are We Prioritizing the Wrong Security Metrics?](https://www.darkreading.com/cyber-risk/are-we-prioritizing-wrong-security-metrics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
