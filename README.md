@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
-- [Dogged by Trump, Chris Krebs Resigns from SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
+- [Dogged by Trump, Chris Krebs Resigns From SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
 - [CVE Program Cuts Send the Cyber Sector Into Panic Mode](https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector)
 - [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
 - [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
