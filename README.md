@@ -82,8 +82,8 @@
 - [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
 - [Multiple Groups Exploit NTLM Flaw in Microsoft Windows](https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw)
 - [China-Linked Hackers Lay Brickstorm Backdoors on Euro Networks](https://www.darkreading.com/vulnerabilities-threats/china-linked-hackers-brickstorm-backdoors-european-networks)
+- [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
 - [Ransomware gang &#39;CrazyHunter&#39; Targets Critical Taiwanese Orgs](https://www.darkreading.com/threat-intelligence/ransomware-gang-crazyhunter-critical-taiwanese-orgs)
-- [NIST Updates Privacy Framework With AI and Governance Revisions](https://www.darkreading.com/data-privacy/nist-updates-privacy-framework-ai-governance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
