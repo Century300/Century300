@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
+- [Dogged by Trump, Chris Krebs Resigns from SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
 - [CVE Program Cuts Send the Cyber Sector Into Panic Mode](https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector)
 - [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
 - [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
 - [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
 - [Multiple Groups Exploit NTLM Flaw in Microsoft Windows](https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw)
 - [China-Linked Hackers Lay Brickstorm Backdoors on Euro Networks](https://www.darkreading.com/vulnerabilities-threats/china-linked-hackers-brickstorm-backdoors-european-networks)
-- [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
-- [Ransomware gang &#39;CrazyHunter&#39; Targets Critical Taiwanese Orgs](https://www.darkreading.com/threat-intelligence/ransomware-gang-crazyhunter-critical-taiwanese-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
