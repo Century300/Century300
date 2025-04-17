@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
 - [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
 - [Multiple Groups Exploit NTLM Flaw in Microsoft Windows](https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw)
 - [China-Linked Hackers Lay Brickstorm Backdoors on Euro Networks](https://www.darkreading.com/vulnerabilities-threats/china-linked-hackers-brickstorm-backdoors-european-networks)
@@ -83,7 +84,6 @@
 - [Patch Now: NVDIA Flaws Expose AI Models, Critical Infrastructure](https://www.darkreading.com/cloud-security/buggy-nvdia-patch-exposes-ai-models-critical-infrastructure)
 - [Cloud, Cryptography Flaws in Mobile Apps Leak Enterprise Data](https://www.darkreading.com/endpoint-security/cloud-cryptography-flaws-mobile-apps-expose-enterprise-data)
 - [Active Directory Recovery Can&#39;t Be an Afterthought](https://www.darkreading.com/vulnerabilities-threats/active-directory-recovery-afterthought)
-- [Accounting Firms Can&#39;t Skimp on Cybersecurity](https://www.darkreading.com/cloud-security/accounting-firms-cannot-skimp-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
