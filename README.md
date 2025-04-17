@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
 - [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
 - [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
 - [Multiple Groups Exploit NTLM Flaw in Microsoft Windows](https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw)
@@ -83,7 +84,6 @@
 - [Ransomware gang &#39;CrazyHunter&#39; Targets Critical Taiwanese Orgs](https://www.darkreading.com/threat-intelligence/ransomware-gang-crazyhunter-critical-taiwanese-orgs)
 - [NIST Updates Privacy Framework With AI and Governance Revisions](https://www.darkreading.com/data-privacy/nist-updates-privacy-framework-ai-governance)
 - [Patch Now: NVDIA Flaws Expose AI Models, Critical Infrastructure](https://www.darkreading.com/cloud-security/buggy-nvdia-patch-exposes-ai-models-critical-infrastructure)
-- [Cloud, Cryptography Flaws in Mobile Apps Leak Enterprise Data](https://www.darkreading.com/endpoint-security/cloud-cryptography-flaws-mobile-apps-expose-enterprise-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
