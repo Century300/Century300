@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [If Boards Don&#39;t Fix OT Security, Regulators Will](https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators)
 - [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
 - [Dogged by Trump, Chris Krebs Resigns From SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
 - [PromptArmor Launches to Help Assess, Monitor Third-Party AI Risks](https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk)
@@ -83,7 +84,6 @@
 - [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
 - [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
 - [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
-- [Multiple Groups Exploit NTLM Flaw in Microsoft Windows](https://www.darkreading.com/cyberattacks-data-breaches/multiple-group-exploiting-ntlm-flaw)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
