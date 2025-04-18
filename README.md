@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Weighs In on Alleged Oracle Cloud Breach](https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach)
 - [If Boards Don&#39;t Fix OT Security, Regulators Will](https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators)
 - [Apple Zero-Days Under &#39;Sophisticated Attack,&#39; but Details Lacking](https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks)
 - [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
@@ -83,7 +84,6 @@
 - [PromptArmor Launches to Help Assess, Monitor Third-Party AI Risks](https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk)
 - [CVE Program Cuts Send the Cyber Sector Into Panic Mode](https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector)
 - [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
-- [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
