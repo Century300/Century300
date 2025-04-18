@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Could Ransomware Survive Without Cryptocurrency?](https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency)
+- [AWWA Supports Introduction of Collaborative Cybersecurity Legislation](https://www.darkreading.com/ics-ot-security/awwa-introduction-cybersecurity-legislation)
+- [Organizations Fix Less Than Half of All Exploitable Vulnerabilities, With Just 21% of GenAI App Flaws Resolved](https://www.darkreading.com/application-security/organizations-fix-less-than-half-vulnerabilities)
 - [Attackers and Defenders Lean on AI in Identity Fraud Battle](https://www.darkreading.com/cyber-risk/fraudsters-increasingly-use-ai-companies-look-ai)
 - [Chinese APT Mustang Panda Debuts 4 New Attack Tools](https://www.darkreading.com/cloud-security/chinese-apt-mustang-panda-4-attack-tools)
 - [CISA Weighs In on Alleged Oracle Cloud Breach](https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach)
 - [If Boards Don&#39;t Fix OT Security, Regulators Will](https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators)
 - [Apple Zero-Days Under &#39;Sophisticated Attack,&#39; but Details Lacking](https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks)
-- [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
-- [Dogged by Trump, Chris Krebs Resigns From SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
-- [PromptArmor Launches to Help Assess, Monitor Third-Party AI Risks](https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
