@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [If Boards Don&#39;t Fix OT Security, Regulators Will](https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators)
+- [Apple Zero-Days Under &#39;Sophisticated Attack,&#39; but Details Lacking](https://www.darkreading.com/vulnerabilities-threats/apple-zero-days-sophisticated-attacks)
 - [Android Phones Pre-Downloaded With Malware Target User Crypto Wallets](https://www.darkreading.com/threat-intelligence/android-pre-downloaded-malware-crypto-wallets)
 - [Dogged by Trump, Chris Krebs Resigns From SentinelOne](https://www.darkreading.com/cybersecurity-operations/trump-chris-krebs-resigns-sentinelone)
 - [PromptArmor Launches to Help Assess, Monitor Third-Party AI Risks](https://www.darkreading.com/cyber-risk/promptarmor-launches-assess-monitor-third-party-ai-risk)
 - [CVE Program Cuts Send the Cyber Sector Into Panic Mode](https://www.darkreading.com/vulnerabilities-threats/cve-program-cuts-cyber-sector)
 - [Cybersecurity by Design: When Humans Meet Technology](https://www.darkreading.com/cyber-risk/cybersecurity-by-design-when-humans-meet-technology)
 - [Middle East, North Africa Security Spending to Top $3B](https://www.darkreading.com/cybersecurity-analytics/middle-east-north-africa-security-spending)
-- [GPS Spoofing Attacks Spike in Middle East, Southeast Asia](https://www.darkreading.com/cyberattacks-data-breaches/gps-spoofing-attacks-spike-middle-east-southeast-asia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
