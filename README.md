@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Elusive Comet&#39; Attackers Use Zoom to Swindle Victims](https://www.darkreading.com/remote-workforce/elusive-comet-zoom-victims)
 - [Nation-State Threats Put SMBs in Their Sights](https://www.darkreading.com/threat-intelligence/nation-state-threats-smb)
 - [Can Cybersecurity Weather the Current Economic Chaos?](https://www.darkreading.com/cloud-security/cybersecurity-weather-current-economic-chaos)
 - [ASUS Urges Users to Patch AiCloud Router Vuln Immediately](https://www.darkreading.com/cloud-security/asus-patch-aicloud-router-vuln)
@@ -83,7 +84,6 @@
 - [Could Ransomware Survive Without Cryptocurrency?](https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency)
 - [AWWA Supports Introduction of Collaborative Cybersecurity Legislation](https://www.darkreading.com/ics-ot-security/awwa-introduction-cybersecurity-legislation)
 - [Organizations Fix Less Than Half of All Exploitable Vulnerabilities, With Just 21% of GenAI App Flaws Resolved](https://www.darkreading.com/application-security/organizations-fix-less-than-half-vulnerabilities)
-- [Attackers and Defenders Lean on AI in Identity Fraud Battle](https://www.darkreading.com/cyber-risk/fraudsters-increasingly-use-ai-companies-look-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
