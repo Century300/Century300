@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ASUS Urges Users to Patch AiCloud Router Vuln Immediately](https://www.darkreading.com/cloud-security/asus-patch-aicloud-router-vuln)
 - [The Global AI Race: Balancing Innovation and Security](https://www.darkreading.com/vulnerabilities-threats/global-ai-race-balancing-innovation-security)
 - [Could Ransomware Survive Without Cryptocurrency?](https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency)
 - [AWWA Supports Introduction of Collaborative Cybersecurity Legislation](https://www.darkreading.com/ics-ot-security/awwa-introduction-cybersecurity-legislation)
@@ -83,7 +84,6 @@
 - [Attackers and Defenders Lean on AI in Identity Fraud Battle](https://www.darkreading.com/cyber-risk/fraudsters-increasingly-use-ai-companies-look-ai)
 - [Chinese APT Mustang Panda Debuts 4 New Attack Tools](https://www.darkreading.com/cloud-security/chinese-apt-mustang-panda-4-attack-tools)
 - [CISA Weighs In on Alleged Oracle Cloud Breach](https://www.darkreading.com/cloud-security/cisa-alleged-oracle-cloud-breach)
-- [If Boards Don&#39;t Fix OT Security, Regulators Will](https://www.darkreading.com/ics-ot-security/boards-fix-ot-security-regulators)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
