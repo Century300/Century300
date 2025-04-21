@@ -76,9 +76,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nation-State Threats Put SMBs in Their Sights](https://www.darkreading.com/threat-intelligence/nation-state-threats-smb)
 - [Can Cybersecurity Weather the Current Economic Chaos?](https://www.darkreading.com/cloud-security/cybersecurity-weather-current-economic-chaos)
 - [ASUS Urges Users to Patch AiCloud Router Vuln Immediately](https://www.darkreading.com/cloud-security/asus-patch-aicloud-router-vuln)
-- [Nation-State Threats Put SMBs in Their Sights](https://www.darkreading.com/threat-intelligence/nation-state-threats-smbs-in-sights)
 - [The Global AI Race: Balancing Innovation and Security](https://www.darkreading.com/vulnerabilities-threats/global-ai-race-balancing-innovation-security)
 - [Could Ransomware Survive Without Cryptocurrency?](https://www.darkreading.com/cyber-risk/ransomware-would-adapt-without-cryptocurrency)
 - [AWWA Supports Introduction of Collaborative Cybersecurity Legislation](https://www.darkreading.com/ics-ot-security/awwa-introduction-cybersecurity-legislation)
