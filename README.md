@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Purges Millions of Cloud Tenants in Wake of Storm-0558](https://www.darkreading.com/cloud-security/microsoft-millions-cloud-tenants-storm-0558)
 - [City of Abilene Goes Offline in Wake of Cyberattack](https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack)
 - [3 More Healthcare Orgs Hit by Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks)
 - [&#39;Cookie Bite&#39; Entra ID Attack Exposes Microsoft 365](https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365)
@@ -83,7 +84,6 @@
 - [&#39;Fog&#39; Hackers Troll Victims With DOGE Ransom Notes](https://www.darkreading.com/cyberattacks-data-breaches/fog-hackers-doge-ransom-notes)
 - [&#39;Elusive Comet&#39; Attackers Use Zoom to Swindle Victims](https://www.darkreading.com/remote-workforce/elusive-comet-zoom-victims)
 - [Nation-State Threats Put SMBs in Their Sights](https://www.darkreading.com/threat-intelligence/nation-state-threats-smb)
-- [Can Cybersecurity Weather the Current Economic Chaos?](https://www.darkreading.com/cloud-security/cybersecurity-weather-current-economic-chaos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
