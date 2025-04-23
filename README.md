@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Claims Steady Progress Revamping Security Culture](https://www.darkreading.com/cybersecurity-operations/microsoft-steady-progress-revamp-security-culture)
+- [Ransomware Gangs Innovate With New Affiliate Models](https://www.darkreading.com/data-privacy/ransomware-gangs-innovate-new-affiliate-models)
 - [Popular British Retailer Marks &amp;amp; Spencer Addresses &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/marks-spencer-cyber-incident)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
 - [Japan Warns on Unauthorized Stock Trading via Stolen Credentials](https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials)
 - [Kubernetes Pods Are Inheriting Too Many Permissions](https://www.darkreading.com/cloud-security/kubernetes-pods-inheriting-permissions)
 - [The Foundations of a Resilient Cyber Workforce](https://www.darkreading.com/vulnerabilities-threats/foundations-resilient-cyber-workforce)
 - [Zambia&#39;s Updated Cyber Laws Prompt Surveillance Warnings](https://www.darkreading.com/cyber-risk/updated-zambian-cyber-laws-draw-surveillance-warnings)
-- [Verizon: Edge Bugs Soar, Ransoms Lag, SMBs Bedeviled](https://www.darkreading.com/cybersecurity-analytics/verizon-edge-bugs-ransoms-smbs-bedeviled)
-- [How Emerging AI Frameworks Drive Business Value and Mitigate Risk](https://www.darkreading.com/cyber-risk/how-emerging-ai-frameworks-drive-business-value-and-mitigate-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
