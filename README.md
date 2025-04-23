@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Zambia&#39;s Updated Cyber Laws Prompt Surveillance Warnings](https://www.darkreading.com/cyber-risk/updated-zambian-cyber-laws-draw-surveillance-warnings)
 - [Verizon: Edge Bugs Soar, Ransoms Lag, SMBs Bedeviled](https://www.darkreading.com/cybersecurity-analytics/verizon-edge-bugs-ransoms-smbs-bedeviled)
+- [How Emerging AI Frameworks Drive Business Value and Mitigate Risk](https://www.darkreading.com/cyber-risk/how-emerging-ai-frameworks-drive-business-value-and-mitigate-risk)
 - [Microsoft Purges Millions of Cloud Tenants in Wake of Storm-0558](https://www.darkreading.com/cloud-security/microsoft-millions-cloud-tenants-storm-0558)
 - [City of Abilene Goes Offline in Wake of Cyberattack](https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack)
 - [3 More Healthcare Orgs Hit by Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks)
 - [&#39;Cookie Bite&#39; Entra ID Attack Exposes Microsoft 365](https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365)
-- [Terra Security Automates Penetration Testing with Agentic AI](https://www.darkreading.com/vulnerabilities-threats/terra-security-automates-penetration-testing-agentic-ai)
-- [DeepSeek Breach Opens Floodgates to Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/deepseek-breach-opens-floodgates-dark-web)
+- [Terra Security Automates Penetration Testing With Agentic AI](https://www.darkreading.com/vulnerabilities-threats/terra-security-automates-penetration-testing-agentic-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
