@@ -82,8 +82,8 @@
 - [City of Abilene Goes Offline in Wake of Cyberattack](https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack)
 - [3 More Healthcare Orgs Hit by Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks)
 - [&#39;Cookie Bite&#39; Entra ID Attack Exposes Microsoft 365](https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365)
+- [Terra Security Automates Penetration Testing with Agentic AI](https://www.darkreading.com/vulnerabilities-threats/terra-security-automates-penetration-testing-agentic-ai)
 - [DeepSeek Breach Opens Floodgates to Dark Web](https://www.darkreading.com/cyberattacks-data-breaches/deepseek-breach-opens-floodgates-dark-web)
-- [&#39;Fog&#39; Hackers Troll Victims With DOGE Ransom Notes](https://www.darkreading.com/cyberattacks-data-breaches/fog-hackers-doge-ransom-notes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
