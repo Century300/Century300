@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Kubernetes Pods Are Inheriting Too Many Permissions](https://www.darkreading.com/cloud-security/kubernetes-pods-inheriting-permissions)
 - [The Foundations of a Resilient Cyber Workforce](https://www.darkreading.com/vulnerabilities-threats/foundations-resilient-cyber-workforce)
 - [Zambia&#39;s Updated Cyber Laws Prompt Surveillance Warnings](https://www.darkreading.com/cyber-risk/updated-zambian-cyber-laws-draw-surveillance-warnings)
 - [Verizon: Edge Bugs Soar, Ransoms Lag, SMBs Bedeviled](https://www.darkreading.com/cybersecurity-analytics/verizon-edge-bugs-ransoms-smbs-bedeviled)
@@ -83,7 +84,6 @@
 - [Microsoft Purges Millions of Cloud Tenants in Wake of Storm-0558](https://www.darkreading.com/cloud-security/microsoft-millions-cloud-tenants-storm-0558)
 - [City of Abilene Goes Offline in Wake of Cyberattack](https://www.darkreading.com/vulnerabilities-threats/city-abilene-offline-after-cyberattack)
 - [3 More Healthcare Orgs Hit by Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/healthcare-orgs-hit-ransomeware-attacks)
-- [&#39;Cookie Bite&#39; Entra ID Attack Exposes Microsoft 365](https://www.darkreading.com/remote-workforce/cookie-bite-entra-id-attack-exposes-microsoft-365)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
