@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI: Cybercrime Losses Rocket to $16.6B in 2024](https://www.darkreading.com/remote-workforce/fbi-cybercrime-losses-16b-2024)
 - [Navigating Regulatory Shifts &amp;amp; AI Risks](https://www.darkreading.com/vulnerabilities-threats/navigating-regulatory-shifts-ai-risks)
 - [&#39;Industrial-Scale&#39; Asian Scam Centers Expand Globally](https://www.darkreading.com/threat-intelligence/industrial-scale-asian-scam-centers)
 - [Microsoft Claims Steady Progress Revamping Security Culture](https://www.darkreading.com/cybersecurity-operations/microsoft-steady-progress-revamp-security-culture)
@@ -83,7 +84,6 @@
 - [Attackers Capitalize on Mistakes to Target Schools](https://www.darkreading.com/cyberattacks-data-breaches/attackers-capitalize-mistakes-target-schools)
 - [Popular British Retailer Marks &amp;amp; Spencer Addresses &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/marks-spencer-cyber-incident)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
-- [Japan Warns on Unauthorized Stock Trading via Stolen Credentials](https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
