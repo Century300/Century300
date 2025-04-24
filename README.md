@@ -79,11 +79,11 @@
 - [&#39;Industrial-Scale&#39; Asian Scam Centers Expand Globally](https://www.darkreading.com/threat-intelligence/industrial-scale-asian-scam-centers)
 - [Microsoft Claims Steady Progress Revamping Security Culture](https://www.darkreading.com/cybersecurity-operations/microsoft-steady-progress-revamp-security-culture)
 - [Ransomware Gangs Innovate With New Affiliate Models](https://www.darkreading.com/data-privacy/ransomware-gangs-innovate-new-affiliate-models)
+- [Attackers Capitalize on Mistakes to Target Schools](https://www.darkreading.com/cyberattacks-data-breaches/attackers-capitalize-mistakes-target-schools)
 - [Popular British Retailer Marks &amp;amp; Spencer Addresses &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/marks-spencer-cyber-incident)
 - [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
 - [Japan Warns on Unauthorized Stock Trading via Stolen Credentials](https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials)
 - [Kubernetes Pods Are Inheriting Too Many Permissions](https://www.darkreading.com/cloud-security/kubernetes-pods-inheriting-permissions)
-- [The Foundations of a Resilient Cyber Workforce](https://www.darkreading.com/vulnerabilities-threats/foundations-resilient-cyber-workforce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
