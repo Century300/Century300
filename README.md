@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NFC-Powered Android Malware Enables Instant Cash-Outs](https://www.darkreading.com/threat-intelligence/nfc-android-malware-instant-cash-outs)
 - [FBI: Cybercrime Losses Rocket to $16.6B in 2024](https://www.darkreading.com/remote-workforce/fbi-cybercrime-losses-16b-2024)
 - [Navigating Regulatory Shifts &amp;amp; AI Risks](https://www.darkreading.com/vulnerabilities-threats/navigating-regulatory-shifts-ai-risks)
 - [&#39;Industrial-Scale&#39; Asian Scam Centers Expand Globally](https://www.darkreading.com/threat-intelligence/industrial-scale-asian-scam-centers)
@@ -83,7 +84,6 @@
 - [Ransomware Gangs Innovate With New Affiliate Models](https://www.darkreading.com/data-privacy/ransomware-gangs-innovate-new-affiliate-models)
 - [Attackers Capitalize on Mistakes to Target Schools](https://www.darkreading.com/cyberattacks-data-breaches/attackers-capitalize-mistakes-target-schools)
 - [Popular British Retailer Marks &amp;amp; Spencer Addresses &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/marks-spencer-cyber-incident)
-- [North Korean Operatives Use Deepfakes in IT Job Interviews](https://www.darkreading.com/remote-workforce/north-korean-operatives-deepfakes-it-job-interviews)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
