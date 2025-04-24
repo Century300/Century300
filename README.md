@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Industrial-Scale&#39; Asian Scam Centers Expand Globally](https://www.darkreading.com/threat-intelligence/industrial-scale-asian-scam-centers)
 - [Microsoft Claims Steady Progress Revamping Security Culture](https://www.darkreading.com/cybersecurity-operations/microsoft-steady-progress-revamp-security-culture)
 - [Ransomware Gangs Innovate With New Affiliate Models](https://www.darkreading.com/data-privacy/ransomware-gangs-innovate-new-affiliate-models)
 - [Popular British Retailer Marks &amp;amp; Spencer Addresses &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/marks-spencer-cyber-incident)
@@ -83,7 +84,6 @@
 - [Japan Warns on Unauthorized Stock Trading via Stolen Credentials](https://www.darkreading.com/threat-intelligence/japan-unauthorized-stock-trading-stolen-credentials)
 - [Kubernetes Pods Are Inheriting Too Many Permissions](https://www.darkreading.com/cloud-security/kubernetes-pods-inheriting-permissions)
 - [The Foundations of a Resilient Cyber Workforce](https://www.darkreading.com/vulnerabilities-threats/foundations-resilient-cyber-workforce)
-- [Zambia&#39;s Updated Cyber Laws Prompt Surveillance Warnings](https://www.darkreading.com/cyber-risk/updated-zambian-cyber-laws-draw-surveillance-warnings)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
