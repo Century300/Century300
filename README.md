@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [[Virtual Event] Anatomy of a Data Breach: And what to do if it happens to you](https://www.darkreading.com/events/-virtual-event-anatomy-of-a-data-breach-and-what-to-do-if-it-happens-to-you)
 - [&#39;SessionShark&#39; ToolKit Evades Microsoft Office 365 MFA](https://www.darkreading.com/remote-workforce/sessionshark-toolkit-microsoft-365-steal-tokens)
 - [Max-Severity Commvault Bug Alarms Researchers](https://www.darkreading.com/cyber-risk/max-severity-commvault-bug-researchers)
 - [NFC-Powered Android Malware Enables Instant Cash-Outs](https://www.darkreading.com/threat-intelligence/nfc-android-malware-instant-cash-outs)
@@ -83,7 +84,6 @@
 - [Navigating Regulatory Shifts &amp;amp; AI Risks](https://www.darkreading.com/vulnerabilities-threats/navigating-regulatory-shifts-ai-risks)
 - [&#39;Industrial-Scale&#39; Asian Scam Centers Expand Globally](https://www.darkreading.com/threat-intelligence/industrial-scale-asian-scam-centers)
 - [Microsoft Claims Steady Progress Revamping Security Culture](https://www.darkreading.com/cybersecurity-operations/microsoft-steady-progress-revamp-security-culture)
-- [Ransomware Gangs Innovate With New Affiliate Models](https://www.darkreading.com/data-privacy/ransomware-gangs-innovate-new-affiliate-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
