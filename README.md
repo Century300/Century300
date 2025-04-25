@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vehicles Face 45% More Attacks, 4 Times More Hackers](https://www.darkreading.com/vulnerabilities-threats/vehicles-45-more-attacks-4-times-more-hackers)
+- [Phishing Kit Darcula Gets Lethal AI Upgrade](https://www.darkreading.com/remote-workforce/phishing-kit-darcula-gets-major-ai-upgrade)
 - [[Virtual Event] Anatomy of a Data Breach: And what to do if it happens to you](https://www.darkreading.com/events/-virtual-event-anatomy-of-a-data-breach-and-what-to-do-if-it-happens-to-you)
 - [&#39;SessionShark&#39; ToolKit Evades Microsoft Office 365 MFA](https://www.darkreading.com/remote-workforce/sessionshark-toolkit-microsoft-365-steal-tokens)
 - [Max-Severity Commvault Bug Alarms Researchers](https://www.darkreading.com/cyber-risk/max-severity-commvault-bug-researchers)
 - [NFC-Powered Android Malware Enables Instant Cash-Outs](https://www.darkreading.com/threat-intelligence/nfc-android-malware-instant-cash-outs)
 - [Gig Worker Platforms at Risk for Data Breaches, Fraud, Account Takeovers](https://www.darkreading.com/remote-workforce/gig-worker-platforms-data-breach-fraud)
-- [Phishing Kit Darcula Gets Lethal AI Upgrade](https://www.darkreading.com/remote-workforce/phishing-kit-darcula-gets-major-ai-upgrade)
 - [FBI: Cybercrime Losses Rocket to $16.6B in 2024](https://www.darkreading.com/remote-workforce/fbi-cybercrime-losses-16b-2024)
-- [Navigating Regulatory Shifts &amp;amp; AI Risks](https://www.darkreading.com/vulnerabilities-threats/navigating-regulatory-shifts-ai-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
