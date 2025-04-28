@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
 - [AI, Automation, and Dark Web Fuel Evolving Threat Landscape](https://www.darkreading.com/remote-workforce/ai-automation-dark-web-fuel-evolving-threat-landscape)
 - [Forget the Stack; Focus on Control](https://www.darkreading.com/vulnerabilities-threats/forget-stack-focus-control)
 - [DoJ Data Security Program Highlights Data Sharing Challenges](https://www.darkreading.com/cyber-risk/doj-data-security-program-data-sharing-challenge)
@@ -83,7 +84,6 @@
 - [How Organizations Can Leverage Cyber Insurance Effectively](https://www.darkreading.com/cybersecurity-operations/organizations-leverage-cyber-insurance-effectively)
 - [Vehicles Face 45% More Attacks, 4 Times More Hackers](https://www.darkreading.com/vulnerabilities-threats/vehicles-45-more-attacks-4-times-more-hackers)
 - [Phishing Kit Darcula Gets Lethal AI Upgrade](https://www.darkreading.com/remote-workforce/phishing-kit-darcula-gets-major-ai-upgrade)
-- [[Virtual Event] Anatomy of a Data Breach: And what to do if it happens to you](https://www.darkreading.com/events/-virtual-event-anatomy-of-a-data-breach-and-what-to-do-if-it-happens-to-you)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
