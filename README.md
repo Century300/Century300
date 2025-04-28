@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Data Security Program Highlights Data Sharing Challenges](https://www.darkreading.com/cyber-risk/doj-data-security-program-data-sharing-challenge)
 - [Mobile Applications: A Cesspool of Security Issues](https://www.darkreading.com/remote-workforce/mobile-applications-cesspool-security-issues)
 - [How Organizations Can Leverage Cyber Insurance Effectively](https://www.darkreading.com/cybersecurity-operations/organizations-leverage-cyber-insurance-effectively)
 - [Vehicles Face 45% More Attacks, 4 Times More Hackers](https://www.darkreading.com/vulnerabilities-threats/vehicles-45-more-attacks-4-times-more-hackers)
@@ -83,7 +84,6 @@
 - [[Virtual Event] Anatomy of a Data Breach: And what to do if it happens to you](https://www.darkreading.com/events/-virtual-event-anatomy-of-a-data-breach-and-what-to-do-if-it-happens-to-you)
 - [&#39;SessionShark&#39; ToolKit Evades Microsoft Office 365 MFA](https://www.darkreading.com/remote-workforce/sessionshark-toolkit-microsoft-365-steal-tokens)
 - [Digital Twins Bring Simulated Security to the Real World](https://www.darkreading.com/endpoint-security/digital-twins-bring-simulated-security-real-world)
-- [Max-Severity Commvault Bug Alarms Researchers](https://www.darkreading.com/cyber-risk/max-severity-commvault-bug-researchers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
