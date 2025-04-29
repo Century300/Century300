@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerability Exploitation Is Shifting in 2024-25](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploitation-shifting-2024-25)
 - [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
 - [AI, Automation, and Dark Web Fuel Evolving Threat Landscape](https://www.darkreading.com/remote-workforce/ai-automation-dark-web-fuel-evolving-threat-landscape)
 - [Forget the Stack; Focus on Control](https://www.darkreading.com/vulnerabilities-threats/forget-stack-focus-control)
@@ -83,7 +84,6 @@
 - [Mobile Applications: A Cesspool of Security Issues](https://www.darkreading.com/remote-workforce/mobile-applications-cesspool-security-issues)
 - [How Organizations Can Leverage Cyber Insurance Effectively](https://www.darkreading.com/cybersecurity-operations/organizations-leverage-cyber-insurance-effectively)
 - [Vehicles Face 45% More Attacks, 4 Times More Hackers](https://www.darkreading.com/vulnerabilities-threats/vehicles-45-more-attacks-4-times-more-hackers)
-- [Phishing Kit Darcula Gets Lethal AI Upgrade](https://www.darkreading.com/remote-workforce/phishing-kit-darcula-gets-major-ai-upgrade)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
