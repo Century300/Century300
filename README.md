@@ -83,7 +83,7 @@
 - [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
 - [AI, Automation, and Dark Web Fuel Evolving Threat Landscape](https://www.darkreading.com/remote-workforce/ai-automation-dark-web-fuel-evolving-threat-landscape)
 - [Forget the Stack; Focus on Control](https://www.darkreading.com/vulnerabilities-threats/forget-stack-focus-control)
-- [DoJ Data Security Program Highlights Data Sharing Challenges](https://www.darkreading.com/cyber-risk/doj-data-security-program-data-sharing-challenge)
+- [DoJ Data Security Program Highlights Data-Sharing Challenges](https://www.darkreading.com/cyber-risk/doj-data-security-program-data-sharing-challenge)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
