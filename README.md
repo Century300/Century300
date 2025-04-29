@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Windows Backdoor Targets Members of Exiled Uyghur Community](https://www.darkreading.com/cyberattacks-data-breaches/windows-backdoor-targets-members-exhiled-uyghur-community)
 - [Vulnerability Exploitation Is Shifting in 2024-25](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploitation-shifting-2024-25)
 - [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
 - [AI, Automation, and Dark Web Fuel Evolving Threat Landscape](https://www.darkreading.com/remote-workforce/ai-automation-dark-web-fuel-evolving-threat-landscape)
@@ -83,7 +84,6 @@
 - [DoJ Data Security Program Highlights Data Sharing Challenges](https://www.darkreading.com/cyber-risk/doj-data-security-program-data-sharing-challenge)
 - [Mobile Applications: A Cesspool of Security Issues](https://www.darkreading.com/remote-workforce/mobile-applications-cesspool-security-issues)
 - [How Organizations Can Leverage Cyber Insurance Effectively](https://www.darkreading.com/cybersecurity-operations/organizations-leverage-cyber-insurance-effectively)
-- [Vehicles Face 45% More Attacks, 4 Times More Hackers](https://www.darkreading.com/vulnerabilities-threats/vehicles-45-more-attacks-4-times-more-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
