@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Many Fuel Tank Monitoring Systems Vulnerable to Disruption](https://www.darkreading.com/ics-ot-security/fuel-tank-monitoring-systems-vulnerable-disruption)
 - [From Mission-Centric to People-Centric: Competitive Leadership in Cyber](https://www.darkreading.com/remote-workforce/mission-people-competitive-leadership-cyber)
 - [Hacking in Space: Not as Tough as You Might Think](https://www.darkreading.com/cloud-security/hacking-space-not-tough)
 - [US Critical Infrastructure Still Struggles With OT Security](https://www.darkreading.com/remote-workforce/critical-infrastructure-struggles-ot-security)
@@ -83,7 +84,6 @@
 - [Windows Backdoor Targets Members of Exiled Uyghur Community](https://www.darkreading.com/cyberattacks-data-breaches/windows-backdoor-targets-members-exhiled-uyghur-community)
 - [Vulnerability Exploitation Is Shifting in 2024-25](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploitation-shifting-2024-25)
 - [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
-- [AI, Automation, and Dark Web Fuel Evolving Threat Landscape](https://www.darkreading.com/remote-workforce/ai-automation-dark-web-fuel-evolving-threat-landscape)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
