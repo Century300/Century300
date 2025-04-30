@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DARPA Highlights Critical Infrastructure Security Challenges](https://www.darkreading.com/cyber-risk/darpa-highlights-critical-infrastructure-security-challenges)
 - [Many Fuel Tank Monitoring Systems Vulnerable to Disruption](https://www.darkreading.com/ics-ot-security/fuel-tank-monitoring-systems-vulnerable-disruption)
 - [From Mission-Centric to People-Centric: Competitive Leadership in Cyber](https://www.darkreading.com/remote-workforce/mission-people-competitive-leadership-cyber)
 - [Hacking in Space: Not as Tough as You Might Think](https://www.darkreading.com/cloud-security/hacking-space-not-tough)
@@ -83,7 +84,6 @@
 - [Risks of Using AI Models Developed by Competing Nations](https://www.darkreading.com/vulnerabilities-threats/risks-using-ai-models-developed-competing-nations)
 - [Windows Backdoor Targets Members of Exiled Uyghur Community](https://www.darkreading.com/cyberattacks-data-breaches/windows-backdoor-targets-members-exhiled-uyghur-community)
 - [NVIDIA&#39;s AI Security Offering Protects From Software Landmines](https://www.darkreading.com/cyberattacks-data-breaches/nvidia-ai-security-offering-protects-software-landmines)
-- [Vulnerability Exploitation Is Shifting in 2024-25](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploitation-shifting-2024-25)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
