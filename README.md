@@ -82,8 +82,8 @@
 - [US Critical Infrastructure Still Struggles With OT Security](https://www.darkreading.com/remote-workforce/critical-infrastructure-struggles-ot-security)
 - [Risks of Using AI Models Developed by Competing Nations](https://www.darkreading.com/vulnerabilities-threats/risks-using-ai-models-developed-competing-nations)
 - [Windows Backdoor Targets Members of Exiled Uyghur Community](https://www.darkreading.com/cyberattacks-data-breaches/windows-backdoor-targets-members-exhiled-uyghur-community)
+- [NVIDIA&#39;s AI Security Offering Protects From Software Landmines](https://www.darkreading.com/cyberattacks-data-breaches/nvidia-ai-security-offering-protects-software-landmines)
 - [Vulnerability Exploitation Is Shifting in 2024-25](https://www.darkreading.com/vulnerabilities-threats/vulnerability-exploitation-shifting-2024-25)
-- [SAP NetWeaver Visual Composer Flaw Under Active Exploitation](https://www.darkreading.com/cyberattacks-data-breaches/sap-netweaver-visual-composer-flaw-active-exploitation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
