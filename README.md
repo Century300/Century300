@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Prolific RansomHub Operation Goes Dark](https://www.darkreading.com/cyber-risk/prolific-ransomhub-operation-goes-dark)
+- [Former CISA Head Slams Trump Admin Over &#39;Loyalty Mandate&#39;](https://www.darkreading.com/cybersecurity-operations/former-cisa-head-slams-trump-admin-loyalty-mandate)
+- [Adversaries Are Toying With US Networks &amp;amp; DC Is Short on Answers](https://www.darkreading.com/cybersecurity-operations/adversaries-toying-with-us-networks)
 - [TheWizards APT Casts a Spell on Asian Gamblers With Novel Attack](https://www.darkreading.com/cloud-security/thewizards-apt-asian-gamblers-attack)
 - [Phishers Take Advantage of Iberian Blackout Before It&#39;s Even Over](https://www.darkreading.com/cyberattacks-data-breaches/phishers-take-advantage-iberian-blackout)
 - [DHS Boss Noem Vows to Get CISA Back &#39;On Mission&#39;](https://www.darkreading.com/cybersecurity-operations/dhs-secretary-noem-cisa-back-on-mission)
 - [DARPA Highlights Critical Infrastructure Security Challenges](https://www.darkreading.com/cyber-risk/darpa-highlights-critical-infrastructure-security-challenges)
 - [Many Fuel Tank Monitoring Systems Vulnerable to Disruption](https://www.darkreading.com/ics-ot-security/fuel-tank-monitoring-systems-vulnerable-disruption)
-- [From Mission-Centric to People-Centric: Competitive Leadership in Cyber](https://www.darkreading.com/remote-workforce/mission-people-competitive-leadership-cyber)
-- [Hacking in Space: Not as Tough as You Might Think](https://www.darkreading.com/cloud-security/hacking-space-not-tough)
-- [US Critical Infrastructure Still Struggles With OT Security](https://www.darkreading.com/remote-workforce/critical-infrastructure-struggles-ot-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
