@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phishers Take Advantage of Iberian Blackout Before It&#39;s Even Over](https://www.darkreading.com/cyberattacks-data-breaches/phishers-take-advantage-iberian-blackout)
 - [DHS Boss Noem Vows to Get CISA Back &#39;On Mission&#39;](https://www.darkreading.com/cybersecurity-operations/dhs-secretary-noem-cisa-back-on-mission)
 - [DARPA Highlights Critical Infrastructure Security Challenges](https://www.darkreading.com/cyber-risk/darpa-highlights-critical-infrastructure-security-challenges)
 - [Many Fuel Tank Monitoring Systems Vulnerable to Disruption](https://www.darkreading.com/ics-ot-security/fuel-tank-monitoring-systems-vulnerable-disruption)
@@ -83,7 +84,6 @@
 - [Hacking in Space: Not as Tough as You Might Think](https://www.darkreading.com/cloud-security/hacking-space-not-tough)
 - [US Critical Infrastructure Still Struggles With OT Security](https://www.darkreading.com/remote-workforce/critical-infrastructure-struggles-ot-security)
 - [Risks of Using AI Models Developed by Competing Nations](https://www.darkreading.com/vulnerabilities-threats/risks-using-ai-models-developed-competing-nations)
-- [Windows Backdoor Targets Members of Exiled Uyghur Community](https://www.darkreading.com/cyberattacks-data-breaches/windows-backdoor-targets-members-exhiled-uyghur-community)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
