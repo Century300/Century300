@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Cybersecurity Paradox: Even Resilient Organizations Are Blind to AI Threats](https://www.darkreading.com/cyber-risk/even-resilient-organizations-bind-ai-threats)
 - [When Threat Actors Behave Like Managed Service Providers](https://www.darkreading.com/vulnerabilities-threats/threat-actors-behave-managed-service-providers)
 - [Microsoft Readies Administrator Protection Option for Windows 11](https://www.darkreading.com/endpoint-security/microsoft-readies-administrator-protection-option-windows-11)
 - [Putin&#39;s Cyberattacks on Ukraine Rise 70%, With Little Effect](https://www.darkreading.com/threat-intelligence/putin-cyberattacks-ukraine-rise-little-effect)
@@ -83,7 +84,6 @@
 - [Billbug Expands Cyber-Espionage Campaign in Southeast Asia](https://www.darkreading.com/threat-intelligence/billbug-cyber-espionage-campaign-southeast-asia)
 - [Prolific RansomHub Operation Goes Dark](https://www.darkreading.com/cyber-risk/prolific-ransomhub-operation-goes-dark)
 - [Former CISA Head Slams Trump Admin Over &#39;Loyalty Mandate&#39;](https://www.darkreading.com/cybersecurity-operations/former-cisa-head-slams-trump-admin-loyalty-mandate)
-- [Adversaries Are Toying With US Networks &amp;amp; DC Is Short on Answers](https://www.darkreading.com/cybersecurity-operations/adversaries-toying-with-us-networks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
