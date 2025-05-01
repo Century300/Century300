@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Experts Debate Real ID Security Ahead of May 7 Deadline](https://www.darkreading.com/cybersecurity-operations/experts-real-id-security-may-7-deadline)
 - [Getting Outlook.com Ready for Bulk Email Compliance](https://www.darkreading.com/cloud-security/getting-outlook-com-ready-bulk-email-compliance)
 - [A Cybersecurity Paradox: Even Resilient Organizations Are Blind to AI Threats](https://www.darkreading.com/cyber-risk/even-resilient-organizations-bind-ai-threats)
 - [When Threat Actors Behave Like Managed Service Providers](https://www.darkreading.com/vulnerabilities-threats/threat-actors-behave-managed-service-providers)
@@ -83,7 +84,6 @@
 - [Putin&#39;s Cyberattacks on Ukraine Rise 70%, With Little Effect](https://www.darkreading.com/threat-intelligence/putin-cyberattacks-ukraine-rise-little-effect)
 - [Cisco Boosts XDR Platform, Splunk With Agentic AI](https://www.darkreading.com/endpoint-security/cisco-boosts-xdr-platform-splunk-agentic-ai)
 - [Billbug Expands Cyber-Espionage Campaign in Southeast Asia](https://www.darkreading.com/threat-intelligence/billbug-cyber-espionage-campaign-southeast-asia)
-- [Prolific RansomHub Operation Goes Dark](https://www.darkreading.com/cyber-risk/prolific-ransomhub-operation-goes-dark)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
