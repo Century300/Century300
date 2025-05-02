@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UK Retailers Reeling From Likely Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks)
+- [What NYDFS Rules Mean for Businesses &lpar;Inside &amp;amp; Outside of NY&rpar;](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
 - [Attackers Ramp Up Efforts Targeting Developer Secrets](https://www.darkreading.com/threat-intelligence/attackers-targeting-developer-secrets)
 - [Despite Arrests, Scattered Spider Continues High-Profile Hacking](https://www.darkreading.com/cyberattacks-data-breaches/despite-arrests-scattered-spider-continues-hacking)
 - [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
 - [SANS Top 5: Cyber Has Busted Out of the SOC](https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc)
 - [Enterprises Need to Beware of These 5 Threats](https://www.darkreading.com/cyberattacks-data-breaches/enterprises-need-beware-five-threats)
 - [Experts Debate Real ID Security Ahead of May 7 Deadline](https://www.darkreading.com/cybersecurity-operations/experts-real-id-security-may-7-deadline)
-- [Getting Outlook.com Ready for Bulk Email Compliance](https://www.darkreading.com/cloud-security/getting-outlook-com-ready-bulk-email-compliance)
-- [A Cybersecurity Paradox: Even Resilient Organizations Are Blind to AI Threats](https://www.darkreading.com/cyber-risk/even-resilient-organizations-bind-ai-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
