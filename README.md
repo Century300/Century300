@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [UK Retailers Reeling From Likely Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks)
-- [What NYDFS Rules Mean for Businesses &lpar;Inside &amp;amp; Outside of NY&rpar;](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
+- [What NY&#39;s New Security Rules Mean for Finance Firms](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
 - [Attackers Ramp Up Efforts Targeting Developer Secrets](https://www.darkreading.com/threat-intelligence/attackers-targeting-developer-secrets)
 - [Despite Arrests, Scattered Spider Continues High-Profile Hacking](https://www.darkreading.com/cyberattacks-data-breaches/despite-arrests-scattered-spider-continues-hacking)
 - [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
