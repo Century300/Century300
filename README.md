@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
 - [SANS Top 5: Cyber Has Busted Out of the SOC](https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc)
 - [Enterprises Need to Beware of These 5 Threats](https://www.darkreading.com/cyberattacks-data-breaches/enterprises-need-beware-five-threats)
 - [Experts Debate Real ID Security Ahead of May 7 Deadline](https://www.darkreading.com/cybersecurity-operations/experts-real-id-security-may-7-deadline)
@@ -83,7 +84,6 @@
 - [A Cybersecurity Paradox: Even Resilient Organizations Are Blind to AI Threats](https://www.darkreading.com/cyber-risk/even-resilient-organizations-bind-ai-threats)
 - [When Threat Actors Behave Like Managed Service Providers](https://www.darkreading.com/vulnerabilities-threats/threat-actors-behave-managed-service-providers)
 - [Microsoft Readies Administrator Protection Option for Windows 11](https://www.darkreading.com/endpoint-security/microsoft-readies-administrator-protection-option-windows-11)
-- [Putin&#39;s Cyberattacks on Ukraine Rise 70%, With Little Effect](https://www.darkreading.com/threat-intelligence/putin-cyberattacks-ukraine-rise-little-effect)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
