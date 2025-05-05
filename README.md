@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Prevent AI Agents From Becoming the Bad Guys](https://www.darkreading.com/vulnerabilities-threats/prevent-ai-agents-becoming-bad-guys)
 - [UK Retailers Reeling From Likely Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks)
 - [What NY&#39;s New Security Rules Mean for Finance Firms](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
 - [Attackers Ramp Up Efforts Targeting Developer Secrets](https://www.darkreading.com/threat-intelligence/attackers-targeting-developer-secrets)
@@ -83,7 +84,6 @@
 - [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
 - [SANS Top 5: Cyber Has Busted Out of the SOC](https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc)
 - [Enterprises Need to Beware of These 5 Threats](https://www.darkreading.com/cyberattacks-data-breaches/enterprises-need-beware-five-threats)
-- [Experts Debate Real ID Security Ahead of May 7 Deadline](https://www.darkreading.com/cybersecurity-operations/experts-real-id-security-may-7-deadline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
