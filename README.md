@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Domination: RSAC 2025 Social Media Roundup](https://www.darkreading.com/cloud-security/ai-rsac-2025-social-media-roundup)
+- [&#39;Venom Spider&#39; Targets Hiring Managers in Phishing Scheme](https://www.darkreading.com/cyber-risk/venom-spider-phishing-scheme)
 - [Phony Hacktivist Pleads Guilty to Disney Data Leak](https://www.darkreading.com/threat-intelligence/phony-hacktivist-pleads-guilty-disney-leak)
 - [How to Prevent AI Agents From Becoming the Bad Guys](https://www.darkreading.com/vulnerabilities-threats/prevent-ai-agents-becoming-bad-guys)
 - [UK Retailers Reeling From Likely Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks)
 - [What NY&#39;s New Security Rules Mean for Finance Firms](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
 - [Attackers Ramp Up Efforts Targeting Developer Secrets](https://www.darkreading.com/threat-intelligence/attackers-targeting-developer-secrets)
 - [Despite Arrests, Scattered Spider Continues High-Profile Hacking](https://www.darkreading.com/cyberattacks-data-breaches/despite-arrests-scattered-spider-continues-hacking)
-- [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
-- [SANS Top 5: Cyber Has Busted Out of the SOC](https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
