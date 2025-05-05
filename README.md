@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Phony Hacktivist Pleads Guilty to Disney Data Leak](https://www.darkreading.com/threat-intelligence/phony-hacktivist-pleads-guilty-disney-leak)
 - [How to Prevent AI Agents From Becoming the Bad Guys](https://www.darkreading.com/vulnerabilities-threats/prevent-ai-agents-becoming-bad-guys)
 - [UK Retailers Reeling From Likely Ransomware Attacks](https://www.darkreading.com/cyberattacks-data-breaches/uk-retailers-reeling-ransomware-attacks)
 - [What NY&#39;s New Security Rules Mean for Finance Firms](https://www.darkreading.com/cybersecurity-operations/nydfs-rules-businesses-ny)
@@ -83,7 +84,6 @@
 - [Despite Arrests, Scattered Spider Continues High-Profile Hacking](https://www.darkreading.com/cyberattacks-data-breaches/despite-arrests-scattered-spider-continues-hacking)
 - [Cut CISA and Everyone Pays for It](https://www.darkreading.com/vulnerabilities-threats/cut-cisa-everyone-pays)
 - [SANS Top 5: Cyber Has Busted Out of the SOC](https://www.darkreading.com/cloud-security/sans-top5-cyber-broken-out-soc)
-- [Enterprises Need to Beware of These 5 Threats](https://www.darkreading.com/cyberattacks-data-breaches/enterprises-need-beware-five-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
