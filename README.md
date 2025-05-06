@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Researcher Says Patched Commvault Bug Still Exploitable](https://www.darkreading.com/cyberattacks-data-breaches/researcher-patched-commvault-bug-exploitable)
 - [&#39;Easily Exploitable&#39; Langflow Vulnerability Requires Immediate Patching](https://www.darkreading.com/vulnerabilities-threats/easily-exploitable-langflow-vulnerability-patching)
 - [CISA Warns 2 SonicWall Vulnerabilities Under Active Exploitation](https://www.darkreading.com/threat-intelligence/two-sonicwall-vulnerabilities-under-exploitation)
 - [Addressing the Top Cyber-Risks in Higher Education](https://www.darkreading.com/vulnerabilities-threats/addressing-top-cyber-risks-higher-education)
@@ -83,7 +84,6 @@
 - [&#39;Venom Spider&#39; Targets Hiring Managers in Phishing Scheme](https://www.darkreading.com/cyber-risk/venom-spider-phishing-scheme)
 - [Ongoing Passkey Usability Challenges Require &#39;Problem-Solving&#39;](https://www.darkreading.com/identity-access-management-security/passkey-usability-challenges-require-problem-solving)
 - [The Dark Side of Digital: Breaking the Silence on Youth Mental Health](https://www.darkreading.com/data-privacy/dark-side-digital-breaking-silence-youth-mental-health)
-- [Phony Hacktivist Pleads Guilty to Disney Data Leak](https://www.darkreading.com/threat-intelligence/phony-hacktivist-pleads-guilty-disney-leak)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
