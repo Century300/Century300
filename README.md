@@ -80,7 +80,7 @@
 - [Addressing the Top Cyber-Risks in Higher Education](https://www.darkreading.com/vulnerabilities-threats/addressing-top-cyber-risks-higher-education)
 - [AI Domination: RSAC 2025 Social Media Roundup](https://www.darkreading.com/cloud-security/ai-rsac-2025-social-media-roundup)
 - [&#39;Venom Spider&#39; Targets Hiring Managers in Phishing Scheme](https://www.darkreading.com/cyber-risk/venom-spider-phishing-scheme)
-- [Ongoing Passkey Usability Challenges Require &#39;Problem Solving&#39;](https://www.darkreading.com/identity-access-management-security/passkey-usability-challenges-require-problem-solving)
+- [Ongoing Passkey Usability Challenges Require &#39;Problem-Solving&#39;](https://www.darkreading.com/identity-access-management-security/passkey-usability-challenges-require-problem-solving)
 - [The Dark Side of Digital: Breaking the Silence on Youth Mental Health](https://www.darkreading.com/data-privacy/dark-side-digital-breaking-silence-youth-mental-health)
 - [Phony Hacktivist Pleads Guilty to Disney Data Leak](https://www.darkreading.com/threat-intelligence/phony-hacktivist-pleads-guilty-disney-leak)
 - [How to Prevent AI Agents From Becoming the Bad Guys](https://www.darkreading.com/vulnerabilities-threats/prevent-ai-agents-becoming-bad-guys)
