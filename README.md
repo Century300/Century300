@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;CoGUI&#39; Phishing Kit Helps Chinese Hackers Target Japan](https://www.darkreading.com/threat-intelligence/cogui-phishing-kit-chinese-hackers-japan)
 - [TikTok Fined €530 Million Over Chinese Access to EU Data](https://www.darkreading.com/cybersecurity-operations/tiktok-fined-530-million-eu-data-servers-china)
 - [Meta Wins Lawsuit Against Spyware Vendor NSO Group](https://www.darkreading.com/vulnerabilities-threats/meta-wins-lawsuit-spyware-vendor-nso)
 - [Play Ransomware Group Used Windows Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/play-ransomware-group-windows-zero-day)
@@ -83,7 +84,6 @@
 - [Infrastructure as Code: An IaC Guide to Cloud Security](https://www.darkreading.com/cloud-security/infrastructure-code-iac-guide-cloud-security)
 - [Researcher Says Patched Commvault Bug Still Exploitable](https://www.darkreading.com/cyberattacks-data-breaches/researcher-patched-commvault-bug-exploitable)
 - [&#39;Easily Exploitable&#39; Langflow Vulnerability Requires Immediate Patching](https://www.darkreading.com/vulnerabilities-threats/easily-exploitable-langflow-vulnerability-patching)
-- [CISA Warns 2 SonicWall Vulnerabilities Under Active Exploitation](https://www.darkreading.com/threat-intelligence/two-sonicwall-vulnerabilities-under-exploitation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
