@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [&#39;Lemon Sandstorm&#39; Underscores Risks to Middle East Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/lemon-sandstorm-risks-middle-east-infrastructure)
 - [&#39;CoGUI&#39; Phishing Kit Helps Chinese Hackers Target Japan](https://www.darkreading.com/threat-intelligence/cogui-phishing-kit-chinese-hackers-japan)
+- [AI Agents Fail in Novel Ways, Put Businesses at Risk](https://www.darkreading.com/vulnerabilities-threats/ai-agents-fail-novel-put-businesses-at-risk)
 - [TikTok Fined €530 Million Over Chinese Access to EU Data](https://www.darkreading.com/cybersecurity-operations/tiktok-fined-530-million-eu-data-servers-china)
 - [Meta Wins Lawsuit Against Spyware Vendor NSO Group](https://www.darkreading.com/vulnerabilities-threats/meta-wins-lawsuit-spyware-vendor-nso)
 - [Play Ransomware Group Used Windows Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/play-ransomware-group-windows-zero-day)
 - [&#39;Bring Your Own Installer&#39; Attack Targets SentinelOne EDR](https://www.darkreading.com/vulnerabilities-threats/bring-your-own-installer-attack-sentinelone-edr)
 - [Infrastructure as Code: An IaC Guide to Cloud Security](https://www.darkreading.com/cloud-security/infrastructure-code-iac-guide-cloud-security)
-- [Researcher Says Patched Commvault Bug Still Exploitable](https://www.darkreading.com/cyberattacks-data-breaches/researcher-patched-commvault-bug-exploitable)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
