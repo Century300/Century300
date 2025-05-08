@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Operation PowerOFF Takes Down 9 DDoS-for-Hire Domains](https://www.darkreading.com/threat-intelligence/operation-poweroff-takes-down-nine-ddos-domains)
 - [Life Without CVEs? It&#39;s Time to Act](https://www.darkreading.com/vulnerabilities-threats/life-without-cves-time-act)
 - [&#39;Lemon Sandstorm&#39; Underscores Risks to Middle East Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/lemon-sandstorm-risks-middle-east-infrastructure)
 - [&#39;CoGUI&#39; Phishing Kit Helps Chinese Hackers Target Japan](https://www.darkreading.com/threat-intelligence/cogui-phishing-kit-chinese-hackers-japan)
@@ -83,7 +84,6 @@
 - [Countries Begin NATO&#39;s Locked Shields Cyber-Defense Exercise](https://www.darkreading.com/cybersecurity-operations/countries-nato-locked-shields-cyber-defense-exercise)
 - [TikTok Fined €530 Million Over Chinese Access to EU Data](https://www.darkreading.com/cybersecurity-operations/tiktok-fined-530-million-eu-data-servers-china)
 - [Meta Wins Lawsuit Against Spyware Vendor NSO Group](https://www.darkreading.com/vulnerabilities-threats/meta-wins-lawsuit-spyware-vendor-nso)
-- [Play Ransomware Group Used Windows Zero-Day](https://www.darkreading.com/cyberattacks-data-breaches/play-ransomware-group-windows-zero-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
