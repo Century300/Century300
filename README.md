@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Then &amp;amp; Now: Inside a 2-Decade Industry Evolution](https://www.darkreading.com/cloud-security/cyber-then-now-2-decade-industry-evolution)
 - [Commvault: Vulnerability Patch Works as Intended](https://www.darkreading.com/application-security/commvault-patch-works-as-intended)
 - [Insight Partners Data Breach: Bigger Impact Than Anticipated](https://www.darkreading.com/threat-intelligence/insight-partners-data-breach-bigger-impact)
 - [How Security Has Changed the Hacker Marketplace](https://www.darkreading.com/vulnerabilities-threats/how-security-changed-hacker-marketplace)
@@ -83,7 +84,6 @@
 - [Email-Based Attacks Top Cyber-Insurance Claims](https://www.darkreading.com/cyber-risk/email-based-attacks-cyber-insurance-claims)
 - [Operation PowerOFF Takes Down 9 DDoS-for-Hire Domains](https://www.darkreading.com/threat-intelligence/operation-poweroff-takes-down-nine-ddos-domains)
 - [Life Without CVEs? It&#39;s Time to Act](https://www.darkreading.com/vulnerabilities-threats/life-without-cves-time-act)
-- [&#39;Lemon Sandstorm&#39; Underscores Risks to Middle East Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/lemon-sandstorm-risks-middle-east-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
