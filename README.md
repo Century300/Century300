@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Commvault: Vulnerability Patch Works as Intended](https://www.darkreading.com/application-security/commvault-patch-works-as-intended)
+- [Insight Partners Data Breach: Bigger Impact Than Anticipated](https://www.darkreading.com/threat-intelligence/insight-partners-data-breach-bigger-impact)
 - [How Security Has Changed the Hacker Marketplace](https://www.darkreading.com/vulnerabilities-threats/how-security-changed-hacker-marketplace)
 - [SonicWall Issues Patch for Exploit Chain in SMA Devices](https://www.darkreading.com/endpoint-security/sonicwall-patch-exploit-chain-sma-devices)
 - [Email-Based Attacks Top Cyber-Insurance Claims](https://www.darkreading.com/cyber-risk/email-based-attacks-cyber-insurance-claims)
 - [Operation PowerOFF Takes Down 9 DDoS-for-Hire Domains](https://www.darkreading.com/threat-intelligence/operation-poweroff-takes-down-nine-ddos-domains)
 - [Life Without CVEs? It&#39;s Time to Act](https://www.darkreading.com/vulnerabilities-threats/life-without-cves-time-act)
 - [&#39;Lemon Sandstorm&#39; Underscores Risks to Middle East Infrastructure](https://www.darkreading.com/cyberattacks-data-breaches/lemon-sandstorm-risks-middle-east-infrastructure)
-- [&#39;CoGUI&#39; Phishing Kit Helps Chinese Hackers Target Japan](https://www.darkreading.com/threat-intelligence/cogui-phishing-kit-chinese-hackers-japan)
-- [AI Agents Fail in Novel Ways, Put Businesses at Risk](https://www.darkreading.com/vulnerabilities-threats/ai-agents-fail-novel-put-businesses-at-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
