@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerability Detection Tops Agentic AI at RSAC&#39;s Startup Competition](https://www.darkreading.com/vulnerabilities-threats/vulnerability-detection-agentic-ai-rsac-startup-competition)
 - [Rapid7 Launches Managed Detection &amp;amp; Response &lpar;MDR&rpar; for Enterprise](https://www.darkreading.com/cybersecurity-operations/rapid7-launches-managed-detection-response-mdr-for-enterprise)
 - [After Pahalgam Attack, Hacktivists Unite Under #OpIndia](https://www.darkreading.com/cyberattacks-data-breaches/pahalgam-attack-hacktivists-unite-opindia)
-- [New UK Security Guidelines Aims to Reshape Software Development](https://www.darkreading.com/application-security/uk-security-guidelines-boost-software-development)
+- [New UK Security Guidelines Aim to Reshape Software Development](https://www.darkreading.com/application-security/uk-security-guidelines-boost-software-development)
 - [LockBit Ransomware Gang Hacked, Operations Data Leaked](https://www.darkreading.com/threat-intelligence/lockbit-ransomware-gang-hacked-data-leaked)
 - [Cyber Then &amp;amp; Now: Inside a 2-Decade Industry Evolution](https://www.darkreading.com/cloud-security/cyber-then-now-2-decade-industry-evolution)
 - [Commvault: Vulnerability Patch Works as Intended](https://www.darkreading.com/application-security/commvault-patch-works-as-intended)
 - [Insight Partners Data Breach: Bigger Impact Than Anticipated](https://www.darkreading.com/threat-intelligence/insight-partners-data-breach-bigger-impact)
-- [How Security Has Changed the Hacker Marketplace](https://www.darkreading.com/vulnerabilities-threats/how-security-changed-hacker-marketplace)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
