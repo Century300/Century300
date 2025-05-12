@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Lace Fake Generative AI Tools With &#39;Noodlophile&#39; Malware](https://www.darkreading.com/endpoint-security/attackers-fake-generative-ai-tools-malware)
 - [4 Hackers Arrested After Millions Made in Global Botnet Business](https://www.darkreading.com/endpoint-security/4-hackers-arrested-global-botnet-business)
 - [Can Cybersecurity Keep Up In the AI Arms Race?](https://www.darkreading.com/cyber-risk/can-cybersecurity-keep-up-ai-arms-race)
 - [Vulnerability Detection Tops Agentic AI at RSAC&#39;s Startup Competition](https://www.darkreading.com/vulnerabilities-threats/vulnerability-detection-agentic-ai-rsac-startup-competition)
@@ -83,7 +84,6 @@
 - [After Pahalgam Attack, Hacktivists Unite Under #OpIndia](https://www.darkreading.com/cyberattacks-data-breaches/pahalgam-attack-hacktivists-unite-opindia)
 - [New UK Security Guidelines Aim to Reshape Software Development](https://www.darkreading.com/application-security/uk-security-guidelines-boost-software-development)
 - [LockBit Ransomware Gang Hacked, Operations Data Leaked](https://www.darkreading.com/threat-intelligence/lockbit-ransomware-gang-hacked-data-leaked)
-- [Cyber Then &amp;amp; Now: Inside a 2-Decade Industry Evolution](https://www.darkreading.com/cloud-security/cyber-then-now-2-decade-industry-evolution)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
