@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Building Effective Security Programs Requires Strategy, Patience, and Clear Vision](https://www.darkreading.com/cyber-risk/building-effective-security-programs-strategy-patience-clear-vision)
+- [DeepSeek, Deep Research Mean Deep Changes for AI Security](https://www.darkreading.com/vulnerabilities-threats/deepseek-deep-research-deep-changes-ai-security)
 - [North Korea&#39;s TA406 Targets Ukraine for Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-ta406-targets-ukraine)
 - [Fortra Expands SSE Capabilities With Lookout&#39;s Cloud Security Business](https://www.darkreading.com/cloud-security/fortra-expands-sse-lookout-cloud-business)
 - [NSO Group&#39;s Legal Loss May Do Little to Curtail Spyware](https://www.darkreading.com/endpoint-security/nso-groups-legal-loss-curtail-spyware)
 - [Attackers Lace Fake Generative AI Tools With &#39;Noodlophile&#39; Malware](https://www.darkreading.com/endpoint-security/attackers-fake-generative-ai-tools-malware)
 - [Google Agrees to Settle $1.375B &#39;Historic&#39; Privacy Case Against Texas](https://www.darkreading.com/vulnerabilities-threats/google-settles-privacy-case-texas)
 - [4 Hackers Arrested After Millions Made in Global Botnet Business](https://www.darkreading.com/endpoint-security/4-hackers-arrested-global-botnet-business)
-- [Can Cybersecurity Keep Up In the AI Arms Race?](https://www.darkreading.com/cyber-risk/can-cybersecurity-keep-up-ai-arms-race)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
