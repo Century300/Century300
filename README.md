@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea&#39;s TA406 Targets Ukraine for Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-ta406-targets-ukraine)
 - [NSO Group&#39;s Legal Loss May Do Little to Curtail Spyware](https://www.darkreading.com/endpoint-security/nso-groups-legal-loss-curtail-spyware)
 - [Attackers Lace Fake Generative AI Tools With &#39;Noodlophile&#39; Malware](https://www.darkreading.com/endpoint-security/attackers-fake-generative-ai-tools-malware)
 - [4 Hackers Arrested After Millions Made in Global Botnet Business](https://www.darkreading.com/endpoint-security/4-hackers-arrested-global-botnet-business)
@@ -83,7 +84,6 @@
 - [Vulnerability Detection Tops Agentic AI at RSAC&#39;s Startup Competition](https://www.darkreading.com/vulnerabilities-threats/vulnerability-detection-agentic-ai-rsac-startup-competition)
 - [Rapid7 Launches Managed Detection &amp;amp; Response &lpar;MDR&rpar; for Enterprise](https://www.darkreading.com/cybersecurity-operations/rapid7-launches-managed-detection-response-mdr-for-enterprise)
 - [After Pahalgam Attack, Hacktivists Unite Under #OpIndia](https://www.darkreading.com/cyberattacks-data-breaches/pahalgam-attack-hacktivists-unite-opindia)
-- [New UK Security Guidelines Aim to Reshape Software Development](https://www.darkreading.com/application-security/uk-security-guidelines-boost-software-development)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
