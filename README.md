@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Building Effective Security Programs Requires Strategy, Patience, and Clear Vision](https://www.darkreading.com/cyber-risk/building-effective-security-programs-strategy-patience-clear-vision)
+- [Windows Zero-Day Bug Exploited for Browser-Led RCE](https://www.darkreading.com/vulnerabilities-threats/windows-zero-day-bug-exploited-browser-rce)
+- [Chinese Actor Hit Taiwanese Drone Makers, Supply Chains](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-taiwanese-drone-makers-supply-chains)
 - [What Does EU&#39;s Bug Database Mean for Vulnerability Tracking?](https://www.darkreading.com/vulnerabilities-threats/eu-bug-database-vulnerability-tracking)
 - [CISA Warns of TeleMessage Vuln Despite Low CVSS Score](https://www.darkreading.com/threat-intelligence/cisa-warns-telemessage-vuln-low-cvss-score)
 - [DeepSeek, Deep Research Mean Deep Changes for AI Security](https://www.darkreading.com/vulnerabilities-threats/deepseek-deep-research-deep-changes-ai-security)
 - [North Korea&#39;s TA406 Targets Ukraine for Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-ta406-targets-ukraine)
 - [Fortra Expands SSE Capabilities With Lookout&#39;s Cloud Security Business](https://www.darkreading.com/cloud-security/fortra-expands-sse-lookout-cloud-business)
-- [NSO Group&#39;s Legal Loss May Do Little to Curtail Spyware](https://www.darkreading.com/endpoint-security/nso-groups-legal-loss-curtail-spyware)
-- [Attackers Lace Fake Generative AI Tools With &#39;Noodlophile&#39; Malware](https://www.darkreading.com/endpoint-security/attackers-fake-generative-ai-tools-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
