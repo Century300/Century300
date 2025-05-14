@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Marks &amp;amp; Spencer Confirms Customer Data Stolen in Cyberattack](https://www.darkreading.com/threat-intelligence/marks-spencer-confirms-customer-data-stolen)
+- [Congress Should Tackle Cyber Threats, Not Competition](https://www.darkreading.com/vulnerabilities-threats/congress-cyber-threats-competition)
 - [Orca Security Gets AI-Powered Remediation From Opus Deal](https://www.darkreading.com/cloud-security/orca-security-ai-powered-remediation-opus)
 - [Hacktivists Make Little Impact During India-Pakistan Conflict](https://www.darkreading.com/cyberattacks-data-breaches/hacktivists-little-impact-during-india-pakistan-conflict)
 - [Building Effective Security Programs Requires Strategy, Patience, and Clear Vision](https://www.darkreading.com/cyber-risk/building-effective-security-programs-strategy-patience-clear-vision)
 - [Windows Zero-Day Bug Exploited for Browser-Led RCE](https://www.darkreading.com/vulnerabilities-threats/windows-zero-day-bug-exploited-browser-rce)
 - [Chinese Actor Hit Taiwanese Drone Makers, Supply Chains](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-taiwanese-drone-makers-supply-chains)
 - [What Does EU&#39;s Bug Database Mean for Vulnerability Tracking?](https://www.darkreading.com/vulnerabilities-threats/eu-bug-database-vulnerability-tracking)
-- [CISA Warns of TeleMessage Vuln Despite Low CVSS Score](https://www.darkreading.com/threat-intelligence/cisa-warns-telemessage-vuln-low-cvss-score)
-- [DeepSeek, Deep Research Mean Deep Changes for AI Security](https://www.darkreading.com/vulnerabilities-threats/deepseek-deep-research-deep-changes-ai-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
