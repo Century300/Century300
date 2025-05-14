@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacktivists Make Little Impact During India-Pakistan Conflict](https://www.darkreading.com/cyberattacks-data-breaches/hacktivists-little-impact-during-india-pakistan-conflict)
 - [Building Effective Security Programs Requires Strategy, Patience, and Clear Vision](https://www.darkreading.com/cyber-risk/building-effective-security-programs-strategy-patience-clear-vision)
 - [Windows Zero-Day Bug Exploited for Browser-Led RCE](https://www.darkreading.com/vulnerabilities-threats/windows-zero-day-bug-exploited-browser-rce)
 - [Chinese Actor Hit Taiwanese Drone Makers, Supply Chains](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-taiwanese-drone-makers-supply-chains)
@@ -83,7 +84,6 @@
 - [CISA Warns of TeleMessage Vuln Despite Low CVSS Score](https://www.darkreading.com/threat-intelligence/cisa-warns-telemessage-vuln-low-cvss-score)
 - [DeepSeek, Deep Research Mean Deep Changes for AI Security](https://www.darkreading.com/vulnerabilities-threats/deepseek-deep-research-deep-changes-ai-security)
 - [North Korea&#39;s TA406 Targets Ukraine for Intel](https://www.darkreading.com/cyberattacks-data-breaches/north-koreas-ta406-targets-ukraine)
-- [Fortra Expands SSE Capabilities With Lookout&#39;s Cloud Security Business](https://www.darkreading.com/cloud-security/fortra-expands-sse-lookout-cloud-business)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
