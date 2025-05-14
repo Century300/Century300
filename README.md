@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infosec Layoffs Aren&#39;t the Bargain That Boards May Think](https://www.darkreading.com/cyber-risk/infosec-layoffs-arent-bargain-boards-may-think)
+- [AI Agents May Have a Memory Problem](https://www.darkreading.com/cyber-risk/ai-agents-memory-problem)
 - [Ivanti EPMM Zero-Day Flaws Exploited in Chained Attack](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-flaws-exploited)
 - [Marks &amp;amp; Spencer Confirms Customer Data Stolen in Cyberattack](https://www.darkreading.com/threat-intelligence/marks-spencer-confirms-customer-data-stolen)
 - [Congress Should Tackle Cyber Threats, Not Competition](https://www.darkreading.com/vulnerabilities-threats/congress-cyber-threats-competition)
 - [Orca Security Gets AI-Powered Remediation From Opus Deal](https://www.darkreading.com/cloud-security/orca-security-ai-powered-remediation-opus)
 - [Hacktivists Make Little Impact During India-Pakistan Conflict](https://www.darkreading.com/cyberattacks-data-breaches/hacktivists-little-impact-during-india-pakistan-conflict)
 - [Building Effective Security Programs Requires Strategy, Patience, and Clear Vision](https://www.darkreading.com/cyber-risk/building-effective-security-programs-strategy-patience-clear-vision)
-- [Windows Zero-Day Bug Exploited for Browser-Led RCE](https://www.darkreading.com/vulnerabilities-threats/windows-zero-day-bug-exploited-browser-rce)
-- [Chinese Actor Hit Taiwanese Drone Makers, Supply Chains](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-taiwanese-drone-makers-supply-chains)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
