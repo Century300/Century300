@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical SAP NetWeaver Vuln Faces Barrage of Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/critical-sap-netweaver-vuln-cyberattacks)
 - [RSAC 2025: AI Everywhere, Trust Nowhere](https://www.darkreading.com/vulnerabilities-threats/rsac-2025-ai-everywhere-trust-nowhere)
 - [RealDefense Partner Program Surpasses $100M in Annual Revenue](https://www.darkreading.com/endpoint-security/realdefense-partner-program-surpasses-100m-in-annual-revenue)
 - [Critical Infrastructure Under Siege: OT Security Still Lags](https://www.darkreading.com/ics-ot-security/critical-infrastructure-ot-security-still-lags)
@@ -83,7 +84,6 @@
 - [AI Agents May Have a Memory Problem](https://www.darkreading.com/cyber-risk/ai-agents-memory-problem)
 - [Using a Calculator to Take Guesswork Out of Measuring Cyber-Risk](https://www.darkreading.com/cyber-risk/calculator-guesswork-measure-cyber-risk)
 - [Ivanti EPMM Zero-Day Flaws Exploited in Chained Attack](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-flaws-exploited)
-- [Marks &amp;amp; Spencer Confirms Customer Data Stolen in Cyberattack](https://www.darkreading.com/threat-intelligence/marks-spencer-confirms-customer-data-stolen)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
