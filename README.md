@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RSAC 2025: AI Everywhere, Trust Nowhere](https://www.darkreading.com/vulnerabilities-threats/rsac-2025-ai-everywhere-trust-nowhere)
+- [RealDefense Partner Program Surpasses $100M in Annual Revenue](https://www.darkreading.com/endpoint-security/realdefense-partner-program-surpasses-100m-in-annual-revenue)
 - [Critical Infrastructure Under Siege: OT Security Still Lags](https://www.darkreading.com/ics-ot-security/critical-infrastructure-ot-security-still-lags)
 - [Infosec Layoffs Aren&#39;t the Bargain That Boards May Think](https://www.darkreading.com/cyber-risk/infosec-layoffs-arent-bargain-boards-may-think)
 - [AI Agents May Have a Memory Problem](https://www.darkreading.com/cyber-risk/ai-agents-memory-problem)
 - [Using a Calculator to Take Guesswork Out of Measuring Cyber-Risk](https://www.darkreading.com/cyber-risk/calculator-guesswork-measure-cyber-risk)
 - [Ivanti EPMM Zero-Day Flaws Exploited in Chained Attack](https://www.darkreading.com/endpoint-security/ivanti-epmm-zero-day-flaws-exploited)
 - [Marks &amp;amp; Spencer Confirms Customer Data Stolen in Cyberattack](https://www.darkreading.com/threat-intelligence/marks-spencer-confirms-customer-data-stolen)
-- [Congress Should Tackle Cyber Threats, Not Competition](https://www.darkreading.com/vulnerabilities-threats/congress-cyber-threats-competition)
-- [Orca Security Gets AI-Powered Remediation From Opus Deal](https://www.darkreading.com/cloud-security/orca-security-ai-powered-remediation-opus)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
