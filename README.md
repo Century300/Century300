@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Coinbase Extorted, Offers $20M for Info on Its Hackers](https://www.darkreading.com/cyberattacks-data-breaches/coinbase-extorted-20m-hackers)
 - [Australian Human Rights Commission Leaks Docs in Data Breach](https://www.darkreading.com/application-security/australian-human-rights-commission-leaks-data-breach)
 - [Dynamic DNS Emerges as Go-to Cyberattack Facilitator](https://www.darkreading.com/threat-intelligence/dynamic-dns-cyberattack-facilitator)
 - [Attacker Specialization Puts Threat Modeling on Defensive](https://www.darkreading.com/threat-intelligence/attackers-specialize-cyber-threat-models-adapt)
@@ -83,7 +84,6 @@
 - [Turkish APT Exploits Chat App Zero-Day to Spy on Iraqi Kurds](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
 - [Big Steelmaker Halts Operations After Cyber Incident](https://www.darkreading.com/threat-intelligence/steel-manufacturer-stalls-operations-cyber-incident)
 - [Valarian Unveils Data Management Platform Designed for Government Use](https://www.darkreading.com/cyber-risk/valarian-data-management-platform-government)
-- [International Crime Rings Defraud US Gov&#39;t Out of Billions](https://www.darkreading.com/threat-intelligence/international-crime-rings-defraud-us-govt-billions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
