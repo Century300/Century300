@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Develop and Communicate Metrics for CSIRPs](https://www.darkreading.com/cybersecurity-operations/develop-communicate-metrics-csirps)
 - [Turkish APT Exploits Chat App Zero-Day to Spy on Iraqi Kurds](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
 - [Big Steelmaker Halts Operations After Cyber Incident](https://www.darkreading.com/threat-intelligence/steel-manufacturer-stalls-operations-cyber-incident)
 - [Valarian Unveils Data Management Platform Designed for Government Use](https://www.darkreading.com/cyber-risk/valarian-data-management-platform-government)
@@ -83,7 +84,6 @@
 - [Attackers Target Samsung MagicINFO Server Bug, Patch Now](https://www.darkreading.com/endpoint-security/attackers-target-samsung-magicinfo-server-bug)
 - [Critical SAP NetWeaver Vuln Faces Barrage of Cyberattacks](https://www.darkreading.com/vulnerabilities-threats/critical-sap-netweaver-vuln-cyberattacks)
 - [RSAC 2025: AI Everywhere, Trust Nowhere](https://www.darkreading.com/vulnerabilities-threats/rsac-2025-ai-everywhere-trust-nowhere)
-- [RealDefense Partner Program Surpasses $100M in Annual Revenue](https://www.darkreading.com/endpoint-security/realdefense-partner-program-surpasses-100m-in-annual-revenue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
