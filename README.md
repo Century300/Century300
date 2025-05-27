@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Coinbase Extorted, Offers $20M for Info on Its Hackers](https://www.darkreading.com/cyberattacks-data-breaches/coinbase-extorted-20m-hackers)
-- [Australian Human Rights Commission Leaks Docs in Data Breach](https://www.darkreading.com/application-security/australian-human-rights-commission-leaks-data-breach)
-- [Dynamic DNS Emerges as Go-to Cyberattack Facilitator](https://www.darkreading.com/threat-intelligence/dynamic-dns-cyberattack-facilitator)
-- [Attacker Specialization Puts Threat Modeling on Defensive](https://www.darkreading.com/threat-intelligence/attackers-specialize-cyber-threat-models-adapt)
-- [How to Develop and Communicate Metrics for CSIRPs](https://www.darkreading.com/cybersecurity-operations/develop-communicate-metrics-csirps)
-- [Turkish APT Exploits Chat App Zero-Day to Spy on Iraqi Kurds](https://www.darkreading.com/cyberattacks-data-breaches/turkish-apt-exploits-chat-app-zero-day-spy-iraqi-kurds)
-- [Big Steelmaker Halts Operations After Cyber Incident](https://www.darkreading.com/threat-intelligence/steel-manufacturer-stalls-operations-cyber-incident)
-- [Valarian Unveils Data Management Platform Designed for Government Use](https://www.darkreading.com/cyber-risk/valarian-data-management-platform-government)
+- [Adidas Falls Victim to Third-Party Data Breach](https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach)
+- [CISA Warns of Attacks Targeting Commvault SaaS Environment](https://www.darkreading.com/cloud-security/cisa-warns-attacks-commvault-saas-environment)
+- [DragonForce Ransomware Strikes MSP in Supply Chain Attack](https://www.darkreading.com/application-security/dragonforce-ransomware-msp-supply-chain-attack)
+- [MathWorks, Creator of MATLAB, Confirms Ransomware Attack](https://www.darkreading.com/vulnerabilities-threats/mathworks-confirms-ransomware-attack)
+- [FBI: Silent Ransom Group Adopts Vishing Campaign Against Law Firms](https://www.darkreading.com/endpoint-security/fbi-silent-ransom-group-vishing-law-firms)
+- [How the New Hacker Millionaire Class Was Built](https://www.darkreading.com/remote-workforce/hacker-millionaire-class-built)
+- [Danabot Takedown Deals Blow to Russian Cybercrime](https://www.darkreading.com/threat-intelligence/danabot-takedown-russian-cybercrime)
+- [CVE Uncertainty Underlines Importance of Cyber Resilience](https://www.darkreading.com/vulnerabilities-threats/cve-uncertainty-underlines-importance-cyber-resilience)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
