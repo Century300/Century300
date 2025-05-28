@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cellcom Restores Regional Mobile Services After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack)
 - [Why Take9 Won&#39;t Improve Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity)
 - [Have Your Say: Dark Reading Seeks Your Input](https://www.darkreading.com/threat-intelligence/have-your-say-dark-reading-seeks-your-input)
 - [Zscaler Announces Deal to Acquire Red Canary](https://www.darkreading.com/threat-intelligence/zscaler-announces-deal-acquire-red-canary)
@@ -83,7 +84,6 @@
 - [Adidas Falls Victim to Third-Party Data Breach](https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach)
 - [CISA Warns of Attacks Targeting Commvault SaaS Environment](https://www.darkreading.com/cloud-security/cisa-warns-attacks-commvault-saas-environment)
 - [DragonForce Ransomware Strikes MSP in Supply Chain Attack](https://www.darkreading.com/application-security/dragonforce-ransomware-msp-supply-chain-attack)
-- [MathWorks, Creator of MATLAB, Confirms Ransomware Attack](https://www.darkreading.com/vulnerabilities-threats/mathworks-confirms-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
