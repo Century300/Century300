@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files](https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files)
 - [Implementing Secure by Design Principles for AI](https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai)
 - [Cellcom Restores Regional Mobile Services After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack)
 - [Why Take9 Won&#39;t Improve Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity)
@@ -83,7 +84,6 @@
 - [Zscaler Announces Deal to Acquire Red Canary](https://www.darkreading.com/threat-intelligence/zscaler-announces-deal-acquire-red-canary)
 - [Indian Police Arrest Cybercrime Gang Copycats of Myanmar Biz Model](https://www.darkreading.com/cyberattacks-data-breaches/indian-police-arrest-cybercrime-gang-copycats-myanmar-biz-model)
 - [Adidas Falls Victim to Third-Party Data Breach](https://www.darkreading.com/vulnerabilities-threats/adidas-victim-third-party-data-breach)
-- [CISA Warns of Attacks Targeting Commvault SaaS Environment](https://www.darkreading.com/cloud-security/cisa-warns-attacks-commvault-saas-environment)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
