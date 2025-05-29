@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A Defense-in-Depth Approach for the Modern Era](https://www.darkreading.com/vulnerabilities-threats/defense-depth-approach-modern-era)
 - [&#39;Haozi&#39; Gang Sells Turnkey Phishing Tools to Amateurs](https://www.darkreading.com/threat-intelligence/haozi-gang-sells-turnkey-phishing-tools-amateurs)
 - [Certified Randomness Uses Quantum Cryptography to Make Stronger Keys](https://www.darkreading.com/endpoint-security/certified-randomnes-squantum-cryptography-stronger-keys)
 - [Hundreds of Web Apps Have Full Access to Microsoft OneDrive Files](https://www.darkreading.com/application-security/hundreds-web-apps-full-access-onedrive-files)
@@ -83,7 +84,6 @@
 - [Implementing Secure by Design Principles for AI](https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai)
 - [Cellcom Restores Regional Mobile Services After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack)
 - [Why Take9 Won&#39;t Improve Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity)
-- [Have Your Say: Dark Reading Seeks Your Input](https://www.darkreading.com/threat-intelligence/have-your-say-dark-reading-seeks-your-input)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
