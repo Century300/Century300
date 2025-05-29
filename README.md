@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Victoria&#39;s Secret Goes Offline After &#39;Incident&#39; Claims](https://www.darkreading.com/endpoint-security/victoria-secret-website-security-incident)
+- [New Botnet Plants Persistent Backdoors in ASUS Routers](https://www.darkreading.com/vulnerabilities-threats/botnet-persistent-backdoors-asus-routers)
 - [SentinelOne Reports Services Are Back Online After Global Outage](https://www.darkreading.com/endpoint-security/sentinelone-reports-services-back-online-after-global-outage)
 - [Zscaler&#39;s Buyout of Red Canary Shows Telemetry&#39;s Value](https://www.darkreading.com/cybersecurity-operations/zscaler-buyout-red-canary-telemetrys-value)
+- [APT41 Uses Google Calendar Events for C2](https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2)
 - [PumaBot Targets Linux Devices in Latest Botnet Campaign](https://www.darkreading.com/threat-intelligence/pumabot-targets-linux-devices-botnet-campaign)
 - [LexisNexis Informs 360K+ Customers of Third-Party Data Leak](https://www.darkreading.com/cyberattacks-data-breaches/lexisnexis-360k-customers-third-party-data-leak)
 - [A Defense-in-Depth Approach for the Modern Era](https://www.darkreading.com/vulnerabilities-threats/defense-depth-approach-modern-era)
-- [&#39;Haozi&#39; Gang Sells Turnkey Phishing Tools to Amateurs](https://www.darkreading.com/threat-intelligence/haozi-gang-sells-turnkey-phishing-tools-amateurs)
-- [Certified Randomness Uses Quantum Cryptography to Make Stronger Keys](https://www.darkreading.com/endpoint-security/certified-randomnes-squantum-cryptography-stronger-keys)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
