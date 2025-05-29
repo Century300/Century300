@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [PumaBot Targets Linux Devices in Latest Botnet Campaign](https://www.darkreading.com/threat-intelligence/pumabot-targets-linux-devices-botnet-campaign)
 - [A Defense-in-Depth Approach for the Modern Era](https://www.darkreading.com/vulnerabilities-threats/defense-depth-approach-modern-era)
 - [&#39;Haozi&#39; Gang Sells Turnkey Phishing Tools to Amateurs](https://www.darkreading.com/threat-intelligence/haozi-gang-sells-turnkey-phishing-tools-amateurs)
 - [Certified Randomness Uses Quantum Cryptography to Make Stronger Keys](https://www.darkreading.com/endpoint-security/certified-randomnes-squantum-cryptography-stronger-keys)
@@ -83,7 +84,6 @@
 - [CISA Issues SOAR, SIEM Implementation Guidance](https://www.darkreading.com/cybersecurity-operations/cisa-soar-siem-implementation-guidance)
 - [Implementing Secure by Design Principles for AI](https://www.darkreading.com/vulnerabilities-threats/secure-design-principles-ai)
 - [Cellcom Restores Regional Mobile Services After Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/cellcom-restores-regional-mobile-services-cyberattack)
-- [Why Take9 Won&#39;t Improve Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-take9-will-not-improve-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
