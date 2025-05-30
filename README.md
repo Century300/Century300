@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Earth Lamia&#39; Exploits Known SQL, RCE Bugs Across Asia](https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia)
 - [FBI Warns of Filipino Tech Company Running Sprawling Crypto Scams](https://www.darkreading.com/threat-intelligence/fbi-warns-tech-company-crypto-scams)
 - [Vibe Coding Changed the Development Process](https://www.darkreading.com/application-security/vibe-coding-changed-development-process)
 - [Tenable to Acquire AI Security Startup Apex](https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex)
@@ -83,7 +84,6 @@
 - [ConnectWise Breached, ScreenConnect Customers Targeted](https://www.darkreading.com/cyberattacks-data-breaches/connectwise-breached-screenconnect-customers-targeted)
 - [&#39;Everest Group&#39; Extorts Global Orgs via SAP&#39;s HR Tool](https://www.darkreading.com/cyberattacks-data-breaches/everest-group-extorts-global-orgs-hr-tool)
 - [From Code Red to Rust: Microsoft&#39;s Security Journey](https://www.darkreading.com/application-security/from-code-red-to-rust-microsoft-security-journey)
-- [NSA, CISA Urge Organizations to Secure Data Used in AI Models](https://www.darkreading.com/cyber-risk/nsa-cisa-gudnceai-secure-data-ai-models)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
