@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Tenable to Acquire AI Security Startup Apex](https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex)
+- [CISO Stature Rises, but Security Budgets Remain Tight](https://www.darkreading.com/cybersecurity-operations/ciso-stature-rises-budgets-tight)
 - [&#39;Everest Group&#39; Extorts Global Orgs via SAP&#39;s HR Tool](https://www.darkreading.com/cyberattacks-data-breaches/everest-group-extorts-global-orgs-hr-tool)
+- [From Code Red to Rust: Microsoft&#39;s Security Journey](https://www.darkreading.com/application-security/from-code-red-to-rust-microsoft-security-journey)
 - [NSA, CISA Urge Organizations to Secure Data Used in AI Models](https://www.darkreading.com/cyber-risk/nsa-cisa-gudnceai-secure-data-ai-models)
 - [Victoria&#39;s Secret Goes Offline After &#39;Incident&#39; Claims](https://www.darkreading.com/endpoint-security/victoria-secret-website-security-incident)
 - [New Botnet Plants Persistent Backdoors in ASUS Routers](https://www.darkreading.com/vulnerabilities-threats/botnet-persistent-backdoors-asus-routers)
 - [SentinelOne Reports Services Are Back Online After Global Outage](https://www.darkreading.com/endpoint-security/sentinelone-reports-services-back-online-after-global-outage)
-- [Zscaler&#39;s Buyout of Red Canary Shows Telemetry&#39;s Value](https://www.darkreading.com/cybersecurity-operations/zscaler-buyout-red-canary-telemetrys-value)
-- [APT41 Uses Google Calendar Events for C2](https://www.darkreading.com/threat-intelligence/apt41-uses-google-calendar-events-c2)
-- [PumaBot Targets Linux Devices in Latest Botnet Campaign](https://www.darkreading.com/threat-intelligence/pumabot-targets-linux-devices-botnet-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
