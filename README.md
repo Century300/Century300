@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak](https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked)
 - [Australia Begins New Ransomware Payment Disclosure Rules](https://www.darkreading.com/threat-intelligence/australia-ransomware-payment-disclosure-rules)
 - [Critical Bugs Could Spark Takeover of Widely Used Fire Safety OT/ICS Platform](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-takeover-fire-safety-ot-ics-platform)
 - [In the AI Race With China, Don&#39;t Forget About Security](https://www.darkreading.com/vulnerabilities-threats/ai-race-china-dont-forget-about-security)
@@ -83,7 +84,6 @@
 - [FBI Warns of Filipino Tech Company Running Sprawling Crypto Scams](https://www.darkreading.com/threat-intelligence/fbi-warns-tech-company-crypto-scams)
 - [Vibe Coding Changed the Development Process](https://www.darkreading.com/application-security/vibe-coding-changed-development-process)
 - [Tenable to Acquire AI Security Startup Apex](https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex)
-- [CISO Stature Rises, but Security Budgets Remain Tight](https://www.darkreading.com/cybersecurity-operations/ciso-stature-rises-budgets-tight)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
