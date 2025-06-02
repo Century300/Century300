@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Exploitation Risk Grows for Critical Cisco Bug](https://www.darkreading.com/vulnerabilities-threats/exploitation-risk-grows-critical-cisco-bug)
 - [Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak](https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked)
 - [Australia Begins New Ransomware Payment Disclosure Rules](https://www.darkreading.com/threat-intelligence/australia-ransomware-payment-disclosure-rules)
 - [Critical Bugs Could Spark Takeover of Widely Used Fire Safety OT/ICS Platform](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-takeover-fire-safety-ot-ics-platform)
@@ -83,7 +84,6 @@
 - [&#39;Earth Lamia&#39; Exploits Known SQL, RCE Bugs Across Asia](https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia)
 - [FBI Warns of Filipino Tech Company Running Sprawling Crypto Scams](https://www.darkreading.com/threat-intelligence/fbi-warns-tech-company-crypto-scams)
 - [Vibe Coding Changed the Development Process](https://www.darkreading.com/application-security/vibe-coding-changed-development-process)
-- [Tenable to Acquire AI Security Startup Apex](https://www.darkreading.com/cyber-risk/tenable-acquire-ai-security-apex)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
