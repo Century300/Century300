@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is Your CISO Navigating Your Flight Path?](https://www.darkreading.com/cybersecurity-operations/ciso-navigating-your-flight-path)
 - [Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs](https://www.darkreading.com/cyber-risk/open-weight-chinese-ai-models-drive-privacy-innovation-llm)
 - [EMR-ISAC Shuts Down: What Happens Now?](https://www.darkreading.com/threat-intelligence/emr-isac-shuts-down-what-now)
 - [Exploitation Risk Grows for Critical Cisco Bug](https://www.darkreading.com/vulnerabilities-threats/exploitation-risk-grows-critical-cisco-bug)
@@ -83,7 +84,6 @@
 - [Australia Begins New Ransomware Payment Disclosure Rules](https://www.darkreading.com/threat-intelligence/australia-ransomware-payment-disclosure-rules)
 - [Critical Bugs Could Spark Takeover of Widely Used Fire Safety OT/ICS Platform](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-takeover-fire-safety-ot-ics-platform)
 - [Beyond the Broken Wall: Why the Security Perimeter Is Not Enough](https://www.darkreading.com/endpoint-security/beyond-broken-wall-why-security-perimeter-not-enough)
-- [In the AI Race With China, Don&#39;t Forget About Security](https://www.darkreading.com/vulnerabilities-threats/ai-race-china-dont-forget-about-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
