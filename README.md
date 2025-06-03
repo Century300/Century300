@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs](https://www.darkreading.com/cyber-risk/open-weight-chinese-ai-models-drive-privacy-innovation-llm)
 - [EMR-ISAC Shuts Down: What Happens Now?](https://www.darkreading.com/threat-intelligence/emr-isac-shuts-down-what-now)
 - [Exploitation Risk Grows for Critical Cisco Bug](https://www.darkreading.com/vulnerabilities-threats/exploitation-risk-grows-critical-cisco-bug)
 - [Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak](https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked)
@@ -83,7 +84,6 @@
 - [Critical Bugs Could Spark Takeover of Widely Used Fire Safety OT/ICS Platform](https://www.darkreading.com/vulnerabilities-threats/critical-bugs-takeover-fire-safety-ot-ics-platform)
 - [Beyond the Broken Wall: Why the Security Perimeter Is Not Enough](https://www.darkreading.com/endpoint-security/beyond-broken-wall-why-security-perimeter-not-enough)
 - [In the AI Race With China, Don&#39;t Forget About Security](https://www.darkreading.com/vulnerabilities-threats/ai-race-china-dont-forget-about-security)
-- [&#39;Earth Lamia&#39; Exploits Known SQL, RCE Bugs Across Asia](https://www.darkreading.com/threat-intelligence/earth-lamia-exploits-sql-rce-bugs-asia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
