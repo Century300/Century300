@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [LayerX Launches ExtensionPedia](https://www.darkreading.com/endpoint-security/layerx-launches-extensionpedia)
+- [TXOne Networks Introduces Capability for Intelligent Vulnerability Mitigation](https://www.darkreading.com/ics-ot-security/txone-networks-intelligent-vulnerability-mitigation)
+- [&#39;Crocodilus&#39; Sharpens Its Teeth on Android Users](https://www.darkreading.com/mobile-security/crocodilus-sharpens-teeth-android-users)
 - [Victoria&#39;s Secret Delays Earnings Call Due to Cyber Incident](https://www.darkreading.com/vulnerabilities-threats/victorias-secret-delays-earnings-cyber-incident)
 - [Chrome Drops Trust for Chunghwa, Netlock Certificates](https://www.darkreading.com/remote-workforce/chrome-drops-trust-chunghwa-netlock-certificates)
 - [LummaC2 Fractures as Acreed Malware Becomes Top Dog](https://www.darkreading.com/remote-workforce/lummac2-fractures-acreed-malware-top-dog)
 - [Is Your CISO Navigating Your Flight Path?](https://www.darkreading.com/cybersecurity-operations/ciso-navigating-your-flight-path)
 - [Open-Weight Chinese AI Models Drive Privacy Innovation in LLMs](https://www.darkreading.com/cyber-risk/open-weight-chinese-ai-models-drive-privacy-innovation-llm)
-- [EMR-ISAC Shuts Down: What Happens Now?](https://www.darkreading.com/threat-intelligence/emr-isac-shuts-down-what-now)
-- [Exploitation Risk Grows for Critical Cisco Bug](https://www.darkreading.com/vulnerabilities-threats/exploitation-risk-grows-critical-cisco-bug)
-- [Trickbot, Conti Ransomware Operator Unmasked Amid Huge Ops Leak](https://www.darkreading.com/cyberattacks-data-breaches/trickbot-conti-ransomware-operator-unmasked)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
