@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data](https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data)
+- [Beware of Device Code Phishing](https://www.darkreading.com/vulnerabilities-threats/beware-device-code-phishing)
 - [How to Approach Security in the Era of AI Agents](https://www.darkreading.com/cyber-risk/how-to-approach-security-era-ai-agents)
 - [LayerX Launches ExtensionPedia](https://www.darkreading.com/endpoint-security/layerx-launches-extensionpedia)
 - [TXOne Networks Introduces Capability for Intelligent Vulnerability Mitigation](https://www.darkreading.com/ics-ot-security/txone-networks-intelligent-vulnerability-mitigation)
 - [&#39;Crocodilus&#39; Sharpens Its Teeth on Android Users](https://www.darkreading.com/mobile-security/crocodilus-sharpens-teeth-android-users)
 - [Victoria&#39;s Secret Delays Earnings Call Due to Cyber Incident](https://www.darkreading.com/vulnerabilities-threats/victorias-secret-delays-earnings-cyber-incident)
 - [Chrome Drops Trust for Chunghwa, Netlock Certificates](https://www.darkreading.com/remote-workforce/chrome-drops-trust-chunghwa-netlock-certificates)
-- [LummaC2 Fractures as Acreed Malware Becomes Top Dog](https://www.darkreading.com/remote-workforce/lummac2-fractures-acreed-malware-top-dog)
-- [Is Your CISO Navigating Your Flight Path?](https://www.darkreading.com/cybersecurity-operations/ciso-navigating-your-flight-path)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
