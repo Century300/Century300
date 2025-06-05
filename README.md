@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Iranian APT &#39;BladedFeline&#39; Hides in Network for 8 Years](https://www.darkreading.com/threat-intelligence/iranian-apt-bladedfeline-hides-network-8-years)
 - [Cybersecurity Training in Africa Aims to Bolster Professionals&#39; Ranks](https://www.darkreading.com/cybersecurity-operations/cybersecurity-training-africa-professionals-ranks)
 - [35K Solar Devices Vulnerable to Potential Hijacking](https://www.darkreading.com/vulnerabilities-threats/35k-solar-devices-internet-exposure-hijacking)
 - [Vishing Crew Targets Salesforce Data](https://www.darkreading.com/application-security/vishing-crew-salesforce-data)
@@ -83,7 +84,6 @@
 - [Researchers Bypass Deepfake Detection With Replay Attacks](https://www.darkreading.com/cybersecurity-analytics/researchers-bypass-deepfake-detection-replay-attacks)
 - [Attackers Impersonate Ruby Packages to Steal Sensitive Telegram Data](https://www.darkreading.com/cyberattacks-data-breaches/attackers-impersonate-ruby-packages-telegram-data)
 - [Beware of Device Code Phishing](https://www.darkreading.com/vulnerabilities-threats/beware-device-code-phishing)
-- [How to Approach Security in the Era of AI Agents](https://www.darkreading.com/cyber-risk/how-to-approach-security-era-ai-agents)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
