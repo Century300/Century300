@@ -81,7 +81,7 @@
 - [Iranian APT &#39;BladedFeline&#39; Hides in Network for 8 Years](https://www.darkreading.com/threat-intelligence/iranian-apt-bladedfeline-hides-network-8-years)
 - [Cybersecurity Training in Africa Aims to Bolster Professionals&#39; Ranks](https://www.darkreading.com/cybersecurity-operations/cybersecurity-training-africa-professionals-ranks)
 - [35K Solar Devices Vulnerable to Potential Hijacking](https://www.darkreading.com/vulnerabilities-threats/35k-solar-devices-internet-exposure-hijacking)
-- [Vishing Crew Targets Salesforce Data](https://www.darkreading.com/application-security/vishing-crew-salesforce-data)
+- [Vishing Crew Targets Salesforce Data](https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data)
 - [How Neuroscience Can Help Us Battle &#39;Alert Fatigue&#39;](https://www.darkreading.com/vulnerabilities-threats/how-neuroscience-battle-alert-fatigue)
 - [Researchers Bypass Deepfake Detection With Replay Attacks](https://www.darkreading.com/cybersecurity-analytics/researchers-bypass-deepfake-detection-replay-attacks)
 <!-- DARKREADING:END -->
