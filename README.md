@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud](https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability)
 - [Backdoored Malware Reels in Newbie Cybercriminals](https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals)
 - [Questions Swirl Around ConnectWise Flaw Used in Attacks](https://www.darkreading.com/remote-workforce/questions-swirl-connectwise-flaw-attacks)
 - [Finding Balance in US AI Regulation](https://www.darkreading.com/vulnerabilities-threats/finding-balance-us-ai-regulation)
@@ -83,7 +84,6 @@
 - [Cybersecurity Training in Africa Aims to Bolster Professionals&#39; Ranks](https://www.darkreading.com/cybersecurity-operations/cybersecurity-training-africa-professionals-ranks)
 - [35K Solar Devices Vulnerable to Potential Hijacking](https://www.darkreading.com/vulnerabilities-threats/35k-solar-devices-internet-exposure-hijacking)
 - [Vishing Crew Targets Salesforce Data](https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data)
-- [How Neuroscience Can Help Us Battle &#39;Alert Fatigue&#39;](https://www.darkreading.com/vulnerabilities-threats/how-neuroscience-battle-alert-fatigue)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
