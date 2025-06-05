@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Backdoored Malware Reels in Newbie Cybercriminals](https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals)
 - [Questions Swirl Around ConnectWise Flaw Used in Attacks](https://www.darkreading.com/remote-workforce/questions-swirl-connectwise-flaw-attacks)
 - [Finding Balance in US AI Regulation](https://www.darkreading.com/vulnerabilities-threats/finding-balance-us-ai-regulation)
 - [Iranian APT &#39;BladedFeline&#39; Hides in Network for 8 Years](https://www.darkreading.com/threat-intelligence/iranian-apt-bladedfeline-hides-network-8-years)
@@ -83,7 +84,6 @@
 - [35K Solar Devices Vulnerable to Potential Hijacking](https://www.darkreading.com/vulnerabilities-threats/35k-solar-devices-internet-exposure-hijacking)
 - [Vishing Crew Targets Salesforce Data](https://www.darkreading.com/application-security/vishing-crew-targets-salesforce-data)
 - [How Neuroscience Can Help Us Battle &#39;Alert Fatigue&#39;](https://www.darkreading.com/vulnerabilities-threats/how-neuroscience-battle-alert-fatigue)
-- [Researchers Bypass Deepfake Detection With Replay Attacks](https://www.darkreading.com/cybersecurity-analytics/researchers-bypass-deepfake-detection-replay-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
