@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MSFT-CrowdStrike &#39;Rosetta Stone&#39; for Naming APTs: Meh?](https://www.darkreading.com/threat-intelligence/microsoft-crowdstrike-rosetta-stone-apt)
 - [Prep for Layoffs Before They Compromise Security](https://www.darkreading.com/cybersecurity-operations/prep-layoffs-before-compromise-security)
 - [SecOps Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
 - [Digital Forensics Firm Cellebrite to Acquire Corellium](https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium)
@@ -83,7 +84,6 @@
 - [Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud](https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability)
 - [Backdoored Malware Reels in Newbie Cybercriminals](https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals)
 - [Questions Swirl Around ConnectWise Flaw Used in Attacks](https://www.darkreading.com/remote-workforce/questions-swirl-connectwise-flaw-attacks)
-- [Finding Balance in US AI Regulation](https://www.darkreading.com/vulnerabilities-threats/finding-balance-us-ai-regulation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
