@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Prep for Layoffs Before They Compromise Security](https://www.darkreading.com/cybersecurity-operations/prep-layoffs-before-compromise-security)
 - [SecOps Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
 - [Digital Forensics Firm Cellebrite to Acquire Corellium](https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium)
 - [&#39;PathWiper&#39; Attack Hits Critical Infrastructure In Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/pathwiper-attack-critical-infrastructure-ukraine)
@@ -83,7 +84,6 @@
 - [Backdoored Malware Reels in Newbie Cybercriminals](https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals)
 - [Questions Swirl Around ConnectWise Flaw Used in Attacks](https://www.darkreading.com/remote-workforce/questions-swirl-connectwise-flaw-attacks)
 - [Finding Balance in US AI Regulation](https://www.darkreading.com/vulnerabilities-threats/finding-balance-us-ai-regulation)
-- [Iranian APT &#39;BladedFeline&#39; Hides in Network for 8 Years](https://www.darkreading.com/threat-intelligence/iranian-apt-bladedfeline-hides-network-8-years)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
