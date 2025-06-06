@@ -81,7 +81,7 @@
 - [Synthetic Data Is Here to Stay, but How Secure Is It?](https://www.darkreading.com/vulnerabilities-threats/synthetic-data-security)
 - [MSFT-CrowdStrike &#39;Rosetta Stone&#39; for Naming APTs: Meh?](https://www.darkreading.com/threat-intelligence/microsoft-crowdstrike-rosetta-stone-apt)
 - [Prep for Layoffs Before They Compromise Security](https://www.darkreading.com/cybersecurity-operations/prep-layoffs-before-compromise-security)
-- [SecOps Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
+- [SecOps Teams Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
 - [Digital Forensics Firm Cellebrite to Acquire Corellium](https://www.darkreading.com/mobile-security/digital-forensics-firm-cellebrite-acquire-corellium)
 - [&#39;PathWiper&#39; Attack Hits Critical Infrastructure In Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/pathwiper-attack-critical-infrastructure-ukraine)
 <!-- DARKREADING:END -->
