@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Synthetic Data Is Here to Stay, but How Secure Is It?](https://www.darkreading.com/vulnerabilities-threats/synthetic-data-security)
 - [MSFT-CrowdStrike &#39;Rosetta Stone&#39; for Naming APTs: Meh?](https://www.darkreading.com/threat-intelligence/microsoft-crowdstrike-rosetta-stone-apt)
 - [Prep for Layoffs Before They Compromise Security](https://www.darkreading.com/cybersecurity-operations/prep-layoffs-before-compromise-security)
 - [SecOps Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
@@ -83,7 +84,6 @@
 - [&#39;PathWiper&#39; Attack Hits Critical Infrastructure In Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/pathwiper-attack-critical-infrastructure-ukraine)
 - [Cisco Warns of Credential Vuln on AWS, Azure, Oracle Cloud](https://www.darkreading.com/vulnerabilities-threats/cisco-warns-critical-static-credential-vulnerability)
 - [Backdoored Malware Reels in Newbie Cybercriminals](https://www.darkreading.com/threat-intelligence/backdoored-malware-new-cybercriminals)
-- [Questions Swirl Around ConnectWise Flaw Used in Attacks](https://www.darkreading.com/remote-workforce/questions-swirl-connectwise-flaw-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
