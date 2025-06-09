@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [New Trump Cybersecurity Order Reverses Biden, Obama Priorities](https://www.darkreading.com/cybersecurity-operationstrump-cybersecurity-order-reverses-biden-obama-priorities)
+- [New Trump Cybersecurity Order Reverses Biden, Obama Priorities](https://www.darkreading.com/cybersecurity-operations/trump-cybersecurity-order-reverses-biden-obama-priorities)
 - [OpenAI Bans ChatGPT Accounts Linked to Nation-State Threat Actors](https://www.darkreading.com/threat-intelligence/openai-bans-chatgpt-accounts-nation-state-threat-actors)
 - [&#39;Librarian Ghouls&#39; Cyberattackers Strike at Night](https://www.darkreading.com/cyberattacks-data-breaches/librarian-ghouls-cyberattackers-strike)
 - [Gartner: How Security Teams Can Turn Hype Into Opportunity](https://www.darkreading.com/application-security/gartner-security-teams-hype-opportunity)
