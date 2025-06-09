@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Trump Cybersecurity Order Reverses Biden, Obama Priorities](https://www.darkreading.com/cybersecurity-operationstrump-cybersecurity-order-reverses-biden-obama-priorities)
+- [OpenAI Bans ChatGPT Accounts Linked to Nation-State Threat Actors](https://www.darkreading.com/threat-intelligence/openai-bans-chatgpt-accounts-nation-state-threat-actors)
+- [&#39;Librarian Ghouls&#39; Cyberattackers Strike at Night](https://www.darkreading.com/cyberattacks-data-breaches/librarian-ghouls-cyberattackers-strike)
 - [Gartner: How Security Teams Can Turn Hype Into Opportunity](https://www.darkreading.com/application-security/gartner-security-teams-hype-opportunity)
 - [SIEMs Missing the Mark on MITRE ATT&amp;amp;CK Techniques](https://www.darkreading.com/cybersecurity-operations/siems-missing-mark-mitre-techniques)
 - [Next-Gen Developers Are a Cybersecurity Powder Keg](https://www.darkreading.com/application-security/next-gen-developers-cybersecurity-powder-keg)
 - [China-Backed Hackers Target SentinelOne in &#39;PurpleHaze&#39; Attack Spree](https://www.darkreading.com/remote-workforce/china-hackers-target-sentinelone-purplehaze-attack)
 - [Cutting-Edge ClickFix Tactics Snowball, Pushing Phishing Forward](https://www.darkreading.com/remote-workforce/cutting-edge-clickfix-snowball-phishing)
-- [F5 Acquires Agentic AI Security Startup Fletch](https://www.darkreading.com/application-security/f5-acquires-agentic-ai-security-startup-fletch)
-- [BADBOX 2.0 Targets Home Networks in Botnet Campaign, FBI Warns](https://www.darkreading.com/threat-intelligence/badbox-home-networks-botnet-campaign-fbi)
-- [Docuseries Explores Mental, Physical Hardships of CISOs](https://www.darkreading.com/cybersecurity-careers/docuseries-explores-mental-physical-hardships-ciso)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
