@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Next-Gen Developers Are a Cybersecurity Powder Keg](https://www.darkreading.com/application-security/next-gen-developers-cybersecurity-powder-keg)
+- [China-Backed Hackers Target SentinelOne in &#39;PurpleHaze&#39; Attack Spree](https://www.darkreading.com/remote-workforce/china-hackers-target-sentinelone-purplehaze-attack)
 - [Cutting-Edge ClickFix Tactics Snowball, Pushing Phishing Forward](https://www.darkreading.com/remote-workforce/cutting-edge-clickfix-snowball-phishing)
 - [F5 Acquires Agentic AI Security Startup Fletch](https://www.darkreading.com/application-security/f5-acquires-agentic-ai-security-startup-fletch)
 - [BADBOX 2.0 Targets Home Networks in Botnet Campaign, FBI Warns](https://www.darkreading.com/threat-intelligence/badbox-home-networks-botnet-campaign-fbi)
 - [Docuseries Explores Mental, Physical Hardships of CISOs](https://www.darkreading.com/cybersecurity-careers/docuseries-explores-mental-physical-hardships-ciso)
 - [Synthetic Data Is Here to Stay, but How Secure Is It?](https://www.darkreading.com/vulnerabilities-threats/synthetic-data-security)
 - [MSFT-CrowdStrike &#39;Rosetta Stone&#39; for Naming APTs: Meh?](https://www.darkreading.com/threat-intelligence/microsoft-crowdstrike-rosetta-stone-apt)
-- [Prep for Layoffs Before They Compromise Security](https://www.darkreading.com/cybersecurity-operations/prep-layoffs-before-compromise-security)
-- [SecOps Teams Need to Tackle AI Hallucinations to Improve Accuracy](https://www.darkreading.com/vulnerabilities-threats/secops-tackle-ai-hallucinations-improve-accuracy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
