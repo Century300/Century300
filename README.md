@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Red Canary Expands AI Innovations to Cut Alert Overload](https://www.darkreading.com/cybersecurity-operations/red-canary-expands-ai-innovations-to-cut-alert-overload)
+- [United Natural Food&#39;s Operations Limp Through Cybersecurity Incident](https://www.darkreading.com/vulnerabilities-threats/united-natural-foods-operations-cybersecurity-incident)
 - [Poisoned npm Packages Disguised as Utilities Aim for System Wipeout](https://www.darkreading.com/application-security/poisoned-npm-packages-disguised-utilities-system-wipeout)
 - [SSH Keys: The Most Powerful Credential You&#39;re Probably Ignoring](https://www.darkreading.com/vulnerabilities-threats/ssh-keys-powerful-credential-ignoring)
 - [New Trump Cybersecurity Order Reverses Biden, Obama Priorities](https://www.darkreading.com/cybersecurity-operations/trump-cybersecurity-order-reverses-biden-obama-priorities)
 - [OpenAI Bans ChatGPT Accounts Linked to Nation-State Threat Actors](https://www.darkreading.com/threat-intelligence/openai-bans-chatgpt-accounts-nation-state-threat-actors)
 - [&#39;Librarian Ghouls&#39; Cyberattackers Strike at Night](https://www.darkreading.com/cyberattacks-data-breaches/librarian-ghouls-cyberattackers-strike)
 - [Gartner: How Security Teams Can Turn Hype Into Opportunity](https://www.darkreading.com/application-security/gartner-security-teams-hype-opportunity)
-- [SIEMs Missing the Mark on MITRE ATT&amp;amp;CK Techniques](https://www.darkreading.com/cybersecurity-operations/siems-missing-mark-mitre-techniques)
-- [Next-Gen Developers Are a Cybersecurity Powder Keg](https://www.darkreading.com/application-security/next-gen-developers-cybersecurity-powder-keg)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
