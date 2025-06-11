@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ip)
+- [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips)
 - [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 - [Agentic AI Takes Over Gartner&#39;s SRM Summit](https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit)
 - [Google Bug Allowed Brute-Forcing of Any User Phone Number](https://www.darkreading.com/vulnerabilities-threats/google-bug-brute-forcing-phone-number)
