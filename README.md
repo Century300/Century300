@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ip)
+- [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 - [Agentic AI Takes Over Gartner&#39;s SRM Summit](https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit)
 - [Google Bug Allowed Brute-Forcing of Any User Phone Number](https://www.darkreading.com/vulnerabilities-threats/google-bug-brute-forcing-phone-number)
 - [Security Pitfalls &amp;amp; Solutions of Multiregion Cloud Architectures](https://www.darkreading.com/cloud-security/security-pitfalls-solutions-multiregion-cloud-architectures)
 - [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
 - [India&#39;s Security Leaders Struggle to Keep Up With Threats](https://www.darkreading.com/cybersecurity-operations/india-security-leaders-struggle-threats)
 - [Stealth Falcon APT Exploits Microsoft RCE Zero-Day in Mideast](https://www.darkreading.com/vulnerabilities-threats/stealth-falcon-apt-exploits-microsoft-rce-zero-day-mideast)
-- [Bridging the Secure Access Gap in Third-Party, Unmanaged Devices](https://www.darkreading.com/endpoint-security/bridging-secure-access-gap-third-party-unmanaged-devices)
-- [PoC Code Escalates Roundcube Vuln Threat](https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
