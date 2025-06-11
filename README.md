@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
+- [Bridging the Secure Access Gap in Third-Party, Unmanaged Devices](https://www.darkreading.com/endpoint-security/bridging-secure-access-gap-third-party-unmanaged-devices)
 - [India&#39;s Security Leaders Struggle to Keep Up With Threats](https://www.darkreading.com/cybersecurity-operations/india-security-leaders-struggle-threats)
 - [Stealth Falcon APT Exploits Microsoft RCE Zero-Day in Mideast](https://www.darkreading.com/vulnerabilities-threats/stealth-falcon-apt-exploits-microsoft-rce-zero-day-mideast)
 - [PoC Code Escalates Roundcube Vuln Threat](https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat)
 - [Red Canary Expands AI Innovations to Cut Alert Overload](https://www.darkreading.com/cybersecurity-operations/red-canary-expands-ai-innovations-to-cut-alert-overload)
 - [GitHub: How Code Provenance Can Prevent Supply Chain Attacks](https://www.darkreading.com/application-security/github-code-provenance-supply-chain-attacks)
 - [United Natural Food&#39;s Operations Limp Through Cybersecurity Incident](https://www.darkreading.com/vulnerabilities-threats/united-natural-foods-operations-cybersecurity-incident)
-- [Poisoned npm Packages Disguised as Utilities Aim for System Wipeout](https://www.darkreading.com/application-security/poisoned-npm-packages-disguised-utilities-system-wipeout)
-- [SSH Keys: The Most Powerful Credential You&#39;re Probably Ignoring](https://www.darkreading.com/vulnerabilities-threats/ssh-keys-powerful-credential-ignoring)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
