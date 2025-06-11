@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Security Pitfalls &amp;amp; Solutions of Multiregion Cloud Architectures](https://www.darkreading.com/cloud-security/security-pitfalls-solutions-multiregion-cloud-architectures)
 - [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
 - [Bridging the Secure Access Gap in Third-Party, Unmanaged Devices](https://www.darkreading.com/endpoint-security/bridging-secure-access-gap-third-party-unmanaged-devices)
 - [India&#39;s Security Leaders Struggle to Keep Up With Threats](https://www.darkreading.com/cybersecurity-operations/india-security-leaders-struggle-threats)
@@ -83,7 +84,6 @@
 - [PoC Code Escalates Roundcube Vuln Threat](https://www.darkreading.com/application-security/poc-code-escalates-roundcube-vuln-threat)
 - [Red Canary Expands AI Innovations to Cut Alert Overload](https://www.darkreading.com/cybersecurity-operations/red-canary-expands-ai-innovations-to-cut-alert-overload)
 - [GitHub: How Code Provenance Can Prevent Supply Chain Attacks](https://www.darkreading.com/application-security/github-code-provenance-supply-chain-attacks)
-- [United Natural Food&#39;s Operations Limp Through Cybersecurity Incident](https://www.darkreading.com/vulnerabilities-threats/united-natural-foods-operations-cybersecurity-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
