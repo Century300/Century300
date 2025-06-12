@@ -80,10 +80,10 @@
 - [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 - [Agentic AI Takes Over Gartner&#39;s SRM Summit](https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit)
 - [Google Bug Allowed Brute-Forcing of Any User Phone Number](https://www.darkreading.com/vulnerabilities-threats/google-bug-brute-forcing-phone-number)
+- [Securonix Acquires Threat Intelligence Firm ThreatQuotient](https://www.darkreading.com/threat-intelligence/securonix-acquires-threat-intelligence-firm-threatquotient)
 - [Security Pitfalls &amp;amp; Solutions of Multiregion Cloud Architectures](https://www.darkreading.com/cloud-security/security-pitfalls-solutions-multiregion-cloud-architectures)
 - [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
 - [India&#39;s Security Leaders Struggle to Keep Up With Threats](https://www.darkreading.com/cybersecurity-operations/india-security-leaders-struggle-threats)
-- [Stealth Falcon APT Exploits Microsoft RCE Zero-Day in Mideast](https://www.darkreading.com/vulnerabilities-threats/stealth-falcon-apt-exploits-microsoft-rce-zero-day-mideast)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
