@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Foundations of Cybersecurity: Reassessing What Matters](https://www.darkreading.com/cyber-risk/foundations-cybersecurity-reassessing-what-matters)
 - [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips)
 - [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 - [Agentic AI Takes Over Gartner&#39;s SRM Summit](https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit)
@@ -83,7 +84,6 @@
 - [Securonix Acquires Threat Intelligence Firm ThreatQuotient](https://www.darkreading.com/threat-intelligence/securonix-acquires-threat-intelligence-firm-threatquotient)
 - [Security Pitfalls &amp;amp; Solutions of Multiregion Cloud Architectures](https://www.darkreading.com/cloud-security/security-pitfalls-solutions-multiregion-cloud-architectures)
 - [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
-- [India&#39;s Security Leaders Struggle to Keep Up With Threats](https://www.darkreading.com/cybersecurity-operations/india-security-leaders-struggle-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
