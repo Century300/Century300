@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hacking the Hackers: When Bad Guys Let Their Guard Down](https://www.darkreading.com/threat-intelligence/hacking-hackers-bad-guys-guard-down)
 - [Foundations of Cybersecurity: Reassessing What Matters](https://www.darkreading.com/cyber-risk/foundations-cybersecurity-reassessing-what-matters)
 - [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips)
 - [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
@@ -83,7 +84,6 @@
 - [Google Bug Allowed Brute-Forcing of Any User Phone Number](https://www.darkreading.com/vulnerabilities-threats/google-bug-brute-forcing-phone-number)
 - [Securonix Acquires Threat Intelligence Firm ThreatQuotient](https://www.darkreading.com/threat-intelligence/securonix-acquires-threat-intelligence-firm-threatquotient)
 - [Security Pitfalls &amp;amp; Solutions of Multiregion Cloud Architectures](https://www.darkreading.com/cloud-security/security-pitfalls-solutions-multiregion-cloud-architectures)
-- [Mirai Botnets Exploit Flaw in Wazuh Security Platform](https://www.darkreading.com/vulnerabilities-threats/mirai-botnets-exploit-wazuh-security-platform)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
