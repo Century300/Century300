@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Threat Actor Abuses TeamFiltration for Entra ID Account Takeovers](https://www.darkreading.com/cloud-security/threat-actor-teamfiltration-entra-id-attacks)
 - [Why CISOs Must Align Business Objectives &amp;amp; Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-cisos-align-business-objectives-cybersecurity)
 - [Cyberattacks on Humanitarian Orgs Jump Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/attacks-humanitarian-orgs-jump-worldwide)
 - [Researchers Detail Zero-Click Copilot Exploit &#39;EchoLeak&#39;](https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak)
@@ -83,7 +84,6 @@
 - [Hacking the Hackers: When Bad Guys Let Their Guard Down](https://www.darkreading.com/threat-intelligence/hacking-hackers-bad-guys-guard-down)
 - [Foundations of Cybersecurity: Reassessing What Matters](https://www.darkreading.com/cyber-risk/foundations-cybersecurity-reassessing-what-matters)
 - [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips)
-- [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
