@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Researchers Detail Zero-Click Copilot Exploit &#39;EchoLeak&#39;](https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak)
+- [New COPPA Rules to Take Effect Over Child Data Privacy Concerns](https://www.darkreading.com/data-privacy/new-coppa-rules-children-data-privacy-concerns)
 - [Hacking the Hackers: When Bad Guys Let Their Guard Down](https://www.darkreading.com/threat-intelligence/hacking-hackers-bad-guys-guard-down)
 - [Foundations of Cybersecurity: Reassessing What Matters](https://www.darkreading.com/cyber-risk/foundations-cybersecurity-reassessing-what-matters)
 - [Infostealer Ring Bust-up Takes Down 20,000 Malicious IPs](https://www.darkreading.com/threat-intelligence/infostealer-ring-bust-20000-malicious-ips)
 - [ConnectWise to Rotate Code-Signing Certificates](https://www.darkreading.com/remote-workforce/connectwise-rotate-code-signing-certificates)
 - [Agentic AI Takes Over Gartner&#39;s SRM Summit](https://www.darkreading.com/cloud-security/agentic-ai-gartner-srm-summit)
 - [Google Bug Allowed Brute-Forcing of Any User Phone Number](https://www.darkreading.com/vulnerabilities-threats/google-bug-brute-forcing-phone-number)
-- [Securonix Acquires Threat Intelligence Firm ThreatQuotient](https://www.darkreading.com/threat-intelligence/securonix-acquires-threat-intelligence-firm-threatquotient)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
