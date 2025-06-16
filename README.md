@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Water Curse&#39; Targets Infosec Pros Via Poisoned GitHub Repositories](https://www.darkreading.com/cyberattacks-data-breaches/water-curse-targets-cybersecurity-pros-github-repos)
 - [Security Is Only as Strong as the Weakest Third-Party Link](https://www.darkreading.com/vulnerabilities-threats/security-strong-weakest-third-party-link)
 - [NIST Outlines Real-World Zero-Trust Examples](https://www.darkreading.com/endpoint-security/nist-outlines-real-world-zero-trust-examples)
 - [CISA Reveals &#39;Pattern&#39; of Ransomware Attacks Against SimpleHelp RMM](https://www.darkreading.com/cyberattacks-data-breaches/cisa-ransomware-attacks-simplehelp-rmm)
@@ -83,7 +84,6 @@
 - [Why CISOs Must Align Business Objectives &amp;amp; Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-cisos-align-business-objectives-cybersecurity)
 - [Cyberattacks on Humanitarian Orgs Jump Worldwide](https://www.darkreading.com/cyberattacks-data-breaches/attacks-humanitarian-orgs-jump-worldwide)
 - [Researchers Detail Zero-Click Copilot Exploit &#39;EchoLeak&#39;](https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak)
-- [New COPPA Rules to Take Effect Over Child Data Privacy Concerns](https://www.darkreading.com/data-privacy/new-coppa-rules-children-data-privacy-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
