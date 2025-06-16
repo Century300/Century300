@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NIST Outlines Real-World Zero-Trust Examples](https://www.darkreading.com/endpoint-security/nist-outlines-real-world-zero-trust-examples)
 - [CISA Reveals &#39;Pattern&#39; of Ransomware Attacks Against SimpleHelp RMM](https://www.darkreading.com/cyberattacks-data-breaches/cisa-ransomware-attacks-simplehelp-rmm)
 - [Threat Actor Abuses TeamFiltration for Entra ID Account Takeovers](https://www.darkreading.com/cloud-security/threat-actor-teamfiltration-entra-id-attacks)
 - [Why CISOs Must Align Business Objectives &amp;amp; Cybersecurity](https://www.darkreading.com/cybersecurity-operations/why-cisos-align-business-objectives-cybersecurity)
@@ -83,7 +84,6 @@
 - [Researchers Detail Zero-Click Copilot Exploit &#39;EchoLeak&#39;](https://www.darkreading.com/application-security/researchers-detail-zero-click-copilot-exploit-echoleak)
 - [New COPPA Rules to Take Effect Over Child Data Privacy Concerns](https://www.darkreading.com/data-privacy/new-coppa-rules-children-data-privacy-concerns)
 - [Hacking the Hackers: When Bad Guys Let Their Guard Down](https://www.darkreading.com/threat-intelligence/hacking-hackers-bad-guys-guard-down)
-- [Foundations of Cybersecurity: Reassessing What Matters](https://www.darkreading.com/cyber-risk/foundations-cybersecurity-reassessing-what-matters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
