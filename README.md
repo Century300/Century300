@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Malicious Chimera Turns Larcenous on Python Package Index](https://www.darkreading.com/application-security/malicious-chimera-pypi)
+- [How to Break the Security Theater Illusion](https://www.darkreading.com/cybersecurity-operations/how-to-break-the-security-theater-illusion)
 - [Anubis Ransomware-as-a-Service Kit Adds Data Wiper](https://www.darkreading.com/data-privacy/anubis-ransomware-as-a-service-kit-adds-data-wiper)
 - [Washington Post Staffer Emails Targeted in Cyber Breach](https://www.darkreading.com/vulnerabilities-threats/washington-post-staffer-emails-targeted-cyber-breach)
 - [&#39;Water Curse&#39; Targets Infosec Pros via Poisoned GitHub Repositories](https://www.darkreading.com/cyberattacks-data-breaches/water-curse-targets-cybersecurity-pros-github-repos)
 - [Security Is Only as Strong as the Weakest Third-Party Link](https://www.darkreading.com/vulnerabilities-threats/security-strong-weakest-third-party-link)
 - [NIST Outlines Real-World Zero-Trust Examples](https://www.darkreading.com/endpoint-security/nist-outlines-real-world-zero-trust-examples)
 - [CISA Reveals &#39;Pattern&#39; of Ransomware Attacks Against SimpleHelp RMM](https://www.darkreading.com/cyberattacks-data-breaches/cisa-ransomware-attacks-simplehelp-rmm)
-- [Threat Actor Abuses TeamFiltration for Entra ID Account Takeovers](https://www.darkreading.com/cloud-security/threat-actor-teamfiltration-entra-id-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
