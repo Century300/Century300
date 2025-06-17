@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Private 5G: New Possibilities — and Potential Pitfalls](https://www.darkreading.com/cyber-risk/securing-private-5g-networks-new-challenges-for-cisos)
 - [Operation Endgame: Do Takedowns and Arrests Matter?](https://www.darkreading.com/vulnerabilities-threats/operation-endgame-takedowns-arrests-matter)
 - [The Cyber Future Is Riskier Than You Think](https://www.darkreading.com/cyber-risk/the-cyber-future-is-riskier-than-you-think)
 - [Hackers Exploit Critical Langflow Flaw to Unleash Flodrix Botnet](https://www.darkreading.com/vulnerabilities-threats/hackers-exploit-langflow-flaw-flodrix-botnet)
@@ -83,7 +84,6 @@
 - [Malicious Chimera Turns Larcenous on Python Package Index](https://www.darkreading.com/application-security/malicious-chimera-pypi)
 - [How to Break the Security Theater Illusion](https://www.darkreading.com/cybersecurity-operations/how-to-break-the-security-theater-illusion)
 - [Anubis Ransomware-as-a-Service Kit Adds Data Wiper](https://www.darkreading.com/data-privacy/anubis-ransomware-as-a-service-kit-adds-data-wiper)
-- [Washington Post Staffer Emails Targeted in Cyber Breach](https://www.darkreading.com/vulnerabilities-threats/washington-post-staffer-emails-targeted-cyber-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
