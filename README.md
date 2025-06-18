@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenAI Awarded $200M Contract to Work With DoD](https://www.darkreading.com/vulnerabilities-threats/openai-awarded-200m-contract-dod)
+- [The Triple Threat of Burnout: Overworked, Unsatisfied, Trapped](https://www.darkreading.com/cybersecurity-operations/triple-threat-burnout-overworked-unsatisfied-trapped)
 - [GodFather Banking Trojan Debuts Virtualization Tactic](https://www.darkreading.com/cloud-security/godfather-banking-trojan-debuts-virtualization-tactic)
 - [How CISOs Can Govern AI &amp;amp; Meet Evolving Regulations](https://www.darkreading.com/vulnerabilities-threats/cisos-govern-ai-evolving-regulations)
 - [Serpentine#Cloud Uses Cloudflare Tunnels in Sneak Attacks](https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks)
 - [Indian Car-Sharing Firm Zoomcar Latest to Suffer Breach](https://www.darkreading.com/cyberattacks-data-breaches/indian-car-sharing-firm-zoomcar-breach)
 - [&#39;HoldingHands&#39; Acts Like a Pickpocket With Taiwan Orgs](https://www.darkreading.com/cyberattacks-data-breaches/holdinghands-pickpocket-taiwan-orgs)
 - [Private 5G: New Possibilities — and Potential Pitfalls](https://www.darkreading.com/cyber-risk/securing-private-5g-networks-new-challenges-for-cisos)
-- [Operation Endgame: Do Takedowns and Arrests Matter?](https://www.darkreading.com/vulnerabilities-threats/operation-endgame-takedowns-arrests-matter)
-- [The Cyber Future Is Riskier Than You Think](https://www.darkreading.com/cyber-risk/the-cyber-future-is-riskier-than-you-think)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
