@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Serpentine#Cloud Uses Cloudflare Tunnels in Sneak Attacks](https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks)
 - [Indian Car-Sharing Firm Zoomcar Latest to Suffer Breach](https://www.darkreading.com/cyberattacks-data-breaches/indian-car-sharing-firm-zoomcar-breach)
 - [&#39;HoldingHands&#39; Acts Like a Pickpocket With Taiwan Orgs](https://www.darkreading.com/cyberattacks-data-breaches/holdinghands-pickpocket-taiwan-orgs)
 - [Private 5G: New Possibilities — and Potential Pitfalls](https://www.darkreading.com/cyber-risk/securing-private-5g-networks-new-challenges-for-cisos)
@@ -83,7 +84,6 @@
 - [The Cyber Future Is Riskier Than You Think](https://www.darkreading.com/cyber-risk/the-cyber-future-is-riskier-than-you-think)
 - [Hackers Exploit Critical Langflow Flaw to Unleash Flodrix Botnet](https://www.darkreading.com/vulnerabilities-threats/hackers-exploit-langflow-flaw-flodrix-botnet)
 - [WestJet Airlines App, Website Suffer After Cyber Incident](https://www.darkreading.com/vulnerabilities-threats/westjet-airline-app-website-operations-suffer-cyber-incident)
-- [Malicious Chimera Turns Larcenous on Python Package Index](https://www.darkreading.com/application-security/malicious-chimera-pypi)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
