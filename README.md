@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How CISOs Can Govern AI &amp;amp; Meet Evolving Regulations](https://www.darkreading.com/vulnerabilities-threats/cisos-govern-ai-evolving-regulations)
 - [Serpentine#Cloud Uses Cloudflare Tunnels in Sneak Attacks](https://www.darkreading.com/cloud-security/serpentinecloud-cloudflare-tunnels-sneak-attacks)
 - [Indian Car-Sharing Firm Zoomcar Latest to Suffer Breach](https://www.darkreading.com/cyberattacks-data-breaches/indian-car-sharing-firm-zoomcar-breach)
 - [&#39;HoldingHands&#39; Acts Like a Pickpocket With Taiwan Orgs](https://www.darkreading.com/cyberattacks-data-breaches/holdinghands-pickpocket-taiwan-orgs)
@@ -83,7 +84,6 @@
 - [Operation Endgame: Do Takedowns and Arrests Matter?](https://www.darkreading.com/vulnerabilities-threats/operation-endgame-takedowns-arrests-matter)
 - [The Cyber Future Is Riskier Than You Think](https://www.darkreading.com/cyber-risk/the-cyber-future-is-riskier-than-you-think)
 - [Hackers Exploit Critical Langflow Flaw to Unleash Flodrix Botnet](https://www.darkreading.com/vulnerabilities-threats/hackers-exploit-langflow-flaw-flodrix-botnet)
-- [WestJet Airlines App, Website Suffer After Cyber Incident](https://www.darkreading.com/vulnerabilities-threats/westjet-airline-app-website-operations-suffer-cyber-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
