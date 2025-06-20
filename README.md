@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
-- [How Cyberwarfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
+- [How Cyber Warfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
 - [How to Lock Down the No-Code Supply Chain Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/how-lock-down-no-code-supply-chain-attack-surface)
 - [Security Evolution: From Pothole Repair to Road Building](https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building)
 - [Scammers Spread False Support Info Using Legitimate Websites](https://www.darkreading.com/cloud-security/scammers-spread-false-support-info-legitimate-websites)
