@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
+- [How Cyberwarfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
 - [How to Lock Down the No-Code Supply Chain Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/how-lock-down-no-code-supply-chain-attack-surface)
 - [Security Evolution: From Pothole Repair to Road Building](https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building)
 - [Scammers Spread False Support Info Using Legitimate Websites](https://www.darkreading.com/cloud-security/scammers-spread-false-support-info-legitimate-websites)
 - [Paragon Commercial Spyware Infects Prominent Journalists](https://www.darkreading.com/data-privacy/paragon-commercial-spyware-prominent-journalists)
 - [Iran-Israel War Triggers a Maelstrom in Cyberspace](https://www.darkreading.com/threat-intelligence/iran-israel-war-maelstrom-cyberspace)
 - [OpenAI Awarded $200M Contract to Work With DoD](https://www.darkreading.com/vulnerabilities-threats/openai-awarded-200m-contract-dod)
-- [The Triple Threat of Burnout: Overworked, Unsatisfied, Trapped](https://www.darkreading.com/cybersecurity-operations/triple-threat-burnout-overworked-unsatisfied-trapped)
-- [GodFather Banking Trojan Debuts Virtualization Tactic](https://www.darkreading.com/cloud-security/godfather-banking-trojan-debuts-virtualization-tactic)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
