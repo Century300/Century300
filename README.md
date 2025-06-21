@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AWS Enhances Cloud Security With Better Visibility Features](https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility)
 - [Hackers Post Dozens of Malicious Copycat Repos to GitHub](https://www.darkreading.com/threat-intelligence/dozens-malicious-copycat-repos-github)
 - [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
 - [How Cyber Warfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
@@ -83,7 +84,6 @@
 - [Security Evolution: From Pothole Repair to Road Building](https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building)
 - [Scammers Spread False Support Info Using Legitimate Websites](https://www.darkreading.com/cloud-security/scammers-spread-false-support-info-legitimate-websites)
 - [Paragon Commercial Spyware Infects Prominent Journalists](https://www.darkreading.com/data-privacy/paragon-commercial-spyware-prominent-journalists)
-- [Iran-Israel War Triggers a Maelstrom in Cyberspace](https://www.darkreading.com/threat-intelligence/iran-israel-war-maelstrom-cyberspace)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
