@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DHS Warns of Rise in Cyberattacks in Light of US-Iran Conflict](https://www.darkreading.com/threat-intelligence/dhs-cyberattacks-iran-conflict)
 - [Attackers Use Docker APIs, Tor Anonymity in Stealthy Crypto Heist](https://www.darkreading.com/cloud-security/attackers-docker-apis-tor-anonymity-crypto-heist)
 - [A CISO&#39;s AI Playbook](https://www.darkreading.com/vulnerabilities-threats/ciso-ai-playbook)
 - [AWS Enhances Cloud Security With Better Visibility Features](https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility)
@@ -83,7 +84,6 @@
 - [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
 - [How Cyber Warfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
 - [How to Lock Down the No-Code Supply Chain Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/how-lock-down-no-code-supply-chain-attack-surface)
-- [Security Evolution: From Pothole Repair to Road Building](https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
