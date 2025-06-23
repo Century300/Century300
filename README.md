@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Echo Chamber&#39; Attack Blows Past AI Guardrails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails)
+- [Citrix Patches Critical Vulns in NetScaler ADC and Gateway](https://www.darkreading.com/vulnerabilities-threats/citrix-patches-vulns-netscaler-adc-gateway)
 - [DHS Warns of Rise in Cyberattacks in Light of US-Iran Conflict](https://www.darkreading.com/threat-intelligence/dhs-cyberattacks-iran-conflict)
 - [Attackers Use Docker APIs, Tor Anonymity in Stealthy Crypto Heist](https://www.darkreading.com/cloud-security/attackers-docker-apis-tor-anonymity-crypto-heist)
 - [A CISO&#39;s AI Playbook](https://www.darkreading.com/vulnerabilities-threats/ciso-ai-playbook)
 - [AWS Enhances Cloud Security With Better Visibility Features](https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility)
 - [Hackers Post Dozens of Malicious Copycat Repos to GitHub](https://www.darkreading.com/threat-intelligence/dozens-malicious-copycat-repos-github)
 - [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
-- [How Cyber Warfare Changes the Face of Geopolitical Conflict](https://www.darkreading.com/cyberattacks-data-breaches/cyberwarfare-changes-geopolitical-conflict)
-- [How to Lock Down the No-Code Supply Chain Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/how-lock-down-no-code-supply-chain-attack-surface)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
