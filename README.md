@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A CISO&#39;s AI Playbook](https://www.darkreading.com/vulnerabilities-threats/ciso-ai-playbook)
 - [AWS Enhances Cloud Security With Better Visibility Features](https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility)
 - [Hackers Post Dozens of Malicious Copycat Repos to GitHub](https://www.darkreading.com/threat-intelligence/dozens-malicious-copycat-repos-github)
 - [Telecom Giant Viasat Is Latest Salt Typhoon Victim](https://www.darkreading.com/cloud-security/viasat-salt-typhoon-victim)
@@ -83,7 +84,6 @@
 - [How to Lock Down the No-Code Supply Chain Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/how-lock-down-no-code-supply-chain-attack-surface)
 - [Security Evolution: From Pothole Repair to Road Building](https://www.darkreading.com/cloud-security/security-evolution-pothole-repair-road-building)
 - [Scammers Spread False Support Info Using Legitimate Websites](https://www.darkreading.com/cloud-security/scammers-spread-false-support-info-legitimate-websites)
-- [Paragon Commercial Spyware Infects Prominent Journalists](https://www.darkreading.com/data-privacy/paragon-commercial-spyware-prominent-journalists)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
