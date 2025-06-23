@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [SparkKitty Swipes Pics from iOS, Android Devices](https://www.darkreading.com/mobile-security/sparkkitty-swipes-pics-ios-android-devices)
+- [SparkKitty Swipes Pics From iOS, Android Devices](https://www.darkreading.com/mobile-security/sparkkitty-swipes-pics-ios-android-devices)
 - [&#39;Echo Chamber&#39; Attack Blows Past AI Guardrails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails)
 - [Citrix Patches Critical Vulns in NetScaler ADC and Gateway](https://www.darkreading.com/vulnerabilities-threats/citrix-patches-vulns-netscaler-adc-gateway)
 - [DHS Warns of Rise in Cyberattacks in Light of US-Iran Conflict](https://www.darkreading.com/threat-intelligence/dhs-cyberattacks-iran-conflict)
