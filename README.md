@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How the US Military Is Redefining Zero Trust](https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust)
+- [IBM Pushes for More Collaboration Between Security, Governance](https://www.darkreading.com/cyber-risk/ibm-pushes-more-collaboration-security-governance)
 - [SparkKitty Swipes Pics From iOS, Android Devices](https://www.darkreading.com/mobile-security/sparkkitty-swipes-pics-ios-android-devices)
 - [&#39;Echo Chamber&#39; Attack Blows Past AI Guardrails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails)
 - [Citrix Patches Critical Vulns in NetScaler ADC and Gateway](https://www.darkreading.com/vulnerabilities-threats/citrix-patches-vulns-netscaler-adc-gateway)
 - [DHS Warns of Rise in Cyberattacks in Light of US-Iran Conflict](https://www.darkreading.com/threat-intelligence/dhs-cyberattacks-iran-conflict)
 - [Attackers Use Docker APIs, Tor Anonymity in Stealthy Crypto Heist](https://www.darkreading.com/cloud-security/attackers-docker-apis-tor-anonymity-crypto-heist)
 - [A CISO&#39;s AI Playbook](https://www.darkreading.com/vulnerabilities-threats/ciso-ai-playbook)
-- [AWS Enhances Cloud Security With Better Visibility Features](https://www.darkreading.com/cloud-security/aws-enhances-cloud-security-better-visibility)
-- [Hackers Post Dozens of Malicious Copycat Repos to GitHub](https://www.darkreading.com/threat-intelligence/dozens-malicious-copycat-repos-github)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
