@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China-Nexus &#39;LapDogs&#39; Network Thrives on Backdoored SOHO Devices](https://www.darkreading.com/threat-intelligence/china-lapdogs-network-backdoored-soho-devices)
 - [Steel Giant Nucor Confirms Data Stolen in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/steel-giant-nucor-data-stolen-cyberattack)
 - [How the US Military Is Redefining Zero Trust](https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust)
 - [Oh! Canada Added to List of Nations Targeted in Salt Typhoon Telecom Spree](https://www.darkreading.com/cloud-security/canada-targeted-salt-typhoon-telecom)
@@ -83,7 +84,6 @@
 - [&#39;Echo Chamber&#39; Attack Blows Past AI Guardrails](https://www.darkreading.com/cloud-security/echo-chamber-attack-ai-guardrails)
 - [IBM Pushes for More Collaboration Between Security, Governance](https://www.darkreading.com/cyber-risk/ibm-pushes-more-collaboration-security-governance)
 - [Citrix Patches Critical Vulns in NetScaler ADC and Gateway](https://www.darkreading.com/vulnerabilities-threats/citrix-patches-vulns-netscaler-adc-gateway)
-- [DHS Warns of Rise in Cyberattacks in Light of US-Iran Conflict](https://www.darkreading.com/threat-intelligence/dhs-cyberattacks-iran-conflict)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
