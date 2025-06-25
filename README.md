@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Generative AI Exacerbates Software Supply Chain Risks](https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks)
 - [XOR Marks the Flaw in SAP GUI](https://www.darkreading.com/cloud-security/xor-flaw-sap-gui)
 - [Africa Sees Surge in Cybercrime as Law Enforcement Struggles](https://www.darkreading.com/cyber-risk/africa-surge-cybercrime-law-enforcement-struggles)
 - [Threat Actor Trojanizes Copy of SonicWall NetExtender VPN App](https://www.darkreading.com/identity-access-management-security/threat-actor-trojanizes-sonicwall-netextender-vpn)
@@ -83,7 +84,6 @@
 - [Steel Giant Nucor Confirms Data Stolen in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/steel-giant-nucor-data-stolen-cyberattack)
 - [How the US Military Is Redefining Zero Trust](https://www.darkreading.com/vulnerabilities-threats/how-us-military-redefining-zero-trust)
 - [Oh! Canada Added to List of Nations Targeted in Salt Typhoon Telecom Spree](https://www.darkreading.com/cloud-security/canada-targeted-salt-typhoon-telecom)
-- [SparkKitty Swipes Pics From iOS, Android Devices](https://www.darkreading.com/mobile-security/sparkkitty-swipes-pics-ios-android-devices)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
