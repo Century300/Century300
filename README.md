@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Millions of Brother Printers Hit by Critical, Unpatchable Bug](https://www.darkreading.com/endpoint-security/millions-brother-printers-critical-unpatchable-bug)
 - [CISA Is Shrinking: What Does It Mean for Cyber?](https://www.darkreading.com/cybersecurity-operations/cisa-is-shrinking-what-does-it-mean-for-cyber-)
 - [Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing](https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology)
 - [Hundreds of MCP Servers Expose AI Models to Abuse, RCE](https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce)
@@ -83,7 +84,6 @@
 - [XOR Marks the Flaw in SAP GUI](https://www.darkreading.com/cloud-security/xor-flaw-sap-gui)
 - [Africa Sees Surge in Cybercrime as Law Enforcement Struggles](https://www.darkreading.com/cyber-risk/africa-surge-cybercrime-law-enforcement-struggles)
 - [Threat Actor Trojanizes Copy of SonicWall NetExtender VPN App](https://www.darkreading.com/identity-access-management-security/threat-actor-trojanizes-sonicwall-netextender-vpn)
-- [China-Nexus &#39;LapDogs&#39; Network Thrives on Backdoored SOHO Devices](https://www.darkreading.com/threat-intelligence/china-lapdogs-network-backdoored-soho-devices)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
