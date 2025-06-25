@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA Is Shrinking: What Does It Mean for Cyber?](https://www.darkreading.com/cybersecurity-operations/cisa-is-shrinking-what-does-it-mean-for-cyber-)
 - [Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing](https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology)
 - [Hundreds of MCP Servers Expose AI Models to Abuse, RCE](https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce)
 - [Generative AI Exacerbates Software Supply Chain Risks](https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks)
@@ -83,7 +84,6 @@
 - [Africa Sees Surge in Cybercrime as Law Enforcement Struggles](https://www.darkreading.com/cyber-risk/africa-surge-cybercrime-law-enforcement-struggles)
 - [Threat Actor Trojanizes Copy of SonicWall NetExtender VPN App](https://www.darkreading.com/identity-access-management-security/threat-actor-trojanizes-sonicwall-netextender-vpn)
 - [China-Nexus &#39;LapDogs&#39; Network Thrives on Backdoored SOHO Devices](https://www.darkreading.com/threat-intelligence/china-lapdogs-network-backdoored-soho-devices)
-- [Steel Giant Nucor Confirms Data Stolen in Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/steel-giant-nucor-data-stolen-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
