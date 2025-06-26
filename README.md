@@ -76,9 +76,9 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Cloud Repatriation Driven by AI, Cost, and Security](https://www.darkreading.com/cloud-security/cloud-repatriation-ai-cost-security)
 - [Taming Agentic AI Risks Requires Securing Non-Human Identities](https://www.darkreading.com/cybersecurity-operations/taming-agentic-ai-risks-securing-nhi)
 - [Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts](https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts)
+- [Cloud Repatriation Driven by AI, Cost, and Security](https://www.darkreading.com/cloud-security/cloud-repatriation-ai-cost-security)
 - [And Now Malware That Tells AI to Ignore It?](https://www.darkreading.com/cloud-security/malware-tells-ai-to-ignore-it)
 - [Millions of Brother Printers Hit by Critical, Unpatchable Bug](https://www.darkreading.com/endpoint-security/millions-brother-printers-critical-unpatchable-bug)
 - [CISA Is Shrinking: What Does It Mean for Cyber?](https://www.darkreading.com/cybersecurity-operations/cisa-is-shrinking-what-does-it-mean-for-cyber-)
