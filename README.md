@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts](https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts)
 - [And Now Malware That Tells AI to Ignore It?](https://www.darkreading.com/cloud-security/malware-tells-ai-to-ignore-it)
 - [Millions of Brother Printers Hit by Critical, Unpatchable Bug](https://www.darkreading.com/endpoint-security/millions-brother-printers-critical-unpatchable-bug)
 - [CISA Is Shrinking: What Does It Mean for Cyber?](https://www.darkreading.com/cybersecurity-operations/cisa-is-shrinking-what-does-it-mean-for-cyber-)
@@ -83,7 +84,6 @@
 - [Hundreds of MCP Servers Expose AI Models to Abuse, RCE](https://www.darkreading.com/cloud-security/hundreds-mcp-servers-ai-models-abuse-rce)
 - [Generative AI Exacerbates Software Supply Chain Risks](https://www.darkreading.com/vulnerabilities-threats/generative-ai-exacerbates-software-supply-chain-risks)
 - [XOR Marks the Flaw in SAP GUI](https://www.darkreading.com/cloud-security/xor-flaw-sap-gui)
-- [Africa Sees Surge in Cybercrime as Law Enforcement Struggles](https://www.darkreading.com/cyber-risk/africa-surge-cybercrime-law-enforcement-struggles)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
