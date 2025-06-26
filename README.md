@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;IntelBroker&#39; Suspect Arrested, Charged in High-Profile Breaches](https://www.darkreading.com/cyberattacks-data-breaches/intebroker-suspect-arrested-charged-breaches)
 - [How Geopolitical Tensions Are Shaping Cyber Warfare](https://www.darkreading.com/vulnerabilities-threats/geopolitical-tensions-shape-cyber-warfare)
 - [Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts](https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts)
 - [Cloud Repatriation Driven by AI, Cost, and Security](https://www.darkreading.com/cloud-security/cloud-repatriation-ai-cost-security)
@@ -83,7 +84,6 @@
 - [Taming Agentic AI Risks Requires Securing Non-Human Identities](https://www.darkreading.com/cybersecurity-operations/taming-agentic-ai-risks-securing-nhi)
 - [Millions of Brother Printers Hit by Critical, Unpatchable Bug](https://www.darkreading.com/endpoint-security/millions-brother-printers-critical-unpatchable-bug)
 - [CISA Is Shrinking: What Does It Mean for Cyber?](https://www.darkreading.com/cybersecurity-operations/cisa-is-shrinking-what-does-it-mean-for-cyber-)
-- [Dire Wolf Ransomware Comes Out Snarling, Bites Technology, Manufacturing](https://www.darkreading.com/threat-intelligence/dire-wolf-ransomware-manufacturing-technology)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
