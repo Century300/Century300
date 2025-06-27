@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Make Hay? Smart Tractors Vulnerable to Full Takeover](https://www.darkreading.com/cloud-security/hackers-hay-smart-tractors-vulnerable-takeover)
 - [Vulnerability Debt: How Do You Put a Price on What to Fix?](https://www.darkreading.com/vulnerabilities-threats/vulnerability-debt-fix-price)
 - [US Falling Behind China in Exploit Production](https://www.darkreading.com/cyber-risk/us-falling-behind-china-exploit-production)
 - [&#39;Cyber Fattah&#39; Hacktivist Group Leaks Saudi Games Data](https://www.darkreading.com/threat-intelligence/cyber-fattah-hacktivist-leaks-saudi-games-data)
@@ -83,7 +84,6 @@
 - [How Geopolitical Tensions Are Shaping Cyber Warfare](https://www.darkreading.com/vulnerabilities-threats/geopolitical-tensions-shape-cyber-warfare)
 - [Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts](https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts)
 - [Cloud Repatriation Driven by AI, Cost, and Security](https://www.darkreading.com/cloud-security/cloud-repatriation-ai-cost-security)
-- [And Now Malware That Tells AI to Ignore It?](https://www.darkreading.com/cloud-security/malware-tells-ai-to-ignore-it)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
