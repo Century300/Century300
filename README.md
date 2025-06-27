@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vulnerability Debt: How Do You Put a Price on What to Fix?](https://www.darkreading.com/vulnerabilities-threats/vulnerability-debt-fix-price)
 - [US Falling Behind China in Exploit Production](https://www.darkreading.com/cyber-risk/us-falling-behind-china-exploit-production)
 - [&#39;Cyber Fattah&#39; Hacktivist Group Leaks Saudi Games Data](https://www.darkreading.com/threat-intelligence/cyber-fattah-hacktivist-leaks-saudi-games-data)
 - [&#39;IntelBroker&#39; Suspect Arrested, Charged in High-Profile Breaches](https://www.darkreading.com/cyberattacks-data-breaches/intebroker-suspect-arrested-charged-breaches)
@@ -83,7 +84,6 @@
 - [Charming Kitten APT Tries Spying on Israeli Cybersecurity Experts](https://www.darkreading.com/threat-intelligence/iran-apt-spying-israeli-cybersecurity-experts)
 - [Cloud Repatriation Driven by AI, Cost, and Security](https://www.darkreading.com/cloud-security/cloud-repatriation-ai-cost-security)
 - [And Now Malware That Tells AI to Ignore It?](https://www.darkreading.com/cloud-security/malware-tells-ai-to-ignore-it)
-- [Taming Agentic AI Risks Requires Securing Non-Human Identities](https://www.darkreading.com/cybersecurity-operations/taming-agentic-ai-risks-securing-nhi)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
