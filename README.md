@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Airoha Chip Vulns Put Sony, Bose Earbuds &amp;amp; Headphones at Risk](https://www.darkreading.com/vulnerabilities-threats/airoha-chip-vulns-sony-bose-earbuds-headphones)
 - [AI-Themed SEO Poisoning Attacks Spread Info, Crypto Stealers](https://www.darkreading.com/cyberattacks-data-breaches/ai-seo-poisoning-attack-info-crypto-stealers)
 - [Why Cybersecurity Should Come Before AI in Schools](https://www.darkreading.com/endpoint-security/cybersecurity-before-ai-schools)
 - [Top Apple, Google VPN Apps May Help China Spy on Users](https://www.darkreading.com/cloud-security/apple-google-vpn-apps-china-spy-users)
@@ -83,7 +84,6 @@
 - [Scattered Spider Taps CFO Credentials in &#39;Scorched Earth&#39; Attack](https://www.darkreading.com/cloud-security/scattered-spider-cfo-scorched-earth-attack)
 - [Hackers Make Hay? Smart Tractors Vulnerable to Full Takeover](https://www.darkreading.com/cloud-security/hackers-hay-smart-tractors-vulnerable-takeover)
 - [Vulnerability Debt: How Do You Put a Price on What to Fix?](https://www.darkreading.com/vulnerabilities-threats/vulnerability-debt-fix-price)
-- [US Falling Behind China in Exploit Production](https://www.darkreading.com/cyber-risk/us-falling-behind-china-exploit-production)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
