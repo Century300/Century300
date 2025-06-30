@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Spider Hacking Spree Continues With Airline Sector Attacks](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-hacking-spree-airline-sector)
+- [Hired Hacker Assists Drug Cartel in Finding, Killing FBI Sources](https://www.darkreading.com/cyberattacks-data-breaches/hacker-drug-cartel-killing-fbi-sources)
 - [Chinese Company Hikvision Banned By Canadian Government](https://www.darkreading.com/threat-intelligence/hikvision-banned-canadian-government)
 - [Airoha Chip Vulns Put Sony, Bose Earbuds &amp;amp; Headphones at Risk](https://www.darkreading.com/vulnerabilities-threats/airoha-chip-vulns-sony-bose-earbuds-headphones)
 - [AI-Themed SEO Poisoning Attacks Spread Info, Crypto Stealers](https://www.darkreading.com/cyberattacks-data-breaches/ai-seo-poisoning-attack-info-crypto-stealers)
 - [Why Cybersecurity Should Come Before AI in Schools](https://www.darkreading.com/endpoint-security/cybersecurity-before-ai-schools)
 - [Top Apple, Google VPN Apps May Help China Spy on Users](https://www.darkreading.com/cloud-security/apple-google-vpn-apps-china-spy-users)
 - [&#39;CitrixBleed 2&#39; Shows Signs of Active Exploitation](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-active-exploitation)
-- [Scattered Spider Taps CFO Credentials in &#39;Scorched Earth&#39; Attack](https://www.darkreading.com/cloud-security/scattered-spider-cfo-scorched-earth-attack)
-- [Hackers Make Hay? Smart Tractors Vulnerable to Full Takeover](https://www.darkreading.com/cloud-security/hackers-hay-smart-tractors-vulnerable-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
