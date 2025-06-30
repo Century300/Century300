@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Cybersecurity Should Come Before AI in Schools](https://www.darkreading.com/endpoint-security/cybersecurity-before-ai-schools)
 - [Top Apple, Google VPN Apps May Help China Spy on Users](https://www.darkreading.com/cloud-security/apple-google-vpn-apps-china-spy-users)
 - [&#39;CitrixBleed 2&#39; Shows Signs of Active Exploitation](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-2-active-exploitation)
 - [Scattered Spider Taps CFO Credentials in &#39;Scorched Earth&#39; Attack](https://www.darkreading.com/cloud-security/scattered-spider-cfo-scorched-earth-attack)
@@ -83,7 +84,6 @@
 - [Vulnerability Debt: How Do You Put a Price on What to Fix?](https://www.darkreading.com/vulnerabilities-threats/vulnerability-debt-fix-price)
 - [US Falling Behind China in Exploit Production](https://www.darkreading.com/cyber-risk/us-falling-behind-china-exploit-production)
 - [&#39;Cyber Fattah&#39; Hacktivist Group Leaks Saudi Games Data](https://www.darkreading.com/threat-intelligence/cyber-fattah-hacktivist-leaks-saudi-games-data)
-- [&#39;IntelBroker&#39; Suspect Arrested, Charged in High-Profile Breaches](https://www.darkreading.com/cyberattacks-data-breaches/intebroker-suspect-arrested-charged-breaches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
