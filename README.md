@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chrome Zero-Day, &#39;FoxyWallet&#39; Firefox Attacks Threaten Browsers](https://www.darkreading.com/cyberattacks-data-breaches/browsers-targeted-chrome-zero-day-malicious-firefox-extensions)
 - [How Businesses Can Align Cyber Defenses With Real Threats](https://www.darkreading.com/vulnerabilities-threats/how-businesses-can-align-cyber-defenses-real-threats)
 - [Scattered Spider Hacking Spree Continues With Airline Sector Attacks](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-hacking-spree-airline-sector)
 - [Hired Hacker Assists Drug Cartel in Finding, Killing FBI Sources](https://www.darkreading.com/cyberattacks-data-breaches/hacker-drug-cartel-killing-fbi-sources)
@@ -83,7 +84,6 @@
 - [Rethinking Cyber-Risk as Traditional Models Fall Short](https://www.darkreading.com/cyber-risk/rethinking-cyber-risk-traditional-models-fall-short)
 - [Airoha Chip Vulns Put Sony, Bose Earbuds &amp;amp; Headphones at Risk](https://www.darkreading.com/vulnerabilities-threats/airoha-chip-vulns-sony-bose-earbuds-headphones)
 - [AI-Themed SEO Poisoning Attacks Spread Info, Crypto Stealers](https://www.darkreading.com/cyberattacks-data-breaches/ai-seo-poisoning-attack-info-crypto-stealers)
-- [Why Cybersecurity Should Come Before AI in Schools](https://www.darkreading.com/endpoint-security/cybersecurity-before-ai-schools)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
