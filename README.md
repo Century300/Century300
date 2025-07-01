@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Like SEO, LLMs May Soon Fall Prey to Phishing Scams](https://www.darkreading.com/cyber-risk/seo-llms-fall-prey-phishing-scams)
 - [LevelBlue Acquires Trustwave, Forms World&#39;s Largest Independent MSSP](https://www.darkreading.com/cybersecurity-operations/levelblue-trustwave-forms-largest-independent-mssp)
 - [Scope, Scale of Spurious North Korean IT Workers Emerges](https://www.darkreading.com/cyberattacks-data-breaches/scope-scale-spurious-north-korean-it-workers)
 - [Ransomware Reshaped How Cyber Insurers Perform Security Assessments](https://www.darkreading.com/cybersecurity-operations/ransomware-reshaped-how-cyber-insurers-perform-security-assessments)
@@ -83,7 +84,6 @@
 - [DoJ Disrupts North Korean IT Worker Scheme Across Multiple US States](https://www.darkreading.com/threat-intelligence/doj-disrupts-north-korean-it-worker-scheme)
 - [Chrome Zero-Day, &#39;FoxyWallet&#39; Firefox Attacks Threaten Browsers](https://www.darkreading.com/cyberattacks-data-breaches/browsers-targeted-chrome-zero-day-malicious-firefox-extensions)
 - [How Businesses Can Align Cyber Defenses With Real Threats](https://www.darkreading.com/vulnerabilities-threats/how-businesses-can-align-cyber-defenses-real-threats)
-- [Scattered Spider Hacking Spree Continues With Airline Sector Attacks](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-hacking-spree-airline-sector)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
