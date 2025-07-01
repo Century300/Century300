@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DoJ Disrupts North Korean IT Worker Scheme Across Multiple US States](https://www.darkreading.com/threat-intelligence/doj-disrupts-north-korean-it-worker-scheme)
 - [Chrome Zero-Day, &#39;FoxyWallet&#39; Firefox Attacks Threaten Browsers](https://www.darkreading.com/cyberattacks-data-breaches/browsers-targeted-chrome-zero-day-malicious-firefox-extensions)
 - [How Businesses Can Align Cyber Defenses With Real Threats](https://www.darkreading.com/vulnerabilities-threats/how-businesses-can-align-cyber-defenses-real-threats)
 - [Scattered Spider Hacking Spree Continues With Airline Sector Attacks](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-hacking-spree-airline-sector)
@@ -83,7 +84,6 @@
 - [Chinese Company Hikvision Banned By Canadian Government](https://www.darkreading.com/threat-intelligence/hikvision-banned-canadian-government)
 - [Rethinking Cyber-Risk as Traditional Models Fall Short](https://www.darkreading.com/cyber-risk/rethinking-cyber-risk-traditional-models-fall-short)
 - [Airoha Chip Vulns Put Sony, Bose Earbuds &amp;amp; Headphones at Risk](https://www.darkreading.com/vulnerabilities-threats/airoha-chip-vulns-sony-bose-earbuds-headphones)
-- [AI-Themed SEO Poisoning Attacks Spread Info, Crypto Stealers](https://www.darkreading.com/cyberattacks-data-breaches/ai-seo-poisoning-attack-info-crypto-stealers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
