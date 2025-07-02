@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ClickFix Spin-off Attack Bypasses Key Browser Safeguards](https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards)
+- [1 Year Later: Lessons Learned From the CrowdStrike Outage](https://www.darkreading.com/vulnerabilities-threats/1-year-later-lessons-crowdstrike-outage)
 - [FileFix Attack Chain Enables Malicious Script Execution](https://www.darkreading.com/threat-intelligence/filefix-attack-chain-malicious-script)
 - [Silver Fox Suspected in Taiwanese Campaign Using DeepSeek Lure](https://www.darkreading.com/cyberattacks-data-breaches/silver-fox-suspected-taiwanese-campaign-deepseek)
 - [Like SEO, LLMs May Soon Fall Prey to Phishing Scams](https://www.darkreading.com/cyber-risk/seo-llms-fall-prey-phishing-scams)
 - [LevelBlue Acquires Trustwave, Forms World&#39;s Largest Independent MSSP](https://www.darkreading.com/cybersecurity-operations/levelblue-trustwave-forms-largest-independent-mssp)
 - [Scope, Scale of Spurious North Korean IT Workers Emerges](https://www.darkreading.com/cyberattacks-data-breaches/scope-scale-spurious-north-korean-it-workers)
 - [Ransomware Reshaped How Cyber Insurers Perform Security Assessments](https://www.darkreading.com/cybersecurity-operations/ransomware-reshaped-how-cyber-insurers-perform-security-assessments)
-- [We&#39;ve All Been Wrong: Phishing Training Doesn&#39;t Work](https://www.darkreading.com/endpoint-security/phishing-training-doesnt-work)
-- [DoJ Disrupts North Korean IT Worker Scheme Across Multiple US States](https://www.darkreading.com/threat-intelligence/doj-disrupts-north-korean-it-worker-scheme)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
