@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [ClickFix Spin-off Attack Bypasses Key Browser Safeguards](https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards)
+- [ClickFix Spin-Off Attack Bypasses Key Browser Safeguards](https://www.darkreading.com/endpoint-security/clickfix-spin-off-bypassing-key-browser-safeguards)
 - [1 Year Later: Lessons Learned From the CrowdStrike Outage](https://www.darkreading.com/vulnerabilities-threats/1-year-later-lessons-crowdstrike-outage)
 - [FileFix Attack Chain Enables Malicious Script Execution](https://www.darkreading.com/threat-intelligence/filefix-attack-chain-malicious-script)
 - [Silver Fox Suspected in Taiwanese Campaign Using DeepSeek Lure](https://www.darkreading.com/cyberattacks-data-breaches/silver-fox-suspected-taiwanese-campaign-deepseek)
