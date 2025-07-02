@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Qantas Airlines Breached, Impacting 6M Customers](https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers)
 - [Initial Access Broker Self-Patches Zero Days as Turf Control](https://www.darkreading.com/cyber-risk/initial-access-broker-self-patches-zero-days)
 - [US Treasury Sanctions BPH Provider Aeza Group](https://www.darkreading.com/threat-intelligence/us-treasury-bph-provider-aeza-group)
 - [Russian APT &#39;Gamaredon&#39; Hits Ukraine With Fierce Phishing](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-gamaredon-ukraine-phishing)
@@ -83,7 +84,6 @@
 - [1 Year Later: Lessons Learned From the CrowdStrike Outage](https://www.darkreading.com/vulnerabilities-threats/1-year-later-lessons-crowdstrike-outage)
 - [FileFix Attack Chain Enables Malicious Script Execution](https://www.darkreading.com/threat-intelligence/filefix-attack-chain-malicious-script)
 - [Silver Fox Suspected in Taiwanese Campaign Using DeepSeek Lure](https://www.darkreading.com/cyberattacks-data-breaches/silver-fox-suspected-taiwanese-campaign-deepseek)
-- [Like SEO, LLMs May Soon Fall Prey to Phishing Scams](https://www.darkreading.com/cyber-risk/seo-llms-fall-prey-phishing-scams)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
