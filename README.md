@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Cyber Blueprint Aims to Guide Organizations on AI Journey](https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey)
 - [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
+- [Criminals Sending QR Codes in Phishing, Malware Campaigns](https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing)
 - [IDE Extensions Pose Hidden Risks to Software Supply Chain](https://www.darkreading.com/application-security/ide-extensions-risks-software-supply-chain)
 - [Attackers Impersonate Top Brands in Callback Phishing](https://www.darkreading.com/endpoint-security/attackers-top-brands-callback-phishing)
 - [Qantas Airlines Breached, Impacting 6M Customers](https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers)
 - [Browser Extensions Pose Heightened, but Manageable, Security Risks](https://www.darkreading.com/cyber-risk/browser-extensions-heightened-manageable-security-risks)
 - [Initial Access Broker Self-Patches Zero Days as Turf Control](https://www.darkreading.com/cyber-risk/initial-access-broker-self-patches-zero-days)
-- [US Treasury Sanctions BPH Provider Aeza Group](https://www.darkreading.com/threat-intelligence/us-treasury-bph-provider-aeza-group)
-- [AI Tackles Binary Code Challenges to Fortify Supply Chain Security](https://www.darkreading.com/application-security/ai-tackles-binary-code-challenges-fortify-supply-chain-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
