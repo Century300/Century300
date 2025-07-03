@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
 - [IDE Extensions Pose Hidden Risks to Software Supply Chain](https://www.darkreading.com/application-security/ide-extensions-risks-software-supply-chain)
 - [Attackers Impersonate Top Brands in Callback Phishing](https://www.darkreading.com/endpoint-security/attackers-top-brands-callback-phishing)
 - [Qantas Airlines Breached, Impacting 6M Customers](https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers)
@@ -83,7 +84,6 @@
 - [Initial Access Broker Self-Patches Zero Days as Turf Control](https://www.darkreading.com/cyber-risk/initial-access-broker-self-patches-zero-days)
 - [US Treasury Sanctions BPH Provider Aeza Group](https://www.darkreading.com/threat-intelligence/us-treasury-bph-provider-aeza-group)
 - [AI Tackles Binary Code Challenges to Fortify Supply Chain Security](https://www.darkreading.com/application-security/ai-tackles-binary-code-challenges-fortify-supply-chain-security)
-- [Russian APT &#39;Gamaredon&#39; Hits Ukraine With Fierce Phishing](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-gamaredon-ukraine-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
