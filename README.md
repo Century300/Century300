@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chrome Store Features Extension Poisoned With Sophisticated Spyware](https://www.darkreading.com/endpoint-security/chrome-store-features-extension-poisoned-sophisticated-spyware)
 - [New Cyber Blueprint Aims to Guide Organizations on AI Journey](https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey)
 - [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
 - [Criminals Sending QR Codes in Phishing, Malware Campaigns](https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing)
@@ -83,7 +84,6 @@
 - [Attackers Impersonate Top Brands in Callback Phishing](https://www.darkreading.com/endpoint-security/attackers-top-brands-callback-phishing)
 - [Qantas Airlines Breached, Impacting 6M Customers](https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers)
 - [Browser Extensions Pose Heightened, but Manageable, Security Risks](https://www.darkreading.com/cyber-risk/browser-extensions-heightened-manageable-security-risks)
-- [Initial Access Broker Self-Patches Zero Days as Turf Control](https://www.darkreading.com/cyber-risk/initial-access-broker-self-patches-zero-days)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
