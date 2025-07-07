@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DPRK macOS &#39;NimDoor&#39; Malware Targets Web3, Crypto Platforms](https://www.darkreading.com/cyberattacks-data-breaches/dprk-macos-nimdoor-malware-web3-crypto-platforms)
 - [Ransomware Attack Triggers Widespread Outage at Ingram Micro](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-outage-ingram-micro)
 - [&#39;Hunters International&#39; RaaS Group Closes Its Doors](https://www.darkreading.com/threat-intelligence/hunters-international-raas-group-closes-doors)
 - [Chrome Store Features Extension Poisoned With Sophisticated Spyware](https://www.darkreading.com/endpoint-security/chrome-store-features-extension-poisoned-sophisticated-spyware)
@@ -83,7 +84,6 @@
 - [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
 - [Criminals Sending QR Codes in Phishing, Malware Campaigns](https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing)
 - [IDE Extensions Pose Hidden Risks to Software Supply Chain](https://www.darkreading.com/application-security/ide-extensions-risks-software-supply-chain)
-- [Attackers Impersonate Top Brands in Callback Phishing](https://www.darkreading.com/endpoint-security/attackers-top-brands-callback-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
