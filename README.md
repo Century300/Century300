@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Hunters International&#39; RaaS Group Closes Its Doors](https://www.darkreading.com/threat-intelligence/hunters-international-raas-group-closes-doors)
 - [Chrome Store Features Extension Poisoned With Sophisticated Spyware](https://www.darkreading.com/endpoint-security/chrome-store-features-extension-poisoned-sophisticated-spyware)
 - [New Cyber Blueprint Aims to Guide Organizations on AI Journey](https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey)
 - [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
@@ -83,7 +84,6 @@
 - [IDE Extensions Pose Hidden Risks to Software Supply Chain](https://www.darkreading.com/application-security/ide-extensions-risks-software-supply-chain)
 - [Attackers Impersonate Top Brands in Callback Phishing](https://www.darkreading.com/endpoint-security/attackers-top-brands-callback-phishing)
 - [Qantas Airlines Breached, Impacting 6M Customers](https://www.darkreading.com/cyberattacks-data-breaches/qantas-airlines-breached-6m-customers)
-- [Browser Extensions Pose Heightened, but Manageable, Security Risks](https://www.darkreading.com/cyber-risk/browser-extensions-heightened-manageable-security-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
