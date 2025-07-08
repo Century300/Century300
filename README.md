@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Hackers &#39;Shellter&#39; Various Stealers in Red Team Tool to Evade Detection](https://www.darkreading.com/threat-intelligence/hackers-shellter-red-team-tool-evade-detection)
+- [Hackers &#39;Shellter&#39; Various Stealers in Red-Team Tool to Evade Detection](https://www.darkreading.com/threat-intelligence/hackers-shellter-red-team-tool-evade-detection)
 - [4 Critical Steps in Advance of 47-Day SSL/TLS Certificates](https://www.darkreading.com/cyberattacks-data-breaches/critical-steps-advance-ssl-tls-certificates)
 - [TAG-140 Targets Indian Government Via &#39;ClickFix-Style&#39; Lure](https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure)
 - [Checking for Fraud: Texas Community Bank Nips Check Fraud in the Bud](https://www.darkreading.com/cyber-risk/texas-community-bank-nips-check-fraud-bud)
