@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TAG-140 Targets Indian Government Via &#39;ClickFix-Style&#39; Lure](https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure)
 - [Bert Blitzes Linux &amp;amp; Windows Systems](https://www.darkreading.com/cyber-risk/bert-blitzes-linux-windows-systems)
 - [DPRK macOS &#39;NimDoor&#39; Malware Targets Web3, Crypto Platforms](https://www.darkreading.com/cyberattacks-data-breaches/dprk-macos-nimdoor-malware-web3-crypto-platforms)
 - [Ransomware Attack Triggers Widespread Outage at Ingram Micro](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-outage-ingram-micro)
@@ -83,7 +84,6 @@
 - [Chrome Store Features Extension Poisoned With Sophisticated Spyware](https://www.darkreading.com/endpoint-security/chrome-store-features-extension-poisoned-sophisticated-spyware)
 - [New Cyber Blueprint Aims to Guide Organizations on AI Journey](https://www.darkreading.com/cyber-risk/cyber-blueprint-guide-ai-journey)
 - [Dark Web Vendors Shift to Third Parties, Supply Chains](https://www.darkreading.com/threat-intelligence/dark-web-vendors-third-parties-supply-chains)
-- [Criminals Sending QR Codes in Phishing, Malware Campaigns](https://www.darkreading.com/endpoint-security/criminals-send-qr-codes-phishing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
