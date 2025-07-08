@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Suspected Hacker Linked to Silk Typhoon Arrested in Milan](https://www.darkreading.com/threat-intelligence/suspected-hacker-silk-typhoon-arrested)
 - [Hackers &#39;Shellter&#39; Various Stealers in Red-Team Tool to Evade Detection](https://www.darkreading.com/threat-intelligence/hackers-shellter-red-team-tool-evade-detection)
 - [4 Critical Steps in Advance of 47-Day SSL/TLS Certificates](https://www.darkreading.com/cyberattacks-data-breaches/critical-steps-advance-ssl-tls-certificates)
 - [TAG-140 Targets Indian Government Via &#39;ClickFix-Style&#39; Lure](https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure)
@@ -83,7 +84,6 @@
 - [Bert Blitzes Linux &amp;amp; Windows Systems](https://www.darkreading.com/cyber-risk/bert-blitzes-linux-windows-systems)
 - [DPRK macOS &#39;NimDoor&#39; Malware Targets Web3, Crypto Platforms](https://www.darkreading.com/cyberattacks-data-breaches/dprk-macos-nimdoor-malware-web3-crypto-platforms)
 - [Ransomware Attack Triggers Widespread Outage at Ingram Micro](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-outage-ingram-micro)
-- [&#39;Hunters International&#39; RaaS Group Closes Its Doors](https://www.darkreading.com/threat-intelligence/hunters-international-raas-group-closes-doors)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
