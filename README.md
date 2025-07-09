@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [A NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 - [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
 - [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
 - [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
@@ -83,7 +84,6 @@
 - [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
 - [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
 - [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
-- [Microsoft Patches 137 CVEs in July, but No Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
