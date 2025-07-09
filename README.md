@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [A NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
+- [An NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 - [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
 - [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
 - [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
