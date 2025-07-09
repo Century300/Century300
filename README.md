@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SatanLock Next in Line for Ransomware Group Shutdowns](https://www.darkreading.com/threat-intelligence/satanlock-ransomware-group-shutdowns)
+- [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
 - [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
 - [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
 - [Microsoft Patches 137 CVEs in July, but No Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days)
 - [Malicious Open Source Packages Spike 188% YoY](https://www.darkreading.com/application-security/malicious-open-source-packages-spike)
 - [Suspected Hacker Linked to Silk Typhoon Arrested in Milan](https://www.darkreading.com/threat-intelligence/suspected-hacker-silk-typhoon-arrested)
 - [Hackers &#39;Shellter&#39; Various Stealers in Red-Team Tool to Evade Detection](https://www.darkreading.com/threat-intelligence/hackers-shellter-red-team-tool-evade-detection)
-- [4 Critical Steps in Advance of 47-Day SSL/TLS Certificates](https://www.darkreading.com/cyberattacks-data-breaches/critical-steps-advance-ssl-tls-certificates)
-- [TAG-140 Targets Indian Government Via &#39;ClickFix-Style&#39; Lure](https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
