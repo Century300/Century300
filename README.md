@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
+- [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
 - [Microsoft Patches 137 CVEs in July, but No Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days)
 - [Malicious Open Source Packages Spike 188% YoY](https://www.darkreading.com/application-security/malicious-open-source-packages-spike)
 - [Suspected Hacker Linked to Silk Typhoon Arrested in Milan](https://www.darkreading.com/threat-intelligence/suspected-hacker-silk-typhoon-arrested)
 - [Hackers &#39;Shellter&#39; Various Stealers in Red-Team Tool to Evade Detection](https://www.darkreading.com/threat-intelligence/hackers-shellter-red-team-tool-evade-detection)
 - [4 Critical Steps in Advance of 47-Day SSL/TLS Certificates](https://www.darkreading.com/cyberattacks-data-breaches/critical-steps-advance-ssl-tls-certificates)
 - [TAG-140 Targets Indian Government Via &#39;ClickFix-Style&#39; Lure](https://www.darkreading.com/threat-intelligence/tag-140-indian-government-clickfix-lure)
-- [Checking for Fraud: Texas Community Bank Nips Check Fraud in the Bud](https://www.darkreading.com/cyber-risk/texas-community-bank-nips-check-fraud-bud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
