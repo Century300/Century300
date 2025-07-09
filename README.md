@@ -78,8 +78,8 @@
 <!-- DARKREADING:START -->
 - [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
 - [SatanLock Next in Line for Ransomware Group Shutdowns](https://www.darkreading.com/threat-intelligence/satanlock-ransomware-group-shutdowns)
-- [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
 - [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
+- [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
 - [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
 - [Microsoft Patches 137 CVEs in July, but No Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days)
 - [Malicious Open Source Packages Spike 188% YoY](https://www.darkreading.com/application-security/malicious-open-source-packages-spike)
