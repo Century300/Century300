@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
 - [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
 - [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
 - [SatanLock Next in Line for Ransomware Group Shutdowns](https://www.darkreading.com/threat-intelligence/satanlock-ransomware-group-shutdowns)
@@ -83,7 +84,6 @@
 - [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
 - [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
 - [Microsoft Patches 137 CVEs in July, but No Zero-Days](https://www.darkreading.com/application-security/microsoft-patches-137-cves-no-zero-days)
-- [Malicious Open Source Packages Spike 188% YoY](https://www.darkreading.com/application-security/malicious-open-source-packages-spike)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
