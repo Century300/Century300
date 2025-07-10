@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [North American APT Uses Exchange Zero-Day to Attack China](https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china)
+- [Browser Exploits Wane as Users Become the Attack Surface](https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface)
 - [An NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 - [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
 - [AirMDR Tackles Security Burdens for SMBs With AI](https://www.darkreading.com/cybersecurity-operations/airmdr-tackles-smb-security-burdens-with-ai)
 - [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
 - [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
 - [SatanLock Next in Line for Ransomware Group Shutdowns](https://www.darkreading.com/threat-intelligence/satanlock-ransomware-group-shutdowns)
-- [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
