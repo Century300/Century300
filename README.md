@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North American APT Uses Exchange Zero-Day to Attack China](https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china)
 - [An NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 - [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
 - [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
@@ -83,7 +84,6 @@
 - [SatanLock Next in Line for Ransomware Group Shutdowns](https://www.darkreading.com/threat-intelligence/satanlock-ransomware-group-shutdowns)
 - [South Korean Government Imposes Penalties on SK Telecom for Breach](https://www.darkreading.com/cyberattacks-data-breaches/south-korea-imposes-penalties-sk-telecom-breach)
 - [Unlock Security Operations Success With Data Analysis](https://www.darkreading.com/cybersecurity-analytics/unlock-security-operations-success-data-analysis)
-- [AI Trust Score Ranks LLM Security](https://www.darkreading.com/cyber-risk/ai-trust-score-ranks-llm-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
