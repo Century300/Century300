@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Ingram Micro Up and Running After Ransomware Attack](https://www.darkreading.com/threat-intelligence/ingram-micro-ransomware-attack)
+- [Agentic AI&#39;s Risky MCP Backbone Opens Brand-New Attack Vectors](https://www.darkreading.com/application-security/agentic-ai-risky-mcp-backbone-attack-vectors)
+- [4 Arrested in UK Over M&amp;amp;S, Co-op, Harrods Hacks](https://www.darkreading.com/cyberattacks-data-breaches/4-arrested-uk-marks-spencer-co-op-harrods-hacks)
 - [SIM Swap Fraud Is Surging — and That&#39;s a Good Thing](https://www.darkreading.com/vulnerabilities-threats/sim-swap-fraud-surging-good)
 - [North American APT Uses Exchange Zero-Day to Attack China](https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china)
 - [Browser Exploits Wane as Users Become the Attack Surface](https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface)
 - [An NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 - [New AI Malware PoC Reliably Evades Microsoft Defender](https://www.darkreading.com/endpoint-security/ai-malware-poc-evades-microsoft-defender)
-- [AirMDR Tackles Security Burdens for SMBs With AI](https://www.darkreading.com/cybersecurity-operations/airmdr-tackles-smb-security-burdens-with-ai)
-- [Rubio Impersonator Signals Growing Security Threat From Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/rubio-impersonator-growing-security-threat-deepfakes)
-- [Know Your Enemy: Understanding Dark Market Dynamics](https://www.darkreading.com/vulnerabilities-threats/understanding-dark-market-dynamics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
