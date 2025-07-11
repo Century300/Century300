@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Customer, Employee Data Exposed in Nippon Steel Breach](https://www.darkreading.com/threat-intelligence/customer-employee-data-nippon-steel-breach)
+- [Digital Fingerprints Tests Privacy Concerns in 2025](https://www.darkreading.com/data-privacy/digital-fingerprints-tests-privacy-concerns-2025)
 - [eSIM Bug in Millions of Phones Enables Spying, Takeover](https://www.darkreading.com/endpoint-security/esim-bug-millions-phones-spying-takeover)
 - [Ingram Micro Up and Running After Ransomware Attack](https://www.darkreading.com/threat-intelligence/ingram-micro-ransomware-attack)
 - [Agentic AI&#39;s Risky MCP Backbone Opens Brand-New Attack Vectors](https://www.darkreading.com/application-security/agentic-ai-risky-mcp-backbone-attack-vectors)
 - [4 Arrested in UK Over M&amp;amp;S, Co-op, Harrods Hacks](https://www.darkreading.com/cyberattacks-data-breaches/4-arrested-uk-marks-spencer-co-op-harrods-hacks)
 - [SIM Swap Fraud Is Surging — and That&#39;s a Good Thing](https://www.darkreading.com/vulnerabilities-threats/sim-swap-fraud-surging-good)
 - [North American APT Uses Exchange Zero-Day to Attack China](https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china)
-- [Browser Exploits Wane as Users Become the Attack Surface](https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
