@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [350M Cars, 1B Devices Exposed to 1-Click Bluetooth RCE](https://www.darkreading.com/vulnerabilities-threats/350m-cars-1b-devices-1-click-bluetooth-rce)
 - [As Cyber-Insurance Premiums Drop, Coverage Is Key to Resilience](https://www.darkreading.com/vulnerabilities-threats/cyber-insurance-premiums-drop-coverage-key-resilience)
 - [Factoring Cybersecurity Into Finance&#39;s Digital Strategy](https://www.darkreading.com/cyberattacks-data-breaches/factoring-cybersecurity-finances-digital-strategy)
 - [Customer, Employee Data Exposed in Nippon Steel Breach](https://www.darkreading.com/threat-intelligence/customer-employee-data-nippon-steel-breach)
@@ -83,7 +84,6 @@
 - [eSIM Bug in Millions of Phones Enables Spying, Takeover](https://www.darkreading.com/endpoint-security/esim-bug-millions-phones-spying-takeover)
 - [Ingram Micro Up and Running After Ransomware Attack](https://www.darkreading.com/threat-intelligence/ingram-micro-ransomware-attack)
 - [Agentic AI&#39;s Risky MCP Backbone Opens Brand-New Attack Vectors](https://www.darkreading.com/application-security/agentic-ai-risky-mcp-backbone-attack-vectors)
-- [4 Arrested in UK Over M&amp;amp;S, Co-op, Harrods Hacks](https://www.darkreading.com/cyberattacks-data-breaches/4-arrested-uk-marks-spencer-co-op-harrods-hacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
