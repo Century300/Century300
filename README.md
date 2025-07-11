@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [As Cyber-Insurance Premiums Drop, Coverage Is Key to Resilience](https://www.darkreading.com/vulnerabilities-threats/cyber-insurance-premiums-drop-coverage-key-resilience)
 - [Factoring Cybersecurity Into Finance&#39;s Digital Strategy](https://www.darkreading.com/cyberattacks-data-breaches/factoring-cybersecurity-finances-digital-strategy)
 - [Customer, Employee Data Exposed in Nippon Steel Breach](https://www.darkreading.com/threat-intelligence/customer-employee-data-nippon-steel-breach)
 - [Digital Fingerprints Test Privacy Concerns in 2025](https://www.darkreading.com/data-privacy/digital-fingerprints-tests-privacy-concerns-2025)
@@ -83,7 +84,6 @@
 - [Ingram Micro Up and Running After Ransomware Attack](https://www.darkreading.com/threat-intelligence/ingram-micro-ransomware-attack)
 - [Agentic AI&#39;s Risky MCP Backbone Opens Brand-New Attack Vectors](https://www.darkreading.com/application-security/agentic-ai-risky-mcp-backbone-attack-vectors)
 - [4 Arrested in UK Over M&amp;amp;S, Co-op, Harrods Hacks](https://www.darkreading.com/cyberattacks-data-breaches/4-arrested-uk-marks-spencer-co-op-harrods-hacks)
-- [SIM Swap Fraud Is Surging — and That&#39;s a Good Thing](https://www.darkreading.com/vulnerabilities-threats/sim-swap-fraud-surging-good)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
