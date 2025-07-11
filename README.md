@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Customer, Employee Data Exposed in Nippon Steel Breach](https://www.darkreading.com/threat-intelligence/customer-employee-data-nippon-steel-breach)
 - [eSIM Bug in Millions of Phones Enables Spying, Takeover](https://www.darkreading.com/endpoint-security/esim-bug-millions-phones-spying-takeover)
 - [Ingram Micro Up and Running After Ransomware Attack](https://www.darkreading.com/threat-intelligence/ingram-micro-ransomware-attack)
 - [Agentic AI&#39;s Risky MCP Backbone Opens Brand-New Attack Vectors](https://www.darkreading.com/application-security/agentic-ai-risky-mcp-backbone-attack-vectors)
@@ -83,7 +84,6 @@
 - [SIM Swap Fraud Is Surging — and That&#39;s a Good Thing](https://www.darkreading.com/vulnerabilities-threats/sim-swap-fraud-surging-good)
 - [North American APT Uses Exchange Zero-Day to Attack China](https://www.darkreading.com/cyberattacks-data-breaches/north-american-apt-exchange-zero-day-attacks-china)
 - [Browser Exploits Wane as Users Become the Attack Surface](https://www.darkreading.com/vulnerabilities-threats/browser-exploits-wane-users-become-attack-surface)
-- [An NVIDIA Container Bug &amp;amp; Chance to Harden Kubernetes](https://www.darkreading.com/cloud-security/nvidia-container-bug-harden-kubernetes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
