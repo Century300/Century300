@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lessons Learned From McDonald&#39;s Big AI Flub](https://www.darkreading.com/application-security/lessons-learned-mcdonalds-ai-flub)
+- [AI Is Reshaping How Attorneys Practice Law](https://www.darkreading.com/cyber-risk/ai-is-reshaping-how-attorneys-practice-law)
 - [AsyncRAT Spawns Concerning Labyrinth of Forks](https://www.darkreading.com/remote-workforce/async-rat-labyrinth-forks)
 - [Attackers Abuse AWS Cloud to Target Southeast Asian Governments](https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat)
 - [How Criminal Networks Exploit Insider Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities)
 - [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
 - [Web-Inject Campaign Debuts Fresh Interlock RAT Variant](https://www.darkreading.com/threat-intelligence/web-inject-campaign-interlock-rat-variant)
 - [Military Veterans May Be What Cybersecurity Is Looking For](https://www.darkreading.com/remote-workforce/military-veterans-cybersecurity)
-- [Google Gemini AI Bug Allows Invisible, Malicious Prompts](https://www.darkreading.com/remote-workforce/google-gemini-ai-bug-invisible-malicious-prompts)
-- [The Dark Side of Global Power Shifts &amp;amp; Demographic Decline](https://www.darkreading.com/vulnerabilities-threats/dark-side-global-power-shifts-demographic-decline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
