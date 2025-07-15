@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
 - [Web-Inject Campaign Debuts Fresh Interlock RAT Variant](https://www.darkreading.com/threat-intelligence/web-inject-campaign-interlock-rat-variant)
 - [Military Veterans May Be What Cybersecurity Is Looking For](https://www.darkreading.com/remote-workforce/military-veterans-cybersecurity)
 - [Google Gemini AI Bug Allows Invisible, Malicious Prompts](https://www.darkreading.com/remote-workforce/google-gemini-ai-bug-invisible-malicious-prompts)
@@ -83,7 +84,6 @@
 - [Pay2Key Ransomware Gang Resurfaces With Incentives to Attack US, Israel](https://www.darkreading.com/cyberattacks-data-breaches/pay2key-ransomware-gang-incentives-attack-us-israel)
 - [350M Cars, 1B Devices Exposed to 1-Click Bluetooth RCE](https://www.darkreading.com/vulnerabilities-threats/350m-cars-1b-devices-1-click-bluetooth-rce)
 - [As Cyber-Insurance Premiums Drop, Coverage Is Key to Resilience](https://www.darkreading.com/vulnerabilities-threats/cyber-insurance-premiums-drop-coverage-key-resilience)
-- [Factoring Cybersecurity Into Finance&#39;s Digital Strategy](https://www.darkreading.com/cyberattacks-data-breaches/factoring-cybersecurity-finances-digital-strategy)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
