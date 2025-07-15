@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AsyncRAT Spawns Concerning Labyrinth of Forks](https://www.darkreading.com/remote-workforce/async-rat-labyrinth-forks)
 - [Attackers Abuse AWS Cloud to Target Southeast Asian Governments](https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat)
 - [How Criminal Networks Exploit Insider Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities)
 - [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
@@ -83,7 +84,6 @@
 - [Military Veterans May Be What Cybersecurity Is Looking For](https://www.darkreading.com/remote-workforce/military-veterans-cybersecurity)
 - [Google Gemini AI Bug Allows Invisible, Malicious Prompts](https://www.darkreading.com/remote-workforce/google-gemini-ai-bug-invisible-malicious-prompts)
 - [The Dark Side of Global Power Shifts &amp;amp; Demographic Decline](https://www.darkreading.com/vulnerabilities-threats/dark-side-global-power-shifts-demographic-decline)
-- [Pay2Key Ransomware Gang Resurfaces With Incentives to Attack US, Israel](https://www.darkreading.com/cyberattacks-data-breaches/pay2key-ransomware-gang-incentives-attack-us-israel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
