@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Abuse AWS Cloud to Target Southeast Asian Governments](https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat)
 - [How Criminal Networks Exploit Insider Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities)
 - [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
 - [Web-Inject Campaign Debuts Fresh Interlock RAT Variant](https://www.darkreading.com/threat-intelligence/web-inject-campaign-interlock-rat-variant)
@@ -83,7 +84,6 @@
 - [Google Gemini AI Bug Allows Invisible, Malicious Prompts](https://www.darkreading.com/remote-workforce/google-gemini-ai-bug-invisible-malicious-prompts)
 - [The Dark Side of Global Power Shifts &amp;amp; Demographic Decline](https://www.darkreading.com/vulnerabilities-threats/dark-side-global-power-shifts-demographic-decline)
 - [Pay2Key Ransomware Gang Resurfaces With Incentives to Attack US, Israel](https://www.darkreading.com/cyberattacks-data-breaches/pay2key-ransomware-gang-incentives-attack-us-israel)
-- [350M Cars, 1B Devices Exposed to 1-Click Bluetooth RCE](https://www.darkreading.com/vulnerabilities-threats/350m-cars-1b-devices-1-click-bluetooth-rce)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
