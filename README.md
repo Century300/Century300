@@ -76,10 +76,10 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Women Who &#39;Hacked the Status Quo&#39; Aim to Inspire Cybersecurity Careers](https://www.darkreading.com/cybersecurity-operations/women-hacked-status-quo-cybersecurity-careers)
 - [Cognida.ai Launches Codien: An AI Agent to Modernize Legacy Test Automation and Fast-Track Test Creation](https://www.darkreading.com/application-security/cognida-ai-launches-codien)
 - [Fully Patched SonicWall Gear Under Likely Zero-Day Attack](https://www.darkreading.com/remote-workforce/fully-patched-sonicwall-gear-zero-day-attack)
 - [Securing the Budget: Demonstrating Cybersecurity&#39;s Return](https://www.darkreading.com/vulnerabilities-threats/securing-budget-cybersecurity-return)
-- [Women Who &#39;Hacked the Status Quo&#39; Aim to Inspire Cybersecurity Careers](https://www.darkreading.com/cybersecurity-operations/women-hacked-status-quo-cybersecurity-careers)
 - [Altered Telegram App Steals Chinese Users&#39; Android Data](https://www.darkreading.com/cyberattacks-data-breaches/telegram-app-chinese-users-android-data)
 - [Lessons Learned From McDonald&#39;s Big AI Flub](https://www.darkreading.com/application-security/lessons-learned-mcdonalds-ai-flub)
 - [AI Is Reshaping How Attorneys Practice Law](https://www.darkreading.com/cyber-risk/ai-is-reshaping-how-attorneys-practice-law)
