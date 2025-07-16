@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Securing the Budget: Demonstrating Cybersecurity&#39;s Return](https://www.darkreading.com/vulnerabilities-threats/securing-budget-cybersecurity-return)
 - [Altered Telegram App Steals Chinese Users&#39; Android Data](https://www.darkreading.com/cyberattacks-data-breaches/telegram-app-chinese-users-android-data)
 - [Lessons Learned From McDonald&#39;s Big AI Flub](https://www.darkreading.com/application-security/lessons-learned-mcdonalds-ai-flub)
 - [AI Is Reshaping How Attorneys Practice Law](https://www.darkreading.com/cyber-risk/ai-is-reshaping-how-attorneys-practice-law)
@@ -83,7 +84,6 @@
 - [Attackers Abuse AWS Cloud to Target Southeast Asian Governments](https://www.darkreading.com/cloud-security/attackers-abuse-aws-southeast-asian-governments-novel-rat)
 - [How Criminal Networks Exploit Insider Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities)
 - [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
-- [Web-Inject Campaign Debuts Fresh Interlock RAT Variant](https://www.darkreading.com/threat-intelligence/web-inject-campaign-interlock-rat-variant)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
