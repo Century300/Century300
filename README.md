@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Altered Telegram App Steals Chinese Users&#39; Android Data](https://www.darkreading.com/cyberattacks-data-breaches/telegram-app-chinese-users-android-data)
 - [Lessons Learned From McDonald&#39;s Big AI Flub](https://www.darkreading.com/application-security/lessons-learned-mcdonalds-ai-flub)
 - [AI Is Reshaping How Attorneys Practice Law](https://www.darkreading.com/cyber-risk/ai-is-reshaping-how-attorneys-practice-law)
 - [AsyncRAT Spawns Concerning Labyrinth of Forks](https://www.darkreading.com/remote-workforce/async-rat-labyrinth-forks)
@@ -83,7 +84,6 @@
 - [How Criminal Networks Exploit Insider Vulnerabilities](https://www.darkreading.com/vulnerabilities-threats/criminal-networks-exploit-insider-vulnerabilities)
 - [MITRE Launches AADAPT Framework for Financial Systems](https://www.darkreading.com/vulnerabilities-threats/mitre-aadapt-framework-financial-systems)
 - [Web-Inject Campaign Debuts Fresh Interlock RAT Variant](https://www.darkreading.com/threat-intelligence/web-inject-campaign-interlock-rat-variant)
-- [Military Veterans May Be What Cybersecurity Is Looking For](https://www.darkreading.com/remote-workforce/military-veterans-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
