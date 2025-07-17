@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Cybersecurity Still Matters for America&#39;s Schools](https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-still-matters-americas-schools)
 - [China-Backed Salt Typhoon Hacks US National Guard for Nearly a Year](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-hacks-us-national-guard)
 - [AI Driving the Adoption of Confidential Computing](https://www.darkreading.com/cyber-risk/ai-driving-adoption-confidential-computing)
 - [ISC2 Finds Orgs Are Increasingly Leaning on AI](https://www.darkreading.com/remote-workforce/isc2-orgs-increasingly-leaning-ai)
@@ -83,7 +84,6 @@
 - [Oracle Fixes Critical Bug in Cloud Code Editor](https://www.darkreading.com/application-security/oracle-fixes-critical-bug-cloud-code-editor)
 - [Women Who &#39;Hacked the Status Quo&#39; Aim to Inspire Cybersecurity Careers](https://www.darkreading.com/cybersecurity-operations/women-hacked-status-quo-cybersecurity-careers)
 - [Cognida.ai Launches Codien: An AI Agent to Modernize Legacy Test Automation and Fast-Track Test Creation](https://www.darkreading.com/application-security/cognida-ai-launches-codien)
-- [Fully Patched SonicWall Gear Under Likely Zero-Day Attack](https://www.darkreading.com/remote-workforce/fully-patched-sonicwall-gear-zero-day-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
