@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Ways Security Teams Can Minimize Agentic AI Chaos](https://www.darkreading.com/vulnerabilities-threats/3-ways-security-teams-agentic-ai-chaos)
 - [Firmware Vulnerabilities Continue to Plague Supply Chain](https://www.darkreading.com/vulnerabilities-threats/firmware-vulnerabilities-plague-supply-chain)
 - [4 Chinese APTs Attack Taiwan&#39;s Semiconductor Industry](https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry)
 - [Cisco Discloses &#39;10&#39; Flaw in ISE, ISE-PIC — Patch Now](https://www.darkreading.com/application-security/cisco-cvss-10-flaw-ise-ise-pic-patch-now)
@@ -83,7 +84,6 @@
 - [Armenian Extradited to US Over Ryuk Ransomware](https://www.darkreading.com/threat-intelligence/armenian-extradited-ryuk-ransomware)
 - [Why Cybersecurity Still Matters for America&#39;s Schools](https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-still-matters-americas-schools)
 - [China-Backed Salt Typhoon Hacks US National Guard for Nearly a Year](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-hacks-us-national-guard)
-- [AI Driving the Adoption of Confidential Computing](https://www.darkreading.com/cyber-risk/ai-driving-adoption-confidential-computing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
