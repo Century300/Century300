@@ -82,8 +82,8 @@
 - [Cisco Discloses &#39;10&#39; Flaw in ISE, ISE-PIC — Patch Now](https://www.darkreading.com/application-security/cisco-cvss-10-flaw-ise-ise-pic-patch-now)
 - [Printer Security Gaps: A Broad, Leafy Avenue to Compromise](https://www.darkreading.com/endpoint-security/printer-security-gaps-compromise)
 - [Armenian Extradited to US Over Ryuk Ransomware](https://www.darkreading.com/threat-intelligence/armenian-extradited-ryuk-ransomware)
+- [Nearly 2,000 MCP Servers Possess No Security Whatsoever](https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security)
 - [Why Cybersecurity Still Matters for America&#39;s Schools](https://www.darkreading.com/vulnerabilities-threats/why-cybersecurity-still-matters-americas-schools)
-- [China-Backed Salt Typhoon Hacks US National Guard for Nearly a Year](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-hacks-us-national-guard)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
