@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [4 Chinese APTs Attack Taiwan&#39;s Semiconductor Industry](https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry)
 - [Cisco Discloses &#39;10&#39; Flaw in ISE, ISE-PIC — Patch Now](https://www.darkreading.com/application-security/cisco-cvss-10-flaw-ise-ise-pic-patch-now)
 - [Printer Security Gaps: A Broad, Leafy Avenue to Compromise](https://www.darkreading.com/endpoint-security/printer-security-gaps-compromise)
 - [Armenian Extradited to US Over Ryuk Ransomware](https://www.darkreading.com/threat-intelligence/armenian-extradited-ryuk-ransomware)
@@ -83,7 +84,6 @@
 - [China-Backed Salt Typhoon Hacks US National Guard for Nearly a Year](https://www.darkreading.com/cyberattacks-data-breaches/salt-typhoon-hacks-us-national-guard)
 - [AI Driving the Adoption of Confidential Computing](https://www.darkreading.com/cyber-risk/ai-driving-adoption-confidential-computing)
 - [Oracle Fixes Critical Bug in Cloud Code Editor](https://www.darkreading.com/application-security/oracle-fixes-critical-bug-cloud-code-editor)
-- [ISC2 Finds Orgs Are Increasingly Leaning on AI](https://www.darkreading.com/remote-workforce/isc2-orgs-increasingly-leaning-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
