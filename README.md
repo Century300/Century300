@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Malicious Implants Are Coming to AI Components, Applications](https://www.darkreading.com/application-security/malicious-implants-ai-components-applications)
 - [Europol Sting Leaves Russian Cybercrime&#39;s &#39;NoName057&lpar;16&rpar;&#39; Group Fractured](https://www.darkreading.com/threat-intelligence/europol-sting-russian-cybercrime-noname05716)
 - [Microsoft Rushes Emergency Patch for Actively Exploited SharePoint &#39;ToolShell&#39; Bug](https://www.darkreading.com/remote-workforce/microsoft-rushes-emergency-fix-exploited-sharepoint-toolshell-flaw)
 - [Containment as a Core Security Strategy](https://www.darkreading.com/vulnerabilities-threats/containment-core-security-strategy)
@@ -83,7 +84,6 @@
 - [Nearly 2,000 MCP Servers Possess No Security Whatsoever](https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security)
 - [3 Ways Security Teams Can Minimize Agentic AI Chaos](https://www.darkreading.com/vulnerabilities-threats/3-ways-security-teams-agentic-ai-chaos)
 - [Firmware Vulnerabilities Continue to Plague Supply Chain](https://www.darkreading.com/vulnerabilities-threats/firmware-vulnerabilities-plague-supply-chain)
-- [4 Chinese APTs Attack Taiwan&#39;s Semiconductor Industry](https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
