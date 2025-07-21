@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Rushes Emergency Patch for Actively Exploited SharePoint &#39;ToolShell&#39; Bug](https://www.darkreading.com/remote-workforce/microsoft-rushes-emergency-fix-exploited-sharepoint-toolshell-flaw)
+- [Containment as a Core Security Strategy](https://www.darkreading.com/vulnerabilities-threats/containment-core-security-strategy)
 - [&#39;PoisonSeed&#39; Attacker Skates Around FIDO Keys](https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys)
 - [Nearly 2,000 MCP Servers Possess No Security Whatsoever](https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security)
 - [3 Ways Security Teams Can Minimize Agentic AI Chaos](https://www.darkreading.com/vulnerabilities-threats/3-ways-security-teams-agentic-ai-chaos)
 - [Firmware Vulnerabilities Continue to Plague Supply Chain](https://www.darkreading.com/vulnerabilities-threats/firmware-vulnerabilities-plague-supply-chain)
 - [4 Chinese APTs Attack Taiwan&#39;s Semiconductor Industry](https://www.darkreading.com/cyberattacks-data-breaches/4-chinese-apts-taiwan-semiconductor-industry)
 - [Cisco Discloses &#39;10&#39; Flaw in ISE, ISE-PIC — Patch Now](https://www.darkreading.com/application-security/cisco-cvss-10-flaw-ise-ise-pic-patch-now)
-- [Printer Security Gaps: A Broad, Leafy Avenue to Compromise](https://www.darkreading.com/endpoint-security/printer-security-gaps-compromise)
-- [Armenian Extradited to US Over Ryuk Ransomware](https://www.darkreading.com/threat-intelligence/armenian-extradited-ryuk-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
