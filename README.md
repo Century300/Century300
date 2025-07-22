@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [China-Backed APT41 Cyberattack Surfaces in Africa](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-apt41-attack-africa)
+- [Human Digital Twins Could Give Attackers a Dangerous Advantage](https://www.darkreading.com/threat-intelligence/human-digital-twins-attackers-dangerous-advantage)
 - [Malicious Implants Are Coming to AI Components, Applications](https://www.darkreading.com/application-security/malicious-implants-ai-components-applications)
 - [Europol Sting Leaves Russian Cybercrime&#39;s &#39;NoName057&lpar;16&rpar;&#39; Group Fractured](https://www.darkreading.com/threat-intelligence/europol-sting-russian-cybercrime-noname05716)
 - [Microsoft Rushes Emergency Patch for Actively Exploited SharePoint &#39;ToolShell&#39; Bug](https://www.darkreading.com/remote-workforce/microsoft-rushes-emergency-fix-exploited-sharepoint-toolshell-flaw)
 - [Containment as a Core Security Strategy](https://www.darkreading.com/vulnerabilities-threats/containment-core-security-strategy)
 - [&#39;PoisonSeed&#39; Attacker Skates Around FIDO Keys](https://www.darkreading.com/remote-workforce/poisonseed-attacker-fido-keys)
 - [Nearly 2,000 MCP Servers Possess No Security Whatsoever](https://www.darkreading.com/vulnerabilities-threats/2000-mcp-servers-security)
-- [3 Ways Security Teams Can Minimize Agentic AI Chaos](https://www.darkreading.com/vulnerabilities-threats/3-ways-security-teams-agentic-ai-chaos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
