@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Stop AI Bot Traffic: Protecting Your Organization&#39;s Website](https://www.darkreading.com/threat-intelligence/stop-ai-bot-traffic-protecting-organizations)
+- [US Nuclear Agency Hacked in Microsoft SharePoint Frenzy](https://www.darkreading.com/cyberattacks-data-breaches/us-nuclear-agency-hacked-microsoft-sharepoint)
 - [Lumma Stealer Is Back &amp;amp; Stealthier Than Ever](https://www.darkreading.com/endpoint-security/lumma-stealer-stealthier-than-ever)
 - [Why ISO 42001 Matters for AI Governance at Scale](https://www.darkreading.com/cyber-risk/why-iso-42001-matters-ai-governance)
 - [China Introduces National Cyber ID Amid Privacy Concerns](https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns)
 - [Microsoft Integrates Data Lake With Sentinel SIEM](https://www.darkreading.com/threat-intelligence/microsoft-integrates-data-lake-with-sentinel-siem)
 - [3 China Nation-State Actors Target SharePoint Bugs](https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs)
 - [CISO Conversations: How IT and OT Security Worlds Are Converging](https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security)
-- [Dell Breached by Extortion Group, Says Data Stolen Was &#39;Fake&#39;](https://www.darkreading.com/cyberattacks-data-breaches/dell-breached-data-stolen-fake)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
