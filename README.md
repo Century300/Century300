@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China Introduces National Cyber ID Amid Privacy Concerns](https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns)
 - [3 China Nation-State Actors Target SharePoint Bugs](https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs)
 - [Dell Breached by Extortion Group, Says Data Stolen Was &#39;Fake&#39;](https://www.darkreading.com/cyberattacks-data-breaches/dell-breached-data-stolen-fake)
 - [Darktrace Acquires Mira Security for Network Visibility](https://www.darkreading.com/threat-intelligence/darktrace-acquires-mira-security-network-visibility)
@@ -83,7 +84,6 @@
 - [Coast Guard Issues Cybersecurity Rule for Maritime Transport Safety](https://www.darkreading.com/threat-intelligence/marine-transportation-final-cyber-rule)
 - [China-Backed APT41 Cyberattack Surfaces in Africa](https://www.darkreading.com/cyberattacks-data-breaches/china-backed-apt41-attack-africa)
 - [Human Digital Twins Could Give Attackers a Dangerous Advantage](https://www.darkreading.com/threat-intelligence/human-digital-twins-attackers-dangerous-advantage)
-- [Malicious Implants Are Coming to AI Components, Applications](https://www.darkreading.com/application-security/malicious-implants-ai-components-applications)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
