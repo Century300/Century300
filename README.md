@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lumma Stealer Is Back &amp;amp; Stealthier Than Ever](https://www.darkreading.com/endpoint-security/lumma-stealer-stealthier-than-ever)
+- [Why ISO 42001 Matters for AI Governance at Scale](https://www.darkreading.com/cyber-risk/why-iso-42001-matters-ai-governance)
 - [China Introduces National Cyber ID Amid Privacy Concerns](https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns)
 - [Microsoft Integrates Data Lake With Sentinel SIEM](https://www.darkreading.com/threat-intelligence/microsoft-integrates-data-lake-with-sentinel-siem)
 - [3 China Nation-State Actors Target SharePoint Bugs](https://www.darkreading.com/application-security/3-china-nation-state-actors-sharepoint-bugs)
 - [CISO Conversations: How IT and OT Security Worlds Are Converging](https://www.darkreading.com/ics-ot-security/ciso-conversations-convergence-of-it-and-ot-security)
 - [Dell Breached by Extortion Group, Says Data Stolen Was &#39;Fake&#39;](https://www.darkreading.com/cyberattacks-data-breaches/dell-breached-data-stolen-fake)
 - [Darktrace Acquires Mira Security for Network Visibility](https://www.darkreading.com/threat-intelligence/darktrace-acquires-mira-security-network-visibility)
-- [Critical Infrastructure Security Is a Critical Concern](https://www.darkreading.com/vulnerabilities-threats/critical-infrastructure-security-critical-concern)
-- [Coast Guard Issues Cybersecurity Rule for Maritime Transport Safety](https://www.darkreading.com/threat-intelligence/marine-transportation-final-cyber-rule)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
