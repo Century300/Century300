@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later](https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later)
 - [Banking Trojan Coyote Abuses Windows UI Automation](https://www.darkreading.com/cyber-risk/banking-trojan-coyote-windows-ui-automation)
 - [Dark Web Hackers Moonlight as Travel Agents](https://www.darkreading.com/remote-workforce/dark-web-hackers-moonlight-travel-agents)
 - [Department of Education Site Mimicked in Phishing Scheme](https://www.darkreading.com/threat-intelligence/department-of-education-site-phishing-scheme)
@@ -83,7 +84,6 @@
 - [US Nuclear Agency Hacked in Microsoft SharePoint Frenzy](https://www.darkreading.com/cyberattacks-data-breaches/us-nuclear-agency-hacked-microsoft-sharepoint)
 - [Lumma Stealer Is Back &amp;amp; Stealthier Than Ever](https://www.darkreading.com/endpoint-security/lumma-stealer-stealthier-than-ever)
 - [Why ISO 42001 Matters for AI Governance at Scale](https://www.darkreading.com/cyber-risk/why-iso-42001-matters-ai-governance)
-- [China Introduces National Cyber ID Amid Privacy Concerns](https://www.darkreading.com/cyber-risk/china-introduces-national-cyber-id-privacy-concerns)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
