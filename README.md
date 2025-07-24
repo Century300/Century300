@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Law Enforcement Cracks Down on XSS — But Will it Last?](https://www.darkreading.com/threat-intelligence/law-enforcement-cracks-down-xss)
 - [Ransomware Actors Pile on &#39;ToolShell&#39; SharePoint Bugs](https://www.darkreading.com/endpoint-security/ransomware-actors-toolshell-sharepoint-bugs)
 - [Translating Cyber-Risk for the Boardroom](https://www.darkreading.com/cyber-risk/translating-cyber-risk-boardroom)
 - [Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later](https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later)
@@ -83,7 +84,6 @@
 - [Dark Web Hackers Moonlight as Travel Agents](https://www.darkreading.com/remote-workforce/dark-web-hackers-moonlight-travel-agents)
 - [Department of Education Site Mimicked in Phishing Scheme](https://www.darkreading.com/threat-intelligence/department-of-education-site-phishing-scheme)
 - [What Makes Great Threat Intelligence?](https://www.darkreading.com/threat-intelligence/what-makes-great-threat-intelligence)
-- [Crash Override Turns to ERM to Combat Visibility Challenges](https://www.darkreading.com/application-security/crash-override-erm-combat-visibility-challenges)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
