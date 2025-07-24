@@ -80,10 +80,10 @@
 - [Banking Trojan Coyote Abuses Windows UI Automation](https://www.darkreading.com/cyber-risk/banking-trojan-coyote-windows-ui-automation)
 - [Dark Web Hackers Moonlight as Travel Agents](https://www.darkreading.com/remote-workforce/dark-web-hackers-moonlight-travel-agents)
 - [Department of Education Site Mimicked in Phishing Scheme](https://www.darkreading.com/threat-intelligence/department-of-education-site-phishing-scheme)
+- [Crash Override Turns to ERM to Combat Visibility Challenges](https://www.darkreading.com/application-security/crash-override-erm-combat-visibility-challenges)
 - [Stop AI Bot Traffic: Protecting Your Organization&#39;s Website](https://www.darkreading.com/threat-intelligence/stop-ai-bot-traffic-protecting-organizations)
 - [US Nuclear Agency Hacked in Microsoft SharePoint Frenzy](https://www.darkreading.com/cyberattacks-data-breaches/us-nuclear-agency-hacked-microsoft-sharepoint)
 - [Lumma Stealer Is Back &amp;amp; Stealthier Than Ever](https://www.darkreading.com/endpoint-security/lumma-stealer-stealthier-than-ever)
-- [Why ISO 42001 Matters for AI Governance at Scale](https://www.darkreading.com/cyber-risk/why-iso-42001-matters-ai-governance)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
