@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Young and the Restless: Young Cybercriminals Raise Concerns](https://www.darkreading.com/cyber-risk/young-cybercriminals-raise-concerns)
 - [Can Security Culture Be Taught? AWS Says Yes](https://www.darkreading.com/cybersecurity-operations/can-security-culture-be-taught-aws-says-yes)
 - [Law Enforcement Cracks Down on XSS — but Will It Last?](https://www.darkreading.com/threat-intelligence/law-enforcement-cracks-down-xss)
 - [Ransomware Actors Pile on &#39;ToolShell&#39; SharePoint Bugs](https://www.darkreading.com/endpoint-security/ransomware-actors-toolshell-sharepoint-bugs)
@@ -83,7 +84,6 @@
 - [Fixed Ivanti Bugs Still Haunt Japan Orgs 6 Months Later](https://www.darkreading.com/endpoint-security/fixed-ivanti-bugs-japan-orgs-6-months-later)
 - [Banking Trojan Coyote Abuses Windows UI Automation](https://www.darkreading.com/cyber-risk/banking-trojan-coyote-windows-ui-automation)
 - [Dark Web Hackers Moonlight as Travel Agents](https://www.darkreading.com/remote-workforce/dark-web-hackers-moonlight-travel-agents)
-- [Department of Education Site Mimicked in Phishing Scheme](https://www.darkreading.com/threat-intelligence/department-of-education-site-phishing-scheme)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
