@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Fire Ant&#39; Cyber Spies Compromise Siloed VMware Systems](https://www.darkreading.com/vulnerabilities-threats/fire-ant-cyber-spies-siloed-vmware-systems)
 - [AI-Generated Linux Miner &#39;Koske&#39; Beats Human Malware](https://www.darkreading.com/threat-intelligence/ai-generated-linux-miner-koske)
 - [North Korea&#39;s IT Worker Rampage Continues Amid DoJ Action](https://www.darkreading.com/remote-workforce/north-korea-it-worker-rampage-doj)
 - [Why Security Nudges Took Off](https://www.darkreading.com/cybersecurity-operations/why-security-nudges-took-off)
@@ -83,7 +84,6 @@
 - [Can Security Culture Be Taught? AWS Says Yes](https://www.darkreading.com/cybersecurity-operations/can-security-culture-be-taught-aws-says-yes)
 - [Law Enforcement Cracks Down on XSS — but Will It Last?](https://www.darkreading.com/threat-intelligence/law-enforcement-cracks-down-xss)
 - [Ransomware Actors Pile on &#39;ToolShell&#39; SharePoint Bugs](https://www.darkreading.com/endpoint-security/ransomware-actors-toolshell-sharepoint-bugs)
-- [Translating Cyber-Risk for the Boardroom](https://www.darkreading.com/cyber-risk/translating-cyber-risk-boardroom)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
