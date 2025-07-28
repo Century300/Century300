@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sophisticated Shuyal Stealer Targets 19 Browsers, Demonstrates Advanced Evasion](https://www.darkreading.com/endpoint-security/shuyal-stealer-targets-19-browsers-advanced-evasion)
 - [How to Spot Malicious AI Agents Before They Strike](https://www.darkreading.com/vulnerabilities-threats/spot-malicious-ai-agents-strike)
 - [Cyber Career Opportunities: Weighing Certifications vs. Degrees](https://www.darkreading.com/cybersecurity-operations/cyber-career-opportunities-certifications-degrees)
 - [&#39;Fire Ant&#39; Cyber Spies Compromise Siloed VMware Systems](https://www.darkreading.com/vulnerabilities-threats/fire-ant-cyber-spies-siloed-vmware-systems)
@@ -83,7 +84,6 @@
 - [North Korea&#39;s IT Worker Rampage Continues Amid DoJ Action](https://www.darkreading.com/remote-workforce/north-korea-it-worker-rampage-doj)
 - [Why Security Nudges Took Off](https://www.darkreading.com/cybersecurity-operations/why-security-nudges-took-off)
 - [The Young and the Restless: Young Cybercriminals Raise Concerns](https://www.darkreading.com/cyber-risk/young-cybercriminals-raise-concerns)
-- [Can Security Culture Be Taught? AWS Says Yes](https://www.darkreading.com/cybersecurity-operations/can-security-culture-be-taught-aws-says-yes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
