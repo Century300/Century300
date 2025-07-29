@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm](https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm)
+- [Root Evidence Bets on New Concept for Vulnerability Patch Management](https://www.darkreading.com/vulnerabilities-threats/root-evidence-bets-on-new-concept-for-vulnerability-patch-management)
 - [Insurance Giant Allianz Life Grapples With Breach Affecting &#39;Majority&#39; of Customers](https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers)
 - [Chaos Ransomware Rises as BlackSuit Gang Falls](https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls)
+- [Ghost Students Drain Money, Resources From Educational Sector](https://www.darkreading.com/cyber-risk/ghost-students-haunt-the-halls-of-education-institutions)
+- [New Risk Index Helps Organizations Tackle Cloud Security Chaos](https://www.darkreading.com/cyber-risk/risk-index-tackle-cloud-security-chaos)
 - [Sophisticated Shuyal Stealer Targets 19 Browsers, Demonstrates Advanced Evasion](https://www.darkreading.com/endpoint-security/shuyal-stealer-targets-19-browsers-advanced-evasion)
 - [How to Spot Malicious AI Agents Before They Strike](https://www.darkreading.com/vulnerabilities-threats/spot-malicious-ai-agents-strike)
-- [Cyber Career Opportunities: Weighing Certifications vs. Degrees](https://www.darkreading.com/cybersecurity-operations/cyber-career-opportunities-certifications-degrees)
-- [&#39;Fire Ant&#39; Cyber Spies Compromise Siloed VMware Systems](https://www.darkreading.com/vulnerabilities-threats/fire-ant-cyber-spies-siloed-vmware-systems)
-- [AI-Generated Linux Miner &#39;Koske&#39; Beats Human Malware](https://www.darkreading.com/threat-intelligence/ai-generated-linux-miner-koske)
-- [North Korea&#39;s IT Worker Rampage Continues Amid DoJ Action](https://www.darkreading.com/remote-workforce/north-korea-it-worker-rampage-doj)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
