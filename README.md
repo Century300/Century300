@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nimble &#39;Gunra&#39; Ransomware Evolves With Linux Variant](https://www.darkreading.com/threat-intelligence/nimble-gunra-ransomware-linux-variant)
 - [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
 - [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
 - [Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm](https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm)
@@ -83,7 +84,6 @@
 - [Insurance Giant Allianz Life Grapples With Breach Affecting &#39;Majority&#39; of Customers](https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers)
 - [Chaos Ransomware Rises as BlackSuit Gang Falls](https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls)
 - [Ghost Students Drain Money, Resources From Educational Sector](https://www.darkreading.com/cyber-risk/ghost-students-haunt-the-halls-of-education-institutions)
-- [New Risk Index Helps Organizations Tackle Cloud Security Chaos](https://www.darkreading.com/cyber-risk/risk-index-tackle-cloud-security-chaos)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
