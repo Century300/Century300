@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Critical Flaw in Vibe-Coding Platform Base44 Exposed Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
+- [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
+- [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
 - [Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm](https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm)
 - [Root Evidence Bets on New Concept for Vulnerability Patch Management](https://www.darkreading.com/vulnerabilities-threats/root-evidence-bets-on-new-concept-for-vulnerability-patch-management)
 - [Insurance Giant Allianz Life Grapples With Breach Affecting &#39;Majority&#39; of Customers](https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers)
 - [Chaos Ransomware Rises as BlackSuit Gang Falls](https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls)
 - [Ghost Students Drain Money, Resources From Educational Sector](https://www.darkreading.com/cyber-risk/ghost-students-haunt-the-halls-of-education-institutions)
 - [New Risk Index Helps Organizations Tackle Cloud Security Chaos](https://www.darkreading.com/cyber-risk/risk-index-tackle-cloud-security-chaos)
-- [Sophisticated Shuyal Stealer Targets 19 Browsers, Demonstrates Advanced Evasion](https://www.darkreading.com/endpoint-security/shuyal-stealer-targets-19-browsers-advanced-evasion)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
