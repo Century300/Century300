@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Silk Typhoon Linked to Powerful Offensive Tools, PRC-Backed Companies](https://www.darkreading.com/threat-intelligence/silk-typhoon-powerful-offensive-tools-prc)
 - [The CrowdStrike Outage Was Bad, but It Could Have Been Worse](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-outage-was-bad-could-have-been-worse)
 - [ChatGPT, GenAI Tools Open to &#39;Man in the Prompt&#39; Browser Attack](https://www.darkreading.com/vulnerabilities-threats/attackers-use-browser-extensions-inject-ai-prompts)
 - [African Orgs Fall to Mass Microsoft SharePoint Exploits](https://www.darkreading.com/cyber-risk/african-orgs-mass-microsoft-sharepoint-exploits)
@@ -83,7 +84,6 @@
 - [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
 - [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
 - [Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm](https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm)
-- [Root Evidence Bets on New Concept for Vulnerability Patch Management](https://www.darkreading.com/vulnerabilities-threats/root-evidence-bets-on-new-concept-for-vulnerability-patch-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
