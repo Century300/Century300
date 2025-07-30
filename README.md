@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Can Use Browser Extensions to Inject AI Prompts](https://www.darkreading.com/vulnerabilities-threats/attackers-use-browser-extensions-inject-ai-prompts)
 - [African Orgs Fall to Mass Microsoft SharePoint Exploits](https://www.darkreading.com/cyber-risk/african-orgs-mass-microsoft-sharepoint-exploits)
 - [Nimble &#39;Gunra&#39; Ransomware Evolves With Linux Variant](https://www.darkreading.com/threat-intelligence/nimble-gunra-ransomware-linux-variant)
-- [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
 - [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
+- [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
 - [Supply Chain Attacks Spotted in GitHub Actions, Gravity Forms, npm](https://www.darkreading.com/application-security/supply-chain-attacks-github-actions-gravity-forms-npm)
 - [Root Evidence Bets on New Concept for Vulnerability Patch Management](https://www.darkreading.com/vulnerabilities-threats/root-evidence-bets-on-new-concept-for-vulnerability-patch-management)
 - [Insurance Giant Allianz Life Grapples With Breach Affecting &#39;Majority&#39; of Customers](https://www.darkreading.com/vulnerabilities-threats/allianz-life-breach-affecting-majority-customers)
-- [Chaos Ransomware Rises as BlackSuit Gang Falls](https://www.darkreading.com/cyberattacks-data-breaches/chaos-ransomware-rises-blacksuit-falls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
