@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Attackers Can Use Browser Extensions to Inject AI Prompts](https://www.darkreading.com/vulnerabilities-threats/attackers-use-browser-extensions-inject-ai-prompts)
+- [ChatGPT, GenAI Tools Open to &#39;Man in the Prompt&#39; Browser Attack](https://www.darkreading.com/vulnerabilities-threats/attackers-use-browser-extensions-inject-ai-prompts)
 - [African Orgs Fall to Mass Microsoft SharePoint Exploits](https://www.darkreading.com/cyber-risk/african-orgs-mass-microsoft-sharepoint-exploits)
 - [Nimble &#39;Gunra&#39; Ransomware Evolves With Linux Variant](https://www.darkreading.com/threat-intelligence/nimble-gunra-ransomware-linux-variant)
 - [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
