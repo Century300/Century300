@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Koreans Hacked, Blackmailed by 250+ Fake Mobile Apps](https://www.darkreading.com/threat-intelligence/koreans-hacked-blackmailed-250-fake-mobile-apps)
+- [Tonic Security Harnesses AI to Combat Remediation Challenges](https://www.darkreading.com/cybersecurity-operations/tonic-security-turns-to-ai-to-combat-remediation-challenges)
+- [Palo Alto Networks Grabs IAM Provider CyberArk for $25B](https://www.darkreading.com/identity-access-management-security/palo-alto-networks-grabs-iam-provider-cyberark-for-25b)
 - [Silk Typhoon Linked to Powerful Offensive Tools, PRC-Backed Companies](https://www.darkreading.com/threat-intelligence/silk-typhoon-powerful-offensive-tools-prc)
 - [The CrowdStrike Outage Was Bad, but It Could Have Been Worse](https://www.darkreading.com/vulnerabilities-threats/crowdstrike-outage-was-bad-could-have-been-worse)
 - [ChatGPT, GenAI Tools Open to &#39;Man in the Prompt&#39; Browser Attack](https://www.darkreading.com/vulnerabilities-threats/attackers-use-browser-extensions-inject-ai-prompts)
 - [African Orgs Fall to Mass Microsoft SharePoint Exploits](https://www.darkreading.com/cyber-risk/african-orgs-mass-microsoft-sharepoint-exploits)
 - [Nimble &#39;Gunra&#39; Ransomware Evolves With Linux Variant](https://www.darkreading.com/threat-intelligence/nimble-gunra-ransomware-linux-variant)
-- [Critical Flaw in Vibe-Coding Platform Base44 Exposes Apps](https://www.darkreading.com/application-security/critical-flaw-vibe-coding-base44-exposed-apps)
-- [The Hidden Threat of Rogue Access](https://www.darkreading.com/vulnerabilities-threats/hidden-threat-rogue-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
