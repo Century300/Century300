@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Gen Z Falls for Scams 2x More Than Older Generations](https://www.darkreading.com/cyber-risk/gen-z-scams-2x-more-older-generations)
 - [DragonForce Ransom Cartel Profits Off Rivals&#39; Demise](https://www.darkreading.com/threat-intelligence/dragonforce-ransom-cartel-profits-rivals-demise)
 - [SafePay Claims Ingram Micro Breach, Sets Ransom Deadline](https://www.darkreading.com/cyberattacks-data-breaches/safepay-ingram-micro-breach-ransom-deadline)
 - [3 Things CFOs Need to Know About Mitigating Threats](https://www.darkreading.com/vulnerabilities-threats/3-things-cfo-mitigating-threats)
@@ -83,7 +84,6 @@
 - [Getting a Cybersecurity Vibe Check on Vibe Coding](https://www.darkreading.com/application-security/cybersecurity-vibe-check-vibe-coding)
 - [What the Coinbase Breach Says About Insider Risk](https://www.darkreading.com/vulnerabilities-threats/coinbase-breach-insider-risk)
 - [Dark Reading Confidential: Funding the CVE Program of the Future](https://www.darkreading.com/cybersecurity-operations/funding-cve-program-future)
-- [Low-Code Tools in Microsoft Azure Allowed Unprivileged Access](https://www.darkreading.com/vulnerabilities-threats/low-code-tools-azure-allowed-unprivileged-access)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
