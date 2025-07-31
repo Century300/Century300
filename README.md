@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [3 Things CFOs Need to Know About Mitigating Threats](https://www.darkreading.com/vulnerabilities-threats/3-things-cfo-mitigating-threats)
 - [Russia&#39;s Secret Blizzard APT Gains Embassy Access via ISPs](https://www.darkreading.com/threat-intelligence/russia-secret-blizzard-apt-embassy-isps)
 - [Getting a Cybersecurity Vibe Check on Vibe Coding](https://www.darkreading.com/application-security/cybersecurity-vibe-check-vibe-coding)
 - [What the Coinbase Breach Says About Insider Risk](https://www.darkreading.com/vulnerabilities-threats/coinbase-breach-insider-risk)
@@ -83,7 +84,6 @@
 - [Low-Code Tools in Microsoft Azure Allowed Unprivileged Access](https://www.darkreading.com/vulnerabilities-threats/low-code-tools-azure-allowed-unprivileged-access)
 - [Koreans Hacked, Blackmailed by 250+ Fake Mobile Apps](https://www.darkreading.com/threat-intelligence/koreans-hacked-blackmailed-250-fake-mobile-apps)
 - [Tonic Security Harnesses AI to Combat Remediation Challenges](https://www.darkreading.com/cybersecurity-operations/tonic-security-turns-to-ai-to-combat-remediation-challenges)
-- [Palo Alto Networks Grabs IAM Provider CyberArk for $25B](https://www.darkreading.com/identity-access-management-security/palo-alto-networks-grabs-iam-provider-cyberark-for-25b)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
