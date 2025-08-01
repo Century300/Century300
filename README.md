@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SIEMs: Dying a Slow Death or Poised for AI Rebirth?](https://www.darkreading.com/cybersecurity-analytics/siems-dying-slow-death-ai-rebirth)
 - [Gen Z Falls for Scams 2x More Than Older Generations](https://www.darkreading.com/cyber-risk/gen-z-scams-2x-more-older-generations)
 - [DragonForce Ransom Cartel Profits Off Rivals&#39; Demise](https://www.darkreading.com/threat-intelligence/dragonforce-ransom-cartel-profits-rivals-demise)
 - [SafePay Claims Ingram Micro Breach, Sets Ransom Deadline](https://www.darkreading.com/cyberattacks-data-breaches/safepay-ingram-micro-breach-ransom-deadline)
@@ -83,7 +84,6 @@
 - [Russia&#39;s Secret Blizzard APT Gains Embassy Access via ISPs](https://www.darkreading.com/threat-intelligence/russia-secret-blizzard-apt-embassy-isps)
 - [Getting a Cybersecurity Vibe Check on Vibe Coding](https://www.darkreading.com/application-security/cybersecurity-vibe-check-vibe-coding)
 - [What the Coinbase Breach Says About Insider Risk](https://www.darkreading.com/vulnerabilities-threats/coinbase-breach-insider-risk)
-- [Dark Reading Confidential: Funding the CVE Program of the Future](https://www.darkreading.com/cybersecurity-operations/funding-cve-program-future)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
