@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [SIEMs: Dying a Slow Death or Poised for AI Rebirth?](https://www.darkreading.com/cybersecurity-analytics/siems-dying-slow-death-ai-rebirth)
-- [Gen Z Falls for Scams 2x More Than Older Generations](https://www.darkreading.com/cyber-risk/gen-z-scams-2x-more-older-generations)
-- [DragonForce Ransom Cartel Profits Off Rivals&#39; Demise](https://www.darkreading.com/threat-intelligence/dragonforce-ransom-cartel-profits-rivals-demise)
-- [SafePay Claims Ingram Micro Breach, Sets Ransom Deadline](https://www.darkreading.com/cyberattacks-data-breaches/safepay-ingram-micro-breach-ransom-deadline)
-- [3 Things CFOs Need to Know About Mitigating Threats](https://www.darkreading.com/vulnerabilities-threats/3-things-cfo-mitigating-threats)
-- [Russia&#39;s Secret Blizzard APT Gains Embassy Access via ISPs](https://www.darkreading.com/threat-intelligence/russia-secret-blizzard-apt-embassy-isps)
-- [Getting a Cybersecurity Vibe Check on Vibe Coding](https://www.darkreading.com/application-security/cybersecurity-vibe-check-vibe-coding)
-- [What the Coinbase Breach Says About Insider Risk](https://www.darkreading.com/vulnerabilities-threats/coinbase-breach-insider-risk)
+- [60 RubyGems Packages Steal Data From Annoying Spammers](https://www.darkreading.com/threat-intelligence/60-rubygems-packages-steal-spammers)
+- [BigID Launches Shadow AI Discovery to Uncover Rogue Models and Risky AI Data](https://www.darkreading.com/cyber-risk/bigid-launches-shadow-ai)
+- [PwC Announces Addition of Morgan Adamski to Leadership of Cyber, Data &amp;amp; Technology Risk Platform](https://www.darkreading.com/cybersecurity-careers/pwc-morgan-adamski-leadership-cyber)
+- [Ransomware Attacks Fall by Almost Half in Q2](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-fall-almost-half-q2)
+- [Cybersecurity Incident at Allianz Life Exposes Personal Information of Hundreds of Thousands](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incident-allianz-life)
+- [860K Compromised in Columbia University Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/columbia-university-data-breach)
+- [Redefining the Role: What Makes a CISO Great](https://www.darkreading.com/cybersecurity-operations/redefining-role-ciso-great)
+- [Data Dump From APT Actor Yields Clues to Attacker Capabilities](https://www.darkreading.com/threat-intelligence/data-dump-apt-actor-attacker-capabilities)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
