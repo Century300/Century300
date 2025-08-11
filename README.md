@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
 - [Utilities, Factories at Risk From Encryption Holes in Industrial Protocol](https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol)
 - [Will Secure AI Be the Hottest Career Path in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/will-secure-ai-hottest-career-path-cybersecurity)
 - [60 RubyGems Packages Steal Data From Annoying Spammers](https://www.darkreading.com/threat-intelligence/60-rubygems-packages-steal-spammers)
@@ -83,7 +84,6 @@
 - [PwC Announces Addition of Morgan Adamski to Leadership of Cyber, Data &amp;amp; Technology Risk Platform](https://www.darkreading.com/cybersecurity-careers/pwc-morgan-adamski-leadership-cyber)
 - [Ransomware Attacks Fall by Almost Half in Q2](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-fall-almost-half-q2)
 - [Cybersecurity Incident at Allianz Life Exposes Personal Information of Hundreds of Thousands](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incident-allianz-life)
-- [860K Compromised in Columbia University Data Breach](https://www.darkreading.com/cyberattacks-data-breaches/columbia-university-data-breach)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
