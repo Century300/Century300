@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [REvil Actor Accuses Russia of Planning 2021 Kaseya Attack](https://www.darkreading.com/cyberattacks-data-breaches/revil-actor-russia-planning-2021-kaseya-attack)
 - [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
 - [Utilities, Factories at Risk From Encryption Holes in Industrial Protocol](https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol)
 - [Will Secure AI Be the Hottest Career Path in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/will-secure-ai-hottest-career-path-cybersecurity)
@@ -83,7 +84,6 @@
 - [BigID Launches Shadow AI Discovery to Uncover Rogue Models and Risky AI Data](https://www.darkreading.com/cyber-risk/bigid-launches-shadow-ai)
 - [PwC Announces Addition of Morgan Adamski to Leadership of Cyber, Data &amp;amp; Technology Risk Platform](https://www.darkreading.com/cybersecurity-careers/pwc-morgan-adamski-leadership-cyber)
 - [Ransomware Attacks Fall by Almost Half in Q2](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attacks-fall-almost-half-q2)
-- [Cybersecurity Incident at Allianz Life Exposes Personal Information of Hundreds of Thousands](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-incident-allianz-life)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
