@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Charon Ransomware Emerges With APT-Style Tactics](https://www.darkreading.com/threat-intelligence/charon-ransomware-apt-tactics)
 - [How to Stay a Step Ahead of a Non-Obvious Threat](https://www.darkreading.com/vulnerabilities-threats/stay-step-ahead-non-obvious-threat)
 - [ShinyHunters Tactics Now Mirror Scattered Spider](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-tactics-mirror-scattered-spider)
 - [BlackSuit Ransomware Takes an Infrastructure Hit From Law Enforcement](https://www.darkreading.com/vulnerabilities-threats/blacksuit-ransomware-infrastructure-law-enforcement)
@@ -83,7 +84,6 @@
 - [Black Hat NOC Expands AI Implementation Across Security Operations](https://www.darkreading.com/cybersecurity-operations/black-hat-noc-expands-ai-security-operations)
 - [Researchers Warn of &#39;Hidden Risks&#39; in Passwordless Account Recovery](https://www.darkreading.com/endpoint-security/researchers-warn-hidden-risks-passwordless-account-recovery)
 - [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
-- [Utilities, Factories at Risk From Encryption Holes in Industrial Protocol](https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
