@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ShinyHunters Tactics Now Mirror Scattered Spider](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-tactics-mirror-scattered-spider)
 - [BlackSuit Ransomware Takes an Infrastructure Hit From Law Enforcement](https://www.darkreading.com/vulnerabilities-threats/blacksuit-ransomware-infrastructure-law-enforcement)
 - [REvil Actor Accuses Russia of Planning 2021 Kaseya Attack](https://www.darkreading.com/cyberattacks-data-breaches/revil-actor-russia-planning-2021-kaseya-attack)
 - [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
@@ -83,7 +84,6 @@
 - [Will Secure AI Be the Hottest Career Path in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/will-secure-ai-hottest-career-path-cybersecurity)
 - [60 RubyGems Packages Steal Data From Annoying Spammers](https://www.darkreading.com/threat-intelligence/60-rubygems-packages-steal-spammers)
 - [BigID Launches Shadow AI Discovery to Uncover Rogue Models and Risky AI Data](https://www.darkreading.com/cyber-risk/bigid-launches-shadow-ai)
-- [PwC Announces Addition of Morgan Adamski to Leadership of Cyber, Data &amp;amp; Technology Risk Platform](https://www.darkreading.com/cybersecurity-careers/pwc-morgan-adamski-leadership-cyber)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
