@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Elevation-of-Privilege Vulns Dominate Microsoft&#39;s Patch Tuesday](https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches)
 - [Charon Ransomware Emerges With APT-Style Tactics](https://www.darkreading.com/threat-intelligence/charon-ransomware-apt-tactics)
 - [How to Stay a Step Ahead of a Non-Obvious Threat](https://www.darkreading.com/vulnerabilities-threats/stay-step-ahead-non-obvious-threat)
 - [ShinyHunters Tactics Now Mirror Scattered Spider](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-tactics-mirror-scattered-spider)
@@ -83,7 +84,6 @@
 - [REvil Actor Accuses Russia of Planning 2021 Kaseya Attack](https://www.darkreading.com/cyberattacks-data-breaches/revil-actor-russia-planning-2021-kaseya-attack)
 - [Black Hat NOC Expands AI Implementation Across Security Operations](https://www.darkreading.com/cybersecurity-operations/black-hat-noc-expands-ai-security-operations)
 - [Researchers Warn of &#39;Hidden Risks&#39; in Passwordless Account Recovery](https://www.darkreading.com/endpoint-security/researchers-warn-hidden-risks-passwordless-account-recovery)
-- [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
