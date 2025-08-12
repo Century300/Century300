@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [How to Stay a Step Ahead of a Non-Obvious Threat](https://www.darkreading.com/vulnerabilities-threats/stay-step-ahead-non-obvious-threat)
 - [ShinyHunters Tactics Now Mirror Scattered Spider](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-tactics-mirror-scattered-spider)
 - [BlackSuit Ransomware Takes an Infrastructure Hit From Law Enforcement](https://www.darkreading.com/vulnerabilities-threats/blacksuit-ransomware-infrastructure-law-enforcement)
 - [REvil Actor Accuses Russia of Planning 2021 Kaseya Attack](https://www.darkreading.com/cyberattacks-data-breaches/revil-actor-russia-planning-2021-kaseya-attack)
@@ -83,7 +84,6 @@
 - [Researchers Warn of &#39;Hidden Risks&#39; in Passwordless Account Recovery](https://www.darkreading.com/endpoint-security/researchers-warn-hidden-risks-passwordless-account-recovery)
 - [Echo Chamber, Prompts Used to Jailbreak GPT-5 in 24 Hours](https://www.darkreading.com/cyberattacks-data-breaches/echo-chamber-prompts-jailbreak-gpt-5-24-hours)
 - [Utilities, Factories at Risk From Encryption Holes in Industrial Protocol](https://www.darkreading.com/vulnerabilities-threats/utilities-factories-encryption-holes-industrial-protocol)
-- [Will Secure AI Be the Hottest Career Path in Cybersecurity?](https://www.darkreading.com/cybersecurity-operations/will-secure-ai-hottest-career-path-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
