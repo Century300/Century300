@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [China Questions Security of AI Chips From Nvidia, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
+- [China Questions Security of AI Chips From NVIDIA, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
 - [Elevation-of-Privilege Vulns Dominate Microsoft&#39;s Patch Tuesday](https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches)
 - [Charon Ransomware Emerges With APT-Style Tactics](https://www.darkreading.com/threat-intelligence/charon-ransomware-apt-tactics)
 - [How to Stay a Step Ahead of a Non-Obvious Threat](https://www.darkreading.com/vulnerabilities-threats/stay-step-ahead-non-obvious-threat)
