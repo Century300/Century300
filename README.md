@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fortinet Products Are in the Crosshairs Again](https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again)
 - [Whispers of XZ Utils Backdoor Live on in Old Docker Images](https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images)
+- [Popular AI Systems Still a Work-in-Progress for Security](https://www.darkreading.com/vulnerabilities-threats/popular-ai-systems-still-work-in-progress-security)
 - [Patch Now: Attackers Target OT Networks via Critical RCE Flaw](https://www.darkreading.com/ics-ot-security/patch-now-attackers-target-ot-networks-critical-rce-flaw)
 - [What the LockBit 4.0 Leak Reveals About RaaS Groups](https://www.darkreading.com/vulnerabilities-threats/what-lockbit-leak-reveals-raas-groups)
 - [How an AI-Based &#39;Pen Tester&#39; Became a Top Bug Hunter on HackerOne](https://www.darkreading.com/vulnerabilities-threats/ai-based-pen-tester-top-bug-hunter-hackerone)
 - [China Questions Security of AI Chips From NVIDIA, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
 - [Elevation-of-Privilege Vulns Dominate Microsoft&#39;s Patch Tuesday](https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches)
-- [Charon Ransomware Emerges With APT-Style Tactics](https://www.darkreading.com/threat-intelligence/charon-ransomware-apt-tactics)
-- [How to Stay a Step Ahead of a Non-Obvious Threat](https://www.darkreading.com/vulnerabilities-threats/stay-step-ahead-non-obvious-threat)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
