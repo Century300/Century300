@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [What the LockBit 4.0 Leak Reveals About RaaS Groups](https://www.darkreading.com/vulnerabilities-threats/what-lockbit-leak-reveals-raas-groups)
 - [China Questions Security of AI Chips From NVIDIA, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
 - [Elevation-of-Privilege Vulns Dominate Microsoft&#39;s Patch Tuesday](https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches)
 - [Charon Ransomware Emerges With APT-Style Tactics](https://www.darkreading.com/threat-intelligence/charon-ransomware-apt-tactics)
@@ -83,7 +84,6 @@
 - [ShinyHunters Tactics Now Mirror Scattered Spider](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-tactics-mirror-scattered-spider)
 - [BlackSuit Ransomware Takes an Infrastructure Hit From Law Enforcement](https://www.darkreading.com/vulnerabilities-threats/blacksuit-ransomware-infrastructure-law-enforcement)
 - [REvil Actor Accuses Russia of Planning 2021 Kaseya Attack](https://www.darkreading.com/cyberattacks-data-breaches/revil-actor-russia-planning-2021-kaseya-attack)
-- [Black Hat NOC Expands AI Implementation Across Security Operations](https://www.darkreading.com/cybersecurity-operations/black-hat-noc-expands-ai-security-operations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
