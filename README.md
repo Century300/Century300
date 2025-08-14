@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [North Korea Attacks South Koreans With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-attacks-south-koreans-ransomware)
 - [Fortinet Products Are in the Crosshairs Again](https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again)
 - [Whispers of XZ Utils Backdoor Live on in Old Docker Images](https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images)
 - [Popular AI Systems Still a Work-in-Progress for Security](https://www.darkreading.com/vulnerabilities-threats/popular-ai-systems-still-work-in-progress-security)
@@ -83,7 +84,6 @@
 - [What the LockBit 4.0 Leak Reveals About RaaS Groups](https://www.darkreading.com/vulnerabilities-threats/what-lockbit-leak-reveals-raas-groups)
 - [How an AI-Based &#39;Pen Tester&#39; Became a Top Bug Hunter on HackerOne](https://www.darkreading.com/vulnerabilities-threats/ai-based-pen-tester-top-bug-hunter-hackerone)
 - [China Questions Security of AI Chips From NVIDIA, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
-- [Elevation-of-Privilege Vulns Dominate Microsoft&#39;s Patch Tuesday](https://www.darkreading.com/application-security/elevation-privilege-vulns-dominate-microsoft-patches)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
