@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Navigating the Cybersecurity Budget Tug-of-War](https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war)
 - [North Korea Attacks South Koreans With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-attacks-south-koreans-ransomware)
 - [Fortinet Products Are in the Crosshairs Again](https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again)
 - [Whispers of XZ Utils Backdoor Live on in Old Docker Images](https://www.darkreading.com/vulnerabilities-threats/xz-utils-backdoor-live-old-docker-images)
@@ -83,7 +84,6 @@
 - [Patch Now: Attackers Target OT Networks via Critical RCE Flaw](https://www.darkreading.com/ics-ot-security/patch-now-attackers-target-ot-networks-critical-rce-flaw)
 - [What the LockBit 4.0 Leak Reveals About RaaS Groups](https://www.darkreading.com/vulnerabilities-threats/what-lockbit-leak-reveals-raas-groups)
 - [How an AI-Based &#39;Pen Tester&#39; Became a Top Bug Hunter on HackerOne](https://www.darkreading.com/vulnerabilities-threats/ai-based-pen-tester-top-bug-hunter-hackerone)
-- [China Questions Security of AI Chips From NVIDIA, AMD](https://www.darkreading.com/cyber-risk/china-questions-security-ai-chips-nvidia-amd)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
