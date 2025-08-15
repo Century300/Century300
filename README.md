@@ -82,8 +82,8 @@
 - [Police &amp;amp; Government Email Access for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/government-email-sale-dark-web)
 - [CISA Warns N-able Bugs Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/n-able-bugs-under-attack)
 - [Cybersecurity Spending Slows &amp;amp; Security Teams Shrink](https://www.darkreading.com/cybersecurity-operations/cybersecurity-spending-slows-teams-shrink)
+- [Google Chrome Enterprise: Extend Protections From Browser to OS](https://www.darkreading.com/cyber-risk/google-chrome-enterprise-extend-protections-from-browser-to-os)
 - [Navigating the Cybersecurity Budget Tug-of-War](https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war)
-- [North Korea Attacks South Koreans With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-attacks-south-koreans-ransomware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
