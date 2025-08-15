@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Downgrade Attack Allows Phishing Kits to Bypass FIDO](https://www.darkreading.com/cybersecurity-operations/downgrade-attack-phishing-kits-bypass-fido)
 - [State and Local Leaders Lobby Congress for Cybersecurity Resources](https://www.darkreading.com/cyberattacks-data-breaches/state-local-leaders-lobby-congress-cybersecurity-resources)
+- [Google Chrome Enterprise: Advanced Browser Security for the Modern Workforce](https://www.darkreading.com/endpoint-security/google-chrome-enterprise-advanced-browser-security-modern-workforce)
 - [Police &amp;amp; Government Email Access for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/government-email-sale-dark-web)
 - [CISA Warns N-able Bugs Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/n-able-bugs-under-attack)
 - [Cybersecurity Spending Slows &amp;amp; Security Teams Shrink](https://www.darkreading.com/cybersecurity-operations/cybersecurity-spending-slows-teams-shrink)
 - [Navigating the Cybersecurity Budget Tug-of-War](https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war)
 - [North Korea Attacks South Koreans With Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/north-korea-attacks-south-koreans-ransomware)
-- [Fortinet Products Are in the Crosshairs Again](https://www.darkreading.com/cyberattacks-data-breaches/fortinet-products-in-crosshairs-again)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
