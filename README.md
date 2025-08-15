@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Water Systems Under Attack: Norway, Poland Blame Russia Actors](https://www.darkreading.com/ics-ot-security/water-systems-attack-norway-poland-russia-actors)
 - [Downgrade Attack Allows Phishing Kits to Bypass FIDO](https://www.darkreading.com/cybersecurity-operations/downgrade-attack-phishing-kits-bypass-fido)
 - [State and Local Leaders Lobby Congress for Cybersecurity Resources](https://www.darkreading.com/cyberattacks-data-breaches/state-local-leaders-lobby-congress-cybersecurity-resources)
+- [Agentic AI Use Cases for Security Soar, but Risks Demand Close Attention](https://www.darkreading.com/cloud-security/agentic-ai-use-cases-soar-but-risks-demand-close-attention)
 - [Google Chrome Enterprise: Advanced Browser Security for the Modern Workforce](https://www.darkreading.com/endpoint-security/google-chrome-enterprise-advanced-browser-security-modern-workforce)
 - [Police &amp;amp; Government Email Access for Sale on Dark Web](https://www.darkreading.com/threat-intelligence/government-email-sale-dark-web)
+- [NIST Digital Identity Guidelines Evolve With Threat Landscape](https://www.darkreading.com/identity-access-management-security/nist-digital-identity-guidelines-evolve-with-threat-landscape)
 - [CISA Warns N-able Bugs Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/n-able-bugs-under-attack)
-- [Cybersecurity Spending Slows &amp;amp; Security Teams Shrink](https://www.darkreading.com/cybersecurity-operations/cybersecurity-spending-slows-teams-shrink)
-- [Google Chrome Enterprise: Extend Protections From Browser to OS](https://www.darkreading.com/cyber-risk/google-chrome-enterprise-extend-protections-from-browser-to-os)
-- [Navigating the Cybersecurity Budget Tug-of-War](https://www.darkreading.com/cybersecurity-operations/navigating-cybersecurity-budget-tug-of-war)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
