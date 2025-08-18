@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Defending Against Cloud Threats Across Multicloud Environments](https://www.darkreading.com/cloud-security/defending-against-cloud-threats-across-multi-cloud-environments)
 - [New Quantum-Safe Alliance Aims to Accelerate PQC Implementation](https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation)
 - [RealDefense Opens $10M Fund to Help OEMs Monetize Installs With SmartScan Cybersecurity SDK](https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk)
 - [New Crypto24 Ransomware Attacks Bypass EDR](https://www.darkreading.com/cybersecurity-operations/crypto24-ransomware-bypass-edr)
@@ -83,7 +84,6 @@
 - [Using Security Expertise to Bridge the Communication Gap](https://www.darkreading.com/cybersecurity-operations/using-security-expertise-bridge-communication-gap)
 - [Water Systems Under Attack: Norway, Poland Blame Russia Actors](https://www.darkreading.com/ics-ot-security/water-systems-attack-norway-poland-russia-actors)
 - [Downgrade Attack Allows Phishing Kits to Bypass FIDO](https://www.darkreading.com/cybersecurity-operations/downgrade-attack-phishing-kits-bypass-fido)
-- [State and Local Leaders Lobby Congress for Cybersecurity Resources](https://www.darkreading.com/cyberattacks-data-breaches/state-local-leaders-lobby-congress-cybersecurity-resources)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
