@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [New Quantum-Safe Alliance Aims to Accelerate PQC Implementation](https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation)
 - [RealDefense Opens $10M Fund to Help OEMs Monetize Installs With SmartScan Cybersecurity SDK](https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk)
 - [New Crypto24 Ransomware Attacks Bypass EDR](https://www.darkreading.com/cybersecurity-operations/crypto24-ransomware-bypass-edr)
 - [Colt Telecommunications Struggles in Wake of Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/colt-telecommunications-cyber-incident)
@@ -83,7 +84,6 @@
 - [Water Systems Under Attack: Norway, Poland Blame Russia Actors](https://www.darkreading.com/ics-ot-security/water-systems-attack-norway-poland-russia-actors)
 - [Downgrade Attack Allows Phishing Kits to Bypass FIDO](https://www.darkreading.com/cybersecurity-operations/downgrade-attack-phishing-kits-bypass-fido)
 - [State and Local Leaders Lobby Congress for Cybersecurity Resources](https://www.darkreading.com/cyberattacks-data-breaches/state-local-leaders-lobby-congress-cybersecurity-resources)
-- [Agentic AI Use Cases for Security Soar, but Risks Demand Close Attention](https://www.darkreading.com/cloud-security/agentic-ai-use-cases-soar-but-risks-demand-close-attention)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
