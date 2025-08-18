@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Workday Breach Likely Linked to ShinyHunters Salesforce Attacks](https://www.darkreading.com/application-security/workday-breach-shinyhunters-salesforce-attacks)
 - [How Evolving RATs Are Redefining Enterprise Security Threats](https://www.darkreading.com/cyberattacks-data-breaches/evolving-rats-redefine-enterprise-security-threats)
 - [Internet-wide Vulnerability Enables Giant DDoS Attacks](https://www.darkreading.com/vulnerabilities-threats/internet-wide-vulnerability-giant-ddos-attacks)
 - [Defending Against Cloud Threats Across Multicloud Environments](https://www.darkreading.com/cloud-security/defending-against-cloud-threats-across-multi-cloud-environments)
@@ -83,7 +84,6 @@
 - [RealDefense Opens $10M Fund to Help OEMs Monetize Installs With SmartScan Cybersecurity SDK](https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk)
 - [New Crypto24 Ransomware Attacks Bypass EDR](https://www.darkreading.com/cybersecurity-operations/crypto24-ransomware-bypass-edr)
 - [Colt Telecommunications Struggles in Wake of Cyber Incident](https://www.darkreading.com/cyberattacks-data-breaches/colt-telecommunications-cyber-incident)
-- [Using Security Expertise to Bridge the Communication Gap](https://www.darkreading.com/cybersecurity-operations/using-security-expertise-bridge-communication-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
