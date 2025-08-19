@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;DripDropper&#39; Hackers Patch Their Own Exploit](https://www.darkreading.com/cyberattacks-data-breaches/dripdropper-hackers-patch-own-exploit)
 - [Secure AI Use Without the Blind Spots](https://www.darkreading.com/cyber-risk/secure-ai-use-without-blind-spots)
 - [Noodlophile Stealer Hides Behind Bogus Copyright Complaints](https://www.darkreading.com/threat-intelligence/noodlophile-stealer-bogus-copyright-complaints)
 - [Workday Breach Likely Linked to ShinyHunters Salesforce Attacks](https://www.darkreading.com/application-security/workday-breach-shinyhunters-salesforce-attacks)
@@ -83,7 +84,6 @@
 - [Internet-wide Vulnerability Enables Giant DDoS Attacks](https://www.darkreading.com/vulnerabilities-threats/internet-wide-vulnerability-giant-ddos-attacks)
 - [Defending Against Cloud Threats Across Multicloud Environments](https://www.darkreading.com/cloud-security/defending-against-cloud-threats-across-multi-cloud-environments)
 - [New Quantum-Safe Alliance Aims to Accelerate PQC Implementation](https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation)
-- [RealDefense Opens $10M Fund to Help OEMs Monetize Installs With SmartScan Cybersecurity SDK](https://www.darkreading.com/endpoint-security/realdefense-opens-10m-fund-smartscan-cybersecurity-sdk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
