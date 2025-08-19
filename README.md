@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian Hacktivists Take Aim at Polish Power Plant, Again](https://www.darkreading.com/cyberattacks-data-breaches/russian-hacktivists-polish-power-plant-attack)
+- [Agentic AI, Apple Intelligence, EV Chargers: Everyday Cybersecurity Peril Abounds for Businesses](https://www.darkreading.com/cybersecurity-operations/agentic-ai-apple-intelligence-ev-chargers)
 - [How to Vibe Code With Security in Mind](https://www.darkreading.com/application-security/how-to-vibe-code-with-security-in-mind)
 - [&#39;RingReaper&#39; Sneaks Right Past Linux EDRs](https://www.darkreading.com/cyber-risk/ringreaper-sneaks-past-linux-edrs)
 - [AI Agents Access Everything, Fall to Zero-Click Exploit](https://www.darkreading.com/application-security/ai-agents-access-everything-zero-click-exploit)
 - [Millions Allegedly Affected in Allianz Insurance Breach](https://www.darkreading.com/cyberattacks-data-breaches/millions-allianz-insurance-breach)
 - [PipeMagic Backdoor Resurfaces as Part of Play Ransomware Attack Chain](https://www.darkreading.com/threat-intelligence/pipemagic-backdoor-resurfaces-play-ransomware-attack-chain)
 - [10 Major GitHub Risk Vectors Hidden in Plain Sight](https://www.darkreading.com/cyberattacks-data-breaches/10-github-risk-vectors)
-- [&#39;DripDropper&#39; Hackers Patch Their Own Exploit](https://www.darkreading.com/cyberattacks-data-breaches/dripdropper-hackers-patch-own-exploit)
-- [Secure AI Use Without the Blind Spots](https://www.darkreading.com/cyber-risk/secure-ai-use-without-blind-spots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
