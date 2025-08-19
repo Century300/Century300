@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [10 Major GitHub Risk Vectors Hidden in Plain Sight](https://www.darkreading.com/cyberattacks-data-breaches/10-github-risk-vectors)
 - [&#39;DripDropper&#39; Hackers Patch Their Own Exploit](https://www.darkreading.com/cyberattacks-data-breaches/dripdropper-hackers-patch-own-exploit)
 - [Secure AI Use Without the Blind Spots](https://www.darkreading.com/cyber-risk/secure-ai-use-without-blind-spots)
 - [Noodlophile Stealer Hides Behind Bogus Copyright Complaints](https://www.darkreading.com/threat-intelligence/noodlophile-stealer-bogus-copyright-complaints)
@@ -83,7 +84,6 @@
 - [How Evolving RATs Are Redefining Enterprise Security Threats](https://www.darkreading.com/cyberattacks-data-breaches/evolving-rats-redefine-enterprise-security-threats)
 - [Internet-wide Vulnerability Enables Giant DDoS Attacks](https://www.darkreading.com/vulnerabilities-threats/internet-wide-vulnerability-giant-ddos-attacks)
 - [Defending Against Cloud Threats Across Multicloud Environments](https://www.darkreading.com/cloud-security/defending-against-cloud-threats-across-multi-cloud-environments)
-- [New Quantum-Safe Alliance Aims to Accelerate PQC Implementation](https://www.darkreading.com/cybersecurity-operations/new-quantum-safe-alliance-accelerate-pqc-implementation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
