@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Agents Access Everything, Fall to Zero-Click Exploit](https://www.darkreading.com/application-security/ai-agents-access-everything-zero-click-exploit)
 - [Millions Allegedly Affected in Allianz Insurance Breach](https://www.darkreading.com/cyberattacks-data-breaches/millions-allianz-insurance-breach)
 - [PipeMagic Backdoor Resurfaces as Part of Play Ransomware Attack Chain](https://www.darkreading.com/threat-intelligence/pipemagic-backdoor-resurfaces-play-ransomware-attack-chain)
 - [10 Major GitHub Risk Vectors Hidden in Plain Sight](https://www.darkreading.com/cyberattacks-data-breaches/10-github-risk-vectors)
@@ -83,7 +84,6 @@
 - [Secure AI Use Without the Blind Spots](https://www.darkreading.com/cyber-risk/secure-ai-use-without-blind-spots)
 - [Noodlophile Stealer Hides Behind Bogus Copyright Complaints](https://www.darkreading.com/threat-intelligence/noodlophile-stealer-bogus-copyright-complaints)
 - [Workday Breach Likely Linked to ShinyHunters Salesforce Attacks](https://www.darkreading.com/application-security/workday-breach-shinyhunters-salesforce-attacks)
-- [How Evolving RATs Are Redefining Enterprise Security Threats](https://www.darkreading.com/cyberattacks-data-breaches/evolving-rats-redefine-enterprise-security-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
