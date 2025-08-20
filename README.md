@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [FBI, Cisco Warn of Russian Attacks on 7-Year-Old Flaw](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisco-warn-russian-attacks-7-year-old-flaw)
 - [Side of Fries With That Bug? Hacker Finds Flaws in McDonald&#39;s Staff, Partner Hubs](https://www.darkreading.com/cybersecurity-operations/hacker-finds-flaws-mcdonalds-staff-partner-hubs)
 - [How Outer Space Became the Next Big Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/outer-space-next-attack-surface)
 - [Incode Acquires AuthenticID to Enhance AI-Driven Identity Verification](https://www.darkreading.com/cyber-risk/incode-acquires-authenticid-enhance-ai-driven-identity-verification)
@@ -83,7 +84,6 @@
 - [Asian Orgs Shift Cybersecurity Requirements to Suppliers](https://www.darkreading.com/cyber-risk/breaches-rise-asian-orgs-cybersecurity-requirements-suppliers)
 - [Russian Hacktivists Take Aim at Polish Power Plant, Again](https://www.darkreading.com/cyberattacks-data-breaches/russian-hacktivists-polish-power-plant-attack)
 - [Video Convos: Agentic AI, Apple, EV Chargers; Cybersecurity Peril Abounds](https://www.darkreading.com/cybersecurity-operations/agentic-ai-apple-intelligence-ev-chargers)
-- [How to Vibe Code With Security in Mind](https://www.darkreading.com/application-security/how-to-vibe-code-with-security-in-mind)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
