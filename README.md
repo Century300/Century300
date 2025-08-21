@@ -79,11 +79,11 @@
 - [Hacktivist Tied to Multiple Cyber Groups Sentenced to Jail](https://www.darkreading.com/cyberattacks-data-breaches/hacktivist-sentenced-jail)
 - [DPRK, China Suspected in South Korean Embassy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-dprk-south-korean-embassy-attacks)
 - [Microsoft Lays Out its Quantum-Safe Plans](https://www.darkreading.com/endpoint-security/microsoft-lays-out-its-quantum-safe-plans)
+- [Fake Employees Pose Real Security Risks](https://www.darkreading.com/cyberattacks-data-breaches/fake-employees-pose-real-security-risks)
 - [How Warlock Ransomware Targets Vulnerable SharePoint Servers](https://www.darkreading.com/vulnerabilities-threats/warlock-ransomware-targets-vulnerable-sharepoint-servers)
 - [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-abuse-vibe-coding-service-malicious-sites)
 - [FBI, Cisco Warn of Russian Attacks on 7-Year-Old Flaw](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisco-warn-russian-attacks-7-year-old-flaw)
 - [Side of Fries With That Bug? Hacker Finds Flaws in McDonald&#39;s Staff, Partner Hubs](https://www.darkreading.com/cybersecurity-operations/hacker-finds-flaws-mcdonalds-staff-partner-hubs)
-- [How Outer Space Became the Next Big Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/outer-space-next-attack-surface)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
