@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DPRK, China Suspected in South Korean Embassy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-dprk-south-korean-embassy-attacks)
 - [How Warlock Ransomware Targets Vulnerable SharePoint Servers](https://www.darkreading.com/vulnerabilities-threats/warlock-ransomware-targets-vulnerable-sharepoint-servers)
 - [Cybercriminals Abuse Vibe Coding Service to Create Malicious Sites](https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-abuse-vibe-coding-service-malicious-sites)
 - [FBI, Cisco Warn of Russian Attacks on 7-Year-Old Flaw](https://www.darkreading.com/cyberattacks-data-breaches/fbi-cisco-warn-russian-attacks-7-year-old-flaw)
@@ -83,7 +84,6 @@
 - [How Outer Space Became the Next Big Attack Surface](https://www.darkreading.com/cyberattacks-data-breaches/outer-space-next-attack-surface)
 - [Incode Acquires AuthenticID to Enhance AI-Driven Identity Verification](https://www.darkreading.com/cyber-risk/incode-acquires-authenticid-enhance-ai-driven-identity-verification)
 - [Europe&#39;s Ransomware Surge Is a Warning Shot for US Defenders](https://www.darkreading.com/threat-intelligence/europes-ransomware-surge-warning-shot)
-- [Asian Orgs Shift Cybersecurity Requirements to Suppliers](https://www.darkreading.com/cyber-risk/breaches-rise-asian-orgs-cybersecurity-requirements-suppliers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
