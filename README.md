@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [System Shocks? EV Smart Charging Tech Poses Cyber-Risks](https://www.darkreading.com/iot/ev-smart-charging-cyber-risks)
+- [Scattered Spider Member Sentenced to a Decade in Prison](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-member-prison)
 - [Easy ChatGPT Downgrade Attack Undermines GPT-5 Security](https://www.darkreading.com/application-security/chatgpt-downgrade-attack-gpt-5-security)
+- [Why Video Game Anti-Cheat Systems Are a Cybersecurity Goldmine](https://www.darkreading.com/cyberattacks-data-breaches/video-game-anti-cheat-systems-cybersecurity-goldmine)
 - [How Architectural Controls Help Can Fill the AI Security Gap](https://www.darkreading.com/cybersecurity-operations/architectural-controls-ai-security-gap)
 - [Hackers Abuse VPS Infrastructure for Stealth, Speed](https://www.darkreading.com/application-security/hackers-abuse-vps-infrastructure-stealth-speed)
+- [K-12 School Incident Response Plans Fall Short](https://www.darkreading.com/endpoint-security/without-preparedness-k-12-school-incident-plans-fall-short)
 - [Tree of AST: A Bug-Hunting Framework Powered by LLMs](https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms)
-- [Prepping the Front Line for MFA Social Engineering Attacks](https://www.darkreading.com/cyberattacks-data-breaches/prepping-front-line-mfa-social-engineering-attacks)
-- [Tailing Hackers, Columbia University Uses Logging to Improve Security](https://www.darkreading.com/threat-intelligence/tailing-hackers-columbia-university-logging-improve-security)
-- [DARPA: Closing the Open Source Security Gap With AI](https://www.darkreading.com/cloud-security/darpa-closing-open-source-security-gap-ai)
-- [Hacktivist Tied to Multiple Cyber Groups Sentenced to Jail](https://www.darkreading.com/cyberattacks-data-breaches/hacktivist-sentenced-jail)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
