@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Abuse VPS Infrastructure for Stealth, Speed](https://www.darkreading.com/application-security/hackers-abuse-vps-infrastructure-stealth-speed)
+- [Tree of AST: A Bug-Hunting Framework Powered by LLMs](https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms)
 - [Prepping the Front Line for MFA Social Engineering Attacks](https://www.darkreading.com/cyberattacks-data-breaches/prepping-front-line-mfa-social-engineering-attacks)
 - [Tailing Hackers, Columbia University Uses Logging to Improve Security](https://www.darkreading.com/threat-intelligence/tailing-hackers-columbia-university-logging-improve-security)
 - [DARPA: Closing the Open Source Security Gap With AI](https://www.darkreading.com/cloud-security/darpa-closing-open-source-security-gap-ai)
 - [Hacktivist Tied to Multiple Cyber Groups Sentenced to Jail](https://www.darkreading.com/cyberattacks-data-breaches/hacktivist-sentenced-jail)
 - [DPRK, China Suspected in South Korean Embassy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-dprk-south-korean-embassy-attacks)
 - [Microsoft Lays Out Its Quantum-Safe Plans](https://www.darkreading.com/endpoint-security/microsoft-lays-out-its-quantum-safe-plans)
-- [Fake Employees Pose Real Security Risks](https://www.darkreading.com/cyberattacks-data-breaches/fake-employees-pose-real-security-risks)
-- [Critical SAP Vulns Under Exploitation in &#39;One-Two Punch&#39; Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-sap-vulns-under-exploitation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
