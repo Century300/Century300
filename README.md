@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Easy ChatGPT Downgrade Attack Undermines GPT-5 Security](https://www.darkreading.com/application-security/chatgpt-downgrade-attack-gpt-5-security)
 - [How Architectural Controls Help Can Fill the AI Security Gap](https://www.darkreading.com/cybersecurity-operations/architectural-controls-ai-security-gap)
 - [Hackers Abuse VPS Infrastructure for Stealth, Speed](https://www.darkreading.com/application-security/hackers-abuse-vps-infrastructure-stealth-speed)
 - [Tree of AST: A Bug-Hunting Framework Powered by LLMs](https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms)
@@ -83,7 +84,6 @@
 - [Tailing Hackers, Columbia University Uses Logging to Improve Security](https://www.darkreading.com/threat-intelligence/tailing-hackers-columbia-university-logging-improve-security)
 - [DARPA: Closing the Open Source Security Gap With AI](https://www.darkreading.com/cloud-security/darpa-closing-open-source-security-gap-ai)
 - [Hacktivist Tied to Multiple Cyber Groups Sentenced to Jail](https://www.darkreading.com/cyberattacks-data-breaches/hacktivist-sentenced-jail)
-- [DPRK, China Suspected in South Korean Embassy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-dprk-south-korean-embassy-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
