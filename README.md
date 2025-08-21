@@ -83,7 +83,7 @@
 - [DPRK, China Suspected in South Korean Embassy Attacks](https://www.darkreading.com/cyberattacks-data-breaches/china-dprk-south-korean-embassy-attacks)
 - [Microsoft Lays Out Its Quantum-Safe Plans](https://www.darkreading.com/endpoint-security/microsoft-lays-out-its-quantum-safe-plans)
 - [Fake Employees Pose Real Security Risks](https://www.darkreading.com/cyberattacks-data-breaches/fake-employees-pose-real-security-risks)
-- [How Warlock Ransomware Targets Vulnerable SharePoint Servers](https://www.darkreading.com/vulnerabilities-threats/warlock-ransomware-targets-vulnerable-sharepoint-servers)
+- [Critical SAP Vulns Under Exploitation in &#39;One-Two Punch&#39; Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-sap-vulns-under-exploitation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
