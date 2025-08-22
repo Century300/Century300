@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Do Claude Code Security Reviews Pass the Vibe Check?](https://www.darkreading.com/application-security/do-claude-code-security-reviews-pass-vibe-check)
+- [Personal Liability, Security Becomes Bigger Issues for CISOs](https://www.darkreading.com/cybersecurity-operations/personal-liability-security-becomes-bigger-issues-cisos)
 - [System Shocks? EV Smart Charging Tech Poses Cyber-Risks](https://www.darkreading.com/iot/ev-smart-charging-cyber-risks)
 - [Scattered Spider Member Sentenced to a Decade in Prison](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-member-prison)
 - [Easy ChatGPT Downgrade Attack Undermines GPT-5 Security](https://www.darkreading.com/application-security/chatgpt-downgrade-attack-gpt-5-security)
 - [Why Video Game Anti-Cheat Systems Are a Cybersecurity Goldmine](https://www.darkreading.com/cyberattacks-data-breaches/video-game-anti-cheat-systems-cybersecurity-goldmine)
 - [How Architectural Controls Help Can Fill the AI Security Gap](https://www.darkreading.com/cybersecurity-operations/architectural-controls-ai-security-gap)
 - [Hackers Abuse VPS Infrastructure for Stealth, Speed](https://www.darkreading.com/application-security/hackers-abuse-vps-infrastructure-stealth-speed)
-- [K-12 School Incident Response Plans Fall Short](https://www.darkreading.com/endpoint-security/without-preparedness-k-12-school-incident-plans-fall-short)
-- [Tree of AST: A Bug-Hunting Framework Powered by LLMs](https://www.darkreading.com/vulnerabilities-threats/tree-ast-bug-hunting-framework-llms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
