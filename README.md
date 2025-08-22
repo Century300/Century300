@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Interpol Arrests Over 1K Cybercriminals in &#39;Operation Serengeti 2.0&#39;](https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-serengeti-2-0)
 - [Apple Patches Zero-Day Flaw Used in &#39;Sophisticated&#39; Attack](https://www.darkreading.com/vulnerabilities-threats/apple-zero-day-flaw-sophisticated-attack)
 - [The Growing Challenge of AI Agent and NHI Management](https://www.darkreading.com/cybersecurity-operations/growing-challenge-ai-agent-nhi-management)
 - [Insurers May Limit Payments in Cases of Unpatched CVEs](https://www.darkreading.com/cyber-risk/cyber-insurers-may-limit-payments-breaches-unpatched-cve)
@@ -83,7 +84,6 @@
 - [Personal Liability, Security Becomes Bigger Issues for CISOs](https://www.darkreading.com/cybersecurity-operations/personal-liability-security-becomes-bigger-issues-cisos)
 - [System Shocks? EV Smart Charging Tech Poses Cyber-Risks](https://www.darkreading.com/iot/ev-smart-charging-cyber-risks)
 - [Scattered Spider Member Sentenced to a Decade in Prison](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-member-prison)
-- [Easy ChatGPT Downgrade Attack Undermines GPT-5 Security](https://www.darkreading.com/application-security/chatgpt-downgrade-attack-gpt-5-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
