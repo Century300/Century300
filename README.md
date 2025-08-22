@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Apple Patches Zero-Day Flaw Used in &#39;Sophisticated&#39; Attack](https://www.darkreading.com/vulnerabilities-threats/apple-zero-day-flaw-sophisticated-attack)
+- [The Growing Challenge of AI Agent and NHI Management](https://www.darkreading.com/cybersecurity-operations/growing-challenge-ai-agent-nhi-management)
 - [Insurers May Limit Payments in Cases of Unpatched CVEs](https://www.darkreading.com/cyber-risk/cyber-insurers-may-limit-payments-breaches-unpatched-cve)
 - [Do Claude Code Security Reviews Pass the Vibe Check?](https://www.darkreading.com/application-security/do-claude-code-security-reviews-pass-vibe-check)
 - [Personal Liability, Security Becomes Bigger Issues for CISOs](https://www.darkreading.com/cybersecurity-operations/personal-liability-security-becomes-bigger-issues-cisos)
 - [System Shocks? EV Smart Charging Tech Poses Cyber-Risks](https://www.darkreading.com/iot/ev-smart-charging-cyber-risks)
 - [Scattered Spider Member Sentenced to a Decade in Prison](https://www.darkreading.com/cyberattacks-data-breaches/scattered-spider-member-prison)
 - [Easy ChatGPT Downgrade Attack Undermines GPT-5 Security](https://www.darkreading.com/application-security/chatgpt-downgrade-attack-gpt-5-security)
-- [Why Video Game Anti-Cheat Systems Are a Cybersecurity Goldmine](https://www.darkreading.com/cyberattacks-data-breaches/video-game-anti-cheat-systems-cybersecurity-goldmine)
-- [How Architectural Controls Help Can Fill the AI Security Gap](https://www.darkreading.com/cybersecurity-operations/architectural-controls-ai-security-gap)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
