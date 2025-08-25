@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fast-Spreading, Complex Phishing Campaign Installs RATs](https://www.darkreading.com/cyberattacks-data-breaches/fast-spreading-phishing-installs-rats)
 - [Securing the Cloud in an Age of Escalating Cyber Threats](https://www.darkreading.com/cyberattacks-data-breaches/securing-cloud-age-escalating-cyber-threats)
 - [Silk Typhoon Attacks North American Orgs in the Cloud](https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud)
 - [ReVault Flaw Exposed Millions of Dell Laptops to Malicious Domination](https://www.darkreading.com/endpoint-security/revault-compromised-secure-soc)
@@ -83,7 +84,6 @@
 - [Interpol Arrests Over 1K Cybercriminals in &#39;Operation Serengeti 2.0&#39;](https://www.darkreading.com/cyberattacks-data-breaches/interpol-operation-serengeti-2-0)
 - [Apple Patches Zero-Day Flaw Used in &#39;Sophisticated&#39; Attack](https://www.darkreading.com/vulnerabilities-threats/apple-zero-day-flaw-sophisticated-attack)
 - [The Growing Challenge of AI Agent and NHI Management](https://www.darkreading.com/cybersecurity-operations/growing-challenge-ai-agent-nhi-management)
-- [Insurers May Limit Payments in Cases of Unpatched CVEs](https://www.darkreading.com/cyber-risk/cyber-insurers-may-limit-payments-breaches-unpatched-cve)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
