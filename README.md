@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Hidden Risk of Consumer Devices in the Hybrid Workforce](https://www.darkreading.com/cyberattacks-data-breaches/hidden-risk-consumer-devices-hybrid-workforce)
 - [Hackers Lay in Wait, Then Knocked Out Iran Ship Comms](https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms)
 - [FTC Chair Tells Tech Giants to Hold the Line on Encryption](https://www.darkreading.com/cybersecurity-operations/ftc-chair-tech-giants-encryption)
 - [ClickFix Attack Tricks AI Summaries Into Pushing Malware](https://www.darkreading.com/vulnerabilities-threats/clickfix-attack-ai-summaries-pushing-malware)
@@ -83,7 +84,6 @@
 - [Securing the Cloud in an Age of Escalating Cyber Threats](https://www.darkreading.com/cyberattacks-data-breaches/securing-cloud-age-escalating-cyber-threats)
 - [Silk Typhoon Attacks North American Orgs in the Cloud](https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud)
 - [ReVault Flaw Exposed Millions of Dell Laptops to Malicious Domination](https://www.darkreading.com/endpoint-security/revault-compromised-secure-soc)
-- [Apple Intelligence Is Picking Up More User Data Than Expected, Researcher Finds](https://www.darkreading.com/endpoint-security/apple-intelligence-more-data-than-expected-researchers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
