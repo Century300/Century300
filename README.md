@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Citrix Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
+- [Malicious Scanning Waves Slam Remote Desktop Services](https://www.darkreading.com/cyber-risk/malicious-scanning-remote-desktop-services)
+- [Data I/O Becomes Latest Ransomware Attack Victim](https://www.darkreading.com/cyberattacks-data-breaches/data-io-ransomware-attack)
 - [Hook Android Trojan Now Delivers Ransomware-Style Attacks](https://www.darkreading.com/endpoint-security/hook-android-trojan-ransomware-attacks)
 - [The Hidden Risk of Consumer Devices in the Hybrid Workforce](https://www.darkreading.com/cyberattacks-data-breaches/hidden-risk-consumer-devices-hybrid-workforce)
 - [Hackers Lay in Wait, Then Knocked Out Iran Ship Comms](https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms)
 - [FTC Chair Tells Tech Giants to Hold the Line on Encryption](https://www.darkreading.com/cybersecurity-operations/ftc-chair-tech-giants-encryption)
 - [ClickFix Attack Tricks AI Summaries Into Pushing Malware](https://www.darkreading.com/vulnerabilities-threats/clickfix-attack-ai-summaries-pushing-malware)
-- [Fast-Spreading, Complex Phishing Campaign Installs RATs](https://www.darkreading.com/cyberattacks-data-breaches/fast-spreading-phishing-installs-rats)
-- [Securing the Cloud in an Age of Escalating Cyber Threats](https://www.darkreading.com/cyberattacks-data-breaches/securing-cloud-age-escalating-cyber-threats)
-- [Silk Typhoon Attacks North American Orgs in the Cloud](https://www.darkreading.com/cloud-security/silk-typhoon-north-american-orgs-cloud)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
