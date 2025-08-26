@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [1M Farmers Insurance Customer Data Compromised](https://www.darkreading.com/cyberattacks-data-breaches/farmers-insurance-data-compromised)
+- [1M Farmers Insurance Customers&#39; Data Compromised](https://www.darkreading.com/cyberattacks-data-breaches/farmers-insurance-data-compromised)
 - [Citrix Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
 - [Malicious Scanning Waves Slam Remote Desktop Services](https://www.darkreading.com/cyber-risk/malicious-scanning-remote-desktop-services)
 - [Data I/O Becomes Latest Ransomware Attack Victim](https://www.darkreading.com/cyberattacks-data-breaches/data-io-ransomware-attack)
