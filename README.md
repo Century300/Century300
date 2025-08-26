@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [1M Farmers Insurance Customers&#39; Data Compromised](https://www.darkreading.com/cyberattacks-data-breaches/farmers-insurance-data-compromised)
-- [Citrix Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
+- [Citrix Gear Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
 - [Malicious Scanning Waves Slam Remote Desktop Services](https://www.darkreading.com/cyber-risk/malicious-scanning-remote-desktop-services)
 - [Data I/O Becomes Latest Ransomware Attack Victim](https://www.darkreading.com/cyberattacks-data-breaches/data-io-ransomware-attack)
 - [Hook Android Trojan Now Delivers Ransomware-Style Attacks](https://www.darkreading.com/endpoint-security/hook-android-trojan-ransomware-attacks)
