@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China Hijacks Captive Portals to Spy on Asian Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats)
+- [Google: Salesforce Attacks Stemmed From Third-Party App](https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app)
 - [Storm-0501 Hits Enterprise With &#39;Cloud-Based Ransomware&#39; Attack](https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack)
 - [AI-Powered Ransomware Has Arrived With &#39;PromptLock&#39;](https://www.darkreading.com/vulnerabilities-threats/ai-powered-ransomware-promptlock)
 - [African Law Enforcement Agencies Nab Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-agencies-nab-cybercrime-syndicates)
 - [When One Hospital Gets Ransomware, Others Feel the Pain](https://www.darkreading.com/cybersecurity-operations/hospital-gets-ransomware-others-feel-pain)
 - [1M Farmers Insurance Customers&#39; Data Compromised](https://www.darkreading.com/cyberattacks-data-breaches/farmers-insurance-data-compromised)
 - [Philippines Power Election Security With Zero-Knowledge Proofs](https://www.darkreading.com/identity-access-management-security/philippines-rely-on-zero-knowledge-proofs-for-election-security)
-- [Citrix Gear Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
-- [Malicious Scanning Waves Slam Remote Desktop Services](https://www.darkreading.com/cyber-risk/malicious-scanning-remote-desktop-services)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
