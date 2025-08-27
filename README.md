@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Anthropic AI Used to Automate Data Extortion Campaign](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign)
 - [&#39;ZipLine&#39; Phishers Flip Script as Victims Email First](https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first)
 - [Nevada&#39;s State Agencies Shutter in Wake of Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack)
 - [China Hijacks Captive Portals to Spy on Asian Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats)
@@ -83,7 +84,6 @@
 - [Storm-0501 Hits Enterprise With &#39;Cloud-Based Ransomware&#39; Attack](https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack)
 - [AI-Powered Ransomware Has Arrived With &#39;PromptLock&#39;](https://www.darkreading.com/vulnerabilities-threats/ai-powered-ransomware-promptlock)
 - [African Law Enforcement Agencies Nab Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-agencies-nab-cybercrime-syndicates)
-- [When One Hospital Gets Ransomware, Others Feel the Pain](https://www.darkreading.com/cybersecurity-operations/hospital-gets-ransomware-others-feel-pain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
