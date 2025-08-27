@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [African Law Enforcement Agencies Nab Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/african-law-enforcement-agencies-nab-cybercrime-syndicates)
+- [When One Hospital Gets Ransomware, Others Feel the Pain](https://www.darkreading.com/cybersecurity-operations/hospital-gets-ransomware-others-feel-pain)
 - [1M Farmers Insurance Customers&#39; Data Compromised](https://www.darkreading.com/cyberattacks-data-breaches/farmers-insurance-data-compromised)
 - [Citrix Gear Under Active Attack Again With Another Zero-Day](https://www.darkreading.com/vulnerabilities-threats/citrix-zero-day-under-active-attack)
 - [Malicious Scanning Waves Slam Remote Desktop Services](https://www.darkreading.com/cyber-risk/malicious-scanning-remote-desktop-services)
 - [Data I/O Becomes Latest Ransomware Attack Victim](https://www.darkreading.com/cyberattacks-data-breaches/data-io-ransomware-attack)
 - [Hook Android Trojan Now Delivers Ransomware-Style Attacks](https://www.darkreading.com/endpoint-security/hook-android-trojan-ransomware-attacks)
 - [The Hidden Risk of Consumer Devices in the Hybrid Workforce](https://www.darkreading.com/cyberattacks-data-breaches/hidden-risk-consumer-devices-hybrid-workforce)
-- [Hackers Lay in Wait, Then Knocked Out Iran Ship Comms](https://www.darkreading.com/cyber-risk/hackers-knocked-out-iran-ship-comms)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
