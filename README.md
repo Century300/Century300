@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading Confidential: A Guided Tour of Today&#39;s Dark Web](https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web)
 - [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
 - [CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem)
 - [Anthropic AI Used to Automate Data Extortion Campaign](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign)
@@ -83,7 +84,6 @@
 - [Nevada&#39;s State Agencies Shutter in Wake of Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/nevada-state-agencies-cyberattack)
 - [China Hijacks Captive Portals to Spy on Asian Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats)
 - [Google: Salesforce Attacks Stemmed From Third-Party App](https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app)
-- [Storm-0501 Hits Enterprise With &#39;Cloud-Based Ransomware&#39; Attack](https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
