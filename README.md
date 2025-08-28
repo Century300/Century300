@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
 - [CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem)
 - [Anthropic AI Used to Automate Data Extortion Campaign](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign)
 - [&#39;ZipLine&#39; Phishers Flip Script as Victims Email First](https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first)
@@ -83,7 +84,6 @@
 - [China Hijacks Captive Portals to Spy on Asian Diplomats](https://www.darkreading.com/cyberattacks-data-breaches/china-hijacks-captive-portals-spy-asian-diplomats)
 - [Google: Salesforce Attacks Stemmed From Third-Party App](https://www.darkreading.com/cyberattacks-data-breaches/google-salesforce-attacks-third-party-app)
 - [Storm-0501 Hits Enterprise With &#39;Cloud-Based Ransomware&#39; Attack](https://www.darkreading.com/cloud-security/storm-0501-cloud-based-ransomware-attack)
-- [AI-Powered Ransomware Has Arrived With &#39;PromptLock&#39;](https://www.darkreading.com/vulnerabilities-threats/ai-powered-ransomware-promptlock)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
