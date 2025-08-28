@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISA, FBI, NSA Warn of Chinese &#39;Global Espionage System&#39;](https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system)
 - [Hackers Steal 4M+ TransUnion Customers&#39; Data](https://www.darkreading.com/cyberattacks-data-breaches/hackers-transunion-customer-data)
 - [Akira, Cl0p Top List of 5 Most Active Ransomware-as-a-Service Groups](https://www.darkreading.com/threat-intelligence/akira-clop-top-5-most-active-ransomware-groups-list)
 - [1,000+ Devs Lose Their Secrets to an AI-Powered Stealer](https://www.darkreading.com/cyberattacks-data-breaches/1000-devs-lose-secrets-ai-powered-stealer)
@@ -83,7 +84,6 @@
 - [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
 - [CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem)
 - [Anthropic AI Used to Automate Data Extortion Campaign](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign)
-- [&#39;ZipLine&#39; Phishers Flip Script as Victims Email First](https://www.darkreading.com/cyberattacks-data-breaches/zipline-phishers-victims-email-first)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
