@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [An Audit Isn&#39;t a Speed Bump — It&#39;s Your Cloud Co-Pilot](https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot)
 - [Proof-of-Concept in 15 Minutes? AI Turbocharges Exploitation](https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation)
 - [CISA, FBI, NSA Warn of Chinese &#39;Global Espionage System&#39;](https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system)
 - [Hackers Steal 4M+ TransUnion Customers&#39; Data](https://www.darkreading.com/cyberattacks-data-breaches/hackers-transunion-customer-data)
@@ -83,7 +84,6 @@
 - [1,000+ Devs Lose Their Secrets to an AI-Powered Stealer](https://www.darkreading.com/cyberattacks-data-breaches/1000-devs-lose-secrets-ai-powered-stealer)
 - [Dark Reading Confidential: A Guided Tour of Today&#39;s Dark Web](https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web)
 - [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
-- [CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
