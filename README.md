@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Proof-of-Concept in 15 Minutes? AI Turbocharges Exploitation](https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation)
 - [CISA, FBI, NSA Warn of Chinese &#39;Global Espionage System&#39;](https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system)
 - [Hackers Steal 4M+ TransUnion Customers&#39; Data](https://www.darkreading.com/cyberattacks-data-breaches/hackers-transunion-customer-data)
 - [Akira, Cl0p Top List of 5 Most Active Ransomware-as-a-Service Groups](https://www.darkreading.com/threat-intelligence/akira-clop-top-5-most-active-ransomware-groups-list)
@@ -83,7 +84,6 @@
 - [Dark Reading Confidential: A Guided Tour of Today&#39;s Dark Web](https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web)
 - [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
 - [CrowdStrike to Acquire Onum, Boost Falcon Next-Gen SIEM](https://www.darkreading.com/cybersecurity-analytics/crowdstrike-acquire-onum-boost-falcon-next-gen-siem)
-- [Anthropic AI Used to Automate Data Extortion Campaign](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-ai-automate-data-extortion-campaign)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
