@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [NIST Enhances Security Controls for Improved Patching](https://www.darkreading.com/cybersecurity-operations/nist-enhances-security-controls-for-improved-patching)
 - [An Audit Isn&#39;t a Speed Bump — It&#39;s Your Cloud Co-Pilot](https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot)
 - [Proof-of-Concept in 15 Minutes? AI Turbocharges Exploitation](https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation)
 - [CISA, FBI, NSA Warn of Chinese &#39;Global Espionage System&#39;](https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system)
@@ -83,7 +84,6 @@
 - [Akira, Cl0p Top List of 5 Most Active Ransomware-as-a-Service Groups](https://www.darkreading.com/threat-intelligence/akira-clop-top-5-most-active-ransomware-groups-list)
 - [1,000+ Devs Lose Their Secrets to an AI-Powered Stealer](https://www.darkreading.com/cyberattacks-data-breaches/1000-devs-lose-secrets-ai-powered-stealer)
 - [Dark Reading Confidential: A Guided Tour of Today&#39;s Dark Web](https://www.darkreading.com/cyber-risk/dark-reading-confidential-guided-tour-dark-web)
-- [CISA&#39;s New SBOM Guidelines Get Mixed Reviews](https://www.darkreading.com/application-security/cisas-new-sbom-guidelines-mixed-reviews)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
