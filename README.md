@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
+- [WordPress Woes Continue Amid ClickFix Attacks, TDS Threats](https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats)
 - [Zscaler, Palo Alto Networks Breached via Salesloft Drift](https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift)
 - [Jaguar Land Rover Shuts Down in Scramble to Secure &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyber-incident)
 - [Hackers Are Sophisticated &amp;amp; Impatient — That Can Be Good](https://www.darkreading.com/cyberattacks-data-breaches/hackers-sophisticated-impatient-good)
 - [NIST Enhances Security Controls for Improved Patching](https://www.darkreading.com/cybersecurity-operations/nist-enhances-security-controls-for-improved-patching)
 - [JSON Config File Leaks Azure ActiveDirectory Credentials](https://www.darkreading.com/cybersecurity-operations/public-file-leaks-azure-activedirectory-credentials)
 - [An Audit Isn&#39;t a Speed Bump — It&#39;s Your Cloud Co-Pilot](https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot)
-- [Proof-of-Concept in 15 Minutes? AI Turbocharges Exploitation](https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation)
-- [CISA, FBI, NSA Warn of Chinese &#39;Global Espionage System&#39;](https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
