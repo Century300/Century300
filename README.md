@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia&#39;s APT28 Targets Microsoft Outlook With &#39;NotDoor&#39; Malware](https://www.darkreading.com/endpoint-security/apt28-outlook-notdoor-backdoor)
 - [Hacked Routers Linger on the Internet for Years, Data Shows](https://www.darkreading.com/endpoint-security/hacked-routers-linger-on-the-internet-for-years-data-shows)
 - [WhatsApp Bug Anchors Targeted Zero-Click iPhone Attacks](https://www.darkreading.com/cyberattacks-data-breaches/whatsapp-bug-zero-click-iphone-attacks)
 - [Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses](https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses)
@@ -83,7 +84,6 @@
 - [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
 - [WordPress Woes Continue Amid ClickFix Attacks, TDS Threats](https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats)
 - [Zscaler, Palo Alto Networks Breached via Salesloft Drift](https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift)
-- [Jaguar Land Rover Shuts Down in Scramble to Secure &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyber-incident)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
