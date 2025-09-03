@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UAE to Implement Cyber Education Initiative](https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative)
 - [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
 - [WordPress Woes Continue Amid ClickFix Attacks, TDS Threats](https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats)
 - [Zscaler, Palo Alto Networks Breached via Salesloft Drift](https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift)
@@ -83,7 +84,6 @@
 - [Hackers Are Sophisticated &amp;amp; Impatient — That Can Be Good](https://www.darkreading.com/cyberattacks-data-breaches/hackers-sophisticated-impatient-good)
 - [NIST Enhances Security Controls for Improved Patching](https://www.darkreading.com/cybersecurity-operations/nist-enhances-security-controls-for-improved-patching)
 - [JSON Config File Leaks Azure ActiveDirectory Credentials](https://www.darkreading.com/cybersecurity-operations/public-file-leaks-azure-activedirectory-credentials)
-- [An Audit Isn&#39;t a Speed Bump — It&#39;s Your Cloud Co-Pilot](https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
