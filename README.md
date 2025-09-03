@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Russia&#39;s APT28 Targets Microsoft Outlook With &#39;NotDoor&#39; Malware](https://www.darkreading.com/endpoint-security/apt28-outlook-notdoor-backdoor)
+- [Cloudflare Holds Back the Tide on 11.5Tbps DDoS Attack](https://www.darkreading.com/cyberattacks-data-breaches/cloudflare-ddos-attacks-new-heights)
 - [Hacked Routers Linger on the Internet for Years, Data Shows](https://www.darkreading.com/endpoint-security/hacked-routers-linger-on-the-internet-for-years-data-shows)
 - [WhatsApp Bug Anchors Targeted Zero-Click iPhone Attacks](https://www.darkreading.com/cyberattacks-data-breaches/whatsapp-bug-zero-click-iphone-attacks)
 - [Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses](https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses)
 - [UAE to Implement Cyber Education Initiative](https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative)
 - [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
 - [WordPress Woes Continue Amid ClickFix Attacks, TDS Threats](https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats)
-- [Zscaler, Palo Alto Networks Breached via Salesloft Drift](https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
