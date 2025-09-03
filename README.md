@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [WhatsApp Bug Anchors Targeted Zero-Click iPhone Attacks](https://www.darkreading.com/cyberattacks-data-breaches/whatsapp-bug-zero-click-iphone-attacks)
 - [Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses](https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses)
 - [UAE to Implement Cyber Education Initiative](https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative)
 - [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
@@ -83,7 +84,6 @@
 - [Zscaler, Palo Alto Networks Breached via Salesloft Drift](https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift)
 - [Jaguar Land Rover Shuts Down in Scramble to Secure &#39;Cyber Incident&#39;](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyber-incident)
 - [Hackers Are Sophisticated &amp;amp; Impatient — That Can Be Good](https://www.darkreading.com/cyberattacks-data-breaches/hackers-sophisticated-impatient-good)
-- [NIST Enhances Security Controls for Improved Patching](https://www.darkreading.com/cybersecurity-operations/nist-enhances-security-controls-for-improved-patching)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
