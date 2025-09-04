@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Japan, South Korea Take Aim at North Korean IT Worker Scam](https://www.darkreading.com/cybersecurity-operations/japan-south-korea-north-korean-it-worker-scam)
 - [Russia&#39;s APT28 Targets Microsoft Outlook With &#39;NotDoor&#39; Malware](https://www.darkreading.com/endpoint-security/apt28-outlook-notdoor-backdoor)
 - [Cloudflare Holds Back the Tide on 11.5Tbps DDoS Attack](https://www.darkreading.com/cyberattacks-data-breaches/cloudflare-ddos-attacks-new-heights)
 - [Hacked Routers Linger on the Internet for Years, Data Shows](https://www.darkreading.com/endpoint-security/hacked-routers-linger-on-the-internet-for-years-data-shows)
@@ -83,7 +84,6 @@
 - [Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses](https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses)
 - [UAE to Implement Cyber Education Initiative](https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative)
 - [Amazon Stymies APT29 Credential Theft Campaign](https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign)
-- [WordPress Woes Continue Amid ClickFix Attacks, TDS Threats](https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
