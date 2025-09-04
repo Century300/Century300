@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sitecore Zero-Day Sparks New Round of ViewState Threats](https://www.darkreading.com/vulnerabilities-threats/sitecore-zero-day-viewstate-threats)
+- [Bridgestone Americas Confirms Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/bridgestone-americas-cyberattack)
+- [Chinese Hackers Game Google to Boost Gambling Sites](https://www.darkreading.com/cyber-risk/chinese-hackers-google-boost-gambling-sites)
+- [ISC2 Aims to Bridge DFIR Skill Gap with New Certificate](https://www.darkreading.com/cybersecurity-careers/isc2-aims-to-bridge-dfir-skill-gap-with-new-certificate)
 - [Phishing Empire Runs Undetected on Google, Cloudflare](https://www.darkreading.com/cloud-security/phishing-empire-undetected-google-cloudflare)
 - [Czech Warning Highlights China Stealing User Data](https://www.darkreading.com/cybersecurity-operations/czech-warning-highlights-china-stealing-user-data)
 - [Blast Radius of Salesloft Drift Attacks Remains Uncertain](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-drift-attacks-blast-radius-uncertain)
 - [Why Threat Hunting Should Be Part of Every Security Program](https://www.darkreading.com/threat-intelligence/threat-hunting-part-every-security-program)
-- [How Gray-Zone Hosting Companies Protect Data the US Wants Erased](https://www.darkreading.com/cloud-security/how-gray-zone-hosting-companies-protect-data-us-wants-erased)
-- [Iran MOIS Phishes 50+ Embassies, Ministries, Int&#39;l Orgs](https://www.darkreading.com/cyberattacks-data-breaches/iran-mois-50-embassies-ministries-intl-orgs)
-- [Japan, South Korea Take Aim at North Korean IT Worker Scam](https://www.darkreading.com/cybersecurity-operations/japan-south-korea-north-korean-it-worker-scam)
-- [Hybrid Clouds Provide a Practical Approach to Post-Quantum Migration](https://www.darkreading.com/cybersecurity-operations/a-practical-approach-for-post-quantum-migration-with-hybrid-clouds)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
