@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Why Threat Hunting Should Be Part of Every Security Program](https://www.darkreading.com/threat-intelligence/threat-hunting-part-every-security-program)
+- [How Gray-Zone Hosting Companies Protect Data the US Wants Erased](https://www.darkreading.com/cloud-security/how-gray-zone-hosting-companies-protect-data-us-wants-erased)
 - [Iran MOIS Phishes 50+ Embassies, Ministries, Int&#39;l Orgs](https://www.darkreading.com/cyberattacks-data-breaches/iran-mois-50-embassies-ministries-intl-orgs)
 - [Japan, South Korea Take Aim at North Korean IT Worker Scam](https://www.darkreading.com/cybersecurity-operations/japan-south-korea-north-korean-it-worker-scam)
-- [A Practical Approach for Post-Quantum Migration With Hybrid Clouds](https://www.darkreading.com/cybersecurity-operations/a-practical-approach-for-post-quantum-migration-with-hybrid-clouds)
+- [Hybrid Cloud Provide a Practical Approach to Post-Quantum Migration](https://www.darkreading.com/cybersecurity-operations/a-practical-approach-for-post-quantum-migration-with-hybrid-clouds)
 - [Russia&#39;s APT28 Targets Microsoft Outlook With &#39;NotDoor&#39; Malware](https://www.darkreading.com/endpoint-security/apt28-outlook-notdoor-backdoor)
 - [Cloudflare Holds Back the Tide on 11.5Tbps DDoS Attack](https://www.darkreading.com/cyberattacks-data-breaches/cloudflare-ddos-attacks-new-heights)
 - [Hacked Routers Linger on the Internet for Years, Data Shows](https://www.darkreading.com/endpoint-security/hacked-routers-linger-on-the-internet-for-years-data-shows)
-- [WhatsApp Bug Anchors Targeted Zero-Click iPhone Attacks](https://www.darkreading.com/cyberattacks-data-breaches/whatsapp-bug-zero-click-iphone-attacks)
-- [Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses](https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
