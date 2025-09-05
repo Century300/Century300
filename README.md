@@ -83,7 +83,7 @@
 - [Phishing Empire Runs Undetected on Google, Cloudflare](https://www.darkreading.com/cloud-security/phishing-empire-undetected-google-cloudflare)
 - [Czech Warning Highlights China Stealing User Data](https://www.darkreading.com/cybersecurity-operations/czech-warning-highlights-china-stealing-user-data)
 - [Blast Radius of Salesloft Drift Attacks Remains Uncertain](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-drift-attacks-blast-radius-uncertain)
-- [Why Threat Hunting Should Be Part of Every Security Program](https://www.darkreading.com/threat-intelligence/threat-hunting-part-every-security-program)
+- [UltraViolet Expands AppSec Capabilities With Black Duck&#39;s Testing Business](https://www.darkreading.com/application-security/ultraviolet-expands-appsec-capabilities-black-duck-testing-business)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
