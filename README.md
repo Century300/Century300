@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Embracing the Next Generation of Cybersecurity Talent](https://www.darkreading.com/cybersecurity-operations/embracing-next-generation-cybersecurity-talent)
 - [Federal Cuts Put Local, State Agencies at Cyber-Risk](https://www.darkreading.com/cyber-risk/federal-cuts-local-state-agencies-risk)
 - [Sitecore Zero-Day Sparks New Round of ViewState Threats](https://www.darkreading.com/vulnerabilities-threats/sitecore-zero-day-viewstate-threats)
 - [Bridgestone Americas Confirms Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/bridgestone-americas-cyberattack)
@@ -83,7 +84,6 @@
 - [ISC2 Aims to Bridge DFIR Skill Gap with New Certificate](https://www.darkreading.com/cybersecurity-careers/isc2-aims-to-bridge-dfir-skill-gap-with-new-certificate)
 - [Phishing Empire Runs Undetected on Google, Cloudflare](https://www.darkreading.com/cloud-security/phishing-empire-undetected-google-cloudflare)
 - [Czech Warning Highlights China Stealing User Data](https://www.darkreading.com/cybersecurity-operations/czech-warning-highlights-china-stealing-user-data)
-- [Blast Radius of Salesloft Drift Attacks Remains Uncertain](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-drift-attacks-blast-radius-uncertain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
