@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;MostereRAT&#39; Malware Blends In, Blocks Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools)
+- [Salesloft Breached via GitHub Account Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise)
 - [The Critical Failure in Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/the-critical-failure-in-vulnerability-management)
 - [45 New Domains Linked to Salt Typhoon, UNC4841](https://www.darkreading.com/threat-intelligence/new-domains-salt-typhoon-unc4841)
 - [How Has IoT Security Changed Over the Past 5 Years?](https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-)
 - [Critical SAP S/4HANA Vulnerability Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack)
 - [Anyone Using Agentic AI Needs to Understand Toxic Flows](https://www.darkreading.com/cyber-risk/anyone-using-agentic-ai-needs-understand-toxic-flows)
 - [Secretive MaaS Group &#39;TAG-150&#39; Develops Novel &#39;CastleRAT&#39;](https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat)
-- [Scammers Are Using Grok to Spread Malicious Links on X](https://www.darkreading.com/threat-intelligence/scammers-grok-malicious-links-x)
-- [Embracing the Next Generation of Cybersecurity Talent](https://www.darkreading.com/cybersecurity-operations/embracing-next-generation-cybersecurity-talent)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
