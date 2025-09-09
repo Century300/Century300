@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [EoP Flaws Again Lead Microsoft Patch Day](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
 - [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
 - [Huge NPM Supply-Chain Attack Goes Out With Whimper](https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper)
@@ -83,7 +84,6 @@
 - [SentinelOne Announces Plans to Acquire Observo AI](https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai)
 - [&#39;MostereRAT&#39; Malware Blends In, Blocks Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools)
 - [Salesloft Breached via GitHub Account Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise)
-- [The Critical Failure in Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/the-critical-failure-in-vulnerability-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
