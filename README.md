@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
+- [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
+- [Huge NPM Supply-Chain Attack Goes Out With Whimper](https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper)
 - [Salty2FA Takes Phishing Kits to Enterprise Level](https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level)
 - [SentinelOne Announces Plans to Acquire Observo AI](https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai)
 - [&#39;MostereRAT&#39; Malware Blends In, Blocks Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools)
 - [Salesloft Breached via GitHub Account Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise)
 - [The Critical Failure in Vulnerability Management](https://www.darkreading.com/vulnerabilities-threats/the-critical-failure-in-vulnerability-management)
-- [45 New Domains Linked to Salt Typhoon, UNC4841](https://www.darkreading.com/threat-intelligence/new-domains-salt-typhoon-unc4841)
-- [How Has IoT Security Changed Over the Past 5 Years?](https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-)
-- [Critical SAP S/4HANA Vulnerability Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
