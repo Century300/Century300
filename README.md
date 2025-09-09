@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Salty2FA Takes Phishing Kits to Enterprise Level](https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level)
 - [SentinelOne Announces Plans to Acquire Observo AI](https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai)
 - [&#39;MostereRAT&#39; Malware Blends In, Blocks Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools)
 - [Salesloft Breached via GitHub Account Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise)
@@ -83,7 +84,6 @@
 - [45 New Domains Linked to Salt Typhoon, UNC4841](https://www.darkreading.com/threat-intelligence/new-domains-salt-typhoon-unc4841)
 - [How Has IoT Security Changed Over the Past 5 Years?](https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-)
 - [Critical SAP S/4HANA Vulnerability Under Attack, Patch Now](https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack)
-- [Anyone Using Agentic AI Needs to Understand Toxic Flows](https://www.darkreading.com/cyber-risk/anyone-using-agentic-ai-needs-understand-toxic-flows)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
