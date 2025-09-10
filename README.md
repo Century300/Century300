@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
 - [Dormant macOS Backdoor ChillyHell Resurfaces](https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces)
 - [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
@@ -83,7 +84,6 @@
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
 - [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
 - [Huge NPM Supply Chain Attack Goes Out With Whimper](https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper)
-- [Salty2FA Takes Phishing Kits to Enterprise Level](https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
