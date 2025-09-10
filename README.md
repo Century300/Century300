@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
 - [EoP Flaws Again Lead Microsoft Patch Day](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
 - [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
@@ -83,7 +84,6 @@
 - [Salty2FA Takes Phishing Kits to Enterprise Level](https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level)
 - [SentinelOne Announces Plans to Acquire Observo AI](https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai)
 - [&#39;MostereRAT&#39; Malware Blends In, Blocks Security Tools](https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools)
-- [Salesloft Breached via GitHub Account Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
