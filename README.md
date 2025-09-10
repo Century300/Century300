@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
+- [Dormant macOS Backdoor ChillyHell Resurfaces](https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces)
 - [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
-- [EoP Flaws Again Lead Microsoft Patch Day](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
+- [EoP Flaws Again Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
 - [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
 - [Huge NPM Supply Chain Attack Goes Out With Whimper](https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper)
 - [Salty2FA Takes Phishing Kits to Enterprise Level](https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level)
-- [SentinelOne Announces Plans to Acquire Observo AI](https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
