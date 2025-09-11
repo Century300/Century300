@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Gentlemen&#39; Ransomware Abuses Vulnerable Driver to Kill Security Gear](https://www.darkreading.com/vulnerabilities-threats/gentlemen-ransomware-vulnerable-driver-security-gear)
 - [Apple CarPlay RCE Exploit Left Unaddressed in Most Cars](https://www.darkreading.com/vulnerabilities-threats/apple-carplay-rce-exploit)
 - [AI-Enhanced Malware Sports Super-Stealthy Tactics](https://www.darkreading.com/cyberattacks-data-breaches/ai-backed-malware-hits-companies-worldwide)
 - [Vidar Infostealer Back With a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
@@ -83,7 +84,6 @@
 - [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
 - [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
 - [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
-- [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
