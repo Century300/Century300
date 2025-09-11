@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vidar Infostealer Back with a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
 - [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
 - [&#39;K2 Think&#39; AI Model Jailbroken Mere Hours After Release](https://www.darkreading.com/application-security/k2-think-llm-jailbroken)
 - [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
@@ -83,7 +84,6 @@
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
 - [Dormant macOS Backdoor ChillyHell Resurfaces](https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces)
 - [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
-- [EoP Flaws Again Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
