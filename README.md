@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Vidar Infostealer Back with a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
-- [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
+- [Apple CarPlay RCE Exploit Left Unaddressed in Most Cars](https://www.darkreading.com/vulnerabilities-threats/apple-carplay-rce-exploit)
+- [AI-Enhanced Malware Sports Super-Stealthy Tactics](https://www.darkreading.com/cyberattacks-data-breaches/ai-backed-malware-hits-companies-worldwide)
+- [Vidar Infostealer Back With a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
 - [&#39;K2 Think&#39; AI Model Jailbroken Mere Hours After Release](https://www.darkreading.com/application-security/k2-think-llm-jailbroken)
+- [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
 - [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
 - [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
-- [Dormant macOS Backdoor ChillyHell Resurfaces](https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces)
-- [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
