@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vyro AI Leak Reveals Poor Cyber Hygiene](https://www.darkreading.com/cyberattacks-data-breaches/vyro-ai-leak-cyber-hygiene)
 - [&#39;Gentlemen&#39; Ransomware Abuses Vulnerable Driver to Kill Security Gear](https://www.darkreading.com/vulnerabilities-threats/gentlemen-ransomware-vulnerable-driver-security-gear)
 - [Apple CarPlay RCE Exploit Left Unaddressed in Most Cars](https://www.darkreading.com/vulnerabilities-threats/apple-carplay-rce-exploit)
 - [AI-Enhanced Malware Sports Super-Stealthy Tactics](https://www.darkreading.com/cyberattacks-data-breaches/ai-backed-malware-hits-companies-worldwide)
 - [Vidar Infostealer Back With a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
 - [&#39;K2 Think&#39; AI Model Jailbroken Mere Hours After Release](https://www.darkreading.com/application-security/k2-think-llm-jailbroken)
-- [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
+- [Cyberattack on Kazakhstan&#39;s Largest Oil Company Was &#39;Simulation&#39;](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
 - [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
-- [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
