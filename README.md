@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
 - [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
 - [Dormant macOS Backdoor ChillyHell Resurfaces](https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces)
@@ -83,7 +84,6 @@
 - [EoP Flaws Again Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
 - [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
-- [Huge NPM Supply Chain Attack Goes Out With Whimper](https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
