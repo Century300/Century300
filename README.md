@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russian APT Attacks Kazakhstan&#39;s Largest Oil Company](https://www.darkreading.com/cyberattacks-data-breaches/russian-apt-kazakhstan-largest-oil-company)
 - [Students Pose Inside Threat to Education Sector](https://www.darkreading.com/insider-threats/students-inside-threat-education-sector)
 - [Chinese Hackers Allegedly Pose as US Lawmaker](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker)
 - [The Quiet Revolution in Kubernetes Security](https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security)
@@ -83,7 +84,6 @@
 - [Southeast Asian Scam Centers Face More Financial Sanctions](https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions)
 - [EoP Flaws Again Lead Microsoft Patch Tuesday](https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day)
 - [Is the Browser Becoming the New Endpoint?](https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint)
-- [Qantas Reduces Executive Pay Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
