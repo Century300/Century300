@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Without Federal Help, Cyber Defense Is Up to the Rest of Us](https://www.darkreading.com/cyberattacks-data-breaches/without-federal-help-cyber-defense-cisa)
 - [Undocumented Radios Found in Solar-Powered Devices](https://www.darkreading.com/ics-ot-security/undocumented-radios-found-solar-powered-devices)
 - [Vyro AI Leak Reveals Poor Cyber Hygiene](https://www.darkreading.com/cyberattacks-data-breaches/vyro-ai-leak-cyber-hygiene)
 - [&#39;Gentlemen&#39; Ransomware Abuses Vulnerable Driver to Kill Security Gear](https://www.darkreading.com/vulnerabilities-threats/gentlemen-ransomware-vulnerable-driver-security-gear)
@@ -83,7 +84,6 @@
 - [F5 to Acquire CalypsoAI for Advanced AI Security Capabilities](https://www.darkreading.com/cyber-risk/f5-calypsoai-advanced-ai-security-capabilities)
 - [AI-Enhanced Malware Sports Super-Stealthy Tactics](https://www.darkreading.com/cyberattacks-data-breaches/ai-backed-malware-hits-companies-worldwide)
 - [Vidar Infostealer Back With a Vengeance](https://www.darkreading.com/endpoint-security/vidar-infostealer-back-with-vengeance)
-- [&#39;K2 Think&#39; AI Model Jailbroken Mere Hours After Release](https://www.darkreading.com/application-security/k2-think-llm-jailbroken)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
