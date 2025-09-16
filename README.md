@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Emerging Yurei Ransomware Claims First Victims](https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims)
 - [SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management](https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management)
+- [&#39;HybridPetya&#39; Ransomware Bypasses Secure Boot](https://www.darkreading.com/vulnerabilities-threats/hybridpetya-ransomware-bypasses-secure-boot)
 - [KillSec Ransomware Hits Brazilian Healthcare Software Provider](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider)
 - [FBI Warns of Threat Actors Hitting Salesforce Customers](https://www.darkreading.com/cyberattacks-data-breaches/fbi-warns-threat-actors-salesforce-customers)
 - [Building Resilient IT Infrastructure From the Start](https://www.darkreading.com/vulnerabilities-threats/building-resilient-it-infrastructure)
 - [&#39;Lies-in-the-Loop&#39; Attack Defeats AI Coding Agents](https://www.darkreading.com/application-security/-lies-in-the-loop-attack-ai-coding-agents)
 - [French Advisory Sheds Light on Apple Spyware Activity](https://www.darkreading.com/vulnerabilities-threats/french-sheds-light-apple-spyware-activity)
-- [Without Federal Help, Cyber Defense Is Up to the Rest of Us](https://www.darkreading.com/cyberattacks-data-breaches/without-federal-help-cyber-defense-cisa)
-- [Undocumented Radios Found in Solar-Powered Devices](https://www.darkreading.com/ics-ot-security/undocumented-radios-found-solar-powered-devices)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
