@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Bugs in Chaos Mesh Enable Cluster Takeover](https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover)
+- [Self-Replicating &#39;Shai-hulud&#39; Worm Targets NPM Packages](https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages)
 - [&#39;Vane Viper&#39; Threat Group Tied to PropellerAds, Commercial Entities](https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads)
 - [Innovative FileFix Phishing Attack Proves Plenty Potent](https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent)
 - [Emerging Yurei Ransomware Claims First Victims](https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims)
 - [SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management](https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management)
 - [&#39;HybridPetya&#39; Ransomware Bypasses Secure Boot](https://www.darkreading.com/vulnerabilities-threats/hybridpetya-ransomware-bypasses-secure-boot)
 - [KillSec Ransomware Hits Brazilian Healthcare Software Provider](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider)
-- [FBI Warns of Threat Actors Hitting Salesforce Customers](https://www.darkreading.com/cyberattacks-data-breaches/fbi-warns-threat-actors-salesforce-customers)
-- [Building Resilient IT Infrastructure From the Start](https://www.darkreading.com/vulnerabilities-threats/building-resilient-it-infrastructure)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
