@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management](https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management)
 - [KillSec Ransomware Hits Brazilian Healthcare Software Provider](https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-brazil-healthcare-software-provider)
 - [FBI Warns of Threat Actors Hitting Salesforce Customers](https://www.darkreading.com/cyberattacks-data-breaches/fbi-warns-threat-actors-salesforce-customers)
 - [Building Resilient IT Infrastructure From the Start](https://www.darkreading.com/vulnerabilities-threats/building-resilient-it-infrastructure)
@@ -83,7 +84,6 @@
 - [French Advisory Sheds Light on Apple Spyware Activity](https://www.darkreading.com/vulnerabilities-threats/french-sheds-light-apple-spyware-activity)
 - [Without Federal Help, Cyber Defense Is Up to the Rest of Us](https://www.darkreading.com/cyberattacks-data-breaches/without-federal-help-cyber-defense-cisa)
 - [Undocumented Radios Found in Solar-Powered Devices](https://www.darkreading.com/ics-ot-security/undocumented-radios-found-solar-powered-devices)
-- [Vyro AI Leak Reveals Poor Cyber Hygiene](https://www.darkreading.com/cyberattacks-data-breaches/vyro-ai-leak-cyber-hygiene)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
