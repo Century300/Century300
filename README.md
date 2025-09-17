@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI-Powered Sign-up Fraud Is Scaling Fast](https://www.darkreading.com/vulnerabilities-threats/ai-powered-sign-up-fraud-scaling-fast)
 - [North Korean Group Targets South With Military ID Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes)
 - [Ray Security Takes an Active Data Security Approach](https://www.darkreading.com/endpoint-security/ray-security-protect-data-security)
 - [Critical Bugs in Chaos Mesh Enable Cluster Takeover](https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover)
@@ -83,7 +84,6 @@
 - [&#39;Vane Viper&#39; Threat Group Tied to PropellerAds, Commercial Entities](https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads)
 - [Innovative FileFix Phishing Attack Proves Plenty Potent](https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent)
 - [Emerging Yurei Ransomware Claims First Victims](https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims)
-- [SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management](https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
