@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [North Korean Group Targets South With Military ID Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes)
+- [Ray Security Takes an Active Data Security Approach](https://www.darkreading.com/endpoint-security/ray-security-protect-data-security)
 - [Critical Bugs in Chaos Mesh Enable Cluster Takeover](https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover)
 - [Self-Replicating &#39;Shai-hulud&#39; Worm Targets NPM Packages](https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages)
 - [&#39;Vane Viper&#39; Threat Group Tied to PropellerAds, Commercial Entities](https://www.darkreading.com/vulnerabilities-threats/vane-viper-threat-group-propellerads)
 - [Innovative FileFix Phishing Attack Proves Plenty Potent](https://www.darkreading.com/cyberattacks-data-breaches/innovative-filefix-attack-potent)
 - [Emerging Yurei Ransomware Claims First Victims](https://www.darkreading.com/threat-intelligence/emerging-yurei-ransomware-claims-first-victims)
 - [SecurityScorecard Buys AI Automation Capabilities, Boosts Vendor Risk Management](https://www.darkreading.com/cyber-risk/securityscorecard-buys-ai-automation-capabilities-boosts-vendor-risk-management)
-- [&#39;HybridPetya&#39; Ransomware Bypasses Secure Boot](https://www.darkreading.com/vulnerabilities-threats/hybridpetya-ransomware-bypasses-secure-boot)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
