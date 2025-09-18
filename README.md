@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats](https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats)
-- [The Cloud Edge Is The New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
+- [The Cloud Edge Is the New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
 - [Microsoft Disrupts &#39;RaccoonO365&#39; Phishing Service](https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service)
 - [&#39;Scattered Lapsus$ Hunters,&#39; Others Announce End of Hacking Spree](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-hacking-end)
 - [AI-Powered Sign-up Fraud Is Scaling Fast](https://www.darkreading.com/vulnerabilities-threats/ai-powered-sign-up-fraud-scaling-fast)
