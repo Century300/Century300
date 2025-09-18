@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats](https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats)
 - [The Cloud Edge Is The New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
 - [Microsoft Disrupts &#39;RaccoonO365&#39; Phishing Service](https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service)
 - [&#39;Scattered Lapsus$ Hunters,&#39; Others Announce End of Hacking Spree](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-hacking-end)
@@ -83,7 +84,6 @@
 - [Raven Stealer Scavenges Chromium Data Via Telegram](https://www.darkreading.com/vulnerabilities-threats/raven-stealer-scavenges-chrome-data-telegram)
 - [North Korean Group Targets South With Military ID Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes)
 - [Ray Security Takes an Active Data Security Approach](https://www.darkreading.com/endpoint-security/ray-security-protect-data-security)
-- [Critical Bugs in Chaos Mesh Enable Cluster Takeover](https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
