@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [The Cloud Edge Is The New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
 - [Microsoft Disrupts &#39;RaccoonO365&#39; Phishing Service](https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service)
 - [&#39;Scattered Lapsus$ Hunters,&#39; Others Announce End of Hacking Spree](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-hacking-end)
 - [AI-Powered Sign-up Fraud Is Scaling Fast](https://www.darkreading.com/vulnerabilities-threats/ai-powered-sign-up-fraud-scaling-fast)
@@ -83,7 +84,6 @@
 - [North Korean Group Targets South With Military ID Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes)
 - [Ray Security Takes an Active Data Security Approach](https://www.darkreading.com/endpoint-security/ray-security-protect-data-security)
 - [Critical Bugs in Chaos Mesh Enable Cluster Takeover](https://www.darkreading.com/cyber-risk/critical-bugs-chaos-mesh-cluster-takeover)
-- [Self-Replicating &#39;Shai-hulud&#39; Worm Targets NPM Packages](https://www.darkreading.com/application-security/self-replicating-shai-hulud-worm-npm-packages)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
