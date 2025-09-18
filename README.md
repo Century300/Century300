@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [TikTok Deal Won&#39;t End Enterprise Risks](https://www.darkreading.com/cyber-risk/tiktok-deal-enterprise-risks)
 - [SonicWall Breached, Firewall Backup Data Exposed](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-breached-firewall-backup)
 - [Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats](https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats)
 - [The Cloud Edge Is the New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
@@ -83,7 +84,6 @@
 - [&#39;Scattered Lapsus$ Hunters,&#39; Others Announce End of Hacking Spree](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-hacking-end)
 - [AI-Powered Sign-up Fraud Is Scaling Fast](https://www.darkreading.com/vulnerabilities-threats/ai-powered-sign-up-fraud-scaling-fast)
 - [Raven Stealer Scavenges Chromium Data Via Telegram](https://www.darkreading.com/vulnerabilities-threats/raven-stealer-scavenges-chrome-data-telegram)
-- [North Korean Group Targets South With Military ID Deepfakes](https://www.darkreading.com/cyberattacks-data-breaches/north-korean-group-south-military-id-deepfakes)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
