@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [7 Lessons for Securing AI Transformation from former CIA Digital Guru](https://www.darkreading.com/cyber-risk/7-lessons-securing-ai-transformation-former-cia-digital-guru)
 - [TikTok Deal Won&#39;t End Enterprise Risks](https://www.darkreading.com/cyber-risk/tiktok-deal-enterprise-risks)
 - [SonicWall Breached, Firewall Backup Data Exposed](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-breached-firewall-backup)
 - [Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats](https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats)
@@ -83,7 +84,6 @@
 - [Microsoft Disrupts &#39;RaccoonO365&#39; Phishing Service](https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service)
 - [&#39;Scattered Lapsus$ Hunters,&#39; Others Announce End of Hacking Spree](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-hacking-end)
 - [AI-Powered Sign-up Fraud Is Scaling Fast](https://www.darkreading.com/vulnerabilities-threats/ai-powered-sign-up-fraud-scaling-fast)
-- [Raven Stealer Scavenges Chromium Data Via Telegram](https://www.darkreading.com/vulnerabilities-threats/raven-stealer-scavenges-chrome-data-telegram)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
