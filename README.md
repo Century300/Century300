@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Plastic People, Plastic Cards: Synthetic Identities Plague Finance &amp;amp; Lending Sector](https://www.darkreading.com/cybersecurity-operations/synthetic-identities-finance-lending-sector)
 - [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
 - [Iranian State APT Blitzes Telcos &amp;amp; Satellite Companies](https://www.darkreading.com/cyberattacks-data-breaches/iranian-state-apt-telcos-satellite-companies)
+- [Critical Azure Entra ID Flaw Highlights Microsoft IAM Issues](https://www.darkreading.com/cloud-security/critical-azure-entra-id-flaw-microsoft-iam-issues)
 - [7 Lessons for Securing AI Transformation From Former CIA Digital Guru](https://www.darkreading.com/cyber-risk/7-lessons-securing-ai-transformation-former-cia-digital-guru)
 - [TikTok Deal Won&#39;t End Enterprise Risks](https://www.darkreading.com/cyber-risk/tiktok-deal-enterprise-risks)
 - [SonicWall Breached, Firewall Backup Data Exposed](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-breached-firewall-backup)
 - [Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats](https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats)
-- [The Cloud Edge Is the New Attack Surface](https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface)
-- [Microsoft Disrupts &#39;RaccoonO365&#39; Phishing Service](https://www.darkreading.com/application-security/microsoft-disrupts-raccoono365-phishing-service)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
