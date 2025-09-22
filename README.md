@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Airport Chaos Shows Human Impact of 3rd-Party Attacks](https://www.darkreading.com/cyberattacks-data-breaches/airport-chaos-human-impact-3rd-party-attacks)
 - [15 Years of Zero Trust: Why It Matters More Than Ever](https://www.darkreading.com/cyberattacks-data-breaches/15-years-of-zero-trust-why-it-matters-more-than-ever)
 - [Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection](https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection)
 - [Capture-the-Flag Competition Leads to Cybersecurity Career](https://www.darkreading.com/cybersecurity-careers/capture-the-flag-leads-cybersecurity-careers)
@@ -83,7 +84,6 @@
 - [Plastic People, Plastic Cards: Synthetic Identities Plague Finance &amp;amp; Lending Sector](https://www.darkreading.com/cybersecurity-operations/synthetic-identities-finance-lending-sector)
 - [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
 - [Iranian State APT Blitzes Telcos &amp;amp; Satellite Companies](https://www.darkreading.com/cyberattacks-data-breaches/iranian-state-apt-telcos-satellite-companies)
-- [Critical Azure Entra ID Flaw Highlights Microsoft IAM Issues](https://www.darkreading.com/cloud-security/critical-azure-entra-id-flaw-microsoft-iam-issues)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
