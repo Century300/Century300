@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Use Phony GitHub Pages to Deliver Mac Malware](https://www.darkreading.com/application-security/attackers-phony-github-pages-mac-malware)
 - [Airport Chaos Shows Human Impact of 3rd-Party Attacks](https://www.darkreading.com/cyberattacks-data-breaches/airport-chaos-human-impact-3rd-party-attacks)
 - [15 Years of Zero Trust: Why It Matters More Than Ever](https://www.darkreading.com/cyberattacks-data-breaches/15-years-of-zero-trust-why-it-matters-more-than-ever)
 - [Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection](https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection)
@@ -83,7 +84,6 @@
 - [&#39;ShadowLeak&#39; ChatGPT Attack Allows Hackers to Invisibly Steal Emails](https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails)
 - [Plastic People, Plastic Cards: Synthetic Identities Plague Finance &amp;amp; Lending Sector](https://www.darkreading.com/cybersecurity-operations/synthetic-identities-finance-lending-sector)
 - [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
-- [Iranian State APT Blitzes Telcos &amp;amp; Satellite Companies](https://www.darkreading.com/cyberattacks-data-breaches/iranian-state-apt-telcos-satellite-companies)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
