@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection](https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection)
-- [Capture the Flag Competition Leads to Cybersecurity Career](https://www.darkreading.com/cybersecurity-careers/capture-the-flag-leads-cybersecurity-careers)
+- [Capture-the-Flag Competition Leads to Cybersecurity Career](https://www.darkreading.com/cybersecurity-careers/capture-the-flag-leads-cybersecurity-careers)
 - [&#39;ShadowLeak&#39; ChatGPT Attack Allows Hackers to Invisibly Steal Emails](https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails)
 - [Plastic People, Plastic Cards: Synthetic Identities Plague Finance &amp;amp; Lending Sector](https://www.darkreading.com/cybersecurity-operations/synthetic-identities-finance-lending-sector)
 - [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
