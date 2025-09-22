@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [15 Years of Zero Trust: Why It Matters More Than Ever](https://www.darkreading.com/cyberattacks-data-breaches/15-years-of-zero-trust-why-it-matters-more-than-ever)
 - [Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection](https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection)
 - [Capture-the-Flag Competition Leads to Cybersecurity Career](https://www.darkreading.com/cybersecurity-careers/capture-the-flag-leads-cybersecurity-careers)
 - [&#39;ShadowLeak&#39; ChatGPT Attack Allows Hackers to Invisibly Steal Emails](https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails)
@@ -83,7 +84,6 @@
 - [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
 - [Iranian State APT Blitzes Telcos &amp;amp; Satellite Companies](https://www.darkreading.com/cyberattacks-data-breaches/iranian-state-apt-telcos-satellite-companies)
 - [Critical Azure Entra ID Flaw Highlights Microsoft IAM Issues](https://www.darkreading.com/cloud-security/critical-azure-entra-id-flaw-microsoft-iam-issues)
-- [7 Lessons for Securing AI Transformation From Digital Guru Jennifer Ewbank](https://www.darkreading.com/cyber-risk/7-lessons-securing-ai-transformation-former-cia-digital-guru)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
