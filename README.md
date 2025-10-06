@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Attackers Use Phony GitHub Pages to Deliver Mac Malware](https://www.darkreading.com/application-security/attackers-phony-github-pages-mac-malware)
-- [Airport Chaos Shows Human Impact of 3rd-Party Attacks](https://www.darkreading.com/cyberattacks-data-breaches/airport-chaos-human-impact-3rd-party-attacks)
-- [15 Years of Zero Trust: Why It Matters More Than Ever](https://www.darkreading.com/cyberattacks-data-breaches/15-years-of-zero-trust-why-it-matters-more-than-ever)
-- [Patch Now: Max-Severity Fortra GoAnywhere Bug Allows Command Injection](https://www.darkreading.com/cyberattacks-data-breaches/patch-fortra-goanywhere-bug-command-injection)
-- [Capture-the-Flag Competition Leads to Cybersecurity Career](https://www.darkreading.com/cybersecurity-careers/capture-the-flag-leads-cybersecurity-careers)
-- [&#39;ShadowLeak&#39; ChatGPT Attack Allows Hackers to Invisibly Steal Emails](https://www.darkreading.com/vulnerabilities-threats/shadowleak-chatgpt-invisibly-steal-emails)
-- [Plastic People, Plastic Cards: Synthetic Identities Plague Finance &amp;amp; Lending Sector](https://www.darkreading.com/cybersecurity-operations/synthetic-identities-finance-lending-sector)
-- [Transforming Cyber Frameworks to Take Control of Cyber-Risk](https://www.darkreading.com/cyber-risk/transforming-cyber-frameworks-cyber-risk)
+- [Cyberattackers Exploit Zimbra Zero-Day Via ICS](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics)
+- [Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw](https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw)
+- [Chinese Gov&#39;t Fronts Trick the West to Obtain Cyber Tech](https://www.darkreading.com/threat-intelligence/chinese-govt-fronts-cyber-tech)
+- [Self-Propagating Malware Hits WhatsApp Users in Brazil](https://www.darkreading.com/cyberattacks-data-breaches/self-propagating-malware-hits-whatsapp-users-brazil)
+- [Scattered Lapsus$ Hunters Returns With Salesforce Leak Site](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site)
+- [Dutch Authorities Arrest Two Teens for Alleged Pro-Russian Espionage](https://www.darkreading.com/cyberattacks-data-breaches/dutch-authorities-arrest-teens-pro-russian-espionage)
+- [Jaguar Land Rover Shows Cyberattacks Mean &lpar;Bad&rpar; Business](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyberattacks-bad-business)
+- [BCI: The Stuff of Nightmares or Dreams?](https://www.darkreading.com/data-privacy/bci-the-thing-of-nightmare-or-dreams-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
