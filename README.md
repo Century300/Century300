@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw](https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw)
 - [Patch Now: &#39;RediShell&#39; Threatens Cloud Via Redis RCE](https://www.darkreading.com/cloud-security/patch-now-redishell-redis-rce)
 - [Cyberattackers Exploit Zimbra Zero-Day Via ICS](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics)
 - [Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw](https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw)
@@ -83,7 +84,6 @@
 - [Self-Propagating Malware Hits WhatsApp Users in Brazil](https://www.darkreading.com/cyberattacks-data-breaches/self-propagating-malware-hits-whatsapp-users-brazil)
 - [Scattered Lapsus$ Hunters Returns With Salesforce Leak Site](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site)
 - [Dutch Authorities Arrest Two Teens for Alleged Pro-Russian Espionage](https://www.darkreading.com/cyberattacks-data-breaches/dutch-authorities-arrest-teens-pro-russian-espionage)
-- [Jaguar Land Rover Shows Cyberattacks Mean &lpar;Bad&rpar; Business](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyberattacks-bad-business)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
