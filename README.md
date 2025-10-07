@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Season Spam With a Touch of &#39;Salt&#39;](https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt)
 - [Security Concerns Shadow Vibe Coding Adoption](https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption)
 - [Medusa Ransomware Actors Exploit Critical Fortra GoAnywhere Flaw](https://www.darkreading.com/vulnerabilities-threats/medusa-ransomware-exploit-fortra-goanywhere-flaw)
 - [Patch Now: &#39;RediShell&#39; Threatens Cloud Via Redis RCE](https://www.darkreading.com/cloud-security/patch-now-redishell-redis-rce)
@@ -83,7 +84,6 @@
 - [Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw](https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw)
 - [Chinese Gov&#39;t Fronts Trick the West to Obtain Cyber Tech](https://www.darkreading.com/threat-intelligence/chinese-govt-fronts-cyber-tech)
 - [Self-Propagating Malware Hits WhatsApp Users in Brazil](https://www.darkreading.com/cyberattacks-data-breaches/self-propagating-malware-hits-whatsapp-users-brazil)
-- [Scattered Lapsus$ Hunters Returns With Salesforce Leak Site](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
