@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Patch Now: &#39;RediShell&#39; Threatens Cloud Via Redis RCE](https://www.darkreading.com/cloud-security/patch-now-redishell-redis-rce)
 - [Cyberattackers Exploit Zimbra Zero-Day Via ICS](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zimbra-zero-day-ics)
 - [Clop Ransomware Hits Oracle Customers Via Zero-Day Flaw](https://www.darkreading.com/application-security/clop-ransomware-oracle-customers-zero-day-flaw)
 - [Chinese Gov&#39;t Fronts Trick the West to Obtain Cyber Tech](https://www.darkreading.com/threat-intelligence/chinese-govt-fronts-cyber-tech)
@@ -83,7 +84,6 @@
 - [Scattered Lapsus$ Hunters Returns With Salesforce Leak Site](https://www.darkreading.com/cyberattacks-data-breaches/scattered-lapsus-hunters-returns-salesforce-leak-site)
 - [Dutch Authorities Arrest Two Teens for Alleged Pro-Russian Espionage](https://www.darkreading.com/cyberattacks-data-breaches/dutch-authorities-arrest-teens-pro-russian-espionage)
 - [Jaguar Land Rover Shows Cyberattacks Mean &lpar;Bad&rpar; Business](https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyberattacks-bad-business)
-- [BCI: The Stuff of Nightmares or Dreams?](https://www.darkreading.com/data-privacy/bci-the-thing-of-nightmare-or-dreams-)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
