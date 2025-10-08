@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Vampire Bot Malware Sinks Fangs Into Job Hunters](https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters)
 - [Red Hat Hackers Team Up With Scattered Lapsus$ Hunters](https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters)
 - [LockBit, Qilin &amp;amp; DragonForce Join Forces in Ransomware &#39;Cartel&#39;](https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel)
 - [Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise](https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise)
@@ -83,7 +84,6 @@
 - [Calling All Influencers: Spear-Phishers Dangle Tesla, Red Bull Jobs](https://www.darkreading.com/remote-workforce/influencers-phishers-tesla-red-bull-jobs)
 - [Cyberattack Leads to Beer Shortage as Asahi Recovers](https://www.darkreading.com/ics-ot-security/cyberattack-beer-shortage-asahi-recovers)
 - [Attackers Season Spam With a Touch of &#39;Salt&#39;](https://www.darkreading.com/cyber-risk/attackers-season-spam-touch-salt)
-- [Security Concerns Shadow Vibe Coding Adoption](https://www.darkreading.com/application-security/security-concerns-shadow-vibe-coding-adoption)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
