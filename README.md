@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fastly CISO: Using Major Incidents as Career Catalysts](https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts)
 - [Take Note: Cyber-Risks With AI Notetakers](https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers)
 - [Chaos Ransomware Upgrades With Aggressive New C++ Variant](https://www.darkreading.com/threat-intelligence/chaos-ransomware-upgrades-aggressive-new-variant)
 - [Vampire Bot Malware Sinks Fangs Into Job Hunters](https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters)
@@ -83,7 +84,6 @@
 - [LockBit, Qilin &amp;amp; DragonForce Join Forces in Ransomware &#39;Cartel&#39;](https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel)
 - [Framelink Figma MCP Server Opens Orgs to Agentic AI Compromise](https://www.darkreading.com/vulnerabilities-threats/figma-mcp-server-agentic-ai-compromise)
 - [China-Nexus Actors Weaponize &#39;Nezha&#39; Open Source Tool](https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-nezha-open-source-tool)
-- [Calling All Influencers: Spear-Phishers Dangle Tesla, Red Bull Jobs](https://www.darkreading.com/remote-workforce/influencers-phishers-tesla-red-bull-jobs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
