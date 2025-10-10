@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [RondoDox Botnet: an &#39;Exploit Shotgun&#39; for Edge Vulns](https://www.darkreading.com/endpoint-security/rondodox-botnet-exploit-edge-vulns)
 - [Feds Shutter ShinyHunters Salesforce Extortion Site](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-feds-shutter-salesforce-extortion-site)
 - [Chinese Hackers Use Velociraptor IR Tool in Ransomware Attacks](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-velociraptor-ir-tool-ransomware-attacks)
 - [Microsoft Adds Agentic AI Capabilities to Sentinel](https://www.darkreading.com/cloud-security/microsoft-adds-agentic-ai-capabilities-sentinel)
@@ -83,7 +84,6 @@
 - [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
 - [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
 - [SonicWall: 100% of Firewall Backups Were Breached](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached)
-- [Fastly CISO: Using Major Incidents as Career Catalysts](https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
