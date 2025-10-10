@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Feds Shutter ShinyHunters Salesforce Extortion Site](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-feds-shutter-salesforce-extortion-site)
 - [Chinese Hackers Use Velociraptor IR Tool in Ransomware Attacks](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-velociraptor-ir-tool-ransomware-attacks)
+- [Microsoft Adds Agentic AI Capabilities to Sentinel](https://www.darkreading.com/cloud-security/microsoft-adds-agentic-ai-capabilities-sentinel)
 - [Deepfake Awareness High at Orgs, But Cyber Defenses Badly Lag](https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag)
 - [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
 - [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
-- [SonicWall: 100% of Firewall Backups Possibly Breached](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached)
+- [SonicWall: 100% of Firewall Backups Were Breached](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached)
 - [Fastly CISO: Using Major Incidents as Career Catalysts](https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts)
-- [Take Note: Cyber-Risks With AI Notetakers](https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers)
-- [Chaos Ransomware Upgrades With Aggressive New C++ Variant](https://www.darkreading.com/threat-intelligence/chaos-ransomware-upgrades-aggressive-new-variant)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
