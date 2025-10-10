@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Deepfake Awareness High at Orgs, But Cyber Defenses Badly Lag](https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag)
 - [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
 - [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
 - [SonicWall: 100% of Firewall Backups Possibly Breached](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached)
@@ -83,7 +84,6 @@
 - [Take Note: Cyber-Risks With AI Notetakers](https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers)
 - [Chaos Ransomware Upgrades With Aggressive New C++ Variant](https://www.darkreading.com/threat-intelligence/chaos-ransomware-upgrades-aggressive-new-variant)
 - [Vampire Bot Malware Sinks Fangs Into Job Hunters](https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters)
-- [Red Hat Hackers Team Up With Scattered Lapsus$ Hunters](https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
