@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [1Password Addresses Critical AI Browser Agent Security Gap](https://www.darkreading.com/identity-access-management-security/1password-addresses-critical-ai-browser-agent-security-gap)
 - [RondoDox Botnet: an &#39;Exploit Shotgun&#39; for Edge Vulns](https://www.darkreading.com/endpoint-security/rondodox-botnet-exploit-edge-vulns)
 - [The Fight Against Ransomware Heats Up on the Factory Floor](https://www.darkreading.com/ics-ot-security/ransomware-manufacturing-an-escalating-battle)
 - [Feds Shutter ShinyHunters Salesforce Extortion Site](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-feds-shutter-salesforce-extortion-site)
@@ -83,7 +84,6 @@
 - [Microsoft Adds Agentic AI Capabilities to Sentinel](https://www.darkreading.com/cloud-security/microsoft-adds-agentic-ai-capabilities-sentinel)
 - [Deepfake Awareness High at Orgs, But Cyber Defenses Badly Lag](https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag)
 - [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
-- [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
