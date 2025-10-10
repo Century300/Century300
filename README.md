@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
 - [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
 - [SonicWall: 100% of Firewall Backups Possibly Breached](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-100-firewall-backups-breached)
 - [Fastly CISO: Using Major Incidents as Career Catalysts](https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts)
@@ -83,7 +84,6 @@
 - [Chaos Ransomware Upgrades With Aggressive New C++ Variant](https://www.darkreading.com/threat-intelligence/chaos-ransomware-upgrades-aggressive-new-variant)
 - [Vampire Bot Malware Sinks Fangs Into Job Hunters](https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters)
 - [Red Hat Hackers Team Up With Scattered Lapsus$ Hunters](https://www.darkreading.com/threat-intelligence/red-hat-hackers-team-up-scattered-lapsus-hunters)
-- [LockBit, Qilin &amp;amp; DragonForce Join Forces in Ransomware &#39;Cartel&#39;](https://www.darkreading.com/cyberattacks-data-breaches/extortion-gangs-join-forces-ransomware-cartel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
