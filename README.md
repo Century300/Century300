@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese Hackers Use Velociraptor IR Tool in Ransomware Attacks](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-velociraptor-ir-tool-ransomware-attacks)
 - [Deepfake Awareness High at Orgs, But Cyber Defenses Badly Lag](https://www.darkreading.com/cybersecurity-operations/deepfake-awareness-high-cyber-defenses-lag)
 - [Commentary Section Launches New, More Opinionated Era](https://www.darkreading.com/cybersecurity-analytics/commentary-section-launches-new-more-opinionated-era)
 - [GitHub Copilot &#39;CamoLeak&#39; AI Attack Exfiltrates Data](https://www.darkreading.com/application-security/github-copilot-camoleak-ai-attack-exfils-data)
@@ -83,7 +84,6 @@
 - [Fastly CISO: Using Major Incidents as Career Catalysts](https://www.darkreading.com/cybersecurity-operations/fastly-ciso-major-incidents-career-catalysts)
 - [Take Note: Cyber-Risks With AI Notetakers](https://www.darkreading.com/cyber-risk/take-note-cyber-risks-with-ai-notetakers)
 - [Chaos Ransomware Upgrades With Aggressive New C++ Variant](https://www.darkreading.com/threat-intelligence/chaos-ransomware-upgrades-aggressive-new-variant)
-- [Vampire Bot Malware Sinks Fangs Into Job Hunters](https://www.darkreading.com/cyberattacks-data-breaches/vampire-bot-malware-job-hunters)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
