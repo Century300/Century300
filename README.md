@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Financial, Other Industries Urged to Prepare for Quantum Computers](https://www.darkreading.com/cybersecurity-operations/financial-industries-urged-prepare-quantum-computers)
 - [Critical infrastructure CISOs Can&#39;t Ignore &#39;Back-Office Clutter&#39; Data](https://www.darkreading.com/cyberattacks-data-breaches/critical-infrastructure-back-office-data)
 - [Generation AI: Why Today&#39;s Tech Graduates Are At a Disadvantage](https://www.darkreading.com/cybersecurity-operations/ai-tech-graduates-disadvantage)
 - [1Password Addresses Critical AI Browser Agent Security Gap](https://www.darkreading.com/identity-access-management-security/1password-addresses-critical-ai-browser-agent-security-gap)
@@ -83,7 +84,6 @@
 - [The Fight Against Ransomware Heats Up on the Factory Floor](https://www.darkreading.com/ics-ot-security/ransomware-manufacturing-an-escalating-battle)
 - [Feds Shutter ShinyHunters Salesforce Extortion Site](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-feds-shutter-salesforce-extortion-site)
 - [Chinese Hackers Use Velociraptor IR Tool in Ransomware Attacks](https://www.darkreading.com/cybersecurity-operations/chinese-hackers-velociraptor-ir-tool-ransomware-attacks)
-- [Microsoft Adds Agentic AI Capabilities to Sentinel](https://www.darkreading.com/cloud-security/microsoft-adds-agentic-ai-capabilities-sentinel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
