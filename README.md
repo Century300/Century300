@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Microsoft Drops Terrifyingly Large October Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update)
 - [China&#39;s Flax Typhoon Turns Geo-Mapping Server into a Backdoor](https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor)
 - [Pixnapping Attack Lets Attackers Steal 2FA on Android](https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android)
 - [Financial, Other Industries Urged to Prepare for Quantum Computers](https://www.darkreading.com/cybersecurity-operations/financial-industries-urged-prepare-quantum-computers)
@@ -83,7 +84,6 @@
 - [Generation AI: Why Today&#39;s Tech Graduates Are At a Disadvantage](https://www.darkreading.com/cybersecurity-operations/ai-tech-graduates-disadvantage)
 - [1Password Addresses Critical AI Browser Agent Security Gap](https://www.darkreading.com/identity-access-management-security/1password-addresses-critical-ai-browser-agent-security-gap)
 - [RondoDox Botnet: an &#39;Exploit Shotgun&#39; for Edge Vulns](https://www.darkreading.com/endpoint-security/rondodox-botnet-exploit-edge-vulns)
-- [The Fight Against Ransomware Heats Up on the Factory Floor](https://www.darkreading.com/ics-ot-security/ransomware-manufacturing-an-escalating-battle)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
