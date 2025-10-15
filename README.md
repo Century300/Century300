@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Mysterious Elephant&#39; Moves Beyond Recycled Malware](https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware)
 - [F5 BIG-IP Environment Breached by Nation-State Actor](https://www.darkreading.com/cyberattacks-data-breaches/f5-big-ip-environment-breached-nation-state-actor)
 - [Harvard University Breached in Oracle Zero-Day Attack](https://www.darkreading.com/cyberattacks-data-breaches/harvard-breached-oracle-zero-day-attack)
 - [Africa Remains Top Global Target, Even as Attacks Decline](https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline)
@@ -83,7 +84,6 @@
 - [China&#39;s Flax Typhoon Turns Geo-Mapping Server into a Backdoor](https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor)
 - [Pixnapping Attack Lets Attackers Steal 2FA on Android](https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android)
 - [Financial, Other Industries Urged to Prepare for Quantum Computers](https://www.darkreading.com/cybersecurity-operations/financial-industries-urged-prepare-quantum-computers)
-- [Critical infrastructure CISOs Can&#39;t Ignore &#39;Back-Office Clutter&#39; Data](https://www.darkreading.com/cyberattacks-data-breaches/critical-infrastructure-back-office-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
