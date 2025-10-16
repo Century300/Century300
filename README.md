@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [China Hackers Test AI-Optimized Attack Chains in Taiwan](https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan)
 - [LevelBlue Announces Plans to Acquire XDR Provider Cybereason](https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason)
 - [&#39;Mysterious Elephant&#39; Moves Beyond Recycled Malware](https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware)
 - [F5 BIG-IP Environment Breached by Nation-State Actor](https://www.darkreading.com/cyberattacks-data-breaches/f5-big-ip-environment-breached-nation-state-actor)
@@ -83,7 +84,6 @@
 - [Africa Remains Top Global Target, Even as Attacks Decline](https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline)
 - [Microsoft Drops Terrifyingly Large October Patch Update](https://www.darkreading.com/vulnerabilities-threats/microsoft-october-patch-update)
 - [China&#39;s Flax Typhoon Turns Geo-Mapping Server into a Backdoor](https://www.darkreading.com/application-security/chinas-flax-typhoon-geo-mapping-server-backdoor)
-- [Pixnapping Attack Lets Attackers Steal 2FA on Android](https://www.darkreading.com/vulnerabilities-threats/pixnapping-attack-attackers-2fa-android)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
