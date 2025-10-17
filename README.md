@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Chat Data Is History’s Most Thorough Record of Enterprise Secrets, Secure it Wisely](https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly)
 - [Cyberattackers Target LastPass, Top Password Managers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers)
 - [Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk](https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks)
 - [China Hackers Test AI-Optimized Attack Chains in Taiwan](https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan)
@@ -83,7 +84,6 @@
 - [&#39;Mysterious Elephant&#39; Moves Beyond Recycled Malware](https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware)
 - [F5 BIG-IP Environment Breached by Nation-State Actor](https://www.darkreading.com/cyberattacks-data-breaches/f5-big-ip-environment-breached-nation-state-actor)
 - [Harvard University Breached in Oracle Zero-Day Attack](https://www.darkreading.com/cyberattacks-data-breaches/harvard-breached-oracle-zero-day-attack)
-- [Africa Remains Top Global Target, Even as Attacks Decline](https://www.darkreading.com/cyber-risk/africa-top-global-target-attacks-decline)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
