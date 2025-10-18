@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cyber Academy Founder Champions Digital Safety for All](https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all)
 - [Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates)
 - [AI Agent Security: Whose Responsibility Is It?](https://www.darkreading.com/cybersecurity-operations/ai-agent-security-awareness-responsibility)
 - [AI Chat Data Is History&#39;s Most Thorough Record of Enterprise Secrets. Secure It Wisely](https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly)
@@ -83,7 +84,6 @@
 - [Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk](https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks)
 - [China Hackers Test AI-Optimized Attack Chains in Taiwan](https://www.darkreading.com/threat-intelligence/china-hackers-ai-optimized-attack-taiwan)
 - [LevelBlue Announces Plans to Acquire XDR Provider Cybereason](https://www.darkreading.com/cyber-risk/levelblue-acquires-xdr-provider-cybereason)
-- [&#39;Mysterious Elephant&#39; Moves Beyond Recycled Malware](https://www.darkreading.com/cyberattacks-data-breaches/mysterious-elephant-recycled-malware)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
