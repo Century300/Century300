@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ColdRiver Drops Fresh Malware on Targets](https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets)
+- [International Sting Takes Down SIM Box Criminal Network](https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network)
 - [Is Your Car a BYOD Risk? Researchers Demonstrate How](https://www.darkreading.com/vulnerabilities-threats/car-byod-risk)
 - [Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk](https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack)
+- [New Microchip Tech Protects Vehicles from Laser Attacks](https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks)
+- [Self-Propagating GlassWorm Attacks VS Code Supply Chain](https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain)
 - [Cyber Academy Founder Champions Digital Safety for All](https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all)
 - [Microsoft Disrupts Ransomware Campaign Abusing Azure Certificates](https://www.darkreading.com/threat-intelligence/microsoft-disrupts-ransomware-abusing-azure-certificates)
-- [AI Agent Security: Whose Responsibility Is It?](https://www.darkreading.com/cybersecurity-operations/ai-agent-security-awareness-responsibility)
-- [AI Chat Data Is History&#39;s Most Thorough Record of Enterprise Secrets. Secure It Wisely](https://www.darkreading.com/application-security/ai-chat-data-is-history-s-most-thorough-record-of-enterprise-secrets-secure-it-accordingly)
-- [Cyberattackers Target LastPass, Top Password Managers](https://www.darkreading.com/cyberattacks-data-breaches/cyberattackers-target-lastpass-password-managers)
-- [Leaks in Microsoft VS Code Marketplace Put Supply Chain at Risk](https://www.darkreading.com/application-security/leaks-microsoft-vs-code-marketplaces-supply-chain-risks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
