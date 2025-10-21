@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
-- [‘PassiveNeuron’ Cyber Spies Target Orgs with Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
+- [‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
 - [ColdRiver Drops Fresh Malware on Targets](https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets)
 - [International Sting Takes Down SIM Box Criminal Network](https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network)
 - [Is Your Car a BYOD Risk? Researchers Demonstrate How](https://www.darkreading.com/vulnerabilities-threats/car-byod-risk)
