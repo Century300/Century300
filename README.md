@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
 - [‘PassiveNeuron’ Cyber Spies Target Orgs with Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
 - [ColdRiver Drops Fresh Malware on Targets](https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets)
 - [International Sting Takes Down SIM Box Criminal Network](https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network)
@@ -83,7 +84,6 @@
 - [Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk](https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack)
 - [Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge](https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks)
 - [Self-Propagating GlassWorm Attacks VS Code Supply Chain](https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain)
-- [Cyber Academy Founder Champions Digital Safety for All](https://www.darkreading.com/cybersecurity-careers/cyber-academy-founder-champions-digital-safety-for-all)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
