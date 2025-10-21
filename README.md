@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
 - [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
 - [‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
 - [ColdRiver Drops Fresh Malware on Targets](https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets)
@@ -83,7 +84,6 @@
 - [Is Your Car a BYOD Risk? Researchers Demonstrate How](https://www.darkreading.com/vulnerabilities-threats/car-byod-risk)
 - [Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk](https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack)
 - [Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge](https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks)
-- [Self-Propagating GlassWorm Attacks VS Code Supply Chain](https://www.darkreading.com/application-security/self-propagating-glassworm-vs-code-supply-chain)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
