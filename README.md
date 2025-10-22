@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
 - [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
 - [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
 - [‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
@@ -83,7 +84,6 @@
 - [International Sting Takes Down SIM Box Criminal Network](https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network)
 - [Is Your Car a BYOD Risk? Researchers Demonstrate How](https://www.darkreading.com/vulnerabilities-threats/car-byod-risk)
 - [Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk](https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack)
-- [Bombarding Cars With Lasers: Novel Auto Cyberattacks Emerge](https://www.darkreading.com/ics-ot-security/microchip-tech-vehicles-laser-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
