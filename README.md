@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Russia Pivots, Cracks Down on Low-Level Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
+- [MuddyWater Targets 100+ Gov Entities in MEA with Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
 - [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
 - [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
 - [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
 - [‘PassiveNeuron’ Cyber Spies Target Orgs With Custom Malware](https://www.darkreading.com/cyberattacks-data-breaches/-passiveneuron-cyber-spies-target-industrial-financial-orgs)
 - [ColdRiver Drops Fresh Malware on Targets](https://www.darkreading.com/cyberattacks-data-breaches/coldriver-drops-fresh-malware-targets)
 - [International Sting Takes Down SIM Box Criminal Network](https://www.darkreading.com/cybersecurity-operations/international-sting-sim-box-criminal-network)
-- [Is Your Car a BYOD Risk? Researchers Demonstrate How](https://www.darkreading.com/vulnerabilities-threats/car-byod-risk)
-- [Flawed Vendor Guidance Exposes Enterprises to Avoidable Risk](https://www.darkreading.com/vulnerabilities-threats/oracle-s-flawed-waf-guidance-left-its-customers-vulnerable-to-ransomware-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
