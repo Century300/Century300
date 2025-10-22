@@ -76,8 +76,8 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Russia Pivots, Cracks Down on Low-Level Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
-- [MuddyWater Targets 100+ Gov Entities in MEA with Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
+- [Russia Pivots, Cracks Down on Resident Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
+- [MuddyWater Targets 100+ Gov Entities in MEA With Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
 - [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
 - [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
 - [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
