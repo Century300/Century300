@@ -82,8 +82,8 @@
 - [Russia Pivots, Cracks Down on Resident Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
 - [MuddyWater Targets 100+ Gov Entities in MEA With Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
 - [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
+- [Asian Nations Ramp Up Pressure on Cybercrime &#39;Scam Factories&#39;](https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories)
 - [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
-- [Streaming Fraud Campaigns Rely on AI Tools, Bots](https://www.darkreading.com/threat-intelligence/streaming-fraud-campaigns-rely-on-ai-tools-bots)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
