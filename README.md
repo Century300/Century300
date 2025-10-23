@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Lazarus Group Hunts European Drone Manufacturing Data](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data)
 - [It Takes Only 250 Documents to Poison Any AI Model](https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model)
 - [Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl](https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl)
 - [WhatsApp Secures Ban on NSO Group After 6-Year Legal Battle](https://www.darkreading.com/cyber-risk/whatsapp-ban-nso-group-legal-battle)
@@ -83,7 +84,6 @@
 - [MuddyWater Targets 100+ Gov Entities in MEA With Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
 - [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
 - [Asian Nations Ramp Up Pressure on Cybercrime &#39;Scam Factories&#39;](https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories)
-- [Electronic Warfare Puts Commercial GPS Users on Notice](https://www.darkreading.com/cybersecurity-operations/electronic-warfare-commercial-gps-users-notice)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
