@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Fear the &#39;SessionReaper&#39;: Adobe Commerce Flaw Under Attack](https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack)
+- [Tired of Unpaid Toll Texts? Blame the &#39;Smishing Triad&#39;](https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad)
 - [Mideast, African Hackers Target Gov&#39;ts, Banks, Small Retailers](https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers)
 - [Lazarus Group Hunts European Drone Manufacturing Data](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data)
 - [Pwn2Own Underscores Secure Development Concerns](https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns)
 - [The Best End User Security Awareness Programs Aren&#39;t About Awareness Anymore](https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore)
 - [It Takes Only 250 Documents to Poison Any AI Model](https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model)
 - [Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl](https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl)
-- [WhatsApp Secures Ban on NSO Group After 6-Year Legal Battle](https://www.darkreading.com/cyber-risk/whatsapp-ban-nso-group-legal-battle)
-- [Russia Pivots, Cracks Down on Resident Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
