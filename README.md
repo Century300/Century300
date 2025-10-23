@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Mideast, African Hackers Target Gov&#39;ts, Banks, Small Retailers](https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers)
 - [Lazarus Group Hunts European Drone Manufacturing Data](https://www.darkreading.com/cyberattacks-data-breaches/lazarus-group-hunts-european-drone-manufacturing-data)
 - [It Takes Only 250 Documents to Poison Any AI Model](https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model)
 - [Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl](https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl)
@@ -83,7 +84,6 @@
 - [Russia Pivots, Cracks Down on Resident Hackers](https://www.darkreading.com/threat-intelligence/russia-cracks-down-low-level-hackers)
 - [MuddyWater Targets 100+ Gov Entities in MEA With Phoenix Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/muddywater-100-gov-entites-mea-phoenix-backdoor)
 - [Verizon: Mobile Blindspot Leads to Needless Data Breaches](https://www.darkreading.com/threat-intelligence/verizon-mobile-blindspot-data-breaches)
-- [Asian Nations Ramp Up Pressure on Cybercrime &#39;Scam Factories&#39;](https://www.darkreading.com/cyberattacks-data-breaches/asian-nations-ramp-up-legal-attacks-cybercrime-factories)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
