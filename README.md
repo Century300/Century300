@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [US Crypto Bust Offers Hope in Battle Against Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/us-crypto-bust-hope-battle-against-cybercrime-syndicates)
 - [Fear the &#39;SessionReaper&#39;: Adobe Commerce Flaw Under Attack](https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack)
 - [Tired of Unpaid Toll Texts? Blame the &#39;Smishing Triad&#39;](https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad)
 - [Mideast, African Hackers Target Gov&#39;ts, Banks, Small Retailers](https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers)
@@ -83,7 +84,6 @@
 - [Pwn2Own Underscores Secure Development Concerns](https://www.darkreading.com/vulnerabilities-threats/pwn2own-underscores-secure-development-concerns)
 - [The Best End User Security Awareness Programs Aren&#39;t About Awareness Anymore](https://www.darkreading.com/cyber-risk/best-end-user-security-awareness-programs-arent-about-awareness-anymore)
 - [It Takes Only 250 Documents to Poison Any AI Model](https://www.darkreading.com/application-security/only-250-documents-poison-any-ai-model)
-- [Too Many Secrets: Attackers Pounce on Sensitive Data Sprawl](https://www.darkreading.com/cyber-risk/too-many-secrets-attackers-sensitive-data-sprawl)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
