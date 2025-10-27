@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Memento Spyware Tied to Chrome Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks)
 - [CISOs Finally Get a Seat at the Board&#39;s Table — But There&#39;s a Catch](https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table)
 - [Qilin Targets Windows Hosts With Linux-Based Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/qilin-targets-windows-hosts-linux-based-ransomware)
 - [Microsoft Issues Emergency Patch for Critical Windows Server Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug)
@@ -83,7 +84,6 @@
 - [Shutdown Sparks 85% Increase in US Government Cyberattacks](https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks)
 - [US Crypto Bust Offers Hope in Battle Against Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/us-crypto-bust-hope-battle-against-cybercrime-syndicates)
 - [Fear the &#39;SessionReaper&#39;: Adobe Commerce Flaw Under Attack](https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack)
-- [Tired of Unpaid Toll Texts? Blame the &#39;Smishing Triad&#39;](https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
