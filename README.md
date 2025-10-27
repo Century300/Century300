@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [CISOs Finally Get a Seat at the Board&#39;s Table — But There&#39;s a Catch](https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table)
 - [Qilin Targets Windows Hosts With Linux-Based Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/qilin-targets-windows-hosts-linux-based-ransomware)
 - [Microsoft Issues Emergency Patch for Critical Windows Server Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug)
 - [How CISA Layoffs Weaken Civilian Cyber Defense](https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense)
@@ -83,7 +84,6 @@
 - [US Crypto Bust Offers Hope in Battle Against Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/us-crypto-bust-hope-battle-against-cybercrime-syndicates)
 - [Fear the &#39;SessionReaper&#39;: Adobe Commerce Flaw Under Attack](https://www.darkreading.com/vulnerabilities-threats/sessionreaper-adobe-commerce-flaw-under-attack)
 - [Tired of Unpaid Toll Texts? Blame the &#39;Smishing Triad&#39;](https://www.darkreading.com/threat-intelligence/unpaid-toll-texts-smishing-triad)
-- [Mideast, African Hackers Target Gov&#39;ts, Banks, Small Retailers](https://www.darkreading.com/cybersecurity-analytics/mea-hackers-govts-finance-smb-retailers)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
