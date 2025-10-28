@@ -79,11 +79,11 @@
 - [&#39;Jingle Thief&#39; Highlights Retail Cyber Threats](https://www.darkreading.com/cyber-risk/jingle-thief-highlights-retail-cyber-threats)
 - [Memento Spyware Tied to Chrome Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks)
 - [CISOs Finally Get a Seat at the Board&#39;s Table — But There&#39;s a Catch](https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table)
+- [Attackers Sell Turnkey Remote Access Trojan &#39;Atroposia&#39;](https://www.darkreading.com/vulnerabilities-threats/attackers-sell-turnkey-remote-access-trojan-atroposia)
 - [Qilin Targets Windows Hosts With Linux-Based Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/qilin-targets-windows-hosts-linux-based-ransomware)
 - [Microsoft Issues Emergency Patch for Critical Windows Server Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug)
 - [How CISA Layoffs Weaken Civilian Cyber Defense](https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense)
 - [Shutdown Sparks 85% Increase in US Government Cyberattacks](https://www.darkreading.com/cybersecurity-operations/shutdown-increase-us-government-cyberattacks)
-- [US Crypto Bust Offers Hope in Battle Against Cybercrime Syndicates](https://www.darkreading.com/cyberattacks-data-breaches/us-crypto-bust-hope-battle-against-cybercrime-syndicates)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
