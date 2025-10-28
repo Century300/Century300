@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [YouTube Ghost Network Utilizes Spooky Tactics to Target Users](https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users)
+- [Oracle EBS Attack Victims May Be More Numerous Than Expected](https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected)
 - [North Korea&#39;s BlueNoroff Expands Scope of Crypto Heists](https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-expands-crypto-heists)
 - [&#39;Jingle Thief&#39; Highlights Retail Cyber Threats](https://www.darkreading.com/cyber-risk/jingle-thief-highlights-retail-cyber-threats)
 - [Memento Spyware Tied to Chrome Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks)
 - [CISOs Finally Get a Seat at the Board&#39;s Table — But There&#39;s a Catch](https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table)
 - [Attackers Sell Turnkey Remote Access Trojan &#39;Atroposia&#39;](https://www.darkreading.com/vulnerabilities-threats/attackers-sell-turnkey-remote-access-trojan-atroposia)
 - [Qilin Targets Windows Hosts With Linux-Based Ransomware](https://www.darkreading.com/cyberattacks-data-breaches/qilin-targets-windows-hosts-linux-based-ransomware)
-- [Microsoft Issues Emergency Patch for Critical Windows Server Bug](https://www.darkreading.com/vulnerabilities-threats/microsoft-emergency-patch-windows-server-bug)
-- [How CISA Layoffs Weaken Civilian Cyber Defense](https://www.darkreading.com/cybersecurity-operations/cisa-layoffs-weaken-civilian-cyber-defense)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
