@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
+- [AI Search Tools Easily Fooled by Fake Content](https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content)
 - [Dentsu Subsidiary Breached, Employee Data Stolen](https://www.darkreading.com/cyberattacks-data-breaches/dentsu-subsidiary-breached-employee-data-stolen)
 - [Microsoft Security Change for Azure VMs Creates Pitfalls](https://www.darkreading.com/cloud-security/microsoft-security-change-azure-vms-creates-pitfalls)
 - [Botnets Step Up Cloud Attacks Via Flaws, Misconfigurations](https://www.darkreading.com/cloud-security/botnets-cloud-attacks-flaws-misconfigurations)
 - [From Power Users to Protective Stewards: How to Tune Security Training for Specialized Employees](https://www.darkreading.com/cybersecurity-operations/power-users-protective-stewards-how-tune-security-training-specialized-employees)
 - [Cybersecurity Firms See Surge in AI-Powered Attacks Across Africa](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-firms-see-surge-in-ai-powered-attacks-across-africa)
 - [AI-Generated Code Poses Security, Bloat Challenges](https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt)
-- [Inside the Data on Insider Threats: What 1,000 Real Cases Reveal About Hidden Risk](https://www.darkreading.com/insider-threats/inside-the-data-on-insider-threats-what-1000-real-cases-reveal-about-hidden-risk)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
