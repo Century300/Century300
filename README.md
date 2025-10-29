@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Cybersecurity Firms See Surge in AI-Powered Attacks Across Africa](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-firms-see-surge-in-ai-powered-attacks-across-africa)
+- [AI-Generated Code Poses Security, Bloat Challenges](https://www.darkreading.com/application-security/ai-generated-code-leading-expanded-technical-security-debt)
 - [Inside the Data on Insider Threats: What 1,000 Real Cases Reveal About Hidden Risk](https://www.darkreading.com/insider-threats/inside-the-data-on-insider-threats-what-1000-real-cases-reveal-about-hidden-risk)
 - [From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership](https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership)
 - [YouTube Ghost Network Utilizes Spooky Tactics to Target Users](https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users)
 - [Oracle EBS Attack Victims May Be More Numerous Than Expected](https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected)
 - [North Korea&#39;s BlueNoroff Expands Scope of Crypto Heists](https://www.darkreading.com/threat-intelligence/north-korea-bluenoroff-expands-crypto-heists)
 - [&#39;Jingle Thief&#39; Highlights Retail Cyber Threats](https://www.darkreading.com/cyber-risk/jingle-thief-highlights-retail-cyber-threats)
-- [Memento Spyware Tied to Chrome Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
