@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Firms See Surge in AI-Powered Attacks Across Africa](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-firms-see-surge-in-ai-powered-attacks-across-africa)
 - [From Chef to CISO: An Empathy-First Approach to Cybersecurity Leadership](https://www.darkreading.com/cybersecurity-operations/chef-ciso-empathy-first-cybersecurity-leadership)
 - [YouTube Ghost Network Utilizes Spooky Tactics to Target Users](https://www.darkreading.com/cyberattacks-data-breaches/youtube-ghost-network-target-users)
 - [Oracle EBS Attack Victims May Be More Numerous Than Expected](https://www.darkreading.com/vulnerabilities-threats/oracle-ebs-attack-victims-more-numerous-expected)
@@ -83,7 +84,6 @@
 - [&#39;Jingle Thief&#39; Highlights Retail Cyber Threats](https://www.darkreading.com/cyber-risk/jingle-thief-highlights-retail-cyber-threats)
 - [Memento Spyware Tied to Chrome Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/memento-spyware-chrome-zero-day-attacks)
 - [CISOs Finally Get a Seat at the Board&#39;s Table — But There&#39;s a Catch](https://www.darkreading.com/cybersecurity-operations/cisos-finally-get-seat-board-table)
-- [Attackers Sell Turnkey Remote Access Trojan &#39;Atroposia&#39;](https://www.darkreading.com/vulnerabilities-threats/attackers-sell-turnkey-remote-access-trojan-atroposia)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
