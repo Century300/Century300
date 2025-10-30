@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Claroty Patches Authentication Bypass Flaw](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
+- [Critical Claroty Authentication Bypass Flaw Opened OT to Attack](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
 - [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
 - [Data Leak Outs Hacker Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
 - [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
