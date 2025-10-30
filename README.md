@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Data Leak Outs Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
+- [Data Leak Outs Hacker Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
 - [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
 - [AI Search Tools Easily Fooled by Fake Content](https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content)
 - [Dentsu Subsidiary Breached, Employee Data Stolen](https://www.darkreading.com/cyberattacks-data-breaches/dentsu-subsidiary-breached-employee-data-stolen)
