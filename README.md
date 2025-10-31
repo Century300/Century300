@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [UNC6384 Targets European Diplomatic Entities With Windows Exploit](https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows)
 - [Ribbon Communications Breach Marks Latest Telecom Attack](https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack)
 - [Dark Reading Confidential: Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
 - [Zombie Projects Rise Again to Undermine Security](https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security)
@@ -83,7 +84,6 @@
 - [US Stands Out in Refusal to Sign UN Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty)
 - [Critical Claroty Authentication Bypass Flaw Opened OT to Attack](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
 - [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
-- [Cloud Outages Highlight the Need for Resilient, Secure Infrastructure Recovery](https://www.darkreading.com/cloud-security/cloud-outages-highlight-need-resilient-secure-infrastructure-recovery)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
