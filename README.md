@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
 - [Zombie Projects Rise Again to Undermine Security](https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security)
+- [An 18-Year-Old Codebase Left Smart Buildings Wide Open](https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open)
 - [Critical Claroty Authentication Bypass Flaw Opened OT to Attack](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
 - [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
+- [Cloud Outages Highlight the Need for Resilient, Secure Infrastructure Recovery](https://www.darkreading.com/cloud-security/cloud-outages-highlight-need-resilient-secure-infrastructure-recovery)
 - [Data Leak Outs Hacker Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
 - [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
-- [AI Search Tools Easily Fooled by Fake Content](https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content)
-- [Dentsu Subsidiary Breached, Employee Data Stolen](https://www.darkreading.com/cyberattacks-data-breaches/dentsu-subsidiary-breached-employee-data-stolen)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
