@@ -83,7 +83,7 @@
 - [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
 - [Cloud Outages Highlight the Need for Resilient, Secure Infrastructure Recovery](https://www.darkreading.com/cloud-security/cloud-outages-highlight-need-resilient-secure-infrastructure-recovery)
 - [Data Leak Outs Hacker Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
-- [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
+- [Data Security Posture Management — What Does &#39;Best in Class&#39; Look Like?](https://www.darkreading.com/cybersecurity-operations/data-security-posture-management-what-best-in-class-looks-like)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
