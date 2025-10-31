@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
+- [Zombie Projects Rise Again to Undermine Security](https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security)
 - [Critical Claroty Authentication Bypass Flaw Opened OT to Attack](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
 - [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
 - [Data Leak Outs Hacker Students of Iran&#39;s MOIS Training Academy](https://www.darkreading.com/threat-intelligence/data-leak-students-iran-mois-training-academy)
 - [Malicious NPM Packages Disguised With &#39;Invisible&#39; Dependencies](https://www.darkreading.com/application-security/malicious-npm-packages-invisible-dependencies)
 - [AI Search Tools Easily Fooled by Fake Content](https://www.darkreading.com/cyber-risk/ai-search-tools-easily-fooled-by-fake-content)
 - [Dentsu Subsidiary Breached, Employee Data Stolen](https://www.darkreading.com/cyberattacks-data-breaches/dentsu-subsidiary-breached-employee-data-stolen)
-- [Microsoft Security Change for Azure VMs Creates Pitfalls](https://www.darkreading.com/cloud-security/microsoft-security-change-azure-vms-creates-pitfalls)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
