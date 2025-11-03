@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [AI Developed Code: 5 Critical Security Checkpoints for Human Oversight](https://www.darkreading.com/application-security/ai-code-security-checkpoints)
 - [UNC6384 Targets European Diplomatic Entities With Windows Exploit](https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows)
 - [Ribbon Communications Breach Marks Latest Telecom Attack](https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack)
 - [Dark Reading Confidential: Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
@@ -83,7 +84,6 @@
 - [An 18-Year-Old Codebase Left Smart Buildings Wide Open](https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open)
 - [US Stands Out in Refusal to Sign UN Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty)
 - [Critical Claroty Authentication Bypass Flaw Opened OT to Attack](https://www.darkreading.com/ics-ot-security/claroty-patches-authentication-bypass-flaw)
-- [LotL Attack Hides Malware in Windows Native AI Stack](https://www.darkreading.com/vulnerabilities-threats/lotl-attack-malware-windows-native-ai-stack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
