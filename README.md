@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [Let&#39;s Get Physical: A New Convergence for Electrical Grid Security](https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity)
 - [AI Developed Code: 5 Critical Security Checkpoints for Human Oversight](https://www.darkreading.com/application-security/ai-code-security-checkpoints)
+- [‘TruffleNet’ Attack Wields Stolen Credentials Against AWS](https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws)
 - [UNC6384 Targets European Diplomatic Entities With Windows Exploit](https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows)
 - [Ribbon Communications Breach Marks Latest Telecom Attack](https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack)
 - [Dark Reading Confidential: Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
 - [Zombie Projects Rise Again to Undermine Security](https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security)
 - [An 18-Year-Old Codebase Left Smart Buildings Wide Open](https://www.darkreading.com/vulnerabilities-threats/18-year-old-codebase-left-smart-buildings-wide-open)
-- [US Stands Out in Refusal to Sign UN Cybercrime Treaty](https://www.darkreading.com/cybersecurity-operations/us-refuses-sign-un-cybercrime-treaty)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
