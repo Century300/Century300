@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hackers Weaponize Remote Tools to Hijack Cargo Freight](https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight)
 - [Let&#39;s Get Physical: A New Convergence for Electrical Grid Security](https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity)
 - [AI Developed Code: 5 Critical Security Checkpoints for Human Oversight](https://www.darkreading.com/application-security/ai-code-security-checkpoints)
 - [&#39;TruffleNet&#39; Attack Wields Stolen Credentials Against AWS](https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws)
@@ -83,7 +84,6 @@
 - [Ribbon Communications Breach Marks Latest Telecom Attack](https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack)
 - [Government Approach to Disrupt Cyber Scams is &#39;Fragmented&#39;](https://www.darkreading.com/cyber-risk/government-approach-to-disrupt-cyber-scams-is-fragmented-)
 - [Dark Reading Confidential: Cyber&#39;s Role in the Rapid Rise of Digital Authoritarianism](https://www.darkreading.com/cyber-risk/cybers-role-rapid-rise-digital-authoritarianism)
-- [Zombie Projects Rise Again to Undermine Security](https://www.darkreading.com/cyber-risk/zombie-projects-rise-again-undermine-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
