@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Pro-Russian Hackers Use Linux VMs to Hide in Windows](https://www.darkreading.com/endpoint-security/pro-russian-hackers-linux-vms-hide-windows)
+- [Europe Sees Increase in Ransomware, Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion)
 - [SesameOp Backdoor Uses OpenAI API for Covert C2](https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2)
 - [Android Malware Mutes Alerts, Drains Crypto Wallets](https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets)
 - [On the Road Again: Hackers Hijack Physical Cargo Freight](https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight)
 - [Let&#39;s Get Physical: A New Convergence for Electrical Grid Security](https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity)
 - [AI Developed Code: 5 Critical Security Checkpoints for Human Oversight](https://www.darkreading.com/application-security/ai-code-security-checkpoints)
 - [&#39;TruffleNet&#39; Attack Wields Stolen Credentials Against AWS](https://www.darkreading.com/vulnerabilities-threats/trufflenet-attack-stolen-credentials-aws)
-- [UNC6384 Targets European Diplomatic Entities With Windows Exploit](https://www.darkreading.com/cyberattacks-data-breaches/unc6384-european-diplomat-windows)
-- [Ribbon Communications Breach Marks Latest Telecom Attack](https://www.darkreading.com/cyberattacks-data-breaches/ribbon-communications-breach-latest-telecom-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
