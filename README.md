@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Risk &#39;Comparable&#39; to SolarWinds Incident Lurks in Popular Software Update Tool](https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update)
 - [Elusive Iranian APT Phishes Influential US Policy Wonks](https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks)
 - [Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users](https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users)
+- [AI App Spending Report: Where Are the Security Tools?](https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools)
 - [Pro-Russian Hackers Use Linux VMs to Hide in Windows](https://www.darkreading.com/endpoint-security/pro-russian-hackers-linux-vms-hide-windows)
+- [Inside the Playbook of Ransomware&#39;s Most Profitable Players](https://www.darkreading.com/cyberattacks-data-breaches/inside-the-playbook-of-ransomware-s-most-profitable-players)
 - [Europe Sees Increase in Ransomware, Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion)
 - [SesameOp Backdoor Uses OpenAI API for Covert C2](https://www.darkreading.com/cyberattacks-data-breaches/sesameop-backdoor-openai-api-covert-c2)
-- [Android Malware Mutes Alerts, Drains Crypto Wallets](https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets)
-- [On the Road Again: Hackers Hijack Physical Cargo Freight](https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight)
-- [Let&#39;s Get Physical: A New Convergence for Electrical Grid Security](https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
