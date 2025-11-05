@@ -78,8 +78,8 @@
 <!-- DARKREADING:START -->
 - [Operational Technology Security Poses Inherent Risks for Manufacturers](https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers)
 - [Critical Site Takeover Flaw Affects 400K WordPress Sites](https://www.darkreading.com/vulnerabilities-threats/critical-site-takeover-flaw-400k-wordpress-sites)
-- [Closing the AI Execution Gap in Cybersecurity — A CISO Framework](https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework)
 - [Risk &#39;Comparable&#39; to SolarWinds Incident Lurks in Popular Software Update Tool](https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update)
+- [Closing the AI Execution Gap in Cybersecurity — A CISO Framework](https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework)
 - [Iran&#39;s Elusive &amp;quot;SmudgedSerpent&#39; APT Phishes Influential US Policy Wonks](https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks)
 - [Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users](https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users)
 - [AI App Spending Report: Where Are the Security Tools?](https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools)
