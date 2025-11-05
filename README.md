@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Elusive Iranian APT Phishes Influential US Policy Wonks](https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks)
 - [Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users](https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users)
 - [Pro-Russian Hackers Use Linux VMs to Hide in Windows](https://www.darkreading.com/endpoint-security/pro-russian-hackers-linux-vms-hide-windows)
 - [Europe Sees Increase in Ransomware, Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/europe-increase-ransomware-extortion)
@@ -83,7 +84,6 @@
 - [Android Malware Mutes Alerts, Drains Crypto Wallets](https://www.darkreading.com/vulnerabilities-threats/android-malware-mutes-alerts-drains-crypto-wallets)
 - [On the Road Again: Hackers Hijack Physical Cargo Freight](https://www.darkreading.com/identity-access-management-security/hackers-weaponize-remote-tools-hijack-cargo-freight)
 - [Let&#39;s Get Physical: A New Convergence for Electrical Grid Security](https://www.darkreading.com/cybersecurity-operations/physical-convergence-electrical-grid-cybersecurity)
-- [AI Developed Code: 5 Critical Security Checkpoints for Human Oversight](https://www.darkreading.com/application-security/ai-code-security-checkpoints)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
