@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Nikkei Suffers Breach Via Slack Compromise](https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise)
 - [Operational Technology Security Poses Inherent Risks for Manufacturers](https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers)
 - [Critical Site Takeover Flaw Affects 400K WordPress Sites](https://www.darkreading.com/vulnerabilities-threats/critical-site-takeover-flaw-400k-wordpress-sites)
 - [Risk &#39;Comparable&#39; to SolarWinds Incident Lurks in Popular Software Update Tool](https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update)
@@ -83,7 +84,6 @@
 - [Iran&#39;s Elusive &amp;quot;SmudgedSerpent&#39; APT Phishes Influential US Policy Wonks](https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks)
 - [Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users](https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users)
 - [AI App Spending Report: Where Are the Security Tools?](https://www.darkreading.com/cybersecurity-operations/ai-app-spending-report-where-are-the-security-tools)
-- [Pro-Russian Hackers Use Linux VMs to Hide in Windows](https://www.darkreading.com/endpoint-security/pro-russian-hackers-linux-vms-hide-windows)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
