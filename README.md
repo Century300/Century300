@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Sora 2 Makes Videos So Believable, Reality Checks Are Required](https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required)
 - [SonicWall Firewall Backups Stolen by Nation-State Actor](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor)
 - [Multiple ChatGPT Security Bugs Allow Rampant Data Theft](https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft)
 - [APT &#39;Bronze Butler&#39; Exploits Zero-Day to Root Japan Orgs](https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan)
@@ -83,7 +84,6 @@
 - [Operational Technology Security Poses Inherent Risks for Manufacturers](https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers)
 - [Critical Site Takeover Flaw Affects 400K WordPress Sites](https://www.darkreading.com/vulnerabilities-threats/critical-site-takeover-flaw-400k-wordpress-sites)
 - [Risk &#39;Comparable&#39; to SolarWinds Incident Lurks in Popular Software Update Tool](https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update)
-- [Closing the AI Execution Gap in Cybersecurity — A CISO Framework](https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
