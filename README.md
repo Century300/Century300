@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Multiple ChatGPT Security Bugs Allow Rampant Data Theft](https://www.darkreading.com/application-security/multiple-chatgpt-security-bugs-rampant-data-theft)
 - [APT &#39;Bronze Butler&#39; Exploits Zero-Day to Root Japan Orgs](https://www.darkreading.com/application-security/bronze-butler-apt-exploits-zero-day-vuln-root-japan)
 - [Nikkei Suffers Breach Via Slack Compromise](https://www.darkreading.com/cyberattacks-data-breaches/nikkei-suffers-breach-slack-compromise)
 - [Operational Technology Security Poses Inherent Risks for Manufacturers](https://www.darkreading.com/ics-ot-security/operational-technology-security-poses-inherent-risks-for-manufacturers)
@@ -83,7 +84,6 @@
 - [Risk &#39;Comparable&#39; to SolarWinds Incident Lurks in Popular Software Update Tool](https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update)
 - [Closing the AI Execution Gap in Cybersecurity — A CISO Framework](https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework)
 - [Iran&#39;s Elusive &amp;quot;SmudgedSerpent&#39; APT Phishes Influential US Policy Wonks](https://www.darkreading.com/cyberattacks-data-breaches/iranian-apt-phishes-us-policy-wonks)
-- [Kimsuky Debuts HTTPTroy Backdoor Against South Korea Users](https://www.darkreading.com/vulnerabilities-threats/kimsuky-httptroy-backdoor-south-korea-users)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
