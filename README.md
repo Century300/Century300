@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [&#39;Landfall&#39; Malware Targeted Samsung Galaxy Users](https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users)
+- [ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks)
+- [&#39;Landfall&#39; Malware Targets Samsung Galaxy Users](https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users)
 - [&#39;Ransomvibing&#39; Infests Visual Studio Extension Market](https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market)
 - [Microsoft Backs Massive AI Push in UAE, Raising Security Concerns](https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns)
 - [AI Agents Are Going Rogue: Here&#39;s How to Rein Them In](https://www.darkreading.com/cyber-risk/ai-agents-going-rogue)
 - [AI Security Agents Get Persona Makeovers](https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing)
 - [Ollama, Nvidia Flaws Put AI Infrastructure at Risk](https://www.darkreading.com/vulnerabilities-threats/ollama-nvidia-flaws-ai-infrastructure-risk)
 - [Sora 2 Makes Videos So Believable, Reality Checks Are Required](https://www.darkreading.com/application-security/sora-2-makes-videos-so-believable-reality-checks-are-required)
-- [SonicWall Firewall Backups Stolen by Nation-State Actor](https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-firewall-backups-nation-state-actor)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
