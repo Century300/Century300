@@ -76,7 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [OWASP Highlights Supply Chain Risks in New Top 10](https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10)
+- [OWASP Highlights Supply Chain Risks in New Top 10 List](https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10)
 - [GlassWorm Returns, Slices Back into VS Code Extensions](https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions)
 - [ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks)
 - [&#39;Landfall&#39; Malware Targets Samsung Galaxy Users](https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users)
