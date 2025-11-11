@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity](https://www.darkreading.com/cybersecurity-operations/military-veterans-strengthening-cybersecurity)
 - [OWASP Highlights Supply Chain Risks in New Top 10 List](https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10)
 - [GlassWorm Returns, Slices Back into VS Code Extensions](https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions)
 - [ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks)
@@ -83,7 +84,6 @@
 - [&#39;Ransomvibing&#39; Infests Visual Studio Extension Market](https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market)
 - [Microsoft Backs Massive AI Push in UAE, Raising Security Concerns](https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns)
 - [AI Agents Are Going Rogue: Here&#39;s How to Rein Them In](https://www.darkreading.com/cyber-risk/ai-agents-going-rogue)
-- [AI Security Agents Get Persona Makeovers](https://www.darkreading.com/cybersecurity-operations/ai-security-agents-get-personas-make-them-more-appealing)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
