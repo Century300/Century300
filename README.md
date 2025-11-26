@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [Bridging the Skills Gap: How Military Veterans Are Strengthening Cybersecurity](https://www.darkreading.com/cybersecurity-operations/military-veterans-strengthening-cybersecurity)
-- [OWASP Highlights Supply Chain Risks in New Top 10 List](https://www.darkreading.com/application-security/owasp-highlights-supply-chain-risks-new-top-10)
-- [GlassWorm Returns, Slices Back into VS Code Extensions](https://www.darkreading.com/cyberattacks-data-breaches/glassworm-returns-vs-code-extensions)
-- [ClickFix Campaign Targets Hotels, Spurs Secondary Customer Attacks](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-targets-hotels-secondary-customer-attacks)
-- [&#39;Landfall&#39; Malware Targets Samsung Galaxy Users](https://www.darkreading.com/mobile-security/landfall-malware-targeted-samsung-galaxy-users)
-- [&#39;Ransomvibing&#39; Infests Visual Studio Extension Market](https://www.darkreading.com/application-security/ransomvibing-infests-visual-studio-extension-market)
-- [Microsoft Backs Massive AI Push in UAE, Raising Security Concerns](https://www.darkreading.com/cyber-risk/microsoft-massive-ai-push-uae-security-concerns)
-- [AI Agents Are Going Rogue: Here&#39;s How to Rein Them In](https://www.darkreading.com/cyber-risk/ai-agents-going-rogue)
+- [&#39;Dark LLMs&#39; Aid Petty Criminals, But Underwhelm Technically](https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals)
+- [Prompt Injections Loom Large Over ChatGPT&#39;s Atlas Browser](https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch)
+- [Enterprises Aren&#39;t Confident They Can Secure Non-Human Identities &lpar;NHIs&rpar;](https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities)
+- [Iran Exploits Cyber Domain to Aid Kinetic Strikes](https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes)
+- [Advanced Security Isn&#39;t Stopping Ancient Phishing Tactics](https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics)
+- [Cheap Hardware Module Bypasses AMD, Intel Memory Encryption](https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption)
+- [DPRK&#39;s FlexibleFerret Tightens macOS Grip](https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip)
+- [With Friends Like These: China Spies on Russian IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
