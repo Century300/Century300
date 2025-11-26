@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Digital Fraud at Industrial Scale: 2025 Wasn&#39;t Great](https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025)
 - [&#39;Dark LLMs&#39; Aid Petty Criminals, But Underwhelm Technically](https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals)
 - [Prompt Injections Loom Large Over ChatGPT&#39;s Atlas Browser](https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch)
+- [How Malware Authors Are Incorporating LLMs to Evade Detection](https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection)
 - [Enterprises Aren&#39;t Confident They Can Secure Non-Human Identities &lpar;NHIs&rpar;](https://www.darkreading.com/identity-access-management-security/enterprise-not-confident-secure-non-human-identities)
 - [Iran Exploits Cyber Domain to Aid Kinetic Strikes](https://www.darkreading.com/threat-intelligence/iran-exploits-cyber-domain-kinetic-strikes)
 - [Advanced Security Isn&#39;t Stopping Ancient Phishing Tactics](https://www.darkreading.com/cyberattacks-data-breaches/advanced-security-phishing-tactics)
 - [Cheap Hardware Module Bypasses AMD, Intel Memory Encryption](https://www.darkreading.com/vulnerabilities-threats/cheap-hardware-module-amd-intel-memory-encryption)
-- [DPRK&#39;s FlexibleFerret Tightens macOS Grip](https://www.darkreading.com/cyberattacks-data-breaches/dprks-flexibleferret-tightens-macos-grip)
-- [With Friends Like These: China Spies on Russian IT Orgs](https://www.darkreading.com/cyberattacks-data-breaches/china-spies-russian-it-orgs)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
