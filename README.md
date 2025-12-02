@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [DPRK&#39;s &#39;Contagious Interview&#39; Spawns Malicious Npm Package Factory](https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory)
 - [Tomiris Unleashes &#39;Havoc&#39; With New Tools, Tactics](https://www.darkreading.com/cyberattacks-data-breaches/tomiris-unleashes-havoc-new-tools-tactics)
 - [CodeRED Emergency Alert Platform Shut Down Following Cyberattack](https://www.darkreading.com/cyberattacks-data-breaches/codered-emergency-alert-platform-shut-down-cyberattack)
 - [Police Disrupt &#39;Cryptomixer,&#39; Seize Millions in Crypto](https://www.darkreading.com/cyberattacks-data-breaches/police-disrupt-cryptomixer-seize-millions-crypto)
@@ -83,7 +84,6 @@
 - [Digital Fraud at Industrial Scale: 2025 Wasn&#39;t Great](https://www.darkreading.com/cyberattacks-data-breaches/digital-fraud-industrial-scale-2025)
 - [&#39;Dark LLMs&#39; Aid Petty Criminals, But Underwhelm Technically](https://www.darkreading.com/threat-intelligence/dark-llms-petty-criminals)
 - [Prompt Injections Loom Large Over ChatGPT&#39;s Atlas Browser](https://www.darkreading.com/application-security/prompt-injections-loom-large-over-chatgpt-atlas-launch)
-- [How Malware Authors Are Incorporating LLMs to Evade Detection](https://www.darkreading.com/threat-intelligence/malware-authors-incorporate-llms-evade-detection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
