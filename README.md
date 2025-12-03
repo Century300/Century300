@@ -77,13 +77,13 @@
 
 <!-- DARKREADING:START -->
 - [The Ransomware Holiday Bind: Burnout or Be Vulnerable](https://www.darkreading.com/cyberattacks-data-breaches/the-ransomware-holiday-bind-burnout-or-be-vulnerable)
+- [AI Bolsters Python Variant of Brazilian WhatsApp Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ai-python-variant-brazilian-whatsapp-attacks)
 - [China Researches Ways to Disrupt Satellite Internet](https://www.darkreading.com/cyberattacks-data-breaches/china-researches-ways-disrupt-satellite-internet)
 - [While ECH Adoption Is Low, Risks Remain for Enterprises, End Users](https://www.darkreading.com/data-privacy/while-ech-adoption-is-low-risks-remain-for-enterprises-end-users)
 - [Iran&#39;s &#39;MuddyWater&#39; Levels Up With MuddyViper Backdoor](https://www.darkreading.com/cyberattacks-data-breaches/irans-muddywater-levels-up-muddyviper-backdoor)
 - [Researchers Use Poetry to Jailbreak AI Models](https://www.darkreading.com/threat-intelligence/researchers-use-poetry-to-jailbreak-ai-models)
 - [New Raptor Framework Uses Agentic Workflows to Create Patches](https://www.darkreading.com/vulnerabilities-threats/new-raptor-framework-uses-agentic-ai-create-patches)
 - [DPRK&#39;s &#39;Contagious Interview&#39; Spawns Malicious Npm Package Factory](https://www.darkreading.com/application-security/contagious-interview-malicious-npm-package-factory)
-- [Tomiris Unleashes &#39;Havoc&#39; With New Tools, Tactics](https://www.darkreading.com/cyberattacks-data-breaches/tomiris-unleashes-havoc-new-tools-tactics)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
