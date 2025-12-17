@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
+- [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - [&#39;Cellik&#39; Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
 - [Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation](https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation)
 - [Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps](https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps)
 - [Why You Should Train Your SOC Like a Triathlete](https://www.darkreading.com/cybersecurity-operations/why-you-should-train-your-soc-like-triathlete)
 - [Venezuelan Oil Company Downplays Alleged US Cyberattack](https://www.darkreading.com/cyber-risk/venezuela-oil-company-downplays-alleged-us-cyberattack)
-- [Russia Hits Critical Orgs Via Misconfigured Edge Devices](https://www.darkreading.com/endpoint-security/russian-apt-attacking-critical-orgs-around-world)
-- [Browser Extension Harvests 8M Users&#39; AI Chatbot Data](https://www.darkreading.com/endpoint-security/chrome-extension-harvests-ai-chatbot-data)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
