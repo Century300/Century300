@@ -79,11 +79,11 @@
 - [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 - [In Cybersecurity, Claude Leaves Other LLMs in the Dust](https://www.darkreading.com/cybersecurity-analytics/cybersecurity-claude-llms)
 - [&#39;Cellik&#39; Android RAT Leverages Google Play Store](https://www.darkreading.com/threat-intelligence/cellik-android-rat-leverages-google-play-store)
+- [Securing the Network Edge: A Comprehensive Framework for Modern Cybersecurity](https://www.darkreading.com/endpoint-security/securing-network-edge-comprehensive-framework-modern-cybersecurity)
 - [Securing the Future: Building Quantum-Safe Networks Today](https://www.darkreading.com/endpoint-security/securing-future-building-quantum-safe-networks-today)
 - [Attackers Use Stolen AWS Credentials in Cryptomining Campaign](https://www.darkreading.com/cloud-security/attackers-use-stolen-aws-credentials-cryptomining)
 - [&amp;quot;Fake Proof&amp;quot; and AI Slop Hobble Defenders](https://www.darkreading.com/application-security/fake-proof-ai-slop-hobble-defenders)
 - [Afripol Focuses on Regional Cyber Challenges, Deepening Cooperation](https://www.darkreading.com/cybersecurity-operations/afripol-focuses-regional-cyber-challenges-deepening-cooperation)
-- [Why a 17-Year-Old Built an AI Model to Expose Deepfake Maps](https://www.darkreading.com/threat-intelligence/why-17-year-old-built-ai-expose-deepfake-maps)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
