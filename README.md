@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Uzbek Users Under Attack by Android SMS Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
 - [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 - [Identity Fraud Among Home-Care Workers Puts Patients at Risk](https://www.darkreading.com/identity-access-management-security/identity-fraud-among-home-care-workers-puts-patients-at-risk)
@@ -83,7 +84,6 @@
 - [A Good Year for North Korean Cybercriminals](https://www.darkreading.com/cyberattacks-data-breaches/good-year-north-korean-cybercriminals)
 - [SonicWall Edge Access Devices Hit by Zero-Day Attacks](https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks)
 - [Dormant Iran APT is Still Alive, Spying on Dissidents](https://www.darkreading.com/threat-intelligence/iran-apt-spying-dissidents)
-- [Critical Fortinet Flaws Under Active Attack](https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
