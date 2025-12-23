@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
-- [ServiceNow Buys Armis for $7.75B, Gets &#39;AI Control Tower&#39;](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
+- [ServiceNow Buys Armis for $7.75B, Boosts &#39;AI Control Tower&#39;](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
 - [Sprawling &#39;Operation Sentinel&#39; Neutralizes African Cybercrime Syndicates](https://www.darkreading.com/threat-intelligence/operation-sentinel-african-cybercrime-syndicates)
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
