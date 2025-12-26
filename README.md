@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
 - [ServiceNow Buys Armis for $7.75B, Boosts &#39;AI Control Tower&#39;](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 - [Amazon Fends Off 1,800 Suspected DPRK IT Job Scammers](https://www.darkreading.com/remote-workforce/amazon-fends-off-dprk-it-job-scammers)
@@ -83,7 +84,6 @@
 - [Threat Actors Exploit Zero-Day in WatchGuard Firebox Devices](https://www.darkreading.com/vulnerabilities-threats/threat-actors-zero-day-watchguard-firebox)
 - [Uzbek Users Under Attack by Android SMS-Stealers](https://www.darkreading.com/cyber-risk/uzbek-users-android-sms-stealers)
 - [Cisco VPNs, Email Services Hit in Separate Threat Campaigns](https://www.darkreading.com/endpoint-security/cisco-vpns-email-services-threat-campaigns)
-- [LongNosedGoblin Caught Snooping on Asian Governments](https://www.darkreading.com/threat-intelligence/longnosedgoblin-caught-snooping-on-asian-governments)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
