@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 - [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
@@ -83,7 +84,6 @@
 - [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
 - [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
 - [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
-- [ServiceNow Buys Armis for $7.75B, Boosts &#39;AI Control Tower&#39;](https://www.darkreading.com/cybersecurity-operations/servicenow-buys-armis-gets-ai-control-tower)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
