@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [When the Cloud Rains on Everyone&#39;s IoT Parade](https://www.darkreading.com/iot/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions and Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 - [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
@@ -83,7 +84,6 @@
 - [Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms](https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
-- [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
