@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Identity Security 2026: Four Predictions and Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
+- [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 - [Cybersecurity Predictions 2026: An AI Arms Race and Malware Autonomy](https://www.darkreading.com/cyber-risk/cybersecurity-predictions-2026-an-ai-arms-race-and-malware-autonomy)
 - [New Tech Deployments That Cyber Insurers Recommend for 2026](https://www.darkreading.com/cyber-risk/cybersecurity-tech-recommended-by-cyber-insurer-claims-data)
+- [Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms](https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms)
 - [SBOMs in 2026: Some Love, Some Hate, Much Ambivalence](https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence)
 - [5 Threats That Defined Security in 2025](https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025)
 - [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts)
-- [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026)
-- [Dark Reading Opens The State of Application Security Survey](https://www.darkreading.com/application-security/dark-reading-opens-state-appsec-survey)
-- [Industry Continues to Push Back on HIPAA Security Rule Overhaul](https://www.darkreading.com/cyber-risk/industry-oppose-hipaa-security-rule-overhaul)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
