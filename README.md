@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Critical &#39;MongoBleed&#39; Bug Under Active Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
 - [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 - [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
@@ -83,7 +84,6 @@
 - [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
 - [When the Cloud Rains on Everyone&#39;s IoT Parade](https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade)
 - [Identity Security 2026: Four Predictions &amp;amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
-- [Contrarians No More: AI Skepticism Is on the Rise](https://www.darkreading.com/cybersecurity-operations/contrarians-no-more-ai-skepticism)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
