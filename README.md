@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
+- [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
+- [CISOs Face A Tighter Insurance Market in 2026](https://www.darkreading.com/endpoint-security/cisos-face-tighter-insurance-market)
 - [Critical &#39;MongoBleed&#39; Bug Under Active Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
 - [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
 - [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
 - [CTO New Year&#39;s Resolutions for a More Secure 2026](https://www.darkreading.com/cyber-risk/cto-new-year-resolutions-for-a-more-secure-2026)
-- [Sunken Ships: Will Orgs Learn From Ivanti EPMM Attacks?](https://www.darkreading.com/cyber-risk/sunken-ships-ivanti-epmm-attacks)
-- [When the Cloud Rains on Everyone&#39;s IoT Parade](https://www.darkreading.com/cloud-security/when-cloud-rains-on-everyone-iot-parade)
-- [Identity Security 2026: Four Predictions &amp;amp; Recommendations](https://www.darkreading.com/identity-access-management-security/identity-security-2026-predictions-and-recommendations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
