@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot](https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot)
 - [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
 - [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
@@ -83,7 +84,6 @@
 - [Critical &#39;MongoBleed&#39; Bug Under Attack, Patch Now](https://www.darkreading.com/cloud-security/mongobleed-bug-active-attack-patch)
 - [US Cyber Pros Plead Guilty Over BlackCat Ransomware Activity](https://www.darkreading.com/cyber-risk/us-cyber-pros-plead-guilty-over-ransomware-activity)
 - [RondoDox Botnet Expands Scope With React2Shell Exploitation](https://www.darkreading.com/vulnerabilities-threats/rondodox-botnet-scope-react2shell-exploitation)
-- [Cybersecurity Predictions for 2026: Navigating the Future of Digital Threats](https://www.darkreading.com/threat-intelligence/cybersecurity-predictions-for-2026-navigating-the-future-of-digital-threats)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
