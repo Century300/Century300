@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Exploit Zero-Day in End-of-Life D-Link Routers](https://www.darkreading.com/cyberattacks-data-breaches/attackers-exploit-zero-day-end-of-life-d-link-routers)
 - [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
 - [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
 - [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
@@ -83,7 +84,6 @@
 - [Scattered Lapsus$ Hunters Snared in Cyber Researcher Honeypot](https://www.darkreading.com/endpoint-security/scattered-lapsus-hunters-researcher-honeypot)
 - [ClickFix Campaign Serves Up Fake Blue Screen of Death](https://www.darkreading.com/cyberattacks-data-breaches/clickfix-campaign-fake-blue-screen-of-death)
 - [Startup Trends Shaking Up Browsers, SOC Automation, AppSec](https://www.darkreading.com/endpoint-security/startup-trends-shaking-up-browsers-soc-automation-appsec)
-- [Advisor360 Gets a Handle on Shadow AI via Automation](https://www.darkreading.com/remote-workforce/advisor360-gets-handle-on-shadow-ai-via-automation)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
