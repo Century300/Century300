@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users&#39; Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
 - [ChatGPT&#39;s Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 - [Here&#39;s What Cloud Security&#39;s Future Holds for the Year Ahead](https://www.darkreading.com/cloud-security/heres-cloud-security-holds-year-ahead)
@@ -83,7 +84,6 @@
 - [Phishers Exploit Office 365 Users Who Let Their Guard Down](https://www.darkreading.com/cloud-security/phishers-exploit-office-365-users-guard-down)
 - [Cyberattacks Likely Part of Military Operation in Venezuela](https://www.darkreading.com/cybersecurity-operations/cyberattacks-part-military-operation-venezuela)
 - [DDoSia Powers Affiliate-Driven Hacktivist Attacks](https://www.darkreading.com/cyberattacks-data-breaches/ddosia-powers-volunteer-driven-hacktivist-attacks)
-- [Lack of MFA Is Common Thread in Vast Cloud Credential Heist](https://www.darkreading.com/cloud-security/lack-mfa-common-thread-vast-cloud-credential-heist)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
