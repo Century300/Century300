@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
 - [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 - [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
@@ -83,7 +84,6 @@
 - [CrowdStrike to Buy SGNL to Expand Identity Security Capabilities](https://www.darkreading.com/endpoint-security/crowdsrike-buy-sgnl-expand-identity-security-capabilities)
 - [Maximum Severity HPE OneView Flaw Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-hpe-oneview-flaw-exploited)
 - [Fake AI Chrome Extensions Steal 900K Users&#39; Data](https://www.darkreading.com/cloud-security/fake-ai-chrome-extensions-steal-900k-users-data)
-- [ChatGPT&#39;s Memory Feature Supercharges Prompt Injection](https://www.darkreading.com/endpoint-security/chatgpt-memory-feature-prompt-injection)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
