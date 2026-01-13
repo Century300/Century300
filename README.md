@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&#39;Most Severe AI Vulnerability to Date&#39; Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
+- [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
 - [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
 - [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 - [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
 - [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 - [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
-- [2 Separate Campaigns Probe Corporate LLMs for Secrets](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
-- [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
