@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
 - [BreachForums Breached, Exposing 324K Cybercriminals](https://www.darkreading.com/threat-intelligence/breachforums-breached-exposing-324k-cybercriminals)
-- [GoBruteforcer Botnet Targets 50K-plus Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
+- [Multipurpose GoBruteforcer Botnet Targets 50K+ Linux Servers](https://www.darkreading.com/threat-intelligence/gobruteforcer-botnet-targets-50k-plus-linux-servers)
 - [Navigating Privacy and Cybersecurity Laws in 2026 Will Prove Difficult](https://www.darkreading.com/cyber-risk/navigating-privacy-and-cybersecurity-laws-in-2026-will-prove-difficult)
 - [FBI Flags Quishing Attacks From North Korean APT](https://www.darkreading.com/mobile-security/fbi-quishing-attacks-north-korean-apt)
 - [Hexnode Moves into Endpoint Security With Hexnode XDR](https://www.darkreading.com/endpoint-security/hexnode-marks-its-move-into-endpoint-security-with-hexnode-xdr)
-- [Two Separate Campaigns Target Exposed LLM Services](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
+- [2 Separate Campaigns Probe Corporate LLMs for Secrets](https://www.darkreading.com/endpoint-security/separate-campaigns-target-exposed-llm-services)
 - [Deepfake Fraud Tools Are Lagging Behind Expectations](https://www.darkreading.com/remote-workforce/deepfake-fraud-tools-lag-expectations)
-- [Illicit Crypto Economy Surges Amid Increased Nation-State Activity](https://www.darkreading.com/cyber-risk/illicit-crypto-economy-surges-nation-states)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
