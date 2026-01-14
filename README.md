@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
-- [CrowdStrike to Buy Seraphic Security In Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
+- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
 - [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
 - [&#39;Most Severe AI Vulnerability to Date&#39; Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
 - [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
