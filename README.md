@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
-- [&#39;VoidLink&#39; Malware Poses Advanced Threat to Linux Systems](https://www.darkreading.com/cloud-security/voidlink-malware-advanced-threat-linux-systems)
-- [Taiwan Endures Greater Cyber Pressure From China](https://www.darkreading.com/cyber-risk/taiwan-sees-greater-cyber-pressure-from-china)
-- [CrowdStrike to Buy Seraphic Security in Bid to Boost Browser Security](https://www.darkreading.com/remote-workforce/crowdstrike-buy-seraphic-security-boost-browser-security)
-- [CISO Succession Crisis Highlights How Turnover Amplifies Security Risks](https://www.darkreading.com/cyber-risk/ciso-succession-crisis-highlights-turnover-amplifies-security-risks)
-- [&#39;Most Severe AI Vulnerability to Date&#39; Hits ServiceNow](https://www.darkreading.com/remote-workforce/ai-vulnerability-servicenow)
-- [Microsoft Starts 2026 With a Bang: A Freshly Exploited Zero-Day](https://www.darkreading.com/application-security/microsofts-starts-2026-bang-zero-day)
-- [Shadow#Reactor Uses Text Files to Deliver Remcos RAT](https://www.darkreading.com/endpoint-security/shadow-reactor-uses-text-files-to-deliver-remcos-rat)
-- [Attackers Abuse Python, Cloudflare to Deliver AsyncRAT](https://www.darkreading.com/endpoint-security/attackers-abuse-python-cloudflare-deliver-asyncrat)
+- [Trump Administration Rescinds Biden-Era SBOM Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
+- [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
+- [&#39;Semantic Chaining&#39; Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
+- [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
+- [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
+- [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
+- [Consumers Reluctant to Shop at Stores That Don&#39;t Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
+- [China-Backed &#39;PeckBirdy&#39; Takes Flight for Cross-Platform Attacks](https://www.darkreading.com/threat-intelligence/china-backed-peckbirdy-cross-platform-attacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
