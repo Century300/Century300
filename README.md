@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [OpenClaw AI Runs Wild in Business Environments](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
@@ -83,7 +84,6 @@
 - [From Quantum to AI Risks: Preparing for Cybersecurity&#39;s Future](https://www.darkreading.com/cybersecurity-operations/quantum-ai-risks-cybersecuritys-future)
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
-- [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
