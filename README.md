@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era SBOM Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
 - [More Critical Flaws on n8n Could Compromise Customer Security](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 - [&#39;Semantic Chaining&#39; Jailbreak Dupes Gemini Nano Banana, Grok 4](https://www.darkreading.com/vulnerabilities-threats/semantic-chaining-jailbreak-gemini-nano-banana-grok-4)
@@ -83,7 +84,6 @@
 - [How Can CISOs Respond to Ransomware Getting More Violent?](https://www.darkreading.com/cyber-risk/how-cisos-respond-ransomware-getting-more-violent)
 - [Months After Patch, WinRAR Bug Poised to Hit SMBs Hardest](https://www.darkreading.com/application-security/months-after-patch-winrar-bug-poised-smbs-hardest)
 - [Fortinet Confirms New Zero-Day Behind Malicious SSO Logins](https://www.darkreading.com/vulnerabilities-threats/fortinet-new-zero-day-malicious-sso-logins)
-- [Consumers Reluctant to Shop at Stores That Don&#39;t Take Security Seriously](https://www.darkreading.com/cyber-risk/consumers-reluctant-to-shop-at-stores-hit-by-cyberattacks)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
