@@ -79,7 +79,7 @@
 - [ShinyHunters Expands Scope of SaaS Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks)
 - [Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation](https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation)
 - [2026: The Year Agentic AI Becomes the Attack-Surface Poster Child](https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child)
-- [Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk](https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk)
+- [Out-of-the-Box Expectations for 2026 Reveal a Grab Bag of Risk](https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk)
 - [Tenable Tackles AI Governance, Shadow AI Risks, Data Exposure](https://www.darkreading.com/cyber-risk/tenable-tackles-ai-governance-shadow-ai-risks-data-exposure)
 - [OpenClaw AI Runs Wild in Business Environments](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
