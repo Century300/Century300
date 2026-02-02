@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [ShinyHunters Expands Scope of SaaS Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-expands-scope-saas-extortion-attacks)
 - [Torq Moves SOCs Beyond SOAR With AI-Powered Hyper Automation](https://www.darkreading.com/remote-workforce/torq-moves-socs-soar-ai-powered-hyper-automation)
 - [2026: The Year Agentic AI Becomes the Attack-Surface Poster Child](https://www.darkreading.com/threat-intelligence/2026-agentic-ai-attack-surface-poster-child)
 - [Out-of-the-Box Expectations for 2026 Reveal a Grab-Bag of Risk](https://www.darkreading.com/threat-intelligence/cyber-expectations-2026-grab-bag-risk)
@@ -83,7 +84,6 @@
 - [OpenClaw AI Runs Wild in Business Environments](https://www.darkreading.com/application-security/openclaw-ai-runs-wild-business-environments)
 - [Chinese APTs Hacking Asian Orgs With High-End Malware](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apts-asian-orgs-high-end-malware)
 - [Trump Administration Rescinds Biden-Era Software Guidance](https://www.darkreading.com/application-security/trump-administration-rescinds-biden-era-sbom-guidance)
-- [Second Round of Critical RCE Bugs in n8n Spikes Corporate Risk](https://www.darkreading.com/vulnerabilities-threats/critical-flaws-n8n-compromise-customer-security)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
