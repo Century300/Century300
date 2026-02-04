@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Attackers Use Windows Screensavers to Drop Malware, RMM Tools](https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools)
 - [Extra Extra! Announcing DR Global Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
 - [Big Breach or Smooth Sailing? Mexican Gov&#39;t Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
 - [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
@@ -83,7 +84,6 @@
 - [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
 - [AI May Supplant Pen Testers, But Oversight &amp;amp; Trust Are Not There Yet](https://www.darkreading.com/cybersecurity-operations/ai-supplant-pen-testers-oversight-trust-not-there-yet)
 - [8-Minute Access: AI Accelerates Breach of AWS Environment](https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach)
-- [Dark Patterns Undermine Security, One Click at a Time](https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
