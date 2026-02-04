@@ -76,14 +76,14 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [Extra Extra! Announcing DR Global: Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
+- [Big Breach or Nada de Nada? Mexican Gov&#39;t Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
 - [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
 - [Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days)
 - [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
+- [AI May Supplant Pen Testers, But Oversight &amp;amp; Trust Are Not There Yet](https://www.darkreading.com/cybersecurity-operations/ai-supplant-pen-testers-oversight-trust-not-there-yet)
 - [8-Minute Access: AI Accelerates Breach of AWS Environment](https://www.darkreading.com/cloud-security/8-minute-access-ai-aws-environment-breach)
 - [Dark Patterns Undermine Security, One Click at a Time](https://www.darkreading.com/cyber-risk/dark-patterns-undermine-security-one-click-at-a-time)
-- [Attackers Harvest Dropbox Logins Via Fake PDF Lures](https://www.darkreading.com/cloud-security/attackers-harvest-dropbox-logins-fake-pdf-lures)
-- [County Pays $600K to Wrongfully Jailed Pen Testers](https://www.darkreading.com/cybersecurity-operations/county-pays-600k-wrongfully-jailed-pen-testers)
-- [Chinese Hackers Hijack Notepad++ Updates for 6 Months](https://www.darkreading.com/application-security/chinese-hackers-hijack-notepad-updates-6-months)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
