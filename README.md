@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [Extra Extra! Announcing DR Global Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
-- [Big Breach or Nada de Nada? Mexican Gov&#39;t Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
+- [Big Breach or Smooth Sailing? Mexican Gov&#39;t Faces Leak Allegations](https://www.darkreading.com/cyberattacks-data-breaches/big-breach-or-nada-de-nada-mexican-govt-faces-leak-allegations)
 - [Google Looker Bugs Allow Cross-Tenant RCE, Data Exfil](https://www.darkreading.com/application-security/google-looker-bugs-cross-tenant-rce-data-exfil)
 - [Russian Hackers Weaponize Microsoft Office Bug in Just 3 Days](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-weaponize-office-bug-within-days)
 - [GlassWorm Malware Returns to Shatter Developer Ecosystems](https://www.darkreading.com/application-security/glassworm-malware-developer-ecosystems)
