@@ -78,12 +78,12 @@
 <!-- DARKREADING:START -->
 - [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
 - [Agentic AI Site &#39;Moltbook&#39; Is Riddled With Security Risks](https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks)
+- [Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful](https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful)
 - [Cyber Success Trifecta: Education, Certifications &amp;amp; Experience](https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience)
 - [Protests Don&#39;t Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
 - [Ransomware Gang Goes Full &#39;Godfather&#39; With Cartel](https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel)
 - [CISA Makes Unpublicized Ransomware Updates to KEV Catalog](https://www.darkreading.com/threat-intelligence/cisa-hidden-ransomware-updates-kev-catalog)
 - [Attackers Use Windows Screensavers to Drop Malware, RMM Tools](https://www.darkreading.com/application-security/attackers-use-screensavers-drop-malware-rmm-tools)
-- [Extra Extra! Announcing DR Global Latin America](https://www.darkreading.com/cybersecurity-operations/announcing-dr-global-latin-america)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
