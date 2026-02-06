@@ -76,6 +76,7 @@
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
 <!-- DARKREADING:START -->
+- [&amp;quot;Encrypt It Already&amp;quot; Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Cost of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw&#39;s Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
 - [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
@@ -83,7 +84,6 @@
 - [Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful](https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful)
 - [Cyber Success Trifecta: Education, Certifications &amp;amp; Experience](https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience)
 - [Protests Don&#39;t Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
-- [Ransomware Gang Goes Full &#39;Godfather&#39; With Cartel](https://www.darkreading.com/cyber-risk/ransomware-gang-full-godfather-cartel)
 <!-- DARKREADING:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
