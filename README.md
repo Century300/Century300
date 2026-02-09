@@ -77,7 +77,7 @@
 
 <!-- DARKREADING:START -->
 - [&#39;Encrypt It Already&#39; Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
-- [Shai-hulud: The Hidden Cost of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
+- [Shai-hulud: The Hidden Costs of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw&#39;s Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
 - [EnCase Driver Weaponized as EDR Killers Persist](https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist)
 - [Agentic AI Site &#39;Moltbook&#39; Is Riddled With Security Risks](https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks)
