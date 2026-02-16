@@ -1,4 +1,4 @@
-name: Latest Hacker News
+name: Latest The Hacker News
 
 on:
   schedule:
