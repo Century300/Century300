@@ -2,7 +2,7 @@ name: Latest blog posts from nd-cyber.com
 
 on:
   schedule:
-    - cron: "10 13 * * *"  # daily at 13:10 UTC (staggered)
+    - cron: "10 0 * * *"  # daily at 00:10 UTC (staggered after YouTube at 00:00)
   workflow_dispatch:
 
 permissions:
@@ -17,7 +17,8 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Update README
-        uses: gautamkrishnar/blog-post-workflow@v1.9.0
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
+          comment_tag_name: "BLOG-POST-LIST"
           feed_list: "https://nd-cyber.com/feed"
           max_post_count: 5
