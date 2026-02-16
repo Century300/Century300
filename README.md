@@ -106,30 +106,20 @@
 ---
 ### 📺 Latest YouTube Videos
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=-UTHUouiSVQ"><img width="140px" src="https://img.youtube.com/vi/-UTHUouiSVQ/hqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=-UTHUouiSVQ"><img width="140px" src="https://img.youtube.com/vi/-UTHUouiSVQ/hqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=-UTHUouiSVQ">Plex media server unable to connect? Fix by configuring firewall UFW</a><br/>
 
+<a href="https://www.youtube.com/watch?v=dQu735Nmp14"><img width="140px" src="https://img.youtube.com/vi/dQu735Nmp14/hqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=dQu735Nmp14">how to contact YouTube support in 2021, lost access to YouTube channel</a><br/>
 
-<td><a href="https://www.youtube.com/watch?v=-UTHUouiSVQ">Plex media server unable to connect? Fix by configuring firewall UFW</a><br/>Oct 7, 2021</td></tr></table>
+<a href="https://www.youtube.com/watch?v=fKoa-SPk9FM"><img width="140px" src="https://img.youtube.com/vi/fKoa-SPk9FM/hqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=fKoa-SPk9FM">Facebook was down today after whistleblower Frances Haugen aired</a><br/>
 
-<table><tr><td><a href="https://www.youtube.com/watch?v=dQu735Nmp14"><img width="140px" src="https://img.youtube.com/vi/dQu735Nmp14/hqdefault.jpg"></a></td>
+<a href="https://www.youtube.com/watch?v=7UwhtDtHgOc"><img width="140px" src="https://img.youtube.com/vi/7UwhtDtHgOc/hqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=7UwhtDtHgOc">how to fix VMware &amp; VirtualBox no internet connection in 1.5 minutes</a><br/>
 
-
-<td><a href="https://www.youtube.com/watch?v=dQu735Nmp14">how to contact YouTube support in 2021, lost access to YouTube channel</a><br/>Oct 6, 2021</td></tr></table>
-
-<table><tr><td><a href="https://www.youtube.com/watch?v=fKoa-SPk9FM"><img width="140px" src="https://img.youtube.com/vi/fKoa-SPk9FM/hqdefault.jpg"></a></td>
-
-
-<td><a href="https://www.youtube.com/watch?v=fKoa-SPk9FM">Facebook was down today after whistleblower Frances Haugen aired</a><br/>Oct 4, 2021</td></tr></table>
-
-<table><tr><td><a href="https://www.youtube.com/watch?v=7UwhtDtHgOc"><img width="140px" src="https://img.youtube.com/vi/7UwhtDtHgOc/hqdefault.jpg"></a></td>
-
-
-<td><a href="https://www.youtube.com/watch?v=7UwhtDtHgOc">how to fix VMware &amp; VirtualBox no internet connection in 1.5 minutes</a><br/>Oct 4, 2021</td></tr></table>
-
-<table><tr><td><a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE"><img width="140px" src="https://img.youtube.com/vi/Wq8ZsjbbypE/hqdefault.jpg"></a></td>
-
-
-<td><a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE">25 Minutes Music: Relaxing Guitar with Pomodoro timer &amp; bell in HD view</a><br/>Oct 2, 2021</td></tr></table>
+<a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE"><img width="140px" src="https://img.youtube.com/vi/Wq8ZsjbbypE/hqdefault.jpg"></a>
+<a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE">25 Minutes Music: Relaxing Guitar with Pomodoro timer &amp; bell in HD view</a><br/>
 
 <!-- YOUTUBE:END -->
 
