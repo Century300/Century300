@@ -75,7 +75,7 @@
 ---
 ### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
 
-<!-- DARKREADING:START -->
+<!-- THEHACKERNEWS:START -->
 - [&#39;Encrypt It Already&#39; Campaign Pushes Big Tech to Prioritize E2E Encryption](https://www.darkreading.com/cloud-security/encrypt-it-already-pushes-big-tech-e2e-encryption)
 - [Shai-hulud: The Hidden Costs of Supply Chain Attacks](https://www.darkreading.com/application-security/shai-hulud-hidden-cost-supply-chain-attacks)
 - [OpenClaw&#39;s Gregarious Insecurities Make Safe Usage Difficult](https://www.darkreading.com/application-security/openclaw-insecurities-safe-usage-difficult)
@@ -84,9 +84,22 @@
 - [Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful](https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful)
 - [Cyber Success Trifecta: Education, Certifications &amp;amp; Experience](https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience)
 - [Protests Don&#39;t Impede Iranian Spying on Expats, Syrians, Israelis](https://www.darkreading.com/cyberattacks-data-breaches/iran-spies-expats-syrians-israelis)
-<!-- DARKREADING:END -->
+<!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.darkreading.com/)
+
+---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Creating a professional GitHub Profile using Markdown](https://nd-cyber.com/creating-a-professional-github-profile-using-markdown)
+- [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
+- [oh-my-zsh &amp; powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
+- [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
+- [How to contact YouTube support in 2021, lost access to YouTube channel](https://nd-cyber.com/how-to-contact-youtube-support-in-2021-lost-access-to-youtube-channel)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://nd-cyber.com/blog)
 
 ---
 ### 📺 Latest YouTube Videos
@@ -121,26 +134,9 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
 
 ---
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Creating a professional GitHub Profile using Markdown](https://nd-cyber.com/creating-a-professional-github-profile-using-markdown)
-- [Packages to install on TryHackMe.com machines](https://nd-cyber.com/packages-to-install-on-tryhackme-com-machines)
-- [oh-my-zsh &amp; powerlevel10k theme](https://nd-cyber.com/oh-my-zsh-powerlevel10k-theme)
-- [Plex media server unable to connect? Fix by configuring firewall UFW](https://nd-cyber.com/plex-media-server-unable-to-connect-fix-by-configuring-firewall-ufw)
-- [How to contact YouTube support in 2021, lost access to YouTube channel](https://nd-cyber.com/how-to-contact-youtube-support-in-2021-lost-access-to-youtube-channel)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://nd-cyber.com/blog)
-
----
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Century300&show_icons=true&theme=radical&count_private=true&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Century300&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 [website]: https://nd-cyber.com
-[twitter]: https://twitter.com/nd_cybersec
+[x]: https://X.com/nd_cybersec
 [facebook]: https://www.facebook.com/ndcyber
 [patreon]: https://www.patreon.com/NDcyber
 [github]: https://github.com/century300
