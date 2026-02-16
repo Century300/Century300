@@ -108,7 +108,7 @@
 
 <table>
 <!-- YOUTUBE:START --><tr>
-  <td width="1000" valign="top">
+  <td width="110" valign="top">
     <a href="https://www.youtube.com/watch?v=-UTHUouiSVQ">
       <img width="100" src="https://img.youtube.com/vi/-UTHUouiSVQ/hqdefault.jpg" />
     </a>
@@ -117,7 +117,7 @@
     <a href="https://www.youtube.com/watch?v=-UTHUouiSVQ">Plex media server unable to connect? Fix by configuring firewall UFW</a>
   </td>
 </tr><tr>
-  <td width="1000" valign="top">
+  <td width="110" valign="top">
     <a href="https://www.youtube.com/watch?v=dQu735Nmp14">
       <img width="100" src="https://img.youtube.com/vi/dQu735Nmp14/hqdefault.jpg" />
     </a>
@@ -126,7 +126,7 @@
     <a href="https://www.youtube.com/watch?v=dQu735Nmp14">how to contact YouTube support in 2021, lost access to YouTube channel</a>
   </td>
 </tr><tr>
-  <td width="1000" valign="top">
+  <td width="110" valign="top">
     <a href="https://www.youtube.com/watch?v=fKoa-SPk9FM">
       <img width="100" src="https://img.youtube.com/vi/fKoa-SPk9FM/hqdefault.jpg" />
     </a>
@@ -135,7 +135,7 @@
     <a href="https://www.youtube.com/watch?v=fKoa-SPk9FM">Facebook was down today after whistleblower Frances Haugen aired</a>
   </td>
 </tr><tr>
-  <td width="1000" valign="top">
+  <td width="110" valign="top">
     <a href="https://www.youtube.com/watch?v=7UwhtDtHgOc">
       <img width="100" src="https://img.youtube.com/vi/7UwhtDtHgOc/hqdefault.jpg" />
     </a>
@@ -144,7 +144,7 @@
     <a href="https://www.youtube.com/watch?v=7UwhtDtHgOc">how to fix VMware &amp; VirtualBox no internet connection in 1.5 minutes</a>
   </td>
 </tr><tr>
-  <td width="1000" valign="top">
+  <td width="110" valign="top">
     <a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE">
       <img width="100" src="https://img.youtube.com/vi/Wq8ZsjbbypE/hqdefault.jpg" />
     </a>
