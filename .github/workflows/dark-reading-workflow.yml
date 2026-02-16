@@ -2,7 +2,7 @@ name: Latest DarkReading.com news
 
 on:
   schedule:
-    - cron: "20 0 * * *"   # daily at 00:20 UTC
+    - cron: "20 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -22,3 +22,4 @@ jobs:
           comment_tag_name: "DARKREADING"
           max_post_count: 8
           feed_list: "https://www.darkreading.com/rss.xml"
+          disable_item_validation: true
