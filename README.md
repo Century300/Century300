@@ -73,7 +73,7 @@
 
 
 ---
-### 📰 Today Cybersecurity News from [DarkReading.com](https://DarkReading.com)
+### 📰 Today Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
@@ -83,7 +83,7 @@
 - [New ZeroDayRAT Mobile Spyware Enables Real-Time Surveillance and Data Theft](https://thehackernews.com/2026/02/new-zerodayrat-mobile-spyware-enables.html)
 <!-- THEHACKERNEWS:END -->
 
-➡️ [more news...](https://www.darkreading.com/)
+➡️ [more news...](https://www.TheHackerNews.com/)
 
 ---
 ### 📕 Latest Blog Posts
