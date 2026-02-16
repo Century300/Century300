@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts from nd-cyber.com
+    name: Update this repo's README with the latest blog posts from nd-cyber.com
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
