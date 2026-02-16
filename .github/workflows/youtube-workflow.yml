@@ -25,7 +25,7 @@ jobs:
           max_post_count: 5
           template: |
             <tr>
-              <td width="1000" valign="top">
+              <td width="110" valign="top">
                 <a href="$url">
                   <img width="100" src="https://img.youtube.com/vi/$videoId/hqdefault.jpg" />
                 </a>
