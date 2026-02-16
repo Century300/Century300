@@ -73,7 +73,7 @@
 
 
 ---
-### 📰 Today ({{DATE}}) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
+### 📰 Today (2026-02-16) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
