@@ -1,28 +1,41 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)
-![GitHub User's stars](https://img.shields.io/github/stars/century300?logo=github&style=for-the-badge)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/nd_cybersec?color=1da1f2&logo=Twitter&style=for-the-badge)
+![X Follow](https://img.shields.io/twitter/follow/nd_cybersec?label=X&color=000000&logo=x&logoColor=white&style=for-the-badge)
 
 ## I'm a Husband, YouTuber, and Pentester!
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="250" />
 
-- 🔭 I launched my YouTube blog recently: [ND Cyber Blog][youtube]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: reach top 1% in TryHackMe.com and grow my YouTube channel
-- ⚡ Fun fact: I love reading and travelling
+- 🔭 I launched my YouTube channel: [ND Cyber Blog][youtube]!
+- 🌱 I'm still learning every day 🤣
+- 👯 I'm looking to collaborate with other content creators
+- 🥅 2026 Goals: reach the top 1% in TryHackMe.com and Immersive Labs.
+- ⚡ Fun fact: I love reading and traveling
 
 
 ### Connect with me:
 
-[<img align="left" alt="nd-cyber.com" width="35px" src="https://www.svgrepo.com/show/46221/globe.svg" />][website]
-[<img align="left" alt="nd-cyber | Twitter" width="35px" src="https://www.svgrepo.com/show/157815/twitter.svg" />][twitter]
-[<img align="left" alt="nd-cyber | Facebook" width="35px" src="https://www.svgrepo.com/show/138943/facebook.svg" />][facebook]
-[<img align="left" alt="nd-cyber | Patreon" width="35px" src="https://www.svgrepo.com/show/331529/patreon-v2.svg" />][patreon]
-[<img align="left" alt="nd-cyber | GitHub" width="35px" src="https://www.svgrepo.com/show/217753/github.svg" />][github]
-[<img align="left" alt="nd-cyber | YouTube" width="35px" src="https://www.svgrepo.com/show/95009/youtube.svg" />][youtube]
+<p align="left">
+  <a href="https://nd-cyber.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/000000" width="30" alt="Website"/>
+  </a>
+  <a href="https://x.com/nd_cybersec" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/ndcyber" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" alt="Facebook"/>
+  </a>
+  <a href="https://www.patreon.com/NDcyber" target="_blank">
+    <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" alt="Patreon"/>
+  </a>
+  <a href="https://github.com/century300" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ" target="_blank">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" alt="YouTube"/>
+  </a>
+</p>
 
 <br />
 <br />
@@ -160,7 +173,7 @@
 ---
 
 [website]: https://nd-cyber.com
-[x]: https://X.com/nd_cybersec
+[x]: https://x.com/nd_cybersec
 [facebook]: https://www.facebook.com/ndcyber
 [patreon]: https://www.patreon.com/NDcyber
 [github]: https://github.com/century300
