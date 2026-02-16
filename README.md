@@ -106,6 +106,7 @@
 ---
 ### 📺 Latest YouTube Videos
 
+<table>
 <!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=-UTHUouiSVQ"><img width="140px" src="https://img.youtube.com/vi/-UTHUouiSVQ/hqdefault.jpg"></a>
 <a href="https://www.youtube.com/watch?v=-UTHUouiSVQ">Plex media server unable to connect? Fix by configuring firewall UFW</a><br/>
 
@@ -122,6 +123,7 @@
 <a href="https://www.youtube.com/watch?v=Wq8ZsjbbypE">25 Minutes Music: Relaxing Guitar with Pomodoro timer &amp; bell in HD view</a><br/>
 
 <!-- YOUTUBE:END -->
+</table>
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ/featured)
 
