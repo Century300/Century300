@@ -1,8 +1,33 @@
+# name: Latest The Hacker News
+
+# on:
+#   schedule:
+#     - cron: "20 0 * * *"  # daily at 00:20 UTC (staggered)
+#   workflow_dispatch:
+
+# permissions:
+#   contents: write
+
+# jobs:
+#   update-readme-with-thn:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Checkout
+#         uses: actions/checkout@v4
+
+#       - name: Update README with THN feed (no commit)
+#         uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           comment_tag_name: "THEHACKERNEWS"
+#           feed_list: "https://thehackernews.com/feeds/posts/default"
+#           max_post_count: 10
+#           commit_message: "Update THN news"
+
 name: Latest The Hacker News
 
 on:
   schedule:
-    - cron: "20 0 * * *"  # daily at 00:20 UTC (staggered)
+    - cron: "20 0 * * *"  # daily at 00:20 UTC
   workflow_dispatch:
 
 permissions:
@@ -10,15 +35,29 @@ permissions:
 
 jobs:
   update-readme-with-thn:
-    name: Update this repo's README with the latest items from The Hacker News
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Update README with THN feed
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "THEHACKERNEWS"
           feed_list: "https://thehackernews.com/feeds/posts/default"
           max_post_count: 10
+
+      - name: Set date in README (America/Chicago)
+        run: |
+          sudo timedatectl set-timezone America/Chicago
+          DATE="$(date '+%Y-%m-%d')"
+          # Replace whatever date is currently inside Today (...)
+          sed -i -E "s/Today \\([^)]*\\)/Today (${DATE})/g" README.md
+
+      - name: Commit date change (if any)
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          git commit -m "Update date in README" || echo "No changes to commit"
+          git push
