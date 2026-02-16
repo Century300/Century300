@@ -22,3 +22,34 @@ jobs:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVsmmOPP9L42oTOlpYtojGQ"
           max_post_count: 5
+
+
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 13 * * *"  # daily 13:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: true
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with the latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCVsmmOPP9L42oTOlpYtojGQ"
+          custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
+          date_format: "mmm d, yyyy"
+          template: '<table><tr><td><a href="$url"><img width="140px" src="https://img.youtube.com/vi/$videoId/hqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
+          max_post_count: 5
