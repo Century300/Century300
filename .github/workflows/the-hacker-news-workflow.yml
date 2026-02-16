@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   update-readme-with-thn:
-    name: Update this repo's README with latest items from The Hacker News
+    name: Update this repo's README with the latest items from The Hacker News
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -21,4 +21,4 @@ jobs:
         with:
           comment_tag_name: "THEHACKERNEWS"
           feed_list: "https://thehackernews.com/feeds/posts/default"
-          max_post_count: 5
+          max_post_count: 10
