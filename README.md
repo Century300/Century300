@@ -73,7 +73,7 @@
 
 
 ---
-### 📰 Today Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
+### 📰 Today ({{DATE}}) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
 - [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html)
@@ -117,7 +117,7 @@
 <td><a href="https://www.youtube.com/watch?v=dQu735Nmp14">how to contact YouTube support in 2021, lost access to YouTube channel</a><br/>Oct 6, 2021</td></tr></table>
 
 <table><tr><td><a href="https://www.youtube.com/watch?v=fKoa-SPk9FM"><img width="140px" src="https://img.youtube.com/vi/fKoa-SPk9FM/hqdefault.jpg"></a></td>
-
+bu
 
 <td><a href="https://www.youtube.com/watch?v=fKoa-SPk9FM">Facebook was down today after whistleblower Frances Haugen aired</a><br/>Oct 4, 2021</td></tr></table>
 
