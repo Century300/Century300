@@ -84,6 +84,40 @@
 ![SoapUI](https://img.shields.io/badge/SoapUI-fcdb00?style=flat-square&logo=data:image/jpg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABkAGQDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD1GSRxIfmNN81/71Ev+samV+Nyk7vU91JWH+a/96jzX/vUyilzPuOyH+a/96jzX/vUyijmfcLIf5r/AN6jzX/vUyijmfcLIf5r/wB6jzX/AL1Moo5n3CyH+a/96jzX/vUyijmfcLInjkfb97vRTI/u/jRUOTvuQ0hJf9Y1Mp8v+samVct2Wtgoorn/ABT4qt/DdrGBGbnUJ+Le2Xqx6ZOO2fz7Vrh8PUxFRU6Su2TOcYR5pG3c3NvZwNPdTxwQr1kkYKB+JrlLz4meG7aQxxTz3bj/AJ94iQfxOKo2Pgq/1+ddT8Y3ckrn5o7CNtqRj0OOn0H4muwtNO0rSVjhtbS0tN52oFVVLn27k16bo4DDvlm3Vl15dI/fZt/JWOfmrT1Vorz3OUHxU0cH99YalEv95ohj+dbuk+MdA1p1js9Rj85ukUv7tj9Aev4VszNEkTNOY1jH3jIQFH1zWDrHgjQdZQmWxSCZhlZ7YBG+vHB/EVKnltRWlCUPNPm/BpfmO1eOzT/A6GivO49S1vwBdRWusyPqOhSNsiuwCXh9j/gfwPavQYZormCOeCRZIpFDo6nIYHoRXNi8DLD2mmpQltJbP/J+RpSrKemzXQfRRRXCakkf3fxooj+7+NFQ9yWJL/rGplPl/1jUytJbspbBRRRSAKintba7GLm3hmH/TWMN/OpaKcZOLunYGk9yimi6TE26PS7JW9Rbrn+VXgAqhVACjoAMCiiqnUnP4m2JRS2QUUUVAwooooAkj+7+NFEf3fxoqHuSxzoC5PNN8se9FFVLdgtg8se9Hlj3oopDDyx70eWPeiigA8se9Hlj3oooAPLHvR5Y96KKADyx70eWPeiigCWOMbe/Wiiioe5LP/9k=)
 
 
+
+News to test:
+# 1) Nessus (often works better via vendor: Tenable)
+![nessus](https://img.shields.io/badge/nessus-f5f5f5?style=flat-square&logo=tenable&logoColor=black)
+# alt tries:
+![nessus](https://img.shields.io/badge/nessus-f5f5f5?style=flat-square&logo=nessus&logoColor=black)
+
+# 2) Nmap
+![NMAP](https://img.shields.io/badge/NMAP-2a0d45?style=flat-square&logo=nmap&logoColor=white)
+# alt tries:
+![NMAP](https://img.shields.io/badge/NMAP-2a0d45?style=flat-square&logo=linux&logoColor=white)
+
+# 3) WPScan
+![WPScan](https://img.shields.io/badge/WPScan-ffffff?style=flat-square&logo=wpscan&logoColor=black)
+# alt tries (if wpscan not supported):
+![WPScan](https://img.shields.io/badge/WPScan-ffffff?style=flat-square&logo=wordpress&logoColor=21759B)
+
+# 4) SpiderFoot
+![spiderfoot](https://img.shields.io/badge/spiderfoot-ffffff?style=flat-square&logo=spiderfoot&logoColor=black)
+# alt tries (if spiderfoot not supported):
+![spiderfoot](https://img.shields.io/badge/spiderfoot-ffffff?style=flat-square&logo=owasp&logoColor=black)
+
+# 5) Hashcat
+![hashcat](https://img.shields.io/badge/hashcat-ffffff?style=flat-square&logo=hashcat&logoColor=black)
+# alt tries:
+![hashcat](https://img.shields.io/badge/hashcat-ffffff?style=flat-square&logo=gnometerminal&logoColor=black)
+
+# 6) SoapUI (often works better via vendor: SmartBear)
+![SoapUI](https://img.shields.io/badge/SoapUI-fcdb00?style=flat-square&logo=smartbear&logoColor=black)
+# alt tries:
+![SoapUI](https://img.shields.io/badge/SoapUI-fcdb00?style=flat-square&logo=soapui&logoColor=black)
+
+
+
 ---
 ### 📰 Today (2026-02-16) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
