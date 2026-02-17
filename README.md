@@ -33,7 +33,7 @@
 </p>
 
 ## ⚡ Tech Stack
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-f8f8f8?style=for-the-badge&logo=metasploit&logoColor=black)
 ![OWASP](https://img.shields.io/badge/OWASP-f3f4f6?style=for-the-badge&logo=owasp&logoColor=black)
 ![OWASP ZAP](https://img.shields.io/badge/ZAP-f7f7f7?style=flat-square&logo=zaproxy&logoColor=black)
