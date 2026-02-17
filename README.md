@@ -13,7 +13,6 @@
 - 🥅 2026 Goals: reach the top 1% in TryHackMe.com and Immersive Labs.
 - ⚡ Fun fact: I love reading and traveling
 
-
 ### Connect with me:
 <p align="left">
   <a href="https://nd-cyber.com">
@@ -58,6 +57,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-grey?style=flat-square&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-ef931d?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-F5F5F5?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-F5F5F5?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VSC-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
