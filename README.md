@@ -7,7 +7,7 @@
 ## I'm a Husband, YouTuber, and Pentester!
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="250" />
 
-- 🔭 I launched my YouTube channel: [ND Cyber Blog][youtube]!
+- 🔭 My YouTube channel: [ND Cyber Blog][youtube]!
 - 🌱 I'm still learning every day 🤣
 - 👯 I'm looking to collaborate with other content creators
 - 🥅 2026 Goals: reach the top 1% in TryHackMe.com and Immersive Labs.
