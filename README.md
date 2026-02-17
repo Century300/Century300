@@ -2,7 +2,7 @@
 
 ![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)
-[![X](https://img.shields.io/badge/-442-111111?logo=x&logoColor=white&style=for-the-badge)](https://x.com/nd_cybersec)
+[![X](https://img.shields.io/badge/-%20442-2563EB?labelColor=2F2F2F&logo=x&logoColor=white&style=for-the-badge)](https://x.com/nd_cybersec)
 
 ## I'm a Husband, YouTuber, and Pentester!
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="250" />
