@@ -35,8 +35,6 @@
   </a>
 </p>
 
-<br />
-
 ## ⚡ Tech Stack
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-black?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-f8f8f8?style=for-the-badge&logo=metasploit&logoColor=black)
