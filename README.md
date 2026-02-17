@@ -17,18 +17,22 @@
 ### Connect with me:
 <p align="left">
   <a href="https://nd-cyber.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/000000" width="30" alt="Website" #gh-light-mode-only />
-    <img src="https://cdn.simpleicons.org/googlechrome/white" width="30" alt="Website" #gh-dark-mode-only />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="30" alt="Website"/>
   </a>
-
   <a href="https://x.com/nd_cybersec">
-    <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X" #gh-light-mode-only />
-    <img src="https://cdn.simpleicons.org/x/white" width="30" alt="X" #gh-dark-mode-only />
+    <img src="https://cdn.simpleicons.org/x/000000" width="30" alt="X"/>
   </a>
-
+  <a href="https://www.facebook.com/ndcyber">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" alt="Facebook"/>
+  </a>
+  <a href="https://www.patreon.com/NDcyber">
+    <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" alt="Patreon"/>
+  </a>
   <a href="https://github.com/century300">
-    <img src="https://cdn.simpleicons.org/github/000000" width="30" alt="GitHub" #gh-light-mode-only />
-    <img src="https://cdn.simpleicons.org/github/white" width="30" alt="GitHub" #gh-dark-mode-only />
+    <img src="https://cdn.simpleicons.org/github/181717" width="30" alt="GitHub"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ">
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" alt="YouTube"/>
   </a>
 </p>
 
