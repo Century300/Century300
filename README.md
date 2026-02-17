@@ -19,13 +19,13 @@
     <img src="https://cdn.simpleicons.org/googlechrome/22C55E" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://x.com/nd_cybersec">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" style="margin-right:24px;" />
+    <img src="https://cdn.simpleicons.org/x/64748B" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://www.patreon.com/NDcyber">
     <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://github.com/century300">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" style="margin-right:24px;" />
+    <img src="https://cdn.simpleicons.org/github/64748B" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ">
     <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
