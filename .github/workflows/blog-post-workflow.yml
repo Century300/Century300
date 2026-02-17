@@ -2,7 +2,7 @@ name: Latest blog posts from nd-cyber.com
 
 on:
   schedule:
-    - cron: "10 0 * * *"  # daily at 00:10 UTC (staggered after YouTube at 00:00)
+    - cron: "11 6 * * *"  # (staggered)
   workflow_dispatch:
 
 permissions:
