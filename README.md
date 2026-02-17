@@ -45,7 +45,7 @@
 ![hashcat](https://img.shields.io/badge/hashcat-beige?style=flat-square&logo=hashcat&logoColor=blue)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-grey?style=flat-square&logo=androidstudio)
 ![BASH](https://img.shields.io/badge/BASH-white?style=flat-square&logo=gnubash&logoColor=black)
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-beige?style=for-the-badge&logo=python&logoColor=blue)
 ![Markdown](https://img.shields.io/badge/Markdown-grey?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=flat-square&logo=javascript&logoColor=F7DF1E)
