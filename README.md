@@ -21,9 +21,6 @@
   <a href="https://x.com/nd_cybersec">
     <img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" style="margin-right:24px;" />
   </a>
-  <a href="https://www.facebook.com/ndcyber">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" style="margin-right:24px;" />
-  </a>
   <a href="https://www.patreon.com/NDcyber">
     <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" style="margin-right:24px;" />
   </a>
