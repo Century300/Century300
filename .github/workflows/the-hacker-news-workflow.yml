@@ -1,33 +1,8 @@
-# name: Latest The Hacker News
-
-# on:
-#   schedule:
-#     - cron: "20 0 * * *"  # daily at 00:20 UTC (staggered)
-#   workflow_dispatch:
-
-# permissions:
-#   contents: write
-
-# jobs:
-#   update-readme-with-thn:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout
-#         uses: actions/checkout@v4
-
-#       - name: Update README with THN feed (no commit)
-#         uses: gautamkrishnar/blog-post-workflow@master
-#         with:
-#           comment_tag_name: "THEHACKERNEWS"
-#           feed_list: "https://thehackernews.com/feeds/posts/default"
-#           max_post_count: 10
-#           commit_message: "Update THN news"
-
 name: Latest The Hacker News
 
 on:
   schedule:
-    - cron: "20 0 * * *"  # daily at 00:20 UTC
+    - cron: "1 6 * * *"   # 12:01 AM CT (CST = UTC-6)
   workflow_dispatch:
 
 permissions:
