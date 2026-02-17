@@ -17,22 +17,22 @@
 ### Connect with me:
 <p align="left">
   <a href="https://nd-cyber.com">
-    <img src="https://cdn.simpleicons.org/googlechrome/22C55E" width="30" alt="Website" style="margin-right:14px;" />
+    <img src="https://cdn.simpleicons.org/googlechrome/22C55E" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://x.com/nd_cybersec">
-    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" alt="X" style="margin-right:14px;" />
+    <img src="https://cdn.simpleicons.org/x/FFFFFF" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://www.facebook.com/ndcyber">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" alt="Facebook" style="margin-right:14px;" />
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://www.patreon.com/NDcyber">
-    <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" alt="Patreon" style="margin-right:14px;" />
+    <img src="https://cdn.simpleicons.org/patreon/FF424D" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://github.com/century300">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" alt="GitHub" style="margin-right:14px;" />
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="30" style="margin-right:24px;" />
   </a>
   <a href="https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" alt="YouTube" />
+    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" />
   </a>
 </p>
 
