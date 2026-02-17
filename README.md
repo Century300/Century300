@@ -1,8 +1,9 @@
 ### Hi there, I'm Nam - aka Century300 - [nd-cyber.com][website] <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)
+[![My Website](https://img.shields.io/website?label=nd-cyber.com&logo=globe&style=for-the-badge&url=https%3A%2F%2Fnd-cyber.com)](https://nd-cyber.com)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVsmmOPP9L42oTOlpYtojGQ?logo=youtube&style=for-the-badge)](https://www.youtube.com/channel/UCVsmmOPP9L42oTOlpYtojGQ)
 [![X](https://img.shields.io/badge/-442-2563EB?labelColor=555555&logo=x&logoColor=white&style=for-the-badge)](https://x.com/nd_cybersec)
+
 
 ## I'm a Husband, YouTuber, and Pentester!
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/67885281/148101907-25ca9cb2-af05-4dbd-85ad-3633bdd04027.gif" width="400" height="250" />
