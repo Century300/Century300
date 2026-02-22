@@ -82,16 +82,16 @@
 ### 📰 Today (2026-02-21) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
+- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
+- [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
+- [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
 - [BeyondTrust Flaw Used for Web Shells, Backdoors, and Data Exfiltration](https://thehackernews.com/2026/02/beyondtrust-flaw-used-for-web-shells.html)
 - [Cline CLI 2.3.0 Supply Chain Attack Installed OpenClaw on Developer Systems](https://thehackernews.com/2026/02/cline-cli-230-supply-chain-attack.html)
 - [ClickFix Campaign Abuses Compromised Sites to Deploy MIMICRAT Malware](https://thehackernews.com/2026/02/clickfix-campaign-abuses-compromised.html)
 - [Identity Cyber Scores: The New Metric Shaping Cyber Insurance in 2026](https://thehackernews.com/2026/02/identity-cyber-scores-new-metric.html)
 - [Ukrainian National Sentenced to 5 Years in North Korea IT Worker Fraud Case](https://thehackernews.com/2026/02/ukrainian-national-sentenced-to-5-years.html)
 - [FBI Reports 1,900 ATM Jackpotting Incidents Since 2020, $20M Lost in 2025](https://thehackernews.com/2026/02/fbi-reports-1900-atm-jackpotting.html)
-- [Former Google Engineers Indicted Over Trade Secret Transfers to Iran](https://thehackernews.com/2026/02/three-former-google-engineers-indicted.html)
-- [PromptSpy Android Malware Abuses Gemini AI to Automate Recent-Apps Persistence](https://thehackernews.com/2026/02/promptspy-android-malware-abuses-google.html)
-- [INTERPOL Operation Red Card 2.0 Arrests 651 in African Cybercrime Crackdown](https://thehackernews.com/2026/02/interpol-operation-red-card-20-arrests.html)
-- [Microsoft Patches CVE-2026-26119 Privilege Escalation in Windows Admin Center](https://thehackernews.com/2026/02/microsoft-patches-cve-2026-26119.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
