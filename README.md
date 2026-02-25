@@ -82,16 +82,16 @@
 ### 📰 Today (2026-02-24) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
+- [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
+- [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
+- [Identity Prioritization isn&#39;t a Backlog Problem - It&#39;s a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
+- [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
+- [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
+- [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
 - [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
 - [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
 - [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp; More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
-- [How Exposed Endpoints Increase Risk Across LLM Infrastructure](https://thehackernews.com/2026/02/how-exposed-endpoints-increase-risk.html)
-- [Malicious npm Packages Harvest Crypto Keys, CI Secrets, and API Tokens](https://thehackernews.com/2026/02/malicious-npm-packages-harvest-crypto.html)
-- [MuddyWater Targets MENA Organizations with GhostFetch, CHAR, and HTTP_VIP](https://thehackernews.com/2026/02/muddywater-targets-mena-organizations.html)
-- [AI-Assisted Threat Actor Compromises 600+ FortiGate Devices in 55 Countries](https://thehackernews.com/2026/02/ai-assisted-threat-actor-compromises.html)
-- [Anthropic Launches Claude Code Security for AI-Powered Vulnerability Scanning](https://thehackernews.com/2026/02/anthropic-launches-claude-code-security.html)
-- [CISA Adds Two Actively Exploited Roundcube Flaws to KEV Catalog](https://thehackernews.com/2026/02/cisa-adds-two-actively-exploited.html)
-- [EC-Council Expands AI Certification Portfolio to Strengthen U.S. AI Workforce Readiness and Security](https://thehackernews.com/2026/02/ec-council-expands-ai-certification.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
