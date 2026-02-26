@@ -82,16 +82,16 @@
 ### 📰 Today (2026-02-25) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
+- [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
+- [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
+- [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
+- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
+- [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
+- [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
+- [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
+- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
 - [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
-- [RoguePilot Flaw in GitHub Codespaces Enabled Copilot to Leak GITHUB_TOKEN](https://thehackernews.com/2026/02/roguepilot-flaw-in-github-codespaces.html)
-- [UAC-0050 Targets European Financial Institution With Spoofed Domain and RMS Malware](https://thehackernews.com/2026/02/uac-0050-targets-european-financial.html)
-- [Identity Prioritization isn&#39;t a Backlog Problem - It&#39;s a Risk Math Problem](https://thehackernews.com/2026/02/identity-prioritization-isnt-backlog.html)
-- [Lazarus Group Uses Medusa Ransomware in Middle East and U.S. Healthcare Attacks](https://thehackernews.com/2026/02/lazarus-group-uses-medusa-ransomware-in.html)
-- [UnsolicitedBooker Targets Central Asian Telecoms With LuciDoor and MarsSnake Backdoors](https://thehackernews.com/2026/02/unsolicitedbooker-targets-central-asian.html)
-- [Anthropic Says Chinese AI Firms Used 16 Million Claude Queries to Copy Model](https://thehackernews.com/2026/02/anthropic-says-chinese-ai-firms-used-16.html)
-- [APT28 Targeted European Entities Using Webhook-Based Macro Malware](https://thehackernews.com/2026/02/apt28-targeted-european-entities-using.html)
-- [Wormable XMRig Campaign Uses BYOVD Exploit and Time-Based Logic Bomb](https://thehackernews.com/2026/02/wormable-xmrig-campaign-uses-byovd.html)
-- [⚡ Weekly Recap: Double-Tap Skimmers, PromptSpy AI, 30Tbps DDoS, Docker Malware &amp; More](https://thehackernews.com/2026/02/weekly-recap-double-tap-skimmers.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
