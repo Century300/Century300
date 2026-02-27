@@ -82,16 +82,16 @@
 ### 📰 Today (2026-02-26) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
+- [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
+- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp; 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
+- [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html)
+- [Microsoft Warns Developers of Fake Next.js Job Repos Delivering In-Memory Malware](https://thehackernews.com/2026/02/fake-nextjs-repos-target-developers.html)
+- [Malicious StripeApi NuGet Package Mimicked Official Library and Stole API Tokens](https://thehackernews.com/2026/02/malicious-stripeapi-nuget-package.html)
 - [Cisco SD-WAN Zero-Day CVE-2026-20127 Exploited Since 2023 for Admin Access](https://thehackernews.com/2026/02/cisco-sd-wan-zero-day-cve-2026-20127.html)
 - [Google Disrupts UNC2814 GRIDTIDE Campaign After 53 Breaches Across 42 Countries](https://thehackernews.com/2026/02/google-disrupts-unc2814-gridtide.html)
 - [Claude Code Flaws Allow Remote Code Execution and API Key Exfiltration](https://thehackernews.com/2026/02/claude-code-flaws-allow-remote-code.html)
 - [SLH Offers $500–$1,000 Per Call to Recruit Women for IT Help Desk Vishing Attacks](https://thehackernews.com/2026/02/slh-offers-5001000-per-call-to-recruit.html)
-- [Top 5 Ways Broken Triage Increases Business Risk Instead of Reducing It](https://thehackernews.com/2026/02/top-5-ways-broken-triage-increases.html)
-- [Malicious NuGet Packages Stole ASP.NET Data; npm Package Dropped Malware](https://thehackernews.com/2026/02/malicious-nuget-packages-stole-aspnet.html)
-- [Manual Processes Are Putting National Security at Risk](https://thehackernews.com/2026/02/manual-processes-are-putting-national.html)
-- [Defense Contractor Employee Jailed for Selling 8 Zero-Days to Russian Broker](https://thehackernews.com/2026/02/defense-contractor-employee-jailed-for.html)
-- [SolarWinds Patches 4 Critical Serv-U 15.5 Flaws Allowing Root Code Execution](https://thehackernews.com/2026/02/solarwinds-patches-4-critical-serv-u.html)
-- [CISA Confirms Active Exploitation of FileZen CVE-2026-25108 Vulnerability](https://thehackernews.com/2026/02/cisa-confirms-active-exploitation-of.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
