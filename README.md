@@ -82,6 +82,8 @@
 ### 📰 Today (2026-02-28) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html)
+- [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html)
 - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html)
 - [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html)
 - [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html)
@@ -90,8 +92,6 @@
 - [Trojanized Gaming Tools Spread Java-Based RAT via Browser and Chat Platforms](https://thehackernews.com/2026/02/trojanized-gaming-tools-spread-java.html)
 - [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html)
 - [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html)
-- [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html)
-- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit &amp; 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
