@@ -82,6 +82,8 @@
 ### 📰 Today (2026-03-07) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
+- [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 - [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 - [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
 - [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
@@ -90,8 +92,6 @@
 - [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
 - [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
 - [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
-- [Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders](https://thehackernews.com/2026/03/preparing-for-quantum-era-post-quantum.html)
-- [ThreatsDay Bulletin: DDR5 Bot Scalping, Samsung TV Tracking, Reddit Privacy Fine &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-redis-rce-ddr5-bot.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
