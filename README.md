@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-09) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
+- [UNC4899 Breached Crypto Firm After Developer AirDropped Trojanized File to Work Device](https://thehackernews.com/2026/03/unc4899-used-airdrop-file-transfer-and.html)
+- [⚡ Weekly Recap: Qualcomm 0-Day, iOS Exploit Chains, AirSnitch Attack &amp; Vibe-Coded Malware](https://thehackernews.com/2026/03/weekly-recap-qualcomm-0-day-ios-exploit.html)
+- [Can the Security Platform Finally Deliver for the Mid-Market?](https://thehackernews.com/2026/03/can-security-platform-finally-deliver.html)
+- [Chrome Extension Turns Malicious After Ownership Transfer, Enabling Code Injection and Data Theft](https://thehackernews.com/2026/03/chrome-extension-turns-malicious-after.html)
+- [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html)
 - [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html)
 - [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html)
-- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html)
-- [Iran-Linked MuddyWater Hackers Target U.S. Networks With New Dindoor Backdoor](https://thehackernews.com/2026/03/iran-linked-muddywater-hackers-target.html)
-- [China-Linked Hackers Use TernDoor, PeerTime, BruteEntry in South American Telecom Attacks](https://thehackernews.com/2026/03/china-linked-hackers-use-terndoor.html)
-- [Microsoft Reveals ClickFix Campaign Using Windows Terminal to Deploy Lumma Stealer](https://thehackernews.com/2026/03/microsoft-reveals-clickfix-campaign.html)
-- [Hikvision and Rockwell Automation CVSS 9.8 Flaws Added to CISA KEV Catalog](https://thehackernews.com/2026/03/hikvision-and-rockwell-automation-cvss.html)
-- [Cisco Confirms Active Exploitation of Two Catalyst SD-WAN Manager Vulnerabilities](https://thehackernews.com/2026/03/cisco-confirms-active-exploitation-of.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
