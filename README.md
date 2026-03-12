@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-11) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
+- [Researchers Trick Perplexity&#39;s Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html)
+- [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html)
+- [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html)
+- [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html)
+- [What Boards Must Demand in the Age of AI-Automated Exploitation](https://thehackernews.com/2026/03/what-boards-must-demand-in-age-of-ai.html)
+- [Microsoft Patches 84 Flaws in March Patch Tuesday, Including Two Public Zero-Days](https://thehackernews.com/2026/03/microsoft-patches-84-flaws-in-march.html)
+- [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html)
 - [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html)
 - [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html)
-- [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html)
-- [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html)
-- [New &quot;LeakyLooker&quot; Flaws in Google Looker Studio Could Enable Cross-Tenant SQL Queries](https://thehackernews.com/2026/03/new-leakylooker-flaws-in-google-looker.html)
-- [The Zero-Day Scramble is Avoidable: A Guide to Attack Surface Reduction](https://thehackernews.com/2026/03/the-zero-day-scramble-is-avoidable.html)
-- [APT28 Uses BEARDSHELL and COVENANT Malware to Spy on Ukrainian Military](https://thehackernews.com/2026/03/apt28-uses-beardshell-and-covenant.html)
-- [Threat Actors Mass-Scan Salesforce Experience Cloud via Modified AuraInspector Tool](https://thehackernews.com/2026/03/threat-actors-mass-scan-salesforce.html)
-- [CISA Flags SolarWinds, Ivanti, and Workspace One Vulnerabilities as Actively Exploited](https://thehackernews.com/2026/03/cisa-flags-solarwinds-ivanti-and.html)
-- [Malicious npm Package Posing as OpenClaw Installer Deploys RAT, Steals macOS Credentials](https://thehackernews.com/2026/03/malicious-npm-package-posing-as.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
