@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-13) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
+- [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
+- [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
+- [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
+- [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
+- [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
+- [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 - [Authorities Disrupt SocksEscort Proxy Botnet Exploiting 369,000 IPs Across 163 Countries](https://thehackernews.com/2026/03/authorities-disrupt-socksescort-proxy.html)
 - [Veeam Patches 7 Critical Backup &amp; Replication Flaws Allowing Remote Code Execution](https://thehackernews.com/2026/03/veeam-patches-7-critical-backup.html)
 - [Rust-Based VENON Malware Targets 33 Brazilian Banks with Credential-Stealing Overlays](https://thehackernews.com/2026/03/rust-based-venon-malware-targets-33.html)
-- [Hive0163 Uses AI-Assisted Slopoly Malware for Persistent Access in Ransomware Attacks](https://thehackernews.com/2026/03/hive0163-uses-ai-assisted-slopoly.html)
-- [How to Scale Phishing Detection in Your SOC: 3 Steps for CISOs](https://thehackernews.com/2026/03/how-to-scale-phishing-detection-in-your.html)
-- [ThreatsDay Bulletin: OAuth Trap, EDR Killer, Signal Phishing, Zombie ZIP, AI Platform Hack &amp; More](https://thehackernews.com/2026/03/threatsday-bulletin-oauth-trap-edr.html)
-- [Attackers Don&#39;t Just Send Phishing Emails. They Weaponize Your SOC&#39;s Workload](https://thehackernews.com/2026/03/attackers-dont-just-send-phishing.html)
-- [Apple Issues Security Updates for Older iOS Devices Targeted by Coruna WebKit Exploit](https://thehackernews.com/2026/03/apple-issues-security-updates-for-older.html)
-- [Six Android Malware Families Target Pix Payments, Banking Apps, and Crypto Wallets](https://thehackernews.com/2026/03/six-android-malware-families-target-pix.html)
-- [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
