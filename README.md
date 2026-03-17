@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-16) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
+- [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
+- [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents &amp; More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
+- [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
+- [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
+- [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
 - [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
 - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
-- [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html)
-- [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html)
-- [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html)
-- [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html)
-- [Google Fixes Two Chrome Zero-Days Exploited in the Wild Affecting Skia and V8](https://thehackernews.com/2026/03/google-fixes-two-chrome-zero-days.html)
-- [Nine CrackArmor Flaws in Linux AppArmor Enable Root Escalation, Bypass Container Isolation](https://thehackernews.com/2026/03/nine-crackarmor-flaws-in-linux-apparmor.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
