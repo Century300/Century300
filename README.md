@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-17) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Critical Unpatched Telnetd Flaw &lpar;CVE-2026-32746&rpar; Enables Unauthenticated Root RCE via Port 23](https://thehackernews.com/2026/03/critical-telnetd-flaw-cve-2026-32746.html)
+- [AI Flaws in Amazon Bedrock, LangSmith, and SGLang Enable Data Exfiltration and RCE](https://thehackernews.com/2026/03/ai-flaws-in-amazon-bedrock-langsmith.html)
+- [LeakNet Ransomware Uses ClickFix via Hacked Sites, Deploys Deno In-Memory Loader](https://thehackernews.com/2026/03/leaknet-ransomware-uses-clickfix-via.html)
+- [AI is Everywhere, But CISOs are Still Securing It with Yesterday&#39;s Skills and Tools, Study Finds](https://thehackernews.com/2026/03/ai-is-everywhere-but-cisos-are-still.html)
+- [Konni Deploys EndRAT Through Phishing, Uses KakaoTalk to Propagate Malware](https://thehackernews.com/2026/03/konni-deploys-endrat-through-spear.html)
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html)
 - [GlassWorm Attack Uses Stolen GitHub Tokens to Force-Push Malware Into Python Repos](https://thehackernews.com/2026/03/glassworm-attack-uses-stolen-github.html)
 - [⚡ Weekly Recap: Chrome 0-Days, Router Botnets, AWS Breach, Rogue AI Agents &amp; More](https://thehackernews.com/2026/03/weekly-recap-chrome-0-days-router.html)
 - [Why Security Validation Is Becoming Agentic](https://thehackernews.com/2026/03/why-security-validation-is-becoming.html)
 - [ClickFix Campaigns Spread MacSync macOS Infostealer via Fake AI Tool Installers](https://thehackernews.com/2026/03/clickfix-campaigns-spread-macsync-macos.html)
-- [DRILLAPP Backdoor Targets Ukraine, Abuses Microsoft Edge Debugging for Stealth Espionage](https://thehackernews.com/2026/03/drillapp-backdoor-targets-ukraine.html)
-- [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html)
-- [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html)
-- [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html)
-- [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
