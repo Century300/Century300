@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-24) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [TeamPCP Backdoors LiteLLM Versions 1.82.7–1.82.8 via Trivy CI/CD Compromise](https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html)
+- [Tax Search Ads Deliver ScreenConnect Malware Using Huawei Driver to Disable EDR](https://thehackernews.com/2026/03/tax-search-ads-deliver-screenconnect.html)
+- [5 Learnings from the First-Ever Gartner Market Guide for Guardian Agents](https://thehackernews.com/2026/03/5-learnings-from-first-ever-gartner.html)
+- [Hackers Use Fake Resumes to Steal Enterprise Credentials and Deploy Crypto Miner](https://thehackernews.com/2026/03/hackers-use-fake-resumes-to-steal.html)
+- [The Hidden Cost of Cybersecurity Specialization: Losing Foundational Skills](https://thehackernews.com/2026/03/the-hidden-cost-of-cybersecurity.html)
+- [Ghost Campaign Uses 7 npm Packages to Steal Crypto Wallets and Credentials](https://thehackernews.com/2026/03/ghost-campaign-uses-7-npm-packages-to.html)
+- [TeamPCP Hacks Checkmarx GitHub Actions Using Stolen CI Credentials](https://thehackernews.com/2026/03/teampcp-hacks-checkmarx-github-actions.html)
+- [U.S. Sentences Russian Hacker to 6.75 Years for Role in $9M Ransomware Damage](https://thehackernews.com/2026/03/us-sentences-russian-hacker-to-675.html)
+- [Citrix Urges Patching Critical NetScaler Flaw Allowing Unauthenticated Data Leaks](https://thehackernews.com/2026/03/citrix-urges-patching-critical.html)
 - [North Korean Hackers Abuse VS Code Auto-Run Tasks to Deploy StoatWaffle Malware](https://thehackernews.com/2026/03/north-korean-hackers-abuse-vs-code-auto.html)
-- [⚡ Weekly Recap: CI/CD Backdoor, FBI Buys Location Data, WhatsApp Ditches Numbers &amp; More](https://thehackernews.com/2026/03/weekly-recap-cicd-backdoor-fbi-buys.html)
-- [We Found Eight Attack Vectors Inside AWS Bedrock. Here&#39;s What Attackers Can Do with Them](https://thehackernews.com/2026/03/we-found-eight-attack-vectors-inside.html)
-- [Microsoft Warns IRS Phishing Hits 29,000 Users, Deploys RMM Malware](https://thehackernews.com/2026/03/microsoft-warns-irs-phishing-hits-29000.html)
-- [Trivy Hack Spreads Infostealer via Docker, Triggers Worm and Kubernetes Wiper](https://thehackernews.com/2026/03/trivy-hack-spreads-infostealer-via.html)
-- [Hackers Exploit CVE-2025-32975 &lpar;CVSS 10.0&rpar; to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html)
-- [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html)
-- [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html)
-- [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html)
-- [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
