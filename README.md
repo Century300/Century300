@@ -82,16 +82,16 @@
 ### 📰 Today (2026-03-30) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
+- [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
+- [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
+- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
+- [3 SOC Process Fixes That Unlock Tier 1 Productivity](https://thehackernews.com/2026/03/3-soc-process-fixes-that-unlock-tier-1.html)
+- [Russian CTRL Toolkit Delivered via Malicious LNK Files Hijacks RDP via FRP Tunnels](https://thehackernews.com/2026/03/russian-ctrl-toolkit-delivered-via.html)
+- [The State of Secrets Sprawl 2026: 9 Takeaways for CISOs](https://thehackernews.com/2026/03/the-state-of-secrets-sprawl-2026-9.html)
+- [Three China-Linked Clusters Target Southeast Asian Government in 2025 Cyber Campaign](https://thehackernews.com/2026/03/three-china-linked-clusters-target.html)
 - [Iran-Linked Hackers Breach FBI Director’s Personal Email, Hit Stryker With Wiper Attack](https://thehackernews.com/2026/03/iran-linked-hackers-breach-fbi.html)
 - [Citrix NetScaler Under Active Recon for CVE-2026-3055 &lpar;CVSS 9.3&rpar; Memory Overread Bug](https://thehackernews.com/2026/03/citrix-netscaler-under-active-recon-for.html)
-- [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html)
-- [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html)
-- [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html)
-- [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html)
-- [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html)
-- [AitM Phishing Targets TikTok Business Accounts Using Cloudflare Turnstile Evasion](https://thehackernews.com/2026/03/aitm-phishing-targets-tiktok-business.html)
-- [We Are At War](https://thehackernews.com/2026/03/we-are-at-war.html)
-- [Bearlyfy Hits Russian Firms with Custom GenieLocker Ransomware](https://thehackernews.com/2026/03/bearlyfy-hits-70-russian-firms-with.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
