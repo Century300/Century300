@@ -82,16 +82,16 @@
 ### 📰 Today (2026-04-01) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html)
+- [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html)
+- [Block the Prompt, Not the Work: The End of &quot;Doctor No&quot;](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html)
+- [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html)
+- [New Chrome Zero-Day CVE-2026-5281 Under Active Exploitation — Patch Released](https://thehackernews.com/2026/04/new-chrome-zero-day-cve-2026-5281-under.html)
+- [3 Reasons Attackers Are Using Your Trusted Tools Against You &lpar;And Why You Don’t See It Coming&rpar;](https://thehackernews.com/2026/04/3-reasons-attackers-are-using-your.html)
+- [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html)
 - [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html)
 - [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html)
 - [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html)
-- [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html)
-- [The AI Arms Race – Why Unified Exposure Management Is Becoming a Boardroom Priority](https://thehackernews.com/2026/03/the-ai-arms-race-why-unified-exposure.html)
-- [Silver Fox Expands Asia Cyber Campaign with AtlasCross RAT and Fake Domains](https://thehackernews.com/2026/03/silver-fox-expands-asia-cyber-campaign.html)
-- [Axios Supply Chain Attack Pushes Cross-Platform RAT via Compromised npm Account](https://thehackernews.com/2026/03/axios-supply-chain-attack-pushes-cross.html)
-- [OpenAI Patches ChatGPT Data Exfiltration Flaw and Codex GitHub Token Vulnerability](https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html)
-- [DeepLoad Malware Uses ClickFix and WMI Persistence to Steal Browser Credentials](https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html)
-- [⚡ Weekly Recap: Telecom Sleeper Cells, LLM Jailbreaks, Apple Forces U.K. Age Checks and More](https://thehackernews.com/2026/03/weekly-recap-telecom-sleeper-cells-llm.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
