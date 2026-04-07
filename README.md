@@ -82,16 +82,16 @@
 ### 📰 Today (2026-04-06) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html)
+- [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html)
+- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html)
+- [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html)
+- [⚡ Weekly Recap: Axios Hack, Chrome 0-Day, Fortinet Exploits, Paragon Spyware and More](https://thehackernews.com/2026/04/weekly-recap-axios-hack-chrome-0-day.html)
+- [How LiteLLM Turned Developer Machines Into Credential Vaults for Attackers](https://thehackernews.com/2026/04/how-litellm-turned-developer-machines.html)
+- [Qilin and Warlock Ransomware Use Vulnerable Drivers to Disable 300+ EDR Tools](https://thehackernews.com/2026/04/qilin-and-warlock-ransomware-use.html)
 - [BKA Identifies REvil Leaders Behind 130 German Ransomware Attacks](https://thehackernews.com/2026/04/bka-identifies-revil-leaders-behind-130.html)
 - [$285 Million Drift Hack Traced to Six-Month DPRK Social Engineering Operation](https://thehackernews.com/2026/04/285-million-drift-hack-traced-to-six.html)
 - [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html)
-- [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html)
-- [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html)
-- [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html)
-- [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html)
-- [Why Third-Party Risk Is the Biggest Gap in Your Clients&#39; Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html)
-- [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html)
-- [Drift Loses $285 Million in Durable Nonce Social Engineering Attack Linked to DPRK](https://thehackernews.com/2026/04/drift-loses-285-million-in-durable.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
