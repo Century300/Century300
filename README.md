@@ -82,16 +82,16 @@
 ### 📰 Today (2026-04-30) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+- [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
+- [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+- [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
+- [New Linux &#39;Copy Fail&#39; Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 - [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 - [What to Look for in an Exposure Management Platform &lpar;And What Most of Them Get Wrong&rpar;](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
-- [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
-- [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
-- [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
-- [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
-- [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
