@@ -82,16 +82,16 @@
 ### 📰 Today (2026-05-06) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
+- [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
+- [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
+- [The Hacker News Launches &#39;Cybersecurity Stars Awards 2026&#39; — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
+- [Your AI Agents Are Already Inside the Perimeter. Do You Know What They&#39;re Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
+- [Google&#39;s Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
+- [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
 - [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
 - [Critical Apache HTTP/2 Flaw &lpar;CVE-2026-23918&rpar; Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
 - [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
-- [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
-- [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
-- [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
-- [We Scanned 1 Million Exposed AI Services. Here&#39;s How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
-- [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
-- [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
-- [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
