@@ -82,16 +82,16 @@
 ### 📰 Today (2026-05-08) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
+- [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
+- [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
+- [One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
+- [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
+- [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
+- [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 - [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 - [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
-- [One Click, Total Shutdown: The &quot;Patient Zero&quot; Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
-- [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
-- [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
-- [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
-- [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
-- [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
-- [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
