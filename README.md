@@ -82,16 +82,16 @@
 ### 📰 Today (2026-05-15) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
+- [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
+- [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
+- [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 - [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 - [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 - [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 - [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 - [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
 - [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
-- [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
-- [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
-- [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
-- [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
