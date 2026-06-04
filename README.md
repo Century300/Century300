@@ -82,16 +82,16 @@
 ### 📰 Today (2026-06-03) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html)
+- [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
+- [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
+- [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
+- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
+- [Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)
+- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis &lpar;CVE-2026-23479&rpar;](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
+- [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
+- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms &lpar;IVIP&rpar;](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
 - [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
-- [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy &amp; Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
-- [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
-- [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
-- [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
-- [Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation](https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html)
-- [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
-- [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
-- [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
-- [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
