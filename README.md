@@ -82,16 +82,16 @@
 ### 📰 Today (2026-06-08) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)
+- [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)
+- [Meta Blocks NSO Group&#39;s New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
+- [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
+- [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+- [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
+- [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
+- [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 - [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 - [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
-- [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
-- [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
-- [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
-- [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
-- [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
-- [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
-- [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
-- [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
