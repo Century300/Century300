@@ -82,16 +82,16 @@
 ### 📰 Today (2026-06-09) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html)
-- [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)
-- [Meta Blocks NSO Group&#39;s New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
-- [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
-- [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
-- [⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More](https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html)
-- [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
-- [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
-- [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
-- [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
+- [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
+- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+- [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+- [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
+- [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
+- [Veeam Backup &amp; Replication RCE Flaw Lets Domain Users Run Remote Code](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)
+- [Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)
+- [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
+- [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
+- [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
