@@ -82,16 +82,16 @@
 ### 📰 Today (2026-06-30) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
-- [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
-- [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
-- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
-- [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
-- [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
-- [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
-- [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
-- [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
-- [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
+- [Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware](https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html)
+- [Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls](https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html)
+- [Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts](https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html)
+- [Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery](https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html)
+- [Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service](https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html)
+- [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+- [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
+- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
+- [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
+- [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
