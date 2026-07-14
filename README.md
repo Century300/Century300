@@ -82,16 +82,16 @@
 ### 📰 Today (2026-07-13) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Microsoft Maps Year-Long ShinyHunters-Linked Salesforce Data Theft Across Three Paths](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
+- [CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
+- [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
+- [⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More](https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html)
+- [New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email](https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html)
+- [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+- [Meta Files Patent for AI That Can Listen All Day and Track How You&#39;re Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
 - [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
-- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
-- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
-- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
-- [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
-- [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
-- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
-- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
-- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can&#39;t Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
-- [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
