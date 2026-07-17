@@ -82,16 +82,16 @@
 ### 📰 Today (2026-07-16) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
-- [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
-- [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
-- [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
-- [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
-- [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
-- [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
-- [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
-- [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
-- [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
+- [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
+- [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
+- [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
+- [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
+- [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
+- [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
+- [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
+- [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
+- [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
+- [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
