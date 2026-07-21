@@ -82,16 +82,16 @@
 ### 📰 Today (2026-07-20) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [World&#39;s Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
-- [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
-- [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
-- [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
-- [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
-- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
-- [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
-- [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
-- [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
-- [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
+- [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
+- [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
+- [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
+- [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
+- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
+- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+- [Mythos Didn&#39;t Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
+- [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
+- [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
