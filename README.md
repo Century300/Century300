@@ -82,16 +82,16 @@
 ### 📰 Today (2026-07-22) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
+- [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
+- [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
+- [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
+- [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+- [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
+- [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
 - [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
 - [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
-- [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
-- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
-- [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
-- [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
-- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
-- [Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC](https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html)
-- [Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access](https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html)
-- [Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities](https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
