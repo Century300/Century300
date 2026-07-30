@@ -82,16 +82,16 @@
 ### 📰 Today (2026-07-29) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
-- [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
-- [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
-- [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
-- [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
-- [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
-- [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
-- [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
-- [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
-- [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
+- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+- [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+- [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+- [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
+- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
+- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
+- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
+- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
+- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
+- [Mythos Asks the Right Question. It Doesn&#39;t Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
