@@ -82,16 +82,16 @@
 ### 📰 Today (2026-08-05) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
-- [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
-- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
-- [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
-- [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
-- [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
-- [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
-- [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
-- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
-- [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
+- [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
+- [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
+- [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
+- [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
+- [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
+- [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
+- [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
+- [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+- [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
+- [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
