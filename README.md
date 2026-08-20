@@ -82,16 +82,16 @@
 ### 📰 Today (2026-08-19) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
-- [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
-- [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
-- [AI &quot;Mind Viruses&quot; Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
-- [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
-- [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
-- [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
-- [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
-- [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
-- [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
+- [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
+- [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html)
+- [OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior](https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html)
+- [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
+- [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
+- [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
+- [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
+- [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
+- [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)
+- [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
