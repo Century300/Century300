@@ -82,6 +82,8 @@
 ### 📰 Today (2026-08-29) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
+- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 - [Berlin Refuses to Pay Hackers Who Stole Data From the City&#39;s State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 - [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
 - [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
@@ -90,8 +92,6 @@
 - [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 - [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 - [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
-- [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
-- [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
