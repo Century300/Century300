@@ -82,16 +82,16 @@
 ### 📰 Today (2026-09-16) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution](https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html)
+- [Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers](https://thehackernews.com/2026/09/three-threat-groups-target-russian.html)
+- [One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude](https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html)
+- [Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories](https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html)
+- [Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can&#39;t Install Fix](https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html)
+- [N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security](https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html)
+- [Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation](https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html)
+- [Threat Intelligence Alone Won&#39;t Close the Exploitation Gap](https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html)
+- [Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks](https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html)
 - [Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells](https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html)
-- [Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens](https://thehackernews.com/2026/09/active-exploitation-attempts-target.html)
-- [KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens](https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html)
-- [Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists](https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html)
-- [BambooToken Malware Uses MQTT to Control Windows and Linux Systems](https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html)
-- [Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds](https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html)
-- [Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point](https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html)
-- [Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers](https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html)
-- [LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server](https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html)
-- [Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution](https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
