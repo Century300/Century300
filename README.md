@@ -82,16 +82,16 @@
 ### 📰 Today (2026-09-28) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI](https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html)
-- [Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent](https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html)
-- [JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources](https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html)
-- [CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally](https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html)
-- [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html)
-- [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html)
-- [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html)
-- [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html)
-- [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html)
-- [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html)
+- [Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation](https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html)
+- [Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials](https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html)
+- [OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions](https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html)
+- [OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot](https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html)
+- [Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks](https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html)
+- [Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks](https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html)
+- [IAM for AI agents: A Practical Enterprise Framework](https://thehackernews.com/2026/09/iam-for-ai-agent.html)
+- [Bitget Says Attacker Exploited Third-Party Security Product Flaw to Steal $388M](https://thehackernews.com/2026/09/bitget-says-attacker-exploited-third.html)
+- [RatHat Android Malware Console Uses Gemini to Identify Higher-Value Victims](https://thehackernews.com/2026/09/rathat-android-malware-console-uses.html)
+- [⚡ Weekly Recap: $387M Crypto Hack, Citrix Exploits, AI Agents Go Off-Script, and More Threats](https://thehackernews.com/2026/09/weekly-recap-387m-crypto-hack-citrix.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
