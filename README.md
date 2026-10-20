@@ -82,16 +82,16 @@
 ### 📰 Today (2026-10-19) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware](https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html)
+- [ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan](https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html)
+- [Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge](https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html)
+- [Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware](https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html)
+- [Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor](https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html)
+- [Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor](https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html)
+- [⚡ Weekly Recap: 98 Zero-Days, Rogue AI Agents, $100M Crypto Theft, 700 Supermarkets Hit and More](https://thehackernews.com/2026/10/weekly-recap-98-zero-days-rogue-ai.html)
+- [GhostAction Attackers Plant Credential Stealer Disguised as Font in 94 GitHub Repositories](https://thehackernews.com/2026/10/ghostaction-attackers-plant-credential.html)
+- [From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software](https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html)
 - [Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic](https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html)
-- [Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers](https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html)
-- [OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys](https://thehackernews.com/2026/10/opencode-console-breach-may-have.html)
-- [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html)
-- [MALFEX npm Package &#39;imgdecode&#39; Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html)
-- [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html)
-- [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html)
-- [Attackers Tampered with AOMEI Backupper&#39;s Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html)
-- [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html)
-- [OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract](https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
