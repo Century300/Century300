@@ -82,16 +82,16 @@
 ### 📰 Today (2026-11-08) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
+- [⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More](https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html)
+- [Default &#39;admin:admin&#39; Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars](https://thehackernews.com/2026/11/default-adminadmin-server-password.html)
+- [Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety](https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html)
+- [LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks](https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html)
+- [Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records](https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html)
+- [Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room](https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html)
+- [U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses](https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html)
+- [CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation](https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html)
 - [Claude Code&#39;s “Don&#39;t Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html)
 - [Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time](https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html)
-- [Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html)
-- [OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits](https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html)
-- [Microsoft Paint RCE Fix Now Available, but Windows Update Won&#39;t Deliver It](https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html)
-- [Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users&#39; Computers](https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html)
-- [The Flood is Coming And The Pipes Were Already Full](https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html)
-- [Chainalysis Breach Exposes All Users&#39; Credentials, Forces Shutdown of Key Services](https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html)
-- [Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs](https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html)
-- [Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login](https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
