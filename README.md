@@ -82,16 +82,16 @@
 ### 📰 Today (2026-11-12) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs](https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html)
+- [When an AI Agent Goes Wrong, Can You Stop It?](https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html)
+- [SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users](https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html)
+- [Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins](https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html)
+- [Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files](https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html)
+- [Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2](https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html)
 - [Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them](https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html)
-- [New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access](https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html)
-- [Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign](https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html)
-- [PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution](https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html)
-- [Critical Pre-Auth MongoDB Flaw &lpar;CVE-2026-118383&rpar; Can Crash Lagging Servers on Failover](https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html)
-- [Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections&#39; Data](https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html)
-- [Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories](https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html)
-- [Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely](https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html)
-- [ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients](https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html)
+- [ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories](https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html)
+- [New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access](https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html)
+- [Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry](https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html)
+- [Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass](https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
