@@ -82,16 +82,16 @@
 ### 📰 Today (2026-11-18) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years](https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html)
-- [AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor](https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html)
-- [Java4Shell Flaw &lpar;CVE-2026-114938&rpar; Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More](https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html)
-- [Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are](https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html)
-- [Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers](https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html)
-- [CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution](https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html)
-- [Attackers Compromise Microsoft&#39;s Agent Framework PyPI Package to Steal Cloud Credentials](https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html)
-- [Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization](https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html)
-- [Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses](https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html)
-- [Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE &lpar;CVE-2026-114938&rpar; Report Emerges](https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html)
+- [Everything Is a Web Application, Including Your Firewall](https://thehackernews.com/2026/11/everything-is-web-application-including.html)
+- [Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions](https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html)
+- [Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE](https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html)
+- [Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle](https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html)
+- [CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks](https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html)
+- [PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19](https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html)
+- [10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers](https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html)
+- [F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE](https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html)
+- [Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required](https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html)
+- [New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks](https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
