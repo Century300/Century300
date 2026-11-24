@@ -82,16 +82,16 @@
 ### 📰 Today (2026-11-23) Cybersecurity News from [TheHackerNews.com](https://TheHackerNews.com)
 
 <!-- THEHACKERNEWS:START -->
-- [⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble](https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html)
-- [Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions](https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html)
-- [Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning](https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html)
-- [N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation](https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html)
-- [Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE](https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html)
-- [Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices](https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html)
-- [AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms](https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html)
-- [OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms](https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html)
-- [Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps](https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html)
-- [A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats](https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html)
+- [VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation](https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html)
+- [Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site](https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html)
+- [Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap](https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html)
+- [Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity](https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html)
+- [2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk](https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html)
+- [Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets](https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html)
+- [WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login](https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html)
+- [OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching](https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html)
+- [Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day](https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html)
+- [Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access](https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html)
 <!-- THEHACKERNEWS:END -->
 
 ➡️ [more news...](https://www.TheHackerNews.com/)
